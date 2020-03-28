@@ -2,21 +2,19 @@
 layout: post
 title: Annulation des stages de Pâques
 tagline: "Nouvelles mesures du gouvernement."
-img: logo.png
+teaser: "Nouvelles mesures du gouvernement."
+img: 
 img-mobile: 
 css: 
 author: 
 category: 
 banner: 
 keywords: 
-tags : 
+tags: coronavirus, stages
 permalink: 
 menu: cfs
 
 ---
-Nouvelles mesures du gouvernement.
-
-<!--more-->
 
 Chers Parents, Grands-Parents,
 

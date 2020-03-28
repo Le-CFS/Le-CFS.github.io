@@ -2,6 +2,7 @@
 layout: post
 title: CORONAVIRUS
 tagline: "INFORMATION DERNIERE MINUTE – CORONAVIRUS"
+teaser: "Information de dernière minute."
 img: logo.png
 img-mobile: 
 css: 
@@ -9,15 +10,11 @@ author:
 category: 
 banner: 
 keywords: 
-tags : 
+tags: coronavirus
 permalink: 
 menu: cfs
 
 ---
-
-Information de dernière minute.
-
-<!--more-->
 
 Malheureusement, suite aux décisions prises par le gouvernement, nous sommes désolés de vous annoncer que toutes nos activités sont suspendues à partir de ce samedi 14/03 et ce jusqu’au vendredi 03/04 inclus.
 
