@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: CORONAVIRUS
 tagline: "INFORMATION DERNIERE MINUTE – CORONAVIRUS"
 img: logo.png
@@ -14,7 +14,7 @@ permalink:
 menu: cfs
 
 ---
-{% include JB/setup %}
+
 Information de dernière minute.
 
 <!--more-->

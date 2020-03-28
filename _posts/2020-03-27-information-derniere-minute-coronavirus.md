@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: Annulation des stages de Pâques
 tagline: "Nouvelles mesures du gouvernement."
 img: logo.png
@@ -14,7 +14,6 @@ permalink:
 menu: cfs
 
 ---
-{% include JB/setup %}
 Nouvelles mesures du gouvernement.
 
 <!--more-->
