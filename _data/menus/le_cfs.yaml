@@ -4,6 +4,9 @@ menu:
 
 docs:
 
+- title: "News"
+  url: /cfs/news/
+
 - title: "Réductions"
   url: /cfs/reductions/
 

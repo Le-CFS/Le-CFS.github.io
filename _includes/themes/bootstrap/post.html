@@ -1,0 +1,46 @@
+<div class="desktop col-md-3 text-right" style="float: right;">
+	<div class="fb-share-button" data-href="{{ BASE_PATH }}{{ page.url }}" data-layout="button_count">
+	</div>
+</div>
+
+<div class="mobile col-md-3" style="margin-bottom: 15px;">
+	<div class="fb-share-button" data-href="{{ BASE_PATH }}{{ page.url }}" data-layout="button_count">
+	</div>
+</div>
+
+<b>{{ page.teaser }}</b><br/>
+
+{% for tag in page.tags %}
+	<span class="badge badge-info" style="background-color: #4da5e2; border-color: #4da5e2">{{ tag }}</span>
+{% endfor %}
+
+<br/>
+
+{{ content }}
+
+<div class="row" style="margin-bottom:25px;">
+	<div class="mobile col-xs-12">
+		{% if page.previous.url %}
+		<a href="{{page.previous.url}}" class="btn btn-info-filled" style="margin-top: 15px; margin-left: 5%; color: #fff !important; width: 40%;"><i class="fa fa-arrow-circle-o-left icons"></i> Précédente</a>
+		{% endif %}
+		{% if page.next.url %}
+		<a href="{{page.next.url}}" class="btn btn-info-filled" style="margin-top: 15px; color: #fff !important; width: 40%; float: right; margin-right: 5%">Suivante <i class="fa fa-arrow-circle-o-right icons"></i></a>
+		{% endif %}
+	</div>
+	<div class="mobile col-xs-12">
+		<a href="/cfs/news" class="btn btn-info-filled" style="color: #fff !important; margin-left: 5%; margin-right: 5%; margin-top: 15px; width: 90%;">Retour aux news</a>
+	</div>
+	<div class="desktop col-md-4">
+		{% if page.previous.url %}
+		<a href="{{page.previous.url}}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;"><i class="fa fa-arrow-circle-o-left icons"></i> News précédente</a>
+		{% endif %}
+	</div>
+	<div class="desktop col-md-4" style="float: right;">
+		<a href="/cfs/news" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;">Retour aux news</a>
+	</div>
+	<div class="desktop col-md-4">
+		{% if page.next.url %}
+		<a href="{{page.next.url}}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;">News suivante <i class="fa fa-arrow-circle-o-right icons"></i></a>
+		{% endif %}
+	</div>
+</div>

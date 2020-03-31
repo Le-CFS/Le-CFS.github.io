@@ -1,0 +1,89 @@
+<div class="container">
+  <div class="team-members-tow mtb-50">
+    <div class="sub-title text-center">
+      <span>Dernières NEWS</span>
+    </div>
+    <div class="desktop">
+        <div class="row">
+          {% for post in site.posts limit:2 %}
+          <div class="col-md-6">
+
+            <div class="blog-block post-content-area" style="margin-bottom: 25px;">
+              {% if post.img %}   
+                <!-- #TODO -->
+              {% endif %}   
+              <div class="blog-post">
+                
+                <div class="row">
+                  <div class="col-md-12">
+                    <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+                    <p>{{ post.teaser }}</p>
+                  </div>
+                    {% if post.author %}
+                      <!-- #TODO -->
+                    {% endif %}
+                </div>
+                
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;">Continuer la lecture <i class="fa fa-arrow-circle-o-right icons"></i></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p class="text-right" style="padding-top: 25px;">{{ post.date | date: "%d/%m/%Y" }}</p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+            
+          </div>
+          {% endfor %}
+        </div>
+    </div>
+
+    <div class="mobile">  
+      <div class="row">
+        {% for post in site.posts limit:1 %}
+        <div class="col-md-6">
+
+          <div class="blog-block post-content-area" style="margin-bottom: 25px;">
+            {% if post.img %}   
+              <!-- #TODO -->
+            {% endif %}   
+            <div class="blog-post">
+              
+              <div class="row">
+                <div class="col-md-12">
+                  <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+                  <p>{{ post.teaser }}</p>
+                </div>
+                  {% if post.author %}
+                    <!-- #TODO -->
+                  {% endif %}
+              </div>
+              
+              <div class="row">
+                <div class="col-md-6">
+                  <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;">Continuer la lecture <i class="fa fa-arrow-circle-o-right icons"></i></a>
+                </div>
+                <div class="col-md-6">
+                  <p class="text-right" style="padding-top: 25px;">{{ post.date | date: "%d/%m/%Y" }}</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4 offset-md-4">
+        <a href="/cfs/news" class="btn btn-block btn-info-filled" style="color: #fff !important;">Toutes les news</a>
+      </div>
+    </div>
+
+  </div>
+</div>

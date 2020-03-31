@@ -32,8 +32,8 @@
 
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.tagline }}">
-    <meta property="og:image" content="{{ BASE_PATH }}/assets/img/big/{{ page.img }}">
-    <meta property="og:url" content="{{ BASE_PATH }}">
+    <meta property="og:image" content="{{ BASE_PATH }}{{ page.img }}">
+    <meta property="og:url" content="{{ BASE_PATH }}{{ page.url }}">
 
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
@@ -50,6 +50,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NK2VG53"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
+  
 
     <div class="wrapper">
       {% include themes/bootstrap/nav-bar.html %}
@@ -126,6 +127,15 @@
 
 
         <!-- JS includes -->
+
+        <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
 
         <script src="{{ BASE_PATH }}/assets/js/jquery.min.js"></script>
         <script src="{{ BASE_PATH }}/assets/js/jquery.nav.js"></script>

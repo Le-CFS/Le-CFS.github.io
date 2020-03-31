@@ -9,60 +9,34 @@ img-mobile :
 keywords: CFS
 ---
 
-  {% include accueil/slider.html %}
+{% include accueil/slider.html %}
 
-  <div class="mb-60"></div>
+<div class="mb-60"></div>
 
-{% comment %}
-  <div class="slogan-corona">
-  <b>INFORMATION DERNIERE MINUTE – CORONAVIRUS</b><br/><br/>
+{% include accueil/news.html %}
 
-Malheureusement, suite aux décisions prises par le gouvernement, nous sommes désolés de vous annoncer que toutes nos activités sont suspendues à partir de ce samedi 14/03 et ce jusqu’au vendredi 03/04 inclus.<br/>
+<div class="mb-60"></div>
 
-  	Nous vous tenons bien évidemment informé pour la suite dans les plus brefs délais.<br/>
+{% include accueil/selection.html %}
 
-	Concernant nos stages durant les vacances de Pâques, nous suivons de près l’évolution de la situation.  Nous vous invitons à maintenir vos inscriptions pour éviter un pic d’inscription de dernière minute le cas échéant.<br/>
+<div class="desktop mb-60"></div>
 
-	Nous vous remercions pour votre compréhension et vous souhaitons beaucoup d’entraide et une bonne santé !
-  </div>
-{% endcomment %}
+<div class="slogan">Le CFS, à votre service depuis 1981.</div>
 
-<div class="row">
-  <div class="col-md-8 offset-md-2">
-<div class="massage-box alert-danger">
-        <strong><i class="fa fa-exclamation-triangle"></i>
-            ANNULATION STAGES DE PÂQUES
-        </strong>
-        <p>Chers Parents, Grands-Parents,<br/>
-Conformément aux mesures prises par la ministre de la Jeunesse et des sports de la Fédération Wallonie-Bruxelles, nous sommes dans l’obligation d’annuler tous les stages CFS pendant les vacances de Pâques (les semaines du 06/04 au 10/04 et du 14/04 au 17/04/2020).<br/>
-Nous envoyons dès aujourd'hui un mail à tous les clients inscrits avec les modalités pratiques suite à cette annulation.<br/>
-Les inscriptions pour cet été restent ouvertes en <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1" style="color: blue;">cliquant ici</a> :)<br/>
-Prenez soin de vous et des autres.<br/>
-Salutations sportives,<br/>
-<b>L’équipe du CFS</b></p>
-</div>
-</div>
+<div class="desktop mb-60"></div>
+
+{% include accueil/une.html %}
+
+<div class="desktop">
+  <a href="/anniversaires">
+    <img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire">
+  </a>
 </div>
 
+<div class="mobile">
+  <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
+</div>
 
-  {% include accueil/selection.html %}
+{% include accueil/activites.html %}
 
-  <div class="desktop mb-60"></div>
-
-  <div class="slogan">Le CFS, à votre service depuis 1981.</div>
-
-  <div class="desktop mb-60"></div>
-
-  {% include accueil/une.html %}
-
-  <div class="desktop">
-    <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
-  </div>
-
-  <div class="mobile">
-    <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
-  </div>
-
-  {% include accueil/activites.html %}
-
-  {% include accueil/partenaires.html %}
+{% include accueil/partenaires.html %}
