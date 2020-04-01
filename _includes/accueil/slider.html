@@ -1,20 +1,41 @@
+{% assign slider = site.data.accueil.slider %}
+
 <div id="sliders">
   <div class="full-width">
     <div id="light-slider" class="carousel slide">
       <div id="carousel-area">
         <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+          {% if slider.autres[0].titre %}
           <ol class="carousel-indicators">
             <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
             <li data-target="#carousel-slider" data-slide-to="1"></li>
+            {% if slider.autres[1].titre %}
+            <li data-target="#carousel-slider" data-slide-to="2"></li>
+            {% endif %}
+            {% if slider.autres[2].titre %}
+            <li data-target="#carousel-slider" data-slide-to="3"></li>
+            {% endif %}
           </ol>
+          {% endif %}
           <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-              <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/stagesete.jpg" alt="stages d'été pour les enfants"></a>
+              <a href="{{ slider.active.href }}" target="_blank"><img src="{{ BASE_PATH }}{{slider.active.src}}" alt="{{ slider.active.titre }}"></a>
             </div>
+            {% if slider.autres[0].titre %}
             <div class="carousel-item">
-              <a href="https://www.facebook.com/CFSasbl/" target="_blank"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/confinement.jpg" alt="Défis pour les enfants"></a>
+              <a href="{{ slider.autres[0].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[0].src }}" alt="{{ slider.autres[0].titre }}"></a>
+            {% endif %}
+            {% if slider.autres[1].titre %}
+            <div class="carousel-item">
+              <a href="{{ slider.autres[1].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[1].src }}" alt="{{ slider.autres[1].titre }}"></a>
+            {% endif %}
+            {% if slider.autres[2].titre %}
+            <div class="carousel-item">
+              <a href="{{ slider.autres[2].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[2].src }}" alt="{{ slider.autres[2].titre }}"></a>
+            {% endif %}
             </div>
           </div>
+          {% if slider.autres[0].titre %}
           <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
             <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Précédent</span>
@@ -23,6 +44,7 @@
             <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Suivant</span>
           </a>
+          {% endif %}
         </div>
       </div>
     </div>
