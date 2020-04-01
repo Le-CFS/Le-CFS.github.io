@@ -29,14 +29,10 @@ keywords: CFS
 
 {% include accueil/une.html %}
 
-<div class="desktop">
+<div>
   <a href="/anniversaires">
-    <img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire">
+    <img src="{{ BASE_PATH }}{{ site.data.accueil.banner.src }}" alt="{{ site.data.accueil.banner.titre }}">
   </a>
-</div>
-
-<div class="mobile">
-  <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
 </div>
 
 {% include accueil/activites.html %}

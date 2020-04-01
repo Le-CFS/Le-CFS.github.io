@@ -73,6 +73,8 @@ selection:
       bouton: Inscription
       couleur_bouton: 
 
+slogan: Le CFS, à votre service depuis 1981.
+
 une:
   # Nom de la catégorie
   nom: "Stages à la Une"
@@ -131,7 +133,9 @@ une:
       lieu: "Brabant Wallon"
       age: 8-13 ans
 
-slogan: Le CFS, à votre service depuis 1981.
+banner:
+  src: /assets/images/slider/accueil/anniversaire.png
+  titre: Je réserve mon anniversaire
 
 activites:
   # Nom de la catégorie
