@@ -6,9 +6,8 @@
       <span>{{ bulles.nom }}</span>
     </div>
     <div class="row">
-      {% assign stage = site.data.stages.stages %}
+      {% assign stage = site.data.accueil.une.images %}
       {% for item in stage %}
-      {% if item.stage_une %}
       <div class="col-xs-6 col-md-3">
         <a data-toggle="modal" data-target="#{{item.name | replace: ' ', '_' | replace: '&', 'et' }}" style="margin-top: 15px; color: #fff !important;">
       <figure>
@@ -63,7 +62,6 @@
     </div>
   </div>
 </div>
-      {% endif %}
       {% endfor %}
     </div>
   </div>
