@@ -1,3 +1,18 @@
+# Boutons MyCFS et Inscription rapide
+mycfs:
+  href: https://www12.iclub.be/myiclub.asp?ClubID=559&LG=FR
+  icone: fa fa-sign-in
+  autre_page: oui
+  texte_ordi: Se connecter - My CFS
+  texte_mobile: My CFS
+
+inscription:
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1
+  icone: fa fa-edit
+  autre_page: oui
+  texte_ordi: Inscription rapide
+  texte_mobile: Inscription
+
 # Slider de la page d'accueil
 slider:
   # L'image sur laquelle on arrive quand on charge la page

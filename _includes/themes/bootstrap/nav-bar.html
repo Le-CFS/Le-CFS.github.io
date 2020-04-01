@@ -1,17 +1,19 @@
+{% assign mycfs = site.data.accueil.mycfs %}
+{% assign inscription = site.data.accueil.inscription %}
 <div class="desktop top-menu top-menu-inverse">
       <div class="row">
         <div class="col-md-4 offset-md-2">
-          <a href="https://www12.iclub.be/myiclub.asp?ClubID=559&LG=FR" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;" target="_blank"><i class="fa fa-sign-in"></i> Se connecter - My CFS</a>
+          <a href="{{ mycfs.href }}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;" {% if mycfs.autre_page %}target="_blank"{% endif %}><i class="{{ mycfs.icone }}"></i> {{ mycfs.texte_ordi }}</a>
         </div>
         <div class="col-md-4">
-          <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;" target="_blank"><i class="fa fa-edit"></i> Inscription rapide</a>
+          <a href="{{ inscription.href }}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;" {% if inscription.autre_page %}target="_blank"{% endif %}><i class="{{ inscription.icone }}"></i> {{ inscription.texte_ordi }}</a>
         </div>
       </div>
 </div>
 
 <div class="mobile top-menu top-menu-inverse">
-  <a href="https://www12.iclub.be/myiclub.asp?ClubID=559&LG=FR" class="btn btn-info-filled" style="margin-top: 15px; margin-left: 5%; color: #fff !important; width: 40%;" target="_blank"><i class="fa fa-sign-in"></i> My CFS</a>
-  <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Groupe=1" class="btn btn-info-filled" style="margin-top: 15px; color: #fff !important; width: 40%; float: right; margin-right: 5%" target="_blank"><i class="fa fa-edit"></i> Inscription</a>
+  <a href="{{ mycfs.href }}" class="btn btn-info-filled" style="margin-top: 15px; margin-left: 5%; color: #fff !important; width: 40%;" {% if mycfs.autre_page %}target="_blank"{% endif %}><i class="{{ mycfs.icone }}"></i> {{ mycfs.texte_mobile }}</a>
+  <a href="{{ inscription.href }}" class="btn btn-info-filled" style="margin-top: 15px; color: #fff !important; width: 40%; float: right; margin-right: 5%" {% if inscription.autre_page %}target="_blank"{% endif %}><i class="{{ inscription.icone }}"></i> {{ inscription.texte_mobile }}</a>
 </div>
 
 <!-- navbar-default -->
