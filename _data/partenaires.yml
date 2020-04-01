@@ -287,3 +287,11 @@ liste:
         online: oui
         bouton: Site Web
         couleur_bouton: 
+    -
+        name: "Ranch de gégé"
+        categorie: Partenaires pédagogiques
+        logo: /assets/images/partenaires/ranchgege.jpg
+        href: https://ranchdegege.be/
+        online: oui
+        bouton: Site Web
+        couleur_bouton: 

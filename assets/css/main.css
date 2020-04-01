@@ -3347,6 +3347,13 @@ ul.nav-tabs li a{
     font-style: bold;
     text-align: center;
 }
+.slogan-corona{
+    color: white;
+    background-color: #ec7160;
+    font-size: 20px;
+    padding: 20px;
+    font-style: bold;
+}
 .mobile{
     display: block;
 }

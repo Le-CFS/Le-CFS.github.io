@@ -9,26 +9,34 @@ img-mobile :
 keywords: CFS
 ---
 
-  {% include accueil/slider.html %}
+{% include accueil/slider.html %}
 
-  {% include accueil/selection.html %}
+<div class="mb-60"></div>
 
-  <div class=" desktop mb-60"></div>
+{% include accueil/news.html %}
 
-  <div class="slogan">Le CFS, à votre service depuis 1981.</div>
+<div class="mb-60"></div>
 
-  <div class="desktop mb-60"></div>
+{% include accueil/selection.html %}
 
-  {% include accueil/une.html %}
+<div class="desktop mb-60"></div>
 
-  <div class="desktop">
-    <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
-  </div>
+<div class="slogan">Le CFS, à votre service depuis 1981.</div>
 
-  <div class="mobile">
-    <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
-  </div>
+<div class="desktop mb-60"></div>
 
-  {% include accueil/activites.html %}
+{% include accueil/une.html %}
 
-  {% include accueil/partenaires.html %}
+<div class="desktop">
+  <a href="/anniversaires">
+    <img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire">
+  </a>
+</div>
+
+<div class="mobile">
+  <a href="/anniversaires"><img src="{{ BASE_PATH }}/assets/images/slider/accueil/anniversaire.png" alt="Je réserve mon anniversaire"></a>
+</div>
+
+{% include accueil/activites.html %}
+
+{% include accueil/partenaires.html %}
