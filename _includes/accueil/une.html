@@ -11,7 +11,7 @@
       <div class="col-xs-6 col-md-3">
         <a data-toggle="modal" data-target="#{{item.name | replace: ' ', '_' | replace: '&', 'et' }}" style="margin-top: 15px; color: #fff !important;">
       <figure>
-        <img src="/assets/images{{ item.img }}" alt="" style="border-radius: 5%;">
+        <img src="/assets/images{{ item.img }}" class="img-fluid" alt="" style="border-radius: 5%;">
         <div class="desktop image-overlay bulle3">
           <div class="overlay-text text-center">
             <div class="info-text">
@@ -30,7 +30,7 @@
     <div class="modal-content">
       <div class="card-2">
       <div class="image">
-        <img src="{{ BASE_PATH }}/assets/images{{ item.img }}">
+        <img src="{{ BASE_PATH }}/assets/images{{ item.img }}" class="img-fluid">
       </div>
       <div class="card-block">
         <h3 class="card-title">{{ item.name }}</h3>

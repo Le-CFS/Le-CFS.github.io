@@ -19,19 +19,19 @@
           {% endif %}
           <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-              <a href="{{ slider.active.href }}" target="_blank"><img src="{{ BASE_PATH }}{{slider.active.src}}" alt="{{ slider.active.titre }}"></a>
+              <a href="{{ slider.active.href }}" target="_blank"><img src="{{ BASE_PATH }}{{slider.active.src}}" class="img-fluid" alt="{{ slider.active.titre }}"></a>
             </div>
             {% if slider.autres[0].titre %}
             <div class="carousel-item">
-              <a href="{{ slider.autres[0].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[0].src }}" alt="{{ slider.autres[0].titre }}"></a>
+              <a href="{{ slider.autres[0].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[0].src }}" class="img-fluid" alt="{{ slider.autres[0].titre }}"></a>
             {% endif %}
             {% if slider.autres[1].titre %}
             <div class="carousel-item">
-              <a href="{{ slider.autres[1].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[1].src }}" alt="{{ slider.autres[1].titre }}"></a>
+              <a href="{{ slider.autres[1].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[1].src }}" class="img-fluid" alt="{{ slider.autres[1].titre }}"></a>
             {% endif %}
             {% if slider.autres[2].titre %}
             <div class="carousel-item">
-              <a href="{{ slider.autres[2].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[2].src }}" alt="{{ slider.autres[2].titre }}"></a>
+              <a href="{{ slider.autres[2].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[2].src }}" class="img-fluid" alt="{{ slider.autres[2].titre }}"></a>
             {% endif %}
             </div>
           </div>
