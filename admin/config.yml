@@ -1,0 +1,114 @@
+backend:
+  name: git-gateway
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "blog"
+    label: "News"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
+      - {label: "Featured Image", name: "featuredimage", widget: image}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/index.md"
+        label: "Landing Page"
+        name: "index"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Subheading, name: subheading, widget: string}
+          - {label: Mainpitch, name: mainpitch, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}]}
+          - {label: Description, name: description, widget: string}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
+      - file: "src/pages/about/index.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/products/index.md"
+        label: "Products Page"
+        name: "products"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
+          - {label: Full_image, name: full_image, widget: image}
+          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+  - name: "data"
+    label: "Data"
+    files: 
+      - file: "_data/stages.yml"
+        name: stages
+        label: "Liste des stages"  
+        fields:
+          - {label: Liste des stages, name: stages, widget: list, fields: [
+              {label: Nom, name: name, widget: string},
+              {label: Image, name: image, widget: image},
+              {label: Lieux de stage, name: lieux, widget: list, fields: [
+                {label: Ville, name: city, widget: select, options: ["Bruxelles", "Brabant Wallon", "Liège"]},
+                {label: Description, name: description, widget: markdown},
+                {label: Âge, name: age, widget: string},
+                {label: Informations complémentaires, name: infos, widget: string, required: false}
+              ]
+              },
+              {label: Catégorie, name: category, widget: select, options: [
+                {label: "Les petits bouts", value: "bouts"},
+                {label: "Découvertes sportives et culturelles", value: "decouvertes"},
+                {label: "Danse et Gymnastique", value: "danse"},
+                {label: "Activités sportives", value: "sportives"},
+                {label: "Activités Fun", value: "fun"},
+                {label: "Activités artistiques et culturelles", value: "artistiques"}
+              ]
+              },
+              {label: Stage à publier ?, name: online, widget: boolean, required: false},
+              {label: Nouveau stage ?, name: new, widget: boolean, required: false},
+              {label: Stage à mettre à la une ?, name: stage_une, widget: boolean, required: false}
+              ]
+            }
+      - file: "_data/centres_cfs.yml"
+        name: centres_cfs
+        label: "Liste des centres CFS"  
+        fields:
+          - {label: Liste des centres, name: centres, widget: list, fields: [
+            {label: Nom, name: name, widget: string},
+            {label: Image, name: image, widget: image, media_library: {config: {multiple: true} } },
+              {label: Adresse, name: adresse, widget: object, fields: [
+                {label: Rue et numéro, name: rue, widget: string},
+                {label: Code postal, name: code_postal, widget: number},
+                {label: Ville, name: ville, widget: string},
+                {label: Pays, name: pays, widget: string, required: false}
+                ]
+              },
+              {label: Carte, name: map, widget: map, required: false}
+              ]
+            }
