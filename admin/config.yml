@@ -17,15 +17,27 @@ collections:
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
-      - {label: "Featured Image", name: "featuredimage", widget: image}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+      - {label: "Banner", name: "banner", widget: image, required: false}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Infos complémentaires", name: "infos", widget: "objet", fields: [
+          {label: "Publier la news ?", name: "online", widget: "boolean", required: false},
+          {label: "Date", name: "date", widget: "datetime", required: false},
+          {label: "Teaser", name: "teaser", widget: "string", required: false}
+          ]
+        }
+      - {label: "Texte de la news", name: "content", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: string, required: false}
+      - {label: "Permalink si nécessaire", name: "permalink", widget: "string"}
+      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", fields: [
+          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "text"},
+          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          ]
+        }
 
   - name: "pages"
     label: "Pages"
