@@ -544,29 +544,29 @@ collections:
           ]
         }
 
-- name: "brochures"
-    label: "Brochures"
-    folder: "pages"
-    filter: {field: "category", value: "brochures"}
-    fields: 
-      - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
-      - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Banner", name: "banner", widget: image, required: false}
-      - {label: "Introduction", name: "content", widget: "markdown"}
-      - {label: "Brochures", name: "brochures", widget: "object", collapsed: true, fields: [
-          {label: Lieu, name: lieu, widget: list, fields: [
-            {label: "Nom", name: "name", widget: string},
-            {label: "Lien de FlowPaper", name: "link", widget: string}
+  - name: "brochures"
+      label: "Brochures"
+      folder: "pages"
+      filter: {field: "category", value: "brochures"}
+      fields: 
+        - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+        - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
+        - {label: "Titre", name: "title", widget: "string"}
+        - {label: "Banner", name: "banner", widget: image, required: false}
+        - {label: "Introduction", name: "content", widget: "markdown"}
+        - {label: "Brochures", name: "brochures", widget: "object", collapsed: true, fields: [
+            {label: Lieu, name: lieu, widget: list, fields: [
+              {label: "Nom", name: "name", widget: string},
+              {label: "Lien de FlowPaper", name: "link", widget: string}
+              ]
+            }
             ]
           }
-          ]
-        }
-      - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
-          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
-          ]
-        }
+        - {label: "Permalink", name: "permalink", widget: "string"}
+        - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+            {label: "Description", name: "og_description", widget: "text"},
+            {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+            {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+            {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+            ]
+          }
