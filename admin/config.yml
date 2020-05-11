@@ -38,36 +38,8 @@ collections:
           {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
-        
-  - name: "blog"
-    label: "News"
-    folder: "_posts"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: 
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Banner", name: "banner", widget: image, required: false}
-      - {label: "Infos complémentaires", name: "infos", widget: "object", collapsed: true, fields: [
-          {label: "Publier la news ?", name: "online", widget: "boolean", required: false},
-          {label: "Date", name: "date", widget: "datetime", required: false},
-          {label: "Teaser", name: "teaser", widget: "string", required: false}
-          ]
-        }
-      - {label: "Texte de la news", name: "content", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: string, required: false}
-      - {label: "Permalink si nécessaire", name: "permalink", widget: "string"}
-      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
-          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
-          ]
-        }
-
-  - name: "pages"
-    label: "Pages"
+  - name: "autres-pages"
+    label: "Autres pages"
     folder: "pages"
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
@@ -82,7 +54,9 @@ collections:
           {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
-
+        
+  - name: "pages"
+    label: "Pages"
     files:
       - file: "pages/stages_enfants/index.html"
         label: "Stages Enfants"
