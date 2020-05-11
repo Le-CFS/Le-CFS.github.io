@@ -55,8 +55,8 @@ collections:
           ]
         }
         
-  - name: "pages"
-    label: "Pages"
+  - name: "pages_speciales"
+    label: "Pages spéciales"
     files:
       - file: "pages/stages_enfants/index.html"
         label: "Stages Enfants"
@@ -156,6 +156,137 @@ collections:
               {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
+      - file: "index.html"
+        label: "Accueil"
+        name: "index"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: image, required: false}
+          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              ]
+            }
+      - file: "pages/activites_enfants/index.html"
+        label: "Activités enfants"
+        name: "index"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: image, required: false}
+          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              ]
+            }
+      - file: "pages/activites_enfants/ecole_de_natation.html"
+        label: "Ecole de Natation"
+        name: "index"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: image, required: false}
+          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              ]
+            }
+      - file: "pages/activites_enfants/cfs_academy.html"
+        label: "CFS Academy"
+        name: "index"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: image, required: false}
+          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              ]
+            }
+      - file: "pages/cours_adultes/index.html"
+        label: "Cours adultes"
+        name: "index"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: image, required: false}
+          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              ]
+            }
+      - file: "pages/anniversaires/index.html"
+        label: "Anniversaires"
+        name: "index"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: image, required: false}
+          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              ]
+            }
+      - file: "pages/events/index.html"
+        label: "Events"
+        name: "index"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: image, required: false}
+          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              ]
+            }
+      - file: "pages/contacts/index.html"
+        label: "Contacts"
+        name: "index"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: image, required: false}
+          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              ]
+            }
+
+
+
   - name: "data"
     label: "Data"
     files: 
@@ -194,19 +325,18 @@ collections:
           - {label: Liste des centres, name: centres, widget: list, fields: [
               {label: Nom, name: name, widget: string},
               {label: Image, name: image, widget: image},
-                {label: Adresse, name: adresse, widget: object, fields: [
-                  {label: Rue et numéro, name: rue, widget: string},
-                  {label: Code postal, name: code_postal, widget: number},
-                  {label: Ville, name: ville, widget: string},
-                  {label: Pays, name: pays, widget: string, required: false}
-                  ]
-                },
-                {label: Carte, name: map, widget: map, required: false}
+              {label: Adresse, name: adresse, widget: object, fields: [
+                {label: Rue et numéro, name: rue, widget: string},
+                {label: Code postal, name: code_postal, widget: number},
+                {label: Ville, name: ville, widget: string},
+                {label: Pays, name: pays, widget: string, required: false}
+                ]
+              },
+              {label: Carte, name: map, widget: map, required: false}
               ]
             }
   - name: "brochures"
     label: "Brochures"
-    allow_nesting: true
     folder: "pages"
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
@@ -214,7 +344,7 @@ collections:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Banner", name: "banner", widget: image, required: false}
       - {label: "Introduction", name: "content", widget: "markdown"}
-      - {label: "Brochures", name: "brochures", widget: "object", fields: [
+      - {label: "Brochures", name: "brochures", widget: "object", collapsed: true, fields: [
           {label: Lieu, name: lieu, widget: list, fields: [
             {label: "Nom", name: "name", widget: string},
             {label: "Lien de FlowPaper", name: "link", widget: string}
