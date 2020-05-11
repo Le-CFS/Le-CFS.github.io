@@ -44,7 +44,7 @@ collections:
     files:
       - file: "index.html"
         label: "Accueil"
-        name: "index"
+        name: "accueil"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
@@ -61,7 +61,7 @@ collections:
 
       - file: "pages/stages_enfants/index.html"
         label: "Stages Enfants"
-        name: "index"
+        name: "stages_enfants"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
@@ -160,7 +160,7 @@ collections:
       
       - file: "pages/activites_enfants/index.html"
         label: "Activités enfants"
-        name: "index"
+        name: "activites_enfants"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
@@ -176,7 +176,7 @@ collections:
             }
       - file: "pages/activites_enfants/ecole_de_natation.html"
         label: "Ecole de Natation"
-        name: "index"
+        name: "ecole_de_natation"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
@@ -192,7 +192,7 @@ collections:
             }
       - file: "pages/activites_enfants/cfs_academy.html"
         label: "CFS Academy"
-        name: "index"
+        name: "cfs_academy"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
@@ -208,7 +208,7 @@ collections:
             }
       - file: "pages/cours_adultes/index.html"
         label: "Cours adultes"
-        name: "index"
+        name: "cours_adultes"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
@@ -224,7 +224,7 @@ collections:
             }
       - file: "pages/anniversaires/index.html"
         label: "Anniversaires"
-        name: "index"
+        name: "anniversaires"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
@@ -240,7 +240,7 @@ collections:
             }
       - file: "pages/events/index.html"
         label: "Events"
-        name: "index"
+        name: "events"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
@@ -256,7 +256,7 @@ collections:
             }
       - file: "pages/contacts/index.html"
         label: "Contacts"
-        name: "index"
+        name: "contacts"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
