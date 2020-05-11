@@ -83,7 +83,7 @@ collections:
                 {label: "Afficher sur le site ?", name: "online", widget: "boolean"},
                 {label: Villes, name: lieu, widget: list, fields: [
                   {label: "Disponible ?", name: "dispo", widget: "boolean", default: true},
-                  {label: "Nom", name: "name", widget: "string"},
+                  {label: "Nom", name: "name", widget: select, options: ["Bruxelles", "Brabant Wallon", "Liège", "Stages en internat"]},
                   {label: "Image", name: "image", widget: "image"},
                   {label: "Lien", name: "link", widget: "string"},
                   {label: "Texte du bouton", name: "button_text", widget: "string", required: false},
@@ -96,7 +96,7 @@ collections:
                 {label: "Afficher sur le site ?", name: "online", widget: "boolean"},
                 {label: Villes, name: lieu, widget: list, fields: [
                   {label: "Disponible ?", name: "dispo", widget: "boolean", default: true},
-                  {label: "Nom", name: "name", widget: "string"},
+                  {label: "Nom", name: "name", widget: select, options: ["Bruxelles", "Brabant Wallon", "Liège", "Stages en internat"]},
                   {label: "Image", name: "image", widget: "image"},
                   {label: "Lien", name: "link", widget: "string"},
                   {label: "Texte du bouton", name: "button_text", widget: "string", required: false},
@@ -109,7 +109,7 @@ collections:
                 {label: "Afficher sur le site ?", name: "online", widget: "boolean"},
                 {label: Villes, name: lieu, widget: list, fields: [
                   {label: "Disponible ?", name: "dispo", widget: "boolean", default: true},
-                  {label: "Nom", name: "name", widget: "string"},
+                  {label: "Nom", name: "name", widget: select, options: ["Bruxelles", "Brabant Wallon", "Liège", "Stages en internat"]},
                   {label: "Image", name: "image", widget: "image"},
                   {label: "Lien", name: "link", widget: "string"},
                   {label: "Texte du bouton", name: "button_text", widget: "string", required: false},
@@ -122,7 +122,7 @@ collections:
                 {label: "Afficher sur le site ?", name: "online", widget: "boolean"},
                 {label: Villes, name: lieu, widget: list, fields: [
                   {label: "Disponible ?", name: "dispo", widget: "boolean", default: true},
-                  {label: "Nom", name: "name", widget: "string"},
+                  {label: "Nom", name: "name", widget: select, options: ["Bruxelles", "Brabant Wallon", "Liège", "Stages en internat"]},
                   {label: "Image", name: "image", widget: "image"},
                   {label: "Lien", name: "link", widget: "string"},
                   {label: "Texte du bouton", name: "button_text", widget: "string", required: false},
@@ -135,7 +135,7 @@ collections:
                 {label: "Afficher sur le site ?", name: "online", widget: "boolean"},
                 {label: Villes, name: lieu, widget: list, fields: [
                   {label: "Disponible ?", name: "dispo", widget: "boolean", default: true},
-                  {label: "Nom", name: "name", widget: "string"},
+                  {label: "Nom", name: "name", widget: select, options: ["Bruxelles", "Brabant Wallon", "Liège", "Stages en internat"]},
                   {label: "Image", name: "image", widget: "image"},
                   {label: "Lien", name: "link", widget: "string"},
                   {label: "Texte du bouton", name: "button_text", widget: "string", required: false},
@@ -148,7 +148,7 @@ collections:
                 {label: "Afficher sur le site ?", name: "online", widget: "boolean"},
                 {label: Villes, name: lieu, widget: list, fields: [
                   {label: "Disponible ?", name: "dispo", widget: "boolean", default: true},
-                  {label: "Nom", name: "name", widget: "string"},
+                  {label: "Nom", name: "name", widget: select, options: ["Bruxelles", "Brabant Wallon", "Liège", "Stages en internat"]},
                   {label: "Image", name: "image", widget: "image"},
                   {label: "Lien", name: "link", widget: "string"},
                   {label: "Texte du bouton", name: "button_text", widget: "string", required: false},
