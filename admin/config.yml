@@ -206,8 +206,8 @@ collections:
             }
   - name: "brochures"
     label: "Brochures"
+    allow_nesting: true
     folder: "pages"
-    path: "brochures/{{slug}}"
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
       - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
