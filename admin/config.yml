@@ -382,8 +382,8 @@ collections:
               {label: Catégorie, name: categorie, widget: "select", options: ["Partenaires de stage", "Partenaires écoles", "Partenaires d'entreprises", "Partenaires pédagogiques"]},
               {label: Site internet, name: href, widget: string},
               {label: Logo, name: logo, widget: image}
-              {label: Texte du bouton, name: button_text, widget: string, default: "Site web"},
-              {label: Couleur du bouton, name: button_color, widget: string}
+              {label: Texte du bouton, name: button_text, widget: string, required: false},
+              {label: Couleur du bouton, name: button_color, widget: string, required: false}
               ]
             }
   
