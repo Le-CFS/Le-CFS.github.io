@@ -38,26 +38,27 @@ collections:
           {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
-  - name: "autres-pages"
-    label: "Autres pages"
-    folder: "pages"
-    fields: 
-      - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
-      - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Banner", name: "banner", widget: image, required: false}
-      - {label: "Texte", name: "text", widget: markdown, required: false}
-      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
-          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
-          ]
-        }
         
   - name: "pages_speciales"
     label: "Pages spéciales"
     files:
+      - file: "index.html"
+        label: "Accueil"
+        name: "index"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: image, required: false}
+          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              ]
+            }
+
       - file: "pages/stages_enfants/index.html"
         label: "Stages Enfants"
         name: "index"
@@ -156,22 +157,7 @@ collections:
               {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
-      - file: "index.html"
-        label: "Accueil"
-        name: "index"
-        fields:
-          - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
-          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
-          - {label: "Titre", name: "title", widget: "string"}
-          - {label: "Banner", name: "banner", widget: image, required: false}
-          - {label: "Introduction", name: "intro", widget: markdown, required: false}
-          - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
-              {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
-              ]
-            }
+      
       - file: "pages/activites_enfants/index.html"
         label: "Activités enfants"
         name: "index"
@@ -335,9 +321,232 @@ collections:
               {label: Carte, name: map, widget: map, required: false}
               ]
             }
-  - name: "brochures"
+      - file: "_data/navigation.yml"
+        name: Navigation
+        label: "Menus"  
+        fields:
+          - {label: Liste des centres, name: centres, widget: list, fields: [
+              {label: Nom, name: name, widget: string},
+              {label: Image, name: image, widget: image},
+              {label: Adresse, name: adresse, widget: object, fields: [
+                {label: Rue et numéro, name: rue, widget: string},
+                {label: Code postal, name: code_postal, widget: number},
+                {label: Ville, name: ville, widget: string},
+                {label: Pays, name: pays, widget: string, required: false}
+                ]
+              },
+              {label: Carte, name: map, widget: map, required: false}
+              ]
+            }
+      - file: "_data/anniversaires.yml"
+        name: anniversaires
+        label: "Anniversaires"  
+        fields:
+          - {label: Liste des centres, name: centres, widget: list, fields: [
+              {label: Nom, name: name, widget: string},
+              {label: Image, name: image, widget: image},
+              {label: Adresse, name: adresse, widget: object, fields: [
+                {label: Rue et numéro, name: rue, widget: string},
+                {label: Code postal, name: code_postal, widget: number},
+                {label: Ville, name: ville, widget: string},
+                {label: Pays, name: pays, widget: string, required: false}
+                ]
+              },
+              {label: Carte, name: map, widget: map, required: false}
+              ]
+            }
+      - file: "_data/extrascolaire.yml"
+        name: extrascolaire
+        label: "Activités extrascolaires"  
+        fields:
+          - {label: Liste des centres, name: centres, widget: list, fields: [
+              {label: Nom, name: name, widget: string},
+              {label: Image, name: image, widget: image},
+              {label: Adresse, name: adresse, widget: object, fields: [
+                {label: Rue et numéro, name: rue, widget: string},
+                {label: Code postal, name: code_postal, widget: number},
+                {label: Ville, name: ville, widget: string},
+                {label: Pays, name: pays, widget: string, required: false}
+                ]
+              },
+              {label: Carte, name: map, widget: map, required: false}
+              ]
+            }
+      - file: "_data/partenaires.yml"
+        name: partenaires
+        label: "Partenaires"  
+        fields:
+          - {label: Liste des partenaires, name: partenaires, widget: list, fields: [
+              {label: Nom, name: name, widget: string},
+              {label: Afficher sur le site ?, name: online, widget: boolean},
+              {label: Catégorie, name: categorie, widget: "select", options: ["Partenaires de stage", "Partenaires écoles", "Partenaires d'entreprises", "Partenaires pédagogiques"]},
+              {label: Site internet, name: href, widget: string},
+              {label: Logo, name: logo, widget: image}
+              {label: Texte du bouton, name: button_text, widget: string, default: "Site web"},
+              {label: Couleur du bouton, name: button_color, widget: string}
+            }
+  
+  - name: "le_cfs"
+    label: "Le CFS"
+    folder: "pages"
+    filter: {field: "category", value: "le_cfs"}
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+      - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Banner", name: "banner", widget: image, required: false}
+      - {label: "Introduction", name: "content", widget: "markdown"}
+      - {label: "Brochures", name: "brochures", widget: "object", collapsed: true, fields: [
+          {label: Lieu, name: lieu, widget: list, fields: [
+            {label: "Nom", name: "name", widget: string},
+            {label: "Lien de FlowPaper", name: "link", widget: string}
+            ]
+          }
+          ]
+        }
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          ]
+        }
+  - name: "stages"
+    label: "Stages"
+    folder: "pages"
+    filter: {field: "category", value: "stages"}
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+      - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Banner", name: "banner", widget: image, required: false}
+      - {label: "Introduction", name: "content", widget: "markdown"}
+      - {label: "Brochures", name: "brochures", widget: "object", collapsed: true, fields: [
+          {label: Lieu, name: lieu, widget: list, fields: [
+            {label: "Nom", name: "name", widget: string},
+            {label: "Lien de FlowPaper", name: "link", widget: string}
+            ]
+          }
+          ]
+        }
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          ]
+        }
+  - name: "activites_enfants"
+    label: "Activités enfants"
+    folder: "pages"
+    filter: {field: "category", value: "activites_enfants"}
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+      - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Banner", name: "banner", widget: image, required: false}
+      - {label: "Introduction", name: "content", widget: "markdown"}
+      - {label: "Brochures", name: "brochures", widget: "object", collapsed: true, fields: [
+          {label: Lieu, name: lieu, widget: list, fields: [
+            {label: "Nom", name: "name", widget: string},
+            {label: "Lien de FlowPaper", name: "link", widget: string}
+            ]
+          }
+          ]
+        }
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          ]
+        }
+  - name: "cours_adultes"
+    label: "Cours adultes"
+    folder: "pages"
+    filter: {field: "category", value: "cours_adultes"}
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+      - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Banner", name: "banner", widget: image, required: false}
+      - {label: "Introduction", name: "content", widget: "markdown"}
+      - {label: "Brochures", name: "brochures", widget: "object", collapsed: true, fields: [
+          {label: Lieu, name: lieu, widget: list, fields: [
+            {label: "Nom", name: "name", widget: string},
+            {label: "Lien de FlowPaper", name: "link", widget: string}
+            ]
+          }
+          ]
+        }
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          ]
+        }
+  - name: "anniversaires"
+    label: "Anniversaires"
+    folder: "pages"
+    filter: {field: "category", value: "anniversaires"}
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+      - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Banner", name: "banner", widget: image, required: false}
+      - {label: "Introduction", name: "content", widget: "markdown"}
+      - {label: "Brochures", name: "brochures", widget: "object", collapsed: true, fields: [
+          {label: Lieu, name: lieu, widget: list, fields: [
+            {label: "Nom", name: "name", widget: string},
+            {label: "Lien de FlowPaper", name: "link", widget: string}
+            ]
+          }
+          ]
+        }
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          ]
+        }
+  - name: "events"
+    label: "Events"
+    folder: "pages"
+    filter: {field: "category", value: "events"}
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
+      - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Banner", name: "banner", widget: image, required: false}
+      - {label: "Introduction", name: "content", widget: "markdown"}
+      - {label: "Brochures", name: "brochures", widget: "object", collapsed: true, fields: [
+          {label: Lieu, name: lieu, widget: list, fields: [
+            {label: "Nom", name: "name", widget: string},
+            {label: "Lien de FlowPaper", name: "link", widget: string}
+            ]
+          }
+          ]
+        }
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
+          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
+          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          ]
+        }
+
+- name: "brochures"
     label: "Brochures"
     folder: "pages"
+    filter: {field: "category", value: "brochures"}
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
       - {label: "Menu", name: "menu", widget: "hidden", default: "brochures"}
