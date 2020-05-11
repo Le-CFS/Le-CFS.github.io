@@ -384,6 +384,7 @@ collections:
               {label: Logo, name: logo, widget: image}
               {label: Texte du bouton, name: button_text, widget: string, default: "Site web"},
               {label: Couleur du bouton, name: button_color, widget: string}
+              ]
             }
   
   - name: "le_cfs"
