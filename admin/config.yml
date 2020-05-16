@@ -33,8 +33,8 @@ collections:
       - {label: "Permalink si nécessaire", name: "permalink", widget: "string", required: false}
       - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
           {label: "Description", name: "og_description", widget: "text"},
-          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
+          {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "string"},
+          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image", required: false},
           {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
@@ -47,10 +47,13 @@ collections:
         name: "accueil"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
-          - {label: "Menu", name: "menu", widget: "hidden", default: "cfs"}
           - {label: "Titre", name: "title", widget: "string"}
-          - {label: "Banner", name: "banner", widget: image, required: false}
-          - {label: "Introduction", name: "intro", widget: markdown, required: false}
+          - {label: "Slider, les images qui défilent", name: "seo", widget: "object", collapsed: true, fields: [
+              {label: "Description", name: "og_description", widget: "string"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Lien", name: "href", widget: "string"}
+              ]
+            }
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
               {label: "Description", name: "og_description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
