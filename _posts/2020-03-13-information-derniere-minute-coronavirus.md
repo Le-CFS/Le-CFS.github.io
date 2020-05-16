@@ -4,7 +4,7 @@ img: logo.png
 layout: post
 menu: cfs
 infos:
-  date: 16.05.2020
+  date: 13.03.2020
   online: true
   teaser: Information de dernière minute.
 keywords: null
