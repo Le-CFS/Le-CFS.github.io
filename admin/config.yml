@@ -36,7 +36,7 @@ collections:
           {label: "Description", name: "og_description", widget: "text"},
           {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "string"},
           {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image", required: false},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["article"]}
           ]
         }
         
