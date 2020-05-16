@@ -13,7 +13,6 @@ banner: null
 permalink: null
 img-mobile: null
 tagline: INFORMATION DERNIERE MINUTE – CORONAVIRUS
-teaser: Information de dernière minute.
 title: CORONAVIRUS
 tags: coronavirus
 seo:

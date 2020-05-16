@@ -13,7 +13,6 @@ banner: null
 permalink: null
 img-mobile: null
 tagline: Nouvelles mesures du gouvernement.
-teaser: Nouvelles mesures du gouvernement.
 title: Annulation des stages de Pâques
 tags: coronavirus stages
 seo:

@@ -13,7 +13,6 @@ banner: null
 permalink: null
 img-mobile: null
 tagline: Inscription aux stages d'été
-teaser: Inscription aux stages d'été
 title: Informations inscription stages été
 tags: stages été inscription
 seo:
