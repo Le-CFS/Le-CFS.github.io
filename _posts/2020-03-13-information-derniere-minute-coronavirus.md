@@ -1,21 +1,27 @@
 ---
-layout: post
-title: CORONAVIRUS
-tagline: "INFORMATION DERNIERE MINUTE – CORONAVIRUS"
-teaser: "Information de dernière minute."
+css: null
 img: logo.png
-img-mobile: 
-css: 
-author: 
-category: 
-banner: 
-keywords: 
-tags: coronavirus
-permalink: 
+layout: post
 menu: cfs
-
+infos:
+  date: 16.05.2020
+  online: true
+  teaser: Information de dernière minute.
+keywords: null
+author: null
+banner: null
+permalink: null
+img-mobile: null
+tagline: INFORMATION DERNIERE MINUTE – CORONAVIRUS
+teaser: Information de dernière minute.
+title: CORONAVIRUS
+tags: coronavirus
+seo:
+  og_description: Dernières infos sur le coronavirus.
+  keywords: coronavirus
+  og_type: article
+category: null
 ---
-
 Malheureusement, suite aux décisions prises par le gouvernement, nous sommes désolés de vous annoncer que toutes nos activités sont suspendues à partir de ce samedi 14/03 et ce jusqu’au vendredi 03/04 inclus.
 
 Nous vous tenons bien évidemment informé pour la suite dans les plus brefs délais.
