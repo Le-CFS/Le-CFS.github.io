@@ -1,19 +1,26 @@
 ---
+css: null
+img: null
 layout: post
-title: Informations inscription stages été
-tagline: "Inscription aux stages d'été"
-teaser: "Inscription aux stages d'été"
-img: 
-img-mobile: 
-css: 
-author: 
-category: 
-banner: 
-keywords: stages été, inscription, stages enfants, stages
-tags: stages été inscription
-permalink: 
 menu: cfs
-
+infos:
+  date: 16.05.2020
+  online: true
+  teaser: Inscription aux stages d'été
+keywords: stages été, inscription, stages enfants, stages
+author: null
+banner: null
+permalink: null
+img-mobile: null
+tagline: Inscription aux stages d'été
+teaser: Inscription aux stages d'été
+title: Informations inscription stages été
+tags: stages été inscription
+seo:
+  og_description: Inscription aux stages d'été
+  og_type: article
+  keywords: stages été inscription
+category: null
 ---
 
 Chers parents, chers grands-parents,
