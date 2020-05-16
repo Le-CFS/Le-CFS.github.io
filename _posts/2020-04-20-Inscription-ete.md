@@ -4,7 +4,7 @@ img: null
 layout: post
 menu: cfs
 infos:
-  date: 16.05.2020
+  date: 20.04.2020
   online: true
   teaser: Inscription aux stages d'été
 keywords: stages été, inscription, stages enfants, stages
