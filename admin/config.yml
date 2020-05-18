@@ -17,6 +17,7 @@ collections:
     folder: "_posts"
     sort: "date:desc"
     extension: html
+    clean_accents: true
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: 
