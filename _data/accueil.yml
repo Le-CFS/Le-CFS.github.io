@@ -79,29 +79,18 @@ une:
   # Nom de la catégorie
   nom: "Stages à la Une"
   images:
-    - name: "Evasion"
-      titre_overlay: "Evasion"
-      img: "/stages/evasionalaune.jpg"
+    - name: "Remédiation & Sport"
+      titre_overlay: "Remédiation & Sport"
+      img: "/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
       bouton: Plus d'info
       nouveau: 
-      infos: Certaines activités demandent un déplacement en car ou en transport en commun assurés par nos soins.
-      description: "
-        <strong>BRUXELLES:</strong><br/>
-            Envie d'une semaine hyper fun? Viens à ce stage phare du CFS! Un super programme! Une activité différente chaque jour!<br/>
-            PROGRAMME CARNAVAL: New games, Koezio, escape game, moto, Aqualibi<br/>
-            PROGRAMME PAQUES: New games, Koezio, escape game, moto, une journée à la mer (pas P2)<br/>
-            PROGRAMME ETE: New games, Koezio, Profondville, escape game, une journée à la mer (pas E4)
-            <hr>
-        <strong>BRABANT:</strong><br/>
-            Envie d'une semaine hyper fun? Viens à ce stage phare du CFS! Un super programme! Une activité différente chaque jour!<br/>
-            PROGRAMME CARNAVAL: snowworld à Peer, Aqualibi (prévoir le maillot), new games (bubble soccer, Vortex), patinoire à Leuven, jeux dans les bois et barbecue.<br/>
-            PROGRAMME PAQUES: snowworld à Peer, Walibi, new games, journée à la mer, jeux dans les bois et barbecue.<br/>
-            PROGRAMME ETE: une journée à Profondville (bouée tractée, canoë, pédalo, paddle, kayak), une journée à Walibi, bubble soccer et new games, une journée à la mer, jeux dans les bois et barbecue.<br/>
-            <br/>
-            Attention: le programme change pour les semaines plus courtes.
-         "
+      infos: "Les enfants doivent venir avec un matériel scolaire de base (trousse, latte, colle, ciseaux, crayons de couleur et magicolors).<br/>
+              Les enfants restent avec le même moniteur et ont leur propre local toute la semaine."
+      description: "Durant ce stage les enfants ont l’occasion de revoir les matières vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.<br/>
+                    Les activités proposées se focalisent sur les mathématiques et la langue française. Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème / 1ère H. – 2ème H. ) pour la demi-journée. L’autre partie de la journée sera consacrée à des activités sportives variées et à des jeux en extérieurs.<br/>
+                    "
       lieu: "Bruxelles - Brabant Wallon"
-      age: Bruxelles 10-14 ans / Brabant 10-16 ans
+      age: 6-14 ans
     
     - name: "Nauti Camp"
       titre_overlay: 
