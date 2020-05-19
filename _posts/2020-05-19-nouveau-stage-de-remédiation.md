@@ -12,22 +12,22 @@ seo:
   og_description: Infos pour les stages été 2020
   keywords: stages été remédiation
 ---
-![mail](https://ci3.googleusercontent.com/proxy/LfxW02bbYqw9Mu5HdIaAl_C0DY9TpQyBBPIysLeQ15iEF-2QO-kQLgHLdFKwWlbr_W6_NrK4JKCnVMLyBFw5jhyANBn5_8H_N8Ti7dUwKuV-JJPJbaCo6A=s0-d-e1-ft#https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/envelope.png "mail") Chers parents, grands-parents,\
-\
-Les **stages d’été** approchent à grands pas et nous sommes confiants quant au déroulement de ces derniers. Beaucoup d’entre vous comptent sur les **stages CFS** pour divertir vos enfants et nous souhaitons être **présents** et restons bien évidemment **motivés** pour cela ![laugh](https://ci3.googleusercontent.com/proxy/b-ZBWhpGD9sZOCey7YJ-ol0n30Uzfdf8Q1hynCJVmy9DUXMmX8LW77ZSNc9GuGZhNsPhZvlY_hKaALtDSX94ZkUR1fy-J23Q9hJDwrJYKNfSTsH4_DM4j5b63Q=s0-d-e1-ft#https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png "laugh")
+Chers parents, grands-parents,
+
+Les **stages d’été** approchent à grands pas et nous sommes confiants quant au déroulement de ces derniers. Beaucoup d’entre vous comptent sur les **stages CFS** pour divertir vos enfants et nous souhaitons être **présents** et restons bien évidemment **motivés** pour cela !
 
 La **décision finale** appartiendra évidemment au **gouvernement** qui devrait se prononcer le **8 juin prochain.**
 
-Mais il est déjà certain que les stages de cet été seront **inédits** ! Nos équipes de terrains, sur base des directives sanitaires du **Conseil National de Sécurité** pour l’ouverture des **écoles** et des **activités sportives**, mettent tout en œuvre pour accueillir les enfants et les moniteurs dans les **meilleures conditions** pour les **stages d’été 2020 ! ![wink](https://ci4.googleusercontent.com/proxy/aYkTS7pD7RVYC_wpeMIMF1_QRfefMYJpDX-qF6VuJiuMYQAinnw9wBr3jqGV2ATpfjtammKaMnKlJn86bJuX9u4tTazSFxKPXgHKjL0ZMTX0bbWsv7tBRW4m=s0-d-e1-ft#https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/wink_smile.png "wink")**
+Mais il est déjà certain que les stages de cet été seront **inédits** ! Nos équipes de terrains, sur base des directives sanitaires du **Conseil National de Sécurité** pour l’ouverture des **écoles** et des **activités sportives**, mettent tout en œuvre pour accueillir les enfants et les moniteurs dans les **meilleures conditions** pour les **stages d’été 2020 !**
 
 D’avance, nous vous remercions pour votre compréhension et votre soutien apporté dans l’organisation de ces stages.
 
-![enlightened](https://ci3.googleusercontent.com/proxy/wjL2OAPlSVcwpazfK9sZapefKyvCvfvj7wzCg317HrghTAG6qDrMv1ToPP35IOs1H2SIjeTnfxg0ao0883ZHGMVUu_2kS01d4xitz9ejTWOf_2VhMuvmLEw=s0-d-e1-ft#https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png "enlightened") Pour les élèves d’école **PRIMAIRE**, nous vous avons concocté un **nouveau stage** de**« REMÉDIATION SCOLAIRE »** :
+Pour les élèves d’école **PRIMAIRE**, nous vous avons concocté un **nouveau stage** de**« REMÉDIATION SCOLAIRE »** :
 
 Revoir les matières vues à l’école en petit groupe de façon ludique sous forme **d’atelier** et de **jeux pédagogiques**. Le tout, encadré par nos moniteurs **enseignants** !
 
-Nous vous remercions pour votre **confiance** et votre **fidélité** !![laugh](https://ci3.googleusercontent.com/proxy/b-ZBWhpGD9sZOCey7YJ-ol0n30Uzfdf8Q1hynCJVmy9DUXMmX8LW77ZSNc9GuGZhNsPhZvlY_hKaALtDSX94ZkUR1fy-J23Q9hJDwrJYKNfSTsH4_DM4j5b63Q=s0-d-e1-ft#https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png "laugh")
+Nous vous remercions pour votre **confiance** et votre **fidélité** !
 
 **L’équipe du CFS**
 
-![Stage de remédiation](/img/news_01.jpg "Stage de remédiation")
+![Stage de remédiation](/static/img/news_01.jpg "Stage de remédiation")
