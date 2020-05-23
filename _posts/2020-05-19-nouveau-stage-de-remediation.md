@@ -30,4 +30,4 @@ Nous vous remercions pour votre **confiance** et votre **fidélité** !
 
 **L’équipe du CFS**
 
-![Stage de remédiation](/static/img/news_01.jpg "Stage de remédiation")
+![Stage de remédiation](/assets/images/news/news_01.jpg "Stage de remédiation")
