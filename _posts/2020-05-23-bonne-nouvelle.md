@@ -2,17 +2,17 @@
 layout: post
 menu: cfs
 title: Bonne nouvelle !
-banner: secret_kids.jpg
+banner: assets/images/news/secret_kids.jpg
 infos:
   date: 23.05.2020
   online: true
   teaser: Nous avons reçu le feu vert du gouvernement pour organiser LES STAGES D’ÉTÉ !
 tags: stages été
 seo:
-  og_type: article
-  og_img: /img/secret_kids.jpg
+  type: article
+  img: assets/images/news/secret_kids.jpg
   keywords: stages été
-  og_description: Nous avons reçu le feu vert du gouvernement pour organiser LES STAGES D’ÉTÉ !
+  description: Nous avons reçu le feu vert du gouvernement pour organiser LES STAGES D’ÉTÉ !
 ---
 Bonne nouvelle !
 
