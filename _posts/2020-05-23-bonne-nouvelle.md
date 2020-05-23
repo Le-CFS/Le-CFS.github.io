@@ -2,7 +2,7 @@
 layout: post
 menu: cfs
 title: Bonne nouvelle !
-banner: /img/secret_kids.jpg
+banner: secret_kids.jpg
 infos:
   date: 23.05.2020
   online: true
