@@ -1,10 +1,10 @@
 <meta name="author" content="{{ site.author.name }}">    
-{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+{% if page.keywords %}<meta name="keywords" content="{{ page.seo.keywords }}">{% endif %}
 {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}
-{% if page.tagline %}<meta name="description" content="{{ page.tagline }}">{% endif %}
 <meta property="og:title" content="{{ page.title }}">
-<meta property="og:description" content="{{ page.tagline }}">
-<meta property="og:image" content="{{ BASE_PATH }}{{ page.img }}">
+<meta property="og:description" content="{{ page.seo.description }}">
+<meta property="og:image" content="{{ BASE_PATH }}{{ page.seo.img }}">
+<meta property="og:type" content="{{ BASE_PATH }}{{ page.seo.type }}">
 <meta property="og:url" content="{{ BASE_PATH }}{{ page.url }}">
 
 <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
