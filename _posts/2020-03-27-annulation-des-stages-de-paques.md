@@ -16,9 +16,10 @@ tagline: Nouvelles mesures du gouvernement.
 title: Annulation des stages de Pâques
 tags: coronavirus stages
 seo:
-  og_description: Nouvelles mesures du gouvernement.
+  description: Nouvelles mesures du gouvernement.
   keywords: coronavirus stages
-  og_type: article
+  type: article
+  image: null
 category: null
 ---
 
