@@ -16,9 +16,10 @@ tagline: Inscription aux stages d'été
 title: Informations inscription stages été
 tags: stages été inscription
 seo:
-  og_description: Inscription aux stages d'été
-  og_type: article
+  description: Inscription aux stages d'été
+  type: article
   keywords: stages été inscription
+  image: null
 category: null
 ---
 

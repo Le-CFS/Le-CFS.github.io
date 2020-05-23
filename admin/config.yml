@@ -35,10 +35,10 @@ collections:
       - {label: "Tags", name: "tags", widget: string, required: false}
       - {label: "Permalink si nécessaire", name: "permalink", widget: "string", required: false}
       - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Description", name: "description", widget: "text"},
           {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "string"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image", media_folder: '/{{media_folder}}/news', public_folder: '{{public_folder}}/news'},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["article"]}
+          {label: "Image pour les réseaux sociaux", name: "img", widget: "image", media_folder: '/{{media_folder}}/news', public_folder: '{{public_folder}}/news'},
+          {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["article"]}
           ]
         }
         
@@ -52,16 +52,16 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "index"}
           - {label: "Titre", name: "title", widget: "string"}
           - {label: "Slider, les images qui défilent", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "string"},
+              {label: "Description", name: "description", widget: "string"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Lien", name: "href", widget: "string"}
               ]
             }
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Description", name: "description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+              {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
 
@@ -157,10 +157,10 @@ collections:
             }
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Description", name: "description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+              {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
       
@@ -174,10 +174,10 @@ collections:
           - {label: "Banner", name: "banner", widget: image, required: false}
           - {label: "Introduction", name: "intro", widget: markdown, required: false}
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Description", name: "description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+              {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
       - file: "pages/activites_enfants/ecole_de_natation.html"
@@ -190,10 +190,10 @@ collections:
           - {label: "Banner", name: "banner", widget: image, required: false}
           - {label: "Introduction", name: "intro", widget: markdown, required: false}
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Description", name: "description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+              {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
       - file: "pages/activites_enfants/cfs_academy.html"
@@ -206,10 +206,10 @@ collections:
           - {label: "Banner", name: "banner", widget: image, required: false}
           - {label: "Introduction", name: "intro", widget: markdown, required: false}
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Description", name: "description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+              {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
       - file: "pages/cours_adultes/index.html"
@@ -222,10 +222,10 @@ collections:
           - {label: "Banner", name: "banner", widget: image, required: false}
           - {label: "Introduction", name: "intro", widget: markdown, required: false}
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Description", name: "description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+              {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
       - file: "pages/anniversaires/index.html"
@@ -238,10 +238,10 @@ collections:
           - {label: "Banner", name: "banner", widget: image, required: false}
           - {label: "Introduction", name: "intro", widget: markdown, required: false}
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Description", name: "description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+              {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
       - file: "pages/events/index.html"
@@ -254,10 +254,10 @@ collections:
           - {label: "Banner", name: "banner", widget: image, required: false}
           - {label: "Introduction", name: "intro", widget: markdown, required: false}
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Description", name: "description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+              {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
       - file: "pages/contacts/index.html"
@@ -270,10 +270,10 @@ collections:
           - {label: "Banner", name: "banner", widget: image, required: false}
           - {label: "Introduction", name: "intro", widget: markdown, required: false}
           - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-              {label: "Description", name: "og_description", widget: "text"},
+              {label: "Description", name: "description", widget: "text"},
               {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-              {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-              {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+              {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+              {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
               ]
             }
 
@@ -414,10 +414,10 @@ collections:
         }
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Description", name: "description", widget: "text"},
           {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+          {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
   - name: "stages"
@@ -441,10 +441,10 @@ collections:
         }
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Description", name: "description", widget: "text"},
           {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+          {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
   - name: "activites_enfants"
@@ -468,10 +468,10 @@ collections:
         }
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Description", name: "description", widget: "text"},
           {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+          {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
   - name: "cours_adultes"
@@ -494,10 +494,10 @@ collections:
         }
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Description", name: "description", widget: "text"},
           {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+          {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
   - name: "anniversaires"
@@ -520,10 +520,10 @@ collections:
         }
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Description", name: "description", widget: "text"},
           {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+          {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
   - name: "events"
@@ -546,10 +546,10 @@ collections:
         }
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Description", name: "description", widget: "text"},
           {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+          {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }
 
@@ -573,9 +573,9 @@ collections:
         }
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "SEO, référencement et réseaux sociaux", name: "seo", widget: "object", collapsed: true, fields: [
-          {label: "Description", name: "og_description", widget: "text"},
+          {label: "Description", name: "description", widget: "text"},
           {label: "Mots clés pour les moteurs de recherche", name: "keywords", widget: "text"},
-          {label: "Image pour les réseaux sociaux", name: "og_img", widget: "image"},
-          {label: "Type de contenu", name: "og_type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
+          {label: "Image pour les réseaux sociaux", name: "img", widget: "image"},
+          {label: "Type de contenu", name: "type", widget: "select", options: ["article", "video", "website"], default: ["website"]}
           ]
         }

@@ -16,9 +16,10 @@ tagline: INFORMATION DERNIERE MINUTE – CORONAVIRUS
 title: CORONAVIRUS
 tags: coronavirus
 seo:
-  og_description: Dernières infos sur le coronavirus.
+  description: Dernières infos sur le coronavirus.
   keywords: coronavirus
-  og_type: article
+  type: article
+  image: null
 category: null
 ---
 Malheureusement, suite aux décisions prises par le gouvernement, nous sommes désolés de vous annoncer que toutes nos activités sont suspendues à partir de ce samedi 14/03 et ce jusqu’au vendredi 03/04 inclus.
