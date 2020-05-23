@@ -8,9 +8,10 @@ infos:
   teaser: Infos pour les stages été 2020
 tags: stages été remédiation
 seo:
-  og_type: article
-  og_description: Infos pour les stages été 2020
+  otype: article
+  odescription: Infos pour les stages été 2020
   keywords: stages été remédiation
+  image: null
 ---
 Chers parents, grands-parents,
 
