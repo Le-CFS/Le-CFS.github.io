@@ -1,5 +1,52 @@
+<style>
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #F8F8F8;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 20px;
+  text-align:left;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 16px;
+  text-decoration: none;
+  font-size: 14px;
+  color: #444;
+  display: block;
+  transition: 0.3s;
+
+}
+
+.sidenav .closebtn {
+  float: right;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.fa-plus {
+  float: right;
+  padding-right: 8px;
+}
+
+.nav-link[data-toggle].collapsed:before {
+    content: " ▾";
+}
+.nav-link[data-toggle]:not(.collapsed):before {
+    content: " ▴";
+}
+</style>
+
 {% assign mycfs = site.data.accueil.mycfs %}
 {% assign inscription = site.data.accueil.inscription %}
+{% assign menu_principal = site.data.menu %}
 <div class="desktop top-menu top-menu-inverse">
       <div class="row">
         <div class="col-md-4 offset-md-2">
@@ -11,26 +58,89 @@
       </div>
 </div>
 
-<div class="mobile top-menu top-menu-inverse">
-  <a href="{{ mycfs.href }}" class="btn btn-info-filled" style="margin-top: 15px; margin-left: 5%; color: #fff !important; width: 40%;" {% if mycfs.autre_page %}target="_blank"{% endif %}><i class="{{ mycfs.icone }}"></i> {{ mycfs.texte_mobile }}</a>
-  <a href="{{ inscription.href }}" class="btn btn-info-filled" style="margin-top: 15px; color: #fff !important; width: 40%; float: right; margin-right: 5%" {% if inscription.autre_page %}target="_blank"{% endif %}><i class="{{ inscription.icone }}"></i> {{ inscription.texte_mobile }}</a>
-</div>
-
 <!-- navbar-default -->
+<div class="desktop">
 <nav class="navbar navbar-toggleable-sm navbar-light bg-default">
   <div class="container">
     <a class="navbar-brand" href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-default" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
       <i class="fa fa-bars"></i>
     </button>
-    <div class="collapse navbar-collapse justify-content-end" id="navbar-default">
+    <div class="collapse navbar-collapse justify-content-center">
       <ul class="navbar-nav">
-        {% for item in site.data.menus.menu_principal.docs %}
+        {% for section in menu_principal %}
         <li class="nav-item">
-            <a class="nav-link" href="{{ item.url }}">{{ item.titre }}</a>
+            <a class="nav-link" href='{{ section[1]["url"] }}'>{{ section[1]["titre"] }}</a>
         </li>
         {% endfor %}
       </ul>
     </div>
   </div>
 </nav>
+</div>
+
+<div class="mobile top-menu top-menu-inverse">
+  <a href="{{ mycfs.href }}" class="btn btn-info-filled" style="margin-top: 15px; margin-left: 5%; color: #fff !important; width: 40%;" {% if mycfs.autre_page %}target="_blank"{% endif %}><i class="{{ mycfs.icone }}"></i> {{ mycfs.texte_mobile }}</a>
+  <a href="{{ inscription.href }}" class="btn btn-info-filled" style="margin-top: 15px; color: #fff !important; width: 40%; float: right; margin-right: 5%" {% if inscription.autre_page %}target="_blank"{% endif %}><i class="{{ inscription.icone }}"></i> {{ inscription.texte_mobile }}</a>
+</div>
+
+<div class="mobile">
+  <div class="container">
+    <a class="navbar-brand" href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
+    <button class="navbar-toggler" onclick="openNav()">
+      <i class="fa fa-bars"> <b>Menu</b></i>
+    </button>
+  </div>
+</div>
+
+<div id="mySidenav" class="sidenav" id="sidebar">
+  <a href="javascript:void(0)" class="closebtn" style="float: right !important;" onclick="closeNav()"><i class="fa fa-times"></i></a>
+  <a class="navbar-brand" href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
+  <ul class="nav flex-column flex-nowrap overflow-hidden">
+    {% assign menu1_index = 1 %}
+    {% for menu1 in menu_principal %}
+    {% if menu1[1]["sousmenu"] %}
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#submenu{{menu1_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}"><i class="fa fa-table"></i> {{ menu1[1]["titre"] }}</a>
+        <div class="collapse" id="submenu{{menu1_index}}" aria-expanded="false">
+            <ul class="flex-column pl-2 nav">
+              {% assign menu2_index = 1 %}
+              {% for menu2 in menu1[1]["sousmenu"] %}
+                {% if menu2.sousmenu %}
+                <li class="nav-item">
+                    <a class="nav-link collapsed py-1" href="#submenu{{menu1_index}}sub{{menu2_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}"><span>{{ menu2.title }}</span></a>
+                    <div class="collapse" id="submenu{{menu1_index}}sub{{menu2_index}}" aria-expanded="false">
+                        <ul class="flex-column nav pl-4">
+                          {% for menu3 in menu2.sousmenu %}
+                            <li class="nav-item">
+                                <a class="nav-link p-1" href="{{ menu3.url }}"> {{ menu3.title }}</a>
+                            </li>
+                          {% endfor %}
+                        </ul>
+                    </div>
+                </li>
+                {% else %}
+                <li class="nav-item"><a class="nav-link py-0" href="#"><span>{{ menu2.title }}</span></a></li>
+                {% endif %}
+                {% assign menu2_index = menu2_index | plus: 1 %}
+              {% endfor %}
+            </ul>
+        </div>
+    </li>
+    {% else %}
+    <li class="nav-item"><a class="nav-link text-truncate" href='{{ menu1[1]["url"] }}'> {{ menu1[1]["titre"] }}</a></li>
+    {% endif %}
+    {% assign menu1_index = menu1_index | plus: 1 %}
+    {% endfor %}
+  </ul>
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "100%";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
