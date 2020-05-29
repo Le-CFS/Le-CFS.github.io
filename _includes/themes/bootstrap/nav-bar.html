@@ -101,7 +101,7 @@
     {% for menu1 in menu_principal %}
     {% if menu1[1]["sousmenu"] %}
     <li class="nav-item">
-        <a class="nav-link collapsed" href="#submenu{{menu1_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}"><i class="fa fa-table"></i> {{ menu1[1]["titre"] }}</a>
+        <a class="nav-link collapsed" href="#submenu{{menu1_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}"> {{ menu1[1]["titre"] }}</a>
         <div class="collapse" id="submenu{{menu1_index}}" aria-expanded="false">
             <ul class="flex-column pl-2 nav">
               {% assign menu2_index = 1 %}
@@ -113,14 +113,14 @@
                         <ul class="flex-column nav pl-4">
                           {% for menu3 in menu2.sousmenu %}
                             <li class="nav-item">
-                                <a class="nav-link p-1" href="{{ menu3.url }}"> {{ menu3.title }}</a>
+                                <a class="nav-link p-1" href="{{ menu3.url }}" style="padding-left: 15px !important;"> {{ menu3.title }}</a>
                             </li>
                           {% endfor %}
                         </ul>
                     </div>
                 </li>
                 {% else %}
-                <li class="nav-item"><a class="nav-link py-0" href="#"><span>{{ menu2.title }}</span></a></li>
+                <li class="nav-item"><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 30px;">{{ menu2.title }}</a></li>
                 {% endif %}
                 {% assign menu2_index = menu2_index | plus: 1 %}
               {% endfor %}
@@ -128,7 +128,7 @@
         </div>
     </li>
     {% else %}
-    <li class="nav-item"><a class="nav-link text-truncate" href='{{ menu1[1]["url"] }}'> {{ menu1[1]["titre"] }}</a></li>
+    <li class="nav-item"><a class="nav-link text-truncate" href='{{ menu1[1]["url"] }}' style="padding-left: 30px;"> {{ menu1[1]["titre"] }}</a></li>
     {% endif %}
     {% assign menu1_index = menu1_index | plus: 1 %}
     {% endfor %}
