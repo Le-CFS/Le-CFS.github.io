@@ -79,7 +79,32 @@
 </nav>
 </div>
 
-<div class="mobile top-menu top-menu-inverse">
+<div class="mobile top-menu-inverse fixed-top">
+  <div class="row">
+    <div class="col-xs-4 text-center">
+      <a href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt="" style="width: 60%;"></a>
+    </div>
+    <div class="col-xs-4">
+      
+    </div>
+    <div class="col-xs-4">
+      <button class="navbar-toggler" onclick="openNav()" style="margin-top: 5px; margin-right: 10px; float: right;">Menu <i class="fa fa-bars"></i></button>
+    </div>
+  </div>
+</div>
+
+<div class="mobile top-menu-inverse fixed-bottom">
+  <div class="row">
+    <div class="col-xs-6 text-center">
+      <a href="{{ mycfs.href }}" class="btn btn-info-filled" style="margin: 5px; margin-left: 10%; color: #fff !important; width: 80%;" {% if mycfs.autre_page %}target="_blank"{% endif %}><i class="{{ mycfs.icone }}"></i> {{ mycfs.texte_mobile }}</a>
+    </div>
+    <div class="col-xs-6 text-center">
+      <a href="{{ inscription.href }}" class="btn btn-info-filled" style="margin: 5px; color: #fff !important; margin-right: 10%; width: 80%;" {% if inscription.autre_page %}target="_blank"{% endif %}><i class="{{ inscription.icone }}"></i> {{ inscription.texte_mobile }}</a>
+    </div>
+  </div>
+</div>
+
+<!-- <div class="mobile top-menu-inverse">
   <a href="{{ mycfs.href }}" class="btn btn-info-filled" style="margin-top: 15px; margin-left: 5%; color: #fff !important; width: 40%;" {% if mycfs.autre_page %}target="_blank"{% endif %}><i class="{{ mycfs.icone }}"></i> {{ mycfs.texte_mobile }}</a>
   <a href="{{ inscription.href }}" class="btn btn-info-filled" style="margin-top: 15px; color: #fff !important; width: 40%; float: right; margin-right: 5%" {% if inscription.autre_page %}target="_blank"{% endif %}><i class="{{ inscription.icone }}"></i> {{ inscription.texte_mobile }}</a>
 </div>
@@ -87,16 +112,13 @@
 <div class="mobile">
   <div class="container">
     <a class="navbar-brand" href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
-    <button class="navbar-toggler" onclick="openNav()">
-      <i class="fa fa-bars"> <b>Menu</b></i>
-    </button>
+    <button class="navbar-toggler" onclick="openNav()"><b>Menu</b> <i class="fa fa-bars"></i></button>
   </div>
-</div>
+</div> -->
 
 <div id="mySidenav" class="sidenav" id="sidebar">
   <a href="javascript:void(0)" class="closebtn" style="float: right !important;" onclick="closeNav()"><i class="fa fa-times"></i></a>
-  <a class="navbar-brand" href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
-  <ul class="nav flex-column flex-nowrap overflow-hidden">
+  <ul class="nav flex-column flex-nowrap overflow-hidden" style="padding-top: 35px;">
     {% assign menu1_index = 1 %}
     {% for menu1 in menu_principal %}
     {% if menu1[1]["sousmenu"] %}
@@ -113,7 +135,7 @@
                         <ul class="flex-column nav pl-4">
                           {% for menu3 in menu2.sousmenu %}
                             <li class="nav-item">
-                                <a class="nav-link p-1" href="{{ menu3.url }}" style="padding-left: 15px !important;"> {{ menu3.title }}</a>
+                                <a class="nav-link p-1" href="{{ menu3.url }}" style="padding-left: 15px !important;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
                             </li>
                           {% endfor %}
                         </ul>
