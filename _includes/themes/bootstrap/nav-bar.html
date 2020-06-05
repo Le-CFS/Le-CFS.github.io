@@ -122,8 +122,8 @@
 </div> -->
 
 <div id="mySidenav" class="sidenav" id="sidebar">
-  <a href="javascript:void(0)" class="closebtn" style="float: right !important;" onclick="closeNav()"><i class="fa fa-times"></i></a>
-  <ul class="nav flex-column flex-nowrap overflow-hidden" style="padding-top: 35px;">
+  <a href="javascript:void(0)" class="closebtn" style="float: right !important; padding-top: 35px;" onclick="closeNav()"><i class="fa fa-times"></i></a>
+  <ul class="nav flex-column flex-nowrap overflow-hidden" style="padding-top: 35px; padding-bottom: 55px;">
     {% assign menu1_index = 1 %}
     {% for menu1 in menu_principal %}
     {% if menu1[1]["sousmenu"] %}
@@ -131,6 +131,7 @@
         <a class="nav-link collapsed" href="#submenu{{menu1_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}"> {{ menu1[1]["titre"] }}</a>
         <div class="collapse" id="submenu{{menu1_index}}" aria-expanded="false">
             <ul class="flex-column pl-2 nav">
+              <li class="nav-item"><a class="nav-link" href='{{ menu1[1]["url"] }}' style="padding-left: 30px;"> {{ menu1[1]["title_mobile"] }}</a></li>
               {% assign menu2_index = 1 %}
               {% for menu2 in menu1[1]["sousmenu"] %}
                 {% if menu2.sousmenu %}
@@ -138,6 +139,7 @@
                     <a class="nav-link collapsed py-1" href="#submenu{{menu1_index}}sub{{menu2_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}"> {{ menu2.title }}</a>
                     <div class="collapse" id="submenu{{menu1_index}}sub{{menu2_index}}" aria-expanded="false">
                         <ul class="flex-column nav pl-4">
+                          <li class="nav-item"><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 15px;">{{ menu2.title_mobile }}</a></li>
                           {% for menu3 in menu2.sousmenu %}
                             <li class="nav-item">
                                 <a class="nav-link p-1" href="{{ menu3.url }}" style="padding-left: 15px !important;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
