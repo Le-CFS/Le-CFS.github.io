@@ -29,4 +29,5 @@ Si vous souhaitez inscrire votre enfant à l’un de ces stages, nous vous invit
 Au plaisir de tous nous retrouver cet été, et de pouvoir offrir à vos enfants, des stages de qualité avec un max de fun et d’amusement !
 
 A très vite!
+
 **L'équipe du CFS**
