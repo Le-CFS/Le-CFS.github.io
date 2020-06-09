@@ -546,21 +546,18 @@ stages:
         img: "/stages/activitesfun/evasion.png"
         lieu: "Bruxelles - Brabant Wallon"
         description: "
-        <strong>BRUXELLES:</strong><br/>
-            Envie d'une semaine hyper fun? Viens à ce stage phare du CFS! Un super programme! Une activité différente chaque jour!<br/>
-            PROGRAMME CARNAVAL: New games, Koezio, escape game, moto, Aqualibi<br/>
-            PROGRAMME PAQUES: New games, Koezio, escape game, moto, une journée à la mer (pas P2)<br/>
-            PROGRAMME ETE: New games, Koezio, Profondville, escape game, une journée à la mer (pas E4)
+            Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne à l’une de nos activités phares en collaboration avec nos différents partenaires et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires les plus strictes ?<br/>
+            Nous te proposons un programme idéal tout au long de la semaine : New games, Koezio, Profondville, escalade et Parc Aventure !<br/>
+            Stage adapté aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement secondaire. En effet, afin de respecter le protocole mis en place pour l’organisation des stages, les enfants devront porter un masque obligatoirement tout au long de la semaine. (Si vous ne souhaitez pas que votre ado effectue des sorties en dehors du centre, un stage est spécialement prévu pour lui ! Nous vous invitons alors à sélectionner le stage « Fun Ados ».
             <hr>
-        <strong>BRABANT:</strong><br/>
-            Envie d'une semaine hyper fun? Viens à ce stage phare du CFS! Un super programme! Une activité différente chaque jour!<br/>
-            PROGRAMME CARNAVAL: snowworld à Peer, Aqualibi (prévoir le maillot), new games (bubble soccer, Vortex), patinoire à Leuven, jeux dans les bois et barbecue.<br/>
-            PROGRAMME PAQUES: snowworld à Peer, Walibi, new games, journée à la mer, jeux dans les bois et barbecue.<br/>
-            PROGRAMME ETE: une journée à Profondville (bouée tractée, canoë, pédalo, paddle, kayak), une journée à Walibi, bubble soccer et new games, une journée à la mer, jeux dans les bois et barbecue.<br/>
-            <br/>
             Attention: le programme change pour les semaines plus courtes.
          "
-        infos: Certaines activités demandent un déplacement en car ou en transport en commun assurés par nos soins.
+        infos: "
+            Les déplacements se font en transports en commun ou en car.<br/>
+            Pour Koezio: taille minimum 1,40 m.<br/>
+            Port du masque obligatoire. Se munir également d’un gel hydroalcoolique. Nous insistons sur ces différentes mesures pour la bonne organisation du stage.<br/>
+            Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de l’expérience pour ce stage et formé pour le respect des différentes mesures à suivre du protocole des stages.
+            "
         inscription: 
         categorie: fun
         online: oui
@@ -571,8 +568,17 @@ stages:
         age: 12-16 ans
         img: "/stages/activitesfun/funado.png"
         lieu: "Bruxelles - Brabant Wallon"
-        description: "<strong>BRUXELLES:</strong> Amusement garanti pour cette semaine de folie! PROGRAMME CARNAVAL: new games, Koezio, Paintball/moto, Jump XL/KO, Aqualibi. PROGRAMME PAQUES: new games, Koezio, Walibi, Jump XL/KO, paintball*moto. PROGRAMME ETE: new games, Koezio, Paintball/moto, Parc Aventure à Wavre, Walibi (pas E4). Les déplacements se font en transports en commun.<hr><strong>BRABANT:</strong>UNE SUPERBE SEMAINE POUR VOS ADOS! Activités fun garanties! PROGRAMME: une journée à Walibi, une journée à Profondville (bouée tracté, canoë, paddle, kayak), bubble soccer et new games, bowling, Koezio. Attention, le programme change pour les semaines plus courtes."
-        infos: Pour Koézio, le taille minimale est d'1,40m. Les navettes sont assurées par le CFS. 
+        description: "
+            Vous souhaitez que votre ado participe à semaine hyper fun et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires les plus strictes mais vous ne souhaitez pas qu’il participe à des activités organisées en dehors du centre ?<br/>
+            Nous vous proposons un programme idéal tout au long de la semaine : Orientation, Geocatching,  Escape Game, Jeu dans les bois, Arrow Game, New Games.<br/>
+            Stage adapté aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement secondaire. En effet, afin de respecter le protocole mis en place pour l’organisation des stages, les enfants devront porter un masque obligatoirement tout au long de la semaine.
+            "
+        infos: "
+            Aucun déplacement en transport en commun, ni en car.<br/>
+            Sorties potentielles à proximité du centre pour la bonne tenue des activités mais TOUJOURS à pied  et en respectant les mesures de distanciations sociales, d’hygiènes et sanitaires les plus strictes.<br/>
+            Port du masque obligatoire. Se munir également d’un gel hydroalcoolique. Nous insistons sur ces différentes mesures pour la bonne organisation du stage.<br/>
+            Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de l’expérience pour ce stage et formé pour le respect des différentes mesures à suivre du protocole des stages.
+            "
         inscription: 
         categorie: fun
         online: oui
