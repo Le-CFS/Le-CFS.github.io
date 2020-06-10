@@ -16,6 +16,7 @@ cfs:
     - title: "Les centres CFS"
       url: /cfs/les_centres_cfs/
       title_mobile: "Liste des centres"
+      online_mobile: false
       mobile: 2 colonnes
       sousmenu:
         - title: "Amay"
@@ -74,11 +75,11 @@ cfs:
 stages_enfants:
   titre: "Stages enfants"
   url: /stages/
-  title_mobile: "Informations"
+  title_mobile: "Réservation"
   sousmenu:
-    - title: "Catalogue des stages"
+    - title: "Un stage pour tous"
       url: /stages/activites/
-      title_mobile: "Liste des stages"
+      title_mobile: "Catalogue des stages"
       sousmenu:
         - title: "Les Petits Bouts"
           url: "/stages/activites/petits_bouts/"
@@ -94,7 +95,7 @@ stages_enfants:
           url: "/stages/activites/activites_artistiques_et_loisirs/"
     - title: "Lieux de stage"
       url: /stages/lieux_de_stage/
-      mobile: 2 colonnes
+      online_mobile: true
       # sousmenu:
       #   - title: "Jette"
       #     url: "/stages/lieux_de_stage/jette/" 
@@ -144,6 +145,7 @@ stages_enfants:
 
     - title: "Informations pratiques"
       url: /stages/informations_pratiques/
+      online_mobile: false
       sousmenu:
         - title: "Organisation générale"
           url: "/stages/informations_pratiques/organisation_generale/" 
@@ -167,7 +169,7 @@ activites:
   sousmenu:
     - title: "Extrascolaire pour tous"
       url: /activites/extrascolaire/
-      title_mobile: "Liste des activités"
+      title_mobile: "Catalogue extrascolaire"
       sousmenu:
         - title: "Les Petits Bouts"
           url: "/activites/extrascolaire/petits_bouts/" 
@@ -184,6 +186,7 @@ activites:
     - title: "École de natation"
       url: /activites/ecole_de_natation/
       title_mobile: "Liste des activités"
+      online_mobile: false
       sousmenu:
         - title: "Bébés nageurs"
           url: /activites/ecole_de_natation/bebes_nageurs/
@@ -200,6 +203,7 @@ activites:
     - title: "CFS Academy"
       url: /activites/cfs_academy/
       title_mobile: "Liste des activités"
+      online_mobile: false
       sousmenu:
         - title: "Mini-foot Academy"
           url: /activites/cfs_academy/mini_foot_academy/
@@ -235,6 +239,7 @@ cours_adultes:
   titre: "Cours adultes"
   url: /cours_adultes/
   title_mobile: "Liste des activités"
+  online_mobile: false
   sousmenu:
     - title: "Abdos fessiers"
       url: /cours_adultes/abdos_fessiers/
@@ -257,7 +262,7 @@ cours_adultes:
 anniversaires:
   titre: "Anniversaires"
   url: /anniversaires/
-  title_mobile: "Liste des activités"
+  title_mobile: "Réservation"
   sousmenu:
     - title: "À mon domicile"
       url: /anniversaires/domicile/
@@ -267,6 +272,7 @@ anniversaires:
       url: /anniversaires/piscine/
     - title: "Réservation"
       url: /anniversaires/reservation/
+      online_mobile: false
     - title: "En savoir plus"
       url: /anniversaires/en_savoir_plus/
 
@@ -274,10 +280,12 @@ events:
   titre: "Events"
   url: /events/
   title_mobile: "Liste des activités"
+  online_mobile: false
   sousmenu:
     - title: "Anniversaires"
       url: /events/anniversaires/
       title_mobile: "Informations générales"
+      online_mobile: false
       sousmenu:
         - title: À mon domicile 
           url: /events/anniversaires/domicile

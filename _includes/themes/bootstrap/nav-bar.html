@@ -14,7 +14,7 @@
 }
 
 .sidenav a {
-  padding: 8px 8px 8px 16px;
+  padding: 8px 8px 8px 8px;
   text-decoration: none;
   font-size: 14px;
   color: #444;
@@ -29,25 +29,31 @@
   right: 25px;
   font-size: 36px;
   margin-left: 50px;
-}
-
-.fa-plus {
-  float: right;
-  padding-right: 8px;
+  padding-top: 25px;
 }
 
 .nav-link[data-toggle].collapsed:after {
     float: right;
-    content: " ▾";
+    content: " +";
 }
 .nav-link[data-toggle]:not(.collapsed):after {
     float: right;
-    content: " ▴";
+    content: " -";
 }
 
 .nav-link-toggle:not(.collapsed) {
     color: #4da5e2;
     font-weight: bold;
+}
+
+.btn-bottom {
+  margin: 5px;
+  margin-left: 10%;
+  width: 80%;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 </style>
@@ -103,7 +109,7 @@
       <button class="navbar-toggler" onclick="openNav()" style="margin-top: 5px; margin-right: 10px; float: right;"><i class="fa fa-bars"></i> Menu</button>
     </div>
     <div class="col-xs-4">
-      
+      <a href="{{ mycfs.href }}" class="btn btn-info-filled btn-bottom" {% if mycfs.autre_page %}target="_blank"{% endif %} style="color: #fff !important;"><i class="fa fa-user"></i> {{ mycfs.texte_mobile }}</a>
     </div>
     <div class="col-xs-4 text-center">
       <a href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt="" style="width: 60%;"></a>
@@ -113,22 +119,39 @@
 </div>
 </div>
 
-<div class="mobile top-menu-inverse fixed-bottom">
+
+<!-- fixed bottom navbar -->
+<!-- 3 choses à changer pour faire varier sa hauteur: le padding top/bottom des boutons dans le css et la font du logo backToTop -->
+<!-- <div class="mobile top-menu-inverse fixed-bottom">
   <div class="row">
     <div class="col-xs-5 text-center">
-      <a href="{{ mycfs.href }}" class="btn btn-info-filled" style="margin: 5px; margin-left: 10%; color: #fff !important; width: 80%; padding-left: 0px; padding-right: 0px;" {% if mycfs.autre_page %}target="_blank"{% endif %}><i class="{{ mycfs.icone }}"></i> {{ mycfs.texte_mobile }}</a>
+      <a href="{{ mycfs.href }}" class="btn btn-info-filled btn-bottom" {% if mycfs.autre_page %}target="_blank"{% endif %} style="color: #fff !important;"><i class="{{ mycfs.icone }}"></i> {{ mycfs.texte_mobile }}</a>
     </div>
     <div class="col-xs-5 text-center">
-      <a href="{{ inscription.href }}" class="btn btn-info-filled" style="margin: 5px; color: #fff !important; margin-right: 10%; width: 80%; padding-left: 0px; padding-right: 0px;" {% if inscription.autre_page %}target="_blank"{% endif %}><i class="{{ inscription.icone }}"></i> {{ inscription.texte_mobile }}</a>
+      <a href="{{ inscription.href }}" class="btn btn-info-filled btn-bottom" {% if inscription.autre_page %}target="_blank"{% endif %} style="color: #fff !important;"><i class="{{ inscription.icone }}"></i> {{ inscription.texte_mobile }}</a>
     </div>
     <div class="col-xs-2 text-center">
-      <a href="#top"><i class="fa fa-arrow-circle-up" style="font-size: 50px;margin-right: 30px" ></i></a>
+      <a href="#top"><i class="fa fa-arrow-circle-up" style="font-size: 30px;"></i></a>
+    </div>
+  </div>
+</div> -->
+
+<div class="mobile top-menu-inverse fixed-bottom">
+  <div class="row">
+    <div class="col-xs-6 text-center" style="padding-top: 7px;">
+      <a href="tel:+3210227396"><i class="fa fa-phone"></i> +32 (0)10227396</a>
+    </div>
+    <div class="col-xs-4 text-center" style="padding-top: 7px;">
+      <a href="mailto:info@lecfs.be"><i class="fa fa-envelope" ></i> info@lecfs.be</a>
+    </div>
+    <div class="col-xs-2 text-center">
+      <a href="#top"><i class="fa fa-arrow-circle-up" style="font-size: 30px; padding-top: 1px;"></i></a>
     </div>
   </div>
 </div>
 
 <div id="mySidenav" class="sidenav" id="sidebar">
-  <a href="javascript:void(0)" class="closebtn" style="float: right !important; padding-top: 25px;" onclick="closeNav()"><i class="fa fa-times"></i></a>
+  <a href="javascript:void(0)" class="closebtn"  onclick="closeNav()"><i class="fa fa-times"></i></a>
   <ul class="flex-column flex-nowrap overflow-hidden" style="padding-top: 35px; padding-bottom: 55px;">
     <!-- Compteur pour pouvoir gérer les id du menu1 -->
     {% assign menu1_index = 1 %}
@@ -141,28 +164,36 @@
         <div class="collapse" id="submenu{{menu1_index}}" aria-expanded="false">
             <ul class="flex-column pl-2 nav">
               <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
-              <li class="nav-item"><b><a class="nav-link" href='{{ menu1[1]["url"] }}' style=""> {{ menu1[1]["title_mobile"] }}</a></b></li>
+              {% unless menu1[1]["online_mobile"] == false %}
+              <li class="nav-item"><b><a class="nav-link" href='{{ menu1[1]["url"] }}' style="padding-left: 16px;"> {{ menu1[1]["title_mobile"] }}</a></b></li>
+              {% endunless %}
               <!-- Compteur pour pouvoir gérer les id du menu2 -->
               {% assign menu2_index = 1 %}
               {% for menu2 in menu1[1]["sousmenu"] %}
               <!-- Si le menu 2 a un sous menu -->
                 {% if menu2.sousmenu %}
                 <li class="nav-item">
-                    <a class="nav-link nav-link-toggle collapsed" href="#submenu{{menu1_index}}sub{{menu2_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}"> {{ menu2.title }}</a>
+                    <a class="nav-link nav-link-toggle collapsed" href="#submenu{{menu1_index}}sub{{menu2_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}" style="padding-left: 16px;"> {{ menu2.title }}</a>
                     <div class="collapse" id="submenu{{menu1_index}}sub{{menu2_index}}" aria-expanded="false">
                         <ul class="flex-column nav pl-4">
                           <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
-                          <li class="nav-item"><b><a class="nav-link py-0" href="{{ menu2.url }}" style="">{{ menu2.title_mobile }}</a></b></li>
+                          {% unless menu2.online_mobile == false %}
+                          <li class="nav-item"><b><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 16px;">{{ menu2.title_mobile }}</a></b></li>
+                          {% endunless %}
                           {% for menu3 in menu2.sousmenu %}
+                            {% unless menu3.online_mobile == false %}
                             <li class="nav-item">
-                                <a class="nav-link p-1" href="{{ menu3.url }}" style=""> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
+                                <a class="nav-link p-1" href="{{ menu3.url }}" style="padding-left: 16px !important;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
                             </li>
+                            {% endunless %}
                           {% endfor %}
                         </ul>
                     </div>
                 </li>
                 {% else %}
-                <li class="nav-item"><a class="nav-link py-0" href="{{ menu2.url }}" style="">{{ menu2.title }}</a></li>
+                  {% unless menu2.online_mobile == false %}
+                    <li class="nav-item"><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 16px;">{{ menu2.title }}</a></li>
+                  {% endunless %}
                 {% endif %}
                 {% assign menu2_index = menu2_index | plus: 1 %}
               {% endfor %}
@@ -170,7 +201,9 @@
         </div>
     </li>
     {% else %}
-    <li class="nav-item"><a class="nav-link" href='{{ menu1[1]["url"] }}' style=""> {{ menu1[1]["titre"] }}</a></li>
+      {% unless menu1[1]["online_mobile"] == false %} <!-- Si le menu principal doit être affiché en version mobile -->
+        <li class="nav-item"><a class="nav-link" href='{{ menu1[1]["url"] }}' style=""> {{ menu1[1]["titre"] }}</a></li>
+      {% endunless %}
     {% endif %}
     {% assign menu1_index = menu1_index | plus: 1 %}
     {% endfor %}
