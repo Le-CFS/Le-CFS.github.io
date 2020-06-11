@@ -8,7 +8,7 @@ sections:
   label: News
   create: all
 - type: directory
-  path: _includes
+  path: _includes/pages
   label: Pages du site
   create: all
   match: "**/*"
