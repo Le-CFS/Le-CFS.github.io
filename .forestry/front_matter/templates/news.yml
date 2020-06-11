@@ -3,7 +3,7 @@ label: NEWS
 hide_body: false
 fields:
 - type: text
-  name: post
+  name: layout
   label: layout
   hidden: true
 - type: text
