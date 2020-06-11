@@ -15,6 +15,7 @@ sections:
   label: _includes
   create: all
   match: "**/*"
+  new_doc_ext: ".html"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
