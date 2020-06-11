@@ -7,15 +7,19 @@ infos:
   online: true
   teaser: Infos pour les stages été 2020
 tags:
-- stages été remédiation
+- stages
+- été
+- remédiation
 seo:
   otype: article
   odescription: Infos pour les stages été 2020
   keywords:
-  - stages été remédiation
+  - stages
+  - été
+  - remédiation
   image: 
   type: article
-  description: ''
+  description: Stages d'été remédiation
   img: ''
 post: ''
 banner: ''
