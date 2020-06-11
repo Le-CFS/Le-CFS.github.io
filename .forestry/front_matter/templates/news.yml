@@ -3,14 +3,16 @@ label: NEWS
 hide_body: false
 fields:
 - type: text
-  name: layout
+  name: post
   label: layout
+  hidden: true
 - type: text
   name: menu
   label: menu
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre de la news
 - type: text
   name: banner
   label: banner
@@ -20,29 +22,32 @@ fields:
   fields:
   - type: text
     name: date
-    label: date
-  - type: boolean
-    name: online
-    label: online
+    label: Date de publication
   - type: text
     name: teaser
     label: teaser
 - type: text
   name: tags
-  label: tags
+  label: Tags
 - type: field_group
   name: seo
-  label: seo
+  label: SEO et référencement
   fields:
   - type: text
     name: type
     label: type
+    hidden: true
+    default: article
   - type: file
     name: img
     label: img
   - type: text
     name: keywords
-    label: keywords
+    label: Tags pour moteur de recherche
+    config:
+      required: true
   - type: text
     name: description
-    label: description
+    label: Description pour moteur de recherche
+    config:
+      required: true
