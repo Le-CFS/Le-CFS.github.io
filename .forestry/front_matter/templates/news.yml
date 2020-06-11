@@ -37,9 +37,14 @@ fields:
     name: teaser
     label: teaser
 - name: seo
-  type: include
+  type: field_group
   config: {}
-  template: seo
-  label: SEO et référencement
+  fields:
+  - name: seo
+    type: include
+    config: {}
+    template: seo
+    label: seo
+  label: seo
 pages:
 - _posts/2020-05-19-nouveau-stage-de-remediation.md
