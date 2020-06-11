@@ -1,0 +1,48 @@
+---
+label: NEWS
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: menu
+  label: menu
+- type: text
+  name: title
+  label: title
+- type: text
+  name: banner
+  label: banner
+- type: field_group
+  name: infos
+  label: infos
+  fields:
+  - type: text
+    name: date
+    label: date
+  - type: boolean
+    name: online
+    label: online
+  - type: text
+    name: teaser
+    label: teaser
+- type: text
+  name: tags
+  label: tags
+- type: field_group
+  name: seo
+  label: seo
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: file
+    name: img
+    label: img
+  - type: text
+    name: keywords
+    label: keywords
+  - type: text
+    name: description
+    label: description
