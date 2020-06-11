@@ -36,26 +36,10 @@ fields:
   - type: text
     name: teaser
     label: teaser
-- type: field_group
-  name: seo
+- name: seo
+  type: include
+  config: {}
+  template: seo
   label: SEO et référencement
-  fields:
-  - type: text
-    name: type
-    label: type
-    hidden: true
-    default: article
-  - name: keywords
-    type: tag_list
-    default: []
-    label: Tags pour moteur de recherche
-  - type: text
-    name: description
-    label: Description pour moteur de recherche
-    config:
-      required: true
-  - type: file
-    name: img
-    label: img
 pages:
 - _posts/2020-05-19-nouveau-stage-de-remediation.md
