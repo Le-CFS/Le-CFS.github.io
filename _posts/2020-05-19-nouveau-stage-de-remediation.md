@@ -6,12 +6,20 @@ infos:
   date: 19.05.2020
   online: true
   teaser: Infos pour les stages été 2020
-tags: stages été remédiation
+tags:
+- stages été remédiation
 seo:
   otype: article
   odescription: Infos pour les stages été 2020
-  keywords: stages été remédiation
-  image: null
+  keywords:
+  - stages été remédiation
+  image: 
+  type: article
+  description: ''
+  img: ''
+post: ''
+banner: ''
+
 ---
 Chers parents, grands-parents,
 

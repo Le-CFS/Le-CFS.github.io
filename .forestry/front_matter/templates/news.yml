@@ -51,3 +51,5 @@ fields:
   - type: file
     name: img
     label: img
+pages:
+- _posts/2020-05-19-nouveau-stage-de-remediation.md
