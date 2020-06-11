@@ -22,7 +22,7 @@ fields:
   name: infos
   label: infos
   fields:
-  - name: date_publi
+  - name: date
     type: datetime
     label: Date de publication
     description: ''
