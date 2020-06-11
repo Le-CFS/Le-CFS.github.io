@@ -1,0 +1,41 @@
+---
+label: Stages
+hide_body: true
+fields:
+- type: field_group_list
+  name: stages
+  label: stages
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: datetime
+    name: age
+    label: age
+  - type: file
+    name: img
+    label: img
+  - type: text
+    name: lieu
+    label: lieu
+  - type: textarea
+    name: description
+    label: description
+  - type: textarea
+    name: infos
+    label: infos
+  - type: text
+    name: inscription
+    label: inscription
+  - type: text
+    name: categorie
+    label: categorie
+  - type: text
+    name: online
+    label: online
+  - type: text
+    name: nouveau
+    label: nouveau
+  - type: text
+    name: stage_une
+    label: stage_une
