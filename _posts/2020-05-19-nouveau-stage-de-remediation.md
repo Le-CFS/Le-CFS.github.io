@@ -6,6 +6,7 @@ infos:
   date: 19.05.2020
   online: true
   teaser: Infos pour les stages été 2020
+  date_publi: 
 tags:
 - stages
 - été
@@ -20,7 +21,7 @@ seo:
   image: 
   type: article
   description: Stages d'été remédiation
-  img: ''
+  img: "/assets/images/stages/remediation.jpg"
 post: ''
 banner: ''
 
