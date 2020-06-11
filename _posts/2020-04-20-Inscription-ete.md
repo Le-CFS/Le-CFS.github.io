@@ -21,7 +21,9 @@ seo:
   description: Inscription aux stages d'été
   type: article
   keywords:
-  - stages été inscription
+  - stages
+  - été
+  - inscription
   image: 
   img: ''
 category: 
