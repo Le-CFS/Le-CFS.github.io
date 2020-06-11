@@ -3,7 +3,7 @@ label: NEWS
 hide_body: false
 fields:
 - type: text
-  name: post
+  name: layout
   label: layout
   hidden: true
 - type: text
@@ -28,11 +28,11 @@ fields:
     description: ''
     config:
       required: false
-      date_format: DD-MM-YYY
+      date_format: DD-MM-YYYY
       time_format: 
       display_utc: false
       export_format: YYYY-MM-DD
-    default: now
+    default: ''
   - type: text
     name: teaser
     label: teaser
