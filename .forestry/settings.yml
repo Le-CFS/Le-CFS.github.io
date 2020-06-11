@@ -13,6 +13,12 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: html
+- type: directory
+  path: _data
+  label: Fichiers de données
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".yml, .yaml"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
