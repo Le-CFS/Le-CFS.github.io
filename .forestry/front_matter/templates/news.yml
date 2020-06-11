@@ -13,6 +13,10 @@ fields:
 - type: text
   name: title
   label: Titre de la news
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 - type: text
   name: banner
   label: banner
@@ -26,9 +30,6 @@ fields:
   - type: text
     name: teaser
     label: teaser
-- type: text
-  name: tags
-  label: Tags
 - type: field_group
   name: seo
   label: SEO et référencement
@@ -38,16 +39,15 @@ fields:
     label: type
     hidden: true
     default: article
-  - type: file
-    name: img
-    label: img
-  - type: text
-    name: keywords
+  - name: keywords
+    type: tag_list
+    default: []
     label: Tags pour moteur de recherche
-    config:
-      required: true
   - type: text
     name: description
     label: Description pour moteur de recherche
     config:
       required: true
+  - type: file
+    name: img
+    label: img
