@@ -47,5 +47,6 @@ fields:
     label: seo
   label: seo
 pages:
+- _posts/2020-03-13-information-derniere-minute-coronavirus.md
 - _posts/2020-05-19-nouveau-stage-de-remediation.md
 - _posts/2020-06-05-ouverture-des-stages-protocol-3.md
