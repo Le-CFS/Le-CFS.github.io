@@ -1,17 +1,9 @@
 ---
-css: 
-img: logo.png
 layout: post
-menu: cfs
 infos:
   date: 0020-03-13
-  online: true
   teaser: Information de dernière minute.
-keywords: 
-author: 
 banner: ''
-img-mobile: 
-tagline: INFORMATION DERNIERE MINUTE – CORONAVIRUS
 title: CORONAVIRUS
 tags:
 - coronavirus
@@ -20,10 +12,7 @@ seo:
   keywords:
   - coronavirus
   type: article
-  image: 
   img: ''
-category: 
-post: ''
 
 ---
 Malheureusement, suite aux décisions prises par le gouvernement, nous sommes désolés de vous annoncer que toutes nos activités sont suspendues à partir de ce samedi 14/03 et ce jusqu’au vendredi 03/04 inclus.

@@ -1,17 +1,9 @@
 ---
-css: 
-img: 
 layout: post
-menu: cfs
 infos:
   date: 0020-04-20
-  online: true
   teaser: Inscription aux stages d'été
-keywords: stages été, inscription, stages enfants, stages
-author: 
 banner: ''
-img-mobile: 
-tagline: Inscription aux stages d'été
 title: Informations inscription stages été
 tags:
 - stages
@@ -24,10 +16,7 @@ seo:
   - stages
   - été
   - inscription
-  image: 
   img: ''
-category: 
-post: ''
 
 ---
 Chers parents, chers grands-parents,

@@ -1,28 +1,21 @@
 ---
 layout: post
-menu: cfs
 title: Nouveau stage de remédiation
 infos:
   date: 0020-05-19
-  online: true
   teaser: Infos pour les stages été 2020
-  date_publi: ''
 tags:
 - stages
 - été
 - remédiation
 seo:
-  otype: article
-  odescription: Infos pour les stages été 2020
   keywords:
   - stages
   - été
   - remédiation
-  image: 
   type: article
   description: Stages d'été remédiation
   img: "/assets/images/stages/remediation.jpg"
-post: ''
 banner: ''
 
 ---

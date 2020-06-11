@@ -1,17 +1,9 @@
 ---
-css: 
-img: 
 layout: post
-menu: cfs
 infos:
   date: 0020-03-27
-  online: true
   teaser: Nouvelles mesures du gouvernement.
-keywords: 
-author: 
 banner: ''
-img-mobile: 
-tagline: Nouvelles mesures du gouvernement.
 title: Annulation des stages de Pâques
 tags:
 - coronavirus
@@ -24,10 +16,7 @@ seo:
   - stages
   - pâques
   type: article
-  image: 
   img: ''
-category: 
-post: ''
 
 ---
 Chers Parents, Grands-Parents,
