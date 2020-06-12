@@ -32,23 +32,23 @@ fields:
   - type: file
     name: img
     label: Image du stage
-    description: Le nom du stage doit être écrit sur l'image.
-  - type: text
-    name: inscription
-    label: inscription
-  - name: nouveau
-    type: boolean
-    label: Nouveau stage ?
-    description: Label vert "NOUVEAU" sur le stage.
+    description: Le nom du stage <strong>ne doit pas</strong> être écrit sur l'image.
   - name: online
     type: boolean
     label: En ligne ?
     description: Le stage doit-il être publié ?
     default: true
+  - name: nouveau
+    type: boolean
+    label: Nouveau stage ?
+    description: Label vert "NOUVEAU" sur le stage.
   - name: stage_une
     type: boolean
     label: Stage à la une ?
     description: Le stage doit-il être affiché en une sur la page d'accueil ?
+  - type: text
+    name: inscription
+    label: inscription
   - name: location
     type: field_group_list
     fields:
