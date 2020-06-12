@@ -8,34 +8,97 @@ fields:
   fields:
   - type: text
     name: name
-    label: name
-  - type: datetime
-    name: age
-    label: age
+    label: Nom du stage
+    config:
+      required: true
+  - name: categorie
+    type: select
+    default: []
+    config:
+      required: true
+      options:
+      - Les petits bouts
+      - Découvertes sportives et culturelles
+      - Danse et Gymnastique
+      - Activités fun
+      - Activités sportives
+      - Activités artistiques et loisirs
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Catégorie
   - type: file
     name: img
-    label: img
-  - type: text
-    name: lieu
-    label: lieu
-  - type: textarea
-    name: description
-    label: description
-  - type: textarea
-    name: infos
-    label: infos
+    label: Image du stage
+    description: Le nom du stage doit être écrit sur l'image.
   - type: text
     name: inscription
     label: inscription
-  - type: text
-    name: categorie
-    label: categorie
-  - type: text
-    name: online
-    label: online
-  - type: text
-    name: nouveau
-    label: nouveau
-  - type: text
-    name: stage_une
-    label: stage_une
+  - name: nouveau
+    type: boolean
+    label: Nouveau stage ?
+    description: Label vert "NOUVEAU" sur le stage.
+  - name: online
+    type: boolean
+    label: En ligne ?
+    description: Le stage doit-il être publié ?
+    default: true
+  - name: stage_une
+    type: boolean
+    label: Stage à la une ?
+    description: Le stage doit-il être affiché en une sur la page d'accueil ?
+  - name: location
+    type: field_group_list
+    fields:
+    - name: ville
+      type: select
+      default: ''
+      config:
+        required: true
+        options:
+        - Brabant Wallon
+        - Bruxelles
+        - Liège
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      label: Ville
+    - name: age
+      type: text
+      config:
+        required: false
+      label: Tranche d'âge
+      description: Laisser vide si identique au précédent.
+    - name: description
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: Description du stage
+      description: Laisser vide si identique au précédent.
+    - name: infos
+      type: field_group_list
+      fields:
+      - name: info_line
+        type: text
+        config:
+          required: false
+        label: Information
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: Informations complémentaires
+      description: Laisser vide si identique au précédent.
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Liste des lieux de stages
