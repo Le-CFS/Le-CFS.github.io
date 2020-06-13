@@ -50,7 +50,7 @@ Les inscriptions pour nos stages d’été sont ouvertes !
 
 <div class="row">
 	<div class="col-md-6 col-xs-6">
-		<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&Categorie=4&Province=Brabant&Groupe=1&_ga=2.33828643.368929687.1587378070-1729421294.1539351770" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important; margin-bottom: 20px;" target="_blank">Inscription</a>
+		<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant&Groupe=1&_ga=2.33828643.368929687.1587378070-1729421294.1539351770" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important; margin-bottom: 20px;" target="_blank">Inscription</a>
 	</div>
 </div>
 

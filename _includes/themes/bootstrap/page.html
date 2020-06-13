@@ -1,21 +1,28 @@
-<div class="row">
-  <div class="col-md-10 offset-md-1">
-    <div id="content">
+<div id="content">
+  <div class="row">
+    <div class="col-xs-1 col-md-2"></div>
+    <div class="col-md-8 col-xs-10">
 
-      {% if page.menu %}
-        {% include menus/menu_left_{{ page.menu }}.html %}
-      {% endif %}
+      <div class="row">
+        {% if page.menu %}
+          <div class="desktop col-md-3">
+            
+              {% include menus/menu_left.html %}
+            
+          </div>
+        {% endif %}
 
-      <!-- banner de la page -->
-      
-
-      {{ content }}
-
-      {% if page.menu %}
-        {% include menus/menu_left_{{ page.menu }}.html mobile="oui" %}
-        {% include menus/menu_left_end.html mobile="oui" %}
-      {% endif %}
-
+        <div class="col-md-{% if page.menu %}9{% else %}12{% endif %}">
+          {% if page.banner %}
+            <center>
+              <img src="{{ BASE_PATH }}{{ page.banner }}" alt="{{ page.title }}" style="width: 90%; border-radius: 10px;"></img>
+            </center>
+            <div class="desktop mb-60"></div>
+            <span class="mobile" style="padding-bottom: 20px;"></span>
+          {% endif %}
+          {{ content }}
+        </div>
+      </div>
     </div>
   </div>
 </div>
