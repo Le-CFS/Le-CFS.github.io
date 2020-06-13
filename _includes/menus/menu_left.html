@@ -5,6 +5,10 @@
 {% if pageurl contains 'https://www.lecfs.be/cfs/' %}
 {% assign menu_principal = menu['cfs'] %}
 
+{% elsif pageurl contains 'https://www.lecfs.be/news/' %}
+{% assign menu_principal = menu['cfs'] %}
+
+
 {% elsif pageurl contains 'https://www.lecfs.be/stages/' %}
 {% assign menu_principal = menu['stages_enfants'] %}
 
@@ -27,6 +31,7 @@
 
 {% elsif pageurl contains 'https://www.lecfs.be/brochures/' %}
 {% assign menu_principal = menu['brochures'] %}
+
 {% endif %}
 
 <div class="blog-block categories-sidebar-widget">
