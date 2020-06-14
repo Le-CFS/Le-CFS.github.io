@@ -1,35 +1,37 @@
 {% assign menu = site.data.menu %}
 
-{% capture pageurl %}{{ BASE_PATH }}{{ page.url }}{% endcapture %}
+{% capture pageurl %}{{ page.url }}{% endcapture %}
 
-{% if pageurl contains 'https://www.lecfs.be/cfs/' %}
+{% if pageurl contains '/cfs/' %}
 {% assign menu_principal = menu['cfs'] %}
 
-{% elsif pageurl contains 'https://www.lecfs.be/news/' %}
+{% elsif pageurl contains '/news/' %}
 {% assign menu_principal = menu['cfs'] %}
 
 
-{% elsif pageurl contains 'https://www.lecfs.be/stages/' %}
+{% elsif pageurl contains '/stages/' %}
 {% assign menu_principal = menu['stages_enfants'] %}
 
 
-{% elsif pageurl contains 'https://www.lecfs.be/activites/' %}
+{% elsif pageurl contains '/activites/' %}
 {% assign menu_principal = menu['activites'] %}
 
 
-{% elsif pageurl contains 'https://www.lecfs.be/cours_adultes/' %}
+{% elsif pageurl contains '/cours_adultes/' %}
 {% assign menu_principal = menu['cours_adultes'] %}
 
+<!-- Pour éviter que la page event/anniversaires passe avec le menu anniversaires -->
+{% elsif pageurl contains '/events/anniversaires/' %}
+{% assign menu_principal = menu['events'] %}
 
-{% elsif pageurl contains 'https://www.lecfs.be/anniversaires/' %}
+{% elsif pageurl contains '/anniversaires/' %}
 {% assign menu_principal = menu['anniversaires'] %}
 
-
-{% elsif pageurl contains 'https://www.lecfs.be/events/' %}
+{% elsif pageurl contains '/events/' %}
 {% assign menu_principal = menu['events'] %}
 
 
-{% elsif pageurl contains 'https://www.lecfs.be/brochures/' %}
+{% elsif pageurl contains '/brochures/' %}
 {% assign menu_principal = menu['brochures'] %}
 
 {% endif %}
