@@ -1,18 +1,22 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: News
-  create: all
+- type: document
+  path: index.html
+  label: Page d'accueil
+  match: "**/*"
 - type: directory
   path: _includes/pages
   label: Pages du site
   create: all
   match: "**/*"
   new_doc_ext: html
+- type: jekyll-posts
+  label: News
+  create: all
 - type: directory
   path: _data
   label: Fichiers de données
