@@ -24,9 +24,9 @@ slider:
   # PAS PLUS DE 3 AUTRES IMAGES
   autres:
     # image 2
-    - titre: Défis de confinement
-      src: /assets/images/slider/accueil/confinement.jpg
-      href: https://www.facebook.com/CFSasbl/
+    - titre: 
+      src: 
+      href: 
     #image 3
     - titre: 
       src: 
