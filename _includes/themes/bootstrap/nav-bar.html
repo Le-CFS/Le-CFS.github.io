@@ -163,7 +163,10 @@
         <a class="nav-link nav-link-toggle collapsed" href="#submenu{{menu1_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}"> {{ menu1[1]["titre"] }}</a>
         <div class="collapse" id="submenu{{menu1_index}}" aria-expanded="false">
             <ul class="flex-column pl-2 nav">
-              <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
+              <!-- 
+                  Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal
+                  Mais parfois elle n'est pas indispensable en version mobile
+              -->
               {% unless menu1[1]["online_mobile"] == false %}
               <li class="nav-item"><b><a class="nav-link" href='{{ menu1[1]["url"] }}' style="padding-left: 16px;"> {{ menu1[1]["title_mobile"] }}</a></b></li>
               {% endunless %}
@@ -173,26 +176,49 @@
               <!-- Si le menu 2 a un sous menu -->
                 {% if menu2.sousmenu %}
                 <li class="nav-item">
-                    <a class="nav-link nav-link-toggle collapsed" href="#submenu{{menu1_index}}sub{{menu2_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}" style="padding-left: 16px;"> {{ menu2.title }}</a>
+                    <a class="nav-link nav-link-toggle collapsed" href="#submenu{{menu1_index}}sub{{menu2_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}" style="padding-left: 16px;"> {% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a>
                     <div class="collapse" id="submenu{{menu1_index}}sub{{menu2_index}}" aria-expanded="false">
                         <ul class="flex-column nav pl-4">
                           <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
                           {% unless menu2.online_mobile == false %}
-                          <li class="nav-item"><b><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 16px;">{{ menu2.title_mobile }}</a></b></li>
+                            <li class="nav-item"><b><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 16px;">{% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a></b></li>
                           {% endunless %}
+
+                          {% assign menu3_index = 1 %}
                           {% for menu3 in menu2.sousmenu %}
-                            {% unless menu3.online_mobile == false %}
-                            <li class="nav-item">
-                                <a class="nav-link p-1" href="{{ menu3.url }}" style="padding-left: 16px !important;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
-                            </li>
-                            {% endunless %}
+                            <!-- Si le menu 3 a un sous menu -->
+                            {% if menu3.sousmenu %}
+                              <li class="nav-item">
+                                <a class="nav-link nav-link-toggle collapsed" href="#submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" style="padding-left: 16px;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
+                                <div class="collapse" id="submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" aria-expanded="false">
+                                  <ul class="flex-column nav pl-4">
+                                    <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
+                                    {% unless menu3.online_mobile == false %}
+                                      <li class="nav-item"><b><a class="nav-link py-0" href="{{ menu3.url }}" style="padding-left: 16px;">{% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a></b></li>
+                                    {% endunless %}
+                                    {% for menu4 in menu3.sousmenu %}
+                                      <li class="nav-item">
+                                        <a class="nav-link p-1" href="{{ menu4.url }}" style="padding-left: 16px !important;"> {% if menu4.title_mobile %}{{ menu4.title_mobile }}{% else %}{{ menu4.title }}{% endif %}</a>
+                                      </li>
+                                    {% endfor %}
+                                  </ul>
+                                </div>
+                              </li>
+                            {% else %}
+                              {% unless menu3.online_mobile == false %}
+                              <li class="nav-item">
+                                  <a class="nav-link p-1" href="{{ menu3.url }}" style="padding-left: 16px !important;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
+                              </li>
+                              {% endunless %}
+                            {% endif %}
+                            {% assign menu3_index = menu3_index | plus: 1 %}
                           {% endfor %}
                         </ul>
                     </div>
                 </li>
                 {% else %}
                   {% unless menu2.online_mobile == false %}
-                    <li class="nav-item"><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 16px;">{{ menu2.title }}</a></li>
+                    <li class="nav-item"><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 16px;">{% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a></li>
                   {% endunless %}
                 {% endif %}
                 {% assign menu2_index = menu2_index | plus: 1 %}
