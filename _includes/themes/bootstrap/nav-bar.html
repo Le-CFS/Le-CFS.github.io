@@ -46,10 +46,9 @@
     font-weight: bold;
 }
 
-.btn-bottom {
-  margin: 5px;
-  margin-left: 10%;
-  width: 80%;
+.btn-top {
+  margin-top: 2px;
+  width: 48%;
   padding-left: 0px;
   padding-right: 0px;
   padding-top: 1px;
@@ -105,14 +104,15 @@
 <div class="mobile">
 <div class="top-menu-inverse fixed-top">
   <div class="row">
-    <div class="col-xs-4">
-      <button class="navbar-toggler" onclick="openNav()" style="margin-top: 5px; margin-right: 10px; float: right;"><i class="fa fa-bars"></i> Menu</button>
+    <div class="col-xs-2">
+      <button class="navbar-toggler" onclick="openNav()" style="margin-left: 10px;"><i class="fa fa-bars"></i></button>
     </div>
-    <div class="col-xs-4">
-      <a href="{{ mycfs.href }}" class="btn btn-info-filled btn-bottom" {% if mycfs.autre_page %}target="_blank"{% endif %} style="color: #fff !important;"><i class="fa fa-user"></i> {{ mycfs.texte_mobile }}</a>
+    <div class="col-xs-7">
+      <a href="{{ mycfs.href }}" class="btn btn-info-filled btn-top" {% if mycfs.autre_page %}target="_blank"{% endif %} style="color: #fff !important;"><i class="fa fa-user"></i> {{ mycfs.texte_mobile }}</a>
+      <a href="{{ inscription.href }}" class="btn btn-info-filled btn-top" {% if inscription.autre_page %}target="_blank"{% endif %} style="color: #fff !important;"><i class="{{ inscription.icone }}"></i> {{ inscription.texte_mobile }}</a>
     </div>
-    <div class="col-xs-4 text-center">
-      <a href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt="" style="width: 60%;"></a>
+    <div class="col-xs-3 text-center">
+      <a href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt="" style="width: 60%; padding: 1px;"></a>
     </div>
     
   </div>
