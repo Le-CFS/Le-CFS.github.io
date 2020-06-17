@@ -93,13 +93,13 @@ stages_enfants:
           url: "/stages/activites/activites_sportives/"
         - title: "Activités artistiques et loisirs"
           url: "/stages/activites/activites_artistiques_et_loisirs/"
-    - title: "Protocoles ETE 2020"
+    - title: "Organisation ETE 2020"
       url: /stages/protocole/
       online_mobile: false
       sousmenu:
-        - title: "Protocole général"
+        - title: "Organisation générale"
           url: /stages/protocole/general/
-        - title: "Protocole Bruxelles"
+        - title: "Silos à Bruxelles"
           url: /stages/protocole/bruxelles/
           online_mobile: false
           sousmenu:
@@ -115,7 +115,7 @@ stages_enfants:
               url: "/stages/protocole/bruxelles/woluwe/"
             - title: "Auderghem"
               url: "/stages/protocole/bruxelles/auderghem/"
-        - title: "Protocole Brabant"
+        - title: "Silos à  Brabant"
           url: /stages/protocole/brabant/
           online_mobile: false
           sousmenu:
@@ -129,7 +129,7 @@ stages_enfants:
               url: "/stages/protocole/brabant/bierges/"
             - title: "Walhain"
               url: "/stages/protocole/brabant/walhain/"
-        - title: "Protocole Liège"
+        - title: "Silos à  Liège"
           url: /stages/protocole/liege/
           online_mobile: false
           sousmenu:
