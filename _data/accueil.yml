@@ -56,6 +56,14 @@ selection:
       autre_page:
       bouton: Plus d'info
       couleur_bouton: 
+    - titre: "Aqua Biking"
+      titre_img: 
+      titre_overlay: 
+      src: /assets/images/boutonscoursadultes/aquabiking.png
+      href: /cours_adultes/aquabike/
+      autre_page:
+      bouton: Inscription
+      couleur_bouton: 
     - titre: "École de natation"
       titre_img: 
       titre_overlay: 
@@ -64,14 +72,6 @@ selection:
       autre_page: 
       bouton: Plus d'info
       couleur_bouton: 
-    - titre: "Swiss Jump"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/boutonscoursadultes/selectioncfs_swissjump.png
-      href: /cours_adultes/swissjump/
-      autre_page:
-      bouton: Inscription
-      couleur_bouton: 
 
 slogan: Le CFS, à votre service depuis 1981.
 
@@ -79,6 +79,42 @@ une:
   # Nom de la catégorie
   nom: "Stages à la Une"
   images:
+    - name: "Bulle ado"
+      titre_overlay: 
+      img: "/stages/bulleado.jpg"
+      bouton: Plus d'info
+      nouveau: oui
+      infos: "Tous les repas de l'hôtel sont servis sous forme de buffets avec eau à table. Les boissons pétillantes sont payantes. Les stagiaires logent tous au même étage de l'hôtel et sont encadrés par le staff de moniteurs 24h sur 24."
+      description: "Afin de laisser place au suspens et de permettre à chaque moniteur de créer un stage original et varié, 
+                      le programme sera adapté en fonction de son organisation et de l'âge moyen du groupe.
+                      Parmi les différentes activités possibles: Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, 
+                      Profondeville (bouées tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois des rêves,
+                      Visite de musées/Culturels, Patinoire à Leuven et découverte de la ville, journée à la mer...
+                      et éventuellement d'autres activités en fonction des initiatives de nos moniteurs."
+      lieu: "Brabant Wallon"
+      age: 12-16 ans
+    
+    - name: "Évasion"
+      titre_overlay: 
+      img: "/stages/evasionalaune.jpg"
+      bouton: Plus d'info
+      nouveau: oui
+      infos: "
+            Les déplacements se font en transports en commun ou en car.<br/>
+            Pour Koezio: taille minimum 1,40 m.<br/>
+            Port du masque obligatoire. Se munir également d’un gel hydroalcoolique. Nous insistons sur ces différentes mesures pour la bonne organisation du stage.<br/>
+            Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de l’expérience pour ce stage et formé pour le respect des différentes mesures à suivre du protocole des stages.
+            " 
+      description: "
+            Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne à l’une de nos activités phares en collaboration avec nos différents partenaires et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires les plus strictes ?<br/>
+            Nous te proposons un programme idéal tout au long de la semaine : <b>New games, Koezio, escalade et Parc Aventure</b> !<br/>
+            Stage adapté aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement secondaire. En effet, afin de respecter le protocole mis en place pour l’organisation des stages, les enfants devront porter un masque obligatoirement tout au long de la semaine. (Si vous ne souhaitez pas que votre ado effectue des sorties en dehors du centre, un stage est spécialement prévu pour lui ! Nous vous invitons alors à sélectionner le stage « Fun Ados ».
+            <hr>
+            Attention: le programme change pour les semaines plus courtes.
+         "
+      lieu: "Bruxelles - Brabant Wallon"
+      age: Bruxelles 10-14 ans / Brabant 10-16 ans
+
     - name: "Remédiation & Sport"
       titre_overlay: "Remédiation & Sport"
       img: "/stages/remediation.jpg"
@@ -91,26 +127,6 @@ une:
                     "
       lieu: "Bruxelles - Brabant Wallon"
       age: 6-14 ans
-    
-    - name: "Nauti Camp"
-      titre_overlay: 
-      img: "/stages/nauticampalaune.jpg"
-      bouton: Plus d'info
-      nouveau: oui
-      infos: "Tous les repas de l'hôtel sont servis sous forme de buffets avec eau à table. Les boissons pétillantes sont payantes. Les stagiaires logent tous au même étage de l'hôtel et sont encadrés par le staff de moniteurs 24h sur 24."
-      description:  "Envie de goûter aux joies des sports nautiques sous le soleil de l'Espagne (Platja d'Aro - Costa Brava). Venez découvrir en compagnie de notre staff de moniteurs les joies des sports de mer : Kayak de mer, Paddle surf, Snorkeling, pédalo, Bouée « banane » tractée, Activités plage,… L'occasion de vivre une semaine détente-vacances : sports, piscine, plage et mer. Excursions (Aquapark et sortie bateau) possibles et visite de Barcelone comprise dans le séjour. Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve."
-      lieu: Espagne - Playa de Aro - Hotel Platja Park
-      age: 12-17 ans
-    
-    - name: "Débrouillard"
-      titre_overlay: 
-      img: "/stages/debrouillard2.png"
-      bouton: Plus d'info
-      nouveau: oui
-      infos: 
-      description:  "Aider un enfant à se débrouiller dans la vie de tous les jours. Une semaine de stage avec 10 ateliers pédagogiques mais sous forme de jeux. Les enfants pourront reprendre leurs petits carnet en fin de stage. Voici les thèmes abordés lors de ce stage: Entretenir et réparer son vélo / trottinette, les premiers secours, faire des nœuds et construire un abri, bricolage  notion d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son chemin, s’orienter et lire une carte, escalader."
-      lieu: "Brabant Wallon"
-      age: 10-13 ans
     
     - name: "Robotique"
       titre_overlay: 

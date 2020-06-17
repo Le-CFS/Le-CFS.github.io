@@ -566,7 +566,7 @@ stages:
     -
         name: "Fun Ado"
         age: 12-16 ans
-        img: "/stages/activitesfun/funado.png"
+        img: "/stages/activitesfun/funado.jpg"
         lieu: "Bruxelles - Brabant Wallon"
         description: "
             Vous souhaitez que votre ado participe à semaine hyper fun et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires les plus strictes mais vous ne souhaitez pas qu’il participe à des activités organisées en dehors du centre ?<br/>
@@ -1414,4 +1414,21 @@ stages:
         categorie: artistiques
         online: oui
         nouveau:
+        stage_une:
+    -
+        name: "Bulle Ado"
+        age: 12-16 ans
+        img: "/stages/activitesfun/bulleado.png"
+        lieu: "Brabant Wallon"
+        description: "Afin de laisser place au suspens et de permettre à chaque moniteur de créer un stage original et varié, 
+                      le programme sera adapté en fonction de son organisation et de l'âge moyen du groupe.
+                      Parmi les différentes activités possibles: Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, 
+                      Profondeville (bouées tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois des rêves,
+                      Visite de musées/Culturels, Patinoire à Leuven et découverte de la ville, journée à la mer...
+                      et éventuellement d'autres activités en fonction des initiatives de nos moniteurs."
+        infos: "Toutes les activités n'auront pas lieu chaque semaine à l'exception de Profondeville."
+        inscription: 
+        categorie: fun
+        online: oui
+        nouveau: oui
         stage_une:
