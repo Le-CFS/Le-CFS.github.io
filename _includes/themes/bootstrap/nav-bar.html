@@ -34,11 +34,11 @@
 
 .nav-link[data-toggle].collapsed:after {
     float: right;
-    content: " +";
+    content: " ▼";
 }
 .nav-link[data-toggle]:not(.collapsed):after {
     float: right;
-    content: " -";
+    content: " ▲";
 }
 
 .nav-link-toggle:not(.collapsed) {
@@ -181,7 +181,7 @@
                         <ul class="flex-column nav pl-4">
                           <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
                           {% unless menu2.online_mobile == false %}
-                            <li class="nav-item"><b><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 16px;">{% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a></b></li>
+                            <li class="nav-item"><b><a class="nav-link" href="{{ menu2.url }}" style="padding-left: 16px;">{% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a></b></li>
                           {% endunless %}
 
                           {% assign menu3_index = 1 %}
@@ -194,11 +194,11 @@
                                   <ul class="flex-column nav pl-4">
                                     <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
                                     {% unless menu3.online_mobile == false %}
-                                      <li class="nav-item"><b><a class="nav-link py-0" href="{{ menu3.url }}" style="padding-left: 16px;">{% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a></b></li>
+                                      <li class="nav-item"><b><a class="nav-link" href="{{ menu3.url }}" style="padding-left: 16px;">{% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a></b></li>
                                     {% endunless %}
                                     {% for menu4 in menu3.sousmenu %}
                                       <li class="nav-item">
-                                        <a class="nav-link p-1" href="{{ menu4.url }}" style="padding-left: 16px !important;"> {% if menu4.title_mobile %}{{ menu4.title_mobile }}{% else %}{{ menu4.title }}{% endif %}</a>
+                                        <a class="nav-link" href="{{ menu4.url }}" style="padding-left: 16px !important;"> {% if menu4.title_mobile %}{{ menu4.title_mobile }}{% else %}{{ menu4.title }}{% endif %}</a>
                                       </li>
                                     {% endfor %}
                                   </ul>
@@ -207,7 +207,7 @@
                             {% else %}
                               {% unless menu3.online_mobile == false %}
                               <li class="nav-item">
-                                  <a class="nav-link p-1" href="{{ menu3.url }}" style="padding-left: 16px !important;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
+                                  <a class="nav-link" href="{{ menu3.url }}" style="padding-left: 16px !important;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
                               </li>
                               {% endunless %}
                             {% endif %}
@@ -218,7 +218,7 @@
                 </li>
                 {% else %}
                   {% unless menu2.online_mobile == false %}
-                    <li class="nav-item"><a class="nav-link py-0" href="{{ menu2.url }}" style="padding-left: 16px;">{% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ menu2.url }}" style="padding-left: 16px;">{% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a></li>
                   {% endunless %}
                 {% endif %}
                 {% assign menu2_index = menu2_index | plus: 1 %}
