@@ -7,13 +7,18 @@ sections:
 - type: document
   path: index.html
   label: Page d'accueil
-  match: "**/*"
 - type: directory
   path: _includes/pages
-  label: Pages du site
+  label: Pages (INCLUDES)
   create: all
   match: "**/*"
   new_doc_ext: html
+- type: directory
+  path: pages
+  label: Pages (PAGES)
+  create: all
+  match: "**/*"
+  new_doc_ext: ".html"
 - type: jekyll-posts
   label: News
   create: all
