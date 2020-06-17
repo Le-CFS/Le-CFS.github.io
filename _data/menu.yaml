@@ -94,7 +94,6 @@ stages_enfants:
           url: "/stages/activites/activites_sportives/"
         - title: "Activités artistiques et loisirs"
           url: "/stages/activites/activites_artistiques_et_loisirs/"
-<<<<<<< HEAD
     - title: "Organisation ETE 2020"
       url: /stages/protocole/
       online_mobile: false
@@ -102,15 +101,6 @@ stages_enfants:
         - title: "Organisation générale"
           url: /stages/protocole/general/
         - title: "Silos à Bruxelles"
-=======
-    - title: "Protocoles ETE 2020"
-      url: /stages/protocole/
-      online_mobile: false
-      sousmenu:
-        - title: "Protocole général"
-          url: /stages/protocole/general/
-        - title: "Protocole Bruxelles"
->>>>>>> 7a5dc063e5b45b6b597066f6330ea1c85ac3ed07
           url: /stages/protocole/bruxelles/
           online_mobile: false
           sousmenu:
@@ -126,11 +116,7 @@ stages_enfants:
               url: "/stages/protocole/bruxelles/woluwe/"
             - title: "Auderghem"
               url: "/stages/protocole/bruxelles/auderghem/"
-<<<<<<< HEAD
-        - title: "Silos à  Brabant"
-=======
-        - title: "Protocole Brabant"
->>>>>>> 7a5dc063e5b45b6b597066f6330ea1c85ac3ed07
+        - title: "Silos dans le Brabant"
           url: /stages/protocole/brabant/
           online_mobile: false
           sousmenu:
@@ -144,11 +130,7 @@ stages_enfants:
               url: "/stages/protocole/brabant/bierges/"
             - title: "Walhain"
               url: "/stages/protocole/brabant/walhain/"
-<<<<<<< HEAD
-        - title: "Silos à  Liège"
-=======
-        - title: "Protocole Liège"
->>>>>>> 7a5dc063e5b45b6b597066f6330ea1c85ac3ed07
+        - title: "Silos à Liège"
           url: /stages/protocole/liege/
           online_mobile: false
           sousmenu:
