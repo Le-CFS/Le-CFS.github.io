@@ -36,7 +36,7 @@
 
 {% endif %}
 
-<div class="blog-block categories-sidebar-widget">
+<!-- <div class="blog-block categories-sidebar-widget">
 
     <h4>
         <a href="{{ menu_principal.url }}">{{ menu_principal.titre }}</a>
@@ -47,12 +47,46 @@
             <a href="{{ item.url }}">{{ item.title }}</a>
         </div>
         {% if page.url contains item.url %}
-            {% for brol in item.sousmenu %}
+            {% for menu2 in item.sousmenu %}
                 <div class="post-category" style="border-bottom: 0px !important; padding-left: 35px !important;">
-                    <a href="{{brol.url}}">{{ brol.title}}</a>
+                    <a href="{{menu2.url}}">{{ menu2.title}}</a>
                 </div>
+                {% if menu2.sousmenu %}
+                    {% for menu3 in menu2.sousmenu %}
+                    <div class="post-category" style="border-bottom: 0px !important; padding-left: 70px !important;">
+                        <a href="{{menu3.url}}">{{ menu3.title}}</a>
+                    </div>
+                    {% endfor %}
+                {% endif %}
             {% endfor %}
         {% endif %}
+    {% endfor %}
+
+</div> -->
+
+<div class="blog-block categories-sidebar-widget">
+
+    <h4>
+        <a href="{{ menu_principal.url }}">{{ menu_principal.titre }}</a>
+    </h4>
+
+    {% for menu1 in menu_principal.sousmenu %}
+        <div class="post-category">
+            <a href="{{ menu1.url }}">{{ menu1.title }}</a>
+        </div>
+        {% if page.url contains menu1.url %}
+            {% for menu2 in menu1.sousmenu %}
+                <div class="post-category" style="border-bottom: 0px !important; padding-left: 35px !important;">
+                    <a href="{{menu2.url}}">{{ menu2.title}}</a>
+                </div>
+                {% for menu3 in menu2.sousmenu %}
+                    <div class="post-category" style="border-bottom: 0px !important; padding-left: 70px !important;">
+                        <a href="{{menu3.url}}">{{ menu3.title}}</a>
+                    </div>
+                {% endfor %}
+            {% endfor %}
+        {% endif %}
+
     {% endfor %}
 
 </div>

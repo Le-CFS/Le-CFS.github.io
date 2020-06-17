@@ -67,8 +67,9 @@ cfs:
           title_mobile: "Woluwé-St-Lambert"
           url: "/cfs/les_centres_cfs/wsl"
         - title: "Woluwé-Saint-Pierre"
-          title: "Woluwé-St-Pierre"
-          url: "/cfs/les_centres_cfs/wsp"
+          title_mobile: "Woluwé-St-Pierre"
+          url: "/cfs/les_centres_cfs/wsp/"
+
     - title: "Partenaires"
       url: /cfs/partenaires/
 
@@ -93,9 +94,61 @@ stages_enfants:
           url: "/stages/activites/activites_sportives/"
         - title: "Activités artistiques et loisirs"
           url: "/stages/activites/activites_artistiques_et_loisirs/"
+    - title: "Protocoles ETE 2020"
+      url: /stages/protocole/
+      online_mobile: false
+      sousmenu:
+        - title: "Protocole général"
+          url: /stages/protocole/general/
+        - title: "Protocole Bruxelles"
+          url: /stages/protocole/bruxelles/
+          online_mobile: false
+          sousmenu:
+            - title: "Jette"
+              url: "/stages/protocole/bruxelles/jette/"
+            - title: "Laeken"
+              url: "/stages/protocole/bruxelles/laeken/"
+            - title: "Wemmel"
+              url: "/stages/protocole/bruxelles/wemmel/"
+            - title: "Uccle"
+              url: "/stages/protocole/bruxelles/uccle/"
+            - title: "Woluwé"
+              url: "/stages/protocole/bruxelles/woluwe/"
+            - title: "Auderghem"
+              url: "/stages/protocole/bruxelles/auderghem/"
+        - title: "Protocole Brabant"
+          url: /stages/protocole/brabant/
+          online_mobile: false
+          sousmenu:
+            - title: "Wavre"
+              url: "/stages/protocole/brabant/wavre/"
+            - title: "Ottignies"
+              url: "/stages/protocole/brabant/ottignies/"
+            - title: "Rixensart"
+              url: "/stages/protocole/brabant/rixensart/"
+            - title: "Bierges"
+              url: "/stages/protocole/brabant/bierges/"
+            - title: "Walhain"
+              url: "/stages/protocole/brabant/walhain/"
+        - title: "Protocole Liège"
+          url: /stages/protocole/liege/
+          online_mobile: false
+          sousmenu:
+            - title: "Huy"
+              url: "/stages/protocole/liege/huy/"
+            - title: "Verlaine"
+              url: "/stages/protocole/liege/verlaine/"
+            - title: "Villers-le-Bouillet"
+              url: "/stages/protocole/liege/villers-le-bouillet/"
+            - title: "Amay"
+              url: "/stages/protocole/liege/amay/"
+            - title: "Awans"
+              url: "/stages/protocole/liege/awans/"
+        - title: "Protocole moniteurs"
+          url: /stages/protocole/moniteurs/
+
     - title: "Lieux de stage"
       url: /stages/lieux_de_stage/
-      online_mobile: true
       # sousmenu:
       #   - title: "Jette"
       #     url: "/stages/lieux_de_stage/jette/" 
