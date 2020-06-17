@@ -2,6 +2,28 @@
 label: Pages
 hide_body: false
 fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: Layout
+  default: page
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+- name: banner
+  type: file
+  config:
+    maxSize: 64
+  label: Bannière
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Adresse/url
 - name: seo
   type: field_group
   config: {}
