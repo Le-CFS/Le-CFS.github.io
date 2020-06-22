@@ -42,9 +42,18 @@
         <div class="meta">
           {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
           {{ stage.location[0].age }}{% if stage.location[1].age == "" or stage.location[1].age == nil %}{% else %}/{{ stage.location[1].age }} {% endif %} {% if stage.location[2].age == "" or stage.location[2].age == nil %}{% else %}/{{ stage.location[2].age }} {% endif %}<br/>
-          {% for info in stage.location[0].infos %}
-          <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
-          {% endfor %}
+          
+          {% if 
+            (stage.location[1].description == "" or stage.location[1].description == nil)
+            and
+            (stage.location[2].description == "" or stage.location[2].description == nil)
+          %}
+            {% for info in stage.location[0].infos %}
+              <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+            {% endfor %}
+          {% else %}
+
+          {% endif %}
         </div>
         <div class="description">
           <!-- Si la description de 1 et 2 sont vides, alors je marque juste la description de 0
