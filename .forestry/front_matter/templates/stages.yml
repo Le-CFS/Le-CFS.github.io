@@ -86,17 +86,17 @@ fields:
     - name: infos
       type: field_group_list
       fields:
-      - name: info_line
-        type: text
-        config:
-          required: false
-        label: Information
       - name: nom
         type: text
         config:
           required: false
         label: nom
         description: Quelques mots pour comprendre l'info rapidement
+      - name: info_line
+        type: text
+        config:
+          required: false
+        label: Information
       config:
         min: 
         max: 
