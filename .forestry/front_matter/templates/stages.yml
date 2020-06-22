@@ -91,6 +91,12 @@ fields:
         config:
           required: false
         label: Information
+      - name: nom
+        type: text
+        config:
+          required: false
+        label: nom
+        description: Quelques mots pour comprendre l'info rapidement
       config:
         min: 
         max: 
