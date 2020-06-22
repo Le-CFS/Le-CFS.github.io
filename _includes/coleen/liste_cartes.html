@@ -1,3 +1,9 @@
+<style>
+.meta:hover {
+  color: #444 !important;
+}
+</style>
+
 <div class="col-md-4 col-xs-12">
     <div class="card-2">
       <div class="image">
@@ -8,7 +14,7 @@
         <h3 class="card-title">{{ stage.name }}</h3>
         <div class="meta">
           {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
-          {{stage.age}}
+          {{ stage.location[0].age }}{% if stage.location[1].age == "" or stage.location[1].age == nil %}{% else %} - {{ stage.location[1].age }} {% endif %} {% if stage.location[2].age == "" or stage.location[2].age == nil %}{% else %} - {{ stage.location[2].age }} {% endif %}
         </div>
         <div class="description">
           <center><a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
@@ -18,7 +24,7 @@
       <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
       <div class="extra">
         <span>
-          <i class="fa fa-map-marker"> {{ stage.lieu }}</i>
+          <i class="fa fa-map-marker"> {{ stage.location[0].ville }}{% if stage.location[1].ville == "" or stage.location[1].ville == nil %}{% else %} - {{ stage.location[1].ville }} {% endif %} {% if stage.location[2].ville == "" or stage.location[2].ville == nil %}{% else %} - {{ stage.location[2].ville }} {% endif %}</i>
         </span>
       </div>
       </a>
@@ -35,17 +41,45 @@
         <h3 class="card-title">{{ stage.name }}</h3>
         <div class="meta">
           {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
-          {{stage.age}}<br/>
-          {{ stage.infos }}
+          {{ stage.location[0].age }}{% if stage.location[1].age == "" or stage.location[1].age == nil %}{% else %}/{{ stage.location[1].age }} {% endif %} {% if stage.location[2].age == "" or stage.location[2].age == nil %}{% else %}/{{ stage.location[2].age }} {% endif %}<br/>
+          {% for info in stage.location[0].infos %}
+          <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+          {% endfor %}
         </div>
         <div class="description">
-          {{ stage.description }}
+          <!-- Si la description de 1 et 2 sont vides, alors je marque juste la description de 0
+               Sinon, je mets la ville, la description et une balise hr, et je vérifie quelle desctiption il faut ajouter ou pas
+               #TODO: faire la vérification pour plus de 2-3 centres.
+           -->
+          {% if 
+            (stage.location[1].description == "" or stage.location[1].description == nil)
+            and
+            (stage.location[2].description == "" or stage.location[2].description == nil)
+          %}
+            {{ stage.location[0].description }}
+          {% else %}
+            <hr>
+            <b>{{ stage.location[0].ville }}</b><br/>
+            {{ stage.location[0].description }}
+            {% if stage.location[1].description == "" or stage.location[1].description == nil %}
+            {% else %}
+              <hr>
+              <b>{{ stage.location[1].ville }}</b><br/>
+              {{ stage.location[1].description }}
+            {% endif %}
+            {% if stage.location[2].description == "" or stage.location[2].description == nil %}
+            {% else %}
+              <hr>
+              <b>{{ stage.location[2].ville }}</b><br/>
+              {{ stage.location[2].description }}
+            {% endif %}
+          {% endif %}
         </div>
       </div>
-      {% for endroit in stage.lieu %}
+      {% for endroit in stage.location %}
       <div class="extra">
         <span>
-          <i class="fa fa-map-marker"> {{ endroit }}</i>
+          <i class="fa fa-map-marker"> {{ endroit.ville }}</i>
         </span>
       </div>
       {% endfor %}

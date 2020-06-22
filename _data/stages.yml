@@ -1,15 +1,7 @@
 ---
 stages:
 - name: Pré-psychomotricité
-  age: 2-4 ans
   img: "/stages/lespetitsbouts/prepsycho.png"
-  lieu: Bruxelles - Brabant Wallon
-  description: Ce stage propose un éveil psychomoteur adapté aux plus petits. Par
-    le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs
-    membres. Une sieste est prévue et encadrée.
-  infos: Attention, il n'y a pas de garderie pour ce stage. Il faut apporter un lange
-    de rechange si nécessaire. Prévoyez également une tenue adaptée en cas de bricolages
-    et peintures.
   inscription: ''
   categorie: Les petits bouts
   online: true
@@ -17,33 +9,23 @@ stages:
   stage_une: false
   location:
   - ville: Brabant Wallon
+    alias: Brabant Wallon
     age: 2-4 ans
-    description: Ce stage propose un éveil psychomoteur adapté aux plus petits. Par
+    description: BRT - Ce stage propose un éveil psychomoteur adapté aux plus petits. Par
       le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs
       membres. Une sieste est prévue et encadrée.
     infos:
     - info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
-      nom: Tenue adaptée
-      Alias: ''
       alias: Tenue adaptée
     - info_line: Il faut apporter un lange de rechange si nécessaire.
-      nom: Lange
-      Alias: ''
       alias: Lange
     - info_line: Attention, il n'y a pas de garderie pour ce stage.
-      nom: Pas de garderie
-      Alias: ''
       alias: Pas de garderie
-    nom: ''
-    Alias: Brabant Wallon
-    alias: Brabant Wallon
   - ville: Bruxelles
-    description: ''
-    age: ''
-    infos: []
-    nom: ''
-    Alias: Bruxelles
     alias: Bruxelles
+    description: 
+    age: '2-5 ans'
+    infos: []
 - name: Psycho Découverte
   age: 3-4 ans
   img: "/stages/lespetitsbouts/psychodecouverte.png"
