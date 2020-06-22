@@ -5,13 +5,13 @@ stages:
   inscription: ''
   categorie: Les petits bouts
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - ville: Brabant Wallon
     alias: Brabant Wallon
     age: 2-4 ans
-    description: BRT - Ce stage propose un éveil psychomoteur adapté aux plus petits. Par
+    description: Ce stage propose un éveil psychomoteur adapté aux plus petits. Par
       le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs
       membres. Une sieste est prévue et encadrée.
     infos:
@@ -23,8 +23,8 @@ stages:
       alias: Pas de garderie
   - ville: Bruxelles
     alias: Bruxelles
-    description: 
-    age: '2-5 ans'
+    description: ''
+    age: 2-5 ans
     infos: []
 - name: Psycho Découverte
   age: 3-4 ans
@@ -37,11 +37,30 @@ stages:
     : Les enfants inscrits à WSPI auront la possibilité d’aller à la pataugeoire sur
     la semaine. Prévoir maillot, essui et bonnet à partir du mardi.'
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 3-4 ans
+    description: 'Ce stage propose un mélange de différentes facettes de la psychomotricité
+      : jeux de coopération, parcours d''adresse, exercices de latéralité, éveil artistique,
+      découverte de la nature environnante et du rythme.'
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: ''
+    description: ''
+    infos:
+    - info_line: Les enfants inscrits à WSPI auront la possibilité d’aller à la pataugeoire
+        sur la semaine.
+      alias: Pataugeoire
+    - info_line: Prévoir maillot, essui et bonnet à partir du mardi.
+      alias: Tenue de bain
 - name: Psycho Grimpette
   age: 3-4 ans
   img: "/stages/lespetitsbouts/psychogrimpette.png"
