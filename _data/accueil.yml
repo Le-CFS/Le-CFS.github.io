@@ -48,11 +48,11 @@ selection:
       autre_page: oui
       bouton: Inscription
       couleur_bouton: 
-    - titre: "Anniversaire Laser Game"
+    - titre: "Protocoles stages d'été"
       titre_img: 
       titre_overlay: 
-      src: /assets/images/anniversaires/selection_cfs/anniversairelasergame.png
-      href: /anniversaires/lieu_sportif_et_fun/
+      src: https://cdn.discordapp.com/attachments/656057943346642945/724753859112730654/protocolestagesete2020.jpg
+      href: /stages/protocole/
       autre_page:
       bouton: Plus d'info
       couleur_bouton: 
