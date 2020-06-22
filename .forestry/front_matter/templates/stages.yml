@@ -83,6 +83,12 @@ fields:
           format: markdown
       label: Description du stage
       description: Laisser vide si identique au précédent.
+    - name: nom
+      type: text
+      config:
+        required: false
+      label: nom
+      description: Un alias pour visualisé le lieu du centre rapidement
     - name: infos
       type: field_group_list
       fields:
