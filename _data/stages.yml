@@ -16,12 +16,6 @@ stages:
   nouveau: true
   stage_une: false
   location:
-  - ville: Bruxelles
-    description: ''
-    age: ''
-    infos: []
-    nom: ''
-    Alias: Bruxelles
   - ville: Brabant Wallon
     age: 2-4 ans
     description: Ce stage propose un éveil psychomoteur adapté aux plus petits. Par
@@ -39,6 +33,12 @@ stages:
       Alias: ''
     nom: ''
     Alias: Brabant Wallon
+  - ville: Bruxelles
+    description: ''
+    age: ''
+    infos: []
+    nom: ''
+    Alias: Bruxelles
 - name: Psycho Découverte
   age: 3-4 ans
   img: "/stages/lespetitsbouts/psychodecouverte.png"
