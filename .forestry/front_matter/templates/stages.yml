@@ -102,3 +102,5 @@ fields:
       max: 
       labelField: 
     label: Liste des lieux de stages
+pages:
+- _data/stages.yml
