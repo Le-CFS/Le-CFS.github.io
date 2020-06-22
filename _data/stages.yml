@@ -25,20 +25,25 @@ stages:
     - info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
       nom: Tenue adaptée
       Alias: ''
+      alias: Tenue adaptée
     - info_line: Il faut apporter un lange de rechange si nécessaire.
       nom: Lange
       Alias: ''
+      alias: Lange
     - info_line: Attention, il n'y a pas de garderie pour ce stage.
       nom: Pas de garderie
       Alias: ''
+      alias: Pas de garderie
     nom: ''
     Alias: Brabant Wallon
+    alias: Brabant Wallon
   - ville: Bruxelles
     description: ''
     age: ''
     infos: []
     nom: ''
     Alias: Bruxelles
+    alias: Bruxelles
 - name: Psycho Découverte
   age: 3-4 ans
   img: "/stages/lespetitsbouts/psychodecouverte.png"
