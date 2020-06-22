@@ -52,11 +52,11 @@ fields:
   - name: location
     type: field_group_list
     fields:
-    - name: Alias
+    - name: alias
       type: text
       config:
         required: false
-      label: id
+      label: Alias
       description: Un alias pour visualisé le lieu du centre rapidement
     - name: ville
       type: select
@@ -92,11 +92,11 @@ fields:
     - name: infos
       type: field_group_list
       fields:
-      - name: Alias
+      - name: alias
         type: text
         config:
           required: false
-        label: alias
+        label: Alias
         description: Quelques mots pour comprendre l'info rapidement
       - name: info_line
         type: text
