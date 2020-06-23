@@ -216,7 +216,7 @@ stages_enfants:
       url: /stages/nos_partenaires_de_stage/
 
 activites:
-  titre: "Activités"
+  titre: "Activités enfants"
   url: /activites/
   title_mobile: "Informations générales"
   sousmenu:
@@ -238,7 +238,7 @@ activites:
           url: "/activites/extrascolaire/activites_artistiques_et_loisirs/" 
     - title: "École de natation"
       url: /activites/ecole_de_natation/
-      title_mobile: "Liste des activités"
+      title_mobile: "École de Natation"
       online_mobile: false
       sousmenu:
         - title: "Bébés nageurs"
@@ -255,7 +255,7 @@ activites:
           url: /activites/ecole_de_natation/cours_collectifs/
     - title: "CFS Academy"
       url: /activites/cfs_academy/
-      title_mobile: "Liste des activités"
+      title_mobile: "CFS Academy"
       online_mobile: false
       sousmenu:
         - title: "Mini-foot Academy"
