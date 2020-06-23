@@ -23,7 +23,9 @@ stages:
       alias: Pas de garderie
   - ville: Bruxelles
     alias: Bruxelles
-    description: ''
+    description: Ce stage propose un éveil psychomoteur adapté aux plus petits. Par
+      le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs
+      membres. Une sieste est prévue et encadrée.
     age: 2-5 ans
     infos: []
 - name: Psycho Découverte
@@ -53,8 +55,10 @@ stages:
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
   - alias: Bruxelles
     ville: Bruxelles
-    age: ''
-    description: ''
+    age: 3-4 ans
+    description: 'Ce stage propose un mélange de différentes facettes de la psychomotricité:
+      jeux de coopération, parcours d''''adresse, exercices de latéralité, éveil artistique,
+      découverte de la nature environnante et du rythme.'
     infos:
     - info_line: Les enfants inscrits à WSPI auront la possibilité d’aller à la pataugeoire
         sur la semaine.
