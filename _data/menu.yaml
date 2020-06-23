@@ -144,8 +144,6 @@ stages_enfants:
               url: "/stages/protocole/liege/amay/"
             - title: "Awans"
               url: "/stages/protocole/liege/awans/"
-        - title: "Protocole moniteurs"
-          url: /stages/protocole/moniteurs/
 
     - title: "Lieux de stage"
       url: /stages/lieux_de_stage/
