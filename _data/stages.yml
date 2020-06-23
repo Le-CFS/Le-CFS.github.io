@@ -1408,3 +1408,22 @@ stages:
         online: oui
         nouveau: oui
         stage_une:
+    -
+        name: "Argentique Cyanotype"
+        age: 8-14 ans
+        img: "/stages/activitesartistiquesetloisirs/argentiquecyanotype.jpg"
+        lieu: "Bruxelles"
+        description: "Pendant toute une semaine tu vas pouvoir découvrir et expérimenter le cyanotype:
+                      un procédé d’impression ancien et unique qui permet la création de photos d’une belle couleur 'bleu de Prusse'.
+                      L'exposition des images se fait à la lumière du soleil et se développe à l'eau;
+                      une activité idéale pour l’été dans le respect des mesures de sécurité sanitaire.
+                      La semaine sera ponctuée de balades cueillette dans les parcs d'Ixelles à la recherche de trésors à immortaliser.
+                      Nous prendrons le temps d'observer la nature et d'expérimenter la composition de nature morte.
+                      Le vendredi, les parents et amis des participants seront conviés à venir découvrir les résultats lors d'une petite exposition.
+                      A la fin du stage chacun repartira avec ses oeuvres."
+        infos: 
+        inscription: 
+        categorie: artistiques
+        online: oui
+        nouveau: oui
+        stage_une:
