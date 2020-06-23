@@ -6,7 +6,7 @@
 	{% for stage in site.data.extrascolaire.activites %}
   {% if stage.online and stage.categorie contains 'danse' %}
 
-{% include coleen/liste_cartes.html %}
+{% include coleen/carte_extrascolaire.html %}
 
   {% endif %}
 	{% endfor %}

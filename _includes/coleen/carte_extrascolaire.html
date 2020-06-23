@@ -1,0 +1,65 @@
+<div class="col-md-4 col-xs-12">
+    <div class="card-2">
+      <div class="image">
+        <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><img src="{{ BASE_PATH }}/assets/images{{ stage.img }}"></a>
+      </div>
+      <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
+      <div class="card-block">
+        <h3 class="card-title">{{ stage.name }}</h3>
+        <div class="meta">
+          {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+          {{stage.age}}
+        </div>
+        <div class="description">
+          <center><a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
+        </div>
+      </div>
+      </a>
+      <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
+      <div class="extra">
+        <span>
+          <i class="fa fa-map-marker"> {{ stage.lieu }}</i>
+        </span>
+      </div>
+      </a>
+    </div>
+</div>
+<div class="modal fade" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="card-2">
+      <div class="image">
+        <img src="{{ BASE_PATH }}/assets/images{{ stage.img }}">
+      </div>
+      <div class="card-block">
+        <h3 class="card-title">{{ stage.name }}</h3>
+        <div class="meta">
+          {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+          {{stage.age}}<br/>
+          {{ stage.infos }}
+        </div>
+        <div class="description">
+          {{ stage.description }}
+        </div>
+      </div>
+      {% for endroit in stage.lieu %}
+      <div class="extra">
+        <span>
+          <i class="fa fa-map-marker"> {{ endroit }}</i>
+        </span>
+      </div>
+      {% endfor %}
+    </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border-radius: 5px;">{% if page.url contains 'activites' %}Autre activité{% else %}Autre stage{% endif %}</button>
+        <a class="btn btn-info-filled" href="
+          {% if page.url contains 'extrascolaire' %}
+            https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
+          {% else %}
+            https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4
+          {% endif %}
+          " target="_blank">Inscription</a>
+      </div>
+    </div>
+  </div>
+</div>
