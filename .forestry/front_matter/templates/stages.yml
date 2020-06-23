@@ -76,19 +76,17 @@ fields:
     - name: age
       type: text
       config:
-        required: false
+        required: true
       label: Tranche d'âge
-      description: Laisser vide si identique au précédent.
     - name: description
       type: textarea
       default: ''
       config:
-        required: false
+        required: true
         wysiwyg: true
         schema:
           format: markdown
       label: Description du stage
-      description: Laisser vide si identique au précédent.
     - name: infos
       type: field_group_list
       fields:
