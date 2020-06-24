@@ -341,7 +341,7 @@ stages:
     une carte, escalader.'
   infos: 
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
@@ -1747,7 +1747,7 @@ stages:
   infos: Les repas sont prévus par le traiteur du centre. Ce stage nécessite un VTT
     en parfait état de marche ainsi qu'un casque (location VTT et casque possible)
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Activités fun
   online: true
   nouveau: true
   stage_une: false
