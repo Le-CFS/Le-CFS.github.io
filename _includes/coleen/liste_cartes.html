@@ -107,11 +107,19 @@
             <div class="tab-pane" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item1.ville | replace: ' ', '_' | replace: 'è', 'e' }}desktop" role="tabpanel">
               <div class="meta">
                 {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item1.age == "" or item1.age == nil %}
+                {{ item0.age }}
+                {% else %}
                 {{ item1.age }}
+                {% endif %}
               </div>
               <hr>
               <div class="description">
+                {% if item1.description == "" or item1.description == nil %}
+                {{ item0.description }}
+                {% else %}
                 {{ item1.description }}
+                {% endif %}
               </div>
               {% if item0.infos[1].info_line == "" or item0.infos[1].info_line == nil %}
               {% else %}
@@ -130,11 +138,19 @@
             <div class="tab-pane" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item2.ville | replace: ' ', '_' | replace: 'è', 'e' }}desktop" role="tabpanel">
               <div class="meta">
                 {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item2.age == "" or item2.age == nil %}
+                {{ item0.age }}
+                {% else %}
                 {{ item2.age }}
+                {% endif %}
               </div>
               <hr>
               <div class="description">
+                {% if item2.description == "" or item2.description == nil %}
+                {{ item0.description }}
+                {% else %}
                 {{ item2.description }}
+                {% endif %}
               </div>
               {% if item0.infos[2].info_line == "" or item0.infos[2].info_line == nil %}
               {% else %}
@@ -236,11 +252,20 @@
             <div class="tab-pane" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item1.ville | replace: ' ', '_' | replace: 'è', 'e' }}mobile" role="tabpanel">
               <div class="meta">
                 {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item1.age == "" or item1.age == nil %}
+                {{ item0.age }}
+                {% else %}
                 {{ item1.age }}
+                {% endif %}
               </div>
               <hr>
               <div class="description">
+                {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item1.description == "" or item1.description == nil %}
+                {{ item0.description }}
+                {% else %}
                 {{ item1.description }}
+                {% endif %}
               </div>
               <hr>
                 <div class="meta">
@@ -256,11 +281,19 @@
             <div class="tab-pane" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item2.ville | replace: ' ', '_' | replace: 'è', 'e' }}mobile" role="tabpanel">
               <div class="meta">
                 {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item2.age == "" or item2.age == nil %}
+                {{ item0.age }}
+                {% else %}
                 {{ item2.age }}
+                {% endif %}
               </div>
               <hr>
               <div class="description">
+                {% if item2.description == "" or item2.description == nil %}
+                {{ item0.description }}
+                {% else %}
                 {{ item2.description }}
+                {% endif %}
               </div>
               <hr>
                 <div class="meta">
