@@ -2523,9 +2523,9 @@ stages:
     exprime un savoureux mélange de douceur de vivre, de convivialité et de fête.'
   infos: Uniquement pendant les stages de Pâques.
   inscription: ''
-  categorie: sportives
-  online: true
-  nouveau: true
+  categorie: Activités sportives
+  online: false
+  nouveau: false
   stage_une: false
   location: []
 - name: Padel Tennis Camp
@@ -2543,9 +2543,9 @@ stages:
     de moniteurs 24h sur 24. Tous les repas de l'hôtel sont servis sous forme de buffets
     avec eau à table. Les boissons pétillantes sont payantes !
   inscription: ''
-  categorie: sportives
-  online: true
-  nouveau: true
+  categorie: Activités sportives
+  online: false
+  nouveau: false
   stage_une: false
   location: []
 - name: Apprenti Savant
