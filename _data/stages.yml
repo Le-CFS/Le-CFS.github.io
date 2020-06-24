@@ -1495,11 +1495,33 @@ stages:
     et esprit de coopération sont requis pour ce stage !"
   infos: Fair-play et esprit de coopération sont requis pour ce stage ! 
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: 'Les enfants vivent une semaine dans la peau des aventuriers de Koh
+      Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives.
+      Initiation à la fabrication de campement, chasse aux trésors, Géocatching et
+      jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage
+      !'
+    infos:
+    - alias: Fair-play
+      info_line: 'Fair-play et esprit de coopération sont requis pour ce stage ! '
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 9-12 ans
+    description: 'Equipe jaune ou équipe rouge? Viens vivre une semaine dans la peau
+      des aventuriers de Koh Lanta : compositions des tribus, épreuves en binôme et
+      par équipe (avec les mythiques course d''orientation et épreuve des poteaux!),
+      fabrication de campement, et dégustation d’insectes pour les plus courageux.,
+      une journée au Parc Aventure à Wavre'
+    infos:
+    - alias: Fair-play
+      info_line: 'Fair-play et esprit de coopération sont requis pour ce stage ! '
 - name: Pilote Academy
   age: 10-14 ans
   img: "/stages/activitesfun/pilote.png"
@@ -1513,11 +1535,24 @@ stages:
   infos: Accueil à 13h00 au WIK en face du Walibi (Boulevard de l'Europe 117 - 1300
     Wavre).
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 10-14 ans
+    description: 'Au matin : simulateur de cours, entrainement physique et coordination
+      oeil-main. Le programme de l''après-midi est entièrement consacré au Karting
+      : les apprentis pilotes sont encadrés pas un formateur du WIK qui leur apprend
+      les différentes techniques de pilotage, trajectoire, exercices évolutifs avec
+      cônes sur la piste et une analyse vidéo est prévue. Déplacement au WIK assuré
+      par le CFS.'
+    infos:
+    - alias: Accueil au WIK
+      info_line: Accueil à 13h00 au WIK en face du Walibi (Boulevard de l'Europe 117
+        - 1300 Wavre).
 - name: Skate Pro
   age: 10-16 ans
   img: "/stages/activitesfun/skatepro.png"
@@ -1529,11 +1564,33 @@ stages:
     un nouveau Skate Park. Les enfants doivent amener leur skate et toutes les protections.
   infos: En partenariat avec Max Extrême
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 10-16 ans
+    description: Ce stage prévoit une initiation et un perfectionnement au skate board.
+      Les as de la planche vont apprendre de nouvelles figures dans une ambiance propre
+      à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés
+      par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
+      un nouveau Skate Park. Les enfants doivent amener leur skate et toutes les protections.
+    infos:
+    - alias: Partenariat
+      info_line: En partenariat avec Max Extrême
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-16 ans
+    description: Ce stage prévoit une initiation et un perfectionnement au skate board.
+      Les as de la planche vont apprendre de nouvelles figures dans une ambiance propre
+      à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés
+      par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
+      un nouveau Skate Park. Les enfants doivent amener leur skate et toutes les protections.
+    infos:
+    - alias: Partenariat
+      info_line: En partenariat avec Max Extrême
 - name: Trottinette Pro
   age: 10-16 ans
   img: "/stages/activitesfun/trottinettepro.png"
@@ -1546,11 +1603,35 @@ stages:
     protections.
   infos: Stage en partenariat avec Max Extrême
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 10-16 ans
+    description: Ce stage prévoit une initiation et un perfectionnement à la trottinette.
+      Les as de la trot' vont apprendre de nouvelles figures dans une ambiance propre
+      à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés
+      par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
+      un nouveau Skate Park. Les enfants doivent amener leur trottinette et toutes
+      les protections.
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Max Extrême
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-16 ans
+    description: Ce stage prévoit une initiation et un perfectionnement à la trottinette.
+      Les as de la trot' vont apprendre de nouvelles figures dans une ambiance propre
+      à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés
+      par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
+      un nouveau Skate Park. Les enfants doivent amener leur trottinette et toutes
+      les protections.
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Max Extrême
 - name: Tennis - Fun & Aventure
   age: 6-12 ans
   img: "/stages/activitesfun/tennisfunetaventure.png"
@@ -1561,11 +1642,21 @@ stages:
     à la patinoire, une journée au Parc de loisir Koézio...
   infos: Stage en collaboration avec Lambert Tennis Academy
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-12 ans
+    description: Lors de ce stage, les enfants ont l'occasion de pratiquer le tennis
+      mais également de découvrir diverses activités fun et de faire des excursions
+      comme le Laser Game, le Train World, une visite au musée, à l'Atomium, une journée
+      à la patinoire, une journée au Parc de loisir Koézio...
+    infos:
+    - alias: Partenariat
+      info_line: Stage en collaboration avec Lambert Tennis Academy
 - name: X-TREM
   age: 12-16 ans
   img: "/stages/activitesfun/xtremsensation.png"
@@ -1579,11 +1670,26 @@ stages:
     Prévoir un VTT, un gilet fluo, un cadenas, un casque ainsi qu'une chambre à air
     de rechange dès le premier jour du stage !
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 12-16 ans
+    description: 'Un nouveau stage au programme alléchant : une journée inoubliable
+      de Quad et de Paintball, deux courses de Karting au WIK-Wavre Indoor Karting
+      (demi-finale/finale) ainsi que des activités fun pour compléter la semaine (Laser
+      game, parcours d''obstacles gonflables, Arrow game et Bubble Soccer). Tous les
+      déplacements se font en VTT pour se rendre aux différentes activités.'
+    infos:
+    - alias: Taille
+      info_line: Attention ! Pour le karting, la taille minimum de l'enfant doit être
+        de 1m55.
+    - alias: Matériel
+      info_line: Prévoir un VTT, un gilet fluo, un cadenas, un casque ainsi qu'une
+        chambre à air de rechange dès le premier jour du stage !
 - name: Aventure Camp
   age: 12-17 ans
   img: "/stages/activitesfun/aventurecamp.jpg"
@@ -1641,11 +1747,30 @@ stages:
   infos: Les repas sont prévus par le traiteur du centre. Ce stage nécessite un VTT
     en parfait état de marche ainsi qu'un casque (location VTT et casque possible)
   inscription: ''
-  categorie: fun
+  categorie: Les petits bouts
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant - Stoumont
+    ville: Brabant Wallon
+    age: 10-15 ans
+    description: 'Du Fun et aussi la découverte d’une région magnifique près de la
+      cascade de Coo. Sports Aventure avec : Quad, VTT, Initiation aventurier, Tir
+      à l’arc, Tir à la carabine, Parcours explo-raid, Super journée aventure dans
+      un site spécialisé avec parcours de cordes et ponts de singe. Piscine et sports
+      détente au cours de la semaine. Encadrement par des éducateurs et professeurs
+      sportifs. Accueil des stagiaires le dimanche après-midi à partir de 14h00 au
+      Centre Forêt et Sports de Stoumont. Retour le samedi matin à partir de 10h00.
+      Les chambres très agréables et lumineuses sont prévues pour 4 à 6 personnes.
+      Nous disposons de très belles infrastructures sur place : salle de sports, salle
+      de cinéma et salle de détente.'
+    infos:
+    - alias: Repas
+      info_line: 'Les repas sont prévus par le traiteur du centre. '
+    - alias: Matériel
+      info_line: Ce stage nécessite un VTT en parfait état de marche ainsi qu'un casque
+        (location VTT et casque possible).
 - name: Aqua Fun
   age: 7-12 ans
   img: "/stages/activitessportives/aquafun.png"
