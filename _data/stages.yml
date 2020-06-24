@@ -1381,8 +1381,9 @@ stages:
       info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
         Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
     - alias: Moniteur diplômé
-      info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
-        Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
+      info_line: Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de
+        l’expérience pour ce stage et formé pour le respect des différentes mesures
+        à suivre du protocole des stages.
     description: "Vous souhaitez que votre ado participe à semaine hyper fun et dans
       le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
       les plus strictes mais vous ne souhaitez pas qu’il participe à des activités
