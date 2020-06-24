@@ -302,7 +302,7 @@ stages:
     culinaires de base, préparées par nos petits stagiaires.
   infos: L’enfant doit apporter son tablier.
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: false
   nouveau: false
   stage_une: false
@@ -316,7 +316,7 @@ stages:
     enfant à la conduite.
   infos: 
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
@@ -366,7 +366,7 @@ stages:
     de présenter un spectacle le vendredi après-midi.
   infos: 
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
@@ -386,7 +386,7 @@ stages:
     chorégraphies adaptées. Un spectacle est prévu en fin de stage. 
   infos: 
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
@@ -406,7 +406,7 @@ stages:
     parcours d'adresse, d'audace).
   infos: 
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
@@ -433,7 +433,7 @@ stages:
     d'équilibre, d'audace et premières notions de gymnastique sportive.
   infos: 
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
@@ -458,7 +458,7 @@ stages:
     et l'esprit d'équipe.
   infos: 
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
@@ -478,7 +478,7 @@ stages:
     et les autres périodes à la découverte de différents sports.
   infos: 
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
@@ -505,11 +505,29 @@ stages:
     le matériel adéquat pour les petits cavaliers."
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: Stage en partenariat avec le Manège Horse's Corner de Bierges. Pour
+      les plus petits, nous commençons par leur enseigner les bases nécessaires à
+      une bonne tenue en selle. Les enfants progressent grâce à une pédagogie par
+      le jeu. L'enfant développe une relation privilégiée avec son poney tout au long
+      du stage. Les enfants se préparent également pour l'examen Licol. Prévoir une
+      tenue adaptée pour l'équitation (pas de jeans et de tenue large) et des bottes.
+      Le manège met à disposition tout le matériel adéquat pour les petits cavaliers.
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 4-6 ans
+    description: 'Stage en partenariat avec Le Manège à Winterjumping à Asse. Ce stage
+      est une pleine participation à la vie du manège : soins aux poneys et bien sûr,
+      initiation à l''équitation.'
+    infos: []
 - name: Baby Savant
   age: 6-9 ans
   img: "/stages/decouvertesportiveetculturelle/babysavant.png"
@@ -552,11 +570,48 @@ stages:
     à la découverte d’un multisport."
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: 'Les enfants s''initient au tennis en faisant différents jeux leur
+      permettant d’acquérir les bases. Ils découvrent la raquette en tant que prolongement
+      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.
+      Ils apprennent, grâce à la 2D, le coup droit et le revers et toutes leurs particularités
+      : prises, placement, jeux de jambes, direction, … Ils peuvent ensuite s’essayer
+      à la 3D où l’apprentissage du rebond de la balle est essentiel pour un sport
+      tel que le tennis. La volée et le service sont alors également vus. Et tout
+      cela avec du matériel adapté : ballons, ballons de baudruche, balles rouges
+      et balles molles. Une période de la journée sera consacrée à la découverte d’un
+      multisport.'
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 4-6 ans
+    description: 'Les enfants s''initient au tennis en faisant différents jeux leur
+      permettant d’acquérir les bases. Ils découvrent la raquette en tant que prolongement
+      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.
+      Ils apprennent, grâce à la 2D, le coup droit et le revers et toutes leurs particularités
+      : prises, placement, jeux de jambes, direction, … Ils peuvent ensuite s’essayer
+      à la 3D où l’apprentissage du rebond de la balle est essentiel pour un sport
+      tel que le tennis. La volée et le service sont alors également vus. Et tout
+      cela avec du matériel adapté : ballons, ballons de baudruche, balles rouges
+      et balles molles. Une période de la journée sera consacrée à la découverte d’un
+      multisport. Uccle & Auderghem : stage 100% CFS. Wspi : stage en collaboration
+      avec Ace Tennis Academy - la partie multisports est assurée par le CFS). Schaerbeek
+      : stage en collaboration avec Lambermont Tennis Academy (sur terrain de 12m,
+      balles en mousse).'
+    infos: []
+  - alias: Liège
+    ville: Liège
+    age: 4-6 ans
+    description: Une découverte du tennis sous forme ludique avec un matériel spécialement
+      adapté aux petits, complétée par des ateliers de psychomotricité et de multisports.
+    infos: []
 - name: Cirque Mômes
   age: 4-7 ans
   img: "/stages/decouvertesportiveetculturelle/cirquemomes.png"
@@ -570,11 +625,22 @@ stages:
     est présenté aux parents.'
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 4-7 ans
+    description: 'Durant ce stage, les enfants sont amenés à découvrir la variété
+      des arts du cirque au travers de différents jeux : apprendre à jongler avec
+      toutes sortes d''objets, s’amuser entre équilibre et déséquilibre sur une boule,
+      un rola bola ou encore un câble, construire des pyramides humaines ensemble
+      et s’essayer au clown de théâtre ! Une semaine pleine de découvertes, de rires
+      et de bons souvenirs ! En fin de stage, un spectacle, basé sur les activités
+      menées pendant la semaine, est présenté aux parents.'
+    infos: []
 - name: Cirque
   age: 9-14 ans
   img: "/stages/decouvertesportiveetculturelle/cirque.png"
@@ -588,11 +654,27 @@ stages:
     l’acrobatie.Les 3 heures de Cirque sont complétées par 3 heures de multisports. "
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 9-14 ans
+    description: 'Ce stage propose l’approche de diverses disciplines issues du monde
+      du cirque : équilibre (câbles, échasses, monocycle), acrobatie (pyramides, trampoline
+      et trapèze), jonglerie (foulards, balles, quilles), adresse (diabolos, bâtons
+      du diable).'
+    infos: []
+  - alias: Liège
+    ville: Liège
+    age: 9-14 ans
+    description: Découverte des différentes techniques du Cirque telles que la jonglerie
+      (foulards, diabolos, assiettes chinoises, balles, quilles...); l’équilibre (monocycles,
+      échasses, rola-bola...); l’acrobatie.Les 3 heures de Cirque sont complétées
+      par 3 heures de multisports.
+    infos: []
 - name: Découverte Sportive
   age: 5-7 ans
   img: "/stages/decouvertesportiveetculturelle/decsportive.png"
@@ -605,11 +687,23 @@ stages:
   infos: A Rixensart, ces activités sportives sont combinées avec des activités en
     piscine.
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: Ce stage propose un premier contact avec le sport et les jeux collectifs,
+      par lesquels votre enfant développe les différentes facettes de la motricité,
+      le respect des règles et la vie en groupe. Ce stage propose une initiation aux
+      sports ballons, raquettes, jeux collectifs et aux New Games (Uni Hoc, Base-Ball,
+      Kinball et Badminton).
+    infos:
+    - alias: Rixensart
+      info_line: À Rixensart, ces activités sportives sont combinées avec des activités
+        en piscine.
 - name: Découverte Sportive & Musique
   age: 5-7 ans
   img: "/stages/decouvertesportiveetculturelle/psychomusique.png"
@@ -619,11 +713,18 @@ stages:
     activités musicales tant sur l'écoute de sons que la manipulation d'instruments.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: Ce stage propose une initiation aux sports ballons, raquettes et
+      jeux collectifs pendant une demi-journée. L'autre demi-journée est consacrée
+      à des activités musicales tant sur l'écoute de sons que la manipulation d'instruments.
+    infos: []
 - name: Découverte Sportive & Natation
   age: 5-7 ans
   img: "/stages/decouvertesportiveetculturelle/psychonatation.png"
@@ -634,11 +735,21 @@ stages:
     2 moniteurs pour 8 enfants.'
   infos: Dès le premier jour, prévoir maillot, bonnet et essuie de bain.
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: 'Ce stage propose une initiation aux sports ballons, raquettes et
+      jeux collectifs. De plus, les enfants iront quotidiennement à la piscine dans
+      le but d''apprendre les 4 nages et de les rendre autonomes dans l''eau. En piscine
+      : 2 moniteurs pour 8 enfants.'
+    infos:
+    - alias: Prendre tenue de bain
+      info_line: Dès le premier jour, prévoir maillot, bonnet et essuie de bain.
 - name: Découverte Sportive & Poney
   age: 5-7 ans
   img: "/stages/decouvertesportiveetculturelle/babyponey.png"
@@ -648,11 +759,27 @@ stages:
     et soins aux poneys.'
   infos: Sur Bruxelles - Stage en partenariat avec Pony Plesure 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: 'Après une matinée de jeux collectifs au centre sportif, les futurs
+      cavaliers participent à la vie du manège durant l''après-midi : initiation à
+      l''équitation et soins aux poneys.'
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-7 ans
+    description: 'Après une matinée de jeux collectifs au centre sportif, les futurs
+      cavaliers participent à la vie du manège durant l''après-midi : initiation à
+      l''équitation et soins aux poneys.'
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Pony Plesure
 - name: Escalade Découverte
   age: 5-7 ans
   img: "/stages/decouvertesportiveetculturelle/escaladedecouverte.png"
@@ -663,11 +790,27 @@ stages:
     de soi et la gestion du vertige. Le stage est complété par des activités multisports.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
+    infos: []
+    description: Ce stage propose une séance l'escalade par jour. Par cette initiation,
+      l'enfant travaille des facettes spécifiques de la motricité telles que l'ascension
+      et l'équilibre. Il développe des facteurs essentiels comme l'audace, la maîtrise
+      de soi et la gestion du vertige. Le stage est complété par des activités multisports.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-7 ans
+    description: Ce stage propose une séance l'escalade par jour. Par cette initiation,
+      l'enfant travaille des facettes spécifiques de la motricité telles que l'ascension
+      et l'équilibre. Il développe des facteurs essentiels comme l'audace, la maîtrise
+      de soi et la gestion du vertige. Le stage est complété par des activités multisports.
+    infos: []
 - name: Les explorateurs
   age: 5-7 ans
   img: "/stages/decouvertesportiveetculturelle/explorateur.png"
@@ -680,11 +823,21 @@ stages:
     gras.'
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: 'Durant les vacances de Carnaval, les aventuriers débarquent à Rio.
+      Confection de leur déguisement, bricolage, jeux à thèmes et visite de la ferme
+      sont au programme de ce stage dépaysant. Prenez un vieux déguisement, des accessoires
+      ou même des bouts de tissus dès le premier jour du stage : une couturière sera
+      présente pour aider les enfants à confectionner leur déguisement pour le mardi
+      gras.'
+    infos: []
 - name: Expression Corporelle & Sport
   age: 4-6 ans
   img: "/stages/decouvertesportiveetculturelle/explorateur.png"
@@ -697,7 +850,7 @@ stages:
     à la découverte de sports collectifs.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: false
   nouveau: false
   stage_une: false
@@ -717,11 +870,29 @@ stages:
     et esprit de coopération sont requis pour ce stage !"
   infos: Fair-play et esprit de coopération sont requis pour ce stage ! 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-8 ans
+    description: 'Les enfants vivent une semaine dans la peau des aventuriers de Koh
+      Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives.
+      Initiation à la fabrication de campement, chasse aux trésors, Géocatching et
+      jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage
+      !'
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-8 ans
+    description: 'Equipe jaune ou équipe rouge? Viens vivre une semaine dans la peau
+      des aventuriers de Koh Lanta : compositions des tribus, épreuves en binôme et
+      par équipe (avec les mythiques course d''orientation et épreuve des poteaux!),
+      fabrication de campement, et dégustation d’insectes pour les plus courageux,
+      une journée au Parc Aventure à Wavre.'
+    infos: []
 - name: Princesses & Pirates
   age: 4-6 ans
   img: "/stages/decouvertesportiveetculturelle/princessesetpirates.png"
@@ -733,11 +904,20 @@ stages:
     (dans un sac). Il faut prévoir une tenue adaptée en cas de bricolages et peintures.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 4-6 ans
+    description: Ce stage permet aux enfants d’entrer dans le monde magique des contes
+      de fées, de mettre en scène des histoires féeriques, de faire du bricolage et
+      des dessins sur ce thème, de se déguiser, de danser sur les chansons préférées
+      des princesses & pirates. Les enfants peuvent venir au stage avec un déguisement
+      (dans un sac). Il faut prévoir une tenue adaptée en cas de bricolages et peintures.
+    infos: []
 - name: Quad & Vtt
   age: 6-8 ans
   img: "/stages/decouvertesportiveetculturelle/quadetvtt.png"
@@ -769,11 +949,27 @@ stages:
     violence, il s’agit une pratique qui fait travailler le physique et le mental
     sans pour autant mettre la violence au premier plan.
   inscription: ''
-  categorie: decouvertes
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-8 ans
+    description: Demi-journée quotidienne d’initiation et découverte du Krav maga
+      qui allie différents type de combat et d’auto défense. Les enfants auront l'occasion
+      de participer à des initiations à plusieurs sports de self-défense et d'arts
+      martiaux différents durant la semaine. Toutes les activités seront encadrées
+      par des moniteurs professionnels de Krav Maga Bruxelles. L’autre demi-journée
+      est complétée par des activités funs, des jeux collectifs et du multisport.
+    infos:
+    - alias: Partenariat
+      info_line: 'En partenariait avec Krav Maga Bruxelles '
+    - alias: Pas de violence
+      info_line: Le Krav Maga n’encourage pas la violence, il s’agit une pratique
+        qui fait travailler le physique et le mental sans pour autant mettre la violence
+        au premier plan.
 - name: Dance For You
   age: 8-14 ans
   img: "/stages/danseetgymnastique/danceforyou.png"
@@ -782,11 +978,19 @@ stages:
     Break-Dance, Ragga et New-Style. Un spectacle est prévu en fin de stage.'
   infos: Stage en partenariat avec l'association 4UDance
   inscription: ''
-  categorie: danse
+  categorie: Danse et Gymnastique
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: '5 types de chorégraphies sont proposés par stage : Funck-Jazz, Hip-Hop,
+      Break-Dance, Ragga et New-Style. Un spectacle est prévu en fin de stage.'
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec l'association 4UDance
 - name: Danse
   age: 6-10 ans
   img: "/stages/danseetgymnastique/danse.png"
@@ -796,11 +1000,32 @@ stages:
     des chorégraphies. Un petit spectacle est prévu à la fin de la semaine!
   infos: 
   inscription: ''
-  categorie: danse
+  categorie: Danse et Gymnastique
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-10 ans
+    description: Ce stage prévoit une initiation et/ou un perfectionnement de la danse
+      Jazz. (musique, tempos, mouvements, danses en groupe). Les enfants réalisent
+      également des chorégraphies. Un petit spectacle est prévu à la fin de la semaine!
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-10 ans
+    description: Ce stage prévoit une initiation et/ou un perfectionnement de la danse
+      Jazz. (musique, tempos, mouvements, danses en groupe). Les enfants réalisent
+      également des chorégraphies. Un petit spectacle est prévu à la fin de la semaine!
+    infos: []
+  - alias: Liège
+    ville: Liège
+    age: 6-10 ans
+    description: Ce stage prévoit une initiation et/ou un perfectionnement de la danse
+      Jazz. (musique, tempos, mouvements, danses en groupe). Les enfants réalisent
+      également des chorégraphies. Un petit spectacle est prévu à la fin de la semaine!
+    infos: []
 - name: GRS
   age: 6-14 ans
   img: "/stages/danseetgymnastique/grs.png"
@@ -810,11 +1035,25 @@ stages:
     et apprendra des chorégraphies.
   infos: 
   inscription: ''
-  categorie: danse
+  categorie: Danse et Gymnastique
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-14 ans
+    description: Par le biais de la musique et l'utilisation de ballons, cerceaux,
+      rubans, cordes et massues, votre enfant développera le rythme, l'adresse et
+      la dextérité et apprendra des chorégraphies.
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-14 ans
+    description: Par le biais de la musique et l'utilisation de ballons, cerceaux,
+      rubans, cordes et massues, votre enfant développera le rythme, l'adresse et
+      la dextérité et apprendra des chorégraphies.
+    infos: []
 - name: Gymnastique
   age: 6-12 ans
   img: "/stages/danseetgymnastique/gymnastique.png"
@@ -826,11 +1065,29 @@ stages:
     sportives.
   infos: 
   inscription: ''
-  categorie: danse
+  categorie: Danse et Gymnastique
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: Durant ce stage , les enfants vont découvrir les plaisirs de la gymnastique
+      par un travail aux agrès dans le but de développer les qualités de base de cette
+      discipline (force, souplesse, équilibre et audace) à raison de 2 séances par
+      jour. Les 2 autres séances de la journée leur permettront de découvrir d'autres
+      disciplines sportives.
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-12 ans
+    description: Durant ce stage , les enfants vont découvrir les plaisirs de la gymnastique
+      par un travail aux agrès dans le but de développer les qualités de base de cette
+      discipline (force, souplesse, équilibre et audace) à raison de 2 séances par
+      jour. Les 2 autres séances de la journée leur permettront de découvrir d'autres
+      disciplines sportives.
+    infos: []
 - name: Gym Pro
   age: 8-16 ans
   img: "/stages/danseetgymnastique/gympro.png"
@@ -841,11 +1098,19 @@ stages:
     sol et sauts.'
   infos: 
   inscription: ''
-  categorie: danse
+  categorie: Danse et Gymnastique
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-16 ans
+    description: 'Ce stage propose un perfectionnement pour les enfants qui pratiquent
+      de la gymnastique durant l''année. Les enfants participant à ce stage doivent
+      justifier un minimum d''expérience sur les 4 agrès : poutre, barres asymétriques,
+      sol et sauts.'
+    infos: []
 - name: Hip-Hop & Ragga
   age: 9-16 ans
   img: "/stages/danseetgymnastique/hiphopragga.png"
