@@ -2399,11 +2399,44 @@ stages:
   infos: Rixensart - Nous demandons une présence au Centre Sportif pour 8h30 car les
     enfants seront navettés soit vers Ottignies, soit vers Wavre.
   inscription: ''
-  categorie: sportives
+  categorie: Activités sportives
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-16 ans
+    description: "<p>Ce stage de tennis associe l'apprentissage du geste technique
+      au plaisir du jeu dans une ambiance familiale. Tout au long de la semaine, les
+      enfants apprennent les bases du tennis (prises, placement, jeux de jambes, …)
+      afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire ou
+      en adversaire. Des groupes seront formés en fonction des âges et des niveaux
+      : balles molles, mids ou dures (max. 8 enfants/groupe). Un tournoi amical sera
+      organisé en fin de semaine. La journée est divisée en 3 périodes de tennis et
+      1 période de multisports. Si vous ne possédez pas de raquette, le CFS en met
+      à votre disposition.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Vous pouvez bien sûr apporter votre propre matériel.
+    - alias: Horaires
+      info_line: Nous demandons une présence au Centre Sportif pour 8h30 car les enfants
+        seront navettés soit vers Ottignies, soit vers Wavre.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 7-14 ans
+    description: "<p>Ce stage de tennis associe l'apprentissage du geste technique
+      au plaisir du jeu dans une ambiance familiale. Tout au long de la semaine, les
+      enfants apprennent les bases du tennis (prises, placement, jeux de jambes, …)
+      afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire ou
+      en adversaire. Des groupes seront formés en fonction des âges et des niveaux
+      : balles molles, mids ou dures (max. 8 enfants/groupe). Un tournoi amical sera
+      organisé en fin de semaine. La journée est divisée en 3 périodes de tennis et
+      1 période de multisports. Si vous ne possédez pas de raquette, le CFS en met
+      à votre disposition.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Vous pouvez bien sûr apporter votre propre matériel.
 - name: Tennis Pro
   age: 11-16 ans
   img: "/stages/activitessportives/tennispro.png"
@@ -2413,11 +2446,20 @@ stages:
     participer à des tournois durant le stage.
   infos: Stage en collaboration avec Lambert Tennis Academy
   inscription: ''
-  categorie: sportives
+  categorie: Activités sportives
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 11-16 ans
+    description: "<p>Ce stage permet aux amateurs de tennis, de développer leur technique
+      de jeu et d'en apprendre davantage. Les enfants auront également l'occasion
+      de participer à des tournois durant le stage.</p>"
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Lambert Tennis Academy.
 - name: Volley Découverte
   age: 
   img: "/stages/activitessportives/volleydecouverte.png"
@@ -2430,11 +2472,21 @@ stages:
   infos: Les enfants doivent apporter leur VTT, gilet fluo, un cadenas, un casque
     ainsi qu'une chambre à air de rechange dès le premier jour de stage ! 
   inscription: ''
-  categorie: sportives
+  categorie: Activités sportives
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: "<p>Ce stage permet une initiation au volley, apprentissage des règles
+      et des techniques de jeux.</p>"
+    infos:
+    - alias: Partenariat
+      info_line: Stage organisé en partenariat avec le Volley Club de Walhain.
+    - alias: Garderie
+      info_line: Garderie à partir de 8h00 le matin.
 - name: Football Camp
   age: 12-17 ans
   img: "/stages/activitessportives/footcamp.jpg"
@@ -2451,9 +2503,9 @@ stages:
   infos: Tous les repas de l'hôtel sont servis sous forme de buffets avec eau à table.
     Les boissons pétillantes sont payantes.
   inscription: ''
-  categorie: sportives
-  online: true
-  nouveau: true
+  categorie: Activités sportives
+  online: false
+  nouveau: false
   stage_une: false
   location: []
 - name: Ski
