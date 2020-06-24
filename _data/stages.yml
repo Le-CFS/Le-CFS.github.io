@@ -1779,11 +1779,17 @@ stages:
     et nage avec palmes. 2h de piscine et 4h de multisports par jour.'
   infos: 
   inscription: ''
-  categorie: sportives
+  categorie: Activités sportives
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-12 ans
+    description: 'Pour les jeunes sachant nager 50m: jeux nautiques, techniques de
+      sauvetage et nage avec palmes. 2h de piscine et 4h de multisports par jour.'
+    infos: []
 - name: Badminton
   age: 8-14 ans
   img: "/stages/activitessportives/badminton.png"
@@ -1792,11 +1798,23 @@ stages:
     matchs entre participants. Un tournoi est organisé en fin de semaine.
   infos: 
   inscription: ''
-  categorie: sportives
+  categorie: Activités sportives
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: Une initiation et/ou un perfectionnement de la technique et de petits
+      matchs entre participants. Un tournoi est organisé en fin de semaine.
+    infos: []
+  - ville: Bruxelles
+    age: 8-14 ans
+    description: Une initiation et/ou un perfectionnement de la technique et de petits
+      matchs entre participants. Un tournoi est organisé en fin de semaine.
+    infos: []
+    alias: Bruxelles
 - name: Equi Sport
   age: 7-12 ans
   img: "/stages/activitessportives/equisport.png"
@@ -1808,11 +1826,22 @@ stages:
     la gymnastique tout au long de l''année) ou magie'
   infos: Les navettes seront assurées par le CFS.
   inscription: ''
-  categorie: sportives
+  categorie: Activités sportives
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-12 ans
+    description: "Les enfants s’adonnent le matin aux joies du manège et de l’équitation.
+      L’après-midi est consacrée à une autre activité au choix parmi: \n\n* À Rixensart
+      : badminton, football, sports raquettes, GRS, activités Funs ou bande dessinée\n*
+      À Ottignies : mini-foot, sports raquettes, GRS, Gym Pro (pratique nécessaire
+      de la gymnastique tout au long de l'année) ou magie."
+    infos:
+    - alias: Navettes
+      info_line: Les navettes seront assurées par le CFS.
 - name: Equitation
   age: Bruxelles 7-15 ans / Brabant 7-16 ans
   img: "/stages/activitessportives/equitation.png"
