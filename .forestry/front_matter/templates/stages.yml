@@ -85,7 +85,7 @@ fields:
         required: false
         wysiwyg: true
         schema:
-          format: markdown
+          format: html-blocks
       label: Description du stage
     - name: infos
       type: field_group_list
