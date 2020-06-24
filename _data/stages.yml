@@ -386,11 +386,17 @@ stages:
     chorégraphies adaptées. Un spectacle est prévu en fin de stage. 
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: Les enfants s'initient au rythme et à la danse au travers de petites
+      chorégraphies adaptées. Un spectacle est prévu en fin de stage.
+    infos: []
 - name: Baby Foot
   age: Bruxelles 4-6 ans - Brabant Wallon 5-6 ans
   img: "/stages/decouvertesportiveetculturelle/babyfoot.png"
@@ -400,11 +406,25 @@ stages:
     parcours d'adresse, d'audace).
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-6 ans
+    description: Premier contact avec le ballon rond par des apprentissages techniques
+      et des jeux. Le stage est complété par de la psychomotricité (jeux de coopérations,
+      parcours d'adresse, d'audace).
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 4-6 ans
+    description: Premier contact avec le ballon rond par des apprentissages techniques
+      et des jeux. Le stage est complété par de la psychomotricité (jeux de coopérations,
+      parcours d'adresse, d'audace).
+    infos: []
 - name: Baby Gym
   age: 4-6 ans
   img: "/stages/decouvertesportiveetculturelle/babygym.png"
@@ -413,11 +433,22 @@ stages:
     d'équilibre, d'audace et premières notions de gymnastique sportive.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: Stage d'initiation à la gymnastique pour les plus petits. Parcours
+      d'équilibre, d'audace et premières notions de gymnastique sportive.
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: ''
+    description: ''
+    infos: []
 - name: Baby Multisports
   age: 4-6 ans
   img: "/stages/decouvertesportiveetculturelle/babymultisports.png"
@@ -427,11 +458,18 @@ stages:
     et l'esprit d'équipe.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 4-6 ans
+    description: Premier contact avec le sport et les jeux collectifs, par lequels
+      votre enfant développera les différentes facettes de la motricité, le respect
+      des règles et l'esprit d'équipe.
+    infos: []
 - name: Baby Multisports & Natation
   age: 4-6 ans
   img: "/stages/decouvertesportiveetculturelle/babymultietnat.png"
@@ -440,11 +478,17 @@ stages:
     et les autres périodes à la découverte de différents sports.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 4-6 ans
+    description: Ce stage se divise en plusieures périodes dont une consacrée à la
+      natation et les autres périodes à la découverte de différents sports.
+    infos: []
 - name: Baby Poney
   age: 4-6 ans
   img: "/stages/decouvertesportiveetculturelle/babyponey.png"
