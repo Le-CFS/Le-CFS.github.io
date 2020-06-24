@@ -1404,11 +1404,23 @@ stages:
   infos: Il faut un VTT, un gilet fluo, un cadenas, un casque ainsi qu’une chambre
     à air de rechange dès le premier jour du stage !
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 10-16 ans
+    description: Ce stage propose une semaine complète rythmée par des parties de
+      Paintball (1x/semaine) et la pratique du VTT pour des enfants sachant déjà rouler
+      à vélo. Les jeunes apprennent les règles et les astuces du paintball et s’initient
+      à l’orientation en VTT. Le stage est agrémenté par une initiation à la moto
+      trial et à une journée à la natation (prévoir maillot, bonnet et essuie de bain).
+    infos:
+    - alias: Matériel
+      info_line: Il faut un VTT, un gilet fluo, un cadenas, un casque ainsi qu’une
+        chambre à air de rechange dès le premier jour du stage !
 - name: Fun VTT
   age: 10-16 ans
   img: "/stages/activitesfun/funvtt.png"
@@ -1421,11 +1433,28 @@ stages:
     un gilet fluo, un cadenas ainsi qu'une chambre à air de rechange le premier jour
     du stage ! 
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-16 ans
+    description: |-
+      Un super mélange entre activités fun et VTT. Un programme super alléchant!
+
+      **PROGRAMME CARNAVAL**: VTT, paintball/moto, Jumps XL/Ko, laser game.
+
+      **PROGRAMME PAQUES**: VTT, paintball/moto, laser game, Jump XL/KO (pas E4).
+
+      **PROGRAMME ETE**: VTT, paintball/moto, laser game, Jump XL/KO.
+    infos:
+    - alias: Condition physique
+      info_line: Une bonne condition physique est indispensable.
+    - alias: Matériel
+      info_line: Attention, il faut un VTT, un gilet fluo, un cadenas ainsi qu'une
+        chambre à air de rechange le premier jour du stage !
 - name: Karting & Fun
   age: 10-16 ans
   img: "/stages/activitesfun/kartingetfun.png"
