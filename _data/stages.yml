@@ -1465,11 +1465,21 @@ stages:
     tchoukball, kinball, base ball, flag foot., bubble soccer...)
   infos: Pour le karting la taille minimum de l'enfant doit être de 1m55 !
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 10-16 ans
+    description: Tu veux vivre une semaine passionnante? Ce stage est fait pour toi!
+      Viens découvrir les joies du karting tous les après-midi au WIK (demi-finale
+      / finale). Le reste de la semaine est complété par des activités fun (telles
+      que tchoukball, kinball, base ball, flag foot., bubble soccer...)
+    infos:
+    - alias: Taille
+      info_line: Pour le karting la taille minimum de l'enfant doit être de 1m55 !
 - name: Koh Lanta
   age: Bruxelles 9-12 ans / Brabant 8-12 ans
   img: "/stages/activitesfun/lanta.png"
