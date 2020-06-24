@@ -316,11 +316,18 @@ stages:
     enfant à la conduite.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 4-5 ans
+    description: Ce stage permettra à votre enfant d'apprendre à rouler à vélo ou
+      de développer ses capacités. Des circuits sont prévus afin de familiariser votre
+      enfant à la conduite.
+    infos: []
 - name: Astucieux
   age: 7-9 ans
   img: "/stages/decouvertesportiveetculturelle/astucieux.png"
@@ -334,11 +341,22 @@ stages:
     une carte, escalader.'
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-9 ans
+    description: 'Aider un enfant à se débrouiller dans la vie de tous les jours.
+      Une semaine de stage avec 10 ateliers pédagogiques mais sous forme de jeux.
+      Les enfants pourront reprendre leur petit carnet en fin de stage. Voici les
+      thèmes abordés lors de ce stage: entretenir et réparer son vélo / trottinette,
+      les premiers secours, faire des nœuds et construire un abri, bricolage, notion
+      d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son
+      chemin, s’orienter et lire une carte, escalader.'
+    infos: []
 - name: Baby Danse
   age: 4-6 ans
   img: "/stages/decouvertesportiveetculturelle/babydansetgym.png"
@@ -348,11 +366,18 @@ stages:
     de présenter un spectacle le vendredi après-midi.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: Ce stage offre une initiation au rythme à travers l'apprentissage
+      de différentes chorégraphies adaptées aux plus petits. Les enfants auront l'occasion
+      de présenter un spectacle le vendredi après-midi.
+    infos: []
 - name: Baby Danse & Gym
   age: 4-6 ans
   img: "/stages/decouvertesportiveetculturelle/babydansetgym.png"
