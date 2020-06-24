@@ -90,11 +90,26 @@ stages:
     gonflable ! Le reste de la journée est consacré à de la psychomotricité."
   infos: Prévoir une tenue adaptée en cas de bricolages et peintures.
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 3-4 ans
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
+    description: Ce stage vise le développement des capacités d'audace et d'équilibre
+      chez nos petits bouts. Ils grimpent sur des espaliers, des parcours d'obstacles
+      ainsi que sur notre nouveau mur d'escalade gonflable ! Le reste de la journée
+      est consacré à de la psychomotricité.
+  - alias: Bruxelles
+    ville: Bruxelles
+    description: ''
+    infos: []
+    age: ''
 - name: Psycho Aqua
   age: Brabant 3-4 ans / Liège 3-5 ans
   img: "/stages/lespetitsbouts/psychoaqua.png"
@@ -109,11 +124,29 @@ stages:
   infos: 'BRABANT : Bonnet de bain obligatoire. Prévoyez également une tenue adaptée
     en cas de bricolages et peintures.'
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 3-4 ans
+    description: Ce stage de psychomotricité est agrémenté, quotidiennement, d'une
+      heure d'accoutumance à l'eau. Une aubaine pour les petits qui auront l'occasion
+      de faire connaissance avec les joies de la piscine, en toute sécurité.
+    infos:
+    - alias: Bonnet
+      info_line: Bonnet de bain obligatoire.
+    - alias: Tenue adaptée
+      info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
+  - alias: Liège
+    ville: Liège
+    age: 3-5 ans
+    description: Ce stage de psychomotricité est agrémenté, quotidiennement, d’une
+      heure d’accoutumance à l’eau. Une aubaine pour les petits qui auront l’occasion
+      de faire connaissance avec les joies de la piscine, en toute sécurité.
+    infos: []
 - name: Psycho Natation
   age: 3-4 ans
   img: "/stages/lespetitsbouts/psychonatation.png"
@@ -126,11 +159,24 @@ stages:
   infos: Dès le premier jour, prévoir maillot, bonnet et essuie de bain. Prévoyez
     également une tenue adaptée en cas de bricolages et peintures.
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 3-4 ans
+    description: 'Apprentissage des mouvements de base de la natation par le biais
+      d''activités ludiques (1h/j). Accoutumance au milieu aquatique dans une ambiance
+      décontractée. En piscine, 2 moniteurs pour 6 enfants. Le reste de la journée
+      est consacré à des activités de psychomotricité. NB : Les enfants doivent être
+      propres. Sinon, nous vous conseillons de les inscrire en pré-psycho.'
+    infos:
+    - alias: Maillot & Bonnet
+      info_line: Dès le premier jour, prévoir maillot, bonnet et essuie de bain.
+    - alias: Tenue adaptée
+      info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
 - name: Psycho Musique
   age: 
   img: "/stages/lespetitsbouts/psychomusique.png"
@@ -140,7 +186,7 @@ stages:
     à des activités de psychomotricité.
   infos: Prévoir une tenue adaptée en cas de bricolages et peintures.
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: false
   nouveau: false
   stage_une: false
@@ -156,11 +202,22 @@ stages:
     consacré à des activités de psychomotricité.'
   infos: Prévoir une tenue adaptée en cas de bricolages et peintures.
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 3-4 ans
+    description: 'Chaque matin, les enfants partiront dans les alentours de leur centre
+      : découverte et sensibilisation à la nature seront au programme de leur balade.
+      Une fois revenus, ils réaliseront un bricolage avec les richesses ramenées lors
+      de leur expédition. A chaque jour son nouveau thème ! Le reste de la journée
+      est consacré à des activités de psychomotricité.'
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
 - name: Psycho Sport
   age: 3-4 ans
   img: "/stages/lespetitsbouts/psychosport.png"
