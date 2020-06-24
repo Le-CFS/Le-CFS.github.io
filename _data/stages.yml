@@ -230,11 +230,24 @@ stages:
     à un mélange des différentes activités du stage « psycho découverte ».
   infos: Prévoir une tenue adaptée en cas de bricolages et peintures.
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 3-4 ans
+    description: Votre enfant souhaite découvrir des activités sportives? Le stage
+      de psycho sport permet une transition idéale entre la psychomotricité et la
+      découverte sportive! Durant la semaine, les enfants s’initient à différents
+      sports individuels, collectifs et gymniques de manière ludique afin qu’ils progressent
+      à leur rythme tout en respectant leur développement moteur. Le reste de la journée
+      est consacré à un mélange des différentes activités du stage « psycho découverte
+      ».
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
 - name: Psycho Vélo
   age: 3-4 ans
   img: "/stages/lespetitsbouts/psychovelo.png"
@@ -244,11 +257,20 @@ stages:
     L'enfant peut aussi apporter son propre vélo.
   infos: Prévoir une tenue adaptée en cas de bricolages et peintures.
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 3-4 ans
+    description: Initiation au vélo via des exercices d'équilibre et de prise de confiance.
+      Les règles de sécurité sont abordées. Le CFS met ses Balance Bikes à disposition.
+      L'enfant peut aussi apporter son propre vélo.
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
 - name: Psycho Bricolage
   age: 3-4 ans
   img: "/stages/lespetitsbouts/psychobricolage.png"
@@ -257,11 +279,19 @@ stages:
     éveil artistique par le biais du bricolage et de la peinture.
   infos: Prévoir une tenue adaptée pour le bricolage et la peinture.
   inscription: ''
-  categorie: bouts
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 3-4 ans
+    description: Un stage de psychomotricité qui sera agrémenté quotidiennement d'un
+      éveil artistique par le biais du bricolage et de la peinture.
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour le bricolage et la peinture.
 - name: Psycho Cuisine
   age: 3-5 ans
   img: "/stages/lespetitsbouts/psychocuisine.png"
