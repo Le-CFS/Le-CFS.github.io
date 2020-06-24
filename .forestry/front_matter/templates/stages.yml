@@ -76,13 +76,13 @@ fields:
     - name: age
       type: text
       config:
-        required: true
+        required: false
       label: Tranche d'âge
     - name: description
       type: textarea
       default: ''
       config:
-        required: true
+        required: false
         wysiwyg: true
         schema:
           format: markdown
