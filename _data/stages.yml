@@ -1289,19 +1289,19 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 10-14 ans
-    description: "Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne
+    age: 12-16 ans
+    description: "<p>Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne
       à l’une de nos activités phares en collaboration avec nos différents partenaires
       et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
-      les plus strictes ?  \nNous te proposons un programme idéal tout au long de
-      la semaine : **New games, Koezio, escalade et Parc Aventure** !  \nStage adapté
-      aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement
+      les plus strictes ? Nous te proposons un programme idéal tout au long de la
+      semaine : <strong>New games, Koezio, escalade et Parc Aventure</strong> ! Stage
+      adapté aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement
       secondaire. En effet, afin de respecter le protocole mis en place pour l’organisation
       des stages, les enfants devront porter un masque obligatoirement tout au long
       de la semaine. (Si vous ne souhaitez pas que votre ado effectue des sorties
       en dehors du centre, un stage est spécialement prévu pour lui ! Nous vous invitons
-      alors à sélectionner le stage « Fun Ados ».\n\nAttention: le programme change
-      pour les semaines plus courtes."
+      alors à sélectionner le stage « Fun Ados ».</p><p>Attention: le programme change
+      pour les semaines plus courtes.</p>"
     infos:
     - alias: Déplacements
       info_line: Les déplacements se font en transports en commun ou en car.
@@ -1344,15 +1344,15 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 12-16 ans
-    description: "Vous souhaitez que votre ado participe à semaine hyper fun et dans
-      le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
+    description: "<p>Vous souhaitez que votre ado participe à semaine hyper fun et
+      dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
       les plus strictes mais vous ne souhaitez pas qu’il participe à des activités
-      organisées en dehors du centre ?  \nNous vous proposons un programme idéal tout
-      au long de la semaine : Orientation, Geocatching, Escape Game, Jeu dans les
-      bois, Arrow Game, New Games.  \nStage adapté aux enfants âgés de plus de 12ans
-      ou étant déjà scolarisés dans l’enseignement secondaire. En effet, afin de respecter
-      le protocole mis en place pour l’organisation des stages, les enfants devront
-      porter un masque obligatoirement tout au long de la semaine."
+      organisées en dehors du centre ? Nous vous proposons un programme idéal tout
+      au long de la semaine : <strong>Orientation, Geocatching, Escape Game, Jeu dans
+      les bois, Arrow Game, New Games</strong>. Stage adapté aux enfants âgés de plus
+      de 12ans ou étant déjà scolarisés dans l’enseignement secondaire. En effet,
+      afin de respecter le protocole mis en place pour l’organisation des stages,
+      les enfants devront porter un masque obligatoirement tout au long de la semaine.</p>"
     infos:
     - alias: Déplacements
       info_line: Aucun déplacement en transport en commun, ni en car.
