@@ -2737,11 +2737,22 @@ stages:
     une carte, escalader.'
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 10-13 ans
+    description: "<p>Aider un enfant à se débrouiller dans la vie de tous les jours.
+      Une semaine de stage avec 10 ateliers pédagogiques mais sous forme de jeux.
+      Les enfants pourront reprendre leurs petits carnet en fin de stage. Voici les
+      thèmes abordés lors de ce stage: Entretenir et réparer son vélo / trottinette,
+      les premiers secours, faire des nœuds et construire un abri, bricolage notion
+      d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son
+      chemin, s’orienter et lire une carte, escalader.</p>"
+    infos: []
 - name: Détective
   age: 10-16 ans
   img: "/stages/activitesartistiquesetloisirs/detective.png"
@@ -2757,11 +2768,26 @@ stages:
     La semaine se clôture par une journée cohésion/pique-nique.'
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 10-16 ans
+    description: "<p>Ce stage permet à nos agents spéciaux en herbe de se découvrir
+      et se surpasser. Au programme : jeux de mémoire, de culture générale, de piste,
+      de réflexion et de cohésion d'équipe. Le tout combiné à des épreuves d'agilité
+      et des efforts physiques. Les jeunes sont projetés dans un univers où seule
+      l'entraide leur permettra de trouver les solutions. Pour se tester, ils créent
+      des épreuves de Géocatching (chasse au trésor avec GPS) et d'Escape Room (jeux
+      de rôles grandeur nature dont le but est de s'échapper d'une pièce en résolvant
+      des énigmes). Tout cela agrémenté d'une journée inoubliable au parc de loisir
+      indoor Koezio. La semaine se clôture par une journée cohésion/pique-nique.</p>"
+    infos:
+    - alias: Koézio
+      info_line: 'Pour Koezio: taille minimum 1,40 m.'
 - name: Diner Parfait
   age: 7-14 ans
   img: "/stages/activitesartistiquesetloisirs/dinerparfait.png"
@@ -2772,11 +2798,31 @@ stages:
     dernier jour, un petit buffet-dégustation sera préparé à l’attention des parents.
   infos: Il ne faut prévoir à manger que le vendredi !
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-14 ans
+    description: "<p>Durant le stage, les jeunes cuisiniers touchent à tous les domaines
+      ayant trait au métier de chef-cuistot. Ils préparent des recettes qu’ils savourent
+      chaque midi. Ils se chargent également de la remise en ordre des cuisines. Le
+      dernier jour, un petit buffet-dégustation sera préparé à l’attention des parents.</p>"
+    infos:
+    - alias: Repas
+      info_line: Il ne faut prévoir à manger que le vendredi !
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 7-14 ans
+    description: "<p>Durant le stage, les jeunes cuisiniers touchent à tous les domaines
+      ayant trait au métier de chef-cuistot. Ils préparent des recettes qu’ils savourent
+      chaque midi. Ils se chargent également de la remise en ordre des cuisines. Le
+      dernier jour, un petit buffet-dégustation sera préparé à l’attention des parents.</p>"
+    infos:
+    - info_line: Il ne faut prévoir à manger que le vendredi !
+      alias: Repas
 - name: Food & Pleasure
   age: 6-8 ans
   img: "/stages/activitesartistiquesetloisirs/foodandpleasure.png"
@@ -2787,11 +2833,21 @@ stages:
     Les après-midi sont consacrées à des activités de multisports.'
   infos: Stage en partenariat avec Food & Pleasure
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-8 ans
+    description: "<p>Notre gentil petit monstre gourmand Gloopy s'intéresse aux fruits
+      et légumes de saison: panier de saison, tests à l'aveugle, boites mystères,
+      éveil des 5 sens et bien sûr, préparation de savoureuses recettes saines et
+      gourmandes! Les après-midi sont consacrées à des activités de multisports.</p>"
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Food & Pleasure
 - name: Immersion Anglais
   age: 8-12 ans
   img: "/stages/activitesartistiquesetloisirs/immersionanglais.png"
@@ -2802,11 +2858,27 @@ stages:
     apprentissage amusant et performant, respectueux des capacités de chaque enfant.'
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Les petits bouts
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Stage d'apprentissage de l'anglais au travers d'activités pédagogiques
+      diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. Les
+      activités proposées se dérouleny en anglais. Les formateurs sont soucieux d'un
+      apprentissage amusant et performant, respectueux des capacités de chaque enfant.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: "<p>Stage d'apprentissage de l'anglais au travers d'activités pédagogiques
+      diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. Les
+      activités proposées se dérouleny en anglais. Les formateurs sont soucieux d'un
+      apprentissage amusant et performant, respectueux des capacités de chaque enfant.</p>"
+    infos: []
 - name: Immersion Néerlandais
   age: 8-16 ans
   img: "/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
@@ -2818,11 +2890,29 @@ stages:
     enfant.'
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - ville: Brabant Wallon
+    age: 8-16 ans
+    description: "<p>Stage d'apprentissage du néerlandais au travers d'activités pédagogiques
+      diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. Les
+      activités proposées se déroulent en néerlandais. Les formateurs sont soucieux
+      d'un apprentissage amusant et performant, respectueux des capacités de chaque
+      enfant.</p>"
+    infos: []
+    alias: Brabant Wallon
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-16 ans
+    description: "<p>Stage d'apprentissage du néerlandais au travers d'activités pédagogiques
+      diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. Les
+      activités proposées se déroulent en néerlandais. Les formateurs sont soucieux
+      d'un apprentissage amusant et performant, respectueux des capacités de chaque
+      enfant.</p>"
+    infos: []
 - name: Ma déco
   age: 8-14 ans
   img: "/stages/activitesartistiquesetloisirs/madeco.png"
