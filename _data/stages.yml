@@ -1122,11 +1122,20 @@ stages:
     rythmée. Les enfants apprennent à délier leur bassin.
   infos: 
   inscription: ''
-  categorie: danse
+  categorie: Danse et Gymnastique
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 9-16 ans
+    description: Ce stage introduit le Hip-hop, un style de danse qui demande de l'énergie
+      pour effectuer des phases chorégraphiques debout mais aussi des figures acrobatiques
+      au sol. Les jeunes danseurs pourront s'essayer aux figures de base et/ou se
+      perfectionner. Une initation au Ragga est également proposée sur de la musique
+      tropicale très rythmée. Les enfants apprennent à délier leur bassin.
+    infos: []
 - name: Swiss Jump Kids
   age: 8-16 ans
   img: "/stages/danseetgymnastique/swissjumpkids.png"
@@ -1136,11 +1145,18 @@ stages:
     ainsi qu'une chorégraphie sur le style de danse choisi.
   infos: 
   inscription: ''
-  categorie: danse
+  categorie: Danse et Gymnastique
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-16 ans
+    description: Lors de ce stage, les enfants découvrent le Swiss Jump (mini trampoline
+      individuel). Ils présentent, en fin de semaine, une chorégraphie sur le trampoline
+      ainsi qu'une chorégraphie sur le style de danse choisi.
+    infos: []
 - name: Aventure
   age: 8-12 ans
   img: "/stages/activitesfun/aventure.png"
@@ -1162,11 +1178,49 @@ stages:
     adaptés aux activités d’extérieur. Certaines activités demandent un déplacement
     en navette assuré par nos soins.
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: |-
+      Votre enfant a entre 8 et 14 ans? Il souhaite un stage varié et fun? Ce stage phare du CFS est fait pour lui! Un stage alléchant qui propose chaque jour une activité ludique!
+
+      **PROGRAMME CARNAVAL**: laser game/arrow game/new games/activités FUN/escalade en salle/jeux dans les bois et barbecue.
+
+      **PROGRAMME PAQUES**: laser game/arrow game/new games/ activités FUN/parc Aventure à Wavre/jeux dans les bois et barbecue.
+
+      **PROGRAMME ETE**: laser game/new games/arrow game/parc Aventure à Wavre/jeux dans les bois et barbecue.
+
+      Attention, le programme peut changer pour les semaines plus courtes.
+    infos:
+    - alias: Vêtement extérieur
+      info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
+        activités d’extérieur.
+    - alias: Navette
+      info_line: Certaines activités demandent un déplacement en navette assuré par
+        nos soins.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: |-
+      Votre enfant a entre 8 et 12 ans? Il souhaite essayer un stage varié et fun? Ce stage phare du CFS est pour lui! Il vous propose un programme alléchant, avec chaque jour une activité ludique différente.
+
+      **PROGRAMME CARNAVAL**: new games, escrime, laser games, escalade, escape games.
+
+      **PROGRAMME PAQUES/ETE**: new games, escrime, laser games, escalade, parc Aventure.
+
+      Attention, le programme change pour les semaines plus courtes.
+    infos:
+    - alias: Vêtements extérieur
+      info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
+        activités d’extérieur.
+    - alias: Navette
+      info_line: Certaines activités demandent un déplacement en navette assuré par
+        nos soins.
 - name: BMX Pro
   age: 10-16 ans
   img: "/stages/activitesfun/bmx.png"
