@@ -2557,11 +2557,18 @@ stages:
     est composée de 3h de sciences et 3h de sport.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: "<p>Lors de ce stage, nos petits scientifiques vont découvrir par
+      des petites expériences physiques, chimiques et biologiques le monde des sciences.
+      La journée est composée de 3h de sciences et 3h de sport.</p>"
+    infos: []
 - name: Artiste
   age: 6-12 ans
   img: "/stages/activitesartistiquesetloisirs/artiste.png"
@@ -2571,11 +2578,25 @@ stages:
     d'oeuvres personnelles.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    description: "<p>Ce stage vise l'éveil artistique de l'enfant par la découverte
+      de techniques d'art plastique telles que le modelage, le collage, le dessin,
+      etc. et la réalisation d'oeuvres personnelles.</p>"
+    infos: []
+    age: 6-12 ans
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-12 ans
+    description: "<p>Ce stage vise l'éveil artistique de l'enfant par la découverte
+      de techniques d'art plastique telles que le modelage, le collage, le dessin,
+      etc. et la réalisation d'oeuvres personnelles.</p>"
+    infos: []
 - name: Bande Dessinée
   age: 9-16 ans
   img: "/stages/activitesartistiquesetloisirs/bd.png"
@@ -2585,11 +2606,18 @@ stages:
     est prévu dans le prix du stage.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 9-16 ans
+    description: "<p>Ce stage a pour but la création de planches BD. Se munir d'une
+      latte, de crayons, d'un taille-crayon, d'une gomme et d'un chiffon. Le reste
+      du matériel est prévu dans le prix du stage.</p>"
+    infos: []
 - name: Bricoleur & Sport
   age: 7-12 ans
   img: "/stages/activitesartistiquesetloisirs/bricoleur.png"
@@ -2601,11 +2629,20 @@ stages:
     repartent avec un jeu en bois confectionné de leurs propres mains.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-12 ans
+    description: "<p>Nos bricoleurs en herbe découvrent le monde du rafistolage en
+      tout genre en adoptant les bonnes techniques. Une mise en situation et les premières
+      manipulations des outils se feront en toute sécurité le matin tandis que l'après-midi
+      sera consacrée à la découverte de différents sports. Les apprentis bricoleurs
+      repartent avec un jeu en bois confectionné de leurs propres mains.</p>"
+    infos: []
 - name: Cirque
   age: 9-14 ans
   img: "/stages/activitesartistiquesetloisirs/cirque.png"
@@ -2616,11 +2653,19 @@ stages:
     du diable).'
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 9-14 ans
+    description: "<p>Ce stage propose l’approche de diverses disciplines issues du
+      monde du cirque : équilibre (câbles, échasses, monocycle), acrobatie (pyramides,
+      trampoline et trapèze), jonglerie (foulards, balles, quilles), adresse (diabolos,
+      bâtons du diable).</p>"
+    infos: []
 - name: Comédie Musicale
   age: 8-16 ans
   img: "/stages/activitesartistiquesetloisirs/comediemusicale.png"
@@ -2630,11 +2675,18 @@ stages:
     scénettes sont au programme. Spectacle en fin de semaine à ne pas manquer!
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-16 ans
+    description: "<p>Ce stage propose une combinaison de danses, chants et jeux de
+      rôles sous forme théâtrale. Echauffement, exercices de vocalise, création de
+      petites scénettes sont au programme. Spectacle en fin de semaine à ne pas manquer!</p>"
+    infos: []
 - name: Compo Musicale
   age: 8-14 ans
   img: "/stages/activitesartistiquesetloisirs/compomusicale.png"
@@ -2652,11 +2704,26 @@ stages:
     périodes de sports alterneront durant la journée.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: "<p>Encadré par un jeune compositeur, les enfants apprennent à travailler
+      sur Fruity Loops Studio (deux par ordinateur). Ils enregistrent leur voix et
+      leur composition musicale (sur base de partition) à l'aide d'un synthétiseur
+      ou d'un instrument rapporté de la maison. Tout le matériel se trouve sur place
+      afin de leur permettre de s'enregistrer et de « trafiquer » les sons en rajoutant
+      des basses ou d'autres mélodies. Pour ce stage, il n'y a pas de prérequis musical
+      mais il faut simplement une envie de découvrir le monde de la composition. En
+      fin de semaine, les parents seront invités, autour d'un verre, à écouter ou
+      à voir le travail des enfants tout au long de la création de leur musique. Les
+      enfants repartent avec leur composition sur format USB. Les moments de composition
+      et périodes de sports alterneront durant la journée.</p>"
+    infos: []
 - name: Débrouillard
   age: 10-13 ans
   img: "/stages/activitesartistiquesetloisirs/debrouillard.png"
