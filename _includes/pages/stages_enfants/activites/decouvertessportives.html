@@ -2,7 +2,7 @@
 
 <div class="row">
 	{% for stage in site.data.stages.stages %}
-  {% if stage.online and stage.categorie contains 'Découvertes' %}
+  {% if stage.online and stage.categorie == 'Découvertes sportives et culturelles' %}
 
 {% include coleen/liste_cartes.html %}
 
