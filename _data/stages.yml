@@ -1381,8 +1381,9 @@ stages:
       info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
         Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
     - alias: Moniteur diplômé
-      info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
-        Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
+      info_line: Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de
+        l’expérience pour ce stage et formé pour le respect des différentes mesures
+        à suivre du protocole des stages.
     description: "Vous souhaitez que votre ado participe à semaine hyper fun et dans
       le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
       les plus strictes mais vous ne souhaitez pas qu’il participe à des activités
@@ -1861,11 +1862,36 @@ stages:
     relation cheval-enfant."
   infos: 
   inscription: ''
-  categorie: sportives
+  categorie: Activités sportives
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-16 ans
+    description: "<p>Un programme riche en émotions attend vos enfants pour ce stage
+      d'équitation : obstacle, dressage, voltige et horse ball. Les futurs cavaliers
+      se préparent également pour les examens Etrier d'Or et 1er degré. L'enfant bénéficie
+      d'une relation privilégiée avec son cheval tout au long de la semaine. Nous
+      accompagnons également vos enfants à la découverte du monde équin et de ses
+      usages : règles de sécurité, entretien du matériel, pansage des chevaux, soins
+      spéciaux, organisation et entretien de l'écurie.</p>"
+    infos:
+    - alias: Encadrement
+      info_line: L'encadrement se fait par des professeurs d'équitation diplômés,
+        soucieux du bien-être de la relation cheval-enfant.
+    - alias: Partenariat
+      info_line: Stage en partenariat avec le Manège Horse's Corner de Bierges.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 7-15 ans
+    description: "<p>Ce stage fait découvrir tous les aspects d’une pratique de l’équitation
+      : participation à la vie du Manège de la Motte, soins aux chevaux, dressage,
+      cours théoriques et pratique équestre, promenades...</p>"
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Le Manège de La Motte.
 - name: Escalade
   age: 8-14 ans
   img: "/stages/activitessportives/escalade.png"
@@ -1875,11 +1901,18 @@ stages:
     Le reste de la journée est consacré aux activités de multisports et new games.
   infos: 
   inscription: ''
-  categorie: sportives
+  categorie: Activités sportives
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: "<p>Ce stage prévoit 3 heures journalières d'apprentissage des techniques
+      de base d' escalade sur mur ainsi que les consignes de sécurité s' y rapportant.
+      Le reste de la journée est consacré aux activités de multisports et new games.</p>"
+    infos: []
 - name: Football
   age: 6-14 ans
   img: "/stages/activitessportives/football.png"
@@ -1890,11 +1923,31 @@ stages:
     La journée est répartie en 3 périodes de football et une période de multisports.
   infos: Stage en collaboration avec CB Futsal Jette BXL Cap
   inscription: ''
-  categorie: sportives
+  categorie: Activités sportives
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-14 ans
+    description: "<p>Ce stage prévoit une alternance entre entraînements et petits
+      matchs. Les mordus du ballon rond s'exercent aux techniques de ballon et de
+      jeu. Chaque entraînement est abordé de manière ludique afin d'allier football
+      et plaisir. La journée est répartie en 3 périodes de football et une période
+      de multisports.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-14 ans
+    description: "<p>Ce stage prévoit une alternance entre entraînements et petits
+      matchs. Les mordus du ballon rond s'exercent aux techniques de ballon et de
+      jeu. Chaque entraînement est abordé de manière ludique afin d'allier football
+      et plaisir. La journée est répartie en 3 périodes de football et une période
+      de multisports.</p>"
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec le CB Futsal Jette BXL Cap.
 - name: Football Euro 2020
   age: Bruxelles 7-14 ans / Brabant 5-14 ans
   img: "/stages/activitessportives/footballeuro2020.png"
