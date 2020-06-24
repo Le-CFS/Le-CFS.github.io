@@ -1232,14 +1232,36 @@ stages:
     Park. Les enfants doivent amener leur BMX et toutes les protections.
   infos: Stage en partenariat avec Max Extrême
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 10-16 ans
+    description: Ce stage prévoit une initiation et un perfectionnement au BMX. Les
+      as du BMX vont apprendre de nouvelles figures dans une ambiance propre à ces
+      sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par
+      des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
+      un nouveau Skate Park. Les enfants doivent amener leur BMX et toutes les protections.
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Max Extrême
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-16 ans
+    description: Ce stage prévoit une initiation et un perfectionnement au BMX. Les
+      as du BMX vont apprendre de nouvelles figures dans une ambiance propre à ces
+      sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par
+      des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
+      un nouveau Skate Park. Les enfants doivent amener leur BMX et toutes les protections.
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Max Extrême
 - name: Evasion
   age: Bruxelles 10-14 ans / Brabant 10-16 ans
-  img: "/stages/activitesfun/evasion.png"
+  img: "/assets/images/stages/activitesfun/funado.png"
   lieu: Bruxelles - Brabant Wallon
   description: " Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne
     à l’une de nos activités phares en collaboration avec nos différents partenaires
@@ -1260,11 +1282,38 @@ stages:
     ayant déjà de l’expérience pour ce stage et formé pour le respect des différentes
     mesures à suivre du protocole des stages. "
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-14 ans
+    description: "Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne
+      à l’une de nos activités phares en collaboration avec nos différents partenaires
+      et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
+      les plus strictes ?  \nNous te proposons un programme idéal tout au long de
+      la semaine : **New games, Koezio, escalade et Parc Aventure** !  \nStage adapté
+      aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement
+      secondaire. En effet, afin de respecter le protocole mis en place pour l’organisation
+      des stages, les enfants devront porter un masque obligatoirement tout au long
+      de la semaine. (Si vous ne souhaitez pas que votre ado effectue des sorties
+      en dehors du centre, un stage est spécialement prévu pour lui ! Nous vous invitons
+      alors à sélectionner le stage « Fun Ados ».\n\nAttention: le programme change
+      pour les semaines plus courtes."
+    infos:
+    - alias: Déplacements
+      info_line: Les déplacements se font en transports en commun ou en car.
+    - alias: Koézio
+      info_line: 'Pour Koezio: taille minimum 1,40 m.'
+    - alias: Masque et gel
+      info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
+        Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
+    - alias: Moniteur diplômé
+      info_line: Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de
+        l’expérience pour ce stage et formé pour le respect des différentes mesures
+        à suivre du protocole des stages.
 - name: Fun Ado
   age: 12-16 ans
   img: "/stages/activitesfun/funado.png"
@@ -1287,11 +1336,62 @@ stages:
     de l’expérience pour ce stage et formé pour le respect des différentes mesures
     à suivre du protocole des stages. "
   inscription: ''
-  categorie: fun
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 12-16 ans
+    description: "Vous souhaitez que votre ado participe à semaine hyper fun et dans
+      le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
+      les plus strictes mais vous ne souhaitez pas qu’il participe à des activités
+      organisées en dehors du centre ?  \nNous vous proposons un programme idéal tout
+      au long de la semaine : Orientation, Geocatching, Escape Game, Jeu dans les
+      bois, Arrow Game, New Games.  \nStage adapté aux enfants âgés de plus de 12ans
+      ou étant déjà scolarisés dans l’enseignement secondaire. En effet, afin de respecter
+      le protocole mis en place pour l’organisation des stages, les enfants devront
+      porter un masque obligatoirement tout au long de la semaine."
+    infos:
+    - alias: Déplacements
+      info_line: Aucun déplacement en transport en commun, ni en car.
+    - alias: Règle hygiène
+      info_line: Sorties potentielles à proximité du centre pour la bonne tenue des
+        activités mais TOUJOURS à pied et en respectant les mesures de distanciations
+        sociales, d’hygiènes et sanitaires les plus strictes.
+    - alias: Masque & gel
+      info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
+        Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
+    - alias: Moniteur diplômé
+      info_line: Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de
+        l’expérience pour ce stage et formé pour le respect des différentes mesures
+        à suivre du protocole des stages.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 12-16 ans
+    infos:
+    - alias: Déplacements
+      info_line: Aucun déplacement en transport en commun, ni en car.
+    - alias: Règles hygiène
+      info_line: Sorties potentielles à proximité du centre pour la bonne tenue des
+        activités mais TOUJOURS à pied et en respectant les mesures de distanciations
+        sociales, d’hygiènes et sanitaires les plus strictes.
+    - alias: masque & gel
+      info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
+        Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
+    - alias: Moniteur diplômé
+      info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
+        Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
+    description: "Vous souhaitez que votre ado participe à semaine hyper fun et dans
+      le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
+      les plus strictes mais vous ne souhaitez pas qu’il participe à des activités
+      organisées en dehors du centre ?  \nNous vous proposons un programme idéal tout
+      au long de la semaine : Orientation, Geocatching, Escape Game, Jeu dans les
+      bois, Arrow Game, New Games.  \nStage adapté aux enfants âgés de plus de 12ans
+      ou étant déjà scolarisés dans l’enseignement secondaire. En effet, afin de respecter
+      le protocole mis en place pour l’organisation des stages, les enfants devront
+      porter un masque obligatoirement tout au long de la semaine."
 - name: Fun Paintball & VTT
   age: 10-16 ans
   img: "/stages/activitesfun/funpaintballetvtt.png"
