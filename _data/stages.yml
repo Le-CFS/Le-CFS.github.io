@@ -2858,19 +2858,11 @@ stages:
     apprentissage amusant et performant, respectueux des capacités de chaque enfant.'
   infos: 
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 8-12 ans
-    description: "<p>Stage d'apprentissage de l'anglais au travers d'activités pédagogiques
-      diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. Les
-      activités proposées se dérouleny en anglais. Les formateurs sont soucieux d'un
-      apprentissage amusant et performant, respectueux des capacités de chaque enfant.</p>"
-    infos: []
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
@@ -2895,18 +2887,9 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - ville: Brabant Wallon
-    age: 8-16 ans
-    description: "<p>Stage d'apprentissage du néerlandais au travers d'activités pédagogiques
-      diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. Les
-      activités proposées se déroulent en néerlandais. Les formateurs sont soucieux
-      d'un apprentissage amusant et performant, respectueux des capacités de chaque
-      enfant.</p>"
-    infos: []
-    alias: Brabant Wallon
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-16 ans
+    age: 8-12 ans
     description: "<p>Stage d'apprentissage du néerlandais au travers d'activités pédagogiques
       diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. Les
       activités proposées se déroulent en néerlandais. Les formateurs sont soucieux
@@ -2921,11 +2904,17 @@ stages:
     de s’initier au scrapbooking et d’explorer d’autres facettes des arts plastiques.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    description: "<p>Ce stage propose de créer des objets pour décorer toute la maison,
+      de s’initier au scrapbooking et d’explorer d’autres facettes des arts plastiques.</p>"
+    infos: []
+    age: 8-14 ans
 - name: Magie et Cirque
   age: 8-14 ans
   img: "/stages/activitesartistiquesetloisirs/magietcirque.png"
@@ -2938,11 +2927,21 @@ stages:
     et de concentration!'
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p>Ce stage propose, d'une part, l’approche de diverses disciplines
+      issues du monde du cirque : équilibre (échasses, monocycle), acrobatie (pyramides,
+      trampoline), jonglerie (foulards, balles, quilles) et adresse (diabolos, bâtons
+      du diable). D'autre part, concernant la partie « magie », les enfants sont rassemblés
+      par petit groupe pour apprendre à maîtriser les tours selon leur niveau d’habilité
+      et de concentration!</p>"
+    infos: []
 - name: Magie et Fun
   age: 8-14 ans
   img: "/stages/activitesartistiquesetloisirs/magietfun.png"
@@ -2955,11 +2954,21 @@ stages:
     de quelques tours appris.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p>Grâce à un magicien ayant plein de tours dans son sac, les enfants
+      découvrent le monde de l’illusion et de la manipulation. Chaque enfant reçoit
+      son propre kit et son livret de magie (qu’il pourra reprendre à la maison en
+      fin de stage). Les après-midi sont consacrées aux activités fun (laser game,
+      arrow game, etc.). Un petit spectacle est prévu en fin de semaine avec démonstration
+      de quelques tours appris.</p>"
+    infos: []
 - name: Magie Pro
   age: 8-14 ans
   img: "/stages/activitesartistiquesetloisirs/magietfun.png"
@@ -2969,11 +2978,18 @@ stages:
     tours!
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p>Stage 100% magie réservé aux apprentis magiciens souhaitant progresser.
+      La concentration et l'écoute sont des qualités nécessaires pour apprendre de
+      nouveaux tours!</p>"
+    infos: []
 - name: Photo Argentique
   age: 8-14 ans
   img: "/stages/activitesartistiquesetloisirs/photoargentique.png"
@@ -2986,11 +3002,21 @@ stages:
     auront mises en valeur dans un album souvenir.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: "<p>Ce stage propose de découvrir le monde de la photographie argentique
+      en noir &amp; blanc en partant de la prise de vue jusqu'au développement en
+      chambre noire. Manipulation de l'appareil photo, observation de la lumière,
+      ateliers récréatifs, construction d'une image en comprenant sa signification,
+      le tout en jouant au petit chimiste. A la fin du stage, ils repartiront avec
+      leurs photographies qu’ils auront mises en valeur dans un album souvenir.</p>"
+    infos: []
 - name: Robotique
   age: 8-13 ans
   img: "/stages/activitesartistiquesetloisirs/robotique.png"
@@ -3004,11 +3030,22 @@ stages:
     des infrastructures sportives du Centre.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: true
   stage_une: false
-  location: []
+  location:
+  - ville: Brabant Wallon
+    age: 8-13 ans
+    description: "<p>Le monde de demain sera modulé avec les nouvelles technologies
+      et l’informatique. Afin de donner aux enfants de nouvelles clefs de réussite,
+      nous allons, via 5 sessions d’exercices, développer des processus de réflexion
+      pour formuler des problèmes et leur(s) solution(s) (création de robots en lego,
+      programmation de robots et présentation du travail effectué). Afin qu’ils ne
+      passent pas leur journée devant les écrans, nous passerons une demi-journée
+      à d’autres activités et profiterons des infrastructures sportives du Centre.</p>"
+    infos: []
+    alias: Brabant Wallon
 - name: Tennis & Anglais
   age: 8-16 ans
   img: "/stages/activitesartistiquesetloisirs/tennisanglaisneerlandais.png"
@@ -3017,11 +3054,20 @@ stages:
     de multisports, le tout permettant aux enfants d'apprendre et pratiquer l'anglais.
   infos: Stage en collaboration avec Lambert Tennis Academy
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-16 ans
+    description: "<p>Les journées sont divisées entre des activités de tennis et des
+      activités de multisports, le tout permettant aux enfants d'apprendre et pratiquer
+      l'anglais.</p>"
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Lambert Tennis Academy.
 - name: Tennis & Baby Gym
   age: 8-16 ans
   img: "/stages/decouvertesportiveetculturelle/tennisetbabygym.png"
@@ -3030,11 +3076,19 @@ stages:
     de gymnastique, des jeux de coopérations, parcours d'adresse, d'audace.
   infos: Stage en collaboration avec Lambert Tennis Academy
   inscription: ''
-  categorie: artistiques
-  online: true
+  categorie: Activités artistiques et loisirs
+  online: false
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-16 ans
+    description: "<p>Les journées sont divisées entre des activités de tennis et des
+      activités de gymnastique, des jeux de coopérations, parcours d'adresse, d'audace.</p>"
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Lambert Tennis Academy.
 - name: Tennis & Gymnastique
   age: 8-16 ans
   img: "/stages/danseetgymnastique/tennisetgym.png"
@@ -3045,8 +3099,8 @@ stages:
     la poutre, les barres et le sol.
   infos: Stage en collaboration avec Lambert Tennis Academy
   inscription: ''
-  categorie: artistiques
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   stage_une: false
   location: []
@@ -3073,11 +3127,27 @@ stages:
     en fin de stage. Les enfants sont encadrés par des artistes du monde théâtral.
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: "<p>Durant ce stage, les enfants élaborent une mise en scène et créent
+      des personnages et des décors. Encadrés par des artistes du monde théâtral,
+      ils travaillent de façon ludique afin de développer leurs capacités mnésiques.
+      Petite représentation en fin de stage.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: "<p>Ce stage encadre la création d'une mise en scène, de personnages
+      et de décors. Le stage travaille de façon ludique les capacités mnésiques des
+      enfants. le tout pour aboutir à une représentation en fin de stage. Les enfants
+      sont encadrés par des artistes du monde théâtral.</p>"
+    infos: []
 - name: Vidéo reportage
   age: 10-14 ans
   img: "/stages/activitesartistiquesetloisirs/videoreportage.png"
@@ -3092,11 +3162,24 @@ stages:
     le triple pour 12).'
   infos: 
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 12-16 ans
+    description: "<p>Stage mêlant le jeu d'acteur, la vidéo (prise avec des appareils
+      photos numériques) et une approche du vidéo-montage (sur pc, durant deux après-midis).</p><p>Par
+      petits groupes, les participants réalisent une vidéo composée de reportages,
+      lipdubs, clips, émissions TV et/ou sketches. Après l'écriture des scénarios,
+      place au tournage des scènes.</p><p>La troisième partie du stage est consacrée
+      au montage des séquences sur pc (montage vidéo simple, son et titrages, etc.).</p>"
+    infos:
+    - alias: Matériel
+      info_line: 'Matériel fourni : un appareil numérique et un ordinateur pour 4
+        stagiaires (le double pour 8 et le triple pour 12).'
 - name: New Games
   age: 8-12 ans
   img: "/stages/activitesfun/newgames.png"
@@ -3107,7 +3190,7 @@ stages:
     aux filles. La moitié du temps sera consacrée à la pratique du multisports.
   infos: 
   inscription: ''
-  categorie: fun
+  categorie: Les petits bouts
   online: false
   nouveau: false
   stage_une: false
@@ -3122,7 +3205,7 @@ stages:
     aux filles. La moitié du temps sera consacrée à la pratique du multisports.
   infos: 
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: false
   nouveau: false
   stage_une: false
@@ -3141,8 +3224,40 @@ stages:
     colle, ciseaux, crayons de couleur et magicolors).<br/> Les enfants restent avec
     le même moniteur et ont leur propre local toute la semaine.
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: "<p>Durant ce stage les enfants ont l’occasion de revoir les matières
+      vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.</p><p>Les
+      activités proposées se focalisent sur les mathématiques et la langue française.
+      Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème
+      /) pour la demi-journée. L’autre partie de la journée sera consacrée à des activités
+      sportives variées et à des jeux en extérieurs.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Les enfants doivent venir avec un matériel scolaire de base (trousse,
+        latte, colle, ciseaux, crayons de couleur et magicolors).
+    - alias: Moniteur
+      info_line: Les enfants restent avec le même moniteur et ont leur propre local
+        toute la semaine.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-12 ans
+    description: "<p>Durant ce stage les enfants ont l’occasion de revoir les matières
+      vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.</p><p>Les
+      activités proposées se focalisent sur les mathématiques et la langue française.
+      Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème
+      /) pour la demi-journée. L’autre partie de la journée sera consacrée à des activités
+      sportives variées et à des jeux en extérieurs.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Les enfants doivent venir avec un matériel scolaire de base (trousse,
+        latte, colle, ciseaux, crayons de couleur et magicolors).
+    - alias: Moniteur
+      info_line: Les enfants restent avec le même moniteur et ont leur propre local
+        toute la semaine.
