@@ -3275,40 +3275,23 @@ stages:
     colle, ciseaux, crayons de couleur et magicolors).<br/> Les enfants restent avec
     le même moniteur et ont leur propre local toute la semaine.
   inscription: ''
-  categorie: Activités artistiques et loisirs
+  categorie: Activités fun
   online: true
-  nouveau: false
+  nouveau: true
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-12 ans
-    description: "<p>Durant ce stage les enfants ont l’occasion de revoir les matières
-      vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.</p><p>Les
-      activités proposées se focalisent sur les mathématiques et la langue française.
-      Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème
-      /) pour la demi-journée. L’autre partie de la journée sera consacrée à des activités
-      sportives variées et à des jeux en extérieurs.</p>"
+    age: 12-16 ans
+    description: "<p>Afin de laisser place au suspens et de permettre à chaque moniteur
+      de créer un stage original et varié, le programme sera adapté en fonction de
+      son organisation et de l'âge moyen du groupe. Parmi les différentes activités
+      possibles: Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, Profondeville
+      (bouées tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois
+      des rêves, Visite de musées/Culturels, Patinoire à Leuven et découverte de la
+      ville, journée à la mer... et éventuellement d'autres activités en fonction
+      des initiatives de nos moniteurs.</p>"
     infos:
-    - alias: Matériel
-      info_line: Les enfants doivent venir avec un matériel scolaire de base (trousse,
-        latte, colle, ciseaux, crayons de couleur et magicolors).
-    - alias: Moniteur
-      info_line: Les enfants restent avec le même moniteur et ont leur propre local
-        toute la semaine.
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 6-12 ans
-    description: "<p>Durant ce stage les enfants ont l’occasion de revoir les matières
-      vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.</p><p>Les
-      activités proposées se focalisent sur les mathématiques et la langue française.
-      Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème
-      /) pour la demi-journée. L’autre partie de la journée sera consacrée à des activités
-      sportives variées et à des jeux en extérieurs.</p>"
-    infos:
-    - alias: Matériel
-      info_line: Les enfants doivent venir avec un matériel scolaire de base (trousse,
-        latte, colle, ciseaux, crayons de couleur et magicolors).
-    - alias: Moniteur
-      info_line: Les enfants restent avec le même moniteur et ont leur propre local
-        toute la semaine.
+    - alias: Profondeville
+      info_line: Toutes les activités n'auront pas lieu chaque semaine à l'exception
+        de Profondeville.
