@@ -1707,9 +1707,9 @@ stages:
     de moniteurs 24h sur 24. Tous les repas de l'hôtel sont servis sous forme de buffets
     avec eau à table. Les boissons pétillantes sont payantes.
   inscription: ''
-  categorie: fun
-  online: true
-  nouveau: true
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
   stage_une: false
   location: []
 - name: Nauti Camp
@@ -1727,9 +1727,9 @@ stages:
     Les boissons pétillantes sont payantes. Les stagiaires logent tous au même étage
     de l'hôtel et sont encadrés par le staff de moniteurs 24h sur 24.
   inscription: ''
-  categorie: fun
-  online: true
-  nouveau: true
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
   stage_une: false
   location: []
 - name: Sport Aventure & Quad
