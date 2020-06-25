@@ -1,37 +1,92 @@
-{% capture menu_page %}
-{% case {{ page.menu }} %}{% when 'stages' %}stages_enfants{% endcase %}
-{% endcapture %}
+{% assign menu = site.data.menu %}
 
-{% capture menu_principal %}
-site.data.menus.{{ menu_page }}
-{% endcapture %}
+{% capture pageurl %}{{ page.url }}{% endcapture %}
 
-<section class="blog">
-    <div class="container">
-      <div class="row">
+{% if pageurl contains '/cfs/' %}
+{% assign menu_principal = menu['cfs'] %}
 
-        <!-- sidebar area -->
-        <div class="col-sm-12 col-md-3">
+{% elsif pageurl contains '/news/' %}
+{% assign menu_principal = menu['cfs'] %}
 
-          <div class="blog-block categories-sidebar-widget">
-            <h4><a href="{{ menu_principal.menu.url }}">{{ menu_principal.menu.titre }}</a></h4>
 
-            {% for item in menu_principal.docs %}
-            <div class="post-category">
-              <a href="{{ item.url }}">{{ item.title }}</a>
-            </div>
-            {% if page.url contains item.url %}
-                {% for brol in item.sousmenu %}
-                <div class="post-category" style="border-bottom: 0px !important; padding-left: 35px !important;">
-                <a href="{{brol.url}}">{{ brol.title}}</a>
-                </div>
-                {% endfor %}
-            {% endif %}
-            {% endfor %}
+{% elsif pageurl contains '/stages/' %}
+{% assign menu_principal = menu['stages_enfants'] %}
 
-          </div>
+
+{% elsif pageurl contains '/activites/' %}
+{% assign menu_principal = menu['activites'] %}
+
+
+{% elsif pageurl contains '/cours_adultes/' %}
+{% assign menu_principal = menu['cours_adultes'] %}
+
+<!-- Pour éviter que la page event/anniversaires passe avec le menu anniversaires -->
+{% elsif pageurl contains '/events/anniversaires/' %}
+{% assign menu_principal = menu['events'] %}
+
+{% elsif pageurl contains '/anniversaires/' %}
+{% assign menu_principal = menu['anniversaires'] %}
+
+{% elsif pageurl contains '/events/' %}
+{% assign menu_principal = menu['events'] %}
+
+
+{% elsif pageurl contains '/brochures/' %}
+{% assign menu_principal = menu['brochures'] %}
+
+{% endif %}
+
+<!-- <div class="blog-block categories-sidebar-widget">
+
+    <h4>
+        <a href="{{ menu_principal.url }}">{{ menu_principal.titre }}</a>
+    </h4>
+
+    {% for item in menu_principal.sousmenu %}
+        <div class="post-category">
+            <a href="{{ item.url }}">{{ item.title }}</a>
         </div>
+        {% if page.url contains item.url %}
+            {% for menu2 in item.sousmenu %}
+                <div class="post-category" style="border-bottom: 0px !important; padding-left: 35px !important;">
+                    <a href="{{menu2.url}}">{{ menu2.title}}</a>
+                </div>
+                {% if menu2.sousmenu %}
+                    {% for menu3 in menu2.sousmenu %}
+                    <div class="post-category" style="border-bottom: 0px !important; padding-left: 70px !important;">
+                        <a href="{{menu3.url}}">{{ menu3.title}}</a>
+                    </div>
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
 
-        <!-- content area -->
+</div> -->
 
-        <div class="col-sm-12 col-md-9">
+<div class="blog-block categories-sidebar-widget">
+
+    <h4>
+        <a href="{{ menu_principal.url }}">{{ menu_principal.titre }}</a>
+    </h4>
+
+    {% for menu1 in menu_principal.sousmenu %}
+        <div class="post-category">
+            <a href="{{ menu1.url }}">{{ menu1.title }}</a>
+        </div>
+        {% if page.url contains menu1.url %}
+            {% for menu2 in menu1.sousmenu %}
+                <div class="post-category" style="border-bottom: 0px !important; padding-left: 35px !important;">
+                    <a href="{{menu2.url}}">{{ menu2.title}}</a>
+                </div>
+                {% for menu3 in menu2.sousmenu %}
+                    <div class="post-category" style="border-bottom: 0px !important; padding-left: 70px !important;">
+                        <a href="{{menu3.url}}">{{ menu3.title}}</a>
+                    </div>
+                {% endfor %}
+            {% endfor %}
+        {% endif %}
+
+    {% endfor %}
+
+</div>

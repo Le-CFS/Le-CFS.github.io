@@ -6,13 +6,21 @@
     {% include header/css.html %}
     {% include header/scripts.html %}
   </head>
-  <body>
+  <style type="text/css">
+    @media (max-width: 768px){
+      .body-page {
+        padding-top: 35px;
+        padding-bottom: 55px;
+      }
+  }
+  </style>
+  <body class="body-page">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NK2VG53"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
   
-
+    <span id="top"></span>
     <div class="wrapper">
       {% include themes/bootstrap/nav-bar.html %}
       

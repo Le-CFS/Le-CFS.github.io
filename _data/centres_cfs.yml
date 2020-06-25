@@ -31,6 +31,7 @@ centres:
         centre: "Bierges"
         adresse: "Rue Provinciale 225 • 1301 Bierges"
         img: 
+            - "bierges_cfs.jpg"
         carte: 
         stage: 
         online: oui
@@ -131,6 +132,15 @@ centres:
         img: 
             - "jacquesbrel_jette.jpg"
             - "jacquesbrel_jette2.jpg"
+        carte: 
+        stage: 
+        online: oui
+    -
+        name: "Salle omnisport Jette"
+        centre: "Jette"
+        adresse: "Section maternelle entrée Rue Joseph Loossens • 1090 Jette"
+        img: 
+            - "salleomnisport_jette.jpg"
         carte: 
         stage: 
         online: oui
