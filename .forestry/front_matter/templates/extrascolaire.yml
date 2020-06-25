@@ -113,4 +113,5 @@ fields:
       labelField: 
     label: Liste des villes d'activités
 pages:
+- _data/extrascolaire.yml
 - _data/stages.yml
