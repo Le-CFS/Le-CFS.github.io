@@ -32,11 +32,11 @@
   padding-top: 25px;
 }
 
-.nav-link[data-toggle].collapsed:after {
+.nav-link-menu[data-toggle].collapsed:after {
     float: right;
     content: " ▼";
 }
-.nav-link[data-toggle]:not(.collapsed):after {
+.nav-link-menu[data-toggle]:not(.collapsed):after {
     float: right;
     content: " ▲";
 }
@@ -160,7 +160,7 @@
     <!-- Si le menu principal a un sous menu -->
     {% if menu1[1]["sousmenu"] %}
     <li class="nav-item">
-        <a class="nav-link nav-link-toggle collapsed" href="#submenu{{menu1_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}"> {{ menu1[1]["titre"] }}</a>
+        <a class="nav-link nav-link-toggle collapsed nav-link-menu" href="#submenu{{menu1_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}"> {{ menu1[1]["titre"] }}</a>
         <div class="collapse" id="submenu{{menu1_index}}" aria-expanded="false">
             <ul class="flex-column pl-2 nav">
               <!-- 
@@ -176,7 +176,7 @@
               <!-- Si le menu 2 a un sous menu -->
                 {% if menu2.sousmenu %}
                 <li class="nav-item">
-                    <a class="nav-link nav-link-toggle collapsed" href="#submenu{{menu1_index}}sub{{menu2_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}" style="padding-left: 16px;"> {% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a>
+                    <a class="nav-link nav-link-toggle collapsed nav-link-menu" href="#submenu{{menu1_index}}sub{{menu2_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}" style="padding-left: 16px;"> {% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a>
                     <div class="collapse" id="submenu{{menu1_index}}sub{{menu2_index}}" aria-expanded="false">
                         <ul class="flex-column nav pl-4">
                           <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
@@ -189,7 +189,7 @@
                             <!-- Si le menu 3 a un sous menu -->
                             {% if menu3.sousmenu %}
                               <li class="nav-item">
-                                <a class="nav-link nav-link-toggle collapsed" href="#submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" style="padding-left: 16px;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
+                                <a class="nav-link nav-link-toggle collapsed nav-link-menu" href="#submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" style="padding-left: 16px;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
                                 <div class="collapse" id="submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" aria-expanded="false">
                                   <ul class="flex-column nav pl-4">
                                     <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
