@@ -3261,3 +3261,54 @@ stages:
     - alias: Moniteur
       info_line: Les enfants restent avec le même moniteur et ont leur propre local
         toute la semaine.
+- name: Bulle Ado
+  age: 6-14 ans
+  img: "/stages/activitesfun/bulleado.png"
+  lieu: Bruxelles - Brabant Wallon
+  description: 'Durant ce stage les enfants ont l’occasion de revoir les matières
+    vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.<br/>
+    Les activités proposées se focalisent sur les mathématiques et la langue française.
+    Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème
+    / 1ère H. – 2ème H. ) pour la demi-journée. L’autre partie de la journée sera
+    consacrée à des activités sportives variées et à des jeux en extérieurs.<br/> '
+  infos: Les enfants doivent venir avec un matériel scolaire de base (trousse, latte,
+    colle, ciseaux, crayons de couleur et magicolors).<br/> Les enfants restent avec
+    le même moniteur et ont leur propre local toute la semaine.
+  inscription: ''
+  categorie: Activités artistiques et loisirs
+  online: true
+  nouveau: false
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: "<p>Durant ce stage les enfants ont l’occasion de revoir les matières
+      vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.</p><p>Les
+      activités proposées se focalisent sur les mathématiques et la langue française.
+      Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème
+      /) pour la demi-journée. L’autre partie de la journée sera consacrée à des activités
+      sportives variées et à des jeux en extérieurs.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Les enfants doivent venir avec un matériel scolaire de base (trousse,
+        latte, colle, ciseaux, crayons de couleur et magicolors).
+    - alias: Moniteur
+      info_line: Les enfants restent avec le même moniteur et ont leur propre local
+        toute la semaine.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-12 ans
+    description: "<p>Durant ce stage les enfants ont l’occasion de revoir les matières
+      vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.</p><p>Les
+      activités proposées se focalisent sur les mathématiques et la langue française.
+      Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème
+      /) pour la demi-journée. L’autre partie de la journée sera consacrée à des activités
+      sportives variées et à des jeux en extérieurs.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Les enfants doivent venir avec un matériel scolaire de base (trousse,
+        latte, colle, ciseaux, crayons de couleur et magicolors).
+    - alias: Moniteur
+      info_line: Les enfants restent avec le même moniteur et ont leur propre local
+        toute la semaine.
