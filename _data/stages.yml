@@ -26,8 +26,14 @@ stages:
     description: Ce stage propose un éveil psychomoteur adapté aux plus petits. Par
       le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs
       membres. Une sieste est prévue et encadrée.
-    age: 2-5 ans
-    infos: []
+    age: 2-4 ans
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
+    - alias: Lange
+      info_line: Il faut apporter un lange de rechange si nécessaire.
+    - alias: Pas de garderie
+      info_line: Attention, il n'y a pas de garderie pour ce stage.
 - name: Psycho Découverte
   img: "/stages/lespetitsbouts/psychodecouverte.png"
   inscription: ''
@@ -99,13 +105,6 @@ stages:
       info_line: Bonnet de bain obligatoire.
     - alias: Tenue adaptée
       info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
-  - alias: Liège
-    ville: Liège
-    age: 3-5 ans
-    description: Ce stage de psychomotricité est agrémenté, quotidiennement, d’une
-      heure d’accoutumance à l’eau. Une aubaine pour les petits qui auront l’occasion
-      de faire connaissance avec les joies de la piscine, en toute sécurité.
-    infos: []
 - name: Psycho Natation
   img: "/stages/lespetitsbouts/psychonatation.png"
   inscription: ''
@@ -1600,6 +1599,7 @@ stages:
     infos:
     - alias: Partenariat
       info_line: Stage en partenariat avec EPST - Ecole de Plongée Sportive et Technique
+  inscription: ''
 - name: Raquettes
   img: "/stages/activitessportives/raquettes.png"
   inscription: ''
@@ -2042,7 +2042,7 @@ stages:
       et de concentration!</p>"
     infos: []
 - name: Magie et Fun
-  img: "/stages/activitesartistiquesetloisirs/magietfun.png" 
+  img: "/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
   online: true
