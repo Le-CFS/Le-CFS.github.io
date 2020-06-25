@@ -3,8 +3,8 @@ label: Extrascolaire
 hide_body: true
 fields:
 - type: field_group_list
-  name: stages
-  label: stages
+  name: activites
+  label: Activités
   fields:
   - type: text
     name: name
