@@ -12,7 +12,7 @@
 
 <div class="row">
 	{% for stage in site.data.stages.stages %}
-  {% if stage.online and stage.categorie contains 'bouts' %}
+  {% if stage.online and stage.categorie == 'Les petits bouts' %}
 
 {% include coleen/liste_cartes.html %}
 

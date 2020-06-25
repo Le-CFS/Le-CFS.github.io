@@ -1,28 +1,24 @@
 ---
-css: null
-img: null
 layout: post
-menu: cfs
 infos:
-  date: 27.03.2020
-  online: true
+  date: 0020-03-27
   teaser: Nouvelles mesures du gouvernement.
-keywords: null
-author: null
-banner: null
-permalink: null
-img-mobile: null
-tagline: Nouvelles mesures du gouvernement.
+banner: ''
 title: Annulation des stages de Pâques
-tags: coronavirus stages
+tags:
+- coronavirus
+- stages
+- pâques
 seo:
   description: Nouvelles mesures du gouvernement.
-  keywords: coronavirus stages
+  keywords:
+  - coronavirus
+  - stages
+  - pâques
   type: article
-  image: null
-category: null
----
+  img: ''
 
+---
 Chers Parents, Grands-Parents,
 
 Conformément aux mesures prises par la ministre de la Jeunesse et des sports de la Fédération Wallonie-Bruxelles, nous sommes dans l’obligation d’annuler tous les stages CFS pendant les vacances de Pâques (les semaines du 06/04 au 10/04 et du 14/04 au 17/04/2020).

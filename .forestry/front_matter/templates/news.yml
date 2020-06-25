@@ -1,0 +1,56 @@
+---
+label: NEWS
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: title
+  label: Titre de la news
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: banner
+  type: file
+  config:
+    maxSize: 64
+  label: Banner
+- type: field_group
+  name: infos
+  label: infos
+  fields:
+  - name: date
+    type: datetime
+    label: Date de publication
+    description: ''
+    config:
+      required: false
+      date_format: DD-MM-YYYY
+      time_format: 
+      display_utc: false
+      export_format: YYYY-MM-DD
+    default: ''
+  - type: text
+    name: teaser
+    label: teaser
+- name: seo
+  type: field_group
+  config: {}
+  fields:
+  - name: seo
+    type: include
+    config: {}
+    template: seo
+    label: seo
+  label: seo
+pages:
+- _posts/2020-03-13-information-derniere-minute-coronavirus.md
+- _posts/2020-03-27-annulation-des-stages-de-paques.md
+- _posts/2020-04-20-Inscription-ete.md
+- _posts/2020-05-18-les-stages-dete.html
+- _posts/2020-05-19-nouveau-stage-de-remediation.md
+- _posts/2020-05-23-bonne-nouvelle.md
+- _posts/2020-06-05-ouverture-des-stages-protocol-3.md

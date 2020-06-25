@@ -1,3 +1,12 @@
+<style>
+.meta:hover {
+  color: #444 !important;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #4da5e2;
+}
+</style>
+
 <div class="col-md-4 col-xs-12">
     <div class="card-2">
       <div class="image">
@@ -8,7 +17,7 @@
         <h3 class="card-title">{{ stage.name }}</h3>
         <div class="meta">
           {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
-          {{stage.age}}
+          {{ stage.location[0].age }}{% if stage.location[1].age == "" or stage.location[1].age == nil %}{% else %} / {{ stage.location[1].age }} {% endif %} {% if stage.location[2].age == "" or stage.location[2].age == nil %}{% else %} / {{ stage.location[2].age }} {% endif %}
         </div>
         <div class="description">
           <center><a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
@@ -18,7 +27,7 @@
       <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
       <div class="extra">
         <span>
-          <i class="fa fa-map-marker"> {{ stage.lieu }}</i>
+          <i class="fa fa-map-marker"> {{ stage.location[0].ville }}{% if stage.location[1].ville == "" or stage.location[1].ville == nil %}{% else %} - {{ stage.location[1].ville }} {% endif %} {% if stage.location[2].ville == "" or stage.location[2].ville == nil %}{% else %} - {{ stage.location[2].ville }} {% endif %}</i>
         </span>
       </div>
       </a>
@@ -33,23 +42,281 @@
       </div>
       <div class="card-block">
         <h3 class="card-title">{{ stage.name }}</h3>
-        <div class="meta">
-          {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
-          {{stage.age}}<br/>
-          {{ stage.infos }}
-        </div>
-        <div class="description">
-          {{ stage.description }}
-        </div>
       </div>
-      {% for endroit in stage.lieu %}
-      <div class="extra">
-        <span>
-          <i class="fa fa-map-marker"> {{ endroit }}</i>
-        </span>
-      </div>
-      {% endfor %}
     </div>
+
+    <!-- TEST ACCORDÉON -->
+
+{% if stage.location[0].ville == "" or stage.location[0].ville == nil %}
+{% else %}
+<div class="desktop tabs-accordions">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-12">
+        <div id="round-tab-desktop">
+          <!-- Nav tabs -->
+          <ul class="nav nav-tabs" role="tablist">
+            {% assign item0 = stage.location[0] %}
+            <li class="nav-item">
+              <a class="nav-link active" data-toggle="tab" href="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item0.ville | replace: ' ', '_' | replace: 'è', 'e' }}desktop" role="tab">{{ item0.ville }}</a>
+            </li>
+
+            {% assign item1 = stage.location[1] %}
+            {% if item1.ville == "" or item1.ville == nil %}
+            {% else %}
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item1.ville | replace: ' ', '_' | replace: 'è', 'e' }}desktop" role="tab">{{ item1.ville }}</a>
+            </li>
+            {% endif %}
+
+            {% assign item2 = stage.location[2] %}
+            {% if item2.ville == "" or item2.ville == nil %}
+            {% else %}
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item2.ville | replace: ' ', '_' | replace: 'è', 'e' }}desktop" role="tab">{{ item2.ville }}</a>
+            </li>
+            {% endif %}
+          </ul>
+
+          <!-- Tab panes -->
+          <div class="tab-content">
+
+            <div class="tab-pane active" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item0.ville | replace: ' ', '_' | replace: 'è', 'e' }}desktop" role="tabpanel">
+              <div class="meta">
+                {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {{ item0.age }}
+              </div>
+              <hr>
+              <div class="description">
+                {{ item0.description }}
+              </div>
+              {% if item0.infos[0].info_line == "" or item0.infos[0].info_line == nil %}
+              {% else %}
+                <hr>
+                <div class="meta">
+                  {% for info in item0.infos %}
+                    <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </div>
+
+            {% if item1.ville == "" or item1.ville == nil %}
+            {% else %}
+            <div class="tab-pane" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item1.ville | replace: ' ', '_' | replace: 'è', 'e' }}desktop" role="tabpanel">
+              <div class="meta">
+                {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item1.age == "" or item1.age == nil %}
+                {{ item0.age }}
+                {% else %}
+                {{ item1.age }}
+                {% endif %}
+              </div>
+              <hr>
+              <div class="description">
+                {% if item1.description == "" or item1.description == nil %}
+                {{ item0.description }}
+                {% else %}
+                {{ item1.description }}
+                {% endif %}
+              </div>
+              {% if item0.infos[1].info_line == "" or item0.infos[1].info_line == nil %}
+              {% else %}
+                <hr>
+                <div class="meta">
+                  {% for info in item1.infos %}
+                    <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </div>
+            {% endif %}
+
+            {% if item2.ville == "" or item2.ville == nil %}
+            {% else %}
+            <div class="tab-pane" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item2.ville | replace: ' ', '_' | replace: 'è', 'e' }}desktop" role="tabpanel">
+              <div class="meta">
+                {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item2.age == "" or item2.age == nil %}
+                {{ item0.age }}
+                {% else %}
+                {{ item2.age }}
+                {% endif %}
+              </div>
+              <hr>
+              <div class="description">
+                {% if item2.description == "" or item2.description == nil %}
+                {{ item0.description }}
+                {% else %}
+                {{ item2.description }}
+                {% endif %}
+              </div>
+              {% if item0.infos[2].info_line == "" or item0.infos[2].info_line == nil %}
+              {% else %}
+                <hr>
+                <div class="meta">
+                  {% for info in item2.infos %}
+                    <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </div>
+            {% endif %}
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="mobile tabs-accordions">
+{% if stage.location[0].ville == "Brabant Wallon" %}
+{% assign ville0 = "Brabant" %}
+{% elsif stage.location[0].ville == "Bruxelles" %}
+{% assign ville0 = "BXL" %}
+{% else %}
+{% assign ville0 = "Liège" %}
+{% endif %}
+
+{% if stage.location[1].ville == "Brabant Wallon" %}
+{% assign ville1 = "Brabant" %}
+{% elsif stage.location[1].ville == "Bruxelles" %}
+{% assign ville1 = "BXL" %}
+{% else %}
+{% assign ville1 = "Liège" %}
+{% endif %}
+
+{% if stage.location[2].ville == "Brabant Wallon" %}
+{% assign ville2 = "Brabant" %}
+{% elsif stage.location[2].ville == "Bruxelles" %}
+{% assign ville2 = "BXL" %}
+{% else %}
+{% assign ville2 = "Liège" %}
+{% endif %}
+
+
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-12">
+        <div id="round-tab-mobile">
+          <!-- Nav tabs -->
+          <ul class="nav nav-tabs" role="tablist">
+            {% assign item0 = stage.location[0] %}
+            <li class="nav-item">
+              <a class="nav-link active" data-toggle="tab" href="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item0.ville | replace: ' ', '_' | replace: 'è', 'e' }}mobile" role="tab">{{ ville0 }}</a>
+            </li>
+
+            {% assign item1 = stage.location[1] %}
+            {% if item1.ville == "" or item1.ville == nil %}
+            {% else %}
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item1.ville | replace: ' ', '_' | replace: 'è', 'e' }}mobile" role="tab">{{ ville1 }}</a>
+            </li>
+            {% endif %}
+
+            {% assign item2 = stage.location[2] %}
+            {% if item2.ville == "" or item2.ville == nil %}
+            {% else %}
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item2.ville | replace: ' ', '_' | replace: 'è', 'e' }}mobile" role="tab">{{ ville2 }}</a>
+            </li>
+            {% endif %}
+          </ul>
+
+          <!-- Tab panes -->
+          <div class="tab-content">
+
+            <div class="tab-pane active" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item0.ville | replace: ' ', '_' | replace: 'è', 'e' }}mobile" role="tabpanel">
+              <div class="meta">
+                {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {{ item0.age }}
+              </div>
+              <hr>
+              <div class="description">
+                {{ item0.description }}
+              </div>
+              <hr>
+                <div class="meta">
+                  {% for info in item0.infos %}
+                    <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+                  {% endfor %}
+                </div>
+            </div>
+
+            {% if item1.ville == "" or item1.ville == nil %}
+            {% else %}
+            <div class="tab-pane" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item1.ville | replace: ' ', '_' | replace: 'è', 'e' }}mobile" role="tabpanel">
+              <div class="meta">
+                {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item1.age == "" or item1.age == nil %}
+                {{ item0.age }}
+                {% else %}
+                {{ item1.age }}
+                {% endif %}
+              </div>
+              <hr>
+              <div class="description">
+                {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item1.description == "" or item1.description == nil %}
+                {{ item0.description }}
+                {% else %}
+                {{ item1.description }}
+                {% endif %}
+              </div>
+              <hr>
+                <div class="meta">
+                  {% for info in item1.infos %}
+                    <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+                  {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+            {% if item2.ville == "" or item2.ville == nil %}
+            {% else %}
+            <div class="tab-pane" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{item2.ville | replace: ' ', '_' | replace: 'è', 'e' }}mobile" role="tabpanel">
+              <div class="meta">
+                {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                {% if item2.age == "" or item2.age == nil %}
+                {{ item0.age }}
+                {% else %}
+                {{ item2.age }}
+                {% endif %}
+              </div>
+              <hr>
+              <div class="description">
+                {% if item2.description == "" or item2.description == nil %}
+                {{ item0.description }}
+                {% else %}
+                {{ item2.description }}
+                {% endif %}
+              </div>
+              <hr>
+                <div class="meta">
+                  {% for info in item2.infos %}
+                    <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+                  {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endif %}
+
+    <!-- FIN DU TEST-->
+
+
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border-radius: 5px;">{% if page.url contains 'activites' %}Autre activité{% else %}Autre stage{% endif %}</button>
         <a class="btn btn-info-filled" href="
