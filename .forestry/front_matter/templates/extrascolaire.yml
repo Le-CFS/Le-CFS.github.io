@@ -8,7 +8,7 @@ fields:
   fields:
   - type: text
     name: name
-    label: Nom du stage
+    label: Nom de l'activité
     config:
       required: true
   - name: categorie
@@ -31,7 +31,7 @@ fields:
     label: Catégorie
   - type: file
     name: img
-    label: Image du stage
+    label: Image de l'activité
     description: Le nom du stage <strong>ne doit pas</strong> être écrit sur l'image.
   - name: online
     type: boolean
@@ -40,12 +40,8 @@ fields:
     default: true
   - name: nouveau
     type: boolean
-    label: Nouveau stage ?
+    label: Nouveau ?
     description: Label vert "NOUVEAU" sur le stage.
-  - name: stage_une
-    type: boolean
-    label: Stage à la une ?
-    description: Le stage doit-il être affiché en une sur la page d'accueil ?
   - type: text
     name: inscription
     label: inscription
@@ -73,6 +69,10 @@ fields:
           file: 
           path: 
       label: Ville
+    - name: centres
+      type: tag_list
+      default: []
+      label: Listes des centres
     - name: age
       type: text
       config:
@@ -86,7 +86,7 @@ fields:
         wysiwyg: true
         schema:
           format: html-blocks
-      label: Description du stage
+      label: Description de l'activité
     - name: infos
       type: field_group_list
       fields:
@@ -111,6 +111,6 @@ fields:
       min: 
       max: 
       labelField: 
-    label: Liste des lieux de stages
+    label: Liste des villes d'activités
 pages:
 - _data/stages.yml
