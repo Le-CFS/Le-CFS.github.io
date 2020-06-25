@@ -1316,7 +1316,7 @@ stages:
         à suivre du protocole des stages.
 - name: Fun Ado
   age: 12-16 ans
-  img: "/stages/activitesfun/funado.png"
+  img: "/assets/images/stages/activitesfun/funado.jpg"
   lieu: Bruxelles - Brabant Wallon
   description: " Vous souhaitez que votre ado participe à semaine hyper fun et dans
     le respect des mesures de distanciations sociales, d’hygiènes et sanitaires les
