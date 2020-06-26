@@ -11,4 +11,18 @@ menu: stages
 keywords: CFS, C.F.S, lecfs, stages enfants bruxelles, stage liege, stage bruxelles, stages vacances bruxelles, stage sportif bruxelles, stage jette, stages ete, stage sportif, stage brabant wallon
 tagline: 
 ---
-{% include pages/stages_enfants/activites/activitesartistiques.html %}
+{% include annonces/stages.html %}
+
+<p>Nos stages artistiques et ludiques peuvent susciter l’envie à vos enfants de s’investir et de prendre du plaisir dans une activité autre que sportive. Ils ont l’occasion de développer leurs talents artistiques dans une ambiance amusante et divertissante.</p>
+
+<p>Spectacles/expositions/dégustations de fin de semaine à ne pas manquer.</p>
+
+<div class="row">
+	{% for stage in site.data.stages.stages %}
+  {% if stage.online and stage.categorie contains 'Activités artistiques et loisirs' %}
+
+{% include coleen/liste_cartes.html %}
+
+  {% endif %}
+	{% endfor %}
+</div>

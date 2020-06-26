@@ -11,4 +11,160 @@ menu: cfs
 keywords: CFS, C.F.S, lecfs
 tagline: 
 ---
-{% include pages/le_cfs/partenaires.html %}
+Cela fait <strong>35 ans</strong> que nous travaillons dans le <strong>développement</strong> et le <strong>bien-être </strong>des enfants.<br/>
+Si vous désirez vous associer à notre démarche, n'hésitez pas à nous contacter dans une perspective de partenariat.
+
+<div class="sub-title">
+    <span>Partenaires pédagogiques</span>
+</div>
+<div class="container">
+	<div class="team-members-tow mtb-50">
+		<div class="row">
+		
+		{% for partenaire in site.data.partenaires.liste %}
+		{% if partenaire.online and partenaire.categorie contains 'pédagogiques' %}
+		<!-- Team Item Starts -->
+		<div class="col-sm-6 col-md-4">
+
+			<a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" style="color: #fff !important;">
+			  <figure>
+			    <img src="{{ partenaire.logo }}" alt="" style="border-radius: 5%;">
+			    <div class="image-overlay bulle3">
+			      <div class="overlay-text text-center">
+			        <div class="info-text">
+			          <strong>{% if partenaire.titre_overlay%}{{ partenaire.titre_overlay }}{% else %}{{ partenaire.name }}{% endif %}</strong>
+			        </div>
+			        <a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" target="_blank" class="btn btn-block btn-{% if partenaire.couleur_bouton %}{{ partenaire.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+			            <i class="fa fa-edit"></i> {% if partenaire.bouton %} {{ partenaire.bouton }}{% else %} Inscription{% endif %}
+			        </a>
+			      </div>
+			    </div>
+			  </figure>
+			</a>
+
+        </div>
+		<!-- Team Item Ends -->
+		{% endif %}
+		{% endfor %}
+		
+		</div>
+	</div>
+</div>
+
+<div class="sub-title">
+    <span>Partenaires de stages</span>
+</div>
+
+Nos partenaires de stage collaborent à l'organisation d'une semaine de stage afin de vous proposer des programmes variés et alléchants !
+
+<div class="container">
+	<div class="team-members-tow mtb-50">
+		<div class="row">
+		
+		{% for partenaire in site.data.partenaires.liste %}
+		{% if partenaire.online and partenaire.categorie contains 'stages' %}
+		<!-- Team Item Starts -->
+		<div class="col-sm-6 col-md-4">
+
+			<a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" style="color: #fff !important;">
+			  <figure>
+			    <img src="{{ partenaire.logo }}" alt="" style="border-radius: 5%;">
+			    <div class="image-overlay bulle3">
+			      <div class="overlay-text text-center">
+			        <div class="info-text">
+			          <strong>{% if partenaire.titre_overlay%}{{ partenaire.titre_overlay }}{% else %}{{ partenaire.name }}{% endif %}</strong>
+			        </div>
+			        <a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" target="_blank" class="btn btn-block btn-{% if partenaire.couleur_bouton %}{{ partenaire.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+			            <i class="fa fa-edit"></i> {% if partenaire.bouton %} {{ partenaire.bouton }}{% else %} Inscription{% endif %}
+			        </a>
+			      </div>
+			    </div>
+			  </figure>
+			</a>
+
+        </div>
+		<!-- Team Item Ends -->
+		{% endif %}
+		{% endfor %}
+		
+		</div>
+	</div>
+</div>
+
+<div class="sub-title">
+    <span>Partenaires d'entreprise</span>
+</div>
+Certaines entreprises proposent des avantages en nature à leur employé via les services du CFS.
+
+<div class="container">
+	<div class="team-members-tow mtb-50">
+		<div class="row">
+		
+		{% for partenaire in site.data.partenaires.liste %}
+		{% if partenaire.online and partenaire.categorie contains 'entreprises' %}
+		<!-- Team Item Starts -->
+		<div class="col-sm-6 col-md-4">
+
+			<a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" style="color: #fff !important;">
+			  <figure>
+			    <img src="{{ partenaire.logo }}" alt="" style="border-radius: 5%;">
+			    <div class="image-overlay bulle3">
+			      <div class="overlay-text text-center">
+			        <div class="info-text">
+			          <strong>{% if partenaire.titre_overlay%}{{ partenaire.titre_overlay }}{% else %}{{ partenaire.name }}{% endif %}</strong>
+			        </div>
+			        <a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" target="_blank" class="btn btn-block btn-{% if partenaire.couleur_bouton %}{{ partenaire.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+			            <i class="fa fa-edit"></i> {% if partenaire.bouton %} {{ partenaire.bouton }}{% else %} Inscription{% endif %}
+			        </a>
+			      </div>
+			    </div>
+			  </figure>
+			</a>
+
+        </div>
+		<!-- Team Item Ends -->
+		{% endif %}
+		{% endfor %}
+		
+		</div>
+	</div>
+</div>
+
+<div class="sub-title">
+    <span>Partenaires écoles</span>
+</div>
+Le CFS collabore avec certaines écoles en vue d'améliorer l'Accueil Temps Libre : activités extrascolaires, école des devoirs et coordination des garderies.
+
+<div class="container">
+	<div class="team-members-tow mtb-50">
+		<div class="row">
+		
+		{% for partenaire in site.data.partenaires.liste %}
+		{% if partenaire.online and partenaire.categorie contains 'écoles' %}
+		<!-- Team Item Starts -->
+		<div class="col-sm-6 col-md-4">
+
+			<a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" style="color: #fff !important;">
+			  <figure>
+			    <img src="{{ partenaire.logo }}" alt="" style="border-radius: 5%;">
+			    <div class="image-overlay bulle3">
+			      <div class="overlay-text text-center">
+			        <div class="info-text">
+			          <strong>{% if partenaire.titre_overlay%}{{ partenaire.titre_overlay }}{% else %}{{ partenaire.name }}{% endif %}</strong>
+			        </div>
+			        <a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" target="_blank" class="btn btn-block btn-{% if partenaire.couleur_bouton %}{{ partenaire.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+			            <i class="fa fa-edit"></i> {% if partenaire.bouton %} {{ partenaire.bouton }}{% else %} Inscription{% endif %}
+			        </a>
+			      </div>
+			    </div>
+			  </figure>
+			</a>
+
+        </div>
+		<!-- Team Item Ends -->
+		{% endif %}
+		{% endfor %}
+		
+		</div>
+	</div>
+</div>

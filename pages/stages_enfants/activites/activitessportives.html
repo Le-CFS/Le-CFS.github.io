@@ -11,4 +11,20 @@ menu: stages
 keywords: CFS, C.F.S, lecfs, stages enfants bruxelles, stage liege, stage bruxelles, stages vacances bruxelles, stage sportif bruxelles, stage jette, stages ete, stage sportif, stage brabant wallon
 tagline: 
 ---
-{% include pages/stages_enfants/activites/activitessportives.html %}
+{% include annonces/stages.html %}
+
+<p>Sans devenir des cours spécifiques, les stages sportifs ont pour but de faire découvrir les sports dits « classiques » par le jeu.</p>
+
+<p>Initiation ou perfectionnement, les jeunes apprennent les techniques et les règles de la discipline et pratiquent de matchs/tournois.</p>
+
+<p>3 périodes par jour consacrées à la discipline sportive choisie sont complétées par une période d’activités envisageant un autre sport.</p>
+
+<div class="row">
+	{% for stage in site.data.stages.stages %}
+  {% if stage.online and stage.categorie contains 'sportives' %}
+
+{% include coleen/liste_cartes.html %}
+
+  {% endif %}
+	{% endfor %}
+</div>

@@ -11,4 +11,16 @@ menu: stages
 keywords: CFS, C.F.S, lecfs, stages enfants bruxelles, stage liege, stage bruxelles, stages vacances bruxelles, stage sportif bruxelles, stage jette, stages ete, stage sportif, stage brabant wallon
 tagline: 
 ---
-{% include pages/stages_enfants/activites/dansegymnastique.html %}
+{% include annonces/stages.html %}
+
+<p>Le temps d’une semaine riche en amusement et épanouissement, nos chorégraphes vont emmener vos enfants dans leur univers artistique. Ne loupez pas leur représentation le vendredi, vous serez bluffés !</p>
+
+<div class="row">
+	{% for stage in site.data.stages.stages %}
+  {% if stage.online and stage.categorie == 'Danse et Gymnastique' %}
+
+{% include coleen/liste_cartes.html %}
+
+  {% endif %}
+	{% endfor %}
+</div>
