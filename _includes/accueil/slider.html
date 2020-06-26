@@ -5,37 +5,27 @@
     <div id="light-slider" class="carousel slide">
       <div id="carousel-area">
         <div id="carousel-slider" class="carousel slide" data-ride="carousel">
-          {% if slider.autres[0].titre %}
           <ol class="carousel-indicators">
-            <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
-            <li data-target="#carousel-slider" data-slide-to="1"></li>
-            {% if slider.autres[1].titre %}
-            <li data-target="#carousel-slider" data-slide-to="2"></li>
-            {% endif %}
-            {% if slider.autres[2].titre %}
-            <li data-target="#carousel-slider" data-slide-to="3"></li>
-            {% endif %}
+            {% for slide in slider %}
+              {% if slide.src == "" or slide.src == nil %}
+              {% else %}
+                <li data-target="#carousel-slider" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
+              {% endif %}
+            {% endfor %}
           </ol>
-          {% endif %}
           <div class="carousel-inner" role="listbox">
-            <div class="carousel-item active">
-              <a href="{{ slider.active.href }}" target="_blank"><img src="{{ BASE_PATH }}{{slider.active.src}}" class="img-fluid" alt="{{ slider.active.titre }}"></a>
-            </div>
-            {% if slider.autres[0].titre %}
-            <div class="carousel-item">
-              <a href="{{ slider.autres[0].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[0].src }}" class="img-fluid" alt="{{ slider.autres[0].titre }}"></a>
-            {% endif %}
-            {% if slider.autres[1].titre %}
-            <div class="carousel-item">
-              <a href="{{ slider.autres[1].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[1].src }}" class="img-fluid" alt="{{ slider.autres[1].titre }}"></a>
-            {% endif %}
-            {% if slider.autres[2].titre %}
-            <div class="carousel-item">
-              <a href="{{ slider.autres[2].href }}" target="_blank"><img src="{{ BASE_PATH }}{{ slider.autres[2].src }}" class="img-fluid" alt="{{ slider.autres[2].titre }}"></a>
-            {% endif %}
-            </div>
+            {% for slide in slider %}
+              {% if slide.src == "" or slide.src == nil %}
+              {% else %}
+                <div class="carousel-item{% if forloop.first %} active{% endif %}">
+                  <a href="{{ slider.href }}" target="_blank"><img src="{{ BASE_PATH }}{{slide.src}}" class="img-fluid" alt="{{ slide.titre }}"></a>
+                </div>
+              {% endif %}
+            {% endfor %}
           </div>
-          {% if slider.autres[0].titre %}
+        </div>
+        {% if slider[1].src == "" or slider[1].src == nil %}
+        {% else %}
           <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
             <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Précédent</span>
@@ -44,8 +34,7 @@
             <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Suivant</span>
           </a>
-          {% endif %}
-        </div>
+        {% endif %}
       </div>
     </div>
   </div>
