@@ -1,4 +1,117 @@
 ---
 label: accueil
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+- name: slides
+  type: field_group_list
+  fields:
+  - name: alt
+    type: text
+    config:
+      required: true
+    label: Nom de l'image
+  - name: img
+    type: file
+    config:
+      maxSize: 64
+    label: image
+  - name: url
+    type: text
+    config:
+      required: true
+    label: Lien pour la redirection
+  - name: autre_onglet__
+    type: boolean
+    label: Autre onglet ?
+    description: Faut-il ouvrir le lien vers un nouvel onglet ?
+  config:
+    min: 1
+    max: 4
+    labelField: 
+  label: Slides
+- name: title_news
+  type: field_group
+  config: {}
+  fields:
+  - name: news_desktop
+    type: text
+    config:
+      required: false
+    label: Titre pour la version ordi
+  - name: news_mobile
+    type: text
+    config:
+      required: false
+    label: Titre pour la version mobile
+  label: Titre des news
+- name: selection
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: field_group
+    config: {}
+    fields:
+    - name: selection_desktop
+      type: text
+      config:
+        required: false
+      label: Titre pour la version ordi
+    - name: selection_mobile
+      type: text
+      config:
+        required: false
+      label: Titre pour la version mobile
+    label: Titre
+  - name: images
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Titre
+    - name: img
+      type: file
+      config:
+        maxSize: 64
+      label: image
+    - name: href
+      type: text
+      config:
+        required: false
+      label: Lien de la redirection
+    - name: button_text
+      type: text
+      config:
+        required: false
+      label: Texte du bouton
+    - name: autre_page
+      type: boolean
+      label: Ouvrir la page dans un nouvel onglet ?
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Sélection du CFS
+  label: Sélection du CFS
+- name: slogan
+  type: field_group
+  config: {}
+  fields:
+  - name: slogan_desktop
+    type: text
+    config:
+      required: false
+    label: Slogan version ordi
+  - name: slogan_mobile
+    type: text
+    config:
+      required: false
+    label: Slogan version mobile
+  label: Slogan
