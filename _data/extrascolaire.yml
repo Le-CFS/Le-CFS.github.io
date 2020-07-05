@@ -126,8 +126,8 @@ activites:
 - name: Baby Multisports
   img: "/boutonsactivites/extrascolaires/babymultisports.png"
   inscription: ''
-  categorie: decouvertes
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Baby Gym
@@ -163,14 +163,14 @@ activites:
 - name: Danse Girly
   img: "/boutonsactivites/extrascolaires/dansegirly.png"
   inscription: ''
-  categorie: danse
-  online: true
+  categorie: Danse et Gymnastique
+  online: false
   nouveau: false
   location: []
 - name: Hip-Hop
   img: "/boutonsactivites/extrascolaires/hiphop.png"
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Danse et Gymnastique
   online: true
   location:
   - alias: Bruxelles
@@ -186,7 +186,7 @@ activites:
     - alias: Spectacle
       info_line: Spectacle le Weekend du 29/05/2021.
   nouveau: false
-- name: GRS - Gymnastique Rythmique & Sportive
+- name: GRS
   img: "/boutonsactivites/extrascolaires/grs.png"
   inscription: ''
   categorie: Danse et Gymnastique
@@ -211,10 +211,19 @@ activites:
 - name: Gymnastique
   img: "/boutonsactivites/extrascolaires/gymnastique.png"
   inscription: ''
-  categorie: danse
+  categorie: Danse et Gymnastique
   online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    age: 6-14 ans
+    description: "<p>Initiation et perfectionnement à la gymnastique sportive. Sol,
+      sauts, poutre, barres... Petite démonstration en fin d'année. Les enfants sont
+      regroupés par niveau/âge.</p>"
+    infos: []
 - name: Gymnastique PRO
   img: "/boutonsactivites/extrascolaires/gympro.png"
   inscription: ''
