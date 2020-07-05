@@ -1,431 +1,470 @@
-# Faire TRÈS attention en modifiant ce fichier. Il faut garder le bon nombre d'espace avant le nom des champs.
-# name est le nom du stage. Doit être mis entre guillemets.
-# age est la tranche d'âge du stage. Il faut bien écrire "3 ans" ou "entre 4 et 8 ans". Doit être mis entre guillemets.
-# image est le lien 
-
-
+---
 activites:
-    -
-        name: "Psycho Découverte"
-        age: 3-4 ans
-        img: "/boutonsactivites/extrascolaires/psychodecouverte.png"
-        lieu: 
-            - "Laeken - Institut Christ-Roi"
-        description: "Ce stage réuni un mélange de différentes facettes de la psychomotricité : jeux de coopération, parcours d'adresse, d'audace, exercices de latéralité, éveil artistique, découverte de la nature environnante et du rythme."
-        infos: 
-        inscription: 
-        categorie: bouts
-        online: oui
-    -
-        name: "Psycho Grimpette"
-        age: 3-4 ans
-        img: "/boutonsactivites/extrascolaires/psychogrimpette.png"
-        lieu: 
-            - "Jette - Salle Omnisport"
-        description: "Séances de psychomotricité. Développement des capacités d'audace et d'équilibre. Au programme: parcours d'agilité et d'audace, développement des notions sensori-motrices (latéralité, équilibre...), jeux de coopération (parachute), exercices de rythmique. Beaucoup d'activités pour le développement de vos enfants."
-        infos: 
-        inscription: 
-        categorie: bouts
-        online: oui
-    -
-        name: "Baby Danse"
-        age: 4-6 ans
-        img: "/boutonsactivites/extrascolaires/babydanse.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Jette - Salle Omnisport"
-            - "Woluwé-Saint-Lambert - Centre Sportif Mounier"
-        description: "Initiation au rythme à travers des chorégraphies adaptées."
-        infos: 
-            - "Spectacle organisé en fin d'année "
-        inscription: 
-        categorie: decouvertes
-        online: oui
-    -
-        name: "Baby Multisports"
-        age: 4-6 ans
-        img: "/boutonsactivites/extrascolaires/babymultisports.png"
-        lieu: 
-            - "Ottignies - Centre Sportif des Coquerées"
-            - "Woluwé-Saint-Lambert - Centre Sportif Mounier"
-        description: "Premier contact avec le sport et les jeux collectifs, par lesquels votre enfant développe les différentes facettes de la motricité, le respect des règles et la vie en groupe."
-        infos: 
-        inscription: 
-        categorie: decouvertes
-        online: oui
-    -
-        name: "Baby Gym"
-        age: 4-6 ans
-        img: "/boutonsactivites/extrascolaires/babygym.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Ottignies - Centre Sportif des Coquerées"
-            - "Court-Saint-Etienne - Salle de Gym 'La Courtoise'"
-            - "Jette - Salle Omnisport"
-        description: "Cours d'initiation à la gymnastique pour les plus petits. Parcours d'équilibre, d'audace et premières notions de gymnastique sportive."
-        infos: 
-        inscription: 
-        categorie: decouvertes
-        online: oui
-    -
-        name: "Danse Jazz"
-        age: 6-12 ans
-        img: "/boutonsactivites/extrascolaires/dansejazz.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Jette - Salle Omnisport"
-        description: "Au programme: exercices de souplesse, premières bases techniques et chorégraphiques de la danse Jazz."
-        infos: 
-            - "Spectacle organisé en fin d'année."
-        inscription: 
-        categorie: danse
-        online: oui
-    -
-        name: "Danse Girly"
-        age: 12-16 ans
-        img: "/boutonsactivites/extrascolaires/dansegirly.png"
-        lieu: 
-            - "Woluwé-Saint-Pierre - Sport City"
-        description: "Initiation à la danse Girly : développement de la confiance en soi à travers un travail sur l'attitude et la féminité. A la fois esthétique et artistique, ce n'est pas la technique qui compte mais l'expression de lacte."
-        infos: 
-            - "Spectacle organisé en fin d'année "
-        inscription: 
-        categorie: danse
-        online: oui
-    -
-        name: "Hip-Hop"
-        age: 6-18 ans
-        img: "/boutonsactivites/extrascolaires/hiphop.png"
-        lieu: 
-            - "Wavre - Centre Sportif de Wavre"
-            - "Jette - Salle Omnisport"
-            - "Woluwé-Saint-Lambert - Centre Sportif Mounier"
-        description: "Découverte de l’une des danses les plus en vogue en ce moment ; le Hip-Hop. Connu pour ses chorégraphies bien énergiques, le Hip-Hop apprendra à vos enfants à bouger au rythme de la musique, tout en laissant ses mouvements spontanés et naturels. "
-        infos: 
-            - "3 niveaux de groupes différents en fonction des âges "
-        inscription: 
-        categorie: danse
-        online: oui
-    -
-        name: "GRS - Gymnastique Rythmique & Sportive"
-        age: 6-16 ans
-        img: "/boutonsactivites/extrascolaires/grs.png"
-        lieu: 
-            - "Bierges - Le Provincial"
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Jette - Salle Omnisport"
-            - "Jette - Ecole Notre-Dame de Lourdes"
-        description: "Les cours de GRS donnés au CFS permettent aux élèves d'apprendre la technique des engins à travers des ateliers et/ou des chorégraphies sur musique. Les engins sont le ballon, la corde, le cerceau, le ruban et les massues. La conscience du corps, le rythme, la créativité, la souplesse et la technique seront développés dans une ambiance dynamique et ludique. Enfin, les élèves pourront montrer leurs progrès à l'occasion d'un spectacle organisé en fin dannée."
-        infos: 
-        inscription: 
-        categorie: danse
-        online: oui
-    -
-        name: "Gymnastique"
-        age: 6-14 ans
-        img: "/boutonsactivites/extrascolaires/gymnastique.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Ottignies - Centre Sportif des Coquerées"
-            - "Court-Saint-Etienne - Salle de Gym 'La Courtoise'"
-            - "Jette - Salle Omnisport"
-        description: "Initiation et perfectionnement à la gymnastique sportive. Sol, sauts, poutre, barres asymétriques... Petite démonstration en fin dannée. Les enfants sont regroupés par âge/niveau."
-        infos: 
-            - "Démonstration en fin d'année "
-        inscription: 
-        categorie: danse
-        online: oui
-    -
-        name: "Gymnastique PRO"
-        age: 8-16 ans
-        img: "/boutonsactivites/extrascolaires/gympro.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Court-Saint-Etienne - Salle de Gym 'La Courtoise'"
-        description: "Ouvert aux jeunes qui désirent se perfectionner à la gymnastique sportive. Sol, sauts, poutre, barres asymétriques... Ce cours se donne dans un groupe restreint."
-        infos: 
-            - " 'CLUB : Entrainement spécial dans la grande salle GSA du Blocry (LLN) au moins un dimanche sur l'année - Possibilité d'affiliation à la FFG (Fédération Francophone de Gymnastique) sur demande.'"
-        inscription: 
-        categorie: danse
-        online: oui
-    -
-        name: "Fun Laser"
-        age: 7-14 ans
-        img: "/boutonsactivites/extrascolaires/funlaser.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-        description: "Une combinaison d'activités fun et ludiques : New Games, Bubble Soccer, Escalade (pour Wavre)/Natation (pour Rixensart), Laser Game (une fois par mois), Arrow Games."
-        infos: 
-            - "L'agenda peut être aménagé en fonction des conditions météorologiques."
-        inscription: 
-        categorie: fun
-        online: oui
-    -
-        name: "Fun Laser & VTT"
-        age: 8-15 ans
-        img: "/boutonsactivites/extrascolaires/funvtt.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-        description: "Une combinaison d'activités fun et ludiques : VTT 3x/mois et Laser Game 1x/mois"
-        infos: 
-            - "L'agenda peut être aménagé en fonction des conditions météorologiques."
-        inscription: 
-        categorie: fun
-        online: non
-    -
-        name: "Mini-Tennis & Multisports"
-        age: 5-8 ans
-        img: "/boutonsactivites/extrascolaires/minitennisetmultisports.png"
-        lieu: 
-            - "Ottignies - Centre Sportif des Coquerées"
-        description: "Chaque semaine, les enfants se défouleront durant une heure de tennis et une heure d'activités de multisports."
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Escalade"
-        age: 5-14 ans
-        img: "/boutonsactivites/extrascolaires/escalade.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Jette - Salle Omnisport"
-        description: "Découverte de l'escalade. Par cette initiation, l'enfant travaille des facettes spécifiques de la motricité tels que l'ascension et l'équilibre. Il développe des facteurs essentiels comme l'audace, la maîtrise de soi et la gestion du vertige. Maximum 8 enfants/groupe."
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Badminton"
-        age: 7-15 ans
-        img: "/boutonsactivites/extrascolaires/badminton.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Ottignies - Centre Sportif des Coquerées"
-        description: "Apprentissage du badminton: mouvements, techniques, déplacements, etc. Au programme : entrainement technique, jeux d'opposition, petits matchs. "
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Arts Martiaux"
-        age: 6-12 ans
-        img: "/boutonsactivites/extrascolaires/artsmartiaux.png"
-        lieu: 
-            - "Rixensart - Complexe Sportif de Rixensart"
-        description: Coming soon
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Judo"
-        age: 5-15 ans
-        img: "/boutonsactivites/extrascolaires/judo.png"
-        lieu: 
-            - "Rixensart - Judo Club de Genval"
-        description: "Véritable sport éducatif, le Judo permet à chacun de devenir plus adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles, découvrir l’entraide, évaluer ses forces et ses faiblesses pour progresser. Le Judo est un sport pour tous, qui procure un véritable équilibre. Activité de détente et de plaisir, le Judo est une discipline basée sur l’échange et la progression. L’apprentissage se fait de manière progressive en fonction des aptitudes de l’individu, ce qui permet à chacun d’évoluer à son rythme."
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Multisports"
-        age: 5-9 ans
-        img: "/boutonsactivites/extrascolaires/multisports.png"
-        lieu: 
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Laeken - Institut Christ-Roi"
-        description: "Découvertes sportives au programme: sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball, gymnastique, etc."
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Mini-Foot"
-        age: 6-12 ans
-        img: "/boutonsactivites/extrascolaires/minifoot.png"
-        lieu: 
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Jette - Ecole Notre-Dame de Lourdes"
-            - "Woluwé-Saint-Lambert - Centre Sportif Mounier"
-        description: "Entrainement de mini-football pour les footballeurs débutants et plus confirmés, avec au programme: technique, tactique et petits matches. Les enfants sont regroupés par âge et par niveau."
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Mini-Foot ACADEMY"
-        age: 4-14 ans
-        img: "/boutonsactivites/extrascolaires/minifootacademy.png"
-        lieu: 
-            - "Wavre - Centre Sportif de Wavre"
-        description: "Le CFS propose un apprentissage et/ou perfectionnement des différentes techniques du Mini-Foot. Au programme: passe, dribble, contrôle, amortie, shoot, jonglage, positionnement... Une attention particulière sera portée à l'esprit d'équipe, le respect des règles et des autres. Les enfants sont regroupés par niveau et par âge. Le prix comprend les cours, une assurance et un maillot Mini Excel."
-        infos: 
-            - "'CLUB : en collaboration avec le club de mini-foot Mini Excel Wavre-Limal - Organisation de tournois interCFS au minimum 3x par an (décembre, janvier et juin).'"
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Mini-Foot & Multisports"
-        age: 5-8 ans
-        img: "/boutonsactivites/extrascolaires/minifoot.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-        description: "1 heure de découvertes sportives (sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball, gymnastique, etc.) agrémentée par 1 heure d'entrainement de mini-football en salle : technique, tactique et petits matchs."
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Football"
-        age: 6-14 ans
-        img: "/boutonsactivites/extrascolaires/football.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-            - "Rixensart - Complexe Sportif de Rixensart"
-            - "Ottignies - Centre Sportif des Coquerées"
-        description: "Une heure d’exercices (technique de dribbles - 1 ballon par enfant, passes, tirs) et une heure de match (positionnement correct sur le terrain + jeu). En hiver, les cours sont prévus en salle. Les enfants sont rassemblés en deux groupes sur base de l'âge et du niveau."
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Football Academy"
-        age: 
-        img: "/boutonsactivites/extrascolaires/footballacademy.png"
-        lieu: 
-            - "Jette - Complexe Sportif du Heymbosch"
-        description: "Entrainement de mini-football pour les plus jeunes, avec au programme: technique, tactique et petits matchs. Les enfants sont regroupés par âge et par niveau."
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Football - Gardien de but"
-        age: 7-21 ans
-        img: "/boutonsactivites/extrascolaires/footballgardiendebut.png"
-        lieu: 
-            - "Beauvechain - Sporting Club Beauvechain"
-        description: "Les enfants sont regroupés par âge et par niveau. 1 entraîneur pour 4 gardiens. "
-        infos: 
-            - "Pack Football offert"
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Anglais"
-        age: 8-14 ans
-        img: "/boutonsactivites/extrascolaires/anglais.png"
-        lieu: 
-            - "Bierges - Le Provincial"
-            - "Laeken - Tennis du Primerose"
-        description: "L’objectif du cours est de donner le goût des langues et la capacité de s'exprimer dans de petites situations de la vie de tous les jours. L’apprentissage est ludique (jeux linguistiques, expression orale, jeux de rôle, mises en situation, etc.) et respectueux des capacités de chaque enfant. Ce cours convient tant pour un apprentissage que pour un rattrapage (maximum 6 enfants par groupe)."
-        infos: 
-        inscription: 
-        categorie: artistiques
-        online: oui
-    -
-        name: "Néerlandais"
-        age: 8-14 ans
-        img: "/boutonsactivites/extrascolaires/neerlandais.png"
-        lieu: 
-            - "Laeken - Tennis du Primerose"
-        description: "Enseignement exclusivement en néerlandais, donné par des professeurs diplômés et bien dynamiques, avec un matériel didactique adapté aux enfants et adolescents.  Le 1er cours (gratuit) permettra de vérifier le niveau linguistique de votre enfant."
-        infos: 
-        inscription: 
-        categorie: artistiques
-        online: oui
-    -
-        name: "Cirque"
-        age: 5-9 ans
-        img: "/boutonsactivites/extrascolaires/cirque.png"
-        lieu: 
-            - "Walhain - Ecole de Tourinnes"
-        description: "Initiation aux techniques du Cirque."
-        infos: 
-        inscription: 
-        categorie: artistiques
-        online: oui
-    -
-        name: "Diner Parfait"
-        age: 6-12 ans
-        img: "/boutonsactivites/extrascolaires/dinerparfait.png"
-        lieu: 
-            - "Bierges - Le Provincial"
-        description: "Durant ce cours, les jeunes cuisiniers touchent à tous les domaines ayant trait au métier de chef-cuistot. Entrées, plats, desserts seront au menu. Les ingrédients pour les recettes sont compris dans le prix."
-        infos: 
-        inscription: 
-        categorie: artistiques
-        online: 
-    -
-        name: "Parkour"
-        age: 9-16 ans
-        img: "/boutonsactivites/extrascolaires/parkour.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-        description: "Cette discipline utilise le corps pour seul outil. Face à des obstacles naturels, ce sont les habilités motrices qui servent de support à l'activité. Courses, sauts, grimpes, exercices d'équilibre et de suspension sont au programme. L'activité se déroulera en salle et en milieu naturel."
-        infos: 
-        inscription: 
-        categorie: fun
-        online: oui
-    -
-        name: "Sports Raquettes"
-        age: 8-14 ans
-        img: "/boutonsactivites/extrascolaires/raquettes.png"
-        lieu: 
-            - "Ottignies - Centre Sportif des Coquerées"
-        description: "Cette activité propose une découverte et perfectionnement  pour les amateurs de sports raquettes. Activité idéale pour tous les amateurs de raquettes ou pour les enfants qui désirent découvrir les sports de raquettes. Au programme : Paddle - Badminton - Tennis - Speedminton - Ping-pong"
-        infos: 
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Tennis"
-        age: 6-18 ans
-        img: "/boutonsactivites/extrascolaires/tennis.png"
-        lieu: 
-            - "Ottignies - Club de Tennis TC Ottintois"
-        description: "Cours d’initiation de tennis pour les enfants de 6 à 14 ans. Groupe max de 5 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance. Pour les enfants de 12 à 18 ans : Cours de perfectionnement de tennis: minimum 2 ans d'expérience. Groupe max de 4 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance."
-        infos: Cours d'initiation ou perfectionnement
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Théâtre"
-        age: 7-14 ans
-        img: "/boutonsactivites/extrascolaires/theatre.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre"
-        description: "A l’issue de la formation, l’élève sera capable de se concentrer sur un objectif, avoir confiance en lui/elle, trouver un rythme, un ton, mémoriser un texte imposé, connaître le vocabulaire théâtral et ses règles, connaître les principes de l’impro, les aspects techniques de la scène et enfin, jouer sur scène une courte pièce."
-        infos: Représentation en fin d'année
-        inscription: 
-        categorie: artistiques
-        online: oui
-    -
-        name: "VTT"
-        age: 8-15 ans
-        img: "/boutonsactivites/extrascolaires/vtt.png"
-        lieu: 
-            - "Wavre - Collège Notre-Dame de Basse-Wavre et Ottignies - Centre Sportif des coquerées"
-        description: "Perfectionnement  pour les passionnés de la pratique du VTT. Trip dans les bois, parcours de la région! Le planning pourra être adapté en fonction des conditions météorologiques (en cas de forte intempérie, activité en salle). Maximum 10 enfants par groupe."
-        infos:  Le jeune doit avoir son propre VTT, un casque et une chambre à air de rechange. Il y a deux niveaux deux niveaux - Pro ou Initiation !
-        inscription: 
-        categorie: sportives
-        online: oui
-    -
-        name: "Multi Aqua"
-        age: 5-8 ans
-        img: "/boutonsactivites/extrascolaires/multiaqua.png"
-        lieu: 
-            - "Woluwé-Saint-Pierre - Sport City"
-        description: "Tous les mercredis, vos enfants se consacreront à une heure de piscine et une heure de multisports."
-        infos:  Pour les enfants sachant nager 25 mètres
-        inscription: 
-        categorie: sportives
-        online: 
+- name: Self Défense
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Ecole Notre-Dame de Lourdes
+    age: 6-14 ans
+    description: ''
+    infos: []
+- name: Affro ragga Danse
+  categorie: Danse et Gymnastique
+  img: ''
+  online: false
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - WSPI - SportCity
+    age: 8-16 ans
+    description: "<p>Souvent commerciale et à la mode sur les réseaux sociaux en ce
+      moment, cette danse s'inspire de différentes danses africaines et y incorpore
+      des pas actuels de hip-hop.</p><p>Beaucoup dans le ressenti de la musique et
+      l'envie de bouger !</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Spectacle le 29/05/2021.
+- name: Mini Multisports
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: false
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - WSLA - Centre Sportif de la Woluwe
+    age: 4-7 ans
+    description: "<p>Séances de multisports avec au programme: sports ballons, uni-hoc,
+      frisbee, badminton, crosse canadienne, base-ball, etc..</p>"
+    infos: []
+- name: Baby Foot
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Ecole Notre-Dame de Lourdes
+    age: 4-6 ans
+    description: "<p>Entrainement de football pour les plus jeunes avec au programme:
+      technique, tactique et petits matchs. Les enfants sont regroupés par âge et
+      par niveau.</p>"
+    infos: []
+- name: Fun & Multisports
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    - JETTE - Ecole Notre-Dame de Lourdes
+    - WSPI - SportCity
+    age: 6-14 ans
+    description: "<p>Séances de multisports ainsi que des activités Fun avec au programme:
+      sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball, etc...</p>"
+    infos: []
+- name: Psycho Découverte
+  img: "/boutonsactivites/extrascolaires/psychodecouverte.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Psycho Grimpette
+  img: "/boutonsactivites/extrascolaires/psychogrimpette.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    age: 3-6 ans
+    description: "<p>Séances de psychomotricité. Développement des capacités d'audace
+      et d'équilibre. Au programme: parcours d'agilité et d'audace, développement
+      des notions sensori-motrices (latéralité, équilibre...), jeux de coopération
+      (parachute), exercices de rythmique. Plein de chouettes activités pour le développement
+      de vos enfants.</p>"
+    infos: []
+  nouveau: false
+- name: Baby Danse
+  img: "/boutonsactivites/extrascolaires/babydanse.png"
+  inscription: ''
+  categorie: Découvertes sportives et culturelles
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    - WSLA - Centre Sportif de la Woluwe
+    age: 3-6 ans
+    description: "<p>Initiation au rythme à travers des chorégraphies adaptées.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Spectacle le Weekend du 29/05/2021.
+  nouveau: false
+- name: Baby Multisports
+  img: "/boutonsactivites/extrascolaires/babymultisports.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Baby Gym
+  img: "/boutonsactivites/extrascolaires/babygym.png"
+  inscription: ''
+  categorie: Découvertes sportives et culturelles
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    age: 4-6 ans
+    description: "<p>Cours d'initiation à la gymnastique pour les plus petits. Parcours
+      d'équilibre, d'audace et premières notions de gymnastique sportive.</p>"
+    infos: []
+  nouveau: false
+- name: Danse Jazz
+  img: "/boutonsactivites/extrascolaires/dansejazz.png"
+  inscription: ''
+  categorie: Danse et Gymnastique
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    age: 6-12 ans
+    description: "<p>Initiation au rythme à travers des chorégraphies adaptées. Au
+      programme: exercices de souplesse, premières bases techniques et chorégraphiques.</p>"
+    infos: []
+  nouveau: false
+- name: Danse Girly
+  img: "/boutonsactivites/extrascolaires/dansegirly.png"
+  inscription: ''
+  categorie: Danse et Gymnastique
+  online: false
+  nouveau: false
+  location: []
+- name: Hip-Hop
+  img: "/boutonsactivites/extrascolaires/hiphop.png"
+  inscription: ''
+  categorie: Danse et Gymnastique
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - WSLA - Centre Sportif de la Woluwe
+    - JETTE - Salle Omnisport
+    age: 7-18 ans
+    description: "<p>Ce cours introduit le Hip Hop, un style de danse qui demande
+      de l'énergie pour effectuer des phrases chorégraphiques. Au programme: exercices
+      de souplesse, mise en forme,  technique jazz et chorégraphies.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Spectacle le Weekend du 29/05/2021.
+  nouveau: false
+- name: GRS
+  img: "/boutonsactivites/extrascolaires/grs.png"
+  inscription: ''
+  categorie: Danse et Gymnastique
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - " JETTE - Salle Omnisport"
+    - JETTE - Ecole Notre-Dame de Lourdes
+    description: "<p>Les cours de GRS donnés au CFS permettent aux élèves d'apprendre
+      la technique des engins à travers des ateliers et/ou des chorégraphies sur musique.
+      Les engins sont le ballon, la corde, le cerceau, le ruban et les massues. La
+      conscience du corps, le rythme, la créativité, la souplesse et la technique
+      seront développés dans une ambiance dynamique et ludique. Enfin, les élèves
+      pourront montrer leurs progrès à l'occasion d'un spectacle organisé en fin d'année.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Spectacle le weekend du 29/05/2021.
+    age: 6-14 ans
+  nouveau: false
+- name: Gymnastique
+  img: "/boutonsactivites/extrascolaires/gymnastique.png"
+  inscription: ''
+  categorie: Danse et Gymnastique
+  online: true
+  nouveau: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    age: 6-14 ans
+    description: "<p>Initiation et perfectionnement à la gymnastique sportive. Sol,
+      sauts, poutre, barres... Petite démonstration en fin d'année. Les enfants sont
+      regroupés par niveau/âge.</p>"
+    infos: []
+- name: Gymnastique PRO
+  img: "/boutonsactivites/extrascolaires/gympro.png"
+  inscription: ''
+  categorie: Danse et Gymnastique
+  online: false
+  nouveau: false
+  location: []
+- name: Fun Laser
+  img: "/boutonsactivites/extrascolaires/funlaser.png"
+  lieu:
+  - Wavre - Collège Notre-Dame de Basse-Wavre
+  - Rixensart - Complexe Sportif de Rixensart
+  description: 'Une combinaison d''activités fun et ludiques : New Games, Bubble Soccer,
+    Escalade (pour Wavre)/Natation (pour Rixensart), Laser Game (une fois par mois),
+    Arrow Games.'
+  infos:
+  - L'agenda peut être aménagé en fonction des conditions météorologiques.
+  inscription: ''
+  categorie: Activités fun
+  online: false
+  nouveau: false
+  location: []
+- name: Fun Laser & VTT
+  img: "/boutonsactivites/extrascolaires/funvtt.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Mini-Tennis & Multisports
+  img: "/boutonsactivites/extrascolaires/minitennisetmultisports.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Escalade
+  img: "/boutonsactivites/extrascolaires/escalade.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    age: 6-14 ans
+    description: "<p>Par cette initiation, l'enfant travaille des facettes spécifiques
+      de la motricité telles que l'ascension et l'équilibre. Il développe des facteurs
+      essentiels comme l'audace, la maîtrise de soi et la gestion du vertige. Les
+      enfants sont regroupés par âge.</p>"
+    infos: []
+  nouveau: false
+- name: Badminton
+  img: "/boutonsactivites/extrascolaires/badminton.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Arts Martiaux
+  img: "/boutonsactivites/extrascolaires/artsmartiaux.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Judo
+  img: "/boutonsactivites/extrascolaires/judo.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Multisports
+  img: "/boutonsactivites/extrascolaires/multisports.png"
+  inscription: ''
+  categorie: Découvertes sportives et culturelles
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - LAEKEN - Institut du Christ-Roi
+    age: 6-12 ans
+    description: "<p>Séances de multisports avec au programme: sports ballons, uni-hoc,
+      frisbee, badminton, crosse canadienne, base-ball, etc...</p>"
+    infos: []
+  nouveau: false
+- name: Mini-Foot
+  img: "/boutonsactivites/extrascolaires/minifoot.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - WSLA - Centre Sportif de la Woluwe
+    - WEMMEL - Hall des Sports
+    age: 5-16 ans
+    description: "<p>Entrainement de mini-football pour les footballeurs débutants
+      et plus confirmés avec au programme: technique, tactique et petits matches.
+      Les enfants sont regroupés par âge et par niveau.</p>"
+    infos:
+    - alias: Prise en charge
+      info_line: La prise en charge des enfants se fera à l'Ecole communale Francophone
+        de Wemmel à 15h30 et ils seront récupérés par leurs parents au Hall des Sports
+        (Dijck 34) à 17h45.
+  nouveau: false
+- name: Mini-Foot ACADEMY
+  img: "/boutonsactivites/extrascolaires/minifootacademy.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Mini-Foot & Multisports
+  img: "/boutonsactivites/extrascolaires/minifoot.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Football
+  img: "/boutonsactivites/extrascolaires/football.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Football Academy
+  img: "/boutonsactivites/extrascolaires/footballacademy.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Complexe sportif du Heymbosch
+    age: 6-12 ans
+    description: "<p>Entrainement de football pour les plus jeunes avec au programme:
+      technique, tactique et petits matchs. Les enfants sont regroupés par âge et
+      par niveau.</p>"
+    infos: []
+  nouveau: false
+- name: Football - Gardien de but
+  img: "/boutonsactivites/extrascolaires/footballgardiendebut.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Anglais
+  img: "/boutonsactivites/extrascolaires/anglais.png"
+  inscription: ''
+  categorie: Activités artistiques et loisirs
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - LAEKEN - Tennis du Primerose
+    age: 6-14 ans
+    description: "<p>Enseignement exclusivement en anglais, donné par des professeurs
+      diplômés et bien dynamiques, avec un matériel didactique adapté aux enfants
+      et adolescents. Le 1er cours (gratuit) permettra de vérifier le niveau linguistique
+      de votre enfant.</p>"
+    infos: []
+  nouveau: false
+- name: Néerlandais
+  img: "/boutonsactivites/extrascolaires/neerlandais.png"
+  inscription: ''
+  categorie: Activités artistiques et loisirs
+  online: true
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - LAEKEN - Tennis du Primerose
+    age: 8-14 ans
+    description: "<p>Enseignement exclusivement en néerlandais, donné par des professeurs
+      diplômés et bien dynamiques, avec un matériel didactique adapté aux enfants
+      et adolescents. Le 1er cours (gratuit) permettra de vérifier le niveau linguistique
+      de votre enfant.</p>"
+    infos: []
+  nouveau: false
+- name: Cirque
+  img: "/boutonsactivites/extrascolaires/cirque.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Diner Parfait
+  img: "/boutonsactivites/extrascolaires/dinerparfait.png"
+  inscription: ''
+  categorie: artistiques
+  online: false
+  nouveau: false
+  location: []
+- name: Parkour
+  img: "/boutonsactivites/extrascolaires/parkour.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Sports Raquettes
+  img: "/boutonsactivites/extrascolaires/raquettes.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Tennis
+  img: "/boutonsactivites/extrascolaires/tennis.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Théâtre
+  img: "/boutonsactivites/extrascolaires/theatre.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: VTT
+  img: "/boutonsactivites/extrascolaires/vtt.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []
+- name: Multi Aqua
+  img: "/boutonsactivites/extrascolaires/multiaqua.png"
+  inscription: ''
+  categorie: Les petits bouts
+  online: false
+  nouveau: false
+  location: []

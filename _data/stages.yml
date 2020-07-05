@@ -2284,3 +2284,4 @@ stages:
     - alias: Profondeville
       info_line: Toutes les activités n'auront pas lieu chaque semaine à l'exception
         de Profondeville.
+activites: []

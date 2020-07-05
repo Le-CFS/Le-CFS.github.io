@@ -1,29 +1,51 @@
+<style>
+.meta:hover {
+  color: #444 !important;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #4da5e2;
+}
+</style>
+
 <div class="col-md-4 col-xs-12">
-    <div class="card-2">
-      <div class="image">
-        <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><img src="{{ BASE_PATH }}/assets/images{{ stage.img }}"></a>
-      </div>
-      <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
-      <div class="card-block">
-        <h3 class="card-title">{{ stage.name }}</h3>
-        <div class="meta">
-          {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
-          {{stage.age}}
-        </div>
-        <div class="description">
-          <center><a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
-        </div>
-      </div>
-      </a>
-      <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
-      <div class="extra">
-        <span>
-          <i class="fa fa-map-marker"> {{ stage.lieu }}</i>
-        </span>
-      </div>
-      </a>
+  <div class="card-2">
+    <div class="image">
+      <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><img src="{{ BASE_PATH }}/assets/images{{ stage.img }}"></a>
     </div>
+    <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
+    <div class="card-block">
+      <h3 class="card-title">{{ stage.name }}</h3>
+      <div class="meta">
+        {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+        {% for item in stage.location %}
+          {% if forloop.first %}
+            {{ item.age }}
+          {% else %}
+             / {% if item.age == "" or item.age == nil %}{{ stage.location[0].age }}{% else %}{{ item.age }}{% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+      <div class="description">
+        <center><a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
+      </div>
+    </div>
+    </a>
+    <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
+    <div class="extra">
+      <span>
+        <i class="fa fa-map-marker"> {% for item in stage.location %}
+          {% if forloop.first %}
+            {{ item.ville }}
+          {% else %}
+             - {% if item.ville == "" or item.ville == nil %}{{ stage.location[0].ville }}{% else %}{{ item.ville }}{% endif %}
+          {% endif %}
+        {% endfor %}</i>
+      </span>
+    </div>
+    </a>
+  </div>
 </div>
+
 <div class="modal fade" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -33,23 +55,85 @@
       </div>
       <div class="card-block">
         <h3 class="card-title">{{ stage.name }}</h3>
-        <div class="meta">
-          {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
-          {{stage.age}}<br/>
-          {{ stage.infos }}
-        </div>
-        <div class="description">
-          {{ stage.description }}
-        </div>
       </div>
-      {% for endroit in stage.lieu %}
-      <div class="extra">
-        <span>
-          <i class="fa fa-map-marker"> {{ endroit }}</i>
-        </span>
-      </div>
-      {% endfor %}
     </div>
+
+{% if stage.location[0].ville == "" or stage.location[0].ville == nil %}
+{% else %}
+<div class="tabs-accordions">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-12">
+        <div id="round-tab">
+          <!-- Nav tabs -->
+          <ul class="nav nav-tabs" role="tablist">
+            {% for onglet in stage.location %}
+
+              {% if onglet.ville == "Brabant Wallon" %}
+              {% assign ville_mobile = "Brabant" %}
+              {% elsif onglet.ville == "Bruxelles" %}
+              {% assign ville_mobile = "BXL" %}
+              {% else %}
+              {% assign ville_mobile = "Liège" %}
+              {% endif %}
+
+            <li class="nav-item">
+              <a class="nav-link{% if forloop.index0 == 0 %} active{% endif %}" data-toggle="tab" href="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tab"><span class="desktop">{{ onglet.ville }}</span><span class="mobile">{{ ville_mobile }}</span></a>
+            </li>
+
+            {% endfor %}
+
+          </ul>
+
+          <div class="tab-content">
+
+            {% for onglet in stage.location %}
+
+                {% if onglet.ville == "" or onglet.ville == nil %}
+                {% else %}
+                <div class="tab-pane{% if forloop.index0 == 0 %} active{% endif %}" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tabpanel">
+                  <div class="meta">
+                    {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                    {% if onglet.age == "" or onglet.age == nil %}
+                    {{ stage.location[0].age }}
+                    {% else %}
+                    {{ onglet.age }}
+                    {% endif %}
+                  </div>
+                  <hr>
+                  <div class="description">
+                    {% if onglet.description == "" or onglet.description == nil %}
+                    {{ stage.location[0].description }}
+                    {% else %}
+                    {{ onglet.description }}
+                    {% endif %}
+                  </div>
+                  {% if onglet.infos[0].info_line == "" or onglet.infos[0].info_line == nil %}
+                  {% else %}
+                    <hr>
+                    <div class="meta">
+                      {% for info in onglet.infos %}
+                        <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+                      {% endfor %}
+                    </div>
+                  {% endif %}
+                </div>
+                {% endif %}
+
+            {% endfor %}
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endif %}
+
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border-radius: 5px;">{% if page.url contains 'activites' %}Autre activité{% else %}Autre stage{% endif %}</button>
         <a class="btn btn-info-filled" href="
