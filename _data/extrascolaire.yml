@@ -1,5 +1,24 @@
 ---
 activites:
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: "/stages/lespetitsbouts/psychodecouverte.png"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre Dame de Basse-Wavre
+    - OTTIGNIES - Centre sportif des Coquerées
+    - WALHAIN - École de Tourinnes
+    age: 3-5 ans
+    description: "<p>Au programme: parcours d'agilité et d'audace, développement des
+      notions sensori-motrices (latéralité, équilibre...), jeux de coopération (parachute),
+      exercice de rythmique. Plein de chouettes activités pour le développement de
+      vos enfants.</p>"
+    infos: []
 - name: Self Défense
   categorie: Activités sportives
   img: ''
