@@ -227,8 +227,8 @@ activites:
 - name: Gymnastique PRO
   img: "/boutonsactivites/extrascolaires/gympro.png"
   inscription: ''
-  categorie: danse
-  online: true
+  categorie: Danse et Gymnastique
+  online: false
   nouveau: false
   location: []
 - name: Fun Laser
@@ -242,22 +242,22 @@ activites:
   infos:
   - L'agenda peut être aménagé en fonction des conditions météorologiques.
   inscription: ''
-  categorie: fun
-  online: true
+  categorie: Activités fun
+  online: false
   nouveau: false
   location: []
 - name: Fun Laser & VTT
   img: "/boutonsactivites/extrascolaires/funvtt.png"
   inscription: ''
-  categorie: fun
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Mini-Tennis & Multisports
   img: "/boutonsactivites/extrascolaires/minitennisetmultisports.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Escalade
@@ -280,22 +280,22 @@ activites:
 - name: Badminton
   img: "/boutonsactivites/extrascolaires/badminton.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Arts Martiaux
   img: "/boutonsactivites/extrascolaires/artsmartiaux.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Judo
   img: "/boutonsactivites/extrascolaires/judo.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Multisports
@@ -337,22 +337,22 @@ activites:
 - name: Mini-Foot ACADEMY
   img: "/boutonsactivites/extrascolaires/minifootacademy.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Mini-Foot & Multisports
   img: "/boutonsactivites/extrascolaires/minifoot.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Football
   img: "/boutonsactivites/extrascolaires/football.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Football Academy
@@ -374,8 +374,8 @@ activites:
 - name: Football - Gardien de but
   img: "/boutonsactivites/extrascolaires/footballgardiendebut.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Anglais
@@ -415,8 +415,8 @@ activites:
 - name: Cirque
   img: "/boutonsactivites/extrascolaires/cirque.png"
   inscription: ''
-  categorie: artistiques
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Diner Parfait
@@ -429,42 +429,42 @@ activites:
 - name: Parkour
   img: "/boutonsactivites/extrascolaires/parkour.png"
   inscription: ''
-  categorie: fun
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Sports Raquettes
   img: "/boutonsactivites/extrascolaires/raquettes.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Tennis
   img: "/boutonsactivites/extrascolaires/tennis.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Théâtre
   img: "/boutonsactivites/extrascolaires/theatre.png"
   inscription: ''
-  categorie: artistiques
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: VTT
   img: "/boutonsactivites/extrascolaires/vtt.png"
   inscription: ''
-  categorie: sportives
-  online: true
+  categorie: Les petits bouts
+  online: false
   nouveau: false
   location: []
 - name: Multi Aqua
   img: "/boutonsactivites/extrascolaires/multiaqua.png"
   inscription: ''
-  categorie: sportives
+  categorie: Les petits bouts
   online: false
   nouveau: false
   location: []
