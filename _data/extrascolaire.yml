@@ -3,7 +3,7 @@ activites:
 - name: Self Défense
   categorie: Activités sportives
   img: ''
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -26,8 +26,13 @@ activites:
     centres:
     - WSPI - SportCity
     age: 8-16 ans
-    description: ''
-    infos: []
+    description: "<p>Souvent commerciale et à la mode sur les réseaux sociaux en ce
+      moment, cette danse s'inspire de différentes danses africaines et y incorpore
+      des pas actuels de hip-hop.</p><p>Beaucoup dans le ressenti de la musique et
+      l'envie de bouger !</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Spectacle le 29/05/2021.
 - name: Mini Multisports
   categorie: Découvertes sportives et culturelles
   img: ''
