@@ -17,7 +17,7 @@ activites:
 - name: Affro ragga Danse
   categorie: Danse et Gymnastique
   img: ''
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -36,7 +36,7 @@ activites:
 - name: Mini Multisports
   categorie: Découvertes sportives et culturelles
   img: ''
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -51,7 +51,7 @@ activites:
 - name: Baby Foot
   categorie: Activités sportives
   img: ''
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -67,7 +67,7 @@ activites:
 - name: Fun & Multisports
   categorie: Activités sportives
   img: ''
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
