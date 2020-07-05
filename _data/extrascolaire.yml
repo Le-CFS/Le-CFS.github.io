@@ -1,5 +1,68 @@
 ---
 activites:
+- name: Danse
+  categorie: Danse et Gymnastique
+  img: "/stages/danseetgymnastique/danse.png"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    - RIXENSART - Complexe Sportif de Rixensart
+    age: 6-12 ans
+    description: "<p>Au programme: exercices de souplesse, premières bases techniques
+      et chorégraphiques de la danse Jazz. Un spectacle est prévu en fin d'année et
+      les parents y sont conviés gratuitement !</p>"
+    infos:
+    - alias: CLUB
+      info_line: 'CLUB Wavre & Rixensart : Grand spectacle de fin d''année.'
+- name: Escalade Découverte
+  categorie: Découvertes sportives et culturelles
+  img: "/stages/decouvertesportiveetculturelle/escaladedecouverte.png"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 5-9 ans
+    description: "<p>Découverte de l'escalade. Par cette initiation, l’enfant travaille
+      des facettes spécifiques de la motricité telles que l’ascension et l’équilibre.
+      Il développe des facteurs essentiels comme l’audace, la maîtrise de soi et la
+      gestion du vertige. Maximum 8 enfants/groupe.</p>"
+    infos: []
+- name: Cirque Découverte
+  categorie: Découvertes sportives et culturelles
+  img: "/stages/decouvertesportiveetculturelle/cirque.png"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 4-6 ans
+    description: "<p>Initiation aux techniques de cirque.</p>"
+    infos: []
+- name: Aqua & Gymnastique
+  categorie: Danse et Gymnastique
+  img: ''
+  online: false
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres: []
+    age: 6-12 ans
+    description: ''
+    infos: []
 - name: Psychomotricité
   categorie: Les petits bouts
   img: "/stages/lespetitsbouts/psychodecouverte.png"
@@ -131,6 +194,16 @@ activites:
   categorie: Découvertes sportives et culturelles
   online: true
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    - RIXENSART - Centre Sportif
+    age: 4-6 ans
+    description: "<p>Initiation au rythme à travers des chorégraphies adaptées.</p>"
+    infos:
+    - alias: CLUB
+      info_line: 'CLUB: spectacle organisé en fin d''année.'
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -145,16 +218,33 @@ activites:
 - name: Baby Multisports
   img: "/boutonsactivites/extrascolaires/babymultisports.png"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Découvertes sportives et culturelles
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Centre Sportif des Coquerées
+    age: 4-6 ans
+    description: "<p>Premier contact avec le sport et les jeux collectifs, par lesquels
+      votre enfant développe les différentes facettes de la motricité, le respect
+      des règles et la vie en groupe.</p>"
+    infos: []
 - name: Baby Gym
   img: "/boutonsactivites/extrascolaires/babygym.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 4-6 ans
+    description: "<p>Cours d'initiation à la gymnastique pour les plus petits. Parcours
+      d'équilibre, d'audace et premières notions de gymnastique sportive.</p>"
+    infos: []
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -192,6 +282,19 @@ activites:
   categorie: Danse et Gymnastique
   online: true
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Centre Sportif de Wavre
+    age: 6-18 ans
+    description: "<p>Découverte de l’une des danses les plus en vogue en ce moment
+      ; le hip-hop. Connu pour ses chorégraphies bien énergiques, le hip-hop apprendra
+      à vos enfants à bouger au rythme de la musique tout en laissant ses mouvements
+      spontanés et naturels.</p>"
+    infos:
+    - alias: Niveaux de groupe différents
+      info_line: '3 niveaux de groupe différents en fonction des âges : Niveau 1 =
+        6 à 13 ans ; Niveau 2 = 8 à 15 ans ; Niveau 3 = 11 à 18 ans'
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -211,6 +314,19 @@ activites:
   categorie: Danse et Gymnastique
   online: true
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - BIERGES - Le Provincial
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 6-14 ans
+    description: "<p>Les cours de GRS donnés au CFS permettent aux élèves d'apprendre
+      la technique des engins à travers des ateliers et/ou des chorégraphies sur musique.
+      Les engins sont le ballon, la corde, le cerceau, le ruban et les massues. La
+      conscience du corps, le rythme, la créativité, la souplesse et la technique
+      seront développés dans une ambiance dynamique et ludique. Enfin, les élèves
+      pourront montrer leurs progrès à l'occasion d'un spectacle organisé en fin d'année.</p>"
+    infos: []
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -234,6 +350,22 @@ activites:
   online: true
   nouveau: false
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    - RIXENSART - Complexe Sportif de Rixensart
+    - OTTIGNIES - Centre Sportif des Coquerées
+    - COURT-ST-ETIENNE - La Courtoise
+    age: 6-14 ans
+    description: "<p>Initiation et perfectionnement à la gymnastique sportive. Sol,
+      sauts, poutre, barres asymétriques... Petite démonstration en fin d'année. Les
+      enfants sont regroupés par âge/niveau.</p>"
+    infos:
+    - alias: CLUB
+      info_line: 'CLUB : Entrainement spécial dans la grande salle GSA du Blocry (LLN)
+        au moins un dimanche sur l''année - Possibilité d''affiliation à la FFG (Fédération
+        Francophone de Gymnastique) sur demande.'
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -247,9 +379,23 @@ activites:
   img: "/boutonsactivites/extrascolaires/gympro.png"
   inscription: ''
   categorie: Danse et Gymnastique
-  online: false
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    - COURT-ST-ETIENNE - La Courtoise
+    age: 8-16 ans
+    description: "<p>Ouvert aux jeunes qui désirent se perfectionner à la gymnastique
+      sportive. Sol, sauts, poutre, barres asymétriques... Ce cours se donne dans
+      un groupe restreint.</p>"
+    infos:
+    - alias: CLUB
+      info_line: 'CLUB : Entrainement spécial dans la grande salle GSA du Blocry (LLN)
+        au moins un dimanche sur l''année - Possibilité d''affiliation à la FFG (Fédération
+        Francophone de Gymnastique) sur demande.'
 - name: Fun Laser
   img: "/boutonsactivites/extrascolaires/funlaser.png"
   lieu:
@@ -275,10 +421,19 @@ activites:
 - name: Mini-Tennis & Multisports
   img: "/boutonsactivites/extrascolaires/minitennisetmultisports.png"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Activités sportives
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Centre Sportif des Coquerées
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 5-8 ans
+    description: "<p>Chaque semaine, les enfants se défouleront durant une heure de
+      tennis et une heure d'activités de multisports.</p>"
+    infos: []
 - name: Escalade
   img: "/boutonsactivites/extrascolaires/escalade.png"
   inscription: ''
@@ -338,6 +493,22 @@ activites:
   categorie: Activités sportives
   online: true
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Centre Sportif de Wavre
+    age: 4-16 ans
+    description: "<p>Le CFS propose un apprentissage et/ou perfectionnement des différentes
+      techniques du Mini-Foot. Au programme: passe, dribble, contrôle, amortie, shoot,
+      jonglage, positionnement... Une attention particulière sera portée à l'esprit
+      d'équipe, le respect des règles et des autres. Les enfants sont regroupés par
+      niveaux et par âge. Le prix comprend les cours, une assurance et un maillot
+      Mini Excel.</p>"
+    infos:
+    - alias: CLUB
+      info_line: 'CLUB : en collaboration avec le club de mini-foot Mini Excel Wavre-Limal
+        - Organisation de tournois interCFS au minimum 3x par an (décembre, janvier
+        et juin).'
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -393,16 +564,35 @@ activites:
 - name: Football - Gardien de but
   img: "/boutonsactivites/extrascolaires/footballgardiendebut.png"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Activités sportives
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - BEAUVECHAIN - Sporting Club Beauvechain
+    age: 7-21 ans
+    description: "<p>Les enfants sont regroupés par âge et par niveau. 1 entraîneur
+      pour 4 gardiens.</p>"
+    infos: []
 - name: Anglais
   img: "/boutonsactivites/extrascolaires/anglais.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
   online: true
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - BIERGES - Le Provincial
+    age: 8-12 ans
+    description: "<p>L’objectif du cours est de donner le goût des langues et la capacité
+      de s'exprimer dans de petites situations de la vie de tous les jours. L’apprentissage
+      est ludique (jeux linguistiques, expression orale, jeux de rôle, mises en situation,
+      etc.) et respectueux des capacités de chaque enfant. Ce cours convient tant
+      pour un apprentissage que pour un rattrapage (maximum 6 enfants par groupe).</p>"
+    infos: []
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -435,9 +625,16 @@ activites:
   img: "/boutonsactivites/extrascolaires/cirque.png"
   inscription: ''
   categorie: Les petits bouts
-  online: false
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WALHAIN - Ecole de Tourinnes
+    age: 5-9 ans
+    description: "<p>Initiation aux techniques de Cirques</p>"
+    infos: []
 - name: Diner Parfait
   img: "/boutonsactivites/extrascolaires/dinerparfait.png"
   inscription: ''
