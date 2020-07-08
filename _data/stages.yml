@@ -975,15 +975,15 @@ stages:
       info_line: Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de
         l’expérience pour ce stage et formé pour le respect des différentes mesures
         à suivre du protocole des stages.
-    description: "Vous souhaitez que votre ado participe à semaine hyper fun et dans
-      le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
+    description: "<p>Vous souhaitez que votre ado participe à semaine hyper fun et
+      dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
       les plus strictes mais vous ne souhaitez pas qu’il participe à des activités
-      organisées en dehors du centre ?  \nNous vous proposons un programme idéal tout
-      au long de la semaine : Orientation, Geocatching, Escape Game, Jeu dans les
-      bois, Arrow Game, New Games.  \nStage adapté aux enfants âgés de plus de 12ans
-      ou étant déjà scolarisés dans l’enseignement secondaire. En effet, afin de respecter
-      le protocole mis en place pour l’organisation des stages, les enfants devront
-      porter un masque obligatoirement tout au long de la semaine."
+      organisées en dehors du centre ? Nous vous proposons un programme idéal tout
+      au long de la semaine : Orientation, Geocaching, Escape Game (jeu de société),
+      Jeu dans les bois, Arrow Game, New Games. Stage adapté aux enfants âgés de plus
+      de 12ans ou étant déjà scolarisés dans l’enseignement secondaire. En effet,
+      afin de respecter le protocole mis en place pour l’organisation des stages,
+      les enfants devront porter un masque obligatoirement tout au long de la semaine.</p>"
 - name: Fun Paintball & VTT
   img: "/stages/activitesfun/funpaintballetvtt.png"
   inscription: ''
