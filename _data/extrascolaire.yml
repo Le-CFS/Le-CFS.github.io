@@ -58,7 +58,7 @@ activites:
 - name: Cirque Découverte
   categorie: Découvertes sportives et culturelles
   img: "/stages/decouvertesportiveetculturelle/cirque.png"
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
