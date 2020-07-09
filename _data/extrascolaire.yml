@@ -456,10 +456,10 @@ activites:
     - RIXENSART - Complexe Sportif
     age: 7 à 14 ans
     description: "<p>Une combinaison d'activités funs et ludiques :</p><ul><li><p>New
-      games</p></li></ul><ul><li><p>Bubble Soccer</p></li></ul><ul><li><p>Escalade(pour
-      Wavre)/Natation(pour Rixensart)</p></li></ul><ul><li><p>Laser Game (1 fois par
-      mois)</p></li></ul><ul><li><p>Arrow Games</p></li></ul><p>L'agenda peut être
-      aménagé en fonction des conditions météorologiques.</p>"
+      games</p></li><li><p>Bubble Soccer</p></li><li><p>Escalade(pour Wavre)/Natation(pour
+      Rixensart)</p></li><li><p>Laser Game (1 fois par mois)</p></li><li><p>Arrow
+      Games</p></li></ul><p>L'agenda peut être aménagé en fonction des conditions
+      météorologiques.</p>"
     infos: []
 - name: Fun Laser & VTT
   img: "/boutonsactivites/extrascolaires/funvtt.png"
