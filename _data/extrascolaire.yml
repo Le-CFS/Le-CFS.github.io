@@ -443,9 +443,21 @@ activites:
   - L'agenda peut être aménagé en fonction des conditions météorologiques.
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre Dame de Basse Wavre
+    - RIXENSART - Complexe Sportif
+    age: 7 à 14 ans
+    description: "<p>Une combinaison d'activités funs et ludiques :</p><ul><li><p>New
+      games</p></li></ul><ul><li><p>Bubble Soccer</p></li></ul><ul><li><p>Escalade(pour
+      Wavre)/Natation(pour Rixensart)</p></li></ul><ul><li><p>Laser Game (1 fois par
+      mois)</p></li></ul><ul><li><p>Arrow Games</p></li></ul><p>L'agenda peut être
+      aménagé en fonction des conditions météorologiques.</p>"
+    infos: []
 - name: Fun Laser & VTT
   img: "/boutonsactivites/extrascolaires/funvtt.png"
   inscription: ''
