@@ -641,10 +641,21 @@ activites:
 - name: Mini-Foot & Multisports
   img: "/boutonsactivites/extrascolaires/minifoot.png"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Activités sportives
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre Dame de Basse Wavre
+    - OTTIGNIES - Centre Sportif des Coquerées
+    age: 5 à 8 ans
+    description: "<p>1 heure de découvertes sportives (sports ballons, uni-hoc, frisbee,
+      badminton, crosse canadienne, base-ball, gymnastique, etc.) agrémentée par 1
+      heure d'entrainement de mini-football en salle : technique, tactique et petits
+      matchs.</p>"
+    infos: []
 - name: Football
   img: "/boutonsactivites/extrascolaires/football.png"
   inscription: ''
