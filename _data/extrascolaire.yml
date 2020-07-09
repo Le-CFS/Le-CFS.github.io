@@ -515,7 +515,10 @@ activites:
     centres:
     - Bierges - Le Provincial
     age: 6-12 ans
-    description: <p>Vous souhaitez que votre enfant apprenne à se défendre tout en s'amusant ? Cette activité est faite pour lui.</p><p>Les arts martiaux comportent de nombreuses disciplines. Parmi les plus connues, on retrouve, par exemple, le karaté, ju-jistu et le judo.</p>
+    description: "<p>Vous souhaitez que votre enfant apprenne à se défendre tout en
+      s'amusant ? Cette activité est faite pour lui.</p><p>Les arts martiaux comportent
+      de nombreuses disciplines. Parmi les plus connues, on retrouve, par exemple,
+      le karaté, ju-jistu et le judo.</p>"
     infos: []
 - name: Judo
   img: "/boutonsactivites/extrascolaires/judo.png"
@@ -579,10 +582,26 @@ activites:
 - name: Mini-Foot ACADEMY
   img: "/boutonsactivites/extrascolaires/minifootacademy.png"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Activités sportives
+  online: true
   nouveau: false
-  location: []
+  location:
+  - ville: Brabant Wallon
+    centres:
+    - WAVRE - Centre Sportif
+    age: 4 à 16 ans
+    description: "<p>Le <strong>CFS</strong> propose un apprentissage et/ou perfectionnement
+      des différentes techniques du Mini-Foot. Au programme: passe, dribble, contrôle,
+      amortie, shoot, jonglage, positionnement... Une attention particulière sera
+      portée à l'esprit d'équipe, le respect des règles et des autres. Les enfants
+      sont regroupés par niveaux et par âge. Le prix comprend les cours, une assurance
+      et un maillot Mini Excel.</p>"
+    infos:
+    - alias: CLUB
+      info_line: 'CLUB : en collaboration avec le club de mini-foot Mini Excel Wavre-Limal
+        - Organisation de tournois interCFS au minimum 3x par an (décembre, janvier
+        et juin).'
+    alias: Brabant Wallon
 - name: Mini-Foot & Multisports
   img: "/boutonsactivites/extrascolaires/minifoot.png"
   inscription: ''
