@@ -851,10 +851,20 @@ activites:
 - name: Sports Raquettes
   img: "/boutonsactivites/extrascolaires/raquettes.png"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Activités sportives
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Centre Sportif des Coquerées
+    age: 8 à 14 ans
+    description: "<p>Cette activité propose une découverte et perfectionnement  pour
+      les amateurs de sports raquettes. Activité idéale pour tous les amateurs de
+      raquettes ou pour les enfants qui désirent découvrir les sports de raquettes.
+      </p><p>Au programme : Paddle - Badminton - Tennis - Speedminton - Ping-pong.</p>"
+    infos: []
 - name: Tennis
   img: "/boutonsactivites/extrascolaires/tennis.png"
   inscription: ''
