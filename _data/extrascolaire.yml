@@ -488,10 +488,20 @@ activites:
 - name: Badminton
   img: "/boutonsactivites/extrascolaires/badminton.png"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Activités sportives
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Centre Sportif des Coquerées
+    - WAVRE - Collège Notre Dame de Basse Wavre
+    age: 7 à 15 ans
+    description: "<p>Apprentissage du badminton et des différents mouvements, techniques
+      et déplacements. Au programme : entrainement technique, jeu d’opposition, petits
+      matchs.</p>"
+    infos: []
 - name: Arts Martiaux
   img: "/boutonsactivites/extrascolaires/artsmartiaux.png"
   inscription: ''
