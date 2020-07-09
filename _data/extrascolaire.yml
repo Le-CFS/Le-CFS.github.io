@@ -515,16 +515,7 @@ activites:
     centres:
     - Bierges - Le Provincial
     age: 6-12 ans
-    description: <table><tbody><tr><td><strong><br>NEW ! </strong>Vous souhaitez que
-      votre enfant apprenne à se défendre tout en s'amusant ? Cette activité est faite
-      pour lui <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
-      title="laugh" alt="laugh">Les arts martiaux comportent de nombreuses disciplines.
-      Parmi les plus connues, on retrouve, par exemple, le<strong> karaté</strong>,
-      <strong>ju-jistu</strong> et le <strong>judo</strong>.</td></tr></tbody></table><p>Vous
-      souhaitez que votre enfant apprenne à se défendre tout en s'amusant ? Cette
-      activité est faite pour lui.</p><p>Les arts martiaux comportent de nombreuses
-      disciplines. Parmi les plus connues, on retrouve, par exemple, le karaté, ju-jistu
-      et le judo.</p>
+    description: <p>Vous souhaitez que votre enfant apprenne à se défendre tout en s'amusant ? Cette activité est faite pour lui.</p><p>Les arts martiaux comportent de nombreuses disciplines. Parmi les plus connues, on retrouve, par exemple, le karaté, ju-jistu et le judo.</p>
     infos: []
 - name: Judo
   img: "/boutonsactivites/extrascolaires/judo.png"
