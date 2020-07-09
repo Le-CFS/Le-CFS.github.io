@@ -613,9 +613,20 @@ activites:
   img: "/boutonsactivites/extrascolaires/football.png"
   inscription: ''
   categorie: Les petits bouts
-  online: false
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres: []
+    age: 6 à 14 ans
+    description: "<p>Une heure d’exercices (technique de dribbles - 1 ballon par enfant,
+      passes, tirs) et une heure de match (positionnement correct sur le terrain +
+      jeu). En hiver, les cours sont prévus en salle. Les enfants sont rassemblés
+      en deux groupes sur base de l'âge et du niveau.</p>"
+    infos:
+    - alias: ''
+      info_line: ''
 - name: Football Academy
   img: "/boutonsactivites/extrascolaires/footballacademy.png"
   inscription: ''
