@@ -1326,7 +1326,9 @@ stages:
     age: 7-15 ans
     description: "<p>Ce stage fait découvrir tous les aspects d’une pratique de l’équitation
       : participation à la vie du Manège de la Motte, soins aux chevaux, dressage,
-      cours théoriques et pratique équestre, promenades...</p>"
+      cours théoriques et pratique équestre, promenades...</p><p>Les enfants doivent
+      se munir d’une bombe (ou à défaut un casque de vélo) ainsi que des gants pour
+      participer aux activités.</p>"
     infos:
     - alias: Partenariat
       info_line: Stage en partenariat avec Le Manège de La Motte.
