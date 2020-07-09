@@ -883,9 +883,23 @@ activites:
   img: "/boutonsactivites/extrascolaires/vtt.png"
   inscription: ''
   categorie: Les petits bouts
-  online: false
+  online: true
   nouveau: false
-  location: []
+  location:
+  - ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre Dame de Basse Wavre
+    - OTTIGNIES - Centre Sportif des Coquerées
+    age: 8 à 15 ans
+    description: "<p>Perfectionnement  pour les passionnés de la pratique du VTT.
+      Trip dans les bois, parcours de la région !  Le jeune doit avoir son propre
+      VTT, un casque et une chambre à air de rechange</p><p>Le planning pourra être
+      adapté en fonction des conditions météorologiques (en cas de forte intempérie,
+      activité en salle). Maximum 10 enfants par groupe.</p>"
+    infos:
+    - alias: NIVEAUX
+      info_line: 'Deux niveaux : Pro ou Initiation'
+    alias: Brabant Wallon
 - name: Multi Aqua
   img: "/boutonsactivites/extrascolaires/multiaqua.png"
   inscription: ''
