@@ -488,10 +488,10 @@ activites:
     ville: Brabant Wallon
     centres:
     - OTTIGNIES - Centre Sportif des Coquerées
-    - WAVRE - Collège Notre-Dame de Basse-Wavre
     age: 5-8 ans
-    description: "<p>Chaque semaine, les enfants se défouleront durant une heure de
-      tennis et une heure d'activités de multisports.</p>"
+    description: "<p>Une activité varié pour votre enfant.</p><p>Chaque semaine, les
+      enfants se défouleront durant une heure de tennis et une heure d'activités de
+      multisports.</p>"
     infos: []
 - name: Escalade
   img: "/boutonsactivites/extrascolaires/escalade.png"
