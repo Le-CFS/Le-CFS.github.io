@@ -52,17 +52,22 @@ activites:
     infos: []
 - name: Aqua & Gymnastique
   categorie: Danse et Gymnastique
-  img: ''
-  online: false
-  nouveau: false
+  img: "/stages/activitessportives/aquafun.png"
+  online: true
+  nouveau: true
   inscription: ''
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres: []
     age: 6-12 ans
-    description: ''
-    infos: []
+    description: "<p>Une activité varié qui pourra combler votre enfant entre la natation
+      et la gymnastique.</p><p>Initiation à la gymnastique sportive. Sol, sauts, poutre,
+      barres asymétriques agrémenté d'une partie dans l'eau : techniques de nage &amp;
+      jeux nautiques.</p>"
+    infos:
+    - info_line: Pour les jeunes sachant déjà nager !
+      alias: 'Savoir nager '
 - name: Psychomotricité
   categorie: Les petits bouts
   img: "/stages/lespetitsbouts/psychodecouverte.png"
