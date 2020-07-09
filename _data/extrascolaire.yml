@@ -1,5 +1,24 @@
 ---
 activites:
+- name: Aqua & Sport
+  categorie: Activités sportives
+  img: "/stages/decouvertesportiveetculturelle/funmultietnat.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - RIXENSART - Complexe Sportif
+    age: 6-9 ans
+    description: "<p>Une activité variée qui pourra combler votre enfant entre la
+      natation et le sport.</p><p>La natation sera agrémenté par des activités de
+      multisports. Une belle année sportive assurée !</p><p>Au programme pour la natation:
+      techniques de nage &amp; jeux nautiques.</p>"
+    infos:
+    - alias: Savoir nager
+      info_line: 'Pour les jeunes déjà sachant nager! '
 - name: Danse
   categorie: Danse et Gymnastique
   img: "/stages/danseetgymnastique/danse.png"
