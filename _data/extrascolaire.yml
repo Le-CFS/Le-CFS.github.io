@@ -1,5 +1,23 @@
 ---
 activites:
+- name: Remédiation
+  categorie: Activités artistiques et loisirs
+  img: "/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - BIERGES - Le Provincial
+    age: 6 à 12 ans
+    description: "<p>Cette activité de remédiation propose aux enfants de revoir les
+      matières vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.</p><p>Les
+      activités proposées se focalisent sur les mathématiques et la langue française.
+      </p><p>Les enfants doivent venir avec un matériel scolaire de base (trousse,
+      latte, colle, ciseaux, crayons de couleur et magicolors).</p>"
+    infos: []
 - name: Aqua & Sport
   categorie: Activités sportives
   img: "/stages/decouvertesportiveetculturelle/funmultietnat.png"
