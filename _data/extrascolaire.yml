@@ -745,6 +745,17 @@ activites:
   categorie: Activités artistiques et loisirs
   online: true
   location:
+  - alias: BRABANT WALLON
+    ville: Brabant Wallon
+    centres:
+    - BIERGES - Le Provincial
+    age: 8 à 12 ans
+    description: "<p>L’objectif du cours est de donner le goût des langues et la capacité
+      de s'exprimer dans de petites situations de la vie de tous les jours. L’apprentissage
+      est ludique (jeux linguistiques, expression orale, jeux de rôle, mises en situation,
+      etc.) et respectueux des capacités de chaque enfant. Ce cours convient tant
+      pour un apprentissage que pour un rattrapage (maximum 6 enfants par groupe).</p>"
+    infos: []
   - alias: Bruxelles
     ville: Bruxelles
     centres:
