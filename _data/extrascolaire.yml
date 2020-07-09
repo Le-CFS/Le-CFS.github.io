@@ -429,7 +429,8 @@ activites:
     - alias: CLUB
       info_line: 'CLUB : Entrainement spécial dans la grande salle GSA du Blocry (LLN)
         au moins un dimanche sur l''année - Possibilité d''affiliation à la FFG (Fédération
-        Francophone de Gymnastique) sur demande.'
+        Francophone de Gymnastique) sur demande. Possibilité de prendre une carte
+        de 10 séances à la Courtoise.'
 - name: Fun Laser
   img: "/boutonsactivites/extrascolaires/funlaser.png"
   lieu:
