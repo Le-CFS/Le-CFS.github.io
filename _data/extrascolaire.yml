@@ -2,7 +2,7 @@
 activites:
 - name: Remédiation & Jeux
   categorie: Activités artistiques et loisirs
-  img: ''
+  img: "/anniversaires/activites/timesup.png"
   online: true
   nouveau: true
   inscription: ''
