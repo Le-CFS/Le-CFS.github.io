@@ -697,7 +697,12 @@ activites:
     centres:
     - WALHAIN - Ecole de Tourinnes
     age: 5-9 ans
-    description: "<p>Initiation aux techniques de Cirques</p>"
+    description: "<p>Initiation aux techniques de Cirques !</p><p>Les enfants sont
+      amenés à découvrir la variété des arts du cirque au travers de différents jeux
+      : apprendre à jongler avec toutes sortes d'objets, s’amuser entre équilibre
+      et déséquilibre sur une boule, un rola bola ou encore un câble, construire des
+      pyramides humaines ensemble et s’essayer au clown de théâtre ! </p><p>Une année
+      pleine de découvertes, de rires et de bons souvenirs !</p>"
     infos: []
 - name: Diner Parfait
   img: "/boutonsactivites/extrascolaires/dinerparfait.png"
