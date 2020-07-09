@@ -796,10 +796,20 @@ activites:
 - name: Parkour
   img: "/boutonsactivites/extrascolaires/parkour.png"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Activités fun
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre Dame de Basse Wavre
+    age: 8 à 16 ans
+    description: "<p>Cette discipline utilise le corps pour seul outil. Face à des
+      obstacles naturels, ce sont les habilités motrices qui servent de support à
+      l'activité. Courses, sauts, grimpes, exercices d'équilibre et de suspension
+      sont au programme . L'activité se déroulera en salle et en milieu naturel.</p>"
+    infos: []
 - name: Sports Raquettes
   img: "/boutonsactivites/extrascolaires/raquettes.png"
   inscription: ''
