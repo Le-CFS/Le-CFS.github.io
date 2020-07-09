@@ -553,8 +553,7 @@ activites:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    centres:
-    - RIXENSART - Centre Sportif
+    centres: []
     age: 5 à 15 ans
     description: "<p>Véritable sport éducatif, le Judo permet à chacun de devenir
       plus adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles,
