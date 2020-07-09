@@ -461,10 +461,19 @@ activites:
 - name: Fun Laser & VTT
   img: "/boutonsactivites/extrascolaires/funvtt.png"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Activités fun
+  online: true
   nouveau: false
-  location: []
+  location:
+  - alias: BRABANT WALLON
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Centre Sportif des Coquerées
+    age: 8 à 15 ans
+    description: "<p>Une combinaison d'activités funs et ludiques :</p><ul><li><p>Vtt
+      (3 fois par mois)</p></li><li><p>Laser Game (1 fois par mois)</p></li></ul><p>L'agenda
+      peut être aménagé en fonction des conditions météorologiques.</p>"
+    infos: []
 - name: Mini-Tennis & Multisports
   img: "/boutonsactivites/extrascolaires/minitennisetmultisports.png"
   inscription: ''
