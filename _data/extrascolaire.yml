@@ -485,7 +485,7 @@ activites:
 - name: Arts Martiaux
   img: "/boutonsactivites/extrascolaires/artsmartiaux.png"
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Activités sportives
   online: true
   nouveau: true
   location:
