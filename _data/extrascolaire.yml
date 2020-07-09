@@ -635,7 +635,10 @@ activites:
     age: 7-21 ans
     description: "<p>Les enfants sont regroupés par âge et par niveau. 1 entraîneur
       pour 4 gardiens.</p>"
-    infos: []
+    infos:
+    - alias: Regroupés par âge/niveau
+      info_line: Les enfants sont regroupés par âge et par niveau. 1 entraîneur pour
+        4 gardiens.
 - name: Anglais
   img: "/boutonsactivites/extrascolaires/anglais.png"
   inscription: ''
