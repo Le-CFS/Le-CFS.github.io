@@ -591,19 +591,15 @@ activites:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres:
-    - WAVRE - Centre Sportif de Wavre
-    age: 4-16 ans
-    description: "<p>Le CFS propose un apprentissage et/ou perfectionnement des différentes
-      techniques du Mini-Foot. Au programme: passe, dribble, contrôle, amortie, shoot,
-      jonglage, positionnement... Une attention particulière sera portée à l'esprit
-      d'équipe, le respect des règles et des autres. Les enfants sont regroupés par
-      niveaux et par âge. Le prix comprend les cours, une assurance et un maillot
-      Mini Excel.</p>"
+    - RIXENSART - Complexe Sportif
+    - OTTIGNIES - Centre Sportif
+    age: 6-12 ans
+    description: "<p>Sport incontournable pour tous les futurs footballeurs qui souhaitent
+      maîtriser le ballon.</p><p>Initiation au mini-foot (aspect technique, tactique
+      et petits matchs).</p>"
     infos:
-    - alias: CLUB
-      info_line: 'CLUB : en collaboration avec le club de mini-foot Mini Excel Wavre-Limal
-        - Organisation de tournois interCFS au minimum 3x par an (décembre, janvier
-        et juin).'
+    - alias: TOURNOI
+      info_line: Un tournoi est prévu le 2 juin 2021!
   - alias: Bruxelles
     ville: Bruxelles
     centres:
