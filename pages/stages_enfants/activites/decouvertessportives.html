@@ -11,4 +11,16 @@ menu: stages
 keywords: CFS, C.F.S, lecfs, stages enfants bruxelles, stage liege, stage bruxelles, stages vacances bruxelles, stage sportif bruxelles, stage jette, stages ete, stage sportif, stage brabant wallon
 tagline: 
 ---
-{% include pages/stages_enfants/activites/decouvertessportives.html %}
+{% include annonces/stages.html %}
+
+<p>Les enfants découvrent de nouvelles disciplines. Ils dépensent leur énergie en pratiquant des sports diversifiés mobilisant différentes capacités et apprennent notamment à jouer en équipe. Cette diversité leur permet de trouver leur voie, de s’épanouir et de se diriger dans la pratique d’un sport en particulier.</p>
+
+<div class="row">
+	{% for stage in site.data.stages.stages %}
+  {% if stage.online and stage.categorie == 'Découvertes sportives et culturelles' %}
+
+{% include coleen/liste_cartes.html %}
+
+  {% endif %}
+	{% endfor %}
+</div>
