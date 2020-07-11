@@ -883,7 +883,7 @@ activites:
 - name: VTT
   img: "/boutonsactivites/extrascolaires/vtt.png"
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Activités sportives
   online: true
   nouveau: false
   location:
