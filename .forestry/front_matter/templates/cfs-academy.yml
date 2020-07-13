@@ -1,4 +1,29 @@
 ---
 label: CFS Academy
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Titre
+- name: banner
+  type: file
+  config:
+    maxSize: 64
+  label: Banner
+  description: La bannière de la page.
+- name: avantages
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Avantages proposés
+  description: La liste des avantages proposés par le CFS.
+- name: link
+  type: text
+  config:
+    required: false
+  label: Lien vers l'inscription
+  description: Si vide, le lien sera vers l'extrascolaire.
