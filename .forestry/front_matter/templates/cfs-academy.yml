@@ -2,6 +2,13 @@
 label: CFS Academy
 hide_body: true
 fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: page
 - name: title
   type: text
   config:
@@ -27,3 +34,13 @@ fields:
     required: false
   label: Lien vers l'inscription
   description: Si vide, le lien sera vers l'extrascolaire.
+- name: seo
+  type: field_group
+  config: {}
+  fields:
+  - name: seo
+    type: include
+    config: {}
+    template: seo
+    label: SEO
+  label: SEO
