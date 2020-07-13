@@ -14,6 +14,11 @@ fields:
   config:
     required: true
   label: Titre
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: URL de la page
 - name: banner
   type: file
   config:
@@ -32,7 +37,7 @@ fields:
   type: text
   config:
     required: false
-  label: Lien vers l'inscription
+  label: Lien du bouton d'inscription
   description: Si vide, le lien sera vers l'extrascolaire.
 - name: seo
   type: field_group
