@@ -49,3 +49,5 @@ fields:
     template: seo
     label: SEO
   label: SEO
+pages:
+- pages/activites_enfants/academy/tennis.html
