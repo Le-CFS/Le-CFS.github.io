@@ -13,7 +13,7 @@ layout: ''
 title: Inscription extrascolaires ouvertes
 banner: ''
 infos:
-  date: 2020-07-19
+  date: 2020-07-20
   teaser: Vous pouvez inscrire vos enfants :-)
 
 ---
