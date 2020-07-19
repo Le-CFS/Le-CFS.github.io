@@ -50,4 +50,5 @@ fields:
     label: SEO
   label: SEO
 pages:
+- pages/activites_enfants/academy/robotique.html
 - pages/activites_enfants/academy/tennis.html
