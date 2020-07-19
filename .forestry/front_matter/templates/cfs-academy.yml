@@ -50,6 +50,7 @@ fields:
     label: SEO
   label: SEO
 pages:
+- pages/activites_enfants/academy/danse.html
 - pages/activites_enfants/academy/gympro.html
 - pages/activites_enfants/academy/judo.html
 - pages/activites_enfants/academy/minifoot.html
