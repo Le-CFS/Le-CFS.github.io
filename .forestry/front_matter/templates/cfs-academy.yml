@@ -8,7 +8,7 @@ fields:
     required: false
   label: layout
   hidden: true
-  default: page
+  default: academy
 - name: title
   type: text
   config:
@@ -49,3 +49,11 @@ fields:
     template: seo
     label: SEO
   label: SEO
+pages:
+- pages/activites_enfants/academy/danse.html
+- pages/activites_enfants/academy/gympro.html
+- pages/activites_enfants/academy/judo.html
+- pages/activites_enfants/academy/minifoot.html
+- pages/activites_enfants/academy/natation.html
+- pages/activites_enfants/academy/robotique.html
+- pages/activites_enfants/academy/tennis.html
