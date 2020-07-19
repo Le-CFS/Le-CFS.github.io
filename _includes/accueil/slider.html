@@ -18,7 +18,7 @@
               {% if slide.src == "" or slide.src == nil %}
               {% else %}
                 <div class="carousel-item{% if forloop.first %} active{% endif %}">
-                  <a href="{{ slider.href }}" target="_blank"><img src="{{ BASE_PATH }}{{slide.src}}" class="img-fluid" alt="{{ slide.titre }}"></a>
+                  <a href="{{ slide.href }}" target="_blank"><img src="{{ BASE_PATH }}{{slide.src}}" class="img-fluid" alt="{{ slide.titre }}"></a>
                 </div>
               {% endif %}
             {% endfor %}
