@@ -10,11 +10,11 @@ seo:
   description: ''
   img: ''
 layout: ''
-title: Inscription extrascolaires ouvertes
+title: Prépare ta rentrée 2020-2021 !
 banner: ''
 infos:
-  date: 2020-07-20
-  teaser: Vous pouvez inscrire vos enfants :-)
+  date: 2020-07-21
+  teaser: Les inscriptions sont ouvertes !
 
 ---
 Chers Parents, Chers enfants,
