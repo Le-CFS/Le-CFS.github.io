@@ -13,7 +13,8 @@
         {% endif %}
 
         <div class="col-md-{% if page.menu %}9{% else %}12{% endif %}">
-          {% if page.banner %}
+          {% if page.banner == nil or page.banner == '' %}
+          {% else %}
             <center>
               <img src="{{ BASE_PATH }}{{ page.banner }}" alt="{{ page.title }}" style="width: 90%; border-radius: 10px;"></img>
             </center>
