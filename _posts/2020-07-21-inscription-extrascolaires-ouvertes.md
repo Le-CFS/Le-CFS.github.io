@@ -1,4 +1,5 @@
 ---
+layout: post
 tags:
 - extrascolaire
 - septembre
@@ -9,9 +10,8 @@ seo:
   keywords: []
   description: ''
   img: ''
-layout: 'post'
 title: Prépare ta rentrée 2020-2021 !
-banner: ''
+banner: 
 infos:
   date: 2020-07-21
   teaser: Les inscriptions sont ouvertes !
