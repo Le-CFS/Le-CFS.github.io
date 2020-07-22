@@ -9,7 +9,7 @@ seo:
   keywords: []
   description: ''
   img: ''
-layout: ''
+layout: 'post'
 title: Prépare ta rentrée 2020-2021 !
 banner: ''
 infos:
