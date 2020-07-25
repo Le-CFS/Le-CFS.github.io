@@ -34,3 +34,5 @@ fields:
     template: seo
     label: seo
   label: seo
+pages:
+- pages/activites_enfants/natation/psychoaqua.html
