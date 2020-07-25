@@ -109,6 +109,7 @@
                     {{ onglet.description }}
                     {% endif %}
                   </div>
+                  
                   {% if onglet.infos[0].info_line == "" or onglet.infos[0].info_line == nil %}
                   {% else %}
                     <hr>
@@ -118,6 +119,17 @@
                       {% endfor %}
                     </div>
                   {% endif %}
+                  
+                  {% if onglet.centres[0] == "" or onglet.centres[0] == nil %}
+                  {% else %}
+                    <hr>
+                    <div class="meta">
+                      {% for centre in onglet.centres %}
+                        <i class="fa fa-map-marker"> {{ centre }}</i><br/>
+                      {% endfor %}
+                    </div>
+                  {% endif %}
+                  
                 </div>
                 {% endif %}
 
