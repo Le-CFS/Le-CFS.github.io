@@ -35,5 +35,7 @@ fields:
     label: seo
   label: seo
 pages:
+- pages/activites_enfants/natation/coursparticuliers.html
+- pages/activites_enfants/natation/courstransition.html
 - pages/activites_enfants/natation/miniclub.html
 - pages/activites_enfants/natation/psychoaqua.html
