@@ -1,170 +1,171 @@
-# Boutons MyCFS et Inscription rapide
+---
 mycfs:
   href: https://www12.iclub.be/myiclub.asp?ClubID=559&LG=FR
   icone: fa fa-sign-in
   autre_page: oui
   texte_ordi: Se connecter - My CFS
   texte_mobile: My CFS
-
 inscription:
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
   icone: fa fa-edit
   autre_page: oui
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
-
-# Slider de la page d'accueil
 slider:
-  # L'image sur laquelle on arrive quand on charge la page
-  - titre: Stages d'été
-    src: /assets/images/slider/accueil/stagesete.jpg
-    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
-  - titre: Extrascolaire 2020-2021
-    src: /assets/images/slider/accueil/extrascolaires2020-2021.png
-    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
-
+- titre: Extrascolaire 2020-2021
+  src: "/assets/images/slider/accueil/extrascolaires2020-2021.png"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
+- titre: Stages d'été
+  src: "/assets/images/slider/accueil/stagesete.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
 selection:
-  # Nom de la catégorie
-  nom: "Sélection du CFS"
+  nom: Sélection du CFS
   images:
-    - titre: "Stages Été"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/stages/stageete.jpg
-      href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
-      autre_page: oui
-      bouton: Inscription
-      couleur_bouton: 
-    - titre: "Protocoles stages d'été"
-      titre_img: 
-      titre_overlay: 
-      src: https://cdn.discordapp.com/attachments/656057943346642945/724753859112730654/protocolestagesete2020.jpg
-      href: /stages/protocole/
-      autre_page:
-      bouton: Plus d'info
-      couleur_bouton: 
-    - titre: "Aqua Biking"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/boutonscoursadultes/aquabiking.png
-      href: /cours_adultes/aquabike/
-      autre_page:
-      bouton: Inscription
-      couleur_bouton: 
-    - titre: "École de natation"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/boutonsactivites/ecoledenatation.png
-      href: /activites/ecole_de_natation/
-      autre_page: 
-      bouton: Plus d'info
-      couleur_bouton: 
-
+  - titre: Stages Été
+    titre_img: 
+    titre_overlay: 
+    src: "/assets/images/stages/stageete.jpg"
+    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
+    autre_page: oui
+    bouton: Inscription
+    couleur_bouton: 
+  - titre: Protocoles stages d'été
+    titre_img: 
+    titre_overlay: 
+    src: https://cdn.discordapp.com/attachments/656057943346642945/724753859112730654/protocolestagesete2020.jpg
+    href: "/stages/protocole/"
+    autre_page: 
+    bouton: Plus d'info
+    couleur_bouton: 
+  - titre: Aqua Biking
+    titre_img: 
+    titre_overlay: 
+    src: "/assets/images/boutonscoursadultes/aquabiking.png"
+    href: "/cours_adultes/aquabike/"
+    autre_page: 
+    bouton: Inscription
+    couleur_bouton: 
+  - titre: École de natation
+    titre_img: 
+    titre_overlay: 
+    src: "/assets/images/boutonsactivites/ecoledenatation.png"
+    href: "/activites/ecole_de_natation/"
+    autre_page: 
+    bouton: Plus d'info
+    couleur_bouton: 
 slogan: Le CFS, à votre service depuis 1981.
-
 une:
-  # Nom de la catégorie
-  nom: "Stages à la Une"
+  nom: Stages à la Une
   images:
-    - name: "Bulle ado"
-      titre_overlay: 
-      img: "/stages/bulleado.jpg"
-      bouton: Plus d'info
-      nouveau: oui
-      infos: "Tous les déplacements se font en autocar.<br/>
-              Il est possible de déposer votre enfant sur le chemin si vous donnez  une autorisation de sortie.<br/>
-              Toutes les activités n'auront pas lieu chaque semaine à l'exception de Profondville.
-              "
-      description: "Afin de laisser place au suspens et de permettre à chaque moniteur de créer un stage original et varié, 
-                      le programme sera adapté en fonction de son organisation et de l'âge moyen du groupe.
-                      Parmi les différentes activités possibles: Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, 
-                      Profondeville (bouées tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois des rêves,
-                      Visite de musées/Culturels, Patinoire à Leuven et découverte de la ville, journée à la mer...
-                      et éventuellement d'autres activités en fonction des initiatives de nos moniteurs."
-      lieu: "Brabant Wallon"
-      age: 12-16 ans
-    
-    - name: "Évasion"
-      titre_overlay: 
-      img: "/stages/evasionalaune.jpg"
-      bouton: Plus d'info
-      nouveau: oui
-      infos: "
-            Les déplacements se font en transports en commun ou en car.<br/>
-            Pour Koezio: taille minimum 1,40 m.<br/>
-            Port du masque obligatoire. Se munir également d’un gel hydroalcoolique. Nous insistons sur ces différentes mesures pour la bonne organisation du stage.<br/>
-            Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de l’expérience pour ce stage et formé pour le respect des différentes mesures à suivre du protocole des stages.
-            " 
-      description: "
-            Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne à l’une de nos activités phares en collaboration avec nos différents partenaires et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires les plus strictes ?<br/>
-            Nous te proposons un programme idéal tout au long de la semaine : <b>New games, Koezio, escalade et Parc Aventure</b> !<br/>
-            Stage adapté aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement secondaire. En effet, afin de respecter le protocole mis en place pour l’organisation des stages, les enfants devront porter un masque obligatoirement tout au long de la semaine. (Si vous ne souhaitez pas que votre ado effectue des sorties en dehors du centre, un stage est spécialement prévu pour lui ! Nous vous invitons alors à sélectionner le stage « Fun Ados ».
-            <hr>
-            Attention: le programme change pour les semaines plus courtes.
-         "
-      lieu: "Bruxelles - Brabant Wallon"
-      age: Bruxelles 10-14 ans / Brabant 10-16 ans
-
-    - name: "Remédiation & Sport"
-      titre_overlay: "Remédiation & Sport"
-      img: "/stages/une_remediationetsport.jpg"
-      bouton: Plus d'info
-      nouveau: 
-      infos: "Les enfants doivent venir avec un matériel scolaire de base (trousse, latte, colle, ciseaux, crayons de couleur et magicolors).<br/>
-              Les enfants restent avec le même moniteur et ont leur propre local toute la semaine."
-      description: "Durant ce stage les enfants ont l’occasion de revoir les matières vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.<br/>
-                    Les activités proposées se focalisent sur les mathématiques et la langue française. Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème / 1ère H. – 2ème H. ) pour la demi-journée. L’autre partie de la journée sera consacrée à des activités sportives variées et à des jeux en extérieurs.<br/>
-                    "
-      lieu: "Bruxelles - Brabant Wallon"
-      age: 6-14 ans
-    
-    - name: "Robotique"
-      titre_overlay: 
-      img: "/stages/robotique2.png"
-      bouton: Plus d'info
-      nouveau: oui
-      infos: 
-      description: "Le monde de demain sera modulé avec les nouvelles technologies et l’informatique. Afin de donner aux enfants de nouvelles clefs de réussite, nous allons via 5 sessions d’exercices développer des processus de réflexion pour formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation de robots et présentation du travail effectué). Afin qu’ils ne passent pas leur journée devant les écrans, nous passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du Centre."
-      lieu: "Brabant Wallon"
-      age: 8-13 ans
-
+  - name: Bulle ado
+    titre_overlay: 
+    img: "/stages/bulleado.jpg"
+    bouton: Plus d'info
+    nouveau: oui
+    infos: 'Tous les déplacements se font en autocar.<br/> Il est possible de déposer
+      votre enfant sur le chemin si vous donnez  une autorisation de sortie.<br/>
+      Toutes les activités n''auront pas lieu chaque semaine à l''exception de Profondville. '
+    description: 'Afin de laisser place au suspens et de permettre à chaque moniteur
+      de créer un stage original et varié, le programme sera adapté en fonction de
+      son organisation et de l''âge moyen du groupe. Parmi les différentes activités
+      possibles: Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, Profondeville
+      (bouées tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois
+      des rêves, Visite de musées/Culturels, Patinoire à Leuven et découverte de la
+      ville, journée à la mer... et éventuellement d''autres activités en fonction
+      des initiatives de nos moniteurs.'
+    lieu: Brabant Wallon
+    age: 12-16 ans
+  - name: Évasion
+    titre_overlay: 
+    img: "/stages/evasionalaune.jpg"
+    bouton: Plus d'info
+    nouveau: oui
+    infos: " Les déplacements se font en transports en commun ou en car.<br/> Pour
+      Koezio: taille minimum 1,40 m.<br/> Port du masque obligatoire. Se munir également
+      d’un gel hydroalcoolique. Nous insistons sur ces différentes mesures pour la
+      bonne organisation du stage.<br/> Moniteur diplômé dans l’enseignement ou l’animation,
+      ayant déjà de l’expérience pour ce stage et formé pour le respect des différentes
+      mesures à suivre du protocole des stages. "
+    description: " Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne
+      à l’une de nos activités phares en collaboration avec nos différents partenaires
+      et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
+      les plus strictes ?<br/> Nous te proposons un programme idéal tout au long de
+      la semaine : <b>New games, Koezio, escalade et Parc Aventure</b> !<br/> Stage
+      adapté aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement
+      secondaire. En effet, afin de respecter le protocole mis en place pour l’organisation
+      des stages, les enfants devront porter un masque obligatoirement tout au long
+      de la semaine. (Si vous ne souhaitez pas que votre ado effectue des sorties
+      en dehors du centre, un stage est spécialement prévu pour lui ! Nous vous invitons
+      alors à sélectionner le stage « Fun Ados ». <hr> Attention: le programme change
+      pour les semaines plus courtes. "
+    lieu: Bruxelles - Brabant Wallon
+    age: Bruxelles 10-14 ans / Brabant 10-16 ans
+  - name: Remédiation & Sport
+    titre_overlay: Remédiation & Sport
+    img: "/stages/une_remediationetsport.jpg"
+    bouton: Plus d'info
+    nouveau: 
+    infos: Les enfants doivent venir avec un matériel scolaire de base (trousse, latte,
+      colle, ciseaux, crayons de couleur et magicolors).<br/> Les enfants restent
+      avec le même moniteur et ont leur propre local toute la semaine.
+    description: 'Durant ce stage les enfants ont l’occasion de revoir les matières
+      vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.<br/>
+      Les activités proposées se focalisent sur les mathématiques et la langue française.
+      Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème
+      / 1ère H. – 2ème H. ) pour la demi-journée. L’autre partie de la journée sera
+      consacrée à des activités sportives variées et à des jeux en extérieurs.<br/> '
+    lieu: Bruxelles - Brabant Wallon
+    age: 6-14 ans
+  - name: Robotique
+    titre_overlay: 
+    img: "/stages/robotique2.png"
+    bouton: Plus d'info
+    nouveau: oui
+    infos: 
+    description: Le monde de demain sera modulé avec les nouvelles technologies et
+      l’informatique. Afin de donner aux enfants de nouvelles clefs de réussite, nous
+      allons via 5 sessions d’exercices développer des processus de réflexion pour
+      formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation
+      de robots et présentation du travail effectué). Afin qu’ils ne passent pas leur
+      journée devant les écrans, nous passeront une demi-journée à d’autres activités
+      et profiteront des infrastructures sportives du Centre.
+    lieu: Brabant Wallon
+    age: 8-13 ans
 banner:
-  src: /assets/images/slider/accueil/anniversaire.png
+  src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
-
 activites:
-  # Nom de la catégorie
-  nom: "Nos activités"
+  nom: Nos activités
   images:
-    - titre:  "Stages Enfants"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/stages/stagesenfants.png
-      href: /stages
-      autre_page:
-      bouton: Inscription
-      couleur_bouton: 
-    - titre: "Activités extrascolaires"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/boutonsactivites/extrascolaires.png
-      href: /activites/extrascolaire
-      autre_page:
-      bouton: 
-      couleur_bouton: 
-    - titre: "Cours adultes"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/boutonscoursadultes/coursadultes.png
-      href: /cours_adultes
-      autre_page:
-      bouton: 
-      couleur_bouton: 
-    - titre: "Évènements"
-      titre_img: 
-      titre_overlay: 
-      src: /assets/images/event/event.png
-      href: /events
-      autre_page:
-      bouton: 
-      couleur_bouton: 
+  - titre: Stages Enfants
+    titre_img: 
+    titre_overlay: 
+    src: "/assets/images/stages/stagesenfants.png"
+    href: "/stages"
+    autre_page: 
+    bouton: Inscription
+    couleur_bouton: 
+  - titre: Activités extrascolaires
+    titre_img: 
+    titre_overlay: 
+    src: "/assets/images/boutonsactivites/extrascolaires.png"
+    href: "/activites/extrascolaire"
+    autre_page: 
+    bouton: 
+    couleur_bouton: 
+  - titre: Cours adultes
+    titre_img: 
+    titre_overlay: 
+    src: "/assets/images/boutonscoursadultes/coursadultes.png"
+    href: "/cours_adultes"
+    autre_page: 
+    bouton: 
+    couleur_bouton: 
+  - titre: Évènements
+    titre_img: 
+    titre_overlay: 
+    src: "/assets/images/event/event.png"
+    href: "/events"
+    autre_page: 
+    bouton: 
+    couleur_bouton: 
