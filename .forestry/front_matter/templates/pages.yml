@@ -35,6 +35,8 @@ fields:
     label: seo
   label: seo
 pages:
+- pages/activites_enfants/natation/bebesnageurs.html
+- pages/activites_enfants/natation/courscollectifs.html
 - pages/activites_enfants/natation/coursparticuliers.html
 - pages/activites_enfants/natation/courstransition.html
 - pages/activites_enfants/natation/miniclub.html
