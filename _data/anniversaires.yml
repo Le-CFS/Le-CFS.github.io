@@ -43,7 +43,7 @@ anniversaires:
         categorie: domicile fun
         online: oui
         nouveau:
-        anniversaire_une: 
+        anniversaire_une: oui
     -
         name: "BMX-Skate-Trottinette"
         age: 7 +
@@ -99,7 +99,7 @@ anniversaires:
         categorie: fun
         online: oui
         nouveau:
-        anniversaire_une: 
+        anniversaire_une: oui
     -
         name: "Football"
         age: 6 +
@@ -211,7 +211,7 @@ anniversaires:
         categorie: fun
         online: oui
         nouveau: 
-        anniversaire_une:
+        anniversaire_une: oui
     -
         name: "Swiss Jump"
         age: 7 +
@@ -226,20 +226,6 @@ anniversaires:
         online: oui
         nouveau:
         anniversaire_une:
-    -
-        name: "Aventure Trophy"
-        age: 8-14 ans
-        img: "/anniversaires/activites/aventuretrophy.png"
-        lieu: "Nil-Saint-Vincent à la « Carrière des trois fontaines »"
-        href: 
-        prix: 450 €
-        description: "Challenge par équipe : Chaque équipe doit s’orienter, trouver des énigmes et des postes dans lesquels des épreuves seront proposées."
-        infos: "25€/enfant supplémentaire"
-        bouton: 
-        categorie: fun
-        online: oui
-        nouveau: oui
-        anniversaire_une: oui 
     -
         name: "Bubble Soccer"
         age: 8 +
@@ -268,34 +254,7 @@ anniversaires:
         online: oui
         nouveau:
         anniversaire_une: 
-    -
-        name: "Nautifun"
-        age: 10 +
-        img: "/anniversaires/activites/nautifun.png"
-        lieu: "Les Lacs de l’Eau d’Heure"
-        href: 
-        prix: 520 €
-        description: "Initiation au ski nautique, au Wakeboard ou à la bouée tractée."
-        infos: "Transport non compris, possible sur demande. Les combinaisons sont fournies."
-        bouton: 
-        categorie: fun
-        online: oui
-        nouveau: oui
-        anniversaire_une: oui   
-    -
-        name: "Time’s Up"
-        age: 10 +
-        img: "/anniversaires/activites/timesup.png"
-        lieu: A domicile & dans les centres
-        href: 
-        prix: 225 €
-        description: "Découvre avec tes amis le jeu Time's up. C'est un jeu dans lequel vous devrez deviner et faire deviner l'identité de 836 personnalités variées (réelles ou fictives). Il faudra être malin et rapide et ne pas avoir peur de vous marrer ! Le jeu se joue en équipes et se déroule en trois manches."
-        infos:
-        bouton: 
-        categorie: domicile fun 
-        online: oui
-        nouveau: oui
-        anniversaire_une: oui     
+   
     -
         name: "Piscine Party"
         age: 6 +
