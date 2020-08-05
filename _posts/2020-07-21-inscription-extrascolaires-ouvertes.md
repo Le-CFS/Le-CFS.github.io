@@ -1,5 +1,6 @@
 ---
 layout: post
+menu: cfs
 tags:
 - extrascolaire
 - septembre

@@ -1,5 +1,6 @@
 ---
 layout: post
+menu: cfs
 infos:
   date: 0020-03-13
   teaser: Information de dernière minute.

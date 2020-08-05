@@ -1,5 +1,6 @@
 ---
 layout: post
+menu: cfs
 title: SUPER NOUVELLE POUR VOS ENFANTS !
 banner: ''
 infos:

@@ -1,5 +1,6 @@
 ---
 layout: post
+menu: cfs
 infos:
   date: 0020-03-27
   teaser: Nouvelles mesures du gouvernement.

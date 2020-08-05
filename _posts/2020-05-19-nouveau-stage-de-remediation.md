@@ -1,5 +1,6 @@
 ---
 layout: post
+menu: cfs
 title: Nouveau stage de remédiation
 infos:
   date: 0020-05-19

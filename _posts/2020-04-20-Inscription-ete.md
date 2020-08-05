@@ -1,5 +1,6 @@
 ---
 layout: post
+menu: cfs
 infos:
   date: 0020-04-20
   teaser: Inscription aux stages d'été
