@@ -33,7 +33,7 @@ Vous avez dansé durant tout l’été lors de nos stages ? Vous avez aimé ?
 
 Alors continuez durant cette nouvelle année scolaire !
 
-Les inscriptions pour nos cours de danse du mercredi après-midi sont ouvertes et disponibles à plusieurs endroits : Wavre, Rixensart, Jette.
+Les inscriptions pour nos cours de danse du mercredi après-midi sont ouvertes et disponibles à plusieurs endroits : Wavre, Rixensart, Jette, Woluwé-Saint-Pierre et Woluwé-Saint-Lambert .
 
 Nous proposons des cours que ce soit pour les débutants ou les avancés ! Vous trouverez l’horaire précis sur le [lien des activités parascolaires]().
 
