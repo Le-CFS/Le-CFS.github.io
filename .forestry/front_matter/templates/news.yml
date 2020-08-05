@@ -7,6 +7,13 @@ fields:
   label: layout
   hidden: true
   default: post
+- name: menu
+  type: text
+  config:
+    required: false
+  label: menu
+  default: cfs
+  hidden: true
 - type: text
   name: title
   label: Titre de la news
