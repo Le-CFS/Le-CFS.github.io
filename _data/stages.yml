@@ -778,7 +778,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 8-16 ans
+    age: 8-12 ans
     description: 'Ce stage propose un perfectionnement pour les enfants qui pratiquent
       de la gymnastique durant l''année. Les enfants participant à ce stage doivent
       justifier un minimum d''expérience sur les 4 agrès : poutre, barres asymétriques,
@@ -1540,7 +1540,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 10-16 ans
+    age: 10-12 ans
     description: "<p>Cette discipline utilise le corps pour seul outil. Face à des
       obstacles naturels, ce sont les habilités motrices qui servent de support à
       l'activité. Courses, sauts, grimpes, exercices d'équilibre et de suspension
