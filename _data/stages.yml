@@ -1034,7 +1034,7 @@ stages:
   img: "/stages/activitesfun/kartingetfun.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1079,7 +1079,7 @@ stages:
     - alias: Fair-play
       info_line: 'Fair-play et esprit de coopération sont requis pour ce stage ! '
 - name: Pilote Academy
-  img: "/stages/activitesfun/pilote.png"
+  img: "/stages/activitesfun/kartingetfun.png"
   inscription: ''
   categorie: Activités fun
   online: true
@@ -1089,15 +1089,16 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-14 ans
-    description: 'Au matin : simulateur de cours, entrainement physique et coordination
-      oeil-main. Le programme de l''après-midi est entièrement consacré au Karting
-      : les apprentis pilotes sont encadrés pas un formateur du WIK qui leur apprend
+    description: "<p>Au matin : simulateur de cours, entrainement physique et coordination
+      oeil-main. Le programme de l'après-midi est entièrement consacré au Karting
+      : les apprentis pilotes sont encadrés par un formateur du WIK qui leur apprend
       les différentes techniques de pilotage, trajectoire, exercices évolutifs avec
-      cônes sur la piste et une analyse vidéo est prévue. Déplacement au WIK assuré
-      par le CFS.'
+      cônes sur la piste et une analyse vidéo est prévue.</p>"
     infos:
+    - alias: fin des activités
+      info_line: Fin des activités vers 15h.
     - alias: Accueil au WIK
-      info_line: Accueil à 13h00 au WIK en face du Walibi (Boulevard de l'Europe 117
+      info_line: Accueil à 9h00 au WIK en face du Walibi (Boulevard de l'Europe 117
         - 1300 Wavre).
 - name: Skate Pro
   img: "/stages/activitesfun/skatepro.png"
@@ -1222,8 +1223,8 @@ stages:
   img: "/stages/activitesfun/sportaventureetquad.jpg"
   inscription: ''
   categorie: Activités fun
-  online: true
-  nouveau: true
+  online: false
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant - Stoumont
