@@ -1095,11 +1095,13 @@ stages:
       les différentes techniques de pilotage, trajectoire, exercices évolutifs avec
       cônes sur la piste et une analyse vidéo est prévue.</p>"
     infos:
-    - alias: fin des activités
-      info_line: Fin des activités vers 15h.
     - alias: Accueil au WIK
       info_line: Accueil à 9h00 au WIK en face du Walibi (Boulevard de l'Europe 117
         - 1300 Wavre).
+    - alias: fin des activités
+      info_line: Fin des activités vers 15h.
+    - alias: Demi journée
+      info_line: Possibilité de faire le stage en demi journée de 13h00 à 15h00.
 - name: Skate Pro
   img: "/stages/activitesfun/skatepro.png"
   inscription: ''
