@@ -12,12 +12,12 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
+- titre: Inscription extrascolaire
+  src: "/assets/images/slider/accueil/septembre_2020.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
 - titre: Extrascolaire 2020-2021
   src: "/assets/images/slider/accueil/extrascolaires2020-2021.png"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
-- titre: Stages d'été
-  src: "/assets/images/slider/accueil/stagesete.jpg"
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
 selection:
   nom: Sélection du CFS
   images:
