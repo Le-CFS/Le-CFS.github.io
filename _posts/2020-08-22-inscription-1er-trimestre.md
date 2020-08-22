@@ -33,7 +33,7 @@ Inscris toi au 1er CYCLE des **activités extrascolaires du CFS** !
 * VTT
 * Etc.
 
-Retrouves toutes nos activités sur le site internet [www.lecfs.be](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6).
+Retrouves toutes nos activités sur [notre moteur de recherche](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6).
 
 Tu peux t’inscrire sur le site ou appelle nous 010 22 73 96.
 
