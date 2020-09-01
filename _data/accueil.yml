@@ -21,18 +21,18 @@ slider:
 selection:
   nom: Sélection du CFS
   images:
-  - titre: Stages Été
+  - titre: Extrascolaire
     titre_img: 
     titre_overlay: 
-    src: "/assets/images/stages/stageete.jpg"
-    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
+    src: "/assets/images/boutonsactivites/extrascolaires.png"
+    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Groupe=1
     autre_page: oui
     bouton: Inscription
     couleur_bouton: 
-  - titre: Protocoles stages d'été
+  - titre: Mini-foot
     titre_img: 
     titre_overlay: 
-    src: https://cdn.discordapp.com/attachments/656057943346642945/724753859112730654/protocolestagesete2020.jpg
+    src: "/assets/images/boutonsactivites/cfsacademy/minifootacademy.png"
     href: "/stages/protocole/"
     autre_page: 
     bouton: Plus d'info
@@ -43,7 +43,7 @@ selection:
     src: "/assets/images/boutonscoursadultes/aquabiking.png"
     href: "/cours_adultes/aquabike/"
     autre_page: 
-    bouton: Inscription
+    bouton: Plus d'info
     couleur_bouton: 
   - titre: École de natation
     titre_img: 
