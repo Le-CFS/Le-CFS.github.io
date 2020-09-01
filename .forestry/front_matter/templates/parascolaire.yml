@@ -1,0 +1,116 @@
+---
+label: Parascolaire
+hide_body: true
+fields:
+- type: field_group_list
+  name: activites
+  label: Activités
+  fields:
+  - type: text
+    name: name
+    label: Nom de l'activité
+    config:
+      required: true
+  - name: categorie
+    type: select
+    default: []
+    config:
+      required: true
+      options:
+      - Les petits bouts
+      - Découvertes sportives et culturelles
+      - Danse et Gymnastique
+      - Activités fun
+      - Activités sportives
+      - Activités artistiques et loisirs
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Catégorie
+  - type: file
+    name: img
+    label: Image de l'activité
+    description: Le nom du stage <strong>ne doit pas</strong> être écrit sur l'image.
+  - name: online
+    type: boolean
+    label: En ligne ?
+    description: Le stage doit-il être publié ?
+    default: true
+  - name: nouveau
+    type: boolean
+    label: Nouveau ?
+    description: Label vert "NOUVEAU" sur le stage.
+  - type: text
+    name: inscription
+    label: inscription
+  - name: location
+    type: field_group_list
+    fields:
+    - name: alias
+      type: text
+      config:
+        required: false
+      label: Alias
+      description: Un alias pour visualisé le lieu du centre rapidement
+    - name: ville
+      type: select
+      default: ''
+      config:
+        required: true
+        options:
+        - Brabant Wallon
+        - Bruxelles
+        - Liège
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      label: Ville
+    - name: centres
+      type: tag_list
+      default: []
+      label: Listes des centres
+    - name: age
+      type: text
+      config:
+        required: false
+      label: Tranche d'âge
+    - name: description
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: html-blocks
+      label: Description de l'activité
+    - name: infos
+      type: field_group_list
+      fields:
+      - name: alias
+        type: text
+        config:
+          required: false
+        label: Alias
+        description: Quelques mots pour comprendre l'info rapidement
+      - name: info_line
+        type: text
+        config:
+          required: false
+        label: Information
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: Informations complémentaires
+      description: Laisser vide si identique au précédent.
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Liste des villes d'activités
+pages:
+- _data/parascolaire.yml
