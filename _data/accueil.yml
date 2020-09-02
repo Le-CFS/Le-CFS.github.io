@@ -22,8 +22,8 @@ selection:
   nom: Sélection du CFS
   images:
   - titre: Extrascolaire
-    titre_img: 
-    titre_overlay: 
+    titre_img: ''
+    titre_overlay: ''
     src: "/assets/images/boutonsactivites/extrascolaires.png"
     href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Groupe=1
     autre_page: oui
@@ -33,8 +33,8 @@ selection:
     titre_img: 
     titre_overlay: 
     src: "/assets/images/boutonsactivites/cfsacademy/minifootacademy.png"
-    href: "/stages/protocole/"
-    autre_page: 
+    href: "/activites/cfs_academy/mini_foot_academy/"
+    autre_page: ''
     bouton: Plus d'info
     couleur_bouton: 
   - titre: Aqua Biking
@@ -55,96 +55,72 @@ selection:
     couleur_bouton: 
 slogan: Le CFS, à votre service depuis 1981.
 une:
-  nom: Stages à la Une
+  nom: Activités à la Une
   images:
-  - name: Bulle ado
-    titre_overlay: 
-    img: "/stages/bulleado.jpg"
+  - name: Escalade
+    titre_overlay: Escalade
+    img: "/boutonsactivites/extrascolaires/escalade.png"
     bouton: Plus d'info
     nouveau: oui
-    infos: 'Tous les déplacements se font en autocar.<br/> Il est possible de déposer
-      votre enfant sur le chemin si vous donnez  une autorisation de sortie.<br/>
-      Toutes les activités n''auront pas lieu chaque semaine à l''exception de Profondville. '
-    description: 'Afin de laisser place au suspens et de permettre à chaque moniteur
-      de créer un stage original et varié, le programme sera adapté en fonction de
-      son organisation et de l''âge moyen du groupe. Parmi les différentes activités
-      possibles: Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, Profondeville
-      (bouées tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois
-      des rêves, Visite de musées/Culturels, Patinoire à Leuven et découverte de la
-      ville, journée à la mer... et éventuellement d''autres activités en fonction
-      des initiatives de nos moniteurs.'
+    infos: Maximum 8 enfants/groupe.
+    description: Découverte de l'escalade. Par cette initiation, l’enfant travaille
+      des facettes spécifiques de la motricité telles que l’ascension et l’équilibre.
+      Il développe des facteurs essentiels comme l’audace, la maîtrise de soi et la
+      gestion du vertige.
     lieu: Brabant Wallon
-    age: 12-16 ans
-  - name: Évasion
-    titre_overlay: 
-    img: "/stages/evasionalaune.jpg"
+    age: 5-8 ans
+  - name: Gym
+    titre_overlay: Gym
+    img: "/boutonsactivites/extrascolaires/gymnastique.png"
     bouton: Plus d'info
     nouveau: oui
-    infos: " Les déplacements se font en transports en commun ou en car.<br/> Pour
-      Koezio: taille minimum 1,40 m.<br/> Port du masque obligatoire. Se munir également
-      d’un gel hydroalcoolique. Nous insistons sur ces différentes mesures pour la
-      bonne organisation du stage.<br/> Moniteur diplômé dans l’enseignement ou l’animation,
-      ayant déjà de l’expérience pour ce stage et formé pour le respect des différentes
-      mesures à suivre du protocole des stages. "
-    description: " Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne
-      à l’une de nos activités phares en collaboration avec nos différents partenaires
-      et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
-      les plus strictes ?<br/> Nous te proposons un programme idéal tout au long de
-      la semaine : <b>New games, Koezio, escalade et Parc Aventure</b> !<br/> Stage
-      adapté aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement
-      secondaire. En effet, afin de respecter le protocole mis en place pour l’organisation
-      des stages, les enfants devront porter un masque obligatoirement tout au long
-      de la semaine. (Si vous ne souhaitez pas que votre ado effectue des sorties
-      en dehors du centre, un stage est spécialement prévu pour lui ! Nous vous invitons
-      alors à sélectionner le stage « Fun Ados ». <hr> Attention: le programme change
-      pour les semaines plus courtes. "
+    infos: Une petite démonstration en fin d'année est prévue. Les enfants sont regroupés
+      par âge/niveau.
+    description: |-
+      Quelque soit le niveau de votre enfant, qu'elle soit pour le loisir ou une ambition compétitive, nous avons mis en place des cours d'initiation ou de perfectionnement selon le niveau et l'envie de votre enfant à la gymnastique sportive.<br/>
+      Nous travaillons les différents agrès: sol, sauts, poutre, barres asymétriques,...
     lieu: Bruxelles - Brabant Wallon
-    age: Bruxelles 10-14 ans / Brabant 10-16 ans
-  - name: Remédiation & Sport
-    titre_overlay: Remédiation & Sport
-    img: "/stages/une_remediationetsport.jpg"
+    age: 6 - 14 ans
+  - name: Judo
+    titre_overlay: Judo
+    img: "/boutonsactivites/extrascolaires/judo.png"
     bouton: Plus d'info
     nouveau: 
-    infos: Les enfants doivent venir avec un matériel scolaire de base (trousse, latte,
-      colle, ciseaux, crayons de couleur et magicolors).<br/> Les enfants restent
-      avec le même moniteur et ont leur propre local toute la semaine.
-    description: 'Durant ce stage les enfants ont l’occasion de revoir les matières
-      vues à l’école de façon ludique sous forme d’ateliers et de jeux pédagogiques.<br/>
-      Les activités proposées se focalisent sur les mathématiques et la langue française.
-      Les enfants seront groupés par cycle (1ère – 2ème / 3ème – 4ème / 5ème – 6ème
-      / 1ère H. – 2ème H. ) pour la demi-journée. L’autre partie de la journée sera
-      consacrée à des activités sportives variées et à des jeux en extérieurs.<br/> '
-    lieu: Bruxelles - Brabant Wallon
-    age: 6-14 ans
-  - name: Robotique
-    titre_overlay: 
-    img: "/stages/robotique2.png"
+    infos: ''
+    description: Véritable sport éducatif, le Judo permet à chacun de devenir plus
+      adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles,
+      découvrir l’entraide, évaluer ses forces et ses faiblesses pour progresser. Le
+      Judo est un sport pour tous qui procure un véritable équilibre. Activité de
+      détente et de plaisir, le Judo est une discipline basée sur l’échange et la
+      progression. L’apprentissage se fait de manière progressive en fonction des
+      aptitudes de l’individu, ce qui permet à chacun d’évoluer à son rythme.
+    lieu: Brabant Wallon
+    age: 5 - 15 ans
+  - name: Tennis
+    titre_overlay: Tennis
+    img: "/boutonsactivites/extrascolaires/tennis.png"
     bouton: Plus d'info
     nouveau: oui
     infos: 
-    description: Le monde de demain sera modulé avec les nouvelles technologies et
-      l’informatique. Afin de donner aux enfants de nouvelles clefs de réussite, nous
-      allons via 5 sessions d’exercices développer des processus de réflexion pour
-      formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation
-      de robots et présentation du travail effectué). Afin qu’ils ne passent pas leur
-      journée devant les écrans, nous passeront une demi-journée à d’autres activités
-      et profiteront des infrastructures sportives du Centre.
+    description: |-
+      <b>Cours d’initiation</b> de tennis pour les enfants de 6 à 14 ans. Groupe max de 5 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance.<br/>
+      <b>Cours de perfectionnement</b> de tennis pour les enfants de 12 à 18 ans. Minimum 2 ans d'expérience. Groupe max de 4 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance.
     lieu: Brabant Wallon
-    age: 8-13 ans
+    age: 6 - 18 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
 activites:
   nom: Nos activités
   images:
-  - titre: Stages Enfants
+  - titre: Parascolaire
     titre_img: 
     titre_overlay: 
-    src: "/assets/images/stages/stagesenfants.png"
-    href: "/stages"
+    src: "/assets/images/boutonsactivites/parascolaires.png"
+    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2
     autre_page: 
     bouton: Inscription
-    couleur_bouton: 
+    couleur_bouton: ''
   - titre: Activités extrascolaires
     titre_img: 
     titre_overlay: 
