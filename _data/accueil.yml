@@ -116,7 +116,7 @@ activites:
   - titre: Parascolaire
     titre_img: 
     titre_overlay: 
-    src: "/assets/images/boutonsactivites/parascolaire.png"
+    src: "/assets/images/boutonsactivites/parascolaires.png"
     href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2
     autre_page: 
     bouton: Inscription
