@@ -307,7 +307,6 @@ activites:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres:
-    - WAVRE - Collège Notre-Dame de Basse-Wavre
     - OTTIGNIES - Centre Sportif des Coquerées
     - COURT-SAINT-ETIENNE - Salle de la Courtoise
     age: 4-6 ans
@@ -430,7 +429,7 @@ activites:
     - RIXENSART - Complexe Sportif de Rixensart
     - OTTIGNIES - Centre Sportif des Coquerées
     - COURT-ST-ETIENNE - La Courtoise
-    age: 6-14 ans
+    age: 5-14 ans
     description: "<p>Quelque soit le niveau de votre enfant, qu'elle soit pour le
       loisir ou une ambition compétitive, nous avons mis en place des cours d'initiation
       ou de perfectionnement selon le niveau et l'envie de votre enfant à la gymnastique
