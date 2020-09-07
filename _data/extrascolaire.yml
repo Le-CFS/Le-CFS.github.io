@@ -57,7 +57,7 @@ activites:
       techniques de nage &amp; jeux nautiques.</p>"
     infos:
     - alias: Savoir nager
-      info_line: 'Pour les jeunes déjà sachant nager! '
+      info_line: Les enfants ne doivent pas savoir nager.
 - name: Danse
   categorie: Danse et Gymnastique
   img: "/stages/danseetgymnastique/danse.png"
