@@ -9,13 +9,15 @@
 {% assign menu_principal = menu['cfs'] %}
 
 
+<!-- Pour éviter que la page brochures/stages passe avec le menu stages -->
+{% elsif pageurl contains '/brochures/stages/' %}
+{% assign menu_principal = menu['brochures'] %}
+
 {% elsif pageurl contains '/stages/' %}
 {% assign menu_principal = menu['stages_enfants'] %}
 
-
 {% elsif pageurl contains '/activites/' %}
 {% assign menu_principal = menu['activites'] %}
-
 
 {% elsif pageurl contains '/cours_adultes/' %}
 {% assign menu_principal = menu['cours_adultes'] %}
@@ -23,6 +25,10 @@
 <!-- Pour éviter que la page event/anniversaires passe avec le menu anniversaires -->
 {% elsif pageurl contains '/events/anniversaires/' %}
 {% assign menu_principal = menu['events'] %}
+
+<!-- Pour éviter que la page brochures/anniversaires passe avec le menu anniversaires -->
+{% elsif pageurl contains '/brochures/anniversaires/' %}
+{% assign menu_principal = menu['brochures'] %}
 
 {% elsif pageurl contains '/anniversaires/' %}
 {% assign menu_principal = menu['anniversaires'] %}
