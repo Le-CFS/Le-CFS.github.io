@@ -15,7 +15,8 @@ periode:
   paques: false
   ete: false
   toussaint: true
-  noel: false
+  noel: true
+  nouvelan: true
 ---
 {% include annonces/stages.html %}
 
@@ -162,11 +163,11 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     <div class="row">
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062604543787009/sitestagesetebrt.png" titre="Toussaint Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant&Groupe=1" autre_page="oui" bouton="Bientôt" offline="yes" %}
+        {% include coleen/bulle.html src="/assets/images/stages/toussaint.jpg" titre="Toussaint Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=3&Province=Brabant" autre_page="oui" bouton="Inscrption" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062607656091658/sitestagesetebxl.png" titre="Toussaint Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles&Groupe=1" autre_page="oui" bouton="Bientôt" offline="yes" %}
+        {% include coleen/bulle.html src="/assets/images/stages/toussaint.jpg" titre="Toussaint Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=3&Province=Bruxelles" autre_page="oui" bouton="Inscription" %}
       </div>
 
     </div>
@@ -180,11 +181,29 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     <div class="row">
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062604543787009/sitestagesetebrt.png" titre="Noël Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant&Groupe=1" autre_page="oui" bouton="Inscription" %}
+        {% include coleen/bulle.html src="/assets/images/stages/stagenoel.jpg" titre="Noël Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Brabant" autre_page="oui" bouton="Inscription" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062607656091658/sitestagesetebxl.png" titre="Noël Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles&Groupe=1" autre_page="oui" bouton="Inscription" %}
+        {% include coleen/bulle.html src="/assets/images/stages/stagenoel.jpg" titre="Noël Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Bruxelles" autre_page="oui" bouton="Inscription" %}
+      </div>
+
+    </div>
+    {% endif %}
+
+    {% if page.periode.nouvelan %}
+    <div class="sub-title">
+      <span id="noel">Nouvel An</span>
+    </div>
+
+    <div class="row">
+
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        {% include coleen/bulle.html src="/assets/images/stages/nouvelan.jpg" titre="Nouvel an Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Brabant" autre_page="oui" bouton="Inscription" %}
+      </div>
+
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        {% include coleen/bulle.html src="/assets/images/stages/nouvelan.jpg" titre="Nouvel an Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Brabant" autre_page="oui" bouton="Inscription" %}
       </div>
 
     </div>
