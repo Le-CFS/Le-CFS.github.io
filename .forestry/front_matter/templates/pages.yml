@@ -25,19 +25,92 @@ fields:
     required: false
   label: Adresse/url
 - name: seo
-  type: field_group
+  type: include
   config: {}
-  fields:
-  - name: seo
-    type: include
-    config: {}
-    template: seo
-    label: seo
-  label: seo
+  template: seo
+  label: SEO
 pages:
+- pages/activites_enfants/cfs_academy.html
+- pages/activites_enfants/extrascolaire/activitesartistiques.html
+- pages/activites_enfants/extrascolaire/activitesfun.html
+- pages/activites_enfants/extrascolaire/activitessportives.html
+- pages/activites_enfants/extrascolaire/dansegymnastique.html
+- pages/activites_enfants/extrascolaire/decouvertessportives.html
+- pages/activites_enfants/extrascolaire/petitsbouts.html
+- pages/activites_enfants/index.html
 - pages/activites_enfants/natation/bebesnageurs.html
 - pages/activites_enfants/natation/courscollectifs.html
 - pages/activites_enfants/natation/coursparticuliers.html
 - pages/activites_enfants/natation/courstransition.html
 - pages/activites_enfants/natation/miniclub.html
 - pages/activites_enfants/natation/psychoaqua.html
+- pages/activites_enfants/parascolaire.html
+- pages/activites_enfants/parascolaire/activitesartistiques.html
+- pages/activites_enfants/parascolaire/activitesfun.html
+- pages/activites_enfants/parascolaire/activitessportives.html
+- pages/activites_enfants/parascolaire/dansegymnastique.html
+- pages/activites_enfants/parascolaire/decouvertessportives.html
+- pages/activites_enfants/parascolaire/petitsbouts.html
+- pages/anniversaires/domicile.html
+- pages/anniversaires/en_savoir_plus.html
+- pages/anniversaires/index.html
+- pages/anniversaires/lieu_sportif_et_fun.html
+- pages/anniversaires/piscine.html
+- pages/anniversaires/reservation.html
+- pages/brochures/adultes.html
+- pages/brochures/anniversaires.html
+- pages/brochures/domicile.html
+- pages/brochures/extrascolaire.html
+- pages/brochures/index.html
+- pages/brochures/stages.html
+- pages/contacts/index.html
+- pages/cours_adultes/abdos_fessiers.html
+- pages/cours_adultes/aquabike.html
+- pages/cours_adultes/aquagym.html
+- pages/cours_adultes/aquamix.html
+- pages/cours_adultes/en_savoir_plus.html
+- pages/cours_adultes/gymentretien.html
+- pages/cours_adultes/index.html
+- pages/cours_adultes/swissjump.html
+- pages/cours_adultes/yoga.html
+- pages/events/anniversaires/domicile.html
+- pages/events/anniversaires/en_savoir_plus.html
+- pages/events/anniversaires/index.html
+- pages/events/anniversaires/lieu_sportif_et_fun.html
+- pages/events/anniversaires/piscine.html
+- pages/events/evg.html
+- pages/events/fancy_fair.html
+- pages/events/index.html
+- pages/events/journees_pedagogiques.html
+- pages/events/journees_sportives.html
+- pages/events/location.html
+- pages/events/location/chateaux.html
+- pages/events/location/fun.html
+- pages/events/tournois.html
+- pages/le_cfs/index.html
+- pages/le_cfs/les_centres_cfs.html
+- pages/le_cfs/news.html
+- pages/le_cfs/partenaires.html
+- pages/le_cfs/questions_frequentes.html
+- pages/le_cfs/reductions.html
+- pages/stages_enfants/activites.html
+- pages/stages_enfants/activites/activitesartistiques.html
+- pages/stages_enfants/activites/activitesfun.html
+- pages/stages_enfants/activites/activitessportives.html
+- pages/stages_enfants/activites/dansegymnastique.html
+- pages/stages_enfants/activites/decouvertessportives.html
+- pages/stages_enfants/activites/petitsbouts.html
+- pages/stages_enfants/garderie.html
+- pages/stages_enfants/index.html
+- pages/stages_enfants/informations_pratiques.html
+- pages/stages_enfants/infos_pratiques/assurances.html
+- pages/stages_enfants/infos_pratiques/attestations.html
+- pages/stages_enfants/infos_pratiques/conditions_generales.html
+- pages/stages_enfants/infos_pratiques/conseils_pratiques.html
+- pages/stages_enfants/infos_pratiques/organisation_generale.html
+- pages/stages_enfants/lieux_de_stage.html
+- pages/stages_enfants/partenaires_de_stage.html
+- pages/stages_enfants/partenaires_pedagogiques.html
+- pages/stages_enfants/protocoles/general.html
+- pages/stages_enfants/reductions.html
+- pages/stages_enfants/trouver_un_stage.html

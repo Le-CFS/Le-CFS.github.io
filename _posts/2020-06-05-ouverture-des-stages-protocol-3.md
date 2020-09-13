@@ -5,7 +5,8 @@ title: SUPER NOUVELLE POUR VOS ENFANTS !
 banner: ''
 infos:
   date: 0020-06-05
-  teaser: Nous avons reçu le feu vert du gouvernement pour organiser LES STAGES D’ÉTÉ !
+  teaser: Nous avons reçu le feu vert du gouvernement pour organiser LES STAGES D’ÉTÉ
+    !
 tags:
 - stages été
 seo:
@@ -13,7 +14,11 @@ seo:
   img: assets/images/news/secret_kids.jpg
   keywords:
   - stages été
-  description: Nous avons reçu le feu vert du gouvernement pour organiser LES STAGES D’ÉTÉ !
+  description: Nous avons reçu le feu vert du gouvernement pour organiser LES STAGES
+    D’ÉTÉ !
+type: article
+description: ''
+img: ''
 
 ---
 Chers parents, chers grand-parents,
