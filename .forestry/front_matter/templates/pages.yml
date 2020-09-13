@@ -51,6 +51,9 @@ pages:
 - pages/activites_enfants/parascolaire/dansegymnastique.html
 - pages/activites_enfants/parascolaire/decouvertessportives.html
 - pages/activites_enfants/parascolaire/petitsbouts.html
+- pages/cours_adultes/gymentretien.html
+- pages/cours_adultes/swissjump.html
+- pages/cours_adultes/yoga.html
 - pages/events/anniversaires/domicile.html
 - pages/events/anniversaires/en_savoir_plus.html
 - pages/events/anniversaires/index.html
