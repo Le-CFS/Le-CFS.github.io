@@ -31,6 +31,12 @@ fields:
   label: SEO
 pages:
 - pages/activites_enfants/cfs_academy.html
+- pages/activites_enfants/extrascolaire/activitesartistiques.html
+- pages/activites_enfants/extrascolaire/activitesfun.html
+- pages/activites_enfants/extrascolaire/activitessportives.html
+- pages/activites_enfants/extrascolaire/dansegymnastique.html
+- pages/activites_enfants/extrascolaire/decouvertessportives.html
+- pages/activites_enfants/extrascolaire/petitsbouts.html
 - pages/activites_enfants/index.html
 - pages/activites_enfants/natation/bebesnageurs.html
 - pages/activites_enfants/natation/courscollectifs.html
@@ -45,11 +51,6 @@ pages:
 - pages/activites_enfants/parascolaire/dansegymnastique.html
 - pages/activites_enfants/parascolaire/decouvertessportives.html
 - pages/activites_enfants/parascolaire/petitsbouts.html
-- pages/activites_enfants/extrascolaire/activitesartistiques.html
-- pages/activites_enfants/extrascolaire/activitesfun.html
-- pages/activites_enfants/extrascolaire/activitessportives.html
-- pages/activites_enfants/extrascolaire/dansegymnastique.html
-- pages/activites_enfants/extrascolaire/decouvertessportives.html
-- pages/activites_enfants/extrascolaire/petitsbouts.html
 - pages/stages_enfants/index.html
+- pages/stages_enfants/protocoles/general.html
 - pages/stages_enfants/reductions.html
