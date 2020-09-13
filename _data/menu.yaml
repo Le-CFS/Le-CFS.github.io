@@ -361,8 +361,6 @@ events:
       #       url: "/events/location/fun"
       #     - title: "Châteaux gonflables"
       #       url: "/events/location/chateaux"
-    - title: "Journées du personnel"
-      url: /events/journees_du_personnel/
 
 brochures:
   titre: "Brochures"
