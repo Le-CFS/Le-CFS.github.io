@@ -52,6 +52,8 @@ pages:
 - pages/activites_enfants/parascolaire/decouvertessportives.html
 - pages/activites_enfants/parascolaire/petitsbouts.html
 - pages/stages_enfants/activites.html
+- pages/stages_enfants/activites/decouvertessportives.html
+- pages/stages_enfants/activites/petitsbouts.html
 - pages/stages_enfants/garderie.html
 - pages/stages_enfants/index.html
 - pages/stages_enfants/informations_pratiques.html
