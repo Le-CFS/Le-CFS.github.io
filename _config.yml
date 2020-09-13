@@ -23,6 +23,7 @@ post_limit: 5
 
 title : Le CFS
 tagline: Bootstrap 4 UI kit for jekyll
+lang: fr_BE
 author : 
   name : CFS ASBL
   site: https://www.lecfs.be/
@@ -161,3 +162,8 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
+
+# PLUGINS
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

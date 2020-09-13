@@ -25,10 +25,6 @@ fields:
     schema:
       format: markdown
   label: Description pour les moteurs de recherche
-- name: keywords
-  type: tag_list
-  default: []
-  label: Tags pour les moteurs de recherche
 - name: img
   type: file
   config:
