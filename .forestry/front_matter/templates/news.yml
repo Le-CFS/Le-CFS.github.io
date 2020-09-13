@@ -45,15 +45,10 @@ fields:
     name: teaser
     label: teaser
 - name: seo
-  type: field_group
+  type: include
   config: {}
-  fields:
-  - name: seo
-    type: include
-    config: {}
-    template: seo
-    label: seo
-  label: seo
+  template: seo
+  label: SEO
 pages:
 - _posts/2020-03-13-information-derniere-minute-coronavirus.md
 - _posts/2020-03-27-annulation-des-stages-de-paques.md
