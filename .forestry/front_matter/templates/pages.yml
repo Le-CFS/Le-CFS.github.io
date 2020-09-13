@@ -55,12 +55,15 @@ pages:
 - pages/events/anniversaires/en_savoir_plus.html
 - pages/events/anniversaires/index.html
 - pages/events/anniversaires/lieu_sportif_et_fun.html
+- pages/events/anniversaires/piscine.html
 - pages/events/evg.html
 - pages/events/fancy_fair.html
 - pages/events/index.html
 - pages/events/journees_pedagogiques.html
 - pages/events/journees_sportives.html
 - pages/events/location.html
+- pages/events/location/chateaux.html
+- pages/events/location/fun.html
 - pages/events/tournois.html
 - pages/le_cfs/index.html
 - pages/le_cfs/les_centres_cfs.html
