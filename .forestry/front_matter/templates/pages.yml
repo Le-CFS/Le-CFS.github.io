@@ -51,6 +51,9 @@ pages:
 - pages/activites_enfants/parascolaire/dansegymnastique.html
 - pages/activites_enfants/parascolaire/decouvertessportives.html
 - pages/activites_enfants/parascolaire/petitsbouts.html
+- pages/events/journees_sportives.html
+- pages/events/location.html
+- pages/events/tournois.html
 - pages/le_cfs/index.html
 - pages/le_cfs/les_centres_cfs.html
 - pages/le_cfs/news.html
