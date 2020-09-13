@@ -15,6 +15,8 @@ banner: ''
 infos:
   date: 2020-08-22
   teaser: Envie de continuer après un stage ?
+description: ''
+img: ''
 
 ---
 Inscris toi au 1er CYCLE des **activités extrascolaires du CFS** !
