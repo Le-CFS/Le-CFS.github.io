@@ -51,8 +51,11 @@ pages:
 - pages/activites_enfants/parascolaire/dansegymnastique.html
 - pages/activites_enfants/parascolaire/decouvertessportives.html
 - pages/activites_enfants/parascolaire/petitsbouts.html
+- pages/stages_enfants/activites.html
+- pages/stages_enfants/garderie.html
 - pages/stages_enfants/index.html
 - pages/stages_enfants/informations_pratiques.html
+- pages/stages_enfants/infos_pratiques/organisation_generale.html
 - pages/stages_enfants/lieux_de_stage.html
 - pages/stages_enfants/partenaires_de_stage.html
 - pages/stages_enfants/partenaires_pedagogiques.html
