@@ -2,20 +2,6 @@
 label: SEO
 hide_body: true
 fields:
-- name: type
-  type: select
-  default: article
-  config:
-    required: true
-    options:
-    - article
-    - video
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Type
 - name: description
   type: textarea
   default: ''
