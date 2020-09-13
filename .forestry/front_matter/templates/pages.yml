@@ -30,6 +30,7 @@ fields:
   template: seo
   label: SEO
 pages:
+- pages/activites_enfants/cfs_academy.html
 - pages/activites_enfants/index.html
 - pages/activites_enfants/natation/bebesnageurs.html
 - pages/activites_enfants/natation/courscollectifs.html
