@@ -51,6 +51,10 @@ pages:
 - pages/activites_enfants/parascolaire/dansegymnastique.html
 - pages/activites_enfants/parascolaire/decouvertessportives.html
 - pages/activites_enfants/parascolaire/petitsbouts.html
+- pages/events/evg.html
+- pages/events/fancy_fair.html
+- pages/events/index.html
+- pages/events/journees_pedagogiques.html
 - pages/events/journees_sportives.html
 - pages/events/location.html
 - pages/events/tournois.html
