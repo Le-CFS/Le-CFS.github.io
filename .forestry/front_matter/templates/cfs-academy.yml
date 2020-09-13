@@ -40,14 +40,9 @@ fields:
   label: Lien du bouton d'inscription
   description: Si vide, le lien sera vers l'extrascolaire.
 - name: seo
-  type: field_group
+  type: include
   config: {}
-  fields:
-  - name: seo
-    type: include
-    config: {}
-    template: seo
-    label: SEO
+  template: seo
   label: SEO
 pages:
 - pages/activites_enfants/academy/danse.html
