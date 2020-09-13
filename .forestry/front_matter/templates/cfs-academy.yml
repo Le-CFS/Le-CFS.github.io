@@ -44,6 +44,14 @@ fields:
   config: {}
   template: seo
   label: SEO
+- name: seo_ref
+  type: blocks
+  label: SEO et Référencement
+  template_types:
+  - seo
+  config:
+    min: 
+    max: 
 pages:
 - pages/activites_enfants/academy/danse.html
 - pages/activites_enfants/academy/gympro.html
