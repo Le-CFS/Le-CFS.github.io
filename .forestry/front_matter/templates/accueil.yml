@@ -115,8 +115,3 @@ fields:
       required: false
     label: Slogan version mobile
   label: Slogan
-- name: seo
-  type: include
-  config: {}
-  template: seo
-  label: SEO
