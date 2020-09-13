@@ -25,15 +25,10 @@ fields:
     required: false
   label: Adresse/url
 - name: seo
-  type: field_group
+  type: include
   config: {}
-  fields:
-  - name: seo
-    type: include
-    config: {}
-    template: seo
-    label: seo
-  label: seo
+  template: seo
+  label: SEO
 pages:
 - pages/activites_enfants/natation/bebesnageurs.html
 - pages/activites_enfants/natation/courscollectifs.html
