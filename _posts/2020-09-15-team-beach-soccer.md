@@ -3,8 +3,7 @@ layout: post
 menu: cfs
 tags:
 - beach soccer
-- new
-- nouveau
+- cfs cartel
 title: Team Beach Soccer
 banner: "/assets/images/beachsoccer.jpg"
 infos:
@@ -16,7 +15,6 @@ description: Le CFS lance sa team de Beach Soccer. Les cours et détections perm
 image: "/assets/images/beachsoccer.jpg"
 
 ---
-
 **Nouveau :** Prolonger l’été avec des entrainements de beach soccer à Perwez !
 
 Le CFS lance des **initiations**, **cours** et **détections** pour plusieurs catégories d'âges de Beach Soccer à Perwez.
