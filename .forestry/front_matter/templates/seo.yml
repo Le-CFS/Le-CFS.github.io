@@ -11,7 +11,7 @@ fields:
     schema:
       format: markdown
   label: Description pour les moteurs de recherche
-- name: img
+- name: image
   type: file
   config:
     maxSize: 64
