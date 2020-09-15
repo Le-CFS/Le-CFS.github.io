@@ -6,14 +6,14 @@ tags:
 - new
 - nouveau
 title: Team Beach Soccer
-banner: "assets/images/beachsoccer.jpg"
+banner: "/assets/images/beachsoccer.jpg"
 infos:
   date: 2020-09-15
   teaser: Prolonger l’été avec des entrainements de beach soccer à Perwez !
 description: Le CFS lance sa team de Beach Soccer. Les cours et détections permettrons
   aux plus assidus la participation aux compétitions nationales et internationales
   et la création des équipes de jeunes du CFS Beach Soccer.
-image: "assets/images/beachsoccer.jpg"
+image: "/assets/images/beachsoccer.jpg"
 
 ---
 
