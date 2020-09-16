@@ -905,8 +905,9 @@ stages:
     description: "<p>Tu es un ado et tu as envie d'une semaine hyper fun? Viens à
       ce stage phare du CFS! Un super programme t’attend. Une activité différente
       chaque jour!</p><p><strong>Programme TOUSSAINT / NOEL / NOUVEL AN</strong>:
-      Koezio, Parc Aventure, New Games, Escalade. </p><p><em>Pas de Parc Aventure
-      à Noel et Nouvel an (fermé !)</em></p>"
+      Koezio, Parc Aventure, New Games, Escalade. </p><p><em>Attention: le programme
+      change les semaines plus courtes. Pas de Parc Aventure à Noel et Nouvel an (fermé
+      !)</em></p>"
     infos:
     - alias: Déplacements
       info_line: Les déplacements se font en transports en commun
