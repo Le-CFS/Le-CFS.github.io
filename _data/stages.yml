@@ -850,9 +850,9 @@ stages:
     description: "<p>Votre enfant a entre <strong>8 et 12 ans ?</strong> Il souhaite
       essayer un stage varié et fun ? Ce stage phare du CFS est pour lui! Il vous
       propose un programme alléchant, avec chaque jour une activité ludique différente.
-      <strong>Programme TOUSSAINT / NOEL / NOUVEL AN</strong> : Parc Aventure, Team
-      Game (Fort Boyard futuriste), Laser Game, New Games, Arrow Games. <em>Pas de
-      Parc Aventure à Noel et Nouvel an (fermé !)</em></p>"
+      <strong>Programme TOUSSAINT / NOEL / NOUVEL AN</strong> : Parc Aventure, Laser
+      Game, New Games, Arrow Games. <em>Pas de Parc Aventure à Noel et Nouvel an (fermé
+      !)</em></p>"
     infos:
     - alias: Vêtements extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
