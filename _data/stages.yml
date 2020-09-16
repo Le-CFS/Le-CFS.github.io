@@ -847,19 +847,20 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
-    description: "<p>Votre enfant a entre 8 et 12 ans? Il souhaite essayer un stage
-      varié et fun? Ce stage phare du CFS est pour lui! Il vous propose un programme
-      alléchant, avec chaque jour une activité ludique différente. **PROGRAMME CARNAVAL**:
-      new games, escrime, laser games, escalade, escape games. **PROGRAMME PAQUES/ETE**:
-      new games, escrime, laser games, escalade. Attention, le programme change pour
-      les semaines plus courtes.</p>"
+    description: "<p>Votre enfant a entre <strong>8 et 12 ans ?</strong> Il souhaite
+      essayer un stage varié et fun ? Ce stage phare du CFS est pour lui! Il vous
+      propose un programme alléchant, avec chaque jour une activité ludique différente.
+      <strong>Programme TOUSSAINT / NOEL / NOUVEL AN</strong> : Parc Aventure, Team
+      Game (Fort Boyard futuriste), Laser Game, New Games, Arrow Games. <em>Pas de
+      Parc Aventure à Noel et Nouvel an (fermé !)</em></p>"
     infos:
     - alias: Vêtements extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
         activités d’extérieur.
     - alias: Navette
-      info_line: Certaines activités demandent un déplacement en navette assuré par
-        nos soins.
+      info_line: Certains déplacements se feront en transport en commun ou en car
+        assuré par le CFS. Nos partenaires prennent toutes les mesures d’hygiène et
+        sanitaires concernant le Covid-19
 - name: BMX Pro
   img: "/stages/activitesfun/bmx.png"
   inscription: ''
