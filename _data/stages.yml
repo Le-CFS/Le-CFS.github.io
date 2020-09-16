@@ -902,21 +902,14 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 12-16 ans
-    description: "<p>Envie d’une semaine hyper fun agrémentée d’une sortie quotidienne
-      à l’une de nos activités phares en collaboration avec nos différents partenaires
-      et dans le respect des mesures de distanciations sociales, d’hygiènes et sanitaires
-      les plus strictes ? Nous te proposons un programme idéal tout au long de la
-      semaine : <strong>New games, Koezio, escalade et Parc Aventure</strong> ! Stage
-      adapté aux enfants âgés de plus de 12ans ou étant déjà scolarisés dans l’enseignement
-      secondaire. En effet, afin de respecter le protocole mis en place pour l’organisation
-      des stages, les enfants devront porter un masque obligatoirement tout au long
-      de la semaine. (Si vous ne souhaitez pas que votre ado effectue des sorties
-      en dehors du centre, un stage est spécialement prévu pour lui ! Nous vous invitons
-      alors à sélectionner le stage « Fun Ados ».</p><p>Attention: le programme change
-      pour les semaines plus courtes.</p>"
+    description: "<p>Tu es un ado et tu as envie d'une semaine hyper fun? Viens à
+      ce stage phare du CFS! Un super programme t’attend. Une activité différente
+      chaque jour!</p><p><strong>Programme TOUSSAINT / NOEL / NOUVEL AN</strong>:
+      Koezio, Parc Aventure, New Games, Escalade. </p><p><em>Pas de Parc Aventure
+      à Noel et Nouvel an (fermé !)</em></p>"
     infos:
     - alias: Déplacements
-      info_line: Les déplacements se font en transports en commun ou en car.
+      info_line: Les déplacements se font en transports en commun
     - alias: Koézio
       info_line: 'Pour Koezio: taille minimum 1,40 m.'
     - alias: Masque et gel
