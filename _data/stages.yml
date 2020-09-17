@@ -913,7 +913,8 @@ stages:
       et Nouvel an (fermé !)</em></p>"
     infos:
     - alias: Déplacements
-      info_line: Les déplacements se font en transports en commun
+      info_line: Les déplacements se font en transports en commun. Nos partenaires
+        prennent toutes les mesures d’hygiène et sanitaires concernant le Covid-19
     - alias: Koézio
       info_line: 'Pour Koezio: taille minimum 1,40 m.'
     - alias: Masque et gel
