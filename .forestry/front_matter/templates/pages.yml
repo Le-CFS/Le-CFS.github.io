@@ -112,5 +112,6 @@ pages:
 - pages/stages_enfants/partenaires_de_stage.html
 - pages/stages_enfants/partenaires_pedagogiques.html
 - pages/stages_enfants/protocoles/general.html
+- pages/stages_enfants/protocoles/woluwe.html
 - pages/stages_enfants/reductions.html
 - pages/stages_enfants/trouver_un_stage.html
