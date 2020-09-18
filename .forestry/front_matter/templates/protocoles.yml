@@ -102,6 +102,7 @@ fields:
   template: seo
   label: SEO
 pages:
+- pages/stages_enfants/protocoles/auderghem.html
 - pages/stages_enfants/protocoles/jette.html
 - pages/stages_enfants/protocoles/laeken.html
 - pages/stages_enfants/protocoles/uccle.html
