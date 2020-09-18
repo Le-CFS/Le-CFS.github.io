@@ -1,4 +1,92 @@
 ---
 label: protocoles
 hide_body: true
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: page
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+- name: menu
+  type: boolean
+  label: Faut il un menu sur la gauche ?
+  default: true
+  hidden: true
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Adresse/url
+- name: centres
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: true
+    label: Nom
+  - name: map
+    type: file
+    config:
+      maxSize: 64
+    label: Carte
+  - name: silos
+    type: field_group_list
+    fields:
+    - name: color
+      type: text
+      config:
+        required: false
+      label: Couleur
+    - name: stages
+      type: list
+      config:
+        use_select: false
+        min: 
+        max: 
+      label: Stages
+    - name: address
+      type: text
+      config:
+        required: false
+      label: Adresse
+    - name: infos
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Informations complémentaires
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Liste des silos
+  - name: infos
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Informations compémentaires
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Liste des centres
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
