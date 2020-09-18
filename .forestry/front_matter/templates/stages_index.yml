@@ -1,0 +1,44 @@
+---
+label: stages_index
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: menu
+  label: menu
+- type: field_group
+  name: periode
+  label: periode
+  fields:
+  - type: boolean
+    name: carnaval
+    label: carnaval
+  - type: boolean
+    name: paques
+    label: paques
+  - type: boolean
+    name: ete
+    label: ete
+  - type: boolean
+    name: toussaint
+    label: toussaint
+  - type: boolean
+    name: noel
+    label: noel
+  - type: boolean
+    name: nouvelan
+    label: nouvelan
+- type: text
+  name: type
+  label: type
+- type: text
+  name: description
+  label: description
