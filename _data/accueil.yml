@@ -59,7 +59,7 @@ une:
   images:
   - name: Stages Toussaint
     titre_overlay: Stages Toussaint
-    img: "/stages/toussaint.jpg"
+    img: "/assets/images/stages/toussaint.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
@@ -95,7 +95,7 @@ une:
     age: 2.5 - 16 ans
   - name: Tennis
     titre_overlay: Tennis
-    img: "/boutonsactivites/extrascolaires/tennis.png"
+    img: "/assets/images/boutonsactivites/extrascolaires/tennis.png"
     bouton: Plus d'info
     nouveau: oui
     infos: ''
