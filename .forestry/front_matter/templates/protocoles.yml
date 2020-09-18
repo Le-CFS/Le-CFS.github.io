@@ -104,5 +104,6 @@ fields:
 pages:
 - pages/stages_enfants/protocoles/jette.html
 - pages/stages_enfants/protocoles/laeken.html
+- pages/stages_enfants/protocoles/uccle.html
 - pages/stages_enfants/protocoles/wemmel.html
 - pages/stages_enfants/protocoles/woluwe.html
