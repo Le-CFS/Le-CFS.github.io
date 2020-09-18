@@ -96,17 +96,19 @@ une:
       de te faire découvrir ce sport en vogue !
     lieu: Bruxelles
     age: 8 à 12 ans
-  - name: Tennis
-    titre_overlay: Tennis
-    img: "/assets/images/boutonsactivites/extrascolaires/tennis.png"
+  - name: Parkour
+    titre_overlay: Parkour
+    img: "/assets/images/parkour.jpg"
     bouton: Plus d'info
     nouveau: oui
-    infos: ''
-    description: |-
-      <b>Cours d’initiation</b> de tennis pour les enfants de 6 à 14 ans. Groupe max de 5 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance.<br/>
-      <b>Cours de perfectionnement</b> de tennis pour les enfants de 12 à 18 ans. Minimum 2 ans d'expérience. Groupe max de 4 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance.
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: Cette discipline utilise le corps pour seul outil. Face à des obstacles
+      naturels, ce sont les habilités motrices qui servent de support à l'activité.
+      Courses, sauts, grimpes, exercices d'équilibre et de suspension sont au programme.
     lieu: Brabant Wallon
-    age: 6 - 18 ans
+    age: 10 - 12 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
