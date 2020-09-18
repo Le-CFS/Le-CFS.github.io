@@ -28,31 +28,31 @@ selection:
     href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Groupe=1
     autre_page: oui
     bouton: Inscription
-    couleur_bouton: 
+    couleur_bouton: ''
   - titre: Mini-foot
-    titre_img: 
-    titre_overlay: 
+    titre_img: ''
+    titre_overlay: ''
     src: "/assets/images/boutonsactivites/cfsacademy/minifootacademy.png"
     href: "/activites/cfs_academy/mini_foot_academy/"
     autre_page: ''
     bouton: Plus d'info
-    couleur_bouton: 
+    couleur_bouton: ''
   - titre: Aqua Biking
-    titre_img: 
-    titre_overlay: 
+    titre_img: ''
+    titre_overlay: ''
     src: "/assets/images/boutonscoursadultes/aquabiking.png"
     href: "/cours_adultes/aquabike/"
-    autre_page: 
+    autre_page: ''
     bouton: Plus d'info
-    couleur_bouton: 
+    couleur_bouton: ''
   - titre: École de natation
-    titre_img: 
-    titre_overlay: 
+    titre_img: ''
+    titre_overlay: ''
     src: "/assets/images/boutonsactivites/ecoledenatation.png"
     href: "/activites/ecole_de_natation/"
-    autre_page: 
+    autre_page: ''
     bouton: Plus d'info
-    couleur_bouton: 
+    couleur_bouton: ''
 slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
@@ -85,7 +85,7 @@ une:
     titre_overlay: Judo
     img: "/boutonsactivites/extrascolaires/judo.png"
     bouton: Plus d'info
-    nouveau: 
+    nouveau: ''
     infos: ''
     description: Véritable sport éducatif, le Judo permet à chacun de devenir plus
       adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles,
@@ -101,7 +101,7 @@ une:
     img: "/boutonsactivites/extrascolaires/tennis.png"
     bouton: Plus d'info
     nouveau: oui
-    infos: 
+    infos: ''
     description: |-
       <b>Cours d’initiation</b> de tennis pour les enfants de 6 à 14 ans. Groupe max de 5 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance.<br/>
       <b>Cours de perfectionnement</b> de tennis pour les enfants de 12 à 18 ans. Minimum 2 ans d'expérience. Groupe max de 4 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance.
@@ -114,34 +114,34 @@ activites:
   nom: Nos activités
   images:
   - titre: Parascolaire
-    titre_img: 
-    titre_overlay: 
+    titre_img: ''
+    titre_overlay: ''
     src: "/assets/images/boutonsactivites/parascolaires.png"
     href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2
-    autre_page: 
+    autre_page: ''
     bouton: Inscription
     couleur_bouton: ''
   - titre: Activités extrascolaires
-    titre_img: 
-    titre_overlay: 
+    titre_img: ''
+    titre_overlay: ''
     src: "/assets/images/boutonsactivites/extrascolaires.png"
     href: "/activites/extrascolaire"
-    autre_page: 
-    bouton: 
-    couleur_bouton: 
+    autre_page: ''
+    bouton: ''
+    couleur_bouton: ''
   - titre: Cours adultes
-    titre_img: 
-    titre_overlay: 
+    titre_img: ''
+    titre_overlay: ''
     src: "/assets/images/boutonscoursadultes/coursadultes.png"
     href: "/cours_adultes"
-    autre_page: 
-    bouton: 
-    couleur_bouton: 
+    autre_page: ''
+    bouton: ''
+    couleur_bouton: ''
   - titre: Évènements
-    titre_img: 
-    titre_overlay: 
+    titre_img: ''
+    titre_overlay: ''
     src: "/assets/images/event/event.png"
     href: "/events"
-    autre_page: 
-    bouton: 
-    couleur_bouton: 
+    autre_page: ''
+    bouton: ''
+    couleur_bouton: ''
