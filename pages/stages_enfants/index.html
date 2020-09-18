@@ -148,37 +148,37 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
         <span>Choisissez votre période</span>
     </div>
     <div class="row">
-	    {% if page.periode.carnaval %}
-      <div class="col-xs-6 col-sm-6 col-md-6">
+	    {% if page.periode.carnaval.online %}
+      <div class="col-xs-3 col-sm-3 col-md-3">
         <a href="#carnaval" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">CARNAVAL</a>
       </div>
       {% endif %}
 
-      {% if page.periode.paques %}
-      <div class="col-xs-6 col-sm-4 col-md-6">
+      {% if page.periode.paques.online. %}
+      <div class="col-xs-3 col-sm-3 col-md-3">
         <a href="#paques" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">PÂQUES</a>
       </div>
       {% endif %}
 
-      {% if page.periode.ete %}
+      {% if page.periode.ete.online. %}
       <div class="col-xs-6 col-sm-6 col-md-6">
         <a href="#ete" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">ÉTÉ</a>
       </div>
       {% endif %}
 
-      {% if page.periode.toussaint %}
+      {% if page.periode.toussaint.online.online %}
       <div class="col-xs-6 col-sm-6 col-md-6">
         <a href="#toussaint" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">TOUSSAINT</a>
       </div>
       {% endif %}
 
-      {% if page.periode.noel %}
+      {% if page.periode.noel.online %}
       <div class="col-xs-6 col-sm-6 col-md-6">
         <a href="#noel" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">NOËL</a>
       </div>
       {% endif %}
 
-      {% if page.periode.nouvelan %}
+      {% if page.periode.nouvelan.online %}
       <div class="col-xs-6 col-sm-6 col-md-6">
         <a href="#noel" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">NOUVEL AN</a>
       </div>
@@ -186,7 +186,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
 
     </div>
 
-    {% if page.periode.carnaval %}
+    {% if page.periode.carnaval.online %}
     <div class="sub-title">
         <span id="carnaval">Carnaval</span>
     </div>
@@ -202,7 +202,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
     {% endif %}
 
-    {% if page.periode.paques %}
+    {% if page.periode.paques.online %}
     <div class="sub-title">
       <span id="paques">Pâques</span>
     </div>
@@ -229,7 +229,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
     {% endif %}
 
-    {% if page.periode.ete %}
+    {% if page.periode.ete.online %}
     <div class="sub-title">
       <span id="ete">Été</span>
     </div>
@@ -251,29 +251,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
     {% endif %}
 
-    {% if page.periode.ete %}
-    <div class="sub-title">
-      <span id="ete">Été</span>
-    </div>
-
-    <div class="row">
-
-      <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062604543787009/sitestagesetebrt.png" titre="Été Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant&Groupe=1" autre_page="oui" bouton="Inscription" %}
-      </div>
-
-      <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062607656091658/sitestagesetebxl.png" titre="Été Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles&Groupe=1" autre_page="oui" bouton="Inscription" %}
-      </div>
-
-      <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062609191075860/sitestagesetelie.png" titre="Été Liège" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Liege" autre_page="oui" bouton="Inscription" %}
-      </div>
-
-    </div>
-    {% endif %}
-
-    {% if page.periode.toussaint %}
+    {% if page.periode.toussaint.online %}
     <div class="sub-title">
       <span id="toussaint">Toussaint</span>
     </div>
@@ -291,7 +269,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
     {% endif %}
 
-    {% if page.periode.noel %}
+    {% if page.periode.noel.online %}
     <div class="sub-title">
       <span id="noel">Noël</span>
     </div>
@@ -309,7 +287,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
     {% endif %}
 
-    {% if page.periode.nouvelan %}
+    {% if page.periode.nouvelan.online %}
     <div class="sub-title">
       <span id="noel">Nouvel An</span>
     </div>
