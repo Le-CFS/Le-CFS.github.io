@@ -81,18 +81,21 @@ une:
       en toute sécurité ! N''attends plus et viens découvrir nos nombreux stages. '
     lieu: Bruxelles - Brabant Wallon
     age: 2.5 - 16 ans
-  - name: Stages Nouvel An
-    titre_overlay: Stages Nouvel An
-    img: "/assets/images/stages/nouvelan.jpg"
+  - name: Padel
+    titre_overlay: Padel
+    img: "/assets/images/padel.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: Viens vivre un moment fun, sportif et créatif durant les vacances
-      en toute sécurité ! N'attends plus et viens découvrir nos nombreux stages.
-    lieu: Bruxelles - Brabant Wallon
-    age: 2.5 - 16 ans
+    description: Nous n'irons pas ramer et faire du Paddle mais nous irons taper la
+      balle et jouer au Padel sur un terrain plus petit que celui du tennis. Le padel
+      se joue deux contre deux en utilisant les murs. C'est un mixte entre le tennis
+      et le squash. Cette activité te tente ? Viens t'inscrire, nous serons ravis
+      de te faire découvrir ce sport en vogue !
+    lieu: Bruxelles
+    age: 8 à 12 ans
   - name: Tennis
     titre_overlay: Tennis
     img: "/assets/images/boutonsactivites/extrascolaires/tennis.png"
