@@ -1,378 +1,302 @@
-# Pour un menu global, plus mobile friendly
+---
 cfs:
-  titre: "Le CFS"
-  url: /cfs/
-  title_mobile: "Qu'est ce que le CFS ?"
+  titre: Le CFS
+  url: "/cfs/"
+  title_mobile: Qu'est ce que le CFS ?
   sousmenu:
-    - title: "News"
-      url: /cfs/news/
-
-    - title: "Réductions"
-      url: /cfs/reductions/
-
-    - title: "Questions fréquentes"
-      url: /cfs/questions_frequentes/
-
-    - title: "Les centres CFS"
-      url: /cfs/les_centres_cfs/
-      title_mobile: "Liste des centres"
-      online_mobile: false
-      mobile: 2 colonnes
-      sousmenu:
-        - title: "Amay"
-          url: "/cfs/les_centres_cfs/amay"
-        - title: "Asse"
-          url: "/cfs/les_centres_cfs/asse"
-        - title: "Auderghem"
-          url: "/cfs/les_centres_cfs/auderghem"
-        - title: "Awans"
-          url: "/cfs/les_centres_cfs/awans"
-        - title: "Beauvechain"
-          url: "/cfs/les_centres_cfs/beauvechain"
-        - title: "Bierges"
-          url: "/cfs/les_centres_cfs/bierges"
-        - title: "Bierges Horse's Corner"
-          title_mobile: "Horse's Corner"
-          url: "/cfs/les_centres_cfs/bierges_horses_corner"
-        - title: "Court-Saint-Étienne"
-          title_mobile: "Court-St-Étienne"
-          url: "/cfs/les_centres_cfs/cse"
-        - title: "Dion Valmont"
-          url: "/cfs/les_centres_cfs/dion_valmont"
-        - title: "Huy"
-          url: "/cfs/les_centres_cfs/huy"
-        - title: "Jette"
-          url: "/cfs/les_centres_cfs/jette"
-        - title: "Laeken"
-          url: "/cfs/les_centres_cfs/laeken"
-        - title: "Ottignies"
-          url: "/cfs/les_centres_cfs/ottignies"
-        - title: "Rixensart"
-          url: "/cfs/les_centres_cfs/rixensart"
-        - title: "Schaerbeek"
-          url: "/cfs/les_centres_cfs/schaerbeek"
-        - title: "Uccle"
-          url: "/cfs/les_centres_cfs/uccle"
-        - title: "Verlaine"
-          url: "/cfs/les_centres_cfs/verlaine"
-        - title: "Villers-le-Bouillet"
-          url: "/cfs/les_centres_cfs/vlb"
-        - title: "Walhain"
-          url: "/cfs/les_centres_cfs/walhain"
-        - title: "Wavre"
-          url: "/cfs/les_centres_cfs/wavre"
-        - title: "Wemmel"
-          url: "/cfs/les_centres_cfs/wemmel"
-        - title: "Woluwé-Saint-Lambert"
-          title_mobile: "Woluwé-St-Lambert"
-          url: "/cfs/les_centres_cfs/wsl"
-        - title: "Woluwé-Saint-Pierre"
-          title_mobile: "Woluwé-St-Pierre"
-          url: "/cfs/les_centres_cfs/wsp/"
-
-    - title: "Partenaires"
-      url: /cfs/partenaires/
-
+  - title: News
+    url: "/cfs/news/"
+  - title: Réductions
+    url: "/cfs/reductions/"
+  - title: Questions fréquentes
+    url: "/cfs/questions_frequentes/"
+  - title: Les centres CFS
+    url: "/cfs/les_centres_cfs/"
+    title_mobile: Liste des centres
+    online_mobile: false
+    mobile: 2 colonnes
+    sousmenu:
+    - title: Amay
+      url: "/cfs/les_centres_cfs/amay"
+    - title: Asse
+      url: "/cfs/les_centres_cfs/asse"
+    - title: Auderghem
+      url: "/cfs/les_centres_cfs/auderghem"
+    - title: Awans
+      url: "/cfs/les_centres_cfs/awans"
+    - title: Beauvechain
+      url: "/cfs/les_centres_cfs/beauvechain"
+    - title: Bierges
+      url: "/cfs/les_centres_cfs/bierges"
+    - title: Bierges Horse's Corner
+      title_mobile: Horse's Corner
+      url: "/cfs/les_centres_cfs/bierges_horses_corner"
+    - title: Court-Saint-Étienne
+      title_mobile: Court-St-Étienne
+      url: "/cfs/les_centres_cfs/cse"
+    - title: Dion Valmont
+      url: "/cfs/les_centres_cfs/dion_valmont"
+    - title: Huy
+      url: "/cfs/les_centres_cfs/huy"
+    - title: Jette
+      url: "/cfs/les_centres_cfs/jette"
+    - title: Laeken
+      url: "/cfs/les_centres_cfs/laeken"
+    - title: Ottignies
+      url: "/cfs/les_centres_cfs/ottignies"
+    - title: Rixensart
+      url: "/cfs/les_centres_cfs/rixensart"
+    - title: Schaerbeek
+      url: "/cfs/les_centres_cfs/schaerbeek"
+    - title: Uccle
+      url: "/cfs/les_centres_cfs/uccle"
+    - title: Verlaine
+      url: "/cfs/les_centres_cfs/verlaine"
+    - title: Villers-le-Bouillet
+      url: "/cfs/les_centres_cfs/vlb"
+    - title: Walhain
+      url: "/cfs/les_centres_cfs/walhain"
+    - title: Wavre
+      url: "/cfs/les_centres_cfs/wavre"
+    - title: Wemmel
+      url: "/cfs/les_centres_cfs/wemmel"
+    - title: Woluwé-Saint-Lambert
+      title_mobile: Woluwé-St-Lambert
+      url: "/cfs/les_centres_cfs/wsl"
+    - title: Woluwé-Saint-Pierre
+      title_mobile: Woluwé-St-Pierre
+      url: "/cfs/les_centres_cfs/wsp/"
+  - title: Partenaires
+    url: "/cfs/partenaires/"
 stages_enfants:
-  titre: "Stages enfants"
-  url: /stages/
-  title_mobile: "Réservation"
+  titre: Stages enfants
+  url: "/stages/"
+  title_mobile: Réservation
   sousmenu:
-    - title: "Un stage pour tous"
-      url: /stages/activites/
-      title_mobile: "Catalogue des stages"
-      sousmenu:
-        - title: "Les Petits Bouts"
-          url: "/stages/activites/petits_bouts/"
-        - title: "Découvertes sportives et culturelles"
-          url: "/stages/activites/decouvertes_sportives_et_culturelles"
-        - title: "Danse et Gymnastique"
-          url: "/stages/activites/danse_et_gymnastique/"
-        - title: "Activités Fun"
-          url: "/stages/activites/activites_fun/"
-        - title: "Activités sportives"
-          url: "/stages/activites/activites_sportives/"
-        - title: "Activités artistiques et loisirs"
-          url: "/stages/activites/activites_artistiques_et_loisirs/"
-    - title: "Organisation ETE 2020"
-      url: /stages/protocole/
+  - title: Un stage pour tous
+    url: "/stages/activites/"
+    title_mobile: Catalogue des stages
+    sousmenu:
+    - title: Les Petits Bouts
+      url: "/stages/activites/petits_bouts/"
+    - title: Découvertes sportives et culturelles
+      url: "/stages/activites/decouvertes_sportives_et_culturelles"
+    - title: Danse et Gymnastique
+      url: "/stages/activites/danse_et_gymnastique/"
+    - title: Activités Fun
+      url: "/stages/activites/activites_fun/"
+    - title: Activités sportives
+      url: "/stages/activites/activites_sportives/"
+    - title: Activités artistiques et loisirs
+      url: "/stages/activites/activites_artistiques_et_loisirs/"
+  - title: Organisation des stages
+    url: "/stages/protocole/"
+    online_mobile: false
+    sousmenu:
+    - title: Organisation générale
+      url: "/stages/protocole/general/"
+    - title: Silos à Bruxelles
+      url: "/stages/protocole/bruxelles/"
       online_mobile: false
       sousmenu:
-        - title: "Organisation générale"
-          url: /stages/protocole/general/
-        - title: "Silos à Bruxelles"
-          url: /stages/protocole/bruxelles/
-          online_mobile: false
-          sousmenu:
-            - title: "Jette"
-              url: "/stages/protocole/bruxelles/jette/"
-            - title: "Laeken"
-              url: "/stages/protocole/bruxelles/laeken/"
-            - title: "Wemmel"
-              url: "/stages/protocole/bruxelles/wemmel/"
-            - title: "Uccle"
-              url: "/stages/protocole/bruxelles/uccle/"
-            - title: "Woluwé"
-              url: "/stages/protocole/bruxelles/woluwe/"
-            - title: "Auderghem"
-              url: "/stages/protocole/bruxelles/auderghem/"
-        - title: "Silos dans le Brabant"
-          url: /stages/protocole/brabant/
-          online_mobile: false
-          sousmenu:
-            - title: "Wavre"
-              url: "/stages/protocole/brabant/wavre/"
-            - title: "Ottignies"
-              url: "/stages/protocole/brabant/ottignies/"
-            - title: "Rixensart"
-              url: "/stages/protocole/brabant/rixensart/"
-            - title: "Bierges"
-              url: "/stages/protocole/brabant/bierges/"
-            - title: "Walhain"
-              url: "/stages/protocole/brabant/walhain/"
-        - title: "Silos à Liège"
-          url: /stages/protocole/liege/
-          online_mobile: false
-          sousmenu:
-            - title: "Huy"
-              url: "/stages/protocole/liege/huy/"
-            - title: "Verlaine"
-              url: "/stages/protocole/liege/verlaine/"
-            - title: "Villers-le-Bouillet"
-              url: "/stages/protocole/liege/villers-le-bouillet/"
-            - title: "Amay"
-              url: "/stages/protocole/liege/amay/"
-            - title: "Awans"
-              url: "/stages/protocole/liege/awans/"
-
-    - title: "Lieux de stage"
-      url: /stages/lieux_de_stage/
-      # sousmenu:
-      #   - title: "Jette"
-      #     url: "/stages/lieux_de_stage/jette/" 
-      #   - title: "Wemmel"
-      #     url: "/stages/lieux_de_stage/wemmel/" 
-      #   - title: "Asse"
-      #     url: "/stages/lieux_de_stage/asse/" 
-      #   - title: "Laeken"
-      #     url: "/stages/lieux_de_stage/laeken/" 
-      #   - title: "Woluwé-Saint-Pierre"
-      #     url: "/stages/lieux_de_stage/wsp/" 
-      #   - title: "Auderghem"
-      #     url: "/stages/lieux_de_stage/auderghem/" 
-      #   - title: "Uccle"
-      #     url: "/stages/lieux_de_stage/uccle/" 
-      #   - title: "Schaerbeek"
-      #     url: "/stages/lieux_de_stage/schaerbeek/"
-      #   - title: "Bierges"
-      #     url: "/stages/lieux_de_stage/bierges/"
-      #   - title: "Wavre"
-      #     url: "/stages/lieux_de_stage/wavre/"
-      #   - title: "Rixensart"
-      #     url: "/stages/lieux_de_stage/rixensart/" 
-      #   - title: "Ottignies"
-      #     url: "/stages/lieux_de_stage/ottignies/"
-      #   - title: "Dion"
-      #     url: "/stages/lieux_de_stage/dion/"
-      #   - title: "Walhain"
-      #     url: "/stages/lieux_de_stage/walhain/"
-      #   - title: "Chaumont"
-      #     url: "/stages/lieux_de_stage/chaumont/" 
-      #   - title: "Amay"
-      #     url: "/stages/lieux_de_stage/amay/"
-      #   - title: "Awans"
-      #     url: "/stages/lieux_de_stage/awans/"
-      #   - title: "Huy"
-      #     url: "/stages/lieux_de_stage/huy/"
-      #   - title: "Verlaine"
-      #     url: "/stages/lieux_de_stage/verlaine/" 
-      #   - title: "Villers-le-Bouillet"
-      #     url: "/stages/lieux_de_stage/vlb/"
-    - title: "Garderie"
-      url: /stages/garderie/
-
-    - title: "Réductions"
-      url: /stages/reductions/
-
-    - title: "Informations pratiques"
-      url: /stages/informations_pratiques/
+      - title: Jette
+        url: "/stages/protocole/bruxelles/jette/"
+      - title: Laeken
+        url: "/stages/protocole/bruxelles/laeken/"
+      - title: Wemmel
+        url: "/stages/protocole/bruxelles/wemmel/"
+      - title: Uccle
+        url: "/stages/protocole/bruxelles/uccle/"
+      - title: Woluwé
+        url: "/stages/protocole/bruxelles/woluwe/"
+      - title: Auderghem
+        url: "/stages/protocole/bruxelles/auderghem/"
+    - title: Silos dans le Brabant
+      url: "/stages/protocole/brabant/"
       online_mobile: false
       sousmenu:
-        - title: "Organisation générale"
-          url: "/stages/informations_pratiques/organisation_generale/" 
-        - title: "Conseils pratiques"
-          url: "/stages/informations_pratiques/conseils_pratiques/" 
-        - title: "Assurances"
-          url: "/stages/informations_pratiques/assurances/" 
-        - title: "Attestations"
-          url: "/stages/informations_pratiques/attestations/"
-        - title: "Conditions générales"
-          url: "/stages/informations_pratiques/conditions_generales/"
-    - title: "Partenaires pédagogiques"
-      url: /stages/partenaires_pedagogiques/
-    - title: "Nos partenaires de stage"
-      url: /stages/nos_partenaires_de_stage/
-
+      - title: Wavre
+        url: "/stages/protocole/brabant/wavre/"
+      - title: Ottignies
+        url: "/stages/protocole/brabant/ottignies/"
+      - title: Rixensart
+        url: "/stages/protocole/brabant/rixensart/"
+      - title: Bierges
+        url: "/stages/protocole/brabant/bierges/"
+      - title: Walhain
+        url: "/stages/protocole/brabant/walhain/"
+    - title: Silos à Liège
+      url: "/stages/protocole/liege/"
+      online_mobile: false
+      sousmenu:
+      - title: Huy
+        url: "/stages/protocole/liege/huy/"
+      - title: Verlaine
+        url: "/stages/protocole/liege/verlaine/"
+      - title: Villers-le-Bouillet
+        url: "/stages/protocole/liege/villers-le-bouillet/"
+      - title: Amay
+        url: "/stages/protocole/liege/amay/"
+      - title: Awans
+        url: "/stages/protocole/liege/awans/"
+  - title: Lieux de stage
+    url: "/stages/lieux_de_stage/"
+  - title: Garderie
+    url: "/stages/garderie/"
+  - title: Réductions
+    url: "/stages/reductions/"
+  - title: Informations pratiques
+    url: "/stages/informations_pratiques/"
+    online_mobile: false
+    sousmenu:
+    - title: Organisation générale
+      url: "/stages/informations_pratiques/organisation_generale/"
+    - title: Conseils pratiques
+      url: "/stages/informations_pratiques/conseils_pratiques/"
+    - title: Assurances
+      url: "/stages/informations_pratiques/assurances/"
+    - title: Attestations
+      url: "/stages/informations_pratiques/attestations/"
+    - title: Conditions générales
+      url: "/stages/informations_pratiques/conditions_generales/"
+  - title: Partenaires pédagogiques
+    url: "/stages/partenaires_pedagogiques/"
+  - title: Nos partenaires de stage
+    url: "/stages/nos_partenaires_de_stage/"
 activites:
-  titre: "Activités enfants"
-  url: /activites/
-  title_mobile: "Informations générales"
+  titre: Activités enfants
+  url: "/activites/"
+  title_mobile: Informations générales
   sousmenu:
-    - title: "Extrascolaire pour tous"
-      url: /activites/extrascolaire/
-      title_mobile: "Catalogue extrascolaire"
-      sousmenu:
-        - title: "Les Petits Bouts"
-          url: "/activites/extrascolaire/petits_bouts/" 
-        - title: "Découvertes sportives et culturelles"
-          url: "/activites/extrascolaire/decouvertes_sportives_et_culturelles" 
-        - title: "Danse et Gymnastique"
-          url: "/activites/extrascolaire/danse_et_gymnastique/" 
-        - title: "Activités Fun"
-          url: "/activites/extrascolaire/activites_fun/" 
-        - title: "Activités sportives"
-          url: "/activites/extrascolaire/activites_sportives/" 
-        - title: "Activités artistiques et loisirs"
-          url: "/activites/extrascolaire/activites_artistiques_et_loisirs/" 
-    - title: "École de natation"
-      url: /activites/ecole_de_natation/
-      title_mobile: "École de Natation"
-      online_mobile: false
-      sousmenu:
-        - title: "Bébés nageurs"
-          url: /activites/ecole_de_natation/bebes_nageurs/
-        - title: "Cours particuliers"
-          url: /activites/ecole_de_natation/cours_particuliers/
-        - title: "Cours de transition"
-          url: /activites/ecole_de_natation/cours_transition/
-        - title: "Mini-club"
-          url: /activites/ecole_de_natation/mini_club/
-        - title: "Psycho-aqua"
-          url: /activites/ecole_de_natation/psycho_aqua/
-        - title: "Cours collectifs"
-          url: /activites/ecole_de_natation/cours_collectifs/
-    - title: "CFS Academy"
-      url: /activites/cfs_academy/
-      title_mobile: "CFS Academy"
-      online_mobile: false
-      sousmenu:
-        - title: "Mini-foot Academy"
-          url: /activites/cfs_academy/mini_foot_academy/
-        - title: "Gym pro Academy"
-          url: /activites/cfs_academy/gym_pro_academy/
-        - title: "École de natation"
-          url: /activites/cfs_academy/ecole_de_natation/
-        - title: "Tennis Academy"
-          url: /activites/cfs_academy/tennis_academy/
-        - title: "Judo Academy"
-          url: /activites/cfs_academy/judo_academy/
-        - title: "Robotique Academy"
-          url: /activites/cfs_academy/robotique_academy/
-        - title: "Danse Academy"
-          url: /activites/cfs_academy/danse_academy/
-    # - title: "Parascolaire dans mon école"
-    #   url: /activites/parascolaire/
-    #   sousmenu:
-    #     - title: "Les Petits Bouts"
-    #       url: "/activites/parascolaire/petits_bouts/" 
-    #     - title: "Découvertes sportives et culturelles"
-    #       url: "/activites/parascolaire/decouvertes_sportives_et_culturelles" 
-    #     - title: "Danse et Gymnastique"
-    #       url: "/activites/parascolaire/danse_et_gymnastique/" 
-    #     - title: "Activités Fun"
-    #       url: "/activites/parascolaire/activites_fun/" 
-    #     - title: "Activités sportives"
-    #       url: "/activites/parascolaire/activites_sportives/" 
-    #     - title: "Activités artistiques et loisirs"
-    #       url: "/activites/parascolaire/activites_artistiques_et_loisirs/"
-  
+  - title: Extrascolaire pour tous
+    url: "/activites/extrascolaire/"
+    title_mobile: Catalogue extrascolaire
+    sousmenu:
+    - title: Les Petits Bouts
+      url: "/activites/extrascolaire/petits_bouts/"
+    - title: Découvertes sportives et culturelles
+      url: "/activites/extrascolaire/decouvertes_sportives_et_culturelles"
+    - title: Danse et Gymnastique
+      url: "/activites/extrascolaire/danse_et_gymnastique/"
+    - title: Activités Fun
+      url: "/activites/extrascolaire/activites_fun/"
+    - title: Activités sportives
+      url: "/activites/extrascolaire/activites_sportives/"
+    - title: Activités artistiques et loisirs
+      url: "/activites/extrascolaire/activites_artistiques_et_loisirs/"
+  - title: École de natation
+    url: "/activites/ecole_de_natation/"
+    title_mobile: École de Natation
+    online_mobile: false
+    sousmenu:
+    - title: Bébés nageurs
+      url: "/activites/ecole_de_natation/bebes_nageurs/"
+    - title: Cours particuliers
+      url: "/activites/ecole_de_natation/cours_particuliers/"
+    - title: Cours de transition
+      url: "/activites/ecole_de_natation/cours_transition/"
+    - title: Mini-club
+      url: "/activites/ecole_de_natation/mini_club/"
+    - title: Psycho-aqua
+      url: "/activites/ecole_de_natation/psycho_aqua/"
+    - title: Cours collectifs
+      url: "/activites/ecole_de_natation/cours_collectifs/"
+  - title: CFS Academy
+    url: "/activites/cfs_academy/"
+    title_mobile: CFS Academy
+    online_mobile: false
+    sousmenu:
+    - title: Mini-foot Academy
+      url: "/activites/cfs_academy/mini_foot_academy/"
+    - title: Gym pro Academy
+      url: "/activites/cfs_academy/gym_pro_academy/"
+    - title: École de natation
+      url: "/activites/cfs_academy/ecole_de_natation/"
+    - title: Tennis Academy
+      url: "/activites/cfs_academy/tennis_academy/"
+    - title: Judo Academy
+      url: "/activites/cfs_academy/judo_academy/"
+    - title: Robotique Academy
+      url: "/activites/cfs_academy/robotique_academy/"
+    - title: Danse Academy
+      url: "/activites/cfs_academy/danse_academy/"
 cours_adultes:
-  titre: "Cours adultes"
-  url: /cours_adultes/
-  title_mobile: "Liste des activités"
+  titre: Cours adultes
+  url: "/cours_adultes/"
+  title_mobile: Liste des activités
   online_mobile: false
   sousmenu:
-    - title: "Abdos fessiers"
-      url: /cours_adultes/abdos_fessiers/
-    - title: "Aquabike"
-      url: /cours_adultes/aquabike/
-    - title: "Aquagym"
-      url: /cours_adultes/aquagym/
-    - title: "Aqua mix"
-      url: /cours_adultes/aquamix/
-    - title: "Yoga"
-      url: /cours_adultes/yoga/
-    - title: "Gym entretien"
-      url: /cours_adultes/gymentretien/
-    - title: "Swiss jump"
-      url: /cours_adultes/swissjump/
-    - title: "En savoir plus"
-      url: /cours_adultes/en_savoir_plus/
-
-
+  - title: Abdos fessiers
+    url: "/cours_adultes/abdos_fessiers/"
+  - title: Aquabike
+    url: "/cours_adultes/aquabike/"
+  - title: Aquagym
+    url: "/cours_adultes/aquagym/"
+  - title: Aqua mix
+    url: "/cours_adultes/aquamix/"
+  - title: Yoga
+    url: "/cours_adultes/yoga/"
+  - title: Gym entretien
+    url: "/cours_adultes/gymentretien/"
+  - title: Swiss jump
+    url: "/cours_adultes/swissjump/"
+  - title: En savoir plus
+    url: "/cours_adultes/en_savoir_plus/"
 anniversaires:
-  titre: "Anniversaires"
-  url: /anniversaires/
-  title_mobile: "Réservation"
+  titre: Anniversaires
+  url: "/anniversaires/"
+  title_mobile: Réservation
   sousmenu:
-    - title: "À mon domicile"
-      url: /anniversaires/domicile/
-    - title: "Lieu sportif et fun"
-      url: /anniversaires/lieu_sportif_et_fun/
-    - title: "À la piscine"
-      url: /anniversaires/piscine/
-    - title: "Réservation"
-      url: /anniversaires/reservation/
-      online_mobile: false
-    - title: "En savoir plus"
-      url: /anniversaires/en_savoir_plus/
-
+  - title: À mon domicile
+    url: "/anniversaires/domicile/"
+  - title: Lieu sportif et fun
+    url: "/anniversaires/lieu_sportif_et_fun/"
+  - title: À la piscine
+    url: "/anniversaires/piscine/"
+  - title: Réservation
+    url: "/anniversaires/reservation/"
+    online_mobile: false
+  - title: En savoir plus
+    url: "/anniversaires/en_savoir_plus/"
 events:
-  titre: "Events"
-  url: /events/
-  title_mobile: "Liste des activités"
+  titre: Events
+  url: "/events/"
+  title_mobile: Liste des activités
   online_mobile: false
   sousmenu:
-    - title: "Anniversaires"
-      url: /events/anniversaires/
-      title_mobile: "Informations générales"
-      online_mobile: false
-      sousmenu:
-        - title: À mon domicile 
-          url: /events/anniversaires/domicile
-        - title: Lieu sportif et fun
-          url: /events/anniversaires/lieu_sportif_et_fun/
-        - title: À la piscine
-          url: /events/anniversaires/piscine
-        - title: En savoir plus
-          url: /events/anniversaires/en_savoir_plus
-    - title: "EVG"
-      url: /events/evg/
-    - title: "Journées sportives"
-      url: /events/journees_sportives/
-    - title: "Journées pédagogiques"
-      url: /events/journees_pedagogiques/
-    - title: "Fancy-Fair"
-      url: /events/fancy_fair/
-    - title: "Location de matériel"
-      url: /events/location/
-      # sousmenu:
-      #   - title: "Activités fun"
-      #       url: "/events/location/fun"
-      #     - title: "Châteaux gonflables"
-      #       url: "/events/location/chateaux"
-
+  - title: Anniversaires
+    url: "/events/anniversaires/"
+    title_mobile: Informations générales
+    online_mobile: false
+    sousmenu:
+    - title: À mon domicile
+      url: "/events/anniversaires/domicile"
+    - title: Lieu sportif et fun
+      url: "/events/anniversaires/lieu_sportif_et_fun/"
+    - title: À la piscine
+      url: "/events/anniversaires/piscine"
+    - title: En savoir plus
+      url: "/events/anniversaires/en_savoir_plus"
+  - title: EVG
+    url: "/events/evg/"
+  - title: Journées sportives
+    url: "/events/journees_sportives/"
+  - title: Journées pédagogiques
+    url: "/events/journees_pedagogiques/"
+  - title: Fancy-Fair
+    url: "/events/fancy_fair/"
+  - title: Location de matériel
+    url: "/events/location/"
 brochures:
-  titre: "Brochures"
-  url: /brochures/
+  titre: Brochures
+  url: "/brochures/"
   sousmenu:
-    - title: "Stages"
-      url: /brochures/stages/
-    - title: "Extrascolaire"
-      url: /brochures/extrascolaire/
-    - title: "Anniversaires"
-      url: /brochures/anniversaires/
-
+  - title: Stages
+    url: "/brochures/stages/"
+  - title: Extrascolaire
+    url: "/brochures/extrascolaire/"
+  - title: Anniversaires
+    url: "/brochures/anniversaires/"
 contact:
-  titre: "Contact"
-  url: /contact/
+  titre: Contact
+  url: "/contact/"
