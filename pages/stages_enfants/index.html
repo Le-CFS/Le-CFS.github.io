@@ -65,7 +65,7 @@ periode:
       image: ''
       link: ''
   toussaint:
-    online: false
+    online: true
     bruxelles:
       online: true
       clickable: false
@@ -149,13 +149,13 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
     <div class="row">
 	    {% if page.periode.carnaval.online %}
-      <div class="col-xs-3 col-sm-3 col-md-3">
+      <div class="col-xs-6 col-sm-6 col-md-3">
         <a href="#carnaval" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">CARNAVAL</a>
       </div>
       {% endif %}
 
       {% if page.periode.paques.online. %}
-      <div class="col-xs-3 col-sm-3 col-md-3">
+      <div class="col-xs-6 col-sm-6 col-md-3">
         <a href="#paques" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">PÂQUES</a>
       </div>
       {% endif %}
@@ -192,11 +192,11 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
 
     <div class="row">
-      <div class="col-xs-6 col-sm-6 col-md-4">
+      <div class="col-xs-6 col-sm-6 col-md-3">
         {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656061360148316172/sitestagescarnavalbrt.png" titre="Carnaval Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant&Groupe=1" autre_page="oui" bouton="Inscription" %}
       </div>
 
-      <div class="col-xs-6 col-sm-6 col-md-4">
+      <div class="col-xs-6 col-sm-6 col-md-3">
         {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656061357333938216/sitestagescarnavalbxl.png" titre="Carnaval Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles&Groupe=1" autre_page="oui" bouton="Inscription" %}
       </div>
     </div>
