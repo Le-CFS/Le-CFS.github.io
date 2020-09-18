@@ -71,7 +71,7 @@ une:
     age: 2.5-16 ans
   - name: Stages Noël
     titre_overlay: Stages Noël
-    img: "/boutonsactivites/extrascolaires/gymnastique.png"
+    img: "/assets/images/stages/stagenoel.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
