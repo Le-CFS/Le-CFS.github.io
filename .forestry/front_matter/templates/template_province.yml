@@ -1,4 +1,34 @@
 ---
 label: template_province
 hide_body: true
-fields: []
+fields:
+- name: bruxelles
+  type: field_group
+  config: {}
+  fields:
+  - name: infos
+    type: include
+    config: {}
+    template: template_province_stage
+    label: Infos
+  label: Bruxelles
+- name: brabant
+  type: field_group
+  config: {}
+  fields:
+  - name: infos
+    type: include
+    config: {}
+    template: template_province_stage
+    label: infos
+  label: Brabant
+- name: liege
+  type: field_group
+  config: {}
+  fields:
+  - name: infos
+    type: include
+    config: {}
+    template: template_province_stage
+    label: infos
+  label: Liège
