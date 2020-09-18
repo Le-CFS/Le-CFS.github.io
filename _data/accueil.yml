@@ -77,33 +77,44 @@ une:
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: 'Viens vivre un moment fun, sportif et créatif durant les vacances
-      en toute sécurité ! N''attends plus et viens découvrir nos nombreux stages. '
-    lieu: Bruxelles - Brabant Wallon
-    age: 2.5 - 16 ans
-  - name: Stages Nouvel An
-    titre_overlay: Stages Nouvel An
-    img: "/assets/images/stages/nouvelan.jpg"
+    description: |-
+      Votre enfant est fou de création et de programmation?
+
+      Ce stage allie les deux:  les nouvelles technologies et l’informatique.
+
+      Afin de donner aux enfants de nouvelles clefs de réussite, nous allons via 5 sessions d’exercices développer des processus de réflexion pour formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation de robots et présentation du travail effectué).
+
+      Pour éviter que les enfants restent toute la journée devant les écrans, ils passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du centre.
+    lieu: Brabant Wallon
+    age: 8 - 12 ans
+  - name: Padel
+    titre_overlay: Padel
+    img: "/assets/images/padel.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: Viens vivre un moment fun, sportif et créatif durant les vacances
-      en toute sécurité ! N'attends plus et viens découvrir nos nombreux stages.
-    lieu: Bruxelles - Brabant Wallon
-    age: 2.5 - 16 ans
-  - name: Tennis
-    titre_overlay: Tennis
-    img: "/assets/images/boutonsactivites/extrascolaires/tennis.png"
+    description: Nous n'irons pas ramer et faire du Paddle mais nous irons taper la
+      balle et jouer au Padel sur un terrain plus petit que celui du tennis. Le padel
+      se joue deux contre deux en utilisant les murs. C'est un mixte entre le tennis
+      et le squash. Cette activité te tente ? Viens t'inscrire, nous serons ravis
+      de te faire découvrir ce sport en vogue !
+    lieu: Bruxelles
+    age: 8 à 12 ans
+  - name: Parkour
+    titre_overlay: Parkour
+    img: "/assets/images/parkour.jpg"
     bouton: Plus d'info
     nouveau: oui
-    infos: ''
-    description: |-
-      <b>Cours d’initiation</b> de tennis pour les enfants de 6 à 14 ans. Groupe max de 5 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance.<br/>
-      <b>Cours de perfectionnement</b> de tennis pour les enfants de 12 à 18 ans. Minimum 2 ans d'expérience. Groupe max de 4 enfants. Le droit d'inscription comprend: cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure), prêt de raquette et assurance.
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: Cette discipline utilise le corps pour seul outil. Face à des obstacles
+      naturels, ce sont les habilités motrices qui servent de support à l'activité.
+      Courses, sauts, grimpes, exercices d'équilibre et de suspension sont au programme.
     lieu: Brabant Wallon
-    age: 6 - 18 ans
+    age: 10 - 12 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
