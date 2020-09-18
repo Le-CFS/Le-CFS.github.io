@@ -33,6 +33,14 @@ fields:
     - name: online
       type: boolean
       label: À afficher ?
+    - name: periode
+      type: include
+      config: {}
+      template: template_province
+      label: Période
+      showOnly:
+        field: online
+        value: true
     label: Carnaval
   - name: paques
     type: field_group
@@ -41,6 +49,14 @@ fields:
     - name: online
       type: boolean
       label: À afficher ?
+    - name: periode
+      type: include
+      config: {}
+      template: template_province
+      label: Période
+      showOnly:
+        field: online
+        value: true
     label: Pâques
   - name: ete
     type: field_group
@@ -49,6 +65,14 @@ fields:
     - name: online
       type: boolean
       label: À afficher ?
+    - name: periode
+      type: include
+      config: {}
+      template: template_province
+      label: Période
+      showOnly:
+        field: online
+        value: true
     label: Été
   - name: toussaint
     type: field_group
@@ -57,6 +81,14 @@ fields:
     - name: online
       type: boolean
       label: À afficher ?
+    - name: periode
+      type: include
+      config: {}
+      template: template_province
+      label: Période
+      showOnly:
+        field: online
+        value: true
     label: Toussaint
   - name: noel
     type: field_group
@@ -65,6 +97,14 @@ fields:
     - name: online
       type: boolean
       label: À afficher ?
+    - name: periode
+      type: include
+      config: {}
+      template: template_province
+      label: Période
+      showOnly:
+        field: online
+        value: true
     label: Noël
   - name: nouvelan
     type: field_group
@@ -73,6 +113,14 @@ fields:
     - name: online
       type: boolean
       label: À afficher ?
+    - name: periode
+      type: include
+      config: {}
+      template: template_province
+      label: Période
+      showOnly:
+        field: online
+        value: true
     label: Nouvel an
 - name: seo
   type: include
