@@ -15,88 +15,69 @@ menu: stages
 }
 </style>
 
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622053458509874/uccle.png"/></p>
+{% if page.remarque == nil or page.remarque == '' %}
+{% else %}
+{{ page.remarque }}
+{% endif %}
 
-<!-- <p><a class="a" href="#">Pour télécharger le protocole, cliquez ici.</a></p> (Pas encore opérationnel) -->
+{% assign centres = page.centres %}
 
-<h5>1. Silo Bleu</h5>
+<div id="container">
 
-<p>Ce silo comprend les stages suivants : </p>
+  <div class="team-members-tow mtb-50">
+
+    {% if centres[1] %}
+    <div class="sub-title">
+        <span>Choisissez votre centre</span>
+    </div>
+    <div class="row">
+      {% for centre in centres %}
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        <a href="#{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">{{ centre.name }}</a>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+{% for centre in centres %}
+  <span id="{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}"></span>
+    <div class="sub-title">
+      <span>Organisation des silos - {{ centre.name }}</span>
+    </div>
+
+{% if centre.map == nil or centre.map == '' %}
+{% else %}
+<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622765571506226/jette_1.png"/></p>
+{% endif %}
+
+{% assign compteur = 1 %}
+{% for silo in centre.silos %}
+<h5>{{compteur}}. Silo {{ silo.color }}</h5> 
+
+{% if silo.stages[1] %}
+{% assign pluriel = true %}
+{% else %}
+{% assign pluriel = false %}
+{% endif %}
+
+<p>Ce silo comprend le{% if pluriel %}s{% endif %} stage{% if pluriel %}s{% endif %} suivant{% if pluriel %}s{% endif %} : </p>
 <ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Aikido & sport</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby aikido</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby-foot</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby multisport</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Cirque</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Fun multisport</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Futsal</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Vélo môme</li>
+  {% for stage in silo.stages %}
+  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>{{ stage }}</li>
+  {% endfor %}
 </ul>
-
-<p>Adresse exacte du lieu d’accueil : Entrée par l’Avenue de Brugmann 483 – 1180 Uccle</p>
-
-<h5>2. Silo Vert</h5>
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby danse</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Pré psycho</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Princesses</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho découverte</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho grimpette</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho sport</li>
-</ul>
-
-<p>Adresse exacte du lieu d’accueil : Entrée par l’Avenue de Brugmann 483 – 1180 Uccle</p>
-
-<h5>3. Silo Rouge</h5>
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Danse</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Diner parfait</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Escalade</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>GRS</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Immersion néerlandais/anglais</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Ma déco</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Photo argentique</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Théâtre</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Vidéo reportage</li>
-</ul>
-
-<p>Adresse exacte du lieu d’accueil : Entrée par l’Avenue Coghen, 205 – 1180 Uccle</p>
-
-<h5>4. Silo Jaune</h5>
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Aventure</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby tennis</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Koh Lanta</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Raquettes</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Tennis</li>
-</ul>
-
-<p>Adresse exacte du lieu d’accueil : Entrée par l’Avenue de Brugmann 483 – 1180 Uccle</p>
-
-<h5>5. Silo Noir</h5>
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Evasion</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Fun ados</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Fun VTT </li>
-</ul>
-
-<p>Adresse exacte du lieu d’accueil : Entrée par l’Avenue de Brugmann 483 – 1180 Uccle</p>
+{% if silo.address == nil or silo.address == '' %}
+{% else %}
+<p>{{ silo.address }}</p>
+{% endif %}
 
 
-<h5>6. Silo Orange</h5>
+{% assign compteur = compteur | plus:1 %}
+{% endfor %}
 
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Escalade découverte</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Mini Lanta</li>
-</ul>
+{% endfor %}
+  
 
-<p>Adresse exacte du lieu d’accueil : Entrée par l’Avenue de Brugmann 483 – 1180 Uccle</p>
+  </div>
+
+</div>

@@ -15,150 +15,68 @@ menu: stages
 }
 </style>
 
-L’organisation des silos de ce site seront disponibles le 19/6.
+{% if page.remarque == nil or page.remarque == '' %}
+{% else %}
+{{ page.remarque }}
+{% endif %}
 
-Les consignes étant différentes en fonction du centre dans lequel votre enfant va passer sa semaine, nous avons détaillé ci-dessous les différents protocoles.
+{% assign centres = page.centres %}
 
 <div id="container">
 
   <div class="team-members-tow mtb-50">
 
+    {% if centres[1] %}
     <div class="sub-title">
         <span>Choisissez votre centre</span>
     </div>
     <div class="row">
+      {% for centre in centres %}
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        <a href="#{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">{{ centre.name }}</a>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
 
-      <div class="col-md-6">
-        <a href="#centre" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Centre sportif</a>
-      </div>
-      <div class="col-md-6">
-        <a href="#athenee" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Athénée de Rixensart</a>
-      </div>
-      <div class="col-md-6">
-        <a href="#gare" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Gare de Rixensart</a>
-      </div>
-      <div class="col-md-6">
-        <a href="#chateau" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Château de Mérode</a>
-      </div>
+{% for centre in centres %}
+  <span id="{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}"></span>
+    <div class="sub-title">
+      <span>Organisation des silos - {{ centre.name }}</span>
     </div>
 
-<span id="centre"></span>
-<div class="sub-title">
-    <span>Organisation des silos du centre sportif</span>
-</div>
+{% if centre.map == nil or centre.map == '' %}
+{% else %}
+<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622765571506226/jette_1.png"/></p>
+{% endif %}
 
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/723635877007458355/rix_1.png"/></p>
+{% assign compteur = 1 %}
+{% for silo in centre.silos %}
+<h5>{{compteur}}. Silo {{ silo.color }}</h5> 
 
-<p>Ce centre comprend les stages suivants : </p>
+{% if silo.stages[1] %}
+{% assign pluriel = true %}
+{% else %}
+{% assign pluriel = false %}
+{% endif %}
 
+<p>Ce silo comprend le{% if pluriel %}s{% endif %} stage{% if pluriel %}s{% endif %} suivant{% if pluriel %}s{% endif %} : </p>
 <ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Astucieux</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Aqua Fun</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby-Danse & Bijoux</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby-Foot</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Danse</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Diner Parfait</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Découverte Sportive</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Découverte Sportive & Natation</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Expression Corporelle & Sport</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Plongée</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Princesse & Pirates</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Aqua</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Grimpette</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Natation</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Football</li>
+  {% for stage in silo.stages %}
+  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>{{ stage }}</li>
+  {% endfor %}
 </ul>
+{% if silo.address == nil or silo.address == '' %}
+{% else %}
+<p>{{ silo.address }}</p>
+{% endif %}
 
-<h5>1. Silo Bleu</h5> 
 
-<p>Adresse exacte : Rue de Froimont - Parking Place de la Perche. Prendre à pied la passerelle. Accueil salle Polyvalente 1er étage. </p>
+{% assign compteur = compteur | plus:1 %}
+{% endfor %}
 
-<h5>2. Silo Vert</h5> 
-
-<p>Adresse exacte : Rue de Froimont - Parking Place de la Perche. Longer le centre sportif sur la gauche. Accueil porte extérieur Terrain 3 du hall sportif.</p>
-
-<span id="athenee"></span>
-<div class="sub-title">
-    <span>Organisation des silos de l'Athénée</span>
-</div>
-
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/723635890794266745/rix_2.png"/></p>
-
-<p>Ce centre comprend les stages suivants : </p>
-
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Aventure</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Bricoleur & Sport</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Gymnastique</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>GRS</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Les Explorateurs</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Magie</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Koh-Lanta</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Mini-Lanta</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Artiste</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Cirque</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Hip-Hop</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>X-Trem</li>
-
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Self défense</li>
-
-</ul>
-
-<h5>1. Silo Orange</h5> 
-
-<p>Adresse exacte : se garer sur le parking de l’école. Suivre les flèches.</p>
-
-<h5>2. Silo Vert</h5> 
-
-<p>Adresse exacte : se garer sur le parking de l’école. Suivre les flèches.</p>
-
-<span id="gare"></span>
-<div class="sub-title">
-    <span>Organisation des silos de la Gare</span>
-</div>
-
-<strong>
-Attention : port du masque obligatoire à l’accueil. 
-• Départ en train à 9h10 ! Soyez là plus tôt. 
-• Retour en train à 16h10 ! 
-
-Pas de garderie. Le moniteur est présent à 8h20 jusque 16h45.
-</strong>
-
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/723635910251511818/rix_3.png"/></p>
-
-<h5>1. Silo Rose</h5> 
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>BMX</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Skate</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Trottinette</li>
-</ul>
-
-<span id="chateau"></span>
-<div class="sub-title">
-    <span>Organisation des silos du Château de Mérode</span>
-</div>
-
-<strong>
-Attention : port du masque obligatoire à l’accueil. 
-• Départ en autocar à 8h40 ! Soyez là plus tôt. 
-• Retour en autocar vers 16h15 ! 
-
-Pas de garderie. Le moniteur est présent à 8h20 jusque 16h45.
-</strong>
-
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/723635922268061746/rix_4.png"/></p>
-
-<h5>1. Silo Brun</h5> 
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Bulle Ado</li>
-</ul>
-
-<p>Adresse exacte : Parking entre la Rue des Écoles et la Drève du Château.</p>
+{% endfor %}
+  
 
   </div>
 

@@ -15,51 +15,69 @@ menu: stages
 }
 </style>
 
-<h5>E2 - 6-10 juillet</h5>
+{% if page.remarque == nil or page.remarque == '' %}
+{% else %}
+{{ page.remarque }}
+{% endif %}
 
-<p>Le silo bleu comprend les stages suivants : </p>
+{% assign centres = page.centres %}
+
+<div id="container">
+
+  <div class="team-members-tow mtb-50">
+
+    {% if centres[1] %}
+    <div class="sub-title">
+        <span>Choisissez votre centre</span>
+    </div>
+    <div class="row">
+      {% for centre in centres %}
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        <a href="#{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">{{ centre.name }}</a>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+{% for centre in centres %}
+  <span id="{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}"></span>
+    <div class="sub-title">
+      <span>Organisation des silos - {{ centre.name }}</span>
+    </div>
+
+{% if centre.map == nil or centre.map == '' %}
+{% else %}
+<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622765571506226/jette_1.png"/></p>
+{% endif %}
+
+{% assign compteur = 1 %}
+{% for silo in centre.silos %}
+<h5>{{compteur}}. Silo {{ silo.color }}</h5> 
+
+{% if silo.stages[1] %}
+{% assign pluriel = true %}
+{% else %}
+{% assign pluriel = false %}
+{% endif %}
+
+<p>Ce silo comprend le{% if pluriel %}s{% endif %} stage{% if pluriel %}s{% endif %} suivant{% if pluriel %}s{% endif %} : </p>
 <ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Cuisine</li>
+  {% for stage in silo.stages %}
+  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>{{ stage }}</li>
+  {% endfor %}
 </ul>
+{% if silo.address == nil or silo.address == '' %}
+{% else %}
+<p>{{ silo.address }}</p>
+{% endif %}
 
-<p>Le silo vert comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Techniques artistiques</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Multisports</li>
-</ul>
 
-<p>Le silo orange comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Aventure</li>
-</ul>
+{% assign compteur = compteur | plus:1 %}
+{% endfor %}
 
-<h5>E6 - 3-7 août</h5>
+{% endfor %}
+  
 
-<p>Le silo bleu comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Danse</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Multisports</li>
-</ul>
+  </div>
 
-<p>Le silo vert comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby Tennis</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Vélo-Mômes</li>
-</ul>
-
-<h5>E8 - 17-21 août</h5>
-
-<p>Le silo bleu comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Cirque</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Danse</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Multisports</li>
-</ul>
-
-<p>Le silo vert comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Football</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Cirque-Mômes</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Multisports</li>
-	<li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Techniques artistiques</li>
-</ul>
+</div>

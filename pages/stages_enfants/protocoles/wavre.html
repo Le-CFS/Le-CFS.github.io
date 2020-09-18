@@ -18,169 +18,69 @@ image: ''
 }
 </style>
 
-Les consignes étant différentes en fonction du centre dans lequel votre enfant va passer sa semaine, nous avons détaillé ci-dessous les différents protocoles.
+{% if page.remarque == nil or page.remarque == '' %}
+{% else %}
+{{ page.remarque }}
+{% endif %}
+
+{% assign centres = page.centres %}
 
 <div id="container">
 
   <div class="team-members-tow mtb-50">
 
+    {% if centres[1] %}
     <div class="sub-title">
         <span>Choisissez votre centre</span>
     </div>
     <div class="row">
+      {% for centre in centres %}
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        <a href="#{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">{{ centre.name }}</a>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
 
-      <div class="col-md-6">
-        <a href="#centre" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Centre sportif</a>
-      </div>
-      <div class="col-md-6">
-        <a href="#college" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Collège de Basse-Wavre</a>
-      </div>
+{% for centre in centres %}
+  <span id="{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}"></span>
+    <div class="sub-title">
+      <span>Organisation des silos - {{ centre.name }}</span>
     </div>
 
-<span id="centre"></span>
-<div class="sub-title">
-    <span>Organisation des silos du centre sportif</span>
-</div>
+{% if centre.map == nil or centre.map == '' %}
+{% else %}
+<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622765571506226/jette_1.png"/></p>
+{% endif %}
 
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/724748318143676436/wavre1.png"/></p>
+{% assign compteur = 1 %}
+{% for silo in centre.silos %}
+<h5>{{compteur}}. Silo {{ silo.color }}</h5> 
 
-<h5>1. Silo Bleu - 1er étage</h5> 
+{% if silo.stages[1] %}
+{% assign pluriel = true %}
+{% else %}
+{% assign pluriel = false %}
+{% endif %}
 
-<p>Ce silo comprend les stages suivants : </p>
+<p>Ce silo comprend le{% if pluriel %}s{% endif %} stage{% if pluriel %}s{% endif %} suivant{% if pluriel %}s{% endif %} : </p>
 <ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby Danse et Bijoux</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Danse</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Bande Dessinée</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Hip Hop</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Swiss Jump Kids</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Diner Parfait</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Les Explorateurs</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Cirques Mômes</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Expression Corporelle & Sport</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Pincesse & Pirates</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Équi-Sport</li>
+  {% for stage in silo.stages %}
+  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>{{ stage }}</li>
+  {% endfor %}
 </ul>
+{% if silo.address == nil or silo.address == '' %}
+{% else %}
+<p>{{ silo.address }}</p>
+{% endif %}
 
-<p>Adresse exacte : Avenue du Centre Sportif, 22 – 1300 Wavre (au fond à droite sur le grand parking puis suivre la flèche bleue jusque accueil principal)</p>
 
-<h5>2. Silo Vert - Rez-de-chaussée</h5> 
+{% assign compteur = compteur | plus:1 %}
+{% endfor %}
 
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Apprenti Vélo</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Badminton</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Découverte sportive et Poney</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Sports Raquette</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby Tennis</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Bricoleur & Sport</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Football</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Tennis</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby-Foot</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Découverte sportive & Natation</li>
-</ul>
-
-<p>Adresse exacte : Avenue du Centre Sportif, 22 – 1300 Wavre (au fond à droite sur le grand parking puis suivre la flèche orange jusqu’à la tribune de club de foot)</p>
-
-<h5>3. Silo Orange</h5> 
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Bulle Ado</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>X-trem Sensation</li>
-</ul>
-
-<strong>
-Attention : port du masque obligatoire à l’accueil. 
-• Départ en autocar à 9h00 ! Soyez là plus tôt. 
-• Retour en autocar vers 16h30 ! 
-
-Pas de garderie. Le moniteur est présent à 8h40 jusque 16h50.
-</strong>
-
-<p>Adresse exacte : Avenue du Centre Sportif, 22 – 1300 Wavre (au fond à droite sur le grand parking puis suivre la flèche orange jusque accueil principal)</p>
-
-<span id="college"></span>
-<div class="sub-title">
-    <span>Organisation des silos du Collège de Basse-Wavre</span>
-</div>
-
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/724748338641240064/wavre2.png"/></p>
-
-<h5>Accueil</h5>
-<p>Parking devant la façade du Collège.</p>
-
-<h5>Comment se rendre au Collège</h5>
-<p><b style="background-color: yellow;">Sens giratoire pour les voitures</b></p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Prendre à droite en sortant du centre sportif jusqu’au rond-point de la boulangerie.</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Rentrer tout droit par l’avenue Notre Dame de Basse-Wavre. </li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Rentrer dans le collège par la grille noire (devant la Basilique Notre-Dame). </li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Nous vous accueillons au parking devant la façade du Collège.</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Repartir par la Ruelle de la Gare de Basse-Wavre en respectant le sens giratoire.</li>
-</ul>
-
-<h5>1. Silo Jaune</h5> 
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Pré-Psychomotricité</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Grimpette</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Découverte</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Natation</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Vélo</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Escalade Découverte</li>
-</ul>
-
-<p>Lieu exact de l'accueil: en façade du Collège (parking).</p>
-
-<h5>2. Silo Rose</h5> 
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Gymnastique</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>GRS</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Gym Pro</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Parkour</li>
-</ul>
-
-<p>Lieu exact de l'accueil: devant la grande salle de gymnastique (50m du parking).</p>
-
-<h5>3. Silo Brun</h5> 
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Artiste</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Fun Laser & VTT</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Pilote Academy</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Stylisme</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Astucieux</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Fun VTT & Karting</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Magie et Cirque</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Comédie Musicale</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Karting & Fun</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Magie & Fun</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Apprenti Savant</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Pilote</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Quad & Vélo</li>
-</ul>
-
-<p>Lieu exact de l'accueil: devant la salle de détente (50m du parking).</p>
-    
-    <p><strong>ATTENTION POUR LE STAGE PILOTE ACADEMY</strong>: le rendez-vous se fait directement au Wik Karting de Wavre, 117 Boulevard de l’Europe.</p>
-
-<h5>4. Silo Rouge</h5> 
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Aventure</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Koh Lanta</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Mini Lanta</li>
-</ul>
-
-<p>Lieu exact de l'accueil: devant la hall sportif (150m du parking).</p>
+{% endfor %}
+  
 
   </div>
 
 </div>
-
-<p style="color: margin-bottom"></p>

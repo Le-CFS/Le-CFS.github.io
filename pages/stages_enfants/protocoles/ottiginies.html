@@ -15,131 +15,68 @@ menu: stages
 }
 </style>
 
-<!-- Les consignes étant différentes en fonction du centre dans lequel votre enfant va passer sa semaine, nous avons détaillé ci-dessous les différents protocoles. -->
+{% if page.remarque == nil or page.remarque == '' %}
+{% else %}
+{{ page.remarque }}
+{% endif %}
+
+{% assign centres = page.centres %}
 
 <div id="container">
 
   <div class="team-members-tow mtb-50">
 
+    {% if centres[1] %}
     <div class="sub-title">
         <span>Choisissez votre centre</span>
     </div>
     <div class="row">
-
-      <div class="col-md-6">
-        <a href="#centre" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Centre Sportif des Coquerées</a>
+      {% for centre in centres %}
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        <a href="#{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">{{ centre.name }}</a>
       </div>
-      <div class="col-md-6">
-        <a href="#athenee" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Athénée Royal Paul-Delvaux</a>
-      </div>
+      {% endfor %}
     </div>
+    {% endif %}
 
-    <span id="centre"></span>
+{% for centre in centres %}
+  <span id="{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}"></span>
     <div class="sub-title">
-        <span>Protocole du centre sportif</span>
+      <span>Organisation des silos - {{ centre.name }}</span>
     </div>
 
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/723656962440430010/ottignies_1.png"/></p>
+{% if centre.map == nil or centre.map == '' %}
+{% else %}
+<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622765571506226/jette_1.png"/></p>
+{% endif %}
 
-<h5>1. Silo Bleu</h5> 
+{% assign compteur = 1 %}
+{% for silo in centre.silos %}
+<h5>{{compteur}}. Silo {{ silo.color }}</h5> 
 
-<p>Ce silo comprend les stages suivants : </p>
+{% if silo.stages[1] %}
+{% assign pluriel = true %}
+{% else %}
+{% assign pluriel = false %}
+{% endif %}
+
+<p>Ce silo comprend le{% if pluriel %}s{% endif %} stage{% if pluriel %}s{% endif %} suivant{% if pluriel %}s{% endif %} : </p>
 <ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Apprenti Vélo</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby Danse & Bijoux</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby Tennis</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Expression Corporelle & Sport</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Grimpette</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho Vélo</li>
+  {% for stage in silo.stages %}
+  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>{{ stage }}</li>
+  {% endfor %}
 </ul>
+{% if silo.address == nil or silo.address == '' %}
+{% else %}
+<p>{{ silo.address }}</p>
+{% endif %}
 
-<p>Adresse exacte : Parking du Complexe Sportif des Coquerées. Seuls les parents du silo bleu peuvent accompagner les enfants après l’accueil.</p>
 
-<h5>2. Silo Vert</h5> 
+{% assign compteur = compteur | plus:1 %}
+{% endfor %}
 
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby Foot</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Cirque</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Découverte Sportive & Natation</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>GRS</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Gymnastique</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Hip Hop</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Mini-Lanta</li>
-</ul>
-
-<p>Adresse exacte : Parking du Complexe Sportif des Coquerées. Kiss & Ride à l’accueil (au rond-point). </p>
-
-<h5>3. Silo Orange</h5> 
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Aventure</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Football</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Princesse & Pirates</li>
-</ul>
-
-<p>Adresse exacte : Parking du Complexe Sportif des Coquerées. Kiss & Ride à l’accueil (au rond-point).</p>
-
-<h5>4. Silo Jaune</h5> 
-
-<p>Pas de la semaine du 6 au 10 juillet !</p>
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Badminton</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Equitation</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Raquette</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Théâtre</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Bande dessinée</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Koh-Lanta</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Tennis</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>X-Trem</li>
-</ul>
-
-<p>Adresse exacte : Parking du Complexe Sportif des Coquerées. Kiss & Ride à l’accueil (au rond-point).</p>
-
-<h5>5. Silo Rose</h5>
-
-<strong>
-Attention : port du masque obligatoire à l’accueil. 
-• Départ en autocar à 8h20 ! Soyez là plus tôt. 
-• Retour en autocar vers 16h00 ! 
-
-Pas de garderie. Le moniteur est présent à 8h00 jusque 16h15 
-</strong>
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Bulle Ado</li>
-</ul>
-
-<p>Adresse exacte : Sur le parking du cimetière (Entrée par la Rue du Bon Air).</p>
-
-<span id="athenee"></span>
-<div class="sub-title">
-    <span>Protocole de l'Athénée Royal Paul-Delvaux</span>
-</div>
-
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/723656978756534302/ottignies_2.png"/></p>
-
-<h5>1. Silo Jaune</h5>
-
-<p>Uniquement la semaine du 6 au 10 juillet !</p>
-
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Badminton</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Bande dessinée</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Équitation</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Koh-Lanta</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Raquette</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Tennis</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Théâtre</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>X-Trem</li>
-</ul>
-
-<p>Adresse exacte : Parking le long de l’avenue Armand Bontemps. Rentrée par la grille des maternelles.</p>
+{% endfor %}
+  
 
   </div>
 

@@ -91,179 +91,68 @@ image: ''
 }
 </style>
 
-Les consignes étant différentes en fonction du centre dans lequel votre enfant va passer sa semaine, nous avons détaillé ci-dessous les différents protocoles.
+{% if page.remarque == nil or page.remarque == '' %}
+{% else %}
+{{ page.remarque }}
+{% endif %}
+
+{% assign centres = page.centres %}
 
 <div id="container">
 
   <div class="team-members-tow mtb-50">
 
+    {% if centres[1] %}
     <div class="sub-title">
         <span>Choisissez votre centre</span>
     </div>
     <div class="row">
+      {% for centre in centres %}
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        <a href="#{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">{{ centre.name }}</a>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
 
-      <div class="col-md-3">
-        <a href="#centre" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Centre sportif</a>
-      </div>
-      <div class="col-md-3">
-        <a href="#brel" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Jacques Brel</a>
-      </div>
-      <div class="col-md-3">
-        <a href="#heymbosh" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Heymbosh</a>
-      </div>
-      <div class="col-md-3">
-        <a href="#parc" class="btn btn-block btn-info-filled" style="margin-bottom: 10px;">Parc de la Jeunesse</a>
-      </div>
+{% for centre in centres %}
+  <span id="{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}"></span>
+    <div class="sub-title">
+      <span>Organisation des silos - {{ centre.name }}</span>
     </div>
 
-<span id="centre"></span>
-<div class="sub-title">
-    <span>Organisation des silos du centre sportif</span>
-</div>
-
+{% if centre.map == nil or centre.map == '' %}
+{% else %}
 <p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622765571506226/jette_1.png"/></p>
+{% endif %}
 
-<h5>1. Silo Orange</h5> 
+{% assign compteur = 1 %}
+{% for silo in centre.silos %}
+<h5>{{compteur}}. Silo {{ silo.color }}</h5> 
 
-<p>Ce silo comprend les stages suivants : </p>
+{% if silo.stages[1] %}
+{% assign pluriel = true %}
+{% else %}
+{% assign pluriel = false %}
+{% endif %}
+
+<p>Ce silo comprend le{% if pluriel %}s{% endif %} stage{% if pluriel %}s{% endif %} suivant{% if pluriel %}s{% endif %} : </p>
 <ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Escalade découverte</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Gym</li>
+  {% for stage in silo.stages %}
+  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>{{ stage }}</li>
+  {% endfor %}
 </ul>
-
-<p>Adresse exacte : Avenue Guillaume de Greef 2, 1090 Jette (Arrière du centre omnisports)</p>
-
-<h5>2. Silo Brun</h5>
-
-<p>Ce silo comprend les stages suivants :</p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Cirque</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Danse</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>GRS</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Zumba</li>
-
-<p>Adresse exacte : Avenue Guillaume de Greef 2, 1090 Jette (Arrière du centre omnisports)</p>
-
-<h5>3. Silo Rose</h5>
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Fun multisports</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Mini Lanta</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Ping Pong</li>
-</ul>
-
-<p>Adresse exacte : Avenue du Comté de jette 3, 1090 Jette</p>
-
-<h5>4. Silo Turquoise</h5>
-<p>Ce silo comprend le stage suivant :</p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby Tennis</li>
-</ul>
-
-<p>Adresse exacte : Avenue du Comté de jette 3, 1090 Jette</p>
+{% if silo.address == nil or silo.address == '' %}
+{% else %}
+<p>{{ silo.address }}</p>
+{% endif %}
 
 
-<span id="brel"></span>
-<div class="sub-title">
-    <span>Organisation des silos du Jacques Brel</span>
-</div>
+{% assign compteur = compteur | plus:1 %}
+{% endfor %}
 
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622818814001173/jette_2.png"/></p>
-
-<h5>1. Silo Vert</h5>
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho découverte</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho sport</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Psycho grimpette</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby Gym </li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Pré psycho</li>
-</ul>
-
-<p>Adresse exacte du l’accueil : Rue Joseph Loossens 40, 1090 Jette</p>
-
-
-<h5>2. Silo Bleu</h5>
-<p>Ce silo comprend les stages suivants :</p> 
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby danse</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Baby-foot</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Bande dessinée</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Princesses et pirates</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Vélo mômes</li>
-</ul>
-
-<p>Adresse exacte de l’accueil : Rue Esseghem 101, 1090 Jette</p>
-
-
-<span id="heymbosh"></span>
-<div class="sub-title">
-    <span>Organisation des silos du Heymbosh</span>
-</div>
-
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622805568520202/jette_3.png"/></p>
-
-<h5>1. Silo Blanc</h5>
-
-<p>Ce silo comprend le stage suivant : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Football</li>
-</ul>
-
-<h5>2. Silo Noir</h5>
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Evasion</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Fun Ado</li>
-</ul>
-
-
-<h5>3. Silo Rouge</h5>
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Ma déco</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Food & Pleasure</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Apprenti savant</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Diner parfait</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Immersion Néerlandais</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Immersion Anglais</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Artiste</li>
-</ul>
-
-<p>Accueil général à partir de 8h55 et jusqu’à 16h15 : Avenue Jean Joseph Crocq 50  – 1090 Jette.
-Pour la garderie du matin à partir de 8h et du soir à partir de 16h30 SAUF pour le silo Noir : Centre omnisports de Jette (Avenue du comté de Jette 3, 1090 Jette).</p>
-
-
-<span id="parc"></span>
-<div class="sub-title">
-    <span>Organisation des silos du Parc de la Jeunesse</span>
-</div>
-
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/722622788321673286/jette_4.png"/></p>
-
-<h5>1. Silo Jaune</h5>
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Tennis</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Escalade</li>
-</ul>
-
-<p>Adresse exacte de l’accueil : Parc de la jeunesse, entrée par le boulevard de Smet de Naeyer, 1090 Jette</p>
-
-<h5>2. Silo Mauve</h5>
-<p>Ce silo comprend les stages suivants : </p>
-<ul class="arrow-list list-style arrow-list-three">
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Aventure</li>
-  <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>Koh Lanta</li>
-</ul>
-
-<p>Adresse exacte de l’accueil : Parc de la jeunesse, entrée par l’avenue du comté de Jette, 1090 Jette</p>
-
-
-<p>Accueil général à partir de 8h55 et jusqu’à 16h15 : Parc de la jeunesse  – 1090 Jette.</p>
-
-<p>Pour la garderie du matin à partir de 8h et du soir à partir de 16h30 : Centre omnisports de Jette (Avenue du comté de Jette 3, 1090 Jette).</p>
-
+{% endfor %}
+  
 
   </div>
 
