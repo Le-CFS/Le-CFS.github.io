@@ -24,6 +24,17 @@ fields:
   config:
     required: false
   label: Adresse/url
+- name: remarque
+  type: textarea
+  default: Les consignes étant différentes en fonction du centre dans lequel votre
+    enfant va passer sa semaine, nous avons détaillé ci-dessous les différents protocoles.
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Remarque générale
+  description: Texte qui apparaît au dessus du choix des silos
 - name: centres
   type: field_group_list
   fields:
