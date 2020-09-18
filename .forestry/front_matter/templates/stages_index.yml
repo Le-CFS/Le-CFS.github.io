@@ -57,13 +57,6 @@ fields:
     - name: online
       type: boolean
       label: À afficher ?
-    - name: provinces
-      type: field_group
-      config: {}
-      showOnly:
-        field: online
-        value: true
-      label: Listes des endroits de stages
     label: Toussaint
   - name: noel
     type: field_group
