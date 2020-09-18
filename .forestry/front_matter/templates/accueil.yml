@@ -1,117 +1,178 @@
 ---
-label: accueil
+label: Accueil
 hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: Titre
-- name: slides
-  type: field_group_list
+- type: field_group
+  name: mycfs
+  label: mycfs
   fields:
-  - name: alt
-    type: text
-    config:
-      required: true
-    label: Nom de l'image
-  - name: img
-    type: file
-    config:
-      maxSize: 64
-    label: image
-  - name: url
-    type: text
-    config:
-      required: true
-    label: Lien pour la redirection
-  - name: autre_onglet__
-    type: boolean
-    label: Autre onglet ?
-    description: Faut-il ouvrir le lien vers un nouvel onglet ?
-  config:
-    min: 1
-    max: 4
-    labelField: 
-  label: Slides
-- name: title_news
-  type: field_group
-  config: {}
+  - type: text
+    name: href
+    label: href
+  - type: text
+    name: icone
+    label: icone
+  - type: text
+    name: autre_page
+    label: autre_page
+  - type: text
+    name: texte_ordi
+    label: texte_ordi
+  - type: text
+    name: texte_mobile
+    label: texte_mobile
+- type: field_group
+  name: inscription
+  label: inscription
   fields:
-  - name: news_desktop
-    type: text
-    config:
-      required: false
-    label: Titre pour la version ordi
-  - name: news_mobile
-    type: text
-    config:
-      required: false
-    label: Titre pour la version mobile
-  label: Titre des news
-- name: selection
-  type: field_group
-  config: {}
+  - type: text
+    name: href
+    label: href
+  - type: text
+    name: icone
+    label: icone
+  - type: text
+    name: autre_page
+    label: autre_page
+  - type: text
+    name: texte_ordi
+    label: texte_ordi
+  - type: text
+    name: texte_mobile
+    label: texte_mobile
+- type: field_group_list
+  name: slider
+  label: slider
   fields:
-  - name: title
-    type: field_group
-    config: {}
+  - type: text
+    name: titre
+    label: titre
+  - type: file
+    name: src
+    label: src
+  - type: text
+    name: href
+    label: href
+- type: field_group
+  name: selection
+  label: selection
+  fields:
+  - type: text
+    name: nom
+    label: nom
+  - type: field_group_list
+    name: images
+    label: images
     fields:
-    - name: selection_desktop
-      type: text
-      config:
-        required: false
-      label: Titre pour la version ordi
-    - name: selection_mobile
-      type: text
-      config:
-        required: false
-      label: Titre pour la version mobile
-    label: Titre
-  - name: images
-    type: field_group_list
-    fields:
-    - name: title
-      type: text
-      config:
-        required: false
-      label: Titre
-    - name: img
-      type: file
-      config:
-        maxSize: 64
-      label: image
-    - name: href
-      type: text
-      config:
-        required: false
-      label: Lien de la redirection
-    - name: button_text
-      type: text
-      config:
-        required: false
-      label: Texte du bouton
-    - name: autre_page
-      type: boolean
-      label: Ouvrir la page dans un nouvel onglet ?
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Sélection du CFS
-  label: Sélection du CFS
-- name: slogan
-  type: field_group
-  config: {}
+    - type: text
+      name: titre
+      label: titre
+    - type: text
+      name: titre_img
+      label: titre_img
+    - type: text
+      name: titre_overlay
+      label: titre_overlay
+    - type: file
+      name: src
+      label: src
+    - type: text
+      name: href
+      label: href
+    - type: text
+      name: autre_page
+      label: autre_page
+    - type: text
+      name: bouton
+      label: bouton
+    - type: text
+      name: couleur_bouton
+      label: couleur_bouton
+- type: text
+  name: slogan
+  label: slogan
+- type: field_group
+  name: une
+  label: une
   fields:
-  - name: slogan_desktop
-    type: text
-    config:
-      required: false
-    label: Slogan version ordi
-  - name: slogan_mobile
-    type: text
-    config:
-      required: false
-    label: Slogan version mobile
-  label: Slogan
+  - type: text
+    name: nom
+    label: nom
+  - type: field_group_list
+    name: images
+    label: images
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: titre_overlay
+      label: titre_overlay
+    - type: file
+      name: img
+      label: img
+    - type: text
+      name: bouton
+      label: bouton
+    - type: text
+      name: nouveau
+      label: nouveau
+    - type: textarea
+      name: infos
+      label: infos
+    - type: textarea
+      name: description
+      label: description
+    - type: text
+      name: lieu
+      label: lieu
+    - type: text
+      name: age
+      label: age
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: file
+    name: src
+    label: src
+  - type: text
+    name: titre
+    label: titre
+- type: field_group
+  name: activites
+  label: activites
+  fields:
+  - type: text
+    name: nom
+    label: nom
+  - type: field_group_list
+    name: images
+    label: images
+    fields:
+    - type: text
+      name: titre
+      label: titre
+    - type: text
+      name: titre_img
+      label: titre_img
+    - type: text
+      name: titre_overlay
+      label: titre_overlay
+    - type: file
+      name: src
+      label: src
+    - type: text
+      name: href
+      label: href
+    - type: text
+      name: autre_page
+      label: autre_page
+    - type: text
+      name: bouton
+      label: bouton
+    - type: text
+      name: couleur_bouton
+      label: couleur_bouton
+pages:
+- _data/accueil.yml

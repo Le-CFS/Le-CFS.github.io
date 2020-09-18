@@ -14,7 +14,7 @@ fields:
 - name: name
   type: text
   config:
-    required: true
+    required: false
   label: Nom
 - name: image
   type: file
@@ -25,5 +25,5 @@ fields:
 - name: link
   type: text
   config:
-    required: true
+    required: false
   label: Lien de redirection
