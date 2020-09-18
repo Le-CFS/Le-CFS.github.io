@@ -1,4 +1,29 @@
 ---
 label: template_province_stage
 hide_body: true
-fields: []
+fields:
+- name: online
+  type: boolean
+  label: Doit être en ligne
+  description: Voir si on doit afficher l'image ou pas
+- name: clickable
+  type: boolean
+  label: Doit être grisé
+  description: Si on doit mettre l'image en grisé, comme teaser, en attendant que
+    les stages soient en ligne.
+- name: name
+  type: text
+  config:
+    required: true
+  label: Nom
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+  description: L'image doit avoir du texte dessus, indispensable à la version mobile
+- name: link
+  type: text
+  config:
+    required: true
+  label: Lien de redirection
