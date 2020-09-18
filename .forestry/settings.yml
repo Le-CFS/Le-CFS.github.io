@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: document
-  path: index.html
-  label: Page d'accueil
 - type: directory
   path: _includes/pages
   label: Pages (INCLUDES)
