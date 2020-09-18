@@ -81,21 +81,18 @@ une:
       en toute sécurité ! N''attend plus et viens découvrir nos nombreux stages. '
     lieu: Bruxelles - Brabant Wallon
     age: 2.5 - 16 ans
-  - name: Judo
-    titre_overlay: Judo
-    img: "/boutonsactivites/extrascolaires/judo.png"
+  - name: Stages Nouvel An
+    titre_overlay: Stages Nouvel An
+    img: "/assets/images/stages/nouvelan.jpg"
     bouton: Plus d'info
-    nouveau: ''
-    infos: ''
-    description: Véritable sport éducatif, le Judo permet à chacun de devenir plus
-      adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles,
-      découvrir l’entraide, évaluer ses forces et ses faiblesses pour progresser. Le
-      Judo est un sport pour tous qui procure un véritable équilibre. Activité de
-      détente et de plaisir, le Judo est une discipline basée sur l’échange et la
-      progression. L’apprentissage se fait de manière progressive en fonction des
-      aptitudes de l’individu, ce qui permet à chacun d’évoluer à son rythme.
-    lieu: Brabant Wallon
-    age: 5 - 15 ans
+    nouveau: oui
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: Viens vivre un moment fun, sportif et créatif durant les vacances
+      en toute sécurité ! N'attend plus et viens découvrir nos nombreux stages.
+    lieu: Bruxelles - Brabant Wallon
+    age: 2.5 - 16 ans
   - name: Tennis
     titre_overlay: Tennis
     img: "/boutonsactivites/extrascolaires/tennis.png"
