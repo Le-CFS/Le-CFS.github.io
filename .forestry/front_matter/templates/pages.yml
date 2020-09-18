@@ -14,6 +14,10 @@ fields:
   config:
     required: false
   label: Titre
+- name: menu
+  type: boolean
+  label: Faut il un menu sur la gauche ?
+  default: true
 - name: banner
   type: file
   config:
