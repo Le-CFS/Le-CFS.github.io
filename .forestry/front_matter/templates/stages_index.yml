@@ -60,31 +60,6 @@ fields:
     - name: provinces
       type: field_group
       config: {}
-      fields:
-      - name: brabant
-        type: field_group
-        config: {}
-        fields:
-        - name: online
-          type: boolean
-          label: À afficher ?
-        - name: image
-          type: file
-          config:
-            maxSize: 64
-          label: Image
-          description: L'image doit avoir le texte pour la version mobile !
-        - name: name
-          type: text
-          config:
-            required: true
-          label: Nom
-        - name: link
-          type: text
-          config:
-            required: true
-          label: Lien
-        label: 'Brabant '
       showOnly:
         field: online
         value: true
