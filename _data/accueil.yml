@@ -67,7 +67,7 @@ une:
       l'ONE/ADEPS.
     description: 'Viens vivre un moment fun, sportif et créatif durant les vacances
       en toute sécurité ! N''attend plus et viens découvrir nos nombreux stages. '
-    lieu: Bruxelles & Brabant Wallon
+    lieu: Bruxelles - Brabant Wallon
     age: 2.5-16 ans
   - name: Stages Noël
     titre_overlay: Stages Noël
@@ -77,9 +77,8 @@ une:
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: |-
-      Quelque soit le niveau de votre enfant, qu'elle soit pour le loisir ou une ambition compétitive, nous avons mis en place des cours d'initiation ou de perfectionnement selon le niveau et l'envie de votre enfant à la gymnastique sportive.<br/>
-      Nous travaillons les différents agrès: sol, sauts, poutre, barres asymétriques,...
+    description: 'Viens vivre un moment fun, sportif et créatif durant les vacances
+      en toute sécurité ! N''attend plus et viens découvrir nos nombreux stages. '
     lieu: Bruxelles - Brabant Wallon
     age: 6 - 14 ans
   - name: Judo
