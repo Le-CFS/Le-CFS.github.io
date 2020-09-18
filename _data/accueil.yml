@@ -77,10 +77,16 @@ une:
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: 'Viens vivre un moment fun, sportif et créatif durant les vacances
-      en toute sécurité ! N''attends plus et viens découvrir nos nombreux stages. '
-    lieu: Bruxelles - Brabant Wallon
-    age: 2.5 - 16 ans
+    description: |-
+      Votre enfant est fou de création et de programmation?
+
+      Ce stage allie les deux:  les nouvelles technologies et l’informatique.
+
+      Afin de donner aux enfants de nouvelles clefs de réussite, nous allons via 5 sessions d’exercices développer des processus de réflexion pour formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation de robots et présentation du travail effectué).
+
+      Pour éviter que les enfants restent toute la journée devant les écrans, ils passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du centre.
+    lieu: Brabant Wallon
+    age: 8 - 12 ans
   - name: Padel
     titre_overlay: Padel
     img: "/assets/images/padel.jpg"
