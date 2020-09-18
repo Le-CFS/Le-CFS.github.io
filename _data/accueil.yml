@@ -59,7 +59,7 @@ une:
   images:
   - name: Stages Toussaint
     titre_overlay: Stages Toussaint
-    img: "/assets/images/stages/toussaint.jpg"
+    img: "/stages/toussaint.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
