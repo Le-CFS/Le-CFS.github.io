@@ -55,7 +55,8 @@
 
 <p>Ce silo comprend le{% if pluriel %}s{% endif %} stage{% if pluriel %}s{% endif %} suivant{% if pluriel %}s{% endif %} : </p>
 <ul class="arrow-list list-style arrow-list-three">
-  {% for stage in silo.stages %}
+  {% assign liste_stages = silo.stages | sort %}
+  {% for stage in liste_stages %}
   <li><i class="fa fa-arrow-right grey" aria-hidden="true"></i>{{ stage }}</li>
   {% endfor %}
 </ul>
