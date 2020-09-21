@@ -100,7 +100,7 @@ liste:
         categorie: Partenaires pédagogiques
         logo: /assets/images/partenaires/horsevalley.png
         href: https://www.horse-valley.com/
-        online: oui
+        online: 
         bouton: Site Web
         couleur_bouton: 
     -
@@ -132,7 +132,7 @@ liste:
         categorie: Partenaires pédagogiques
         logo: /assets/images/partenaires/miniexcel.png
         href: https://www.wavre.be/football-en-salle/mini-excel-wavre-limal
-        online: oui
+        online: 
         bouton: Site Web
         couleur_bouton: 
     -
@@ -284,7 +284,7 @@ liste:
         categorie: Partenaires de stages
         logo: /assets/images/partenaires/adsl.png
         href: https://www.adslstages.be/
-        online: oui
+        online: 
         bouton: Site Web
         couleur_bouton: 
     -

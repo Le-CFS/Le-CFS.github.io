@@ -5,7 +5,10 @@
     </div>
     <div id="image-carousel-mobile" class="owl-carousel">
       {% for partenaire in site.data.partenaires.liste %}
+        {% if partenaire.online == "" or partenaire.online == nil %}
+        {% else %}
         <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" class="img-fluid" alt="{{ partenaire.name }}"></a></div>
+        {% endif %}
       {% endfor %}
     </div>
   </div>
