@@ -2,7 +2,7 @@
 stages:
 - name: Drône & Laser
   categorie: Activités artistiques et loisirs
-  img: ''
+  img: "/assets/images/droenetlaser_catalogue.jpg"
   online: true
   nouveau: true
   stage_une: false
