@@ -8,7 +8,7 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Rixensart
+  - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10 à 14 ans
     description: "<p>Tu souhaites devenir un pilote de drône ? Ce stage est fait pour
