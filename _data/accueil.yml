@@ -102,19 +102,21 @@ une:
       de te faire découvrir ce sport en vogue !
     lieu: Bruxelles
     age: 8 à 12 ans
-  - name: Parkour
-    titre_overlay: Parkour
-    img: "/assets/images/parkour.jpg"
+  - name: Drône & Laser
+    titre_overlay: Drône & Laser
+    img: "/assets/images/droenetlaser.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: Cette discipline utilise le corps pour seul outil. Face à des obstacles
-      naturels, ce sont les habilités motrices qui servent de support à l'activité.
-      Courses, sauts, grimpes, exercices d'équilibre et de suspension sont au programme.
+    description: "Tu souhaites devenir un pilote de drône ? Ce stage est fait pour
+      toi! Nous t'avons concocté un programme varié, fun et ludique. \nUne partie
+      de la journée sera consacrée à la manipulation du drône (des jeux sont au programme).
+      L'autre partie de la journée sera consacrée au Laser Game. Inscris-toi vite,
+      il reste encore des places !"
     lieu: Brabant Wallon
-    age: 10 - 12 ans
+    age: 10 - 14 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
