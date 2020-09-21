@@ -7,7 +7,21 @@
 }
 </style>
 
-<div class="col-md-4 col-xs-12">
+{% if stage.categorie contains 'Activités artistiques et loisirs' %}
+{% assign categorie = 'artistique' %}
+{% elsif stage.categorie contains 'Les petits bouts' %}
+{% assign categorie = 'bouts' %}
+{% elsif stage.categorie contains 'Danse et Gymnastique' %}
+{% assign categorie = 'danse' %}
+{% elsif stage.categorie contains 'Activités fun' %}
+{% assign categorie = 'fun' %}
+{% elsif stage.categorie contains 'Découvertes sportives et culturelles' %}
+{% assign categorie = 'sportive' %}
+{% elsif stage.categorie contains 'Activités sportives' %}
+{% assign categorie = 'culturelles' %}
+{% endif %}
+
+<div class="column {{ categorie }} col-md-4 col-xs-12">
   <div class="card-2">
     <div class="image">
       <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><img src="{{ BASE_PATH }}/assets/images{{ stage.img }}"></a>

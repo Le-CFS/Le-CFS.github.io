@@ -1404,7 +1404,7 @@ stages:
 - name: Fun Multisports & Natation
   img: "/stages/decouvertesportiveetculturelle/funmultietnat.png"
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Activités sportives
   online: true
   nouveau: true
   stage_une: false

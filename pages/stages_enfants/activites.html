@@ -4,20 +4,72 @@ title: Catalogue des stages
 permalink: "/stages/activites/"
 menu: stages
 description: ''
+js: tri.js
 
 ---
-{% include annonces/stages.html %}
 
-<p>Ci-dessous tous les stages que nous vous proposons.<br>
-Vous pouvez sélectionner une catégorie pour peaufiner votre recherche.</p>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Center website */
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  display: none; /* Hide all elements by default */
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn.active {
+  color: white;
+}
+
+.tri{
+
+}
+
+</style>
+
+<div id="myBtnContainer">
+  <div class="offset-md-3 col-md-6 btn btn-block btn-info-filled tri active" onclick="filterSelection('all')"> Voir tous les stages</div>
+  <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 btn btn-block btn-info-filled tri" onclick="filterSelection('bouts')"> Les petits bouts</div>
+  <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 btn btn-block btn-info-filled tri" onclick="filterSelection('culturelles')"> Découvertes sportives et culturelles</div>
+  <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 btn btn-block btn-info-filled tri" onclick="filterSelection('danse')"> Danse et Gymnastique</div>
+  <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 btn btn-block btn-info-filled tri" onclick="filterSelection('fun')"> Activités Fun</div>
+  <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 btn btn-block btn-info-filled tri" onclick="filterSelection('sportive')"> Activités Sportives</div>
+  <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 btn btn-block btn-info-filled tri" onclick="filterSelection('artistique')"> Activités artistiques et loisirs</div>
+</div>
 
 <div class="row">
 	{% assign liste_stages = site.data.stages.stages | sort: "name" %}
 	{% for stage in liste_stages %}
-  {% if stage.online %}
+		{% if stage.online %}
 
-{% include coleen/liste_cartes.html %}
+			{% include coleen/liste_cartes.html %}
 
-  {% endif %}
+  		{% endif %}
 	{% endfor %}
 </div>
