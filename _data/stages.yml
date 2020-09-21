@@ -1,5 +1,24 @@
 ---
 stages:
+- name: Drône & Laser
+  categorie: Activités artistiques et loisirs
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Rixensart
+    ville: Brabant Wallon
+    age: 10 à 14 ans
+    description: "<p>Tu souhaites devenir un pilote de drône ? Ce stage est fait pour
+      toi !</p><p>Nous t'avons concocté un programme varié, fun et ludique.</p><p>Une
+      partie de la journée sera consacrée à la découverte et à la manipulation du
+      drône. Des jeux <strong>aquatiques </strong><em>(découverte du drône dans l'eau)</em>
+      et <strong>extérieurs</strong> sont prévus au programme.</p><p>L'autre partie
+      de la journée sera consacrée au <strong>Laser Game.</strong></p><p>Inscris-toi
+      vite, il reste encore des places!</p>"
+    infos: []
 - name: Pré-psychomotricité
   img: "/stages/lespetitsbouts/prepsycho.png"
   inscription: ''
