@@ -12,7 +12,8 @@ description: ''
 Vous pouvez sélectionner une catégorie pour peaufiner votre recherche.</p>
 
 <div class="row">
-	{% for stage in site.data.stages.stages %}
+	{% assign liste_stages = site.data.stages.stages | sort: "name" %}
+	{% for stage in liste_stages %}
   {% if stage.online %}
 
 {% include coleen/liste_cartes.html %}

@@ -13,7 +13,8 @@ description: ''
 <p>Des programmes différents et variés tout au long de la semaine pour défouler vos enfants !</p>
 
 <div class="row">
-	{% for stage in site.data.stages.stages %}
+	{% assign liste_stages = site.data.stages.stages | sort: "name" %}
+	{% for stage in liste_stages %}
   {% if stage.online and stage.categorie contains 'fun' %}
 
 {% include coleen/liste_cartes.html %}

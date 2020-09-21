@@ -13,7 +13,8 @@ description: ''
 <p>Spectacles/expositions/dégustations de fin de semaine à ne pas manquer.</p>
 
 <div class="row">
-	{% for stage in site.data.stages.stages %}
+	{% assign liste_stages = site.data.stages.stages | sort: "name" %}
+	{% for stage in liste_stages %}
   {% if stage.online and stage.categorie contains 'Activités artistiques et loisirs' %}
 
 {% include coleen/liste_cartes.html %}
