@@ -18,7 +18,8 @@ menu: activites
 <p>Nous appliquons pour nos activités <a href="/stages/protocole/general/">le protocole général des stages</a> qui a fait ses preuves cet été.</p>
 
 <div class="row">
-	{% for stage in site.data.extrascolaire.activites %}
+	{% assign liste_stages = site.data.extrascolaire.activites | sort: "name" %}
+	{% for stage in liste_stages %}
   {% if stage.online %}
 
 {% include coleen/carte_extrascolaire.html %}
