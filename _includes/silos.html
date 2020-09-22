@@ -35,7 +35,7 @@
 {% for centre in centres %}
   <span id="{{centre.name | replace: ' ', '_' | replace: '&', 'et' }}"></span>
     <div class="sub-title">
-      <span>Organisation des silos - {{ centre.name }}</span>
+      <span>{{ centre.name }}</span>
     </div>
 
 {% if centre.map == nil or centre.map == '' %}
