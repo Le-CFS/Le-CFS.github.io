@@ -32,7 +32,7 @@ selection:
   - titre: Mini-foot
     titre_img: ''
     titre_overlay: ''
-    src: "/assets/images/boutonsactivites/cfsacademy/minifootacademy.png"
+    src: "/assets/images/mini-foot.jpg"
     href: "/activites/cfs_academy/mini_foot_academy/"
     autre_page: ''
     bouton: Plus d'info
