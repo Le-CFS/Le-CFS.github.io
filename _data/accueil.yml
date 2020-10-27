@@ -37,11 +37,11 @@ selection:
     autre_page: oui
     bouton: Inscription
     couleur_bouton: ''
-  - titre: Mini-foot
-    titre_img: ''
-    titre_overlay: ''
-    src: "/assets/images/mini-foot.jpg"
-    href: "/activites/cfs_academy/mini_foot_academy/"
+  - titre: Protocole de sécurité
+    titre_img: Protocole de sécurité
+    titre_overlay: Protocole de sécurité
+    src: "/assets/images/protocolestages.jpg"
+    href: "/stages/protocole/"
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
