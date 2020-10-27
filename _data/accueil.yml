@@ -29,14 +29,6 @@ selection:
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
-  - titre: Extrascolaire
-    titre_img: ''
-    titre_overlay: ''
-    src: "/assets/images/boutonsactivites/extrascolaires.png"
-    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Groupe=1
-    autre_page: oui
-    bouton: Inscription
-    couleur_bouton: ''
   - titre: Protocole de sécurité
     titre_img: Protocole de sécurité
     titre_overlay: Protocole de sécurité
@@ -44,6 +36,14 @@ selection:
     href: "/stages/protocole/"
     autre_page: ''
     bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Extrascolaire
+    titre_img: ''
+    titre_overlay: ''
+    src: "/assets/images/boutonsactivites/extrascolaires.png"
+    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Groupe=1
+    autre_page: oui
+    bouton: Inscription
     couleur_bouton: ''
   - titre: École de natation
     titre_img: ''
