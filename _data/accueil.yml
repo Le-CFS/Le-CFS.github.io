@@ -37,10 +37,10 @@ selection:
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
-  - titre: Aqua Biking
+  - titre: Stages Toussaint
     titre_img: ''
     titre_overlay: ''
-    src: "/assets/images/boutonscoursadultes/aquabiking.png"
+    src: "/assets/images/stagealajournee.jpg"
     href: "/cours_adultes/aquabike/"
     autre_page: ''
     bouton: Plus d'info
