@@ -12,7 +12,7 @@ infos:
   date: 
   teaser: ''
 description: Cours de natation maintenus à Bierges
-image: ''
+image: "/assets/images/natation.png"
 
 ---
 Notre piscine " Le Provincial" situé à Bierges reste **ouverte !**  
