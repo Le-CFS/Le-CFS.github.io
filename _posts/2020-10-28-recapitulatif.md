@@ -5,12 +5,12 @@ tags:
 - recapitulatif
 - activites
 - cfs
-title: 'RECAPITULATIF '
+title: Activités maintenues & suspendues au CFS
 banner: "/assets/images/recapitulatifactivitescfs.jpg"
 infos:
   date: 
   teaser: ''
-description: Activités maintenues et suspendues au CFS
+description: Activités maintenues & suspendues au CFS
 image: "/assets/images/recapitulatifactivitescfs.jpg"
 
 ---
