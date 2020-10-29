@@ -14,7 +14,8 @@ description: Activités maintenues & suspendues au CFS
 image: "/assets/images/recapitulatifactivitescfs.jpg"
 
 ---
-ℹ️ **RECAPITULATIF**
+ℹ️ **RECAPITULATIF  
+**_(Dernière mise à jour: **29/10/2020**)_
 
 Comme vous le savez tous, de nombreuses décisions sont actuellement prises chaque jour par le gouvernement.
 
