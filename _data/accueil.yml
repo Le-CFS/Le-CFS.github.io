@@ -87,21 +87,18 @@ une:
       Pour éviter que les enfants restent toute la journée devant les écrans, ils passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du centre.
     lieu: Brabant Wallon
     age: 8 - 12 ans
-  - name: Padel
-    titre_overlay: Padel
+  - name: Fun Hiver
+    titre_overlay: Fun Hiver
     img: "/assets/images/padel.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: Nous n'irons pas ramer et faire du Paddle mais nous irons taper la
-      balle et jouer au Padel sur un terrain plus petit que celui du tennis. Le padel
-      se joue deux contre deux en utilisant les murs. C'est un mixte entre le tennis
-      et le squash. Cette activité te tente ? Viens t'inscrire, nous serons ravis
-      de te faire découvrir ce sport en vogue !
-    lieu: Bruxelles
-    age: 8 à 12 ans
+    description: 'Ce stage propose un programme alléchant : Laser Game, Arrow Games,
+      Bubble Soccer et Parcours d''obstacle !'
+    lieu: Brabant
+    age: 9 à 12 ans
   - name: Drône & Laser
     titre_overlay: Drône & Laser
     img: "/assets/images/droenetlaser.jpg"
