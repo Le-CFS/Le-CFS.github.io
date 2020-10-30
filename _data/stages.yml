@@ -268,7 +268,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/babydansetgym.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
