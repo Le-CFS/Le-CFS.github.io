@@ -4,12 +4,12 @@ menu: cfs
 tags:
 - chèque
 - consommation
-title: Chèque consommation
+title: Chèques Consommations
 banner: "/assets/images/chequesconsommation.jpg"
 infos:
   date: 
   teaser: ''
-description: Chèque consommation CFS
+description: Chèques Consommations CFS
 image: "/assets/images/chequesconsommation.jpg"
 
 ---
