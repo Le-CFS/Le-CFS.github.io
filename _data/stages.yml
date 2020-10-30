@@ -2139,7 +2139,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/tennisanglaisneerlandais.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
