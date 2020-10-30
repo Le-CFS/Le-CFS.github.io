@@ -138,7 +138,7 @@ stages:
   img: "/assets/images/stages/lespetitsbouts/psychonature.png"
   inscription: ''
   categorie: Les petits bouts
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -178,7 +178,7 @@ stages:
   img: "/assets/images/stages/lespetitsbouts/psychovelo.png"
   inscription: ''
   categorie: Les petits bouts
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -195,7 +195,7 @@ stages:
   img: "/assets/images/stages/lespetitsbouts/psychobricolage.png"
   inscription: ''
   categorie: Les petits bouts
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -219,7 +219,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/psychovelo.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -234,7 +234,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/astucieux.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -338,7 +338,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultietnat.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -380,7 +380,7 @@ stages:
 - name: Baby Savant
   img: "/assets/images/stages/decouvertesportiveetculturelle/babysavant.png"
   inscription: ''
-  categorie: decouvertes
+  categorie: Les petits bouts
   online: false
   nouveau: false
   stage_une: false
@@ -434,7 +434,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirquemomes.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -477,7 +477,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -497,7 +497,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/psychomusique.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -512,7 +512,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/psychonatation.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -596,7 +596,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -790,7 +790,7 @@ stages:
   img: "/assets/images/stages/danseetgymnastique/gympro.png"
   inscription: ''
   categorie: Danse et Gymnastique
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -806,7 +806,7 @@ stages:
   img: "/assets/images/stages/danseetgymnastique/hiphopragga.png"
   inscription: ''
   categorie: Danse et Gymnastique
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -823,7 +823,7 @@ stages:
   img: "/assets/images/stages/danseetgymnastique/swissjumpkids.png"
   inscription: ''
   categorie: Danse et Gymnastique
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -886,7 +886,7 @@ stages:
   img: "/assets/images/stages/activitesfun/bmx.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -916,7 +916,7 @@ stages:
   img: "/assets/images/stages/activitesfun/evasion.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -946,7 +946,7 @@ stages:
   img: "/assets/images/stages/activitesfun/funado.jpg"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1006,7 +1006,7 @@ stages:
   img: "/assets/images/stages/activitesfun/funpaintballetvtt.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -1026,7 +1026,7 @@ stages:
   img: "/assets/images/stages/activitesfun/funvtt.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1069,7 +1069,7 @@ stages:
   img: "/assets/images/stages/activitesfun/lanta.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -1099,7 +1099,7 @@ stages:
   img: "/assets/images/stages/activitesfun/kartingetfun.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1123,7 +1123,7 @@ stages:
   img: "/assets/images/stages/activitesfun/skatepro.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1153,7 +1153,7 @@ stages:
   img: "/assets/images/stages/activitesfun/trottinettepro.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1185,7 +1185,7 @@ stages:
   img: "/assets/images/stages/activitesfun/tennisfunetaventure.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1203,7 +1203,7 @@ stages:
   img: "/assets/images/stages/activitesfun/xtremsensation.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1283,7 +1283,7 @@ stages:
   img: "/assets/images/stages/activitessportives/badminton.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1303,7 +1303,7 @@ stages:
   img: "/assets/images/stages/activitessportives/equisport.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1426,7 +1426,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/funmultietnat.png"
   inscription: ''
   categorie: Les petits bouts
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -1470,7 +1470,7 @@ stages:
   img: "/assets/images/stages/activitessportives/kravmaga.jpg"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -2004,7 +2004,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersionanglais.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -2020,7 +2020,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
