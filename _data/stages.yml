@@ -1,5 +1,19 @@
 ---
 stages:
+- name: Fun Hiver
+  categorie: Activités fun
+  img: ''
+  online: true
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Fun Hiver
+    ville: Brabant Wallon
+    age: 9-12
+    description: "<p>Ce stage propose un programme alléchant : Laser Game, Arrow Games,
+      Bubble Soccer et Parcours d'obstacle !</p>"
+    infos: []
 - name: Pré-psychomotricité
   img: "/assets/images/stages/lespetitsbouts/prepsycho.png"
   inscription: ''
