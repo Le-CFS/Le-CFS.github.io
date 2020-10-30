@@ -2,7 +2,7 @@
 stages:
 - name: Fun Hiver
   categorie: Activités fun
-  img: ''
+  img: "/assets/images/funhiver.jpg"
   online: true
   nouveau: false
   stage_une: false
