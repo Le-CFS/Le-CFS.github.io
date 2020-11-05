@@ -22,7 +22,7 @@ selection:
   nom: Sélection du CFS
   images:
   - titre: Stages Toussaint
-    titre_img: Stages à la journée
+    titre_img: Prolongation des stages
     titre_overlay: Prolongation des stages
     src: "/assets/images/prolongationtoussaint.jpg"
     href: "/stages/"
