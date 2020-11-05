@@ -38,8 +38,8 @@ selection:
     bouton: Plus d'info
     couleur_bouton: ''
   - titre: Extrascolaire
-    titre_img: ''
-    titre_overlay: ''
+    titre_img: Extrascolaire
+    titre_overlay: Extrascolaire
     src: "/assets/images/boutonsactivites/extrascolaires.png"
     href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Groupe=1
     autre_page: oui
