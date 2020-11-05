@@ -49,7 +49,7 @@ selection:
     titre_img: Anniversaires
     titre_overlay: Anniversaires
     src: "/assets/images/anniversaires.jpg"
-    href: "/anniversaires/"
+    href: https://www.lecfs.be/anniversaires/
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
