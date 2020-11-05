@@ -45,13 +45,13 @@ selection:
     autre_page: oui
     bouton: Inscription
     couleur_bouton: ''
-  - titre: École de natation
-    titre_img: ''
-    titre_overlay: ''
-    src: "/assets/images/boutonsactivites/ecoledenatation.png"
-    href: "/activites/ecole_de_natation/"
+  - titre: Anniversaires
+    titre_img: Anniversaires
+    titre_overlay: Anniversaires
+    src: "/assets/images/anniversaires.jpg"
+    href: ''
     autre_page: ''
-    bouton: Plus d'info
+    bouton: ''
     couleur_bouton: ''
 slogan: Le CFS, à votre service depuis 1981.
 une:
