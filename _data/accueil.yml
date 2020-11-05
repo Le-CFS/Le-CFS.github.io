@@ -49,9 +49,9 @@ selection:
     titre_img: Anniversaires
     titre_overlay: Anniversaires
     src: "/assets/images/anniversaires.jpg"
-    href: ''
+    href: "/anniversaires/"
     autre_page: ''
-    bouton: ''
+    bouton: Plus d'info
     couleur_bouton: ''
 slogan: Le CFS, à votre service depuis 1981.
 une:
