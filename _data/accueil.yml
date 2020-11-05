@@ -99,25 +99,21 @@ une:
       Bubble Soccer et Parcours d''obstacle !'
     lieu: Brabant
     age: 9 à 12 ans
-  - name: Drône & Laser
-    titre_overlay: Drône & Laser
-    img: "/assets/images/droenetlaser.jpg"
+  - name: Futsal
+    titre_overlay: Futsal
+    img: "/assets/images/futsal.jpg"
     bouton: Plus d'info
-    nouveau: oui
+    nouveau: ''
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: |-
-      Tu souhaites devenir un pilote de drône ? Ce stage est fait pour toi !
-      Nous t'avons concocté un programme varié, fun et ludique.
-
-      Une partie de la journée sera consacrée à la découverte et à la manipulation du drône. Des jeux aquatiques (découverte du drône dans l'eau) et extérieurs sont prévus au programme. 
-
-      L'autre partie de la journée sera consacrée au Laser Game.
-
-      Inscris-toi vite, il reste encore des places !
-    lieu: Brabant Wallon
-    age: 10 - 14 ans
+    description: "STAGE NOEL DU 21 AU 24 DECEMBRE : \nCe stage prévoit une alternance
+      d'entraînements (technique ballon et technique de jeu) et de petits matchs.\n\nJette
+      : Stage en collaboration avec CB Futsal Jette BXL Cap\nGarderie: Inscription
+      au préalable obligatoire dans les \"Options\" lors de l'inscription. \n\nInscris-toi
+      vite, il reste encore des places !"
+    lieu: Bruxelles
+    age: 6-12 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
