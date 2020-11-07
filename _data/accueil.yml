@@ -56,6 +56,22 @@ selection:
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
+  - titre: Anniversaires
+    titre_img: Anniversaires
+    titre_overlay: Anniversaires
+    src: "/assets/images/anniversaires.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Anniversaires
+    titre_img: Anniversaires
+    titre_overlay: Anniversaires
+    src: "/assets/images/anniversaires.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
 slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
