@@ -18,10 +18,10 @@ slider:
 selection:
   nom: Sélection du CFS
   images:
-  - titre: Stages Toussaint
-    titre_img: Prolongation des stages
-    titre_overlay: Prolongation des stages
-    src: "/assets/images/prolongationtoussaint.jpg"
+  - titre: Stages
+    titre_img: Stages Noël & Nouvel An
+    titre_overlay: Stages Noël & Nouvel An
+    src: "/assets/images/stages.jpg"
     href: "/stages/"
     autre_page: ''
     bouton: Plus d'info
