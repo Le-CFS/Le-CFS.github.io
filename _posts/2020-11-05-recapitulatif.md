@@ -15,7 +15,7 @@ image: "/assets/images/recapitulatifactivitescfs.jpg"
 
 ---
 ℹ️ **RECAPITULATIF  
-**_Dernière mise à jour le 05/11_**
+**_Dernière mise à jour le 16/11_**
 
 Comme vous le savez tous, de nombreuses décisions sont actuellement prises chaque jour par le gouvernement.
 
@@ -26,16 +26,16 @@ Nous mettons tout en œuvre pour assurer des cours de qualité répondant aux no
 ☑️ **ACTIVITES MAINTENUES** (pour les enfants de 12 ans et –)
 
 * Toutes les activités parascolaires dans les écoles
-* Toutes les activités extrascolaires (à l’exception du centre sportif de Rixensart) et ce même la semaine du 09 au 13 novembre
-* Tous les stages de Toussaint (prolongation du 09 au 13 novembre, pas de stage le 11/11 FERIE!)
+* Toutes les activités extrascolaires (à l’exception du centre sportif de Rixensart)
 * Les garderies dans les écoles
 * Les anniversaires
+* Tous les stages de Noël/Nouvel An
 
 ❌ **ACTIVITES SUSPENDUES**
 
 * Cours adultes suspendus à Bierges
-* Activités Parascolaires du 9 et 10 Novembre dans les écoles
 * Mini-Foot à Wemmel en Parascolaires: Décision de la Région flamande de fermer les Centres Sportifs
+* Parascolaire: La piscine de l’ARO doit fermer ses portes suite à des travaux de maintenance / de réparation.
 * Les activités extrascolaire au Centre Sportif de Rixensart
 * Le hip-hop le samedi à WSLA & Jette
 * Les cours de langue au Primerose de Laeken
