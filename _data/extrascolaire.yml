@@ -43,7 +43,7 @@ activites:
     infos: []
 - name: Remédiation & Jeux
   categorie: Activités artistiques et loisirs
-  img: "/anniversaires/activites/timesup.png"
+  img: "/assets/images/anniversaires/activites/timesup.png"
   online: true
   nouveau: true
   inscription: ''
@@ -63,7 +63,7 @@ activites:
         latte, colle, ciseaux, crayons de couleur et magicolors).
 - name: Remédiation
   categorie: Activités artistiques et loisirs
-  img: "/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
+  img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
   online: true
   nouveau: true
   inscription: ''
@@ -82,7 +82,7 @@ activites:
         latte, colle, ciseaux, crayons de couleur et magicolors).
 - name: Aqua & Sport
   categorie: Activités sportives
-  img: "/stages/decouvertesportiveetculturelle/funmultietnat.png"
+  img: "/assets/images/stages/decouvertesportiveetculturelle/funmultietnat.png"
   online: true
   nouveau: true
   inscription: ''
@@ -101,7 +101,7 @@ activites:
       info_line: Les enfants ne doivent pas savoir nager.
 - name: Danse
   categorie: Danse et Gymnastique
-  img: "/stages/danseetgymnastique/danse.png"
+  img: "/assets/images/stages/danseetgymnastique/danse.png"
   online: true
   nouveau: false
   inscription: ''
@@ -120,7 +120,7 @@ activites:
       info_line: 'CLUB Wavre & Rixensart : Grand spectacle de fin d''année.'
 - name: Escalade Découverte
   categorie: Découvertes sportives et culturelles
-  img: "/stages/decouvertesportiveetculturelle/escaladedecouverte.png"
+  img: "/assets/images/stages/decouvertesportiveetculturelle/escaladedecouverte.png"
   online: true
   nouveau: false
   inscription: ''
@@ -137,7 +137,7 @@ activites:
     infos: []
 - name: Cirque Découverte
   categorie: Découvertes sportives et culturelles
-  img: "/stages/decouvertesportiveetculturelle/cirque.png"
+  img: "/assets/images/stages/decouvertesportiveetculturelle/cirque.png"
   online: false
   nouveau: false
   inscription: ''
@@ -151,7 +151,7 @@ activites:
     infos: []
 - name: Aqua & Gymnastique
   categorie: Danse et Gymnastique
-  img: "/stages/activitessportives/aquafun.png"
+  img: "/assets/images/stages/activitessportives/aquafun.png"
   online: true
   nouveau: true
   inscription: ''
@@ -169,7 +169,7 @@ activites:
       alias: 'Savoir nager '
 - name: Psychomotricité
   categorie: Les petits bouts
-  img: "/stages/lespetitsbouts/psychodecouverte.png"
+  img: "/assets/images/stages/lespetitsbouts/psychodecouverte.png"
   online: true
   nouveau: false
   inscription: ''
@@ -268,14 +268,14 @@ activites:
       sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball, etc...</p>"
     infos: []
 - name: Psycho Découverte
-  img: "/boutonsactivites/extrascolaires/psychodecouverte.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/psychodecouverte.png"
   inscription: ''
   categorie: Les petits bouts
   online: false
   nouveau: false
   location: []
 - name: Psycho Grimpette
-  img: "/boutonsactivites/extrascolaires/psychogrimpette.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/psychogrimpette.png"
   inscription: ''
   categorie: Les petits bouts
   online: true
@@ -293,7 +293,7 @@ activites:
     infos: []
   nouveau: false
 - name: Baby Danse
-  img: "/boutonsactivites/extrascolaires/babydanse.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/babydanse.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
@@ -324,7 +324,7 @@ activites:
       info_line: Spectacle le Weekend du 29/05/2021.
   nouveau: false
 - name: Baby Multisports
-  img: "/boutonsactivites/extrascolaires/babymultisports.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/babymultisports.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
@@ -340,7 +340,7 @@ activites:
       des règles et la vie en groupe.</p>"
     infos: []
 - name: Baby Gym
-  img: "/boutonsactivites/extrascolaires/babygym.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/babygym.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
@@ -368,7 +368,7 @@ activites:
     infos: []
   nouveau: false
 - name: Danse Jazz
-  img: "/boutonsactivites/extrascolaires/dansejazz.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/dansejazz.png"
   inscription: ''
   categorie: Danse et Gymnastique
   online: true
@@ -383,14 +383,14 @@ activites:
     infos: []
   nouveau: false
 - name: Danse Girly
-  img: "/boutonsactivites/extrascolaires/dansegirly.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/dansegirly.png"
   inscription: ''
   categorie: Danse et Gymnastique
   online: false
   nouveau: false
   location: []
 - name: Hip-Hop
-  img: "/boutonsactivites/extrascolaires/hiphop.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/hiphop.png"
   inscription: ''
   categorie: Danse et Gymnastique
   online: true
@@ -422,7 +422,7 @@ activites:
       info_line: Spectacle le Weekend du 29/05/2021.
   nouveau: false
 - name: GRS
-  img: "/boutonsactivites/extrascolaires/grs.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/grs.png"
   inscription: ''
   categorie: Danse et Gymnastique
   online: true
@@ -457,7 +457,7 @@ activites:
     age: 6-14 ans
   nouveau: false
 - name: Gymnastique
-  img: "/boutonsactivites/extrascolaires/gymnastique.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/gymnastique.png"
   inscription: ''
   categorie: Danse et Gymnastique
   online: true
@@ -492,7 +492,7 @@ activites:
       regroupés par niveau/âge.</p>"
     infos: []
 - name: Gymnastique PRO
-  img: "/boutonsactivites/extrascolaires/gympro.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/gympro.png"
   inscription: ''
   categorie: Danse et Gymnastique
   online: true
@@ -514,7 +514,7 @@ activites:
         Francophone de Gymnastique) sur demande. Possibilité de prendre une carte
         de 10 séances à la Courtoise.'
 - name: Fun Laser
-  img: "/boutonsactivites/extrascolaires/funlaser.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/funlaser.png"
   lieu:
   - Wavre - Collège Notre-Dame de Basse-Wavre
   - Rixensart - Complexe Sportif de Rixensart
@@ -541,7 +541,7 @@ activites:
       météorologiques.</p>"
     infos: []
 - name: Fun Laser & VTT
-  img: "/boutonsactivites/extrascolaires/funvtt.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/funvtt.png"
   inscription: ''
   categorie: Activités fun
   online: true
@@ -557,7 +557,7 @@ activites:
       peut être aménagé en fonction des conditions météorologiques.</p>"
     infos: []
 - name: Mini-Tennis & Multisports
-  img: "/boutonsactivites/extrascolaires/minitennisetmultisports.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/minitennisetmultisports.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -573,7 +573,7 @@ activites:
       multisports.</p>"
     infos: []
 - name: Escalade
-  img: "/boutonsactivites/extrascolaires/escalade.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/escalade.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -590,7 +590,7 @@ activites:
     infos: []
   nouveau: false
 - name: Badminton
-  img: "/boutonsactivites/extrascolaires/badminton.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/badminton.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -607,7 +607,7 @@ activites:
       matchs.</p>"
     infos: []
 - name: Arts Martiaux
-  img: "/boutonsactivites/extrascolaires/artsmartiaux.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/artsmartiaux.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -624,7 +624,7 @@ activites:
       le karaté, ju-jistu et le judo.</p>"
     infos: []
 - name: Judo
-  img: "/boutonsactivites/extrascolaires/judo.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/judo.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -647,7 +647,7 @@ activites:
         à l'activité ET l'affiliation et l'assurance fédérale à la Fédération Francophone
         Belge de Judo (FFBJ).
 - name: Multisports
-  img: "/boutonsactivites/extrascolaires/multisports.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/multisports.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
@@ -662,7 +662,7 @@ activites:
     infos: []
   nouveau: false
 - name: Mini-Foot
-  img: "/boutonsactivites/extrascolaires/minifoot.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/minifoot.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -695,7 +695,7 @@ activites:
         (Dijck 34) à 17h45.
   nouveau: false
 - name: Mini-Foot ACADEMY
-  img: "/boutonsactivites/extrascolaires/minifootacademy.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/minifootacademy.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -718,7 +718,7 @@ activites:
         et juin).'
     alias: Brabant Wallon
 - name: Mini-Foot & Multisports
-  img: "/boutonsactivites/extrascolaires/minifoot.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/minifoot.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -736,7 +736,7 @@ activites:
       matchs.</p>"
     infos: []
 - name: Football
-  img: "/boutonsactivites/extrascolaires/football.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/football.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -757,7 +757,7 @@ activites:
     - alias: ''
       info_line: ''
 - name: Football Academy
-  img: "/boutonsactivites/extrascolaires/footballacademy.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/footballacademy.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -773,7 +773,7 @@ activites:
     infos: []
   nouveau: false
 - name: Football - Gardien de but
-  img: "/boutonsactivites/extrascolaires/footballgardiendebut.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/footballgardiendebut.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -791,7 +791,7 @@ activites:
       info_line: Les enfants sont regroupés par âge et par niveau. 1 entraîneur pour
         4 gardiens.
 - name: Anglais
-  img: "/boutonsactivites/extrascolaires/anglais.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/anglais.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
   online: true
@@ -819,7 +819,7 @@ activites:
     infos: []
   nouveau: false
 - name: Néerlandais
-  img: "/boutonsactivites/extrascolaires/neerlandais.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/neerlandais.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
   online: true
@@ -847,7 +847,7 @@ activites:
     infos: []
   nouveau: false
 - name: Cirque
-  img: "/boutonsactivites/extrascolaires/cirque.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/cirque.png"
   inscription: ''
   categorie: Les petits bouts
   online: true
@@ -866,14 +866,14 @@ activites:
       pleine de découvertes, de rires et de bons souvenirs !</p>"
     infos: []
 - name: Diner Parfait
-  img: "/boutonsactivites/extrascolaires/dinerparfait.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/dinerparfait.png"
   inscription: ''
   categorie: artistiques
   online: false
   nouveau: false
   location: []
 - name: Parkour
-  img: "/boutonsactivites/extrascolaires/parkour.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/parkour.png"
   inscription: ''
   categorie: Activités fun
   online: true
@@ -890,7 +890,7 @@ activites:
       sont au programme . L'activité se déroulera en salle et en milieu naturel.</p>"
     infos: []
 - name: Sports Raquettes
-  img: "/boutonsactivites/extrascolaires/raquettes.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/raquettes.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -907,21 +907,21 @@ activites:
       </p><p>Au programme : Paddle - Badminton - Tennis - Speedminton - Ping-pong.</p>"
     infos: []
 - name: Tennis
-  img: "/boutonsactivites/extrascolaires/tennis.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/tennis.png"
   inscription: ''
   categorie: Les petits bouts
   online: false
   nouveau: false
   location: []
 - name: Théâtre
-  img: "/boutonsactivites/extrascolaires/theatre.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/theatre.png"
   inscription: ''
   categorie: Les petits bouts
   online: false
   nouveau: false
   location: []
 - name: VTT
-  img: "/boutonsactivites/extrascolaires/vtt.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/vtt.png"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -942,7 +942,7 @@ activites:
       info_line: 'Deux niveaux : Pro ou Initiation'
     alias: Brabant Wallon
 - name: Multi Aqua
-  img: "/boutonsactivites/extrascolaires/multiaqua.png"
+  img: "/assets/images/boutonsactivites/extrascolaires/multiaqua.png"
   inscription: ''
   categorie: Les petits bouts
   online: false
