@@ -1,5 +1,46 @@
 ---
 activites:
+- name: Robotique
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/stages/stagesalaune_robotique.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: robotique
+    ville: Brabant Wallon
+    centres: []
+    age: 6 à 14 ans
+    description: "<p><strong>Prenez vos bonnes résolutions pour la rentrée scolaire
+      ! </strong><br></p><p>Nos enfants ne sont pas formés à 90% des métiers de 2030
+      !</p><p>En effet, le monde change et évolue à un rythme fou. Les technologies
+      ont un réel impact tant au niveau professionnel que dans la vie de tous les
+      jours.</p><p>La mission de la <strong>CFS Robotique Academy</strong> est de
+      former les jeunes aux enjeux du numérique afin de mieux comprendre le monde
+      qui les entoure.</p><p>Pour apprendre à coder, rien ne vaut une approche ludique,
+      créative et concrète. Et pour une activité enfant, quoi de plus ludique que
+      de construire un robot Légo qui obéit au doigt et à l’oeil ?</p><p></p><p>Nos
+      ateliers sont proposés par petit groupe en respectant la distanciation sociale
+      \U0001F60A <br></p><p>Voici les horaires pour la rentrée de Septembre : </p><ul><li><p>Atelier
+      Découverte : Mercredi 13h30-15h00</p></li><li><p>Atelier Niveau 2* : Mercredi
+      15h00-16h30</p></li><li><p>Atelier Découverte : Samedi 9h-10h30</p></li><li><p>Niveau
+      2* : Samedi 10h30-12h00</p></li><li><p>Atelier Découverte : Samedi 12h30-14h00</p></li></ul><p><strong>Pourquoi
+      apprendre à programmer ?</strong></p><ul><li><p>Parce qu’apprendre à coder développe
+      de nombreuses autres compétences: la capacité d’abstraction et de résolution
+      de problème, la pensée logique, les mathématiques, le vocabulaire, etc.</p></li><li><p>Parce
+      nous vivons dans un monde éminemment technologique et qu’il est aussi essentiel
+      d’en maîtriser les notions que de savoir lire, écrire ou compter.</p></li><li><p>Pour
+      que les enfants sachent surfer sur le tsunami technologique sans en être de
+      simples consommateurs.</p></li><li><p>Parce que c’est ludique, et que les enfants
+      manifestent un intérêt naturel pour ces domaines.</p></li><li><p>Parce que la
+      technologie fait pleinement partie de la culture générale du XXIème siècle.</p></li><li><p>Parce
+      que les connaissances apprises dès les premières années sont solidement acquises.</p></li></ul><p>Horaire
+      :</p><ul><li><p>Mercredi</p><ul><li><p>Atelier Découverte : 13h30-15h00</p><ul><li><p>Niveau
+      2* : 15h00-16h30</p></li></ul></li></ul></li><li><p>Samedi</p><ul><li><p>Atelier
+      Découverte : 9h00-10h30</p></li><li><p>Atelier Découverte : 12h30-14h00</p><ul><li><p>Niveau
+      2* : 10h30-12h00</p></li></ul></li></ul></li></ul><p><em>*L’enfant a déjà suivi
+      un stage de robotique au CFS ou équivalent pour participer au Niveau 2.</em></p>"
+    infos: []
 - name: Remédiation & Jeux
   categorie: Activités artistiques et loisirs
   img: "/anniversaires/activites/timesup.png"
