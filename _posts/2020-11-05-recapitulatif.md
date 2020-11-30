@@ -15,7 +15,7 @@ image: "/assets/images/recapitulatifactivitescfs.jpg"
 
 ---
 ℹ️ **RECAPITULATIF  
-**_Dernière mise à jour le 16/11_**
+**_Dernière mise à jour le 30/11_**
 
 Comme vous le savez tous, de nombreuses décisions sont actuellement prises chaque jour par le gouvernement.
 
@@ -26,7 +26,11 @@ Nous mettons tout en œuvre pour assurer des cours de qualité répondant aux no
 ☑️ **ACTIVITES MAINTENUES** (pour les enfants de 12 ans et –)
 
 * Toutes les activités parascolaires dans les écoles
-* Toutes les activités extrascolaires (à l’exception du centre sportif de Rixensart)
+* Toutes les activités extrascolaires
+* Activités au Complexe Sportif de Rixensart: 
+  1. Judo : reprise au Centre Sportif aux horaires habituels (ma/mer/ve) à partir de demain, le **01/12** (et non plus à Wavre)
+  2. Les cours du mercredi reprennent à la même heure à partir du mercredi **02/12**
+  3. Les cours du foot à 16h reviennent à son horaire habituel (_et non plus 14h30_)
 * Les garderies dans les écoles
 * Les anniversaires
 * Tous les stages de Noël/Nouvel An
