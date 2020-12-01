@@ -930,7 +930,7 @@ stages:
   img: "/assets/images/stages/activitesfun/evasion.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
