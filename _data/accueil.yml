@@ -13,7 +13,7 @@ inscription:
   texte_mobile: Inscription
 slider:
 - titre: 'Concours ! '
-  src: "/assets/images/concours.jpg"
+  src: "/assets/images/concours-1.jpg"
   href: https://www.facebook.com/CFSasbl/photos/a.129895967213133/1505766619626054/
 - titre: Inscriptions Stages
   src: "/assets/images/slide-noel.jpg"
