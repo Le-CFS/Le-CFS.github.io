@@ -15,7 +15,7 @@ image: "/assets/images/recapitulatifactivitescfs.jpg"
 
 ---
 ℹ️ **RECAPITULATIF  
-**_Dernière mise à jour le 30/11_**
+**_Dernière mise à jour le 03/12_**
 
 Comme vous le savez tous, de nombreuses décisions sont actuellement prises chaque jour par le gouvernement.
 
@@ -27,13 +27,14 @@ Nous mettons tout en œuvre pour assurer des cours de qualité répondant aux no
 
 * Toutes les activités parascolaires dans les écoles
 * Toutes les activités extrascolaires
-* Activités au Complexe Sportif de Rixensart: 
+* Activités au Complexe Sportif de Rixensart:
   1. Judo : reprise au Centre Sportif aux horaires habituels (ma/mer/ve) à partir de demain, le **01/12** (et non plus à Wavre)
   2. Les cours du mercredi reprennent à la même heure à partir du mercredi **02/12**
   3. Les cours du foot à 16h reviennent à son horaire habituel (_et non plus 14h30_)
 * Les garderies dans les écoles
 * Les anniversaires
 * Tous les stages de Noël/Nouvel An
+* Ecole de natation **uniquement à Bierges !**
 
 ❌ **ACTIVITES SUSPENDUES**
 
@@ -43,7 +44,7 @@ Nous mettons tout en œuvre pour assurer des cours de qualité répondant aux no
 * Les activités extrascolaire au Centre Sportif de Rixensart
 * Le hip-hop le samedi à WSLA & Jette
 * Les cours de langue au Primerose de Laeken
-* Ecoles de natation à Jette, WSPI, Bierges & Ottignies
+* Ecoles de natation à Jette, WSPI & Ottignies
 
 👌La bonne gestion de la crise sanitaire reste notre priorité absolue et nous mettons tout en œuvre pour vous accueillir dans un environnement sain en respectant les protocoles de l’ONE et de l’ADEPS.
 
