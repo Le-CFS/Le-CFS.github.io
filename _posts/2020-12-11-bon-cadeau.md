@@ -8,12 +8,12 @@ tags:
 - enfants
 - adultes
 title: Bon cadeau !
-banner: "/assets/images/boncadeau.jpg"
+banner: "/assets/images/boncadeau-1.jpg"
 infos:
   date: 2020-12-11
   teaser: ''
 description: Bon cadeau activités CFS
-image: "/assets/images/boncadeau.jpg"
+image: "/assets/images/boncadeau-1.jpg"
 
 ---
 **NOUVEAU !**  
