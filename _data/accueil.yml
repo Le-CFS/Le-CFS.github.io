@@ -14,7 +14,7 @@ inscription:
 slider:
 - titre: Meilleurs Vœux 2021 !
   src: "/assets/images/voeux2021.jpg"
-  href: ''
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
 - titre: Bon cadeau
   src: "/assets/images/boncadeau-1.jpg"
   href: https://www.lecfs.be/news/2020/12/11/bon-cadeau
