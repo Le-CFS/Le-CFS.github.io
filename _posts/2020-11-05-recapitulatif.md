@@ -27,7 +27,7 @@ Nous mettons tout en œuvre pour assurer des cours de qualité répondant aux no
 
 * Toutes les activités parascolaires dans les écoles
 * Toutes les activités extrascolaires
-* Activités au Complexe Sportif de Rixensart:
+* Activités au Complexe Sportif de Rixensart (réouverture du Centre)
   1. Judo : reprise au Centre Sportif à 16h00 (ma/mer/ve) à partir de demain, le **01/12** (et non plus à Wavre)
   2. Les cours du mercredi reprennent à la même heure à partir du mercredi **02/12**
   3. Les cours du foot à 16h reviennent à son horaire habituel (_et non plus 14h30_)
@@ -41,7 +41,6 @@ Nous mettons tout en œuvre pour assurer des cours de qualité répondant aux no
 * Cours adultes suspendus à Bierges
 * Mini-Foot à Wemmel en Parascolaires: Décision de la Région flamande de fermer les Centres Sportifs
 * Parascolaire: La piscine de l’ARO doit fermer ses portes suite à des travaux de maintenance / de réparation.
-* Les activités extrascolaire au Centre Sportif de Rixensart
 * Le hip-hop le samedi à WSLA & Jette
 * Les cours de langue au Primerose de Laeken
 * Ecoles de natation à Jette, WSPI & Ottignies
