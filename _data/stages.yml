@@ -7,7 +7,17 @@ stages:
   nouveau: false
   stage_une: false
   inscription: Brabant
-  location: []
+  location:
+  - alias: Pilote
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Tu es un futur pilote de F1? Viens t'exercer avec ce stage!</p><p>Il
+      te permettra de découvrir les sensations d’un vrai pilote: concentration, adrénaline
+      et amusement !</p><p>Au programme, apprentissage et maîtrise de quads durant
+      deux séances par jour. Si le moniteur approuve le niveau, l'enfant pourra également
+      s'essayer à la moto.</p><p>Le reste de la journée est complété par des activités
+      multisports.</p>"
+    infos: []
 - name: Fun Hiver
   categorie: Activités fun
   img: "/assets/images/funhiver.jpg"
