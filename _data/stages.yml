@@ -311,13 +311,22 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 3-4 ans
-    description: Votre enfant souhaite découvrir des activités sportives? Le stage
-      de psycho sport permet une transition idéale entre la psychomotricité et la
-      découverte sportive! Durant la semaine, les enfants s’initient à différents
-      sports individuels, collectifs et gymniques de manière ludique afin qu’ils progressent
-      à leur rythme tout en respectant leur développement moteur. Le reste de la journée
-      est consacré à un mélange des différentes activités du stage « psycho découverte
-      ».
+    description: "<p>Ce stage propose une séance d'initiation à des sports collectifs,
+      de coopération et jeux ludiques chaque jour afin de développer chez l’enfant
+      des facettes essentielles de la motricité telles que l’audace, la motricité,
+      l’équilibre et le respect des règles . Le reste de la journée est consacré à
+      un mix des différentes activités du stage « Psycho Découverte ».</p><p>Les stages
+      pour les plus petits tendent au développement harmonieux des enfants au travers
+      d’activités adaptées à leur âge. L’enfant développe de nouvelles aptitudes tout
+      en jouant : il apprend les règles du jeu et de groupe, développe sa sociabilité
+      et explore les différentes facettes de la motricité.<br>Le rythme de l’enfant
+      est respecté et une sieste est prévue pour les enfants qui en ont besoin. Il
+      y a maximum 12 enfants par groupe (8 enfants pour la Pré-Psychomotricité).<br><br>Pour
+      chaque stage, il y a une base commune de psychomotricité (jeux de coopération,
+      parcours d’adresse, d’audace, exercices de latéralité) et bien sûr un apprentissage
+      spécifique en fonction du thème proposé.<br><br>Pour les stages commençant à
+      3 ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut inscrire
+      votre petit-bout en pré-psycho.</p>"
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
