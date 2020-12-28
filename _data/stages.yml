@@ -271,7 +271,7 @@ stages:
   img: "/assets/images/stages/lespetitsbouts/psychonature.png"
   inscription: ''
   categorie: Les petits bouts
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -293,9 +293,7 @@ stages:
       commune de psychomotricité (jeux de coopération, parcours d’adresse, d’audace,
       exercices de latéralité) et bien sûr un apprentissage spécifique en fonction
       du thème proposé.<br>Il est demandé aux parents de prévoir un sac avec une tenue
-      de rechange pour leur enfant. Pour les stages commençant à 3 ans (PSYCHO) :
-      les enfants doivent être propres. Le cas échéant, il faut inscrire votre petit-bout
-      en pré-psycho.</p><p><br></p>"
+      de rechange pour leur enfant. </p><p><br></p>"
     infos:
     - alias: Enfants propres
       info_line: Les enfants doivent être propres (dans le cas contraire nous vous
