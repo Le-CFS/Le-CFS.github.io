@@ -8,7 +8,7 @@ stages:
   stage_une: false
   inscription: Brabant
   location:
-  - alias: Pilote
+  - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
     description: "<p>Tu es un futur pilote de F1? Viens t'exercer avec ce stage!</p><p>Il
