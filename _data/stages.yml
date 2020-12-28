@@ -206,9 +206,26 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 3-4 ans
-    description: Ce stage de psychomotricité est agrémenté, quotidiennement, d'une
-      heure d'accoutumance à l'eau. Une aubaine pour les petits qui auront l'occasion
-      de faire connaissance avec les joies de la piscine, en toute sécurité.
+    description: '<p><strong>Et 1,2,3 PLOUF!</strong></p><p>1er pas dans l''eau?</p><p>Ce
+      stage apprend à votre enfant les bases de la natation par le biais d''activités
+      ludiques, le tout dans une ambiance décontractée !</p><p>Ils auront l''occasion
+      de faire connaissance avec les joies de la piscine et de la pataugeoire via
+      une heure quotidienne d''accoutumance à l''eau. Une sieste est prévue pour les
+      enfants qui en ont besoin.</p><p>Les stages pour les plus petits tendent au
+      développement harmonieux des enfants au travers d’activités adaptées à leur
+      âge. L’enfant développe de nouvelles aptitudes tout en jouant : il apprend les
+      règles du jeu et de groupe, développe sa sociabilité et explore les différentes
+      facettes de la motricité.<br>Le rythme de l’enfant est respecté et une sieste
+      est prévue pour les enfants qui en ont besoin. Il y a maximum 12 enfants par
+      groupe (8 enfants pour la Pré-Psychomotricité).<br>Pour chaque stage, il y a
+      une base commune de psychomotricité (jeux de coopération, parcours d’adresse,
+      d’audace, exercices de latéralité) et bien sûr un apprentissage spécifique en
+      fonction du thème proposé.<br>Il est demandé aux parents de prévoir un sac avec
+      une tenue de rechange pour leur enfant. Pour les stages commençant à 3 ans (PSYCHO)
+      : les enfants doivent être propres. Le cas échéant, il faut inscrire votre petit-bout
+      en pré-psycho.</p><p><strong><em>Garderie:</em></strong><em> Inscription au
+      préalable obligatoire dans les </em><strong><em>"Options" </em></strong><em>lors
+      de l''inscription.</em></p>'
     infos:
     - alias: Bonnet
       info_line: Bonnet de bain obligatoire.
