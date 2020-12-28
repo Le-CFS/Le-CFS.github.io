@@ -267,14 +267,6 @@ stages:
     - alias: Enfants propres
       info_line: Les enfants doivent être propres (dans le cas contraire nous vous
         conseillons de les inscrire en pré-psycho)
-- name: Psycho Musique
-  img: "/assets/images/stages/lespetitsbouts/psychomusique.png"
-  inscription: ''
-  categorie: Les petits bouts
-  online: false
-  nouveau: false
-  stage_une: false
-  location: []
 - name: Psycho Nature
   img: "/assets/images/stages/lespetitsbouts/psychonature.png"
   inscription: ''
@@ -286,11 +278,24 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 3-4 ans
-    description: 'Chaque matin, les enfants partiront dans les alentours de leur centre
-      : découverte et sensibilisation à la nature seront au programme de leur balade.
-      Une fois revenus, ils réaliseront un bricolage avec les richesses ramenées lors
-      de leur expédition. A chaque jour son nouveau thème ! Le reste de la journée
-      est consacré à des activités de psychomotricité.'
+    description: "<p>Envie d'un grand bol d'air pour vos petits bouts ? Ce stage est
+      fait pour eux !</p><p>Chaque matin, les enfants se promèneront près du centre
+      et iront à la découverte de la nature. Ils chercheront les trésors que la nature
+      offre...</p><p>Dès leur retour, ils réaliseront un bricolage avec les richesses
+      ramenées lors de leur expédition.</p><p>Le stage est complété par des activités
+      de psychomotricité.</p><p>Les stages pour les plus petits tendent au développement
+      harmonieux des enfants au travers d’activités adaptées à leur âge. L’enfant
+      développe de nouvelles aptitudes tout en jouant : il apprend les règles du jeu
+      et de groupe, développe sa sociabilité et explore les différentes facettes de
+      la motricité.<br>Le rythme de l’enfant est respecté et une sieste est prévue
+      pour les enfants qui en ont besoin. Il y a maximum 12 enfants par groupe (8
+      enfants pour la Pré-Psychomotricité).<br><br>Pour chaque stage, il y a une base
+      commune de psychomotricité (jeux de coopération, parcours d’adresse, d’audace,
+      exercices de latéralité) et bien sûr un apprentissage spécifique en fonction
+      du thème proposé.<br>Il est demandé aux parents de prévoir un sac avec une tenue
+      de rechange pour leur enfant. Pour les stages commençant à 3 ans (PSYCHO) :
+      les enfants doivent être propres. Le cas échéant, il faut inscrire votre petit-bout
+      en pré-psycho.</p><p><br></p>"
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
