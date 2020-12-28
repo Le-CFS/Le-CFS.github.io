@@ -1,5 +1,13 @@
 ---
 stages:
+- name: Pilote
+  categorie: Activités fun
+  img: "/assets/images/cfs-pilot.jpg"
+  online: true
+  nouveau: false
+  stage_une: false
+  inscription: Brabant
+  location: []
 - name: Fun Hiver
   categorie: Activités fun
   img: "/assets/images/funhiver.jpg"
