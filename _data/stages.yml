@@ -341,10 +341,27 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 3-4 ans
-    description: Initiation au vélo via des exercices d'équilibre et de prise de confiance.
-      Les règles de sécurité sont abordées. Le CFS met ses Balance Bikes à disposition.
-      L'enfant peut aussi apporter son propre vélo.
+    description: '<p>Votre enfant veut devenir un champion, comme Eddy Merckx? Eh
+      bien voilà! Ce stage est un bon début!</p><p>Il prévoit une initiation au vélo
+      via des exercices d''équilibre et de prise de confiance. Les règles de sécurité
+      sont abordées.</p><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Le CFS met à disposition des draisiennes</p><p><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">L''enfant peut apporter son propre vélo</p><p>Les
+      stages pour les plus petits tendent au développement harmonieux des enfants
+      au travers d’activités adaptées à leur âge. L’enfant développe de nouvelles
+      aptitudes tout en jouant : il apprend les règles du jeu et de groupe, développe
+      sa sociabilité et explore les différentes facettes de la motricité.<br>Le rythme
+      de l’enfant est respecté et une sieste est prévue pour les enfants qui en ont
+      besoin. Il y a maximum 12 enfants par groupe (8 enfants pour la Pré-Psychomotricité).<br><br>Pour
+      chaque stage, il y a une base commune de psychomotricité (jeux de coopération,
+      parcours d’adresse, d’audace, exercices de latéralité) et bien sûr un apprentissage
+      spécifique en fonction du thème proposé.<br>Pour les stages commençant à 3 ans
+      (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut inscrire
+      votre petit-bout en pré-psycho.</p>'
     infos:
+    - alias: " Draisiennes sur place"
+      info_line: Le CFS met à disposition des draisiennes
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
 - name: Psycho Bricolage
