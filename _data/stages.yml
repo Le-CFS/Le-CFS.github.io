@@ -334,7 +334,7 @@ stages:
   img: "/assets/images/stages/lespetitsbouts/psychovelo.png"
   inscription: ''
   categorie: Les petits bouts
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -356,12 +356,12 @@ stages:
       du thème proposé.<br>Pour les stages commençant à 3 ans (PSYCHO) : les enfants
       doivent être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.</p>"
     infos:
-    - alias: Vélo personnel
-      info_line: L'enfant peut apporter son propre vélo
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
     - alias: " Draisiennes sur place"
       info_line: Le CFS met à disposition des draisiennes
+    - alias: Vélo personnel
+      info_line: L'enfant peut apporter son propre vélo
 - name: Psycho Bricolage
   img: "/assets/images/stages/lespetitsbouts/psychobricolage.png"
   inscription: ''
