@@ -1138,22 +1138,23 @@ stages:
     infos:
     - alias: Fair-play
       info_line: 'Fair-play et esprit de coopération sont requis pour ce stage ! '
-- name: Pilote Academy
+- name: Pilote
   img: "/assets/images/stages/activitesfun/kartingetfun.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 10-14 ans
-    description: "<p>Au matin : simulateur de cours, entrainement physique et coordination
-      oeil-main. Le programme de l'après-midi est entièrement consacré au Karting
-      : les apprentis pilotes sont encadrés par un formateur du WIK qui leur apprend
-      les différentes techniques de pilotage, trajectoire, exercices évolutifs avec
-      cônes sur la piste et une analyse vidéo est prévue.</p>"
+    age: 10-16 ans
+    description: "<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
+      alléchant de ce stage:</p><p>Au matin : simulateur de cours, entrainement physique
+      et coordination oeil-main.</p><p>Le programme de l'après-midi est entièrement
+      consacré au Karting : les apprentis pilotes sont encadrés pas un<strong> formateur
+      du WIK </strong>qui leur apprend les différentes techniques de pilotage, trajectoire,
+      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p>"
     infos:
     - alias: Accueil au WIK
       info_line: Accueil à 9h00 au WIK en face du Walibi (Boulevard de l'Europe 117
