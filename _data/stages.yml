@@ -53,10 +53,21 @@ stages:
       alias: Pas de garderie
   - ville: Bruxelles
     alias: Bruxelles
-    description: Ce stage propose un éveil psychomoteur adapté aux plus petits. Par
-      le jeu, les enfants vont apprendre à percevoir leur corps et à coordonner leurs
-      membres. Une sieste est prévue et encadrée.
-    age: 2-4 ans
+    description: "<p>Ce stage propose un éveil psychomoteur adapté aux plus petits.
+      Les enfants apprennent à percevoir leur corps et à affiner leurs mouvements
+      au travers du jeu.</p><p>Les stages pour les plus petits tendent au développement
+      harmonieux des enfants au travers d’activités adaptées à leur âge.</p><p>L’enfant
+      développe de nouvelles aptitudes tout en jouant : il apprend les règles du jeu
+      et de groupe, développe sa sociabilité et explore les différentes facettes de
+      la motricité. Le rythme de l’enfant est respecté et une sieste est prévue pour
+      les enfants qui en ont besoin. Il y a maximum 12 enfants par groupe (8 enfants
+      pour la Pré-Psychomotricité). Pour chaque stage, il y a une base commune de
+      psychomotricité (jeux de coopération, parcours d’adresse, d’audace, exercices
+      de latéralité) et bien sûr un apprentissage spécifique en fonction du thème
+      proposé. Il est demandé aux parents de prévoir un sac avec une tenue de rechange
+      pour leur enfant.</p><p>Pour les stages commençant à 3 ans (PSYCHO) : les enfants
+      doivent être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.</p>"
+    age: 2-3 ans
     infos:
     - alias: Tenue adaptée
       info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
