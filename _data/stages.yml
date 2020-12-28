@@ -13,12 +13,9 @@ stages:
     age: 8-12
     description: '<p>Parce que pendant les vacances, ce sont surtout des activités
       différentes, funs et amusantes que les enfants recherchent !</p><p>Ce stage
-      propose un programme alléchant qui pourra satisfaire votre enfant : <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
-      title="laugh" alt="laugh"></p><ul><li><p>Laser Game</p></li><li><p>Arrow Game</p></li><li><p>New
-      Games</p></li><li><p>...</p></li></ul><p>Chaque jour, nous varions les plaisirs!
-      Inscris-toi vite, nous t''attendons <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
-      title="laugh" alt="laugh"></p><p><em><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened"></em><strong><em>Garderie:</em></strong><em>
+      propose un programme alléchant qui pourra satisfaire votre enfant : </p><ul><li><p>Laser
+      Game</p></li><li><p>Arrow Game</p></li><li><p>New Games</p></li><li><p>...</p></li></ul><p>Chaque
+      jour, nous varions les plaisirs! Inscris-toi vite, nous t''attendons !</p><p><strong><em>Garderie:</em></strong><em>
       Inscription au préalable obligatoire dans les </em><strong><em>"Options" </em></strong><em>lors
       de l''inscription.</em></p>'
     infos: []
