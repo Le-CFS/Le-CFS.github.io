@@ -362,45 +362,25 @@ stages:
       info_line: Le CFS met à disposition des draisiennes
     - alias: Vélo personnel
       info_line: L'enfant peut apporter son propre vélo
-- name: Psycho Bricolage
-  img: "/assets/images/stages/lespetitsbouts/psychobricolage.png"
-  inscription: ''
-  categorie: Les petits bouts
-  online: false
-  nouveau: false
-  stage_une: false
-  location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 3-4 ans
-    description: Un stage de psychomotricité qui sera agrémenté quotidiennement d'un
-      éveil artistique par le biais du bricolage et de la peinture.
-    infos:
-    - alias: Tenue adaptée
-      info_line: Prévoir une tenue adaptée pour le bricolage et la peinture.
-- name: Psycho Cuisine
-  img: "/assets/images/stages/lespetitsbouts/psychocuisine.png"
-  inscription: ''
-  categorie: Les petits bouts
-  online: false
-  nouveau: false
-  stage_une: false
-  location: []
 - name: Apprenti Vélo
   img: "/assets/images/stages/decouvertesportiveetculturelle/psychovelo.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 4-5 ans
-    description: Ce stage permettra à votre enfant d'apprendre à rouler à vélo ou
-      de développer ses capacités. Des circuits sont prévus afin de familiariser votre
-      enfant à la conduite.
-    infos: []
+    age: 4-6 ans
+    description: "<p>Ce stage est réservé aux enfants ne sachant pas rouler à vélo
+      sur 2 roues.<br>Il propose quotidiennement une demi-journée consacrée à l'apprentissage
+      de la conduite à vélo : apprendre à rouler sur deux roues, réaliser de petits
+      parcours d'adresse, apprentissage du code de la route et des règles élémentaires
+      de sécurité. Le reste de la journée est consacré à des activités de multisports.</p>"
+    infos:
+    - alias: Tenue adaptée
+      info_line: L'enfant doit venir avec son vélo en bon état et son casque.
 - name: Astucieux
   img: "/assets/images/stages/decouvertesportiveetculturelle/astucieux.png"
   inscription: ''
