@@ -297,6 +297,9 @@ stages:
       les enfants doivent être propres. Le cas échéant, il faut inscrire votre petit-bout
       en pré-psycho.</p><p><br></p>"
     infos:
+    - alias: Enfants propres
+      info_line: Les enfants doivent être propres (dans le cas contraire nous vous
+        conseillons de les inscrire en pré-psycho)
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
 - name: Psycho Sport
