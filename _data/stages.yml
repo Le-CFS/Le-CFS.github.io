@@ -1138,7 +1138,7 @@ stages:
     infos:
     - alias: Fair-play
       info_line: 'Fair-play et esprit de coopération sont requis pour ce stage ! '
-- name: Pilote
+- name: Pilote Academy
   img: "/assets/images/stages/activitesfun/kartingetfun.png"
   inscription: ''
   categorie: Activités fun
