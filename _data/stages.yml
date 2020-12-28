@@ -2,7 +2,7 @@
 stages:
 - name: Pilote
   categorie: Activités fun
-  img: "/assets/images/cfs-pilot.jpg"
+  img: "/assets/images/pilote.jpg"
   online: true
   nouveau: false
   stage_une: false
