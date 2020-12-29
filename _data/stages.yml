@@ -1421,10 +1421,15 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 7-12 ans
-    description: 'Pour les jeunes sachant nager 50m: jeux nautiques, techniques de
-      sauvetage et nage avec palmes. 2h de piscine et 4h de multisports par jour.'
-    infos: []
+    age: 8-12 ans
+    description: "<p>Tu veux découvrir les jeux aquatiques et des activités fun?</p><p>Ce
+      stage est fait pour toi !</p><p>Chaque jour, pendant 2 heures, tu pourrais découvrir,
+      par exemples, le waterpolo, les techniques de sauvetage, …</p><p>Le reste de
+      la journée est consacré à des activités de multisports (par exemples, tennis,
+      parkour, gymnastique, jeux de ballons, jeux musicaux…)</p>"
+    infos:
+    - alias: Les jeunes doivent nager le 50m.
+      info_line: Les jeunes doivent nager le 50m.
 - name: Badminton
   img: "/assets/images/stages/activitessportives/badminton.png"
   inscription: ''
