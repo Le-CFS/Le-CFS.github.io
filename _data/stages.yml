@@ -1106,14 +1106,15 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 10-16 ans
-    description: Ce stage prévoit une initiation et un perfectionnement au BMX. Les
-      as du BMX vont apprendre de nouvelles figures dans une ambiance propre à ces
-      sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par
-      des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
-      un nouveau Skate Park. Les enfants doivent amener leur BMX et toutes les protections.
+    description: "<p><strong><em>Stage en partenariat avec Max Extreme.</em></strong></p><p>Initiation
+      et perfectionnement au BMX, apprentissage de nouvelles figures.</p><p>Chaque
+      jour, les enfants partent découvrir un nouveau Skate Park : Louvain, Malines,
+      Alost, Dilbeek, ou encore les Ursulines dans le centre de Bruxelles.</p><p>Les
+      jeunes sont encadrés par des professionnels.</p><p>Les déplacements sont assurés
+      par le CFS.</p>"
     infos:
-    - alias: Partenariat
-      info_line: Stage en partenariat avec Max Extrême
+    - alias: Matériel
+      info_line: Les enfants doivent amener leur BMX et toutes les protections.
 - name: Evasion
   img: "/assets/images/stages/activitesfun/evasion.png"
   inscription: ''
