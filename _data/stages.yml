@@ -2046,7 +2046,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/bd.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
