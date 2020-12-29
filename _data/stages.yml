@@ -2110,17 +2110,19 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/comediemusicale.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-16 ans
-    description: "<p>Ce stage propose une combinaison de danses, chants et jeux de
-      rôles sous forme théâtrale. Echauffement, exercices de vocalise, création de
-      petites scénettes sont au programme. Spectacle en fin de semaine à ne pas manquer!</p>"
-    infos: []
+    description: "<p>Tu veux évoluer au sein d'une troupe de comédie musicale? Alors
+      viens !</p><p>Dansons, chantons, jouons au théâtre tous ensemble!</p><p>Mais,
+      très important, la journée commence par un échauffement, des vocalises,...</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Spectacle en fin de semaine!  
 - name: Compo Musicale
   img: "/assets/images/stages/activitesartistiquesetloisirs/compomusicale.png"
   inscription: ''
@@ -2521,7 +2523,7 @@ stages:
   img: "/assets/images/stages/activitesfun/bulleado.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   location:
@@ -2537,9 +2539,12 @@ stages:
       journée à la mer... et éventuellement d'autres activités en fonction des initiatives
       de nos moniteurs.</p>"
     infos:
+    - alias: Retour
+      info_line: Pour le retour, les horaires varieront en fonction des lieux d'activités
+        et de la circulation.
     - alias: Déplacement
-      info_line: Tous les déplacements se font en autocar. il est possible de déposer
-        votre enfant sur le chemin si vous donnez une autorisation de sortie.
+      info_line: 'Tous les déplacements se font en autocar. il est possible de déposer
+        votre enfant sur le chemin si vous donnez une autorisation de sortie. '
     - alias: Profondeville
       info_line: Toutes les activités n'auront pas lieu chaque semaine à l'exception
         de Profondeville.
