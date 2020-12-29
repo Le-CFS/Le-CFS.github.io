@@ -2052,11 +2052,13 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 9-16 ans
-    description: "<p>Ce stage a pour but la création de planches BD. Se munir d'une
-      latte, de crayons, d'un taille-crayon, d'une gomme et d'un chiffon. Le reste
-      du matériel est prévu dans le prix du stage.</p>"
-    infos: []
+    age: 8-14 ans
+    description: "<p>Futur Hergé? Ce stage est fait pour votre enfant!</p><p>Il apprendra
+      à créer des planches de BD: construction d'un scénario, ébauche, croquis,...</p>"
+    infos:
+    - alias: Matériel
+      info_line: Se munir d'une latte, de crayons, d'un taille-crayon, d'une gomme
+        et d'un chiffon.
 - name: Bricoleur & Sport
   img: "/assets/images/stages/activitesartistiquesetloisirs/bricoleur.png"
   inscription: ''
