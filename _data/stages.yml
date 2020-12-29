@@ -2028,7 +2028,8 @@ stages:
       enfant ramènera toutes ses œuvres à la maison!</p>"
     infos:
     - alias: Garderie
-      info_line: Inscription au préalable obligatoire dans les "Options" lors de l'inscription. 
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription. '
     age: 6-12 ans
   - alias: Bruxelles
     ville: Bruxelles
@@ -2039,7 +2040,8 @@ stages:
       enfant ramènera toutes ses œuvres à la maison!</p>"
     infos:
     - alias: Garderie
-      info_line: Inscription au préalable obligatoire dans les "Options" lors de l'inscription. 
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription. '
 - name: Bande Dessinée
   img: "/assets/images/stages/activitesartistiquesetloisirs/bd.png"
   inscription: ''
