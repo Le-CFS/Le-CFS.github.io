@@ -3,7 +3,7 @@ stages:
 - name: Baby Multisports & Poney
   categorie: Découvertes sportives et culturelles
   img: ''
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -19,7 +19,7 @@ stages:
 - name: Baby Escalade
   categorie: Découvertes sportives et culturelles
   img: ''
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -36,7 +36,7 @@ stages:
 - name: Baby Danse & Bijoux
   categorie: Découvertes sportives et culturelles
   img: ''
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
