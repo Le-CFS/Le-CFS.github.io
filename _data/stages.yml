@@ -519,14 +519,18 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: Stage en partenariat avec le Manège Horse's Corner de Bierges. Pour
-      les plus petits, nous commençons par leur enseigner les bases nécessaires à
-      une bonne tenue en selle. Les enfants progressent grâce à une pédagogie par
-      le jeu. L'enfant développe une relation privilégiée avec son poney tout au long
-      du stage. Les enfants se préparent également pour l'examen Licol. Prévoir une
-      tenue adaptée pour l'équitation (pas de jeans et de tenue large) et des bottes.
-      Le manège met à disposition tout le matériel adéquat pour les petits cavaliers.
-    infos: []
+    description: '<p>Ce stage est une pleine participation à la vie du manège: soins
+      et pansage des poneys, balades et jeux à poney, voltige pour améliorer la motricité
+      de l''enfant, initiation aux bases de l''équitation adaptée à l''âge de l''enfant
+      et apprentissage de la théorie équestre de manière ludique. <br>Le manège met
+      à disposition tout le matériel adéquat pour les petits cavaliers. Prévoir une
+      tenue adaptée à l''équitation (pas de tenue "large") et bottes.</p><ul><li><p>A
+      Bierges : en collaboration avec le Horse''s Corner</p></li><li><p>Prévoir une
+      tenue adaptée pour l''équitation (pas de jeans et de tenue large) et des bottes</p></li><li><p>Le
+      manège met à disposition tout le matériel adéquat pour les petits cavaliers.</p></li></ul>'
+    infos:
+    - alias: Garderie
+      info_line: Inscription sur place !
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
