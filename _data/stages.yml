@@ -1515,7 +1515,7 @@ stages:
     - alias: Matériel
       info_line: Le CFS met à votre disposition le matériel.
     alias: Bruxelles
-- name: Equi Sport
+- name: Equi Sports
   img: "/assets/images/stages/activitessportives/equisport.png"
   inscription: ''
   categorie: Activités sportives
@@ -1526,11 +1526,11 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 7-12 ans
-    description: "Les enfants s’adonnent le matin aux joies du manège et de l’équitation.
-      L’après-midi est consacrée à une autre activité au choix parmi: \n\n* À Rixensart
-      : badminton, football, sports raquettes, GRS, activités Funs ou bande dessinée\n*
-      À Ottignies : mini-foot, sports raquettes, GRS, Gym Pro (pratique nécessaire
-      de la gymnastique tout au long de l'année) ou magie."
+    description: "<p>Les enfants s’adonnent le matin aux joies du manège et de l’équitation.</p><p>L’après-midi
+      est consacrée à une autre activité au choix:</p><p>A Rixensart: badminton, football,
+      sports raquettes, GRS, activités Fun ou bande dessinée.</p><p>A Ottignies: mini-foot,
+      sports raquettes, GRS, Gym Pro (pratique nécessaire de la gymnastique tout au
+      long de l'année) ou magie</p>"
     infos:
     - alias: Navettes
       info_line: Les navettes seront assurées par le CFS.
