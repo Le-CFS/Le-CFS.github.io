@@ -622,11 +622,11 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 9-14 ans
-    description: 'Ce stage propose l’approche de diverses disciplines issues du monde
-      du cirque : équilibre (câbles, échasses, monocycle), acrobatie (pyramides, trampoline
-      et trapèze), jonglerie (foulards, balles, quilles), adresse (diabolos, bâtons
-      du diable).'
+    age: 6-8 ans
+    description: "<p>Tu es un vrai petit clown? Ce stage t'es destiné!</p><p>Tu découvriras
+      les arts du cirque au travers de différents jeux : jonglage, équilibre, pyramide
+      humaine,...</p><p>Et, bien entendu, tout cela dans la joie et la bonne humeur.</p><p>Spectacle
+      en fin de semaine.</p>"
     infos: []
   - alias: Liège
     ville: Liège
