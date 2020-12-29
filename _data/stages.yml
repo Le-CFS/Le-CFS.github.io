@@ -538,10 +538,18 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: 'Stage en partenariat avec Le Manège à Winterjumping à Asse. Ce stage
-      est une pleine participation à la vie du manège : soins aux poneys et bien sûr,
-      initiation à l''équitation.'
+    description: '<p><em>Stage en partenariat avec</em><strong><em> Le Manège de La
+      Motte et Winterjumping</em></strong></p><p>Ce stage est une pleine participation
+      à la vie du manège : soins aux poneys et bien sûr, initiation à l''équitation.</p><ul><li><p><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Prévoir une tenue adaptée pour l''équitation
+      (pas de jeans et de tenue large) et des bottes</p></li><li><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Le manège met à disposition tout le matériel
+      adéquat pour les petits cavaliers</p></li></ul><p><strong><em>Garderie:</em></strong><em>
+      Inscription sur place !</em></p>'
     infos:
+    - alias: Garderie
+      info_line: Inscription sur place !
     - alias: Bombe et gants
       info_line: Les enfants doivent se munir d’une bombe (ou à défaut un casque de
         vélo) ainsi que des gants pour participer aux activités.
