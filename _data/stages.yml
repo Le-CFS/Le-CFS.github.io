@@ -435,9 +435,11 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: Premier contact avec le ballon rond par des apprentissages techniques
-      et des jeux. Le stage est complété par de la psychomotricité (jeux de coopérations,
-      parcours d'adresse, d'audace).
+    description: "<p>Votre enfant souhaite découvrir le football ? Ce stage est fait
+      pour lui!</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
+      avec le ballon par des apprentissages techniques et des jeux. Le stage est complété
+      par de la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace
+      et multisports).</p>"
     infos: []
 - name: Baby Gym
   img: "/assets/images/stages/decouvertesportiveetculturelle/babygym.png"
