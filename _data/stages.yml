@@ -926,24 +926,27 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-10 ans
-    description: Ce stage prévoit une initiation et/ou un perfectionnement de la danse
-      Jazz. (musique, tempos, mouvements, danses en groupe). Les enfants réalisent
-      également des chorégraphies. Un petit spectacle est prévu à la fin de la semaine!
+    age: 6-12 ans
+    description: "<p>Ce stage prévoit une initiation et/ou un perfectionnement de
+      la danse moderne Jazz &amp; Hip-Hop. (musique, tempos, mouvements, danse en
+      groupe).</p><p>Les enfants réalisent également des chorégraphies sur les différents
+      tubes du moment.</p><p>Un petit spectacle est prévu à la fin de la semaine!</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-10 ans
-    description: Ce stage prévoit une initiation et/ou un perfectionnement de la danse
-      Jazz. (musique, tempos, mouvements, danses en groupe). Les enfants réalisent
-      également des chorégraphies. Un petit spectacle est prévu à la fin de la semaine!
+    age: 6-12 ans
+    description: "<p>Ce stage prévoit une initiation et/ou un perfectionnement de
+      la danse moderne Jazz &amp; Hip-Hop. (musique, tempos, mouvements, danse en
+      groupe).</p><p>Les enfants réalisent également des chorégraphies sur les différents
+      tubes du moment.</p><p>Un petit spectacle est prévu à la fin de la semaine!</p>"
     infos: []
   - alias: Liège
     ville: Liège
-    age: 6-10 ans
-    description: Ce stage prévoit une initiation et/ou un perfectionnement de la danse
-      Jazz. (musique, tempos, mouvements, danses en groupe). Les enfants réalisent
-      également des chorégraphies. Un petit spectacle est prévu à la fin de la semaine!
+    age: 6-12 ans
+    description: "<p>Ce stage prévoit une initiation et/ou un perfectionnement de
+      la danse moderne Jazz &amp; Hip-Hop. (musique, tempos, mouvements, danse en
+      groupe).</p><p>Les enfants réalisent également des chorégraphies sur les différents
+      tubes du moment.</p><p>Un petit spectacle est prévu à la fin de la semaine!</p>"
     infos: []
 - name: GRS
   img: "/assets/images/stages/danseetgymnastique/grs.png"
