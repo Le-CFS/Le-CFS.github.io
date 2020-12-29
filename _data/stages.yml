@@ -408,9 +408,12 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: Ce stage offre une initiation au rythme à travers l'apprentissage
-      de différentes chorégraphies adaptées aux plus petits. Les enfants auront l'occasion
-      de présenter un spectacle le vendredi après-midi.
+    description: "<p><strong>Envie de devenir danseuse ?</strong></p><p>Ce stage offre
+      une initiation au rythme à travers l'apprentissage de différentes chorégraphies
+      adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du
+      mouvement.</p><p>Le stage est complété par des activités artistiques (bricolage,
+      confection de bijoux,...) et de multisports.</p><p>Un petit spectacle est prévu
+      à la fin de la semaine pour les parents!</p>"
     infos: []
 - name: Baby Danse & Gym
   img: "/assets/images/stages/decouvertesportiveetculturelle/babydansetgym.png"
