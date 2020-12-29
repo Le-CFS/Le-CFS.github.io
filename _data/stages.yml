@@ -1,5 +1,18 @@
 ---
 stages:
+- name: Baby Danse & Bijoux
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Baby Danse & Bijoux
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: ''
+    infos: []
 - name: Pilote
   categorie: Activités fun
   img: "/assets/images/pilote.jpg"
