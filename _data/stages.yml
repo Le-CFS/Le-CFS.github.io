@@ -688,10 +688,11 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 5-7 ans
-    description: 'Après une matinée de jeux collectifs au centre sportif, les futurs
-      cavaliers participent à la vie du manège durant l''après-midi : initiation à
-      l''équitation et soins aux poneys.'
+    age: 4-6 ans
+    description: "<p>Envie de t'occuper de ton poney? Rejoins-nous!</p><p>Ta journée
+      sera riche en émotions: initiation à l'équitation (monter, s'occuper du poney,
+      le nourrir,...) et découvertes sportives (ballons, raquettes,...).</p><p><em>En
+      collaboration avec le</em><strong><em> Manège Horse's Corner.</em></strong></p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
