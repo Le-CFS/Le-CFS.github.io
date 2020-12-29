@@ -525,10 +525,15 @@ stages:
       et apprentissage de la théorie équestre de manière ludique. <br>Le manège met
       à disposition tout le matériel adéquat pour les petits cavaliers. Prévoir une
       tenue adaptée à l''équitation (pas de tenue "large") et bottes.</p><ul><li><p>A
-      Bierges : en collaboration avec le Horse''s Corner</p></li><li><p>Prévoir une
-      tenue adaptée pour l''équitation (pas de jeans et de tenue large) et des bottes</p></li><li><p>Le
-      manège met à disposition tout le matériel adéquat pour les petits cavaliers.</p></li></ul>'
+      Bierges : en collaboration avec le Horse''s Corner</p></li><li><p>Le manège
+      met à disposition tout le matériel adéquat pour les petits cavaliers.</p></li></ul>'
     infos:
+    - alias: Matériel
+      info_line: Le manège met à disposition tout le matériel adéquat pour les petits
+        cavaliers.
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
+        large) et des bottes
     - alias: Garderie
       info_line: Inscription sur place !
   - alias: Bruxelles
