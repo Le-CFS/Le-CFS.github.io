@@ -1965,18 +1965,28 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    description: "<p>Ce stage vise l'éveil artistique de l'enfant par la découverte
-      de techniques d'art plastique telles que le modelage, le collage, le dessin,
-      etc. et la réalisation d'oeuvres personnelles.</p>"
-    infos: []
+    description: '<p>Votre enfant a une âme d''artiste ? Vous souhaitez qu''il développe
+      sa créativité ? Ce stage est fait pour lui ! <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
+      title="laugh" alt="laugh"></p><p>Il apprendra, tout en s''amusant, quelques
+      techniques d''art plastique: modelage, collage, dessin, etc.</p><p>Votre enfant
+      ramènera toutes ses œuvres à la maison !</p>'
+    infos:
+    - alias: ''
+      info_line: 'Garderie: Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription. '
     age: 6-12 ans
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-12 ans
-    description: "<p>Ce stage vise l'éveil artistique de l'enfant par la découverte
-      de techniques d'art plastique telles que le modelage, le collage, le dessin,
-      etc. et la réalisation d'oeuvres personnelles.</p>"
-    infos: []
+    description: '<p>Votre enfant a une âme d''artiste ? Vous souhaitez qu''il développe
+      sa créativité ? Ce stage est fait pour lui ! <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
+      title="laugh" alt="laugh"></p><p>Il apprendra, tout en s''amusant, quelques
+      techniques d''art plastique: modelage, collage, dessin, etc.</p><p>Votre enfant
+      ramènera toutes ses œuvres à la maison !</p>'
+    infos:
+    - alias: ''
+      info_line: 'Garderie: Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription. '
 - name: Bande Dessinée
   img: "/assets/images/stages/activitesartistiquesetloisirs/bd.png"
   inscription: ''
