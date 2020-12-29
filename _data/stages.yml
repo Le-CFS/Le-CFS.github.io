@@ -543,11 +543,11 @@ stages:
       à la vie du manège : soins aux poneys et bien sûr, initiation à l''équitation.</p><ul><li><p><img
       src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
       title="enlightened" alt="enlightened">Prévoir une tenue adaptée pour l''équitation
-      (pas de jeans et de tenue large) et des bottes</p></li><li><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened">Le manège met à disposition tout le matériel
-      adéquat pour les petits cavaliers</p></li></ul><p><strong><em>Garderie:</em></strong><em>
-      Inscription sur place !</em></p>'
+      (pas de jeans et de tenue large) et des bottes</p></li></ul>'
     infos:
+    - alias: Matériel
+      info_line: Le manège met à disposition tout le matériel adéquat pour les petits
+        cavaliers
     - alias: Garderie
       info_line: Inscription sur place !
     - alias: Bombe et gants
