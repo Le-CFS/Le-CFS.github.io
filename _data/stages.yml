@@ -11,7 +11,12 @@ stages:
   - alias: Baby Danse & Bijoux
     ville: Brabant Wallon
     age: 4-6 ans
-    description: ''
+    description: "<p><strong>Envie de devenir danseuse?</strong></p><p>Ce stage offre
+      une initiation au rythme à travers l'apprentissage de différentes chorégraphies
+      adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du
+      mouvement.</p><p>Le stage est complété par des activités de création de magnifiques
+      bijoux: bracelets, colliers,...</p><p>Un spectacle et une exposition des bijoux
+      sont prévus en fin de stage (entre 15h et 16h).</p>"
     infos: []
 - name: Pilote
   categorie: Activités fun
