@@ -1971,9 +1971,8 @@ stages:
       techniques d''art plastique: modelage, collage, dessin, etc.</p><p>Votre enfant
       ramènera toutes ses œuvres à la maison !</p>'
     infos:
-    - alias: ''
-      info_line: 'Garderie: Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription. '
+    - alias: Garderie
+      info_line: Inscription au préalable obligatoire dans les "Options" lors de l'inscription. 
     age: 6-12 ans
   - alias: Bruxelles
     ville: Bruxelles
@@ -1984,9 +1983,8 @@ stages:
       techniques d''art plastique: modelage, collage, dessin, etc.</p><p>Votre enfant
       ramènera toutes ses œuvres à la maison !</p>'
     infos:
-    - alias: ''
-      info_line: 'Garderie: Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription. '
+    - alias: Garderie
+      info_line: Inscription au préalable obligatoire dans les "Options" lors de l'inscription. 
 - name: Bande Dessinée
   img: "/assets/images/stages/activitesartistiquesetloisirs/bd.png"
   inscription: ''
