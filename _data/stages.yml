@@ -385,20 +385,17 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/astucieux.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 7-9 ans
-    description: 'Aider un enfant à se débrouiller dans la vie de tous les jours.
-      Une semaine de stage avec 10 ateliers pédagogiques mais sous forme de jeux.
-      Les enfants pourront reprendre leur petit carnet en fin de stage. Voici les
-      thèmes abordés lors de ce stage: entretenir et réparer son vélo / trottinette,
-      les premiers secours, faire des nœuds et construire un abri, bricolage, notion
-      d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son
-      chemin, s’orienter et lire une carte, escalader.'
+    age: 6-8 ans
+    description: "<p>Votre enfant veut être un vrai petit débrouillard?</p><p>Ce stage
+      est fait pour lui!</p><p>Au programme, réparation de son vélo, apprentissage
+      des techniques de noeuds, escalade, self défense, lire une carte,...<br><strong><em>Dernier
+      jour : Construction d’un bivouac en toute autonomie</em></strong></p>"
     infos: []
 - name: Baby Danse
   img: "/assets/images/stages/decouvertesportiveetculturelle/babydansetgym.png"
