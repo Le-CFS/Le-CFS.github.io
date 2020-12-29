@@ -2169,18 +2169,13 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Ce stage permet à nos agents spéciaux en herbe de se découvrir
-      et se surpasser. Au programme : jeux de mémoire, de culture générale, de piste,
-      de réflexion et de cohésion d'équipe. Le tout combiné à des épreuves d'agilité
-      et des efforts physiques. Les jeunes sont projetés dans un univers où seule
-      l'entraide leur permettra de trouver les solutions. Pour se tester, ils créent
-      des épreuves de Géocatching (chasse au trésor avec GPS) et d'Escape Room (jeux
-      de rôles grandeur nature dont le but est de s'échapper d'une pièce en résolvant
-      des énigmes). Tout cela agrémenté d'une journée inoubliable au parc de loisir
-      indoor Koezio. La semaine se clôture par une journée cohésion/pique-nique.</p>"
+    description: "<p>Un véritable Sherlock Holmes? Voici le stage qu'il faut à votre
+      enfant!</p><p>Au programme de la semaine : Jeux de mémoire, jeux de piste, géocatching,
+      escape room, escape game VR et une sortie à Koezio,</p><p>Le semaine se termine
+      par un jeu de cohésion et un pique-nique.</p>"
     infos:
     - alias: Koézio
-      info_line: 'Pour Koezio: taille minimum 1,40 m.'
+      info_line: Pour Koezio, les enfants doivent avoir MINIMUM 1,40 m
 - name: Diner Parfait
   img: "/assets/images/stages/activitesartistiquesetloisirs/dinerparfait.png"
   inscription: ''
