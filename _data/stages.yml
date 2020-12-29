@@ -452,13 +452,24 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: Stage d'initiation à la gymnastique pour les plus petits. Parcours
-      d'équilibre, d'audace et premières notions de gymnastique sportive.
+    description: "<p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir
+      la gymnastique ? Ce stage est fait pour lui ! </p><p>Découverte et initiation
+      à la gymnastique pour les plus jeunes par des parcours d'équilibre, d'audace
+      et premières notions de gymnastique sportive.</p><p>La baby gym va permettre
+      à l’enfant d’améliorer son développement psychomoteur. Ce stage est idéal pour
+      développer l'agilité de votre enfant.</p><p>Un petit spectacle est prévu en
+      fin de semaine pour les parents!.</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
-    age: ''
-    description: ''
+    age: 4-6 ans
+    description: "<p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir
+      la gymnastique ? Ce stage est fait pour lui ! </p><p>Découverte et initiation
+      à la gymnastique pour les plus jeunes par des parcours d'équilibre, d'audace
+      et premières notions de gymnastique sportive.</p><p>La baby gym va permettre
+      à l’enfant d’améliorer son développement psychomoteur. Ce stage est idéal pour
+      développer l'agilité de votre enfant.</p><p>Un petit spectacle est prévu en
+      fin de semaine pour les parents!.</p>"
     infos: []
 - name: Baby Multisports
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultisports.png"
