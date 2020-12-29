@@ -1486,9 +1486,15 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: Une initiation et/ou un perfectionnement de la technique et de petits
-      matchs entre participants. Un tournoi est organisé en fin de semaine.
-    infos: []
+    description: "<p>Tu veux découvrir le badminton?</p><p>Rejoins-nous!</p><p>Grâce
+      à ce stage, tu progresseras à ton rythme, tout en apprenant les bonnes techniques
+      (jonglage, déplacement, lancer, visualisation de la trajectoire du volant,...)</p><p>Chaque
+      jour, tu apprendras les règles de base et tu développeras ton fair play en disputant
+      des matchs amicaux.</p><p>La journée est complétée par des activités de multisports
+      (ballon, parcours,...)</p><p>Un tournoi est organisé en fin de semaine.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Le CFS met à votre disposition le matériel.
   - ville: Bruxelles
     age: 8-14 ans
     description: Une initiation et/ou un perfectionnement de la technique et de petits
