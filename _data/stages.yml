@@ -988,16 +988,12 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: |-
-      Votre enfant a entre 8 et 14 ans? Il souhaite un stage varié et fun? Ce stage phare du CFS est fait pour lui! Un stage alléchant qui propose chaque jour une activité ludique!
-
-      **PROGRAMME CARNAVAL**: laser game/arrow game/new games/activités FUN/escalade en salle/jeux dans les bois et barbecue.
-
-      **PROGRAMME PAQUES**: laser game/arrow game/new games/ activités FUN/parc Aventure à Wavre/jeux dans les bois et barbecue.
-
-      **PROGRAMME ETE**: laser game/new games/arrow game/parc Aventure à Wavre/jeux dans les bois et barbecue.
-
-      Attention, le programme peut changer pour les semaines plus courtes.
+    description: "<p>Votre enfant a entre 8 et 12 ans? Il souhaite un stage varié
+      et fun? Ce stage phare du CFS est fait pour lui! Un stage alléchant qui propose
+      chaque jour une activité ludique!</p><p><strong>PROGRAMME CARNAVAL: </strong>laser
+      game/arrow game/new games/orientation/Space Fun</p><p><strong>PROGRAMME PAQUES/ETE:
+      </strong>laser game/arrow game/new games/orientation/parc Aventure à Wavre</p><p><em>ATTENTION:
+      le programme peut changer les semaines plus courtes.</em></p>"
     infos:
     - alias: Vêtement extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
