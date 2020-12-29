@@ -910,9 +910,9 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-14 ans
-    description: '5 types de chorégraphies sont proposés par stage : Funck-Jazz, Hip-Hop,
-      Break-Dance, Ragga et New-Style. Un spectacle est prévu en fin de stage.'
+    age: 8-16 ans
+    description: "<p>5 types de chorégraphies sont proposées par stage : Funck-Jazz,
+      Hip-Hop, Break-Dance, Ragga et New-Style. Un spectacle est prévu en fin de stage.</p>"
     infos:
     - alias: Partenariat
       info_line: Stage en partenariat avec l'association 4UDance
@@ -1087,24 +1087,12 @@ stages:
   img: "/assets/images/stages/activitesfun/bmx.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 10-16 ans
-    description: "<p><strong><em>Stage en partenariat avec Max Extreme.</em></strong></p><p>Initiation
-      et perfectionnement au BMX, apprentissage de nouvelles figures.</p><p>Chaque
-      jour, les enfants partent découvrir un nouveau Skate Park : Louvain, Malines,
-      Alost, Dilbeek, ou encore les Ursulines dans le centre de Bruxelles.</p><p>Les
-      jeunes sont encadrés par des professionnels.</p><p>Les déplacements sont assurés
-      par le CFS.</p>"
-    infos:
-    - alias: Matériel
-      info_line: Les enfants doivent amener leur BMX et toutes les protections.
-  - alias: Bruxelles
-    ville: Bruxelles
     age: 10-16 ans
     description: "<p><strong><em>Stage en partenariat avec Max Extreme.</em></strong></p><p>Initiation
       et perfectionnement au BMX, apprentissage de nouvelles figures.</p><p>Chaque
