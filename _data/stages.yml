@@ -2078,7 +2078,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/bricoleur.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -2530,13 +2530,16 @@ stages:
     age: 12-16 ans
     description: "<p>Afin de laisser place au suspens et de permettre à chaque moniteur
       de créer un stage original et varié, le programme sera adapté en fonction de
-      son organisation et de l'âge moyen du groupe. Parmi les différentes activités
-      possibles: Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, Profondeville
-      (bouées tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois
-      des rêves, Visite de musées/Culturels, Patinoire à Leuven et découverte de la
-      ville, journée à la mer... et éventuellement d'autres activités en fonction
-      des initiatives de nos moniteurs.</p>"
+      son organisation et de l'âge moyen du groupe.</p><p>Parmi les différentes activités
+      possibles: Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, Profondville
+      (boués tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois des
+      rêves, Visite de musées/Culturels, Patinoire à Leuven et découverte de la ville,
+      journée à la mer... et éventuellement d'autres activités en fonction des initiatives
+      de nos moniteurs.</p>"
     infos:
+    - alias: Déplacement
+      info_line: Tous les déplacements se font en autocar. il est possible de déposer
+        votre enfant sur le chemin si vous donnez une autorisation de sortie.
     - alias: Profondeville
       info_line: Toutes les activités n'auront pas lieu chaque semaine à l'exception
         de Profondeville.
