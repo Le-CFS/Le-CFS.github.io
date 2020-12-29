@@ -596,24 +596,21 @@ stages:
     description: Une découverte du tennis sous forme ludique avec un matériel spécialement
       adapté aux petits, complétée par des ateliers de psychomotricité et de multisports.
     infos: []
-- name: Cirque Mômes
+- name: Baby cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirquemomes.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 4-7 ans
-    description: 'Durant ce stage, les enfants sont amenés à découvrir la variété
-      des arts du cirque au travers de différents jeux : apprendre à jongler avec
-      toutes sortes d''objets, s’amuser entre équilibre et déséquilibre sur une boule,
-      un rola bola ou encore un câble, construire des pyramides humaines ensemble
-      et s’essayer au clown de théâtre ! Une semaine pleine de découvertes, de rires
-      et de bons souvenirs ! En fin de stage, un spectacle, basé sur les activités
-      menées pendant la semaine, est présenté aux parents.'
+    age: 4-6 ans
+    description: "<p>Tu es un vrai petit clown? Ce stage t'es destiné!</p><p>Tu découvriras
+      les arts du cirque au travers de différents jeux : jonglage, équilibre, pyramide
+      humaine,...</p><p>Et, bien entendu, tout cela dans la joie et la bonne humeur.</p><p>Spectacle
+      en fin de semaine.</p>"
     infos: []
 - name: Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirque.png"
