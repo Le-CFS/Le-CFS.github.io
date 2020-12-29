@@ -575,19 +575,20 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: 'Les enfants s''initient au tennis en faisant différents jeux leur
+    description: "<p>Les enfants s'initient au tennis en faisant différents jeux leur
       permettant d’acquérir les bases. Ils découvrent la raquette en tant que prolongement
-      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.
-      Ils apprennent, grâce à la 2D, le coup droit et le revers et toutes leurs particularités
+      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.</p><p>Ils
+      apprennent, grâce à la 2D, le coup droit et le revers et toutes leurs particularités
       : prises, placement, jeux de jambes, direction, … Ils peuvent ensuite s’essayer
       à la 3D où l’apprentissage du rebond de la balle est essentiel pour un sport
-      tel que le tennis. La volée et le service sont alors également vus. Et tout
-      cela avec du matériel adapté : ballons, ballons de baudruche, balles rouges
-      et balles molles. Une période de la journée sera consacrée à la découverte d’un
-      multisport. Uccle & Auderghem : stage 100% CFS. Wspi : stage en collaboration
-      avec Ace Tennis Academy - la partie multisports est assurée par le CFS). Schaerbeek
-      : stage en collaboration avec Lambermont Tennis Academy (sur terrain de 12m,
-      balles en mousse).'
+      tel que le tennis. La volée et le service sont alors également vus.</p><p>Et
+      tout cela avec du matériel adapté : ballons, ballons de baudruche, balles rouges
+      et balles molles.</p><p>Une période de la journée sera consacrée à la découverte
+      d’un multisport.</p><ul><li><p>Uccle &amp; Jette: stage 100% <em>CFS</em></p></li><li><p>Wspi
+      : stage en collaboration avec<strong><em> Ace Tennis Academy</em></strong> -
+      la partie multisports est assurée par le CFS)</p></li><li><p>Schaerbeek : stage
+      en collaboration avec <strong><em>Lambermont Tennis Academy</em></strong> (sur
+      terrain de 12m, balles en mousse)</p></li></ul>"
     infos: []
   - alias: Liège
     ville: Liège
