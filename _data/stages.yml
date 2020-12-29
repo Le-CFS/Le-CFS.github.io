@@ -492,16 +492,22 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultietnat.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   location:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: Ce stage se divise en plusieures périodes dont une consacrée à la
-      natation et les autres périodes à la découverte de différents sports.
-    infos: []
+    description: "<p>Tu veux devenir un bon sportif et apprendre à nager comme un
+      vrai petit poisson?</p><p>Ce stage est TOP pour toi!</p><p>La journée se déroule
+      ainsi: apprentissage quotidien des 4 nages, dans le but d'être autonome dans
+      l'eau et initiation aux sports ballons, raquettes et jeux collectifs.</p><p>En
+      piscine : 2 moniteurs pour 8 enfants.</p><p>Dès le 1er jour, prévoir maillot,
+      essuie et bonnet</p>"
+    infos:
+    - alias: Dès le 1er jour
+      info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet
 - name: Baby Poney
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyponey.png"
   inscription: ''
