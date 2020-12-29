@@ -658,39 +658,26 @@ stages:
     - alias: Rixensart
       info_line: À Rixensart, ces activités sportives sont combinées avec des activités
         en piscine.
-- name: Découverte Sportive & Musique
-  img: "/assets/images/stages/decouvertesportiveetculturelle/psychomusique.png"
-  inscription: ''
-  categorie: Découvertes sportives et culturelles
-  online: false
-  nouveau: false
-  stage_une: false
-  location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 5-7 ans
-    description: Ce stage propose une initiation aux sports ballons, raquettes et
-      jeux collectifs pendant une demi-journée. L'autre demi-journée est consacrée
-      à des activités musicales tant sur l'écoute de sons que la manipulation d'instruments.
-    infos: []
 - name: Découverte Sportive & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/psychonatation.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 5-7 ans
-    description: 'Ce stage propose une initiation aux sports ballons, raquettes et
-      jeux collectifs. De plus, les enfants iront quotidiennement à la piscine dans
-      le but d''apprendre les 4 nages et de les rendre autonomes dans l''eau. En piscine
-      : 2 moniteurs pour 8 enfants.'
+    age: 4-6 ans
+    description: "<p>Tu veux devenir un bon sportif et apprendre à nager comme un
+      vrai petit poisson?</p><p>Ce stage est TOP pour toi!</p><p>La journée se déroule
+      ainsi: apprentissage quotidien des 4 nages, dans le but d'être autonome dans
+      l'eau et initiation aux sports ballons, raquettes et jeux collectifs.</p>"
     infos:
     - alias: Prendre tenue de bain
       info_line: Dès le premier jour, prévoir maillot, bonnet et essuie de bain.
+    - alias: Moniteurs
+      info_line: 'En piscine : 2 moniteurs pour 8 enfants.'
 - name: Découverte Sportive & Poney
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyponey.png"
   inscription: ''
