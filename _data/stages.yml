@@ -640,18 +640,20 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 5-7 ans
-    description: Ce stage propose un premier contact avec le sport et les jeux collectifs,
-      par lesquels votre enfant développe les différentes facettes de la motricité,
-      le respect des règles et la vie en groupe. Ce stage propose une initiation aux
-      sports ballons, raquettes, jeux collectifs et aux New Games (Uni Hoc, Base-Ball,
-      Kinball et Badminton).
+    description: <p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
+      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine,
+      des jeux collectifs, par lequel votre enfant développera les différentes facettes
+      de la motricité, le respect des règles et la vie en groupe.</p><p>Des activités
+      multisports qui ravira votre enfant !</p><p><strong><em>Garderie:</em></strong><em>
+      Inscription au préalable obligatoire dans les </em><strong><em>"Options" </em></strong><em>lors
+      de l'inscription.</em></p>
     infos:
     - alias: Rixensart
       info_line: À Rixensart, ces activités sportives sont combinées avec des activités
