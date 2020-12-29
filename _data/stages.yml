@@ -1,5 +1,22 @@
 ---
 stages:
+- name: Baby Escalade
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Baby Escalade
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: "<p>Ce stage propose une séance d'escalade par jour.</p><p>Par cette
+      initiation, l'enfant travaille des facettes spécifiques de la motricité telles
+      que l'ascension et l'équilibre.</p><p>Il développe des facteurs essentiels comme
+      l'audace, la maîtrise de soi et la gestion du vertige.</p><p>Le stage est complété
+      par des activités de multisports.</p>"
+    infos: []
 - name: Baby Danse & Bijoux
   categorie: Découvertes sportives et culturelles
   img: ''
