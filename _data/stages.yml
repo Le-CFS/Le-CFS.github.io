@@ -770,8 +770,8 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Tu souhaites devenir un pilote de drône ? Ce stage est fait pour
-      toi.<br>Nous t'avons concocté un programme varié, fun et ludique .</p><p>Une
+    description: "<p>Tu souhaites devenir un pilote de drone? Ce stage est fait pour
+      toi! </p><p>Nous t'avons concocté un programme varié, fun et ludique.</p><p>Une
       partie de la journée sera consacrée à la <strong>découverte et à la manipulation
       de drones,</strong> aussi bien <strong>aquatiques</strong> qu'<strong>aériens.</strong></p><p>L'autre
       partie de la journée sera consacrée au <strong>Laser Game.</strong></p>"
@@ -2162,7 +2162,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/detective.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
