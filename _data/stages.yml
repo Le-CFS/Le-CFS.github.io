@@ -415,20 +415,6 @@ stages:
       confection de bijoux,...) et de multisports.</p><p>Un petit spectacle est prévu
       à la fin de la semaine pour les parents!</p>"
     infos: []
-- name: Baby Danse & Gym
-  img: "/assets/images/stages/decouvertesportiveetculturelle/babydansetgym.png"
-  inscription: ''
-  categorie: Découvertes sportives et culturelles
-  online: false
-  nouveau: false
-  stage_une: false
-  location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 4-6 ans
-    description: Les enfants s'initient au rythme et à la danse au travers de petites
-      chorégraphies adaptées. Un spectacle est prévu en fin de stage.
-    infos: []
 - name: Baby Foot
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyfoot.png"
   inscription: ''
@@ -439,10 +425,12 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 5-6 ans
-    description: Premier contact avec le ballon rond par des apprentissages techniques
-      et des jeux. Le stage est complété par de la psychomotricité (jeux de coopérations,
-      parcours d'adresse, d'audace).
+    age: 4-6 ans
+    description: "<p>Votre enfant souhaite découvrir le football ? Ce stage est fait
+      pour lui!</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
+      avec le ballon par des apprentissages techniques et des jeux. Le stage est complété
+      par de la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace
+      et multisports).</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
