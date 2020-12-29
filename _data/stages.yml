@@ -482,9 +482,11 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: Premier contact avec le sport et les jeux collectifs, par lequels
-      votre enfant développera les différentes facettes de la motricité, le respect
-      des règles et l'esprit d'équipe.
+    description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
+      découvrir de nouvelles activités ? </p><p>Voici un stage qui ravira votre enfant!
+      Premier contact avec le sport et les jeux collectifs, par lequel votre enfant
+      développera les différentes facettes de la motricité, le respect des règles
+      et la vie en groupe.</p><p><br></p>"
     infos: []
 - name: Baby Multisports & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultietnat.png"
