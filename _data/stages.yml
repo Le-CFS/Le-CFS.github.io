@@ -2084,12 +2084,11 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 7-12 ans
-    description: "<p>Nos bricoleurs en herbe découvrent le monde du rafistolage en
-      tout genre en adoptant les bonnes techniques. Une mise en situation et les premières
-      manipulations des outils se feront en toute sécurité le matin tandis que l'après-midi
-      sera consacrée à la découverte de différents sports. Les apprentis bricoleurs
-      repartent avec un jeu en bois confectionné de leurs propres mains.</p>"
+    age: 8-12 ans
+    description: "<p>Tu aimes utiliser la visseuse ou la foreuse de papa? Ce stage
+      est fait pour toi!</p><p>Durant la journée, tu manipuleras différents outils
+      pour construire un jeu en bois, que tu ramèneras chez toi.</p><p>La journée
+      est complétée par des activités de multi-sports (ballons, raquettes,...).</p>"
     infos: []
 - name: Cirque
   img: "/assets/images/stages/activitesartistiquesetloisirs/cirque.png"
