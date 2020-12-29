@@ -1,5 +1,18 @@
 ---
 stages:
+- name: Bio Mômes
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Bio Mômes
+    ville: Brabant Wallon
+    age: 6-8 ans
+    description: ''
+    infos: []
 - name: Baby Multisports & Poney
   categorie: Découvertes sportives et culturelles
   img: ''
