@@ -1,5 +1,21 @@
 ---
 stages:
+- name: Baby Multisports & Poney
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Baby Multisports & Poney
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Pony Plesure</em></strong></p><p>Les
+      enfants pratiquent une activité sportive 1/2 journée et s'adonnent à une initiation
+      à l'équitation sur poneys, aux soin des animaux et à des la balades l'autre
+      demi-journée.</p>"
+    infos: []
 - name: Baby Escalade
   categorie: Découvertes sportives et culturelles
   img: ''
