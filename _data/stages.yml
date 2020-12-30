@@ -1149,14 +1149,27 @@ stages:
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
     - alias: Déguisement
       info_line: 'Venir avec un déguisement (dans un sac). '
-- name: Quad & Vtt
+- name: Quad & Vélo
   img: "/assets/images/stages/decouvertesportiveetculturelle/quadetvtt.png"
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: false
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-8 ans
+    description: "<p>Ce stage permettra aux enfants de découvrir les sensations que
+      procure un quad. La matinée, ils découvrent les joies des quads électriques
+      de notre circuit gonflable. Ils ont également l'occasion de se perfectionner
+      en vélo l'après-midi en dévalant les descentes et en découvrant les sauts. Tout
+      cela, en maîtrisant une bonne trajectoire. Sensation de vitesse garantie tout
+      au long de la semaine.</p>"
+    infos:
+    - alias: Equipement
+      info_line: 'Attention : VTT, gilet fluo, un cadenas, un casque ainsi qu''une
+        chambre à air de rechange dès le premier jour de stage !'
 - name: Krav Maga découverte
   img: "/assets/images/stages/decouvertesportiveetculturelle/kravmagadecouverte.png"
   inscription: ''
