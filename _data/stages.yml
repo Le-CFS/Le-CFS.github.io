@@ -784,12 +784,12 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p>Envie de t'occuper de ton poney? Rejoins-nous!</p><p>Ta journée
-      sera riche en émotions: initiation à l'équitation (monter, s'occuper du poney,
-      le nourrir,...) et découvertes sportives (ballons, raquettes,...).</p>"
-    infos:
-    - alias: Partenariat
-      info_line: En collaboration avec le Manège Horse's Corner.
+    description: "<p><em>Stage en partenariat avec le </em><strong><em>Manège Horse's
+      Corner</em></strong><em> de Bierges</em></p><p>Envie de t'occuper de ton poney
+      ? Rejoins-nous !</p><p>Ta journée sera riche en émotions: initiation à l'équitation
+      (monter, s'occuper du poney, le nourrir,...) et découvertes sportives (ballons,
+      raquettes,...).</p>"
+    infos: []
 - name: Drones & Laser
   categorie: Activités artistiques et loisirs
   img: "/assets/images/droenetlaser_catalogue.jpg"
