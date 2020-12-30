@@ -1,5 +1,21 @@
 ---
 stages:
+- name: Equitation Débutant
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 7-9 ans
+    description: "<p>Ce stage est une pleine participation à la vie du manège : soins
+      aux poneys et bien sûr, initiation à l'équitation.</p>"
+    infos:
+    - alias: Partenariat
+      info_line: Stage en partenariat avec Le Manège La Motte.
 - name: Bio Mômes
   categorie: Découvertes sportives et culturelles
   img: ''
