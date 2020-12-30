@@ -2290,19 +2290,19 @@ stages:
         seront navettés soit vers Ottignies, soit vers Wavre.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 7-14 ans
+    age: 8-12 ans
     description: "<p>Ce stage de tennis associe l'apprentissage du geste technique
-      au plaisir du jeu dans une ambiance familiale. Tout au long de la semaine, les
-      enfants apprennent les bases du tennis (prises, placement, jeux de jambes, …)
+      au plaisir du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine,
+      les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,…)
       afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire ou
-      en adversaire. Des groupes seront formés en fonction des âges et des niveaux
-      : balles molles, mids ou dures (max. 8 enfants/groupe). Un tournoi amical sera
-      organisé en fin de semaine. La journée est divisée en 3 périodes de tennis et
-      1 période de multisports. Si vous ne possédez pas de raquette, le CFS en met
-      à votre disposition.</p>"
+      en adversaire.</p><p>Des groupes seront formés en fonction des âges et des niveaux
+      : balles molles, mids ou dures (max. 8 enfants/groupe).</p><p>Un tournoi amical
+      sera organisé en fin de semaine.</p><p>La journée est divisée en 3 périodes
+      de tennis et 1 période de multisports.</p>"
     infos:
     - alias: Matériel
-      info_line: Vous pouvez bien sûr apporter votre propre matériel.
+      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
+        Vous pouvez bien sûr apporter votre propre matériel.
 - name: Tennis Pro
   img: "/assets/images/stages/activitessportives/tennispro.png"
   inscription: ''
