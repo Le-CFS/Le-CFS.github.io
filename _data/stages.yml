@@ -2321,13 +2321,12 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-12 ans
-    description: "<p>Ce stage permet une initiation au volley, apprentissage des règles
-      et des techniques de jeux.</p>"
+    description: "<p><em>Stage en collaboration avec le </em><strong><em>Volley Club</em></strong><em>
+      de Walhain</em></p><p>Ce stage permet une initiation au volley, apprentissage
+      des règles et des techniques de jeux.</p>"
     infos:
-    - alias: Partenariat
-      info_line: Stage organisé en partenariat avec le Volley Club de Walhain.
     - alias: Garderie
-      info_line: Garderie à partir de 8h00 le matin.
+      info_line: 'Pour les activités à  Walhain : garderie à partir de 8h00 le matin'
 - name: Football Camp
   img: "/assets/images/stages/activitessportives/footcamp.jpg"
   inscription: ''
@@ -2804,7 +2803,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/videoreportage.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
