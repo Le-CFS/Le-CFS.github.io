@@ -1,5 +1,19 @@
 ---
 stages:
+- name: Football Féminin
+  categorie: Les petits bouts
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Football Féminin
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: "<p>Ce stage prévoit une alternance d'entraînements (technique ballon
+      et technique de jeu) et de petits matchs.</p>"
+    infos: []
 - name: Far-west
   categorie: Découvertes sportives et culturelles
   img: ''
@@ -1528,11 +1542,11 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p>Tu veux découvrir les jeux aquatiques et des activités fun?</p><p>Ce
+    description: "<p>Tu veux découvrir les jeux aquatiques et des activités fun ?</p><p>Ce
       stage est fait pour toi !</p><p>Chaque jour, pendant 2 heures, tu pourrais découvrir,
-      par exemples, le waterpolo, les techniques de sauvetage, …</p><p>Le reste de
+      par exemples, le waterpolo, les techniques de sauvetage,…</p><p>Le reste de
       la journée est consacré à des activités de multisports (par exemples, tennis,
-      parkour, gymnastique, jeux de ballons, jeux musicaux…)</p>"
+      parkour, gymnastique, jeux de ballons, jeux musicaux,…).</p>"
     infos:
     - alias: Les jeunes doivent nager le 50m.
       info_line: Les jeunes doivent nager le 50m.
@@ -1658,19 +1672,19 @@ stages:
     ville: Brabant Wallon
     age: 6-14 ans
     description: "<p>Ce stage prévoit une alternance entre entraînements et petits
-      matchs. Les mordus du ballon rond s'exercent aux techniques de ballon et de
-      jeu. Chaque entraînement est abordé de manière ludique afin d'allier football
-      et plaisir. La journée est répartie en 3 périodes de football et une période
-      de multisports.</p>"
+      matchs.</p><p>Les mordus du ballon rond s'exercent aux techniques de ballon
+      et de jeu.</p><p>Chaque entraînement est abordé de manière ludique afin d'allier
+      football et plaisir.</p><p>La journée est répartie en 3 périodes de football
+      et une période de multisports.</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-14 ans
     description: "<p>Ce stage prévoit une alternance entre entraînements et petits
-      matchs. Les mordus du ballon rond s'exercent aux techniques de ballon et de
-      jeu. Chaque entraînement est abordé de manière ludique afin d'allier football
-      et plaisir. La journée est répartie en 3 périodes de football et une période
-      de multisports.</p>"
+      matchs.</p><p>Les mordus du ballon rond s'exercent aux techniques de ballon
+      et de jeu.</p><p>Chaque entraînement est abordé de manière ludique afin d'allier
+      football et plaisir.</p><p>La journée est répartie en 3 périodes de football
+      et une période de multisports.</p>"
     infos:
     - alias: Partenariat
       info_line: Stage en partenariat avec le CB Futsal Jette BXL Cap.
