@@ -2231,7 +2231,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 7-14 ans
+    age: 6-12 ans
     description: "<p>Durant ce stage, l'accent sera mis sur la maîtrise de soi, le
       respect de l'autre et l'art de se défendre en toute simplicité.</p>"
     infos: []
