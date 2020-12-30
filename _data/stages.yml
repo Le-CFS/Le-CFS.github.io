@@ -1,5 +1,20 @@
 ---
 stages:
+- name: Stylisme
+  categorie: Activités artistiques et loisirs
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Stylisme
+    ville: Brabant Wallon
+    age: 10-16 ans
+    description: "<p>Ce stage est destiné aux fashionistas qui désirent créer leurs
+      propres vêtements et les customiser à la mode de leur choix. Un défilé sera
+      organisé en fin de semaine pour montrer les créations.</p>"
+    infos: []
 - name: Secourisme
   categorie: Activités artistiques et loisirs
   img: ''
@@ -2229,7 +2244,7 @@ stages:
   img: "/assets/images/stages/activitessportives/sportnature.png"
   inscription: ''
   categorie: Activités sportives
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
