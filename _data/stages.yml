@@ -951,11 +951,10 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-16 ans
-    description: "<p>5 types de chorégraphies sont proposées par stage : Funck-Jazz,
-      Hip-Hop, Break-Dance, Ragga et New-Style. Un spectacle est prévu en fin de stage.</p>"
-    infos:
-    - alias: Partenariat
-      info_line: Stage en partenariat avec l'association 4UDance
+    description: "<p><em>Stage en partenariat avec l'association </em><strong><em>4UDance</em></strong></p><p>5
+      types de chorégraphies sont proposées par stage : Funck-Jazz, Hip-Hop, Break-Dance,
+      Ragga et New-Style. Un spectacle est prévu en fin de stage.</p>"
+    infos: []
 - name: Danse
   img: "/assets/images/stages/danseetgymnastique/danse.png"
   inscription: ''
@@ -2136,8 +2135,8 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p>Tu aimes utiliser la visseuse ou la foreuse de papa? Ce stage
-      est fait pour toi!</p><p>Durant la journée, tu manipuleras différents outils
+    description: "<p>Tu aimes utiliser la visseuse ou la foreuse de papa ? Ce stage
+      est fait pour toi !</p><p>Durant la journée, tu manipuleras différents outils
       pour construire un jeu en bois, que tu ramèneras chez toi.</p><p>La journée
       est complétée par des activités de multi-sports (ballons, raquettes,...).</p>"
     infos: []
@@ -2168,12 +2167,12 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-16 ans
-    description: "<p>Tu veux évoluer au sein d'une troupe de comédie musicale? Alors
-      viens !</p><p>Dansons, chantons, jouons au théâtre tous ensemble!</p><p>Mais,
+    description: "<p>Tu veux évoluer au sein d'une troupe de comédie musicale ? Alors
+      viens !</p><p>Dansons, chantons, jouons au théâtre tous ensemble !</p><p>Mais,
       très important, la journée commence par un échauffement, des vocalises,...</p>"
     infos:
     - alias: Spectacle
-      info_line: Spectacle en fin de semaine!  
+      info_line: Spectacle en fin de semaine !  
 - name: Compo Musicale
   img: "/assets/images/stages/activitesartistiquesetloisirs/compomusicale.png"
   inscription: ''
@@ -2582,7 +2581,7 @@ stages:
     description: "<p>Afin de laisser place au suspens et de permettre à chaque moniteur
       de créer un stage original et varié, le programme sera adapté en fonction de
       son organisation et de l'âge moyen du groupe.</p><p>Parmi les différentes activités
-      possibles: Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, Profondville
+      possibles : Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, Profondville
       (boués tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois des
       rêves, Visite de musées/Culturels, Patinoire à Leuven et découverte de la ville,
       journée à la mer... et éventuellement d'autres activités en fonction des initiatives
