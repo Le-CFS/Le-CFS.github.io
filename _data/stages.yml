@@ -2455,8 +2455,9 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    description: "<p>Ce stage propose de créer des objets pour décorer toute la maison,
-      de s’initier au scrapbooking et d’explorer d’autres facettes des arts plastiques.</p>"
+    description: "<p>Tu as l'âme d'un décorateur d'intérieur ? Tu aimes confectionner
+      ta déco toi-même ?</p><p>Ce stage te propose de créer des objets pour décorer
+      toute la maison et d’explorer d’autres facettes des arts plastiques.</p>"
     infos: []
     age: 8-14 ans
 - name: Magie et Cirque
