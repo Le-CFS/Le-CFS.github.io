@@ -1132,6 +1132,17 @@ stages:
   nouveau: false
   stage_une: false
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 12-16 ans
+    description: "<p>Envie d'une semaine hyper fun? Viens à ce stage phare du CFS!
+      Un super programme! Une activité différente chaque jour!</p><p><strong>PROGRAMME
+      CARNAVAL</strong>: <em>new games, Aqualibi, ski, Koezio &amp; Space Fun Game</em></p><p><strong>PROGRAMME
+      PAQUES</strong>: <em>new games, Walibi, Aqualibi, mer &amp; Koezio</em></p><p><strong>PROGRAMME
+      ETE</strong>:<em> new games, Walibi, mer, barrage de l'Eau d'Heure &amp; Profondville</em></p>"
+    infos:
+    - alias: Navettes
+      info_line: Les navettes sont assurées par le CFS
   - alias: Bruxelles
     ville: Bruxelles
     age: 12-16 ans
