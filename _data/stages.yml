@@ -1594,10 +1594,12 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 7-16 ans
-    description: "<p>Ce stage est une pleine participation à la vie du manège: soins
-      et pansage des poneys, balades et jeux à poney, voltige pour améliorer la motricité
-      de l'enfant, initiation aux bases de l'équitation adaptée à l'âge de l'enfant
-      et apprentissage de la théorie équestre de manière ludique.</p>"
+    description: "<p><em>Stage en partenariat avec le </em><strong><em>Manège Horse's
+      Corner</em></strong><em> de Bierges</em></p><p>Ce stage est une pleine participation
+      à la vie du manège: soins et pansage des poneys, balades et jeux à poney, voltige
+      pour améliorer la motricité de l'enfant, initiation aux bases de l'équitation
+      adaptée à l'âge de l'enfant et apprentissage de la théorie équestre de manière
+      ludique.</p>"
     infos:
     - alias: Garderie
       info_line: 'Garderie: Inscription sur place !'
@@ -1607,8 +1609,6 @@ stages:
     - alias: Tenue
       info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
         large) et des bottes.
-    - alias: Partenariat
-      info_line: Stage en partenariat avec le Manège Horse's Corner de Bierges.
   - alias: Bruxelles
     ville: Bruxelles
     age: 10-16 ans
@@ -1618,9 +1618,6 @@ stages:
     infos:
     - alias: Partenariat
       info_line: Stage en partenariat avec Le Manège de La Motte.
-    - alias: Bombe et gants
-      info_line: Les enfants doivent se munir d’une bombe (ou à défaut un casque de
-        vélo) ainsi que des gants pour participer aux activités.
 - name: Escalade
   img: "/assets/images/stages/activitessportives/escalade.png"
   inscription: ''
@@ -2260,7 +2257,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/foodandpleasure.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
