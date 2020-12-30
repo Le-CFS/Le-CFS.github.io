@@ -2377,12 +2377,12 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-12 ans
+    age: 8-14 ans
     description: "<p>Stage d'apprentissage du néerlandais au travers d'activités pédagogiques
-      diverses et ludiques: cours théoriques, jeux, sports, visites culturelles. Les
-      activités proposées se déroulent en néerlandais. Les formateurs sont soucieux
-      d'un apprentissage amusant et performant, respectueux des capacités de chaque
-      enfant.</p>"
+      diverses et ludiques : cours théoriques, jeux, sports, visites culturelles.
+      L'ensemble des activités proposées se déroule en néerlandais. Les formateurs
+      sont soucieux d'un apprentissage amusant et performant, respectueux des capacités
+      de chaque enfant.</p>"
     infos: []
 - name: Ma déco
   img: "/assets/images/stages/activitesartistiquesetloisirs/madeco.png"
