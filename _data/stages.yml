@@ -1,5 +1,24 @@
 ---
 stages:
+- name: Vélo-Mômes
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 5-8 ans
+    description: "<p>Ce stage s'adresse aux enfants qui souhaitent apprendre à rouler
+      à deux roues.</p><p>La journée est scindée en 2 :</p><ul><li><p>Une partie de
+      la journée est consacrée à l'apprentissage du vélo. Apprendre à rouler sur deux
+      roues, réaliser des petits parcours d'adresse (slalom,...).</p></li><li><p>Le
+      reste de la journée est consacrée à des activités de multisports.</p></li></ul>"
+    infos:
+    - alias: Equipement
+      info_line: L'enfant doit venir avec son vélo et son casque.
 - name: Techniques Artistiques
   categorie: Activités artistiques et loisirs
   img: ''
@@ -2959,7 +2978,7 @@ stages:
 - name: Vélo-Evolution
   img: "/assets/images/stages/decouvertesportiveetculturelle/veloevolution.png"
   inscription: ''
-  categorie: Découvertes sportives et culturelles
+  categorie: Activités sportives
   online: false
   nouveau: false
   stage_une: false
