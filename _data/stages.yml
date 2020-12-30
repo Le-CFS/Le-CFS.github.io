@@ -1945,9 +1945,12 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 5-7 ans
-    description: "<p>Une période par jour de natation. Le reste de la journée est
-      consacré à des activités multisports.</p>"
+    age: 6-8 ans
+    description: "<p>Tu veux devenir un bon sportif et apprendre à nager comme un
+      vrai petit poisson ?</p><p>Ce stage est TOP pour toi !</p><p>La journée se déroule
+      ainsi : apprentissage quotidien des 4 nages, dans le but d'être autonome dans
+      l'eau. Le stage est complété par une initiation aux sports ballons, raquettes
+      et jeux collectifs.</p><p>En piscine : 2 moniteurs pour 8 enfants.</p>"
     infos:
     - alias: Tenue de bain
       info_line: Dès le premier jour, prévoir un bonnet, maillot et essuie de bain.
