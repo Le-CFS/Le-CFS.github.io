@@ -1655,7 +1655,7 @@ stages:
   img: "/assets/images/stages/activitesfun/skatepro.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -2235,17 +2235,18 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 7-12 ans
-    description: "<p>Les enfants partiront, chaque jour, en vélo à la découverte des
-      alentours de leur centre afin d'être sensibilisés à l'écologie et à la biodiversité.
-      Durant cette balade, ils observeront les insectes et les plantes et pourront
-      également construire des cabanes. Une journée d'initiation à la pêche sera proposée
-      à votre enfant. L'après-midi est consacrée à la découverte de sports collectifs.
-      Une bonne semaine de bouffées d'air frais!</p>"
+    age: 8-12 ans
+    description: "<p>Les enfants partiront chaque jour en vélo à la découverte des
+      alentours de leur centre afin d'être sensibilisé à <strong>l'écologie </strong>et
+      à la <strong>biodiversité</strong>. Durant cette balade, ils observeront les
+      insectes et les plantes et pourront également construire des cabanes. Une journée
+      initiation à la <strong>pêche </strong>sera proposée à votre enfant. L'après-midi
+      est consacrée à la<strong> découverte de sports collectifs</strong>. </p><p>Une
+      bonne semaine de bouffées d'air frais !</p>"
     infos:
     - alias: Matériel
-      info_line: Prévoir un vélo, un gilet fluo, un cadenas, un casque ainsi qu'une
-        chambre à air de rechange dès le premier jour du stage.
+      info_line: 'Attention : il faut un vélo, un gilet fluo, un cadenas, un casque
+        ainsi qu''une chambre à air de rechange dès le premier jour du stage !'
 - name: Tennis
   img: "/assets/images/stages/activitessportives/tennis.png"
   inscription: ''
