@@ -722,18 +722,18 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: "<p>Tu es un vrai petit clown? Ce stage t'es destiné!</p><p>Tu découvriras
-      les arts du cirque au travers de différents jeux : jonglage, équilibre, pyramide
-      humaine,...</p><p>Et, bien entendu, tout cela dans la joie et la bonne humeur.</p><p>Spectacle
-      en fin de semaine.</p>"
+    description: "<p>Tu es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu
+      découvriras les arts du cirque au travers de différents jeux : jonglage, équilibre,
+      pyramide humaine,...</p><p>Et, bien entendu, tout cela dans la joie et la bonne
+      humeur.</p><p>Spectacle en fin de semaine.</p>"
     infos: []
   - alias: Liège
     ville: Liège
     age: 9-14 ans
-    description: Découverte des différentes techniques du Cirque telles que la jonglerie
-      (foulards, diabolos, assiettes chinoises, balles, quilles...); l’équilibre (monocycles,
-      échasses, rola-bola...); l’acrobatie.Les 3 heures de Cirque sont complétées
-      par 3 heures de multisports.
+    description: "<p>Découverte des différentes techniques du Cirque telles que la
+      jonglerie (foulards, diabolos, assiettes chinoises, balles, quilles...) ; l’équilibre
+      (monocycles, échasses, rola-bola...) ; l’acrobatie. Les 3 heures de Cirque sont
+      complétées par 3 heures de multisports.</p>"
     infos: []
 - name: Découverte Sportive
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
@@ -746,14 +746,15 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 5-7 ans
-    description: <p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
-      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine,
+    description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
+      découvrir de nouvelles activités ?</p><p>Nous proposons durant cette semaine,
       des jeux collectifs, par lequel votre enfant développera les différentes facettes
       de la motricité, le respect des règles et la vie en groupe.</p><p>Des activités
-      multisports qui ravira votre enfant !</p><p><strong><em>Garderie:</em></strong><em>
-      Inscription au préalable obligatoire dans les </em><strong><em>"Options" </em></strong><em>lors
-      de l'inscription.</em></p>
+      multisports qui ravira votre enfant !</p>"
     infos:
+    - alias: Garderie
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription.'
     - alias: Rixensart
       info_line: À Rixensart, ces activités sportives sont combinées avec des activités
         en piscine.
@@ -769,8 +770,8 @@ stages:
     ville: Brabant Wallon
     age: 4-6 ans
     description: "<p>Tu veux devenir un bon sportif et apprendre à nager comme un
-      vrai petit poisson?</p><p>Ce stage est TOP pour toi!</p><p>La journée se déroule
-      ainsi: apprentissage quotidien des 4 nages, dans le but d'être autonome dans
+      vrai petit poisson ?</p><p>Ce stage est TOP pour toi !</p><p>La journée se déroule
+      ainsi : apprentissage quotidien des 4 nages, dans le but d'être autonome dans
       l'eau et initiation aux sports ballons, raquettes et jeux collectifs.</p>"
     infos:
     - alias: Prendre tenue de bain
