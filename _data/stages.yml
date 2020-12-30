@@ -1728,7 +1728,7 @@ stages:
   img: "/assets/images/stages/activitesfun/xtremsensation.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -2464,7 +2464,7 @@ stages:
       très important, la journée commence par un échauffement, des vocalises,...</p><p>Spectacle
       en fin de semaine !</p>"
     infos: []
-- name: Compo Musicale
+- name: Compo Musicale & Sport
   img: "/assets/images/stages/activitesartistiquesetloisirs/compomusicale.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
@@ -2474,18 +2474,18 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-14 ans
-    description: "<p>Encadré par un jeune compositeur, les enfants apprennent à travailler
+    age: 8-12 ans
+    description: <p>Encadré par un jeune compositeur, les enfants apprennent à travailler
       sur Fruity Loops Studio (deux par ordinateur). Ils enregistrent leur voix et
       leur composition musicale (sur base de partition) à l'aide d'un synthétiseur
       ou d'un instrument rapporté de la maison. Tout le matériel se trouve sur place
-      afin de leur permettre de s'enregistrer et de « trafiquer » les sons en rajoutant
+      afin de leur permettre de s'enregistrer et de "trafiquer" les sons en rajoutant
       des basses ou d'autres mélodies. Pour ce stage, il n'y a pas de prérequis musical
       mais il faut simplement une envie de découvrir le monde de la composition. En
       fin de semaine, les parents seront invités, autour d'un verre, à écouter ou
       à voir le travail des enfants tout au long de la création de leur musique. Les
       enfants repartent avec leur composition sur format USB. Les moments de composition
-      et périodes de sports alterneront durant la journée.</p>"
+      et périodes de sports s'alterneront durant la journée.</p>
     infos: []
 - name: Débrouillard
   img: "/assets/images/stages/activitesartistiquesetloisirs/debrouillard.png"
