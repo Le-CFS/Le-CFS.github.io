@@ -1,5 +1,25 @@
 ---
 stages:
+- name: Quad & Laser
+  categorie: Activités fun
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-16 ans
+    description: "<p>Un bel équilibre entre le quad et le Laser Game.</p><p>Les jeunes
+      apprendront les règles et techniques de base du Laser Game (3x/semaine).</p>"
+    infos: []
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Un bel équilibre entre le quad et le Laser Game.</p><p>Les jeunes
+      apprendront les règles et techniques de base du Laser Game (3x/semaine).</p>"
+    infos: []
 - name: Plongée - Journée complète
   categorie: Activités sportives
   img: ''
