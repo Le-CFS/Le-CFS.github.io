@@ -2956,14 +2956,25 @@ stages:
       <strong>sports nouveaux</strong> sont destinés aux garçons comme aux filles.</p><p>La
       moitié du temps est consacrée à la pratique du multisports.</p>"
     infos: []
-- name: Vélo-évolution
+- name: Vélo-Evolution
   img: "/assets/images/stages/decouvertesportiveetculturelle/veloevolution.png"
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Découvertes sportives et culturelles
   online: false
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 6-8 ans
+    description: "<p>Ce stage est réservé aux enfants sachant déjà rouler à deux roues.</p><p>Une
+      partie de la journée est consacrée au perfectionnement du maniement du vélo
+      sous forme de petits parcours d'obstacles, initiation au code de la route,...</p><p>Le
+      reste de la journée est consacré à des activités de multisports.</p>"
+    infos:
+    - alias: Equipement
+      info_line: L'enfant doit apporter son vélo, son casque, un cadenas (nous déclinons
+        toute responsabilité en cas de vol) ainsi qu'une chambre à air de réserve.
 - name: Remédiation & Sport
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
   inscription: ''
