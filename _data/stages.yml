@@ -1,5 +1,20 @@
 ---
 stages:
+- name: Hip Hop
+  categorie: Danse et Gymnastique
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Hip Hop
+    ville: Brabant Wallon
+    age: 9-16 ans
+    description: "<p>Envie de bouger ?</p><p>Venez vous initier ou vous perfectionner
+      aux danses de rue !</p><p>Il faudra beaucoup d'énergie pour effectuer des phases
+      chorégraphiques debout mais aussi des figures acrobatiques au sol.</p>"
+    infos: []
 - name: Fun Laser & VTT
   categorie: Les petits bouts
   img: ''
