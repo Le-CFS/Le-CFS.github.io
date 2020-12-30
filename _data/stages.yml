@@ -1066,21 +1066,26 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-12 ans
-    description: Durant ce stage , les enfants vont découvrir les plaisirs de la gymnastique
-      par un travail aux agrès dans le but de développer les qualités de base de cette
-      discipline (force, souplesse, équilibre et audace) à raison de 2 séances par
-      jour. Les 2 autres séances de la journée leur permettront de découvrir d'autres
-      disciplines sportives.
-    infos: []
+    age: 6-14 ans
+    description: "<p>Votre enfant souhaite s'initier à la gymnastique ?</p><p>Durant
+      ce stage, les enfants vont découvrir les plaisirs de la gymnastique par un travail
+      aux agrès.</p><p>Ils développeront les qualités de base de cette discipline
+      (force, souplesse, équilibre et audace).</p><p>Les enfants suivront 2 séances/jour
+      de gymnastique.</p><p>Le reste de la journée, des activités de multisports (ballons,
+      raquette...) sont proposées.</p>"
+    infos:
+    - alias: Garderie
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription. '
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-12 ans
-    description: Durant ce stage , les enfants vont découvrir les plaisirs de la gymnastique
-      par un travail aux agrès dans le but de développer les qualités de base de cette
-      discipline (force, souplesse, équilibre et audace) à raison de 2 séances par
-      jour. Les 2 autres séances de la journée leur permettront de découvrir d'autres
-      disciplines sportives.
+    age: 6-14 ans
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Royal Tempo Gym</em></strong></p><p>Durant
+      ce stage, les enfants vont découvrir les plaisirs de la gymnastique par un travail
+      aux agrès dans le but de développer les qualités de base de cette discipline
+      (force, souplesse, équilibre et audace) à raison de 2 séances par jour. Les
+      2 autres séances de la journée leur permettront de découvrir d'autres disciplines
+      sportives.</p>"
     infos: []
 - name: Gym Pro
   img: "/assets/images/stages/danseetgymnastique/gympro.png"
