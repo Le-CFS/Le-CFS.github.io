@@ -439,9 +439,9 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 3-4 ans
-    description: "<p>Votre enfant veut devenir un champion, comme Eddy Merckx? Eh
-      bien voilà! Ce stage est un bon début!</p><p>Il prévoit une initiation au vélo
-      via des exercices d'équilibre et de prise de confiance. Les règles de sécurité
+    description: "<p>Votre enfant veut devenir un champion, comme Eddy Merckx ? Eh
+      bien voilà ! Ce stage est un bon début !</p><p>Il prévoit une initiation au
+      vélo via des exercices d'équilibre et de prise de confiance. Les règles de sécurité
       sont abordées.</p><p>Les stages pour les plus petits tendent au développement
       harmonieux des enfants au travers d’activités adaptées à leur âge. L’enfant
       développe de nouvelles aptitudes tout en jouant : il apprend les règles du jeu
@@ -451,15 +451,17 @@ stages:
       enfants pour la Pré-Psychomotricité).<br><br>Pour chaque stage, il y a une base
       commune de psychomotricité (jeux de coopération, parcours d’adresse, d’audace,
       exercices de latéralité) et bien sûr un apprentissage spécifique en fonction
-      du thème proposé.<br>Pour les stages commençant à 3 ans (PSYCHO) : les enfants
-      doivent être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.</p>"
+      du thème proposé.</p>"
     infos:
+    - alias: Enfants propres
+      info_line: 'Pour les stages commençant à 3 ans (PSYCHO) : les enfants doivent
+        être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.'
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
     - alias: " Draisiennes sur place"
-      info_line: Le CFS met à disposition des draisiennes
+      info_line: Le CFS met à disposition des draisiennes.
     - alias: Vélo personnel
-      info_line: L'enfant peut apporter son propre vélo
+      info_line: L'enfant peut apporter son propre vélo.
 - name: Apprenti Vélo
   img: "/assets/images/stages/decouvertesportiveetculturelle/psychovelo.png"
   inscription: ''
@@ -490,9 +492,9 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-8 ans
-    description: "<p>Votre enfant veut être un vrai petit débrouillard?</p><p>Ce stage
-      est fait pour lui!</p><p>Au programme, réparation de son vélo, apprentissage
-      des techniques de noeuds, escalade, self défense, lire une carte,...<br><strong><em>Dernier
+    description: "<p>Votre enfant veut être un vrai petit débrouillard ?</p><p>Ce
+      stage est fait pour lui !</p><p>Au programme, réparation de son vélo, apprentissage
+      des techniques de nœuds, escalade, self défense, lire une carte,...</p><p><strong><em>Dernier
       jour : Construction d’un bivouac en toute autonomie</em></strong></p>"
     infos: []
 - name: Baby Danse
@@ -511,7 +513,7 @@ stages:
       adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du
       mouvement.</p><p>Le stage est complété par des activités artistiques (bricolage,
       confection de bijoux,...) et de multisports.</p><p>Un petit spectacle est prévu
-      à la fin de la semaine pour les parents!</p>"
+      à la fin de la semaine pour les parents !</p>"
     infos: []
 - name: Baby Foot
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyfoot.png"
@@ -525,7 +527,7 @@ stages:
     ville: Brabant Wallon
     age: 4-6 ans
     description: "<p>Votre enfant souhaite découvrir le football ? Ce stage est fait
-      pour lui!</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
+      pour lui !</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
       avec le ballon par des apprentissages techniques et des jeux. Le stage est complété
       par de la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace
       et multisports).</p>"
@@ -534,7 +536,7 @@ stages:
     ville: Bruxelles
     age: 4-6 ans
     description: "<p>Votre enfant souhaite découvrir le football ? Ce stage est fait
-      pour lui!</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
+      pour lui !</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
       avec le ballon par des apprentissages techniques et des jeux. Le stage est complété
       par de la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace
       et multisports).</p>"
@@ -551,23 +553,23 @@ stages:
     ville: Brabant Wallon
     age: 4-6 ans
     description: "<p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir
-      la gymnastique ? Ce stage est fait pour lui ! </p><p>Découverte et initiation
+      la gymnastique ? Ce stage est fait pour lui !</p><p>Découverte et initiation
       à la gymnastique pour les plus jeunes par des parcours d'équilibre, d'audace
       et premières notions de gymnastique sportive.</p><p>La baby gym va permettre
       à l’enfant d’améliorer son développement psychomoteur. Ce stage est idéal pour
       développer l'agilité de votre enfant.</p><p>Un petit spectacle est prévu en
-      fin de semaine pour les parents!.</p>"
+      fin de semaine pour les parents !</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
     description: "<p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir
-      la gymnastique ? Ce stage est fait pour lui ! </p><p>Découverte et initiation
+      la gymnastique ? Ce stage est fait pour lui !</p><p>Découverte et initiation
       à la gymnastique pour les plus jeunes par des parcours d'équilibre, d'audace
       et premières notions de gymnastique sportive.</p><p>La baby gym va permettre
       à l’enfant d’améliorer son développement psychomoteur. Ce stage est idéal pour
       développer l'agilité de votre enfant.</p><p>Un petit spectacle est prévu en
-      fin de semaine pour les parents!.</p>"
+      fin de semaine pour les parents !</p>"
     infos: []
 - name: Baby Multisports
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultisports.png"
@@ -581,8 +583,8 @@ stages:
     ville: Bruxelles
     age: 4-6 ans
     description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
-      découvrir de nouvelles activités ? </p><p>Voici un stage qui ravira votre enfant!
-      Premier contact avec le sport et les jeux collectifs, par lequel votre enfant
+      découvrir de nouvelles activités ?</p><p>Voici un stage qui ravira votre enfant
+      ! Premier contact avec le sport et les jeux collectifs, par lequel votre enfant
       développera les différentes facettes de la motricité, le respect des règles
       et la vie en groupe.</p><p><br></p>"
     infos: []
@@ -598,12 +600,12 @@ stages:
     ville: Bruxelles
     age: 4-6 ans
     description: "<p>Tu veux devenir un bon sportif et apprendre à nager comme un
-      vrai petit poisson?</p><p>Ce stage est TOP pour toi!</p><p>La journée se déroule
-      ainsi: apprentissage quotidien des 4 nages, dans le but d'être autonome dans
+      vrai petit poisson ?</p><p>Ce stage est TOP pour toi !</p><p>La journée se déroule
+      ainsi : apprentissage quotidien des 4 nages, dans le but d'être autonome dans
       l'eau et initiation aux sports ballons, raquettes et jeux collectifs.</p>"
     infos:
     - alias: A prévoir dès le 1er jour !
-      info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet
+      info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
     - alias: Moniteurs
       info_line: 'En piscine : 2 moniteurs pour 8 enfants.'
 - name: Baby Poney
@@ -681,7 +683,7 @@ stages:
       tel que le tennis. La volée et le service sont alors également vus.</p><p>Et
       tout cela avec du matériel adapté : ballons, ballons de baudruche, balles rouges
       et balles molles.</p><p>Une période de la journée sera consacrée à la découverte
-      d’un multisport.</p><ul><li><p>Uccle &amp; Jette: stage 100% <em>CFS</em></p></li><li><p>Wspi
+      d’un multisport.</p><ul><li><p>Uccle &amp; Jette : stage 100% <em>CFS</em></p></li><li><p>Wspi
       : stage en collaboration avec<strong><em> Ace Tennis Academy</em></strong> -
       la partie multisports est assurée par le CFS)</p></li><li><p>Schaerbeek : stage
       en collaboration avec <strong><em>Lambermont Tennis Academy</em></strong> (sur
@@ -704,10 +706,10 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p>Tu es un vrai petit clown? Ce stage t'es destiné!</p><p>Tu découvriras
-      les arts du cirque au travers de différents jeux : jonglage, équilibre, pyramide
-      humaine,...</p><p>Et, bien entendu, tout cela dans la joie et la bonne humeur.</p><p>Spectacle
-      en fin de semaine.</p>"
+    description: "<p>Tu es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu
+      découvriras les arts du cirque au travers de différents jeux : jonglage, équilibre,
+      pyramide humaine,...</p><p>Et, bien entendu, tout cela dans la joie et la bonne
+      humeur.</p><p>Spectacle en fin de semaine.</p>"
     infos: []
 - name: Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirque.png"
