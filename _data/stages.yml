@@ -1,5 +1,21 @@
 ---
 stages:
+- name: Far-west
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Far-west
+    ville: Brabant Wallon
+    age: 5-8 ans
+    description: <p>HIIIIIIIIIHAAAAAAAAA</p><p>Quelle semaine chez les Cowboys et
+      les Indiens!</p><p>Jeux à thèmes, bricolages (costumes, arc à flèches, etc.)
+      et une journée inoubliable au Ranch "<strong>La Cabriole</strong>" à Fernelmont.</p><p>Dépaysement
+      garanti!</p>
+    infos: []
 - name: Equitation Débutant
   categorie: Activités sportives
   img: ''
@@ -838,7 +854,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
