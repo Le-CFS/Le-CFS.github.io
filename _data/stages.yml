@@ -1996,6 +1996,16 @@ stages:
   nouveau: false
   stage_une: false
   location:
+  - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Ce stage propose une alternance d'entraînements (techniques ballon
+      et techniques de jeu) et de petits matchs <em>(</em><strong><em>3 périodes</em></strong><em>
+      de football par jour et </em><strong><em>3 périodes</em></strong><em> de multisports).</em></p>"
+    infos:
+    - alias: Equipement
+      info_line: 'Se munir de 2 paires de chaussures (baskets ou de foot) : 1 pour
+        l''intérieur et l''autre pour l''extérieur.'
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-14 ans
