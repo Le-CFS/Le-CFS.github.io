@@ -2906,7 +2906,15 @@ stages:
   online: false
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Votre enfant va découvrir toute une série de nouveaux sports
+      FUN tels que le :</p><ul><li><p>POULL-BALL</p></li><li><p>BONKERBALL</p></li><li><p>GOURET</p></li><li><p>BUMBALL</p></li><li><p>KIN-BALL</p></li><li><p>SCRATCH-BALL</p></li><li><p>FLAG-RUGBY/FOOT</p></li></ul><p>Ces
+      <strong>sports nouveaux</strong> sont destinés aux garçons comme aux filles.</p><p>La
+      moitié du temps est consacrée à la pratique du multisports.</p>"
+    infos: []
 - name: Vélo-évolution
   img: "/assets/images/stages/decouvertesportiveetculturelle/veloevolution.png"
   inscription: ''
