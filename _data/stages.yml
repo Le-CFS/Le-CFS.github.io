@@ -1601,7 +1601,8 @@ stages:
     age: 8-14 ans
     description: "<p>Ce stage prévoit 3 heures journalières d'apprentissage des techniques
       de base d' escalade sur mur ainsi que les consignes de sécurité s' y rapportant.
-      Le reste de la journée est consacré aux activités de multisports et new games.</p>"
+      Le reste de la journée est consacré aux activités de multisports et new games.</p><p>Les
+      enfants se déplacent en transports en commun tous les jours vers le mur d'escalade.</p>"
     infos: []
 - name: Football
   img: "/assets/images/stages/activitessportives/football.png"
