@@ -1526,20 +1526,15 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
-      alléchant de ce stage:</p><p>Au matin : simulateur de cours, entrainement physique
-      et coordination oeil-main.</p><p>Le programme de l'après-midi est entièrement
+    description: "<p>Tu es le futur champion du monde en F1 ?</p><p>Voici le programme
+      alléchant de ce stage :</p><p>Au matin : simulateur de cours, entrainement physique
+      et coordination œil-main.</p><p>Le programme de l'après-midi est entièrement
       consacré au Karting : les apprentis pilotes sont encadrés pas un<strong> formateur
       du WIK </strong>qui leur apprend les différentes techniques de pilotage, trajectoire,
       exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p>"
     infos:
-    - alias: Accueil au WIK
-      info_line: Accueil à 9h00 au WIK en face du Walibi (Boulevard de l'Europe 117
-        - 1300 Wavre).
-    - alias: fin des activités
-      info_line: Fin des activités vers 15h.
-    - alias: Demi journée
-      info_line: Possibilité de faire le stage en demi journée de 13h00 à 15h00.
+    - alias: Navette
+      info_line: Déplacement au WIK assuré par le CFS. 
 - name: Skate Pro
   img: "/assets/images/stages/activitesfun/skatepro.png"
   inscription: ''
@@ -2573,7 +2568,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/photoargentique.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
