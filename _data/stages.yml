@@ -1,5 +1,33 @@
 ---
 stages:
+- name: Fun Laser & VTT
+  categorie: Les petits bouts
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-16 ans
+    description: "<p>Un bel équilibre entre le VTT et le Laser Game.</p><p>Les jeunes
+      apprendront les règles et techniques de base du Laser Game (3x/semaine).</p><p>Pratique
+      intensive du VTT (bonne condition physique nécessaire).</p>"
+    infos:
+    - alias: Equipement
+      info_line: 'Attention : il faut un VTT, un gilet fluo, un cadenas ainsi qu''une
+        chambre à air de rechange le premier jour du stage ! '
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Un bel équilibre entre le VTT et le Laser Game.</p><p>Les jeunes
+      apprendront les règles et techniques de base du Laser Game (3x/semaine).</p><p>Pratique
+      intensive du VTT, l'enfant doit être capable de rouler 8km par jour.</p>"
+    infos:
+    - alias: Equipement
+      info_line: 'Attention : il faut un VTT, un gilet fluo, un cadenas ainsi qu''une
+        chambre à air de rechange le premier jour du stage ! '
 - name: Football Féminin
   categorie: Les petits bouts
   img: ''
@@ -137,10 +165,10 @@ stages:
   location:
   - alias: Fun Hiver
     ville: Brabant Wallon
-    age: 8-12
+    age: 8-12 ans
     description: "<p>Parce que pendant les vacances, ce sont surtout des activités
       différentes, funs et amusantes que les enfants recherchent !</p><p>Ce stage
-      propose un programme alléchant qui pourra satisfaire votre enfant :</p><ul><li><p>Laser
+      propose un programme alléchant qui pourra satisfaire votre enfant : </p><ul><li><p>Laser
       Game</p></li><li><p>Arrow Game</p></li><li><p>New Games</p></li><li><p>...</p></li></ul><p>Chaque
       jour, nous varions les plaisirs ! Inscris-toi vite, nous t'attendons !</p>"
     infos:
