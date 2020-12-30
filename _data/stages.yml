@@ -1969,6 +1969,17 @@ stages:
   nouveau: false
   stage_une: false
   location:
+  - alias: Liège
+    ville: Liège
+    age: 7-12 ans
+    description: "<p>Durant ce stage, les enfants ont l'occasion de prendre un peu
+      de hauteur en s'adonnant aux joies de l'escalade.</p><p>Au programme : <strong>3
+      heures </strong>quotidiennes <em>d'escalade</em> sur un mur en salle complétées
+      par <strong>3 heures</strong> de <em>multisports.</em></p>"
+    infos:
+    - alias: Déplacement
+      info_line: Pour l'activité escalade à Huy, les enfants se rendent à pieds avec
+        leur moniteur au Point-Forme de Huy (10 minutes de marche).
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
