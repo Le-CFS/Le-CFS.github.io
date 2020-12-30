@@ -2270,8 +2270,11 @@ stages:
     description: "<p>Notre gentil petit monstre gourmand Gloopy s'intéresse aux fruits
       et légumes de saison: panier de saison, tests à l'aveugle, boites mystères,
       éveil des 5 sens et bien sûr, préparation de savoureuses recettes saines et
-      gourmandes! Les après-midi sont consacrées à des activités de multisports.</p>"
+      gourmandes! Les après-midis sont consacrées à des activités de multisports.</p>"
     infos:
+    - alias: Garderie
+      info_line: 'Garderie: Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription. '
     - alias: Partenariat
       info_line: Stage en partenariat avec Food & Pleasure
 - name: Immersion Anglais
