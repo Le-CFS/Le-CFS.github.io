@@ -1759,11 +1759,10 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-14 ans
-    description: "<p>Ce stage prévoit une alternance d'entraînements (technique ballon
-      et technique de jeu) et de petits matchs.</p>"
-    infos:
-    - alias: Partenariat
-      info_line: Stage en partenariat avec CB Futsal Jette Bxl Cap.
+    description: "<p>Jette : <em>Stage en collaboration avec </em><strong><em>CB Futsal
+      Jette BXL Cap</em></strong></p><p>Ce stage prévoit une alternance d'entraînements
+      (technique ballon et technique de jeu) et de petits matchs.</p>"
+    infos: []
 - name: Futsal Euro 2020
   img: "/assets/images/stages/activitessportives/futsal2020.png"
   inscription: ''
