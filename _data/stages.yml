@@ -1,5 +1,24 @@
 ---
 stages:
+- name: Secourisme
+  categorie: Activités artistiques et loisirs
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Secourisme
+    ville: Brabant Wallon
+    age: 12-16 ans
+    description: "<p>Envie d'apprendre les bons réflexes pour savoir comment réagir
+      au bon moment ? Ce stage offre l'opportunité à nos jeunes d'acquérir les gestes
+      de base du secourisme. Et de découvrir à côté des sports Fun tels que le Laser
+      Game, l'Arrow Game, le parcours d'obstacle, etc. Stage encadré par une enseignante
+      relais de la Croix-Rouge. Au terme du stage et si l'enfant a suivi toute la
+      formation, il recevra un carnet pédagogique ainsi que le BEPS (Brevet Européen
+      de Premier Secours).</p>"
+    infos: []
 - name: Sciences & Technologies
   categorie: Activités artistiques et loisirs
   img: ''
