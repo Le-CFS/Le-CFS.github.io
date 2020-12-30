@@ -2196,7 +2196,7 @@ stages:
     - alias: Partenariat
       info_line: Stage en partenariat avec EPST - Ecole de Plongée Sportive et Technique
   inscription: ''
-- name: Raquettes
+- name: Sports Raquettes
   img: "/assets/images/stages/activitessportives/raquettes.png"
   inscription: ''
   categorie: Activités sportives
@@ -2206,26 +2206,26 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 7-16 ans
+    age: 8-14 ans
     description: "<p>Ce stage propose une découverte des cinq sports de raquettes,
-      à savoir le tennis, le badminton, le tennis de table, le paddle et le speedminton.
-      Par différents jeux, les enfants apprennent les bases des sports afin de pouvoir
-      réaliser des échanges. Variété et plaisir garantis! Si vous ne possédez pas
-      de raquette, le CFS en met à votre disposition.</p>"
+      à savoir le tennis, le badminton, le tennis de table, le paddle et le speedminton.</p><p>Par
+      différents jeux, les enfants apprennent les bases des sports afin de pouvoir
+      réaliser des échanges.</p><p>Variété et plaisir garantis !</p>"
     infos:
     - alias: Raquette perso
-      info_line: Vous pouvez bien sûr apporter votre propre matériel.
+      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
+        Vous pouvez bien sûr apporter votre propre matériel.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 7-16 ans
+    age: 8-14 ans
     description: "<p>Ce stage propose une découverte des cinq sports de raquettes,
-      à savoir le tennis, le badminton, le tennis de table, le paddle et le speedminton.
-      Par différents jeux, les enfants apprennent les bases des sports afin de pouvoir
-      réaliser des échanges. Variété et plaisir garantis! Si vous ne possédez pas
-      de raquette, le CFS en met à votre disposition.</p>"
+      à savoir le tennis, le badminton, le tennis de table, le paddle et le speedminton.</p><p>Par
+      différents jeux, les enfants apprennent les bases des sports afin de pouvoir
+      réaliser des échanges.</p><p>Variété et plaisir garantis !</p>"
     infos:
     - alias: Raquette perso
-      info_line: Vous pouvez bien sûr apporter votre propre matériel.
+      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
+        Vous pouvez bien sûr apporter votre propre matériel.
 - name: Self Defense
   img: "/assets/images/stages/activitessportives/selfdefense.png"
   inscription: ''
