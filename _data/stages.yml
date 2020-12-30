@@ -1559,6 +1559,18 @@ stages:
       info_line: Certains déplacements se feront en transport en commun ou en car
         assuré par le CFS. Nos partenaires prennent toutes les mesures d’hygiène et
         sanitaires concernant le Covid-19
+  - alias: Liège
+    ville: Liège
+    age: 8-12 ans
+    description: "<p>Ce stage met au programme plusieurs activités comme :</p><ul><li><p>Chasse
+      au trésor</p></li><li><p>Spéléo</p></li><li><p>Parcours d'audace</p></li><li><p>Jeu
+      d'approche</p></li><li><p>Tir à l'arc et à la carabine</p></li><li><p>VTT</p></li></ul><p>Une
+      semaine riche en amusement et épanouissement !</p>"
+    infos:
+    - alias: Equipement
+      info_line: Les enfants doivent emporter le VTT, un casque, une chambre à air
+        de rechange ainsi que le cadenas (nous déclinons toute responsabilité en cas
+        de vol).
 - name: BMX Pro
   img: "/assets/images/stages/activitesfun/bmx.png"
   inscription: ''
