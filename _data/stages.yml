@@ -106,7 +106,7 @@ stages:
   - alias: Pilote
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p>Tu es un futur pilote de F1? Viens t'exercer avec ce stage!</p><p>Il
+    description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
       te permettra de découvrir les sensations d’un vrai pilote: concentration, adrénaline
       et amusement !</p><p>Au programme, apprentissage et maîtrise de quads durant
       deux séances par jour. Si le moniteur approuve le niveau, l'enfant pourra également
@@ -124,14 +124,15 @@ stages:
   - alias: Fun Hiver
     ville: Brabant Wallon
     age: 8-12
-    description: '<p>Parce que pendant les vacances, ce sont surtout des activités
+    description: "<p>Parce que pendant les vacances, ce sont surtout des activités
       différentes, funs et amusantes que les enfants recherchent !</p><p>Ce stage
-      propose un programme alléchant qui pourra satisfaire votre enfant : </p><ul><li><p>Laser
+      propose un programme alléchant qui pourra satisfaire votre enfant :</p><ul><li><p>Laser
       Game</p></li><li><p>Arrow Game</p></li><li><p>New Games</p></li><li><p>...</p></li></ul><p>Chaque
-      jour, nous varions les plaisirs! Inscris-toi vite, nous t''attendons !</p><p><strong><em>Garderie:</em></strong><em>
-      Inscription au préalable obligatoire dans les </em><strong><em>"Options" </em></strong><em>lors
-      de l''inscription.</em></p>'
-    infos: []
+      jour, nous varions les plaisirs ! Inscris-toi vite, nous t'attendons !</p>"
+    infos:
+    - alias: Garderie
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription.'
 - name: Pré-psychomotricité
   img: "/assets/images/stages/lespetitsbouts/prepsycho.png"
   inscription: ''
@@ -301,27 +302,28 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 3-4 ans
-    description: '<p><strong>Et 1,2,3 PLOUF!</strong></p><p>1er pas dans l''eau?</p><p>Ce
-      stage apprend à votre enfant les bases de la natation par le biais d''activités
-      ludiques, le tout dans une ambiance décontractée !</p><p>Ils auront l''occasion
+    description: "<p><strong>Et 1,2,3 PLOUF!</strong></p><p>1er pas dans l'eau ?</p><p>Ce
+      stage apprend à votre enfant les bases de la natation par le biais d'activités
+      ludiques, le tout dans une ambiance décontractée !</p><p>Ils auront l'occasion
       de faire connaissance avec les joies de la piscine et de la pataugeoire via
-      une heure quotidienne d''accoutumance à l''eau. Une sieste est prévue pour les
+      une heure quotidienne d'accoutumance à l'eau. Une sieste est prévue pour les
       enfants qui en ont besoin.</p><p>Les stages pour les plus petits tendent au
       développement harmonieux des enfants au travers d’activités adaptées à leur
       âge. L’enfant développe de nouvelles aptitudes tout en jouant : il apprend les
       règles du jeu et de groupe, développe sa sociabilité et explore les différentes
       facettes de la motricité.<br>Le rythme de l’enfant est respecté et une sieste
       est prévue pour les enfants qui en ont besoin. Il y a maximum 12 enfants par
-      groupe (8 enfants pour la Pré-Psychomotricité).<br>Pour chaque stage, il y a
-      une base commune de psychomotricité (jeux de coopération, parcours d’adresse,
+      groupe (8 enfants pour la Pré-Psychomotricité).</p><p>Pour chaque stage, il
+      y a une base commune de psychomotricité (jeux de coopération, parcours d’adresse,
       d’audace, exercices de latéralité) et bien sûr un apprentissage spécifique en
-      fonction du thème proposé.<br>Il est demandé aux parents de prévoir un sac avec
-      une tenue de rechange pour leur enfant. Pour les stages commençant à 3 ans (PSYCHO)
-      : les enfants doivent être propres. Le cas échéant, il faut inscrire votre petit-bout
-      en pré-psycho.</p><p><strong><em>Garderie:</em></strong><em> Inscription au
-      préalable obligatoire dans les </em><strong><em>"Options" </em></strong><em>lors
-      de l''inscription.</em></p>'
+      fonction du thème proposé.</p><p>Il est demandé aux parents de prévoir un sac
+      avec une tenue de rechange pour leur enfant. Pour les stages commençant à 3
+      ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut inscrire
+      votre petit-bout en pré-psycho.</p>"
     infos:
+    - alias: Garderie
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription.'
     - alias: Bonnet
       info_line: Bonnet de bain obligatoire.
     - alias: Tenue adaptée
@@ -337,7 +339,7 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 3-4 ans
-    description: "<p><strong>Et 1,2,3 PLOUF!</strong></p><p>1er pas dans l'eau?</p><p>Ce
+    description: "<p><strong>Et 1,2,3 PLOUF !</strong></p><p>1er pas dans l'eau ?</p><p>Ce
       stage apprend à votre enfant les bases de la natation par le biais d'activités
       ludiques, le tout dans une ambiance décontractée. En piscine, 1 moniteur pour
       6 enfants.</p><p>Le stage est complété par des activités psychomotrices (jeux
@@ -350,10 +352,10 @@ stages:
       groupe (8 enfants pour la Pré-Psychomotricité).<br><br>Pour chaque stage, il
       y a une base commune de psychomotricité (jeux de coopération, parcours d’adresse,
       d’audace, exercices de latéralité) et bien sûr un apprentissage spécifique en
-      fonction du thème proposé.<br>Il est demandé aux parents de prévoir un sac avec
-      une tenue de rechange pour leur enfant. Pour les stages commençant à 3 ans (PSYCHO)
-      : les enfants doivent être propres. Le cas échéant, il faut inscrire votre petit-bout
-      en pré-psycho.<br>.</p>"
+      fonction du thème proposé.</p><p>Il est demandé aux parents de prévoir un sac
+      avec une tenue de rechange pour leur enfant. Pour les stages commençant à 3
+      ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut inscrire
+      votre petit-bout en pré-psycho.</p>"
     infos:
     - alias: Maillot & Bonnet
       info_line: Dès le premier jour, prévoir maillot, bonnet et essuie de bain.
@@ -361,7 +363,7 @@ stages:
       info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
     - alias: Enfants propres
       info_line: Les enfants doivent être propres (dans le cas contraire nous vous
-        conseillons de les inscrire en pré-psycho)
+        conseillons de les inscrire en pré-psycho).
 - name: Psycho Nature
   img: "/assets/images/stages/lespetitsbouts/psychonature.png"
   inscription: ''
@@ -387,12 +389,12 @@ stages:
       enfants pour la Pré-Psychomotricité).<br><br>Pour chaque stage, il y a une base
       commune de psychomotricité (jeux de coopération, parcours d’adresse, d’audace,
       exercices de latéralité) et bien sûr un apprentissage spécifique en fonction
-      du thème proposé.<br>Il est demandé aux parents de prévoir un sac avec une tenue
-      de rechange pour leur enfant. </p><p><br></p>"
+      du thème proposé.</p><p>Il est demandé aux parents de prévoir un sac avec une
+      tenue de rechange pour leur enfant.</p>"
     infos:
     - alias: Enfants propres
       info_line: Les enfants doivent être propres (dans le cas contraire nous vous
-        conseillons de les inscrire en pré-psycho)
+        conseillons de les inscrire en pré-psycho).
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
 - name: Psycho Sport
@@ -419,10 +421,11 @@ stages:
       y a maximum 12 enfants par groupe (8 enfants pour la Pré-Psychomotricité).<br><br>Pour
       chaque stage, il y a une base commune de psychomotricité (jeux de coopération,
       parcours d’adresse, d’audace, exercices de latéralité) et bien sûr un apprentissage
-      spécifique en fonction du thème proposé.<br><br>Pour les stages commençant à
-      3 ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut inscrire
-      votre petit-bout en pré-psycho.</p>"
+      spécifique en fonction du thème proposé.</p>"
     infos:
+    - alias: Enfants propres
+      info_line: 'Pour les stages commençant à 3 ans (PSYCHO) : les enfants doivent
+        être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.'
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
 - name: Psycho Vélo
