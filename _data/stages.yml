@@ -1697,27 +1697,15 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: Ce stage prévoit une initiation et un perfectionnement à la trottinette.
-      Les as de la trot' vont apprendre de nouvelles figures dans une ambiance propre
-      à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés
-      par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
-      un nouveau Skate Park. Les enfants doivent amener leur trottinette et toutes
-      les protections.
+    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong></p><p>Ce
+      stage prévoit une initiation et un perfectionnement à trottinette. Les as de
+      la trot' vont apprendre de nouvelles figures dans une ambiance propre à ces
+      sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par
+      des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
+      un nouveau Skate Park. </p>"
     infos:
-    - alias: Partenariat
-      info_line: Stage en partenariat avec Max Extrême
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 10-16 ans
-    description: Ce stage prévoit une initiation et un perfectionnement à la trottinette.
-      Les as de la trot' vont apprendre de nouvelles figures dans une ambiance propre
-      à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés
-      par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
-      un nouveau Skate Park. Les enfants doivent amener leur trottinette et toutes
-      les protections.
-    infos:
-    - alias: Partenariat
-      info_line: Stage en partenariat avec Max Extrême
+    - alias: Matériel
+      info_line: Les enfants doivent amener leur trottinette et toutes les protections.
 - name: Tennis - Fun & Aventure
   img: "/assets/images/stages/activitesfun/tennisfunetaventure.png"
   inscription: ''
