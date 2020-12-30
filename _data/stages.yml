@@ -1999,10 +1999,10 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 7-16 ans
+    age: 8-16 ans
     description: "<p>Le padel est un sport de raquettes dérivé du tennis et du squash.
       Ce sport très ludique est accessible aux débutants. Venez découvrir ce nouveau
-      sport qui allie tactique, coordination et le plaisir du jeu!</p>"
+      sport qui allie tactique, coordination et le plaisir du jeu !</p>"
     infos: []
 - name: Parkour
   img: "/assets/images/stages/activitessportives/parkour.png"
@@ -2014,11 +2014,13 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 10-12 ans
-    description: "<p>Cette discipline utilise le corps pour seul outil. Face à des
-      obstacles naturels, ce sont les habilités motrices qui servent de support à
-      l'activité. Courses, sauts, grimpes, exercices d'équilibre et de suspension
-      sont au programme.</p>"
+    age: 8-14 ans
+    description: <p>Tu veux devenir un Yamakasi, un "traceur" ? Viens franchir les
+      obstacles avec nous !</p><p>Ce stage te fera découvrir le parkour ou art du
+      déplacement qui est une activité physique qui vise un déplacement libre et efficace
+      dans tous types d’environnements.</p><p>Les éléments du milieu urbain ou rural
+      se transforment en obstacles franchis grâce à des techniques gymniques tels
+      que la course, le saut, l’escalade, le déplacement en équilibre, etc.</p>
     infos: []
 - name: Pilote
   img: "/assets/images/stages/activitessportives/piloteacademy.png"
