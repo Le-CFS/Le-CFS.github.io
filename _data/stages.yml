@@ -1724,7 +1724,7 @@ stages:
     infos:
     - alias: Partenariat
       info_line: Stage en collaboration avec Lambert Tennis Academy
-- name: X-TREM
+- name: X-trem Sensation
   img: "/assets/images/stages/activitesfun/xtremsensation.png"
   inscription: ''
   categorie: Activités fun
@@ -1734,19 +1734,21 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 12-16 ans
-    description: 'Un nouveau stage au programme alléchant : une journée inoubliable
-      de Quad et de Paintball, deux courses de Karting au WIK-Wavre Indoor Karting
-      (demi-finale/finale) ainsi que des activités fun pour compléter la semaine (Laser
-      game, parcours d''obstacles gonflables, Arrow game et Bubble Soccer). Tous les
-      déplacements se font en VTT pour se rendre aux différentes activités.'
+    age: 10-16 ans
+    description: "<p>Un nouveau stage au programme alléchant : une journée inoubliable
+      de <strong>Paintball</strong>, de <strong>Quad</strong>, deux courses de <strong>Karting
+      </strong>au WIK-Wavre Indoor Karting (demi-finale/finale) ainsi que du activités
+      funs pour compléter la semaine (<strong>Laser game</strong> &amp; <strong>Arrow
+      game</strong>). Tous les déplacements se font en VTT pour se rendre aux différentes
+      activités.</p><p>L'enfant doit être capable de rouler 8 kilomètres par jour.</p>"
     infos:
     - alias: Taille
       info_line: Attention ! Pour le karting, la taille minimum de l'enfant doit être
         de 1m55.
     - alias: Matériel
-      info_line: Prévoir un VTT, un gilet fluo, un cadenas, un casque ainsi qu'une
-        chambre à air de rechange dès le premier jour du stage !
+      info_line: 'Attention : il faut prévoir un VTT, un gilet fluo, un cadenas, un
+        casque ainsi qu''une chambre à air de rechange dès le premier jour du stage
+        !'
 - name: Aventure Camp
   img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
   inscription: ''
@@ -2314,7 +2316,7 @@ stages:
   img: "/assets/images/stages/activitessportives/volleydecouverte.png"
   inscription: ''
   categorie: Activités sportives
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
