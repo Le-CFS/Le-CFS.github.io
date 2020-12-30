@@ -2535,7 +2535,7 @@ stages:
     infos:
     - alias: Koézio
       info_line: Pour Koezio, les enfants doivent avoir MINIMUM 1,40 m
-- name: Diner Parfait
+- name: Top Chef
   img: "/assets/images/stages/activitesartistiquesetloisirs/dinerparfait.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
@@ -2545,23 +2545,23 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 7-14 ans
+    age: 6-12 ans
     description: "<p>Durant le stage, les jeunes cuisiniers touchent à tous les domaines
       ayant trait au métier de chef-cuistot. Ils préparent des recettes qu’ils savourent
       chaque midi. Ils se chargent également de la remise en ordre des cuisines. Le
       dernier jour, un petit buffet-dégustation sera préparé à l’attention des parents.</p>"
     infos:
     - alias: Repas
-      info_line: Il ne faut prévoir à manger que le vendredi !
+      info_line: Il ne faut donc prévoir à manger pour votre enfant que le vendredi.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 7-14 ans
+    age: 6-12 ans
     description: "<p>Durant le stage, les jeunes cuisiniers touchent à tous les domaines
       ayant trait au métier de chef-cuistot. Ils préparent des recettes qu’ils savourent
       chaque midi. Ils se chargent également de la remise en ordre des cuisines. Le
       dernier jour, un petit buffet-dégustation sera préparé à l’attention des parents.</p>"
     infos:
-    - info_line: Il ne faut prévoir à manger que le vendredi !
+    - info_line: Il ne faut donc prévoir à manger pour votre enfant que le vendredi.
       alias: Repas
 - name: Food & Pleasure
   img: "/assets/images/stages/activitesartistiquesetloisirs/foodandpleasure.png"
