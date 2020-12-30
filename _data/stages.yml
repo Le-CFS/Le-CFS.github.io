@@ -2464,7 +2464,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietcirque.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -2482,7 +2482,7 @@ stages:
     - alias: Garderie
       info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
         lors de l''inscription. '
-- name: Magie et Fun
+- name: Magie & Fun
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
@@ -2493,12 +2493,13 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p>Grâce à un magicien ayant plein de tours dans son sac, les enfants
-      découvrent le monde de l’illusion et de la manipulation. Chaque enfant reçoit
-      son propre kit et son livret de magie (qu’il pourra reprendre à la maison en
-      fin de stage). Les après-midi sont consacrées aux activités fun (laser game,
-      arrow game, etc.). Un petit spectacle est prévu en fin de semaine avec démonstration
-      de quelques tours appris.</p>"
+    description: "<p>Tu veux vivre une semaine magique et amusante ?</p><p>Inscris-toi
+      en magie et fun !</p><p>Tu passeras, grâce à un magicien ayant plein de tours
+      dans son sac, de très bons moments !</p><p>Tu découvriras le monde de l’illusion
+      et de la manipulation.</p><p>Tu recevras ton kit de magie, que tu reprendras
+      chez toi !</p><p>Ta journée sera complétée par des activités fun, comme par
+      exemples ; laser game, arrow game, etc.</p><p>Un petit spectacle est prévu en
+      fin de semaine avec démonstration de quelques tours appris.</p>"
     infos: []
 - name: Magie Pro
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
