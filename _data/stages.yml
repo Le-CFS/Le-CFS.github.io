@@ -1,5 +1,23 @@
 ---
 stages:
+- name: Hockey
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Hockey
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: "<p>Pour les passionnés de ce sport collectif qui a le vent en poupe.
+      Les enfants développent des techniques de self defense, d'attaque et de distribution
+      du jeu. Au programme : perfectionnement des techniques du hockey (passes, shoot,
+      déplacements, démarquage, etc.) avec des petits matchs en fin de journée. Les
+      coaches mettent l'accent sur les notions de fair-play : respect de l'adversaire,
+      des coéquipiers et des arbitres.</p>"
+    infos: []
 - name: Hip Hop
   categorie: Danse et Gymnastique
   img: ''
