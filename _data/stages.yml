@@ -1865,6 +1865,18 @@ stages:
       info_line: 'Attention : il faut prévoir un VTT, un gilet fluo, un cadenas, un
         casque ainsi qu''une chambre à air de rechange dès le premier jour du stage
         !'
+  - alias: Liège
+    ville: Liège
+    age: 12-16 ans
+    description: "<p>Le stage <strong>X-TREM</strong> propose une semaine complète
+      rythmée par une course d'orientation, de parcours, de parties de Paint-Ball,
+      de squash et de la pratique du VTT pour des enfants sachant déjà rouler à vélo.</p><p>Nous
+      proposons également de la spéléologie, de l'escalade et du tir à l'arc et à
+      la carabine.</p><p>Un programme sportif et varié.</p>"
+    infos:
+    - alias: Equipement
+      info_line: Les Ados doivent emporter le VTT, un casque, un cadenas (nous déclinons
+        toute responsabilité en cas de vol) ainsi qu'une chambre à air de rechange.
 - name: Aventure Camp
   img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
   inscription: ''
