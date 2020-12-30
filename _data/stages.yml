@@ -1138,14 +1138,14 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Initiation et perfectionnement au BMX, apprentissage de nouvelles
-      figures.</p><p>Chaque jour, les enfants partent découvrir un nouveau Skate Park
-      : Louvain, Malines, Alost, Dilbeek, ou encore les Ursulines dans le centre de
-      Bruxelles.</p><p>Les jeunes sont encadrés par des professionnels.</p><p>Les
-      déplacements sont assurés par le CFS.</p>"
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Max Extreme</em></strong></p><p>Initiation
+      et perfectionnement au BMX, apprentissage de nouvelles figures.</p><p>Chaque
+      jour, les enfants partent découvrir un nouveau Skate Park : Louvain, Malines,
+      Alost, Dilbeek, ou encore les Ursulines dans le centre de Bruxelles.</p><p>Les
+      jeunes sont encadrés par des professionnels.</p>"
     infos:
-    - alias: Partenariat
-      info_line: Stage en partenariat avec Max Extreme.
+    - alias: Navette
+      info_line: Les déplacements sont assurés par le CFS.
     - alias: Matériel
       info_line: Les enfants doivent amener leur BMX et toutes les protections.
 - name: Evasion
@@ -2118,8 +2118,9 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p>Futur Hergé? Ce stage est fait pour votre enfant!</p><p>Il apprendra
-      à créer des planches de BD: construction d'un scénario, ébauche, croquis,...</p>"
+    description: "<p>Futur Hergé ? Ce stage est fait pour votre enfant !</p><p>Il
+      apprendra à créer des planches de BD : construction d'un scénario, ébauche,
+      croquis,...</p>"
     infos:
     - alias: Matériel
       info_line: Se munir d'une latte, de crayons, d'un taille-crayon, d'une gomme
