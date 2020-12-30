@@ -12,9 +12,9 @@ stages:
     ville: Brabant Wallon
     age: 5-8 ans
     description: <p>HIIIIIIIIIHAAAAAAAAA</p><p>Quelle semaine chez les Cowboys et
-      les Indiens!</p><p>Jeux à thèmes, bricolages (costumes, arc à flèches, etc.)
+      les Indiens !</p><p>Jeux à thèmes, bricolages (costumes, arc à flèches, etc.)
       et une journée inoubliable au Ranch "<strong>La Cabriole</strong>" à Fernelmont.</p><p>Dépaysement
-      garanti!</p>
+      garanti !</p>
     infos: []
 - name: Equitation Débutant
   categorie: Activités sportives
@@ -27,11 +27,10 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 7-9 ans
-    description: "<p>Ce stage est une pleine participation à la vie du manège : soins
-      aux poneys et bien sûr, initiation à l'équitation.</p>"
-    infos:
-    - alias: Partenariat
-      info_line: Stage en partenariat avec Le Manège La Motte.
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Le Manège de La
+      Motte</em></strong></p><p>Ce stage est une pleine participation à la vie du
+      manège : soins aux poneys et bien sûr, initiation à l'équitation.</p>"
+    infos: []
 - name: Bio Mômes
   categorie: Découvertes sportives et culturelles
   img: ''
@@ -801,8 +800,8 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Tu souhaites devenir un pilote de drone? Ce stage est fait pour
-      toi! </p><p>Nous t'avons concocté un programme varié, fun et ludique.</p><p>Une
+    description: "<p>Tu souhaites devenir un pilote de drone ? Ce stage est fait pour
+      toi !</p><p>Nous t'avons concocté un programme varié, fun et ludique.</p><p>Une
       partie de la journée sera consacrée à la <strong>découverte et à la manipulation
       de drones,</strong> aussi bien <strong>aquatiques</strong> qu'<strong>aériens.</strong></p><p>L'autre
       partie de la journée sera consacrée au <strong>Laser Game.</strong></p>"
@@ -861,9 +860,9 @@ stages:
     ville: Brabant Wallon
     age: 4-6 ans
     description: "<p>L'expression corporelle allie la gymnastique, la danse et le
-      théâtre; elle permet d'exprimer ses sentiments, ses émotions et développer sa
-      personnalité.</p><p>Cette activité occupera vos enfants la moitié du temps;
-      l'autre partie sera consacrée à des sports collectifs.</p>"
+      théâtre ; elle permet d'exprimer ses sentiments, ses émotions et développer
+      sa personnalité.</p><p>Cette activité occupera vos enfants la moitié du temps
+      ; l'autre partie sera consacrée à des sports collectifs.</p>"
     infos: []
 - name: Mini Lanta
   img: "/assets/images/stages/decouvertesportiveetculturelle/lanta.png"
@@ -1158,29 +1157,29 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 12-16 ans
-    description: "<p>Envie d'une semaine hyper fun? Viens à ce stage phare du CFS!
-      Un super programme! Une activité différente chaque jour!</p><p><strong>PROGRAMME
-      CARNAVAL</strong>: <em>new games, Aqualibi, ski, Koezio &amp; Space Fun Game</em></p><p><strong>PROGRAMME
-      PAQUES</strong>: <em>new games, Walibi, Aqualibi, mer &amp; Koezio</em></p><p><strong>PROGRAMME
-      ETE</strong>:<em> new games, Walibi, mer, barrage de l'Eau d'Heure &amp; Profondville</em></p>"
+    description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
+      ! Un super programme ! Une activité différente chaque jour !</p><p><strong>PROGRAMME
+      CARNAVAL </strong>: <em>new games, Aqualibi, ski, Koezio &amp; Space Fun Game</em></p><p><strong>PROGRAMME
+      PAQUES </strong>: <em>new games, Walibi, Aqualibi, mer &amp; Koezio</em></p><p><strong>PROGRAMME
+      ETE </strong>:<em> new games, Walibi, mer, barrage de l'Eau d'Heure &amp; Profondville</em></p>"
     infos:
     - alias: Navettes
-      info_line: Les navettes sont assurées par le CFS
+      info_line: Les navettes sont assurées par le CFS.
   - alias: Bruxelles
     ville: Bruxelles
     age: 12-16 ans
-    description: "<p>Envie d'une semaine hyper fun? Viens à ce stage phare du CFS!
-      Un super programme! Une activité différente chaque jour!</p><p><strong>PROGRAMME
-      NOEL / NOUVEL AN</strong>: Koezio, Team Game (Fort boyard futuriste), New Games,
+    description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
+      ! Un super programme ! Une activité différente chaque jour !</p><p><strong>PROGRAMME
+      NOEL / NOUVEL AN </strong>: Koezio, Team Game (Fort boyard futuriste), New Games,
       Escalade.</p><p><em>Le programme change pour les semaines plus courtes</em></p>"
     infos:
     - alias: Garderie
-      info_line: Attention pas de garderie pour le stage Evasion!
+      info_line: Attention pas de garderie pour le stage Evasion !
     - alias: Déplacements
       info_line: Les déplacements se font en transports en commun. Nos partenaires
-        prennent toutes les mesures d’hygiène et sanitaires concernant le Covid-19
+        prennent toutes les mesures d’hygiène et sanitaires concernant le Covid-19.
     - alias: Koézio
-      info_line: 'Pour Koezio: taille minimum 1,40 m.'
+      info_line: 'Pour Koezio : taille minimum 1,40 m.'
     - alias: Masque et gel
       info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
         Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
@@ -1567,7 +1566,7 @@ stages:
   img: "/assets/images/stages/activitessportives/equisport.png"
   inscription: ''
   categorie: Activités sportives
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -1575,10 +1574,10 @@ stages:
     ville: Brabant Wallon
     age: 7-12 ans
     description: "<p>Les enfants s’adonnent le matin aux joies du manège et de l’équitation.</p><p>L’après-midi
-      est consacrée à une autre activité au choix:</p><p>A Rixensart: badminton, football,
-      sports raquettes, GRS, activités Fun ou bande dessinée.</p><p>A Ottignies: mini-foot,
-      sports raquettes, GRS, Gym Pro (pratique nécessaire de la gymnastique tout au
-      long de l'année) ou magie</p>"
+      est consacrée à une autre activité au choix :</p><p>A Rixensart : badminton,
+      football, sports raquettes, GRS, activités Fun ou bande dessinée.</p><p>A Ottignies
+      : mini-foot, sports raquettes, GRS, Gym Pro (pratique nécessaire de la gymnastique
+      tout au long de l'année) ou magie.</p>"
     infos:
     - alias: Navettes
       info_line: Les navettes seront assurées par le CFS.
@@ -2225,10 +2224,10 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Un véritable Sherlock Holmes? Voici le stage qu'il faut à votre
-      enfant!</p><p>Au programme de la semaine : Jeux de mémoire, jeux de piste, géocatching,
-      escape room, escape game VR et une sortie à Koezio,</p><p>Le semaine se termine
-      par un jeu de cohésion et un pique-nique.</p>"
+    description: "<p>Un véritable Sherlock Holmes ? Voici le stage qu'il faut à votre
+      enfant !</p><p>Au programme de la semaine : Jeux de mémoire, jeux de piste,
+      géocatching, escape room, escape game VR et une sortie à Koezio,</p><p>Le semaine
+      se termine par un jeu de cohésion et un pique-nique.</p>"
     infos:
     - alias: Koézio
       info_line: Pour Koezio, les enfants doivent avoir MINIMUM 1,40 m
@@ -2271,16 +2270,15 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: "<p>Notre gentil petit monstre gourmand Gloopy s'intéresse aux fruits
-      et légumes de saison: panier de saison, tests à l'aveugle, boites mystères,
-      éveil des 5 sens et bien sûr, préparation de savoureuses recettes saines et
-      gourmandes! Les après-midis sont consacrées à des activités de multisports.</p>"
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Food &amp; Pleasure</em></strong></p><p>Notre
+      gentil petit monstre gourmand Gloopy s'intéresse aux fruits et légumes de saison
+      : panier de saison, tests à l'aveugle, boites mystères, éveil des 5 sens et
+      bien sûr, préparation de savoureuses recettes saines et gourmandes ! Les après-midis
+      sont consacrées à des activités de multisports.</p>"
     infos:
     - alias: Garderie
-      info_line: 'Garderie: Inscription au préalable obligatoire dans les "Options"
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
         lors de l''inscription. '
-    - alias: Partenariat
-      info_line: Stage en partenariat avec Food & Pleasure
 - name: Immersion Anglais
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersionanglais.png"
   inscription: ''
