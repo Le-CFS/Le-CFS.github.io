@@ -802,19 +802,19 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 5-7 ans
+    age: 5-8 ans
     infos: []
-    description: Ce stage propose une séance l'escalade par jour. Par cette initiation,
-      l'enfant travaille des facettes spécifiques de la motricité telles que l'ascension
-      et l'équilibre. Il développe des facteurs essentiels comme l'audace, la maîtrise
-      de soi et la gestion du vertige. Le stage est complété par des activités multisports.
+    description: "<p>Ce stage propose une séance d’escalade par jour. Par cette initiation,
+      l’enfant travaille des facettes spécifiques de la motricité telles que l’ascension
+      et l’équilibre. Il développe des facteurs essentiels comme l’audace, la maîtrise
+      de soi et la gestion du vertige. Le stage est complété par des activités multisports.</p>"
   - alias: Bruxelles
     ville: Bruxelles
-    age: 5-7 ans
-    description: Ce stage propose une séance l'escalade par jour. Par cette initiation,
-      l'enfant travaille des facettes spécifiques de la motricité telles que l'ascension
-      et l'équilibre. Il développe des facteurs essentiels comme l'audace, la maîtrise
-      de soi et la gestion du vertige. Le stage est complété par des activités multisports.
+    age: 5-8 ans
+    description: "<p>Ce stage propose une séance d’escalade par jour. Par cette initiation,
+      l’enfant travaille des facettes spécifiques de la motricité telles que l’ascension
+      et l’équilibre. Il développe des facteurs essentiels comme l’audace, la maîtrise
+      de soi et la gestion du vertige. Le stage est complété par des activités multisports.</p>"
     infos: []
 - name: Les explorateurs
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
