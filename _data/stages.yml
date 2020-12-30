@@ -89,11 +89,11 @@ stages:
   - alias: Baby Danse & Bijoux
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p><strong>Envie de devenir danseuse?</strong></p><p>Ce stage offre
+    description: "<p><strong>Envie de devenir danseuse ?</strong></p><p>Ce stage offre
       une initiation au rythme à travers l'apprentissage de différentes chorégraphies
       adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du
       mouvement.</p><p>Le stage est complété par des activités de création de magnifiques
-      bijoux: bracelets, colliers,...</p><p>Un spectacle et une exposition des bijoux
+      bijoux : bracelets, colliers,...</p><p>Un spectacle et une exposition des bijoux
       sont prévus en fin de stage (entre 15h et 16h).</p>"
     infos: []
 - name: Pilote
@@ -1095,12 +1095,12 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p>Votre enfant a entre 8 et 12 ans? Il souhaite un stage varié
-      et fun? Ce stage phare du CFS est fait pour lui! Un stage alléchant qui propose
-      chaque jour une activité ludique!</p><p><strong>PROGRAMME CARNAVAL: </strong>laser
-      game/arrow game/new games/orientation/Space Fun</p><p><strong>PROGRAMME PAQUES/ETE:
-      </strong>laser game/arrow game/new games/orientation/parc Aventure à Wavre</p><p><em>ATTENTION:
-      le programme peut changer les semaines plus courtes.</em></p>"
+    description: "<p>Votre enfant a entre 8 et 12 ans ? Il souhaite un stage varié
+      et fun ? Ce stage phare du CFS est fait pour lui ! Un stage alléchant qui propose
+      chaque jour une activité ludique !</p><p><strong>PROGRAMME CARNAVAL : </strong>laser
+      game/arrow game/new games/orientation/Space Fun</p><p><strong>PROGRAMME PAQUES/ETE
+      : </strong>laser game/arrow game/new games/orientation/parc Aventure à Wavre</p><p><em>ATTENTION
+      : le programme peut changer les semaines plus courtes.</em></p>"
     infos:
     - alias: Vêtement extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
@@ -1111,11 +1111,12 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
-    description: "<p>Votre enfant a entre <strong>8 et 12 ans?</strong> Il souhaite
-      essayer un stage varié et fun? Ce stage phare du CFS est pour lui! Il vous propose
-      un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>PROGRAMME
-      NOEL / NOUVEL AN</strong>: Laser Game, New Games, Arrow Games, Team Game (Fort
-      Boyard futuriste).</p><p>Le programme change pour les semaines plus courtes.</p>"
+    description: "<p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Il souhaite
+      essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous
+      propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>PROGRAMME
+      NOEL / NOUVEL AN </strong>: Laser Game, New Games, Arrow Games, Team Game (Fort
+      Boyard futuriste).</p><p><em>ATTENTION : le programme change pour les semaines
+      plus courtes.</em></p>"
     infos:
     - alias: Garderie
       info_line: Inscription au préalable obligatoire dans les "Options" lors de l'inscription. 
@@ -1542,10 +1543,10 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p>Tu veux découvrir le badminton?</p><p>Rejoins-nous!</p><p>Grâce
+    description: "<p>Tu veux découvrir le badminton ?</p><p>Rejoins-nous !</p><p>Grâce
       à ce stage, tu progresseras à ton rythme, tout en apprenant les bonnes techniques
-      (jonglage, déplacement, lancer, visualisation de la trajectoire du volant,...)</p><p>Chaque
-      jour, tu apprendras les règles de base et tu développeras ton fair play en disputant
+      (jonglage, déplacement, lancer, visualisation de la trajectoire du volant,...).</p><p>Chaque
+      jour, tu apprendras les règles de base et tu développeras ton fair-play en disputant
       des matchs amicaux.</p><p>La journée est complétée par des activités de multisports
       (ballon, parcours,...)</p><p>Un tournoi est organisé en fin de semaine.</p>"
     infos:
@@ -1553,10 +1554,10 @@ stages:
       info_line: Le CFS met à votre disposition le matériel.
   - ville: Bruxelles
     age: 8-14 ans
-    description: "<p>Tu veux découvrir le badminton?</p><p>Rejoins-nous!</p><p>Grâce
+    description: "<p>Tu veux découvrir le badminton ?</p><p>Rejoins-nous !</p><p>Grâce
       à ce stage, tu progresseras à ton rythme, tout en apprenant les bonnes techniques
-      (jonglage, déplacement, lancer, visualisation de la trajectoire du volant,...)</p><p>Chaque
-      jour, tu apprendras les règles de base et tu développeras ton fair play en disputant
+      (jonglage, déplacement, lancer, visualisation de la trajectoire du volant,...).</p><p>Chaque
+      jour, tu apprendras les règles de base et tu développeras ton fair-play en disputant
       des matchs amicaux.</p><p>La journée est complétée par des activités de multisports
       (ballon, parcours,...)</p><p>Un tournoi est organisé en fin de semaine.</p>"
     infos:
@@ -2086,10 +2087,10 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    description: "<p>Votre enfant a une âme d'artiste? Vous souhaitez qu'il développe
-      sa créativité? Ce stage est fait pour lui!</p><p>Il apprendra, tout en s'amusant,
-      quelques techniques d'art plastique: modelage, collage, dessin, etc.</p><p>Votre
-      enfant ramènera toutes ses œuvres à la maison!</p>"
+    description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
+      sa créativité ? Ce stage est fait pour lui !</p><p>Il apprendra, tout en s'amusant,
+      quelques techniques d'art plastique : modelage, collage, dessin, etc.</p><p>Votre
+      enfant ramènera toutes ses œuvres à la maison !</p>"
     infos:
     - alias: Garderie
       info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
@@ -2098,10 +2099,10 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-12 ans
-    description: "<p>Votre enfant a une âme d'artiste? Vous souhaitez qu'il développe
-      sa créativité? Ce stage est fait pour lui! </p><p>Il apprendra, tout en s'amusant,
-      quelques techniques d'art plastique: modelage, collage, dessin, etc.</p><p>Votre
-      enfant ramènera toutes ses œuvres à la maison!</p>"
+    description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
+      sa créativité ? Ce stage est fait pour lui !</p><p>Il apprendra, tout en s'amusant,
+      quelques techniques d'art plastique : modelage, collage, dessin, etc.</p><p>Votre
+      enfant ramènera toutes ses œuvres à la maison !</p>"
     infos:
     - alias: Garderie
       info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
