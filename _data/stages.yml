@@ -1011,21 +1011,25 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-8 ans
-    description: 'Les enfants vivent une semaine dans la peau des aventuriers de Koh
-      Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives.
-      Initiation à la fabrication de campement, chasse aux trésors, Géocatching et
-      jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage
-      !'
-    infos: []
+    description: "<p>Equipe jaune ou équipe rouge ?</p><p>Viens vivre une semaine
+      dans la peau des aventuriers de Koh Lanta : compositions des tribus, épreuves
+      en binôme et par équipe (avec les mythiques course d'orientation et épreuve
+      des poteaux !), fabrication de campement, et dégustation d’insectes pour les
+      plus courageux.</p>"
+    infos:
+    - alias: Fair-play
+      info_line: Fair-play et esprit de coopération sont requis pour ce stage !
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: 'Equipe jaune ou équipe rouge? Viens vivre une semaine dans la peau
-      des aventuriers de Koh Lanta : compositions des tribus, épreuves en binôme et
-      par équipe (avec les mythiques course d''orientation et épreuve des poteaux!),
-      fabrication de campement, et dégustation d’insectes pour les plus courageux,
-      une journée au Parc Aventure à Wavre.'
-    infos: []
+    description: "<p>Equipe jaune ou équipe rouge ?</p><p>Viens vivre une semaine
+      dans la peau des aventuriers de Koh Lanta : compositions des tribus, épreuves
+      en binôme et par équipe (avec les mythiques course d'orientation et épreuve
+      des poteaux !), fabrication de campement, et dégustation d’insectes pour les
+      plus courageux.</p>"
+    infos:
+    - alias: Fair-play
+      info_line: Fair-play et esprit de coopération sont requis pour ce stage ! 
 - name: Princesses & Pirates
   img: "/assets/images/stages/decouvertesportiveetculturelle/princessesetpirates.png"
   inscription: ''
@@ -2505,7 +2509,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
