@@ -1028,8 +1028,9 @@ stages:
   - alias: Liège
     ville: Liège
     age: 4-6 ans
-    description: Une découverte du tennis sous forme ludique avec un matériel spécialement
-      adapté aux petits, complétée par des ateliers de psychomotricité et de multisports.
+    description: "<p>Une découverte de tennis complétée par des ateliers de psychomotricité
+      et de multisports.</p><p>Les enfants découvrent la raquette en tant que prolongement
+      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.</p>"
     infos: []
 - name: Baby cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirquemomes.png"
