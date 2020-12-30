@@ -1242,6 +1242,14 @@ stages:
   nouveau: false
   stage_une: false
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-8 ans
+    description: "<p>Un petit explorateur sommeille en toi ? Viens confectionner ton
+      déguisement, réaliser des bricolages et faire des jeux à thèmes (selon le thème
+      de la semaine).</p><p>Les enfants auront également la chance d'aller à La Cabriole
+      et de visiter Pairi Daiza.</p>"
+    infos: []
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
@@ -1250,14 +1258,6 @@ stages:
       et chasse au trésor !</p><p>Deux excursions inoubliables sont également prévues
       au programme lors de la semaine ! Zoo D'Anvers et Technopolis. Découvertes et
       explorations garanties !</p>"
-    infos: []
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 6-8 ans
-    description: "<p>Un petit explorateur sommeille en toi ? Viens confectionner ton
-      déguisement, réaliser des bricolages et faire des jeux à thèmes (selon le thème
-      de la semaine).</p><p>Les enfants auront également la chance d'aller à La Cabriole
-      et de visiter Pairi Daiza.</p>"
     infos: []
 - name: Expression Corporelle & Sport
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
