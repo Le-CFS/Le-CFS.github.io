@@ -2486,7 +2486,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -2512,9 +2512,9 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p>Stage 100% magie réservé aux apprentis magiciens souhaitant progresser.
-      La concentration et l'écoute sont des qualités nécessaires pour apprendre de
-      nouveaux tours!</p>"
+    description: "<p>Tu veux progresser en magie ?</p><p>Grace à ce stage 100% magie
+      tu progresseras pour devenir un pro.</p><p>La concentration et l'écoute sont
+      des qualités nécessaires pour apprendre de nouveaux tours !</p>"
     infos: []
 - name: Photo Argentique
   img: "/assets/images/stages/activitesartistiquesetloisirs/photoargentique.png"
