@@ -1044,17 +1044,17 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-14 ans
-    description: Par le biais de la musique et l'utilisation de ballons, cerceaux,
+    age: 6-12 ans
+    description: "<p>Par le biais de la musique et l'utilisation de ballons, cerceaux,
       rubans, cordes et massues, votre enfant développera le rythme, l'adresse et
-      la dextérité et apprendra des chorégraphies.
+      la dextérité et apprendra des chorégraphies.</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-14 ans
-    description: Par le biais de la musique et l'utilisation de ballons, cerceaux,
+    age: 6-12 ans
+    description: "<p>Par le biais de la musique et l'utilisation de ballons, cerceaux,
       rubans, cordes et massues, votre enfant développera le rythme, l'adresse et
-      la dextérité et apprendra des chorégraphies.
+      la dextérité et apprendra des chorégraphies.</p>"
     infos: []
 - name: Gymnastique
   img: "/assets/images/stages/danseetgymnastique/gymnastique.png"
