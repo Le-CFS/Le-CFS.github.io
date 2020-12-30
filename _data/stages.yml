@@ -1066,11 +1066,12 @@ stages:
     infos: []
   - alias: Liège
     ville: Liège
-    age: 9-14 ans
-    description: "<p>Découverte des différentes techniques du Cirque telles que la
-      jonglerie (foulards, diabolos, assiettes chinoises, balles, quilles...) ; l’équilibre
-      (monocycles, échasses, rola-bola...) ; l’acrobatie. Les 3 heures de Cirque sont
-      complétées par 3 heures de multisports.</p>"
+    age: 6-12 ans
+    description: "<p>Les enfants pourront découvrir les différentes techniques du
+      Cirque telles que : la jonglerie (foulards, diabolos, assiettes chinoises, balles,
+      quilles, anneaux et bâton du diable) ; l'équilibre (monocycles, échasses, mini
+      rouleau, rola-bola et bidon) ; l'acrobatie (bases d'acrobaties fixes). </p><p>Les
+      3 heures de cirque sont complétées par 3 périodes de multisports.</p>"
     infos: []
 - name: Découverte Sportive
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
