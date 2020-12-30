@@ -1957,17 +1957,17 @@ stages:
   - alias: Liège
     ville: Liège
     age: 5-12 ans
-    description: "<p>Ce stage propose une initiation aux sports et aux jeux collectifs
-      (basket, foot, volley, hand-ball, unihoc, base-ball,etc.). De plus, les enfants
-      iront quotidiennement à la piscine, dans le but d’améliorer la technique des
-      4 nages (+/- 1h30 dans l’eau). L’enfant doit obligatoirement savoir nager dans
-      le grand bassin pour participer au stage.</p>"
+    description: "<p>Ce stage propose aux filles comme aux garçons, une initiation
+      aux sports et aux jeux collectifs (basket, foot, hand-ball, unihoc, base-ball,...).
+      De plus, les enfants iront quotidiennement à la piscine, dans le but d'améliorer
+      la technique des 4 nages (+/- 1h30 dans l'eau).</p><p>L'enfant doit obligatoirement
+      savoir nager dans le grand bassin pour participer au stage.</p>"
     infos:
     - alias: Tenue de bain
       info_line: Dès le premier jour, prévoir un bonnet, maillot et essuie de bain.
     - alias: Trajets
-      info_line: Les trajets se font à pieds avec le moniteur, du hall de l’Agri à
-        la piscine de Huy (+/- 15 minutes).
+      info_line: Les trajets se font à pieds avec le moniteur, du hall de l'école
+        d'Agriculture à la piscine de Huy (+/- 15 minutes de marche).
 - name: Padel
   img: "/assets/images/stages/activitessportives/padel.png"
   inscription: ''
