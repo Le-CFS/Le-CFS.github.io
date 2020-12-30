@@ -1,5 +1,22 @@
 ---
 stages:
+- name: Plongée - Journée complète
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Plongée - Journée complète
+    ville: Brabant Wallon
+    age: 9-14 ans
+    description: "<p>Tu rêves du grand bleu ?</p><p>Viens apprendre les techniques
+      de base de l'apnée, de la pression, de la sécurité, de l'utilisation de la bouteille.</p><p>Des
+      jeux aquatiques sont également au programme.</p><p>Le reste de la journée est
+      consacré à du multisports (sports individuels et collectifs).</p><p>Les enfants
+      doivent savoir nager 100 m.</p>"
+    infos: []
 - name: Plongée - Demi-journée
   categorie: Activités sportives
   img: ''
