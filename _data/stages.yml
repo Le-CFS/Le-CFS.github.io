@@ -1969,6 +1969,14 @@ stages:
   nouveau: false
   stage_une: false
   location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: "<p>Ce stage prévoit 3 heures journalières d'apprentissage des techniques
+      de base d' escalade sur mur ainsi que les consignes de sécurité s' y rapportant.
+      Le reste de la journée est consacré aux activités de multisports et new games.</p><p>Les
+      enfants se déplacent en transports en commun tous les jours vers le mur d'escalade.</p>"
+    infos: []
   - alias: Liège
     ville: Liège
     age: 7-12 ans
@@ -1980,14 +1988,6 @@ stages:
     - alias: Déplacement
       info_line: Pour l'activité escalade à Huy, les enfants se rendent à pieds avec
         leur moniteur au Point-Forme de Huy (10 minutes de marche).
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 8-14 ans
-    description: "<p>Ce stage prévoit 3 heures journalières d'apprentissage des techniques
-      de base d' escalade sur mur ainsi que les consignes de sécurité s' y rapportant.
-      Le reste de la journée est consacré aux activités de multisports et new games.</p><p>Les
-      enfants se déplacent en transports en commun tous les jours vers le mur d'escalade.</p>"
-    infos: []
 - name: Football
   img: "/assets/images/stages/activitessportives/football.png"
   inscription: ''
@@ -1996,16 +1996,6 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - alias: Liège
-    ville: Liège
-    age: 6-12 ans
-    description: "<p>Ce stage propose une alternance d'entraînements (techniques ballon
-      et techniques de jeu) et de petits matchs <em>(</em><strong><em>3 périodes</em></strong><em>
-      de football par jour et </em><strong><em>3 périodes</em></strong><em> de multisports).</em></p>"
-    infos:
-    - alias: Equipement
-      info_line: 'Se munir de 2 paires de chaussures (baskets ou de foot) : 1 pour
-        l''intérieur et l''autre pour l''extérieur.'
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-14 ans
@@ -2026,6 +2016,16 @@ stages:
     infos:
     - alias: Partenariat
       info_line: Stage en partenariat avec le CB Futsal Jette BXL Cap.
+  - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Ce stage propose une alternance d'entraînements (techniques ballon
+      et techniques de jeu) et de petits matchs <em>(</em><strong><em>3 périodes</em></strong><em>
+      de football par jour et </em><strong><em>3 périodes</em></strong><em> de multisports).</em></p>"
+    infos:
+    - alias: Equipement
+      info_line: 'Se munir de 2 paires de chaussures (baskets ou de foot) : 1 pour
+        l''intérieur et l''autre pour l''extérieur.'
 - name: Football Euro 2020
   img: "/assets/images/stages/activitessportives/footballeuro2020.png"
   inscription: ''
