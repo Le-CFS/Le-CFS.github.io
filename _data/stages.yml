@@ -1,5 +1,24 @@
 ---
 stages:
+- name: Psycho Bricolage
+  categorie: Les petits bouts
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 3-5 ans
+    description: "<p>Un stage de psychomotricité qui sera agrémenté quotidiennement
+      d'un éveil artistique par le biais du bricolage et de la peinture.</p><p>Une
+      période de repos est prévue après le temps de midi. </p>"
+    infos:
+    - alias: Tenue de rechange
+      info_line: Prévoir des habits de rechange.
+    - alias: Equipement
+      info_line: L'enfant doit apporter son tablier.
 - name: Psycho Cuisine
   categorie: Les petits bouts
   img: ''
