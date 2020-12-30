@@ -1146,12 +1146,10 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 12-16 ans
-    description: "<p>Tu es un ado et tu as envie d'une semaine hyper fun? Viens à
-      ce stage phare du CFS! Un super programme t’attend. Une activité différente
-      chaque jour!</p><p><strong>PROGRAMME TOUSSAINT / NOEL / NOUVEL AN</strong> :
-      Koezio, Team Game (Fort boyard futuriste), Parc Aventure, New Games, Escalade.
-      <em>Pas de Parc Aventure à Noel et Nouvel an (fermé !)</em></p><ul><li><p><em>le
-      programme change pour les semaines plus courtes</em></p></li></ul>"
+    description: "<p>Envie d'une semaine hyper fun? Viens à ce stage phare du CFS!
+      Un super programme! Une activité différente chaque jour!</p><p><strong>PROGRAMME
+      NOEL / NOUVEL AN</strong> : Koezio, Team Game (Fort boyard futuriste), New Games,
+      Escalade.</p><p><em>Le programme change pour les semaines plus courtes</em></p>"
     infos:
     - alias: Garderie
       info_line: Attention pas de garderie pour le stage Evasion!
