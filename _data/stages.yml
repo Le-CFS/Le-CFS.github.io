@@ -1662,25 +1662,15 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: Ce stage prévoit une initiation et un perfectionnement au skate board.
-      Les as de la planche vont apprendre de nouvelles figures dans une ambiance propre
-      à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés
-      par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
-      un nouveau Skate Park. Les enfants doivent amener leur skate et toutes les protections.
+    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong></p><p>Ce
+      stage en partenariat avec Max Extrême prévoit une initiation et un perfectionnement
+      au skateboard. Les as de la planche vont apprendre de nouvelles figures dans
+      une ambiance propre à ces sports extrêmes. Lors de ce stage d'exception, les
+      jeunes sont encadrés par des professionnels dans leur domaine. Chaque jour,
+      les enfants partent découvrir un nouveau Skate Park. </p>"
     infos:
-    - alias: Partenariat
-      info_line: En partenariat avec Max Extrême
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 10-16 ans
-    description: Ce stage prévoit une initiation et un perfectionnement au skate board.
-      Les as de la planche vont apprendre de nouvelles figures dans une ambiance propre
-      à ces sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés
-      par des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
-      un nouveau Skate Park. Les enfants doivent amener leur skate et toutes les protections.
-    infos:
-    - alias: Partenariat
-      info_line: En partenariat avec Max Extrême
+    - alias: Equipement
+      info_line: Les enfants doivent amener leur skate et toutes les protections.
 - name: Trottinette Pro
   img: "/assets/images/stages/activitesfun/trottinettepro.png"
   inscription: ''
@@ -2225,7 +2215,7 @@ stages:
   img: "/assets/images/stages/activitessportives/selfdefense.png"
   inscription: ''
   categorie: Activités sportives
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
