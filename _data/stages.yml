@@ -1120,12 +1120,15 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: Ce stage permet aux enfants d’entrer dans le monde magique des contes
-      de fées, de mettre en scène des histoires féeriques, de faire du bricolage et
-      des dessins sur ce thème, de se déguiser, de danser sur les chansons préférées
-      des princesses & pirates. Les enfants peuvent venir au stage avec un déguisement
-      (dans un sac). Il faut prévoir une tenue adaptée en cas de bricolages et peintures.
-    infos: []
+    description: "<p>Ce stage permet aux enfants d’entrer dans le monde magique des
+      contes de fées, de mettre en scène des histoires féeriques, de faire du bricolage
+      et des dessins sur ce thème, de se déguiser, de danser sur les chansons préférées
+      des princesses &amp; pirates. </p>"
+    infos:
+    - alias: Equipement
+      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
+    - alias: Déguisement
+      info_line: 'Venir avec un déguisement (dans un sac). '
 - name: Quad & Vtt
   img: "/assets/images/stages/decouvertesportiveetculturelle/quadetvtt.png"
   inscription: ''
