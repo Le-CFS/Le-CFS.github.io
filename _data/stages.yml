@@ -2449,7 +2449,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/madeco.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -2460,7 +2460,7 @@ stages:
       toute la maison et d’explorer d’autres facettes des arts plastiques.</p>"
     infos: []
     age: 8-14 ans
-- name: Magie et Cirque
+- name: Magie & Cirque
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietcirque.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
@@ -2470,14 +2470,18 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 8-14 ans
-    description: "<p>Ce stage propose, d'une part, l’approche de diverses disciplines
-      issues du monde du cirque : équilibre (échasses, monocycle), acrobatie (pyramides,
+    age: 6-8 ans
+    description: "<p>Tu aimes le monde féérique de la magie et du cirque ?</p><p>Ce
+      stage s'adresse à toi !</p><p>Tu découvriras les diverses disciplines issues
+      du monde du cirque : équilibre (échasses, monocycle), acrobatie (pyramides,
       trampoline), jonglerie (foulards, balles, quilles) et adresse (diabolos, bâtons
-      du diable). D'autre part, concernant la partie « magie », les enfants sont rassemblés
-      par petit groupe pour apprendre à maîtriser les tours selon leur niveau d’habilité
-      et de concentration!</p>"
-    infos: []
+      du diable).</p><p>L'autre partie de la journée, tu apprendras, par petit groupe,
+      à maîtriser les tours de magie (selon ton niveau d’habilité et de concentration
+      !).</p>"
+    infos:
+    - alias: Garderie
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription. '
 - name: Magie et Fun
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
