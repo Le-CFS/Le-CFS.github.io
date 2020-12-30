@@ -1055,19 +1055,18 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: Demi-journée quotidienne d’initiation et découverte du Krav maga
-      qui allie différents type de combat et d’auto défense. Les enfants auront l'occasion
-      de participer à des initiations à plusieurs sports de self-défense et d'arts
-      martiaux différents durant la semaine. Toutes les activités seront encadrées
-      par des moniteurs professionnels de Krav Maga Bruxelles. L’autre demi-journée
-      est complétée par des activités funs, des jeux collectifs et du multisport.
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Krav Maga Bruxelles</em></strong></p><p>Demi-journée
+      quotidienne d’initiation et découverte du Krav maga qui allie différents types
+      de combat et d’auto défense. Les enfants auront l'occasion de participer à des
+      initiations à plusieurs sports de self-défense et d'arts martiaux différents
+      durant la semaine. Toutes les activités seront encadrées par des moniteurs professionnels
+      de Krav Maga Bruxelles.</p><p>L’autre demi-journée est complétée par des activités
+      funs, des jeux collectifs et du multisport.</p>"
     infos:
-    - alias: Partenariat
-      info_line: 'En partenariait avec Krav Maga Bruxelles '
     - alias: Pas de violence
-      info_line: Le Krav Maga n’encourage pas la violence, il s’agit une pratique
-        qui fait travailler le physique et le mental sans pour autant mettre la violence
-        au premier plan.
+      info_line: Nous tenons à vous informer que le Krav Maga n’encourage pas la violence,
+        il s’agit une pratique qui fait travailler le physique et le mental sans pour
+        autant mettre la violence au premier plan.
 - name: Dance For You
   img: "/assets/images/stages/danseetgymnastique/danceforyou.png"
   inscription: ''
