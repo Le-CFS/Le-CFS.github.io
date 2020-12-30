@@ -2174,10 +2174,12 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 7-16 ans
-    description: "<p>Découverte et/ou perfectionnement au tennis de table. Apprentissage
-      du maniement de la raquette. Coups droits, services, revers et déplacements
-      autour de la table. Le stage est complété par des activités de multisports.</p>"
+    age: 8-14 ans
+    description: "<p><em>Stage en collaboration avec </em><strong><em>Jet Set Fleur
+      Bleue</em></strong></p><p>Découverte et/ou perfectionnement au tennis de table.
+      Apprentissage du maniement de la raquette (coups droits, services, revers, et
+      déplacements autour de la table). Le stage est complété par des activités de
+      multisports.</p>"
     infos: []
 - name: Plongée
   img: "/assets/images/stages/activitessportives/plongee.png"
