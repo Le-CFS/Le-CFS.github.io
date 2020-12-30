@@ -1602,7 +1602,7 @@ stages:
       ludique.</p>"
     infos:
     - alias: Garderie
-      info_line: 'Garderie: Inscription sur place !'
+      info_line: 'Garderie : Inscription sur place !'
     - alias: Matériel
       info_line: Le manège met à disposition tout le matériel adéquat pour les petits
         cavaliers.
@@ -1622,10 +1622,10 @@ stages:
       info_line: 'Garderie : Inscription sur place !'
     - alias: Matériel
       info_line: Le manège met à disposition tout le matériel adéquat pour les petits
-        cavaliers
+        cavaliers.
     - alias: Tenue
       info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
-        large) et des bottes
+        large) et des bottes.
 - name: Escalade
   img: "/assets/images/stages/activitessportives/escalade.png"
   inscription: ''
