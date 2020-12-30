@@ -48,8 +48,6 @@ stages:
       info_line: 'Possibilité de faire le stage en journée complète : durant la matinée,
         les jeunes découvrent le quad, la moto ainsi que des ateliers mécanos. ►►
         Inscription à la formule KARTING - JOURNEE COMPLETE'
-    - alias: Navette
-      info_line: Déplacement au WIK assuré par le CFS.
 - name: Hockey
   categorie: Activités sportives
   img: ''
@@ -1416,20 +1414,22 @@ stages:
   img: "/assets/images/stages/activitesfun/kartingetfun.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: Tu veux vivre une semaine passionnante? Ce stage est fait pour toi!
-      Viens découvrir les joies du karting tous les après-midi au WIK (demi-finale
-      / finale). Le reste de la semaine est complété par des activités fun (telles
-      que tchoukball, kinball, base ball, flag foot., bubble soccer...)
+    description: "<p>Tu veux vivre une semaine passionnante ?</p><p>Ce stage est fait
+      pour toi !</p><p>Viens découvrir les joies du karting tous les après-midi au
+      WIK (demi-finale/ finale).</p><p>Le reste de la semaine est complété par des
+      activités fun (telles que tchoukball, kinball, base ball, flag foot., bubble
+      soccer,...).</p>"
     infos:
     - alias: Taille
-      info_line: Pour le karting la taille minimum de l'enfant doit être de 1m55 !
+      info_line: Pour le karting, la taille minimum de l'enfant doit être de 1m55
+        !
 - name: Koh Lanta
   img: "/assets/images/stages/activitesfun/lanta.png"
   inscription: ''
@@ -1441,25 +1441,26 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: 'Les enfants vivent une semaine dans la peau des aventuriers de Koh
-      Lanta: Composition des tribus, épreuves individuelles, en binôme et collectives.
-      Initiation à la fabrication de campement, chasse aux trésors, Géocatching et
-      jeux d’escape Game. Fair-Play et esprit de coopération sont requis pour ce stage
-      !'
+    description: "<p>Equipe jaune ou équipe rouge ?</p><p>Viens vivre une semaine
+      dans la peau des aventuriers de Koh Lanta : compositions des tribus, épreuves
+      en binôme et par équipe (avec les mythiques course d'orientation et épreuve
+      des poteaux !), fabrication de campement, et dégustation d’insectes pour les
+      plus courageux.</p>"
     infos:
     - alias: Fair-play
       info_line: 'Fair-play et esprit de coopération sont requis pour ce stage ! '
   - alias: Bruxelles
     ville: Bruxelles
-    age: 9-12 ans
-    description: 'Equipe jaune ou équipe rouge? Viens vivre une semaine dans la peau
-      des aventuriers de Koh Lanta : compositions des tribus, épreuves en binôme et
-      par équipe (avec les mythiques course d''orientation et épreuve des poteaux!),
-      fabrication de campement, et dégustation d’insectes pour les plus courageux.,
-      une journée au Parc Aventure à Wavre'
+    age: 8-12 ans
+    description: "<p>Equipe jaune ou équipe rouge ?</p><p>Viens vivre une semaine
+      dans la peau des aventuriers de Koh Lanta : compositions des tribus, épreuves
+      en binôme et par équipe (avec les mythiques course d'orientation et épreuve
+      des poteaux !), fabrication de campement, et dégustation d’insectes pour les
+      plus courageux.</p><p>Une journée au Space Fun Game est également prévue pour
+      la coopération des équipes !</p>"
     infos:
     - alias: Fair-play
-      info_line: 'Fair-play et esprit de coopération sont requis pour ce stage ! '
+      info_line: Fair-play et esprit de coopération sont requis pour ce stage !
 - name: Pilote Academy
   img: "/assets/images/stages/activitesfun/kartingetfun.png"
   inscription: ''
