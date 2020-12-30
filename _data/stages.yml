@@ -1,5 +1,26 @@
 ---
 stages:
+- name: Multisports
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Multisports
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
+      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine
+      une initiation aux sports collectifs avec au programme :</p><ul><li><p>Basket</p></li><li><p>Mini-Foot</p></li><li><p>Volley</p></li><li><p>...</p></li></ul><p>Mais
+      aussi des activités NEW GAMES pour varier les plaisirs :</p><ul><li><p>Uni hoc</p></li><li><p>Crosse
+      canadienne</p></li><li><p>Kin-Ball</p></li><li><p>Boum-Ball</p></li><li><p>...</p></li></ul><p>Des
+      activités multisports qui raviront votre enfant !</p>"
+    infos:
+    - alias: Garderie
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription. '
 - name: Mini Tennis
   categorie: Découvertes sportives et culturelles
   img: ''
@@ -1939,7 +1960,7 @@ stages:
   img: "/assets/images/stages/activitessportives/multinatation.png"
   inscription: ''
   categorie: Activités sportives
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
