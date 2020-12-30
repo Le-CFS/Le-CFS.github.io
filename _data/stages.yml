@@ -1,5 +1,23 @@
 ---
 stages:
+- name: Plongée - Demi-journée
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Plongée - Demi-journée
+    ville: Brabant Wallon
+    age: 9-14 ans
+    description: "<p>Tu rêves du grand bleu ?</p><p>Viens apprendre les techniques
+      de base de l'apnée, de la pression, de la sécurité, de l'utilisation de la bouteille.</p><p>Des
+      jeux aquatiques sont également au programme.</p><p>Les enfants doivent savoir
+      nager 100 m.</p>"
+    infos:
+    - alias: Horaire
+      info_line: 'Horaire : 9h00 à 12h00'
 - name: Multisports
   categorie: Activités sportives
   img: ''
