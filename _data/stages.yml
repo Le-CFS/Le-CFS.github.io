@@ -1,5 +1,24 @@
 ---
 stages:
+- name: Techniques Artistiques
+  categorie: Activités artistiques et loisirs
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Les enfants auront l'occasion de découvrir et d'appliquer différentes
+      techniques artistiques telles que peinture, travail de la terre, collages, papier
+      mâché, dessin, etc., développant ainsi leur créativité.</p><p>Les 3 périodes
+      de techniques artistiques sont complétées par 3 périodes de multisports.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Les enfants apporteront un vieux tablier ainsi qu'un plumier avec
+        colle, ciseaux et latte.
 - name: Roller
   categorie: Activités fun
   img: ''
