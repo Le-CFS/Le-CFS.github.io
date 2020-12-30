@@ -969,7 +969,7 @@ stages:
     description: "<p>Ce stage prévoit une initiation et/ou un perfectionnement de
       la danse moderne Jazz &amp; Hip-Hop. (musique, tempos, mouvements, danse en
       groupe).</p><p>Les enfants réalisent également des chorégraphies sur les différents
-      tubes du moment.</p><p>Un petit spectacle est prévu à la fin de la semaine!</p>"
+      tubes du moment.</p><p>Un petit spectacle est prévu à la fin de la semaine !</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
@@ -977,7 +977,7 @@ stages:
     description: "<p>Ce stage prévoit une initiation et/ou un perfectionnement de
       la danse moderne Jazz &amp; Hip-Hop. (musique, tempos, mouvements, danse en
       groupe).</p><p>Les enfants réalisent également des chorégraphies sur les différents
-      tubes du moment.</p><p>Un petit spectacle est prévu à la fin de la semaine!</p>"
+      tubes du moment.</p><p>Un petit spectacle est prévu à la fin de la semaine !</p>"
     infos: []
   - alias: Liège
     ville: Liège
@@ -2169,10 +2169,9 @@ stages:
     age: 8-16 ans
     description: "<p>Tu veux évoluer au sein d'une troupe de comédie musicale ? Alors
       viens !</p><p>Dansons, chantons, jouons au théâtre tous ensemble !</p><p>Mais,
-      très important, la journée commence par un échauffement, des vocalises,...</p>"
-    infos:
-    - alias: Spectacle
-      info_line: Spectacle en fin de semaine !  
+      très important, la journée commence par un échauffement, des vocalises,...</p><p>Spectacle
+      en fin de semaine !</p>"
+    infos: []
 - name: Compo Musicale
   img: "/assets/images/stages/activitesartistiquesetloisirs/compomusicale.png"
   inscription: ''
