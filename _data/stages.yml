@@ -1690,7 +1690,7 @@ stages:
   img: "/assets/images/stages/activitesfun/trottinettepro.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -2800,7 +2800,7 @@ stages:
       Les enfants s'initient également à des exercices d'improvisation.</p><p>Petite
       représentation en fin de stage.</p>"
     infos: []
-- name: Vidéo reportage
+- name: Vidéo Reportage
   img: "/assets/images/stages/activitesartistiquesetloisirs/videoreportage.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
@@ -2810,7 +2810,7 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 12-16 ans
+    age: 8-14 ans
     description: "<p>Stage mêlant le jeu d'acteur, la vidéo (prise avec des appareils
       photos numériques) et une approche du vidéo-montage (sur pc, durant deux après-midis).</p><p>Par
       petits groupes, les participants réalisent une vidéo composée de reportages,
