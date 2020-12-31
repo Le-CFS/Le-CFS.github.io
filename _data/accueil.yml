@@ -12,9 +12,6 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: Stages Nouvel An
-  src: "/assets/images/garderienouvelan.jpg"
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
 - titre: Meilleurs Vœux 2021 !
   src: "/assets/images/voeux2021.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
