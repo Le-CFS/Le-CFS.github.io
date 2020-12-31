@@ -2491,7 +2491,7 @@ stages:
       des règles et des techniques de jeux.</p>"
     infos:
     - alias: Garderie
-      info_line: 'Pour les activités à  Walhain : garderie à partir de 8h00 le matin'
+      info_line: 'Pour les activités à Walhain : garderie à partir de 8h00 le matin.'
 - name: Football Camp
   img: "/assets/images/stages/activitessportives/footcamp.jpg"
   inscription: ''
