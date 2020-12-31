@@ -1551,7 +1551,8 @@ stages:
       plus courtes.</em></p>"
     infos:
     - alias: Garderie
-      info_line: Inscription au préalable obligatoire dans les "Options" lors de l'inscription. 
+      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
+        lors de l''inscription. '
     - alias: Vêtements extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
         activités d’extérieur.
