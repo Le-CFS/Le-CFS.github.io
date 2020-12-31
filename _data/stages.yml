@@ -1346,7 +1346,7 @@ stages:
     - alias: Equipement
       info_line: 'Attention : VTT, gilet fluo, un cadenas, un casque ainsi qu''une
         chambre à air de rechange dès le premier jour de stage !'
-- name: Krav Maga découverte
+- name: Krav Maga Découverte
   img: "/assets/images/stages/decouvertesportiveetculturelle/kravmagadecouverte.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
