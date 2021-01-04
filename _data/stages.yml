@@ -1678,11 +1678,9 @@ stages:
       info_line: Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de
         l’expérience pour ce stage et formé pour le respect des différentes mesures
         à suivre du protocole des stages.
-    description: "<p>Amusement garanti pour cette semaine de folie !</p><p><strong>PROGRAMME
-      CARNAVAL </strong>: New games, Koezio, Paintball/moto, Jump XL/KO, Aqualibi</p><p><strong>PROGRAMME
-      PAQUES </strong>: New games, Koezio, Walibi, Jump XL/KO, paintball*moto</p><p><strong>PROGRAMME
-      ETE </strong>: New games, Koezio, Paintball/moto, Parc Aventure à Wavre, Walibi
-      (pas E4)</p>"
+    description: "<p>UNE SUPERBE SEMAINE POUR VOS ADOS! Activités fun garanties!</p><p><strong>PROGRAMME
+      CARNAVAL - PAQUES - ETE</strong>: Bowling, Koezio, Jump XL, Escape Room VR,
+      E-fun (New games à Carnaval et pas dans les programmes des semaines à 4 jours).</p>"
 - name: Fun Paintball & VTT
   img: "/assets/images/stages/activitesfun/funpaintballetvtt.png"
   inscription: ''
