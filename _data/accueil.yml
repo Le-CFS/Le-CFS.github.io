@@ -23,11 +23,11 @@ selection:
   images:
   - titre: Ecole de Natation
     titre_img: Ecole de Natation
-    titre_overlay: ''
+    titre_overlay: Ecole de Natation
     src: "/assets/images/boutonsactivites/ecoledenatation.png"
-    href: https://www.lecfs.be/activites/ecole_de_natation/
+    href: "/ecole_de_natation/"
     autre_page: ''
-    bouton: ''
+    bouton: Plus d'info
     couleur_bouton: ''
   - titre: Extrascolaire
     titre_img: Extrascolaire
