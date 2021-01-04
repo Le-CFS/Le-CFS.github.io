@@ -1543,12 +1543,13 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
-    description: "<p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Il souhaite
-      essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous
+    description: "<p>Votre enfant a entre <strong>8 et 12 ans ?</strong> Il souhaite
+      essayer un stage varié et fun ? Ce stage phare du CFS est pour lui! Il vous
       propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>PROGRAMME
-      NOEL / NOUVEL AN </strong>: Laser Game, New Games, Arrow Games, Team Game (Fort
-      Boyard futuriste).</p><p><em>ATTENTION : le programme change pour les semaines
-      plus courtes.</em></p>"
+      CARNAVAL: </strong>Laser Game/Arrow Game/New Games/Orientation/Space Fun</p><p><strong>PROGRAMME
+      PAQUES/ETE: </strong>Laser Game/Arrow Game/New Games/Orientation/Parc Aventure
+      à Wavre</p><p><strong><em>ATTENTION </em></strong><em>: le programme change
+      pour les semaines plus courtes.</em></p>"
     infos:
     - alias: Garderie
       info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
