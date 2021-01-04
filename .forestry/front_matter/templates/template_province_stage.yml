@@ -6,9 +6,9 @@ fields:
   type: boolean
   label: Doit être en ligne
   description: Voir si on doit afficher l'image ou pas
-- name: clickable
+- name: non_clickable
   type: boolean
-  label: Doit être grisé
+  label: Image grisée ?
   description: Si OUI, l'image est grisée et n'est pas cliquable.<br>Si NON, l'image
     peut être cliquée et les stages sont en ligne.
 - name: name
