@@ -150,7 +150,7 @@ activites:
     src: "/assets/images/boutonsactivites/extrascolaires.png"
     href: "/activites/extrascolaire"
     autre_page: ''
-    bouton: ''
+    bouton: Inscription
     couleur_bouton: ''
   - titre: Parascolaire
     titre_img: Parascolaire
@@ -161,16 +161,16 @@ activites:
     bouton: Inscription
     couleur_bouton: ''
   - titre: Cours adultes
-    titre_img: ''
-    titre_overlay: ''
+    titre_img: Cours adultes
+    titre_overlay: Cours adultes
     src: "/assets/images/boutonscoursadultes/coursadultes.png"
     href: "/cours_adultes"
     autre_page: ''
     bouton: ''
     couleur_bouton: ''
   - titre: Évènements
-    titre_img: ''
-    titre_overlay: ''
+    titre_img: Évènements
+    titre_overlay: Évènements
     src: "/assets/images/event/event.png"
     href: "/events"
     autre_page: ''
