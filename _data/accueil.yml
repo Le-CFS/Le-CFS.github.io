@@ -166,7 +166,7 @@ activites:
     src: "/assets/images/boutonscoursadultes/coursadultes.png"
     href: "/cours_adultes"
     autre_page: ''
-    bouton: ''
+    bouton: Inscription
     couleur_bouton: ''
   - titre: Évènements
     titre_img: Évènements
@@ -174,5 +174,5 @@ activites:
     src: "/assets/images/event/event.png"
     href: "/events"
     autre_page: ''
-    bouton: ''
+    bouton: Plus d'info
     couleur_bouton: ''
