@@ -81,9 +81,9 @@ slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: Stages Noël/Nouvel An
-    titre_overlay: Stages Noël/Nouvel An
-    img: "/assets/images/noelnouvelan.jpg"
+  - name: Stages enfants
+    titre_overlay: Stages enfants
+    img: "/assets/images/stages/stagesenfants.png"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
