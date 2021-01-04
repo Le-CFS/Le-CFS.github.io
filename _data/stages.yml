@@ -158,8 +158,8 @@ stages:
     infos: []
 - name: Quad & Laser
   categorie: Activités fun
-  img: ''
-  online: false
+  img: "/assets/images/anniversaires/activites/quad.png"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
