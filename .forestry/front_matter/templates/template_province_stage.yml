@@ -9,8 +9,8 @@ fields:
 - name: clickable
   type: boolean
   label: Doit être grisé
-  description: Si on doit mettre l'image en grisé, comme teaser, en attendant que
-    les stages soient en ligne.
+  description: Si OUI, l'image est grisée et n'est pas cliquable.<br>Si NON, l'image
+    peut être cliquée et les stages sont en ligne.
 - name: name
   type: text
   config:
