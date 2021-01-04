@@ -8,19 +8,16 @@ periode:
     online: true
     bruxelles:
       online: false
-      clickable: true
       name: Stages Carnaval Bruxelles
       image: "/assets/images/carnavalbxl.jpg"
       link: ''
     brabant:
       online: false
-      clickable: true
       name: Stages Carnaval Brabant
       image: "/assets/images/carnavalbrt.jpg"
       link: ''
     liege:
       online: false
-      clickable: true
       name: Stages Carnaval Liège
       image: "/assets/images/carnavallie.jpg"
       link: ''
@@ -28,19 +25,16 @@ periode:
     online: false
     bruxelles:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
     brabant:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
     liege:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
@@ -48,19 +42,16 @@ periode:
     online: false
     bruxelles:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
     brabant:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
     liege:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
@@ -68,19 +59,16 @@ periode:
     online: false
     bruxelles:
       online: true
-      clickable: true
       name: Stages Toussaint Bruxelles
       image: ''
       link: ''
     brabant:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
     liege:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
@@ -88,19 +76,16 @@ periode:
     online: false
     bruxelles:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
     brabant:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
     liege:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
@@ -108,19 +93,16 @@ periode:
     online: false
     bruxelles:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
     brabant:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
     liege:
       online: false
-      clickable: true
       name: ''
       image: ''
       link: ''
@@ -193,11 +175,21 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
 
     <div class="row">
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656061360148316172/sitestagescarnavalbrt.png" titre="Carnaval Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant&Groupe=1" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.carnaval.brabant.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.carnaval.brabant.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Carnaval Brabant" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656061357333938216/sitestagescarnavalbxl.png" titre="Carnaval Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles&Groupe=1" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.carnaval.bruxelles.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.carnaval.bruxelles.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Carnaval Bruxelles" href=link autre_page="oui" bouton="Inscription" %}
+      </div>
+
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        {% capture image %}{{ page.periode.carnaval.liege.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.carnaval.liege.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Carnaval Liège" href=link autre_page="oui" bouton="Inscription" %}
       </div>
     </div>
     {% endif %}
@@ -210,20 +202,28 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     <div class="row">
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062406409191424/sitestagespaquesbrt.png" titre="Pâques Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant&Groupe=2" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.paques.brabant.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.paques.brabant.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Pâques Brabant" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062408950808577/sitestagespaquesbxl.png" titre="Pâques Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles&Groupe=2" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.paques.bruxelles.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.paques.bruxelles.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Pâques Bruxelles" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062390613311489/sitestagespaqueslie.png" titre="Pâques Liège" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Liege&Groupe=2" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.paques.liege.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.paques.liege.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Pâques Liège" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
+        {% capture image %}{{ page.periode.paques.internat.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.paques.internat.link }}{% endcapture %}
 	      {% comment %} @Coleen supprimer que le offline="Oui" {% endcomment %}
-        {% include coleen/bulle.html src="/assets/images/stages/stagesinternatpaques.jpg" titre="Internat" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=&Groupe=2" autre_page="oui" bouton="Inscription"%}
+        {% include coleen/bulle.html src=image titre="Internat" href=link autre_page="oui" bouton="Inscription"%}
       </div>
 
     </div>
@@ -237,15 +237,21 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     <div class="row">
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062604543787009/sitestagesetebrt.png" titre="Été Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant&Groupe=1" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.ete.brabant.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.ete.brabant.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Été Brabant" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062607656091658/sitestagesetebxl.png" titre="Été Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles&Groupe=1" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.ete.bruxelles.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.ete.bruxelles.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Été Bruxelles" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="https://media.discordapp.net/attachments/656057943346642945/656062609191075860/sitestagesetelie.png" titre="Été Liège" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Liege" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.ete.liege.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.ete.liege.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Été Liège" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
     </div>
@@ -259,11 +265,15 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     <div class="row">
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="/assets/images/toussaintbrt-1.jpg" titre="Toussaint Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=3&Province=Brabant" autre_page="oui" bouton="Inscrption" %}
+        {% capture image %}{{ page.periode.toussaint.brabant.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.toussaint.brabant.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Toussaint Brabant" href=link autre_page="oui" bouton="Inscrption" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="/assets/images/toussaintbxl-1.jpg" titre="Toussaint Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=3&Province=Bruxelles" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.toussaint.bruxelles.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.toussaint.bruxelles.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Toussaint Bruxelles" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
     </div>
@@ -277,11 +287,15 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     <div class="row">
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="/assets/images/noelbrt-1.jpg" titre="Noël Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1&Province=Brabant" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.noel.brabant.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.noel.brabant.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Noël Brabant" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="/assets/images/noelbxl-1.jpg" titre="Noël Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1&Province=Bruxelles" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.noel.bruxelles.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.noel.bruxelles.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Noël Bruxelles" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
     </div>
@@ -295,11 +309,15 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     <div class="row">
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="/assets/images/nouvelanbrt-1.jpg" titre="Nouvel an Brabant" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Brabant" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.nouvelan.brabant.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.nouvelan.brabant.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Nouvel an Brabant" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% include coleen/bulle.html src="/assets/images/nouvelanbxl-1.jpg" titre="Nouvel an Bruxelles" href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Bruxelles" autre_page="oui" bouton="Inscription" %}
+        {% capture image %}{{ page.periode.nouvelan.bruxelles.image }}{% endcapture %}
+        {% capture link %}{{ page.periode.nouvelan.bruxelles.link }}{% endcapture %}
+        {% include coleen/bulle.html src=image titre="Nouvel an Bruxelles" href=link autre_page="oui" bouton="Inscription" %}
       </div>
 
     </div>
