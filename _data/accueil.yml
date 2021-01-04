@@ -21,14 +21,6 @@ slider:
 selection:
   nom: Sélection du CFS
   images:
-  - titre: Ecole de Natation
-    titre_img: Ecole de Natation
-    titre_overlay: Ecole de Natation
-    src: "/assets/images/boutonsactivites/ecoledenatation.png"
-    href: "/ecole_de_natation/"
-    autre_page: ''
-    bouton: Plus d'info
-    couleur_bouton: ''
   - titre: Extrascolaire
     titre_img: Extrascolaire
     titre_overlay: Extrascolaire
@@ -38,10 +30,26 @@ selection:
     bouton: Inscription
     couleur_bouton: ''
   - titre: Stages
-    titre_img: Stages Noël & Nouvel An
-    titre_overlay: Stages Noël & Nouvel An
-    src: "/assets/images/stages.jpg"
+    titre_img: Stages enfants
+    titre_overlay: Stages enfants
+    src: "/assets/images/stages/stagesenfants.png"
     href: "/stages/"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Ecole de Natation
+    titre_img: Ecole de Natation
+    titre_overlay: Ecole de Natation
+    src: "/assets/images/boutonsactivites/ecoledenatation.png"
+    href: "/ecole_de_natation/"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Anniversaires
+    titre_img: Anniversaires
+    titre_overlay: Anniversaires
+    src: "/assets/images/anniversaires.jpg"
+    href: https://www.lecfs.be/anniversaires/
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
@@ -53,19 +61,11 @@ selection:
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
-  - titre: Anniversaires
-    titre_img: Anniversaires
-    titre_overlay: Anniversaires
+  - titre: Parascolaires
+    titre_img: Parascolaires
+    titre_overlay: Parascolaires
     src: "/assets/images/anniversaires.jpg"
-    href: https://www.lecfs.be/anniversaires/
-    autre_page: ''
-    bouton: Plus d'info
-    couleur_bouton: ''
-  - titre: Anniversaires
-    titre_img: Anniversaires
-    titre_overlay: Anniversaires
-    src: "/assets/images/anniversaires.jpg"
-    href: https://www.lecfs.be/anniversaires/
+    href: "/activites/"
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
