@@ -4,8 +4,8 @@ liste:
   categorie: Partenaires de stages
   logo: ''
   href: https://www.adslstages.be/
-  online: oui
-  bouton: ''
+  online: non
+  bouton: Site Web
   couleur_bouton: ''
 - name: AJP Events
   categorie: Partenaires de stages
