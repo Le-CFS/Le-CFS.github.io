@@ -158,8 +158,8 @@ stages:
     infos: []
 - name: Quad & Laser
   categorie: Activités fun
-  img: ''
-  online: false
+  img: "/assets/images/anniversaires/activites/quad.png"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
@@ -167,9 +167,14 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-16 ans
-    description: "<p>Un bel équilibre entre le quad et le Laser Game.</p><p>Les jeunes
-      apprendront les règles et techniques de base du Laser Game (3x/semaine).</p>"
-    infos: []
+    description: "<p>Découverte du quad, sports moteur et laser game! Fun et amusement
+      garanti!</p><p>Au programme: Quad, E-Moto, Laser Game, Nerf et E-fun (pas de
+      E-Fun les semaines de 4 jours)</p><p>Pratique journalière du VTT (bonne condition
+      physique nécessaire).</p>"
+    infos:
+    - info_line: Il faut un VTT, un gilet fluo, un cadenas ainsi qu'une chambre à
+        air de rechange le premier jour du stage !
+      alias: Matériel à apporter
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
@@ -1543,12 +1548,13 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
-    description: "<p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Il souhaite
-      essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous
+    description: "<p>Votre enfant a entre <strong>8 et 12 ans ?</strong> Il souhaite
+      essayer un stage varié et fun ? Ce stage phare du CFS est pour lui! Il vous
       propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>PROGRAMME
-      NOEL / NOUVEL AN </strong>: Laser Game, New Games, Arrow Games, Team Game (Fort
-      Boyard futuriste).</p><p><em>ATTENTION : le programme change pour les semaines
-      plus courtes.</em></p>"
+      CARNAVAL: </strong>Laser Game/Arrow Game/New Games/Orientation/Space Fun</p><p><strong>PROGRAMME
+      PAQUES/ETE: </strong>Laser Game/Arrow Game/New Games/Orientation/Parc Aventure
+      à Wavre</p><p><strong><em>ATTENTION </em></strong><em>: le programme change
+      pour les semaines plus courtes.</em></p>"
     infos:
     - alias: Garderie
       info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
@@ -1618,8 +1624,10 @@ stages:
     age: 12-16 ans
     description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
       ! Un super programme ! Une activité différente chaque jour !</p><p><strong>PROGRAMME
-      NOEL / NOUVEL AN </strong>: Koezio, Team Game (Fort boyard futuriste), New Games,
-      Escalade.</p><p><em>Le programme change pour les semaines plus courtes</em></p>"
+      CARNAVAL</strong>: <em>New Games, Aqualibi, Ski, Koezio &amp; Space Fun Game</em></p><p><strong>PROGRAMME
+      PAQUES</strong>: <em>New Games, Walibi, Aqualibi, Mer (pas en Pâques 1) &amp;
+      Koezio</em></p><p><strong>PROGRAMME ETE</strong>:<em> New Games, Walibi, mer,
+      barrage de l'Eau d'Heure ou Profondeville, Koezio</em></p>"
     infos:
     - alias: Garderie
       info_line: Attention pas de garderie pour le stage Evasion !
@@ -1675,11 +1683,9 @@ stages:
       info_line: Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de
         l’expérience pour ce stage et formé pour le respect des différentes mesures
         à suivre du protocole des stages.
-    description: "<p>Amusement garanti pour cette semaine de folie !</p><p><strong>PROGRAMME
-      CARNAVAL </strong>: New games, Koezio, Paintball/moto, Jump XL/KO, Aqualibi</p><p><strong>PROGRAMME
-      PAQUES </strong>: New games, Koezio, Walibi, Jump XL/KO, paintball*moto</p><p><strong>PROGRAMME
-      ETE </strong>: New games, Koezio, Paintball/moto, Parc Aventure à Wavre, Walibi
-      (pas E4)</p>"
+    description: "<p>UNE SUPERBE SEMAINE POUR VOS ADOS! Activités fun garanties!</p><p><strong>PROGRAMME
+      CARNAVAL - PAQUES - ETE</strong>: Bowling, Koezio, Jump XL, Escape Room VR,
+      E-fun (New games à Carnaval et pas dans les programmes des semaines à 4 jours).</p>"
 - name: Fun Paintball & VTT
   img: "/assets/images/stages/activitesfun/funpaintballetvtt.png"
   inscription: ''

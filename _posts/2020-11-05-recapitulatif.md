@@ -34,7 +34,7 @@ Nous mettons tout en œuvre pour assurer des cours de qualité répondant aux no
 * Les garderies dans les écoles
 * Les anniversaires
 * Tous les stages de Noël/Nouvel An
-* Ecole de natation **uniquement à Bierges !**
+* Ecole de natation **à Bierges et Woluwé-St-Pierre**
 
 ❌ **ACTIVITES SUSPENDUES**
 
@@ -43,7 +43,7 @@ Nous mettons tout en œuvre pour assurer des cours de qualité répondant aux no
 * Parascolaire: La piscine de l’ARO doit fermer ses portes suite à des travaux de maintenance / de réparation.
 * Le hip-hop le samedi à WSLA & Jette
 * Les cours de langue au Primerose de Laeken
-* Ecoles de natation à Jette, WSPI & Ottignies
+* Ecoles de natation à Jette & Ottignies
 
 👌La bonne gestion de la crise sanitaire reste notre priorité absolue et nous mettons tout en œuvre pour vous accueillir dans un environnement sain en respectant les protocoles de l’ONE et de l’ADEPS.
 
