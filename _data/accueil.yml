@@ -12,6 +12,9 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
+- titre: Stages Carnaval & Pâques
+  src: "/assets/images/carnaval_paques.jpg"
+  href: https://www.lecfs.be/stages/
 - titre: Meilleurs Vœux 2021 !
   src: "/assets/images/voeux2021.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
