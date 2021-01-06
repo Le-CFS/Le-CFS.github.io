@@ -114,18 +114,24 @@ une:
       Pour éviter que les enfants restent toute la journée devant les écrans, ils passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du centre.
     lieu: Brabant Wallon
     age: 8 - 12 ans
-  - name: Fun Hiver
-    titre_overlay: Fun Hiver
-    img: "/assets/images/funhiveralaune.jpg"
+  - name: Far-west
+    titre_overlay: Far-west
+    img: "/assets/images/farwestalaune.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: 'Ce stage propose un programme alléchant : Laser Game, Arrow Games,
-      Bubble Soccer et Parcours d''obstacle !'
+    description: |-
+      HIIIIIIIIIHAAAAAAAAA
+
+      Quelle semaine chez les Cowboys et les Indiens !
+
+      Jeux à thèmes, bricolages (costumes, arc à flèches, etc.) et une journée inoubliable au Ranch "La Cabriole" à Fernelmont.
+
+      Dépaysement garanti !
     lieu: Brabant
-    age: 9 à 12 ans
+    age: 5 à 8 ans
   - name: Futsal
     titre_overlay: Futsal
     img: "/assets/images/futsal.jpg"
