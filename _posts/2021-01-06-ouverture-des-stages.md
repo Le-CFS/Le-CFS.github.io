@@ -7,7 +7,7 @@ tags:
 - pâques
 - '2021'
 title: Ouverture des stages Carnaval / Pâques
-banner: "/assets/images/carnaval_paques-1.jpg"
+banner: "/assets/images/carnaval_paques21.jpg"
 infos:
   date: 
   teaser: ''
