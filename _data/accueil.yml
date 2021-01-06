@@ -132,21 +132,24 @@ une:
       Dépaysement garanti !
     lieu: Brabant
     age: 5 à 8 ans
-  - name: Futsal
-    titre_overlay: Futsal
-    img: "/assets/images/futsal.jpg"
+  - name: Evasion
+    titre_overlay: Evasion
+    img: "/assets/images/evasionalaune.jpg"
     bouton: Plus d'info
     nouveau: ''
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: "STAGE NOEL DU 21 AU 24 DECEMBRE : \nCe stage prévoit une alternance
-      d'entraînements (technique ballon et technique de jeu) et de petits matchs.\n\nJette
-      : Stage en collaboration avec CB Futsal Jette BXL Cap\nGarderie: Inscription
-      au préalable obligatoire dans les \"Options\" lors de l'inscription. \n\nInscris-toi
-      vite, il reste encore des places !"
-    lieu: Bruxelles
-    age: 6-12 ans
+    description: |-
+      Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !
+
+      PROGRAMME CARNAVAL: New Games, Aqualibi, Ski, Koezio & Space Fun Game
+
+      PROGRAMME PAQUES: New Games, Walibi, Aqualibi, Mer (pas en Pâques 1) & Koezio
+
+      PROGRAMME ETE: New Games, Walibi, mer, barrage de l'Eau d'Heure ou Profondeville, Koezio
+    lieu: Bruxelles / Brabant Wallon
+    age: 12-16 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
