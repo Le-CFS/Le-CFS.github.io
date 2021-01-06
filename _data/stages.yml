@@ -393,9 +393,9 @@ stages:
     infos: []
 - name: Far-west
   categorie: Découvertes sportives et culturelles
-  img: ''
-  online: false
-  nouveau: false
+  img: "/assets/images/farwest.jpg"
+  online: true
+  nouveau: true
   stage_une: false
   inscription: ''
   location:
