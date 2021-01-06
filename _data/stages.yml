@@ -453,8 +453,8 @@ stages:
     infos: []
 - name: Baby Escalade
   categorie: Découvertes sportives et culturelles
-  img: ''
-  online: false
+  img: "/assets/images/escaladedecouverte.png"
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
