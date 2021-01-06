@@ -6,7 +6,7 @@ tags:
 - carnaval
 - pâques
 - '2021'
-title: OUVERTURE DES STAGES
+title: OUVERTURE DES STAGES 2021
 banner: "/assets/images/carnaval_paques-1.jpg"
 infos:
   date: 
