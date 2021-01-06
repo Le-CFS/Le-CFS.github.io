@@ -437,8 +437,8 @@ stages:
     infos: []
 - name: Baby Multisports & Poney
   categorie: Découvertes sportives et culturelles
-  img: ''
-  online: false
+  img: "/assets/images/babymulti-poney.jpg"
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
