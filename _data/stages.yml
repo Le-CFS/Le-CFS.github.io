@@ -470,8 +470,8 @@ stages:
     infos: []
 - name: Baby Danse & Bijoux
   categorie: Découvertes sportives et culturelles
-  img: ''
-  online: false
+  img: "/assets/images/babydanse-bijoux.jpg"
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
