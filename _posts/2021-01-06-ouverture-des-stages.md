@@ -17,11 +17,11 @@ image: "/assets/images/carnaval_paques-1.jpg"
 ---
 **J-6 !**
 
-Dans quelques jours à peine, nous avons le plaisir de vous annoncer l'ouverture des stages de **Carnaval & Pâques 2021.** 
+Dans quelques jours à peine, nous aurons le plaisir de vous annoncer l'ouverture des stages de **Carnaval & Pâques 2021.**
 
-Vous trouverez toutes les informations nécessaires pour vous inscrire ce lundi 11 janvier. 
+Vous trouverez toutes les informations nécessaires pour vous inscrire ce lundi 11 janvier.
 
-En attendant, prenez bien soin de vous et de votre famille. 
+En attendant, prenez bien soin de vous et de votre famille.
 
 A très vite !
 
