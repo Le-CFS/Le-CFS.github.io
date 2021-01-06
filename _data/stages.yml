@@ -409,8 +409,8 @@ stages:
     infos: []
 - name: Equitation Débutant
   categorie: Activités sportives
-  img: ''
-  online: false
+  img: "/assets/images/equitationdebutant.jpg"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
