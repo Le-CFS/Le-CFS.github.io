@@ -424,7 +424,7 @@ stages:
     infos: []
 - name: Bio Mômes
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/biomomes.jpg"
   online: false
   nouveau: false
   stage_une: false
