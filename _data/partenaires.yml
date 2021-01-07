@@ -2,7 +2,7 @@
 liste:
 - name: Asbl ADSL
   categorie: Partenaires de stages
-  logo: ''
+  logo: '/assets/images/partenaires/ADSL.jpg'
   href: https://www.adslstages.be/
   online: non
   bouton: Site Web
