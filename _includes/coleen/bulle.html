@@ -11,7 +11,7 @@
         </div>
         <hr class="small-divider border-white">
         {% unless include.offline == true %}
-        <a href="{% if include.href %}{{ include.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" {% if include.autre_page %}target="_blank"{% endif %} class="btn btn-block btn-{% if include.couleur_bouton %}{{ include.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+        <a href="{% if include.href =='' %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% else %}{{ include.href }}{% endif %}" {% if include.autre_page %}target="_blank"{% endif %} class="btn btn-block btn-{% if include.couleur_bouton %}{{ include.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
         {% endunless %}
         {% if include.offline == true %}
         <button class="btn btn-block btn-{% if include.couleur_bouton %}{{ include.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
