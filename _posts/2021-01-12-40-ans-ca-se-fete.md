@@ -24,7 +24,7 @@ Chaque début du mois _(Janvier à Décembre)_, nous organisons un concours sur 
 
 Si vous êtes chanceux, vous gagnerez la somme de **1200€** _(100€x12mois)_ !
 
-Les stages de **Carnaval & Pâques** approchent à grands, tentez votre chance 🍀
+Les stages de **Carnaval & Pâques** approchent à grands pas, tentez votre chance 🍀
 
 Merci pour tous les moments partagés et ceux à venir ! 🥰
 
