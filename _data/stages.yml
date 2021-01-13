@@ -1,24 +1,120 @@
 ---
 stages:
-- name: Vélo-Mômes
-  categorie: Activités sportives
-  img: ''
+- name: Super pilote
+  categorie: Activités fun
+  img: "/assets/images/kartingetfun.png"
   online: false
-  nouveau: false
+  nouveau: true
   stage_une: false
   inscription: ''
   location:
-  - alias: Liège
-    ville: Liège
-    age: 5-8 ans
-    description: "<p>Ce stage s'adresse aux enfants qui souhaitent apprendre à rouler
-      à deux roues.</p><p>La journée est scindée en 2 :</p><ul><li><p>Une partie de
-      la journée est consacrée à l'apprentissage du vélo. Apprendre à rouler sur deux
-      roues, réaliser des petits parcours d'adresse (slalom,...).</p></li><li><p>Le
-      reste de la journée est consacrée à des activités de multisports.</p></li></ul>"
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8 à 12 ans
+    description: '<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
+      alléchant de ce stage:</p><p>Au matin : simulateur de cours, entrainement physique
+      et coordination oeil-main.</p><p>Le programme de l''après-midi est entièrement
+      consacré au Karting : les apprentis pilotes sont encadrés pas un<strong> formateur
+      du WIK </strong>qui leur apprend les différentes techniques de pilotage, trajectoire,
+      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p><p><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Déplacement au WIK assuré par le CFS.</p>'
+    infos: []
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 12 à 16 ans
+    description: '<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
+      alléchant de ce stage:</p><p>Au matin : simulateur de cours, entrainement physique
+      et coordination oeil-main.</p><p>Le programme de l''après-midi est entièrement
+      consacré au Karting : les apprentis pilotes sont encadrés pas un<strong> formateur
+      du WIK </strong>qui leur apprend les différentes techniques de pilotage, trajectoire,
+      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p><p><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Déplacement au WIK assuré par le CFS.</p>'
+    infos: []
+- name: Mini-Tennis
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/stages/lespetitsbouts/psychosport.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: '6 à 8 ans '
+    description: "<p>Ce stage de tennis associe l'apprentissage du geste technique
+      au plaisir du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine,
+      les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,
+      …) afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire
+      ou en adversaire.</p><p>Des groupes seront formés en fonction des âges et des
+      niveaux : balles molles, mids ou dures. (max. 8 enfants/groupe)</p><p>Un tournoi
+      amical sera organisé en fin de semaine.</p><p>La journée est divisée en 3 périodes
+      de tennis et 1 période de multisports.</p>"
     infos:
-    - alias: Equipement
-      info_line: L'enfant doit venir avec son vélo et son casque.
+    - alias: Raquette à votre disposition
+      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
+        Vous pouvez bien sûr apporter votre propre matériel.
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: '6 à 8 ans '
+    description: "<p>Ce stage de tennis associe l'apprentissage du geste technique
+      au plaisir du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine,
+      les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,
+      …) afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire
+      ou en adversaire.</p><p>Des groupes seront formés en fonction des âges et des
+      niveaux : balles molles, mids ou dures. (max. 8 enfants/groupe)</p><p>Un tournoi
+      amical sera organisé en fin de semaine.</p><p>La journée est divisée en 3 périodes
+      de tennis et 1 période de multisports.</p>"
+    infos:
+    - alias: Raquette à votre disposition
+      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
+        Vous pouvez bien sûr apporter votre propre matériel.
+- name: Judo
+  categorie: Activités sportives
+  img: "/assets/images/judo.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6 à 12 ans
+    description: "<p>Véritable sport éducatif, le Judo permet à chacun de devenir
+      plus adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles,
+      découvrir l’entraide, évaluer ses forces et ses faiblesses pour progresser.
+      </p><p>Le Judo est un sport pour tous qui procure un véritable équilibre. </p><p>Activité
+      de détente et de plaisir. Le Judo est une discipline basée sur l’échange et
+      la progression. L’apprentissage se fait de manière progressive en fonction des
+      aptitudes de l’individu, ce qui permet à chacun d’évoluer à son rythme.</p>"
+    infos: []
+- name: Escalade & VTT
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/escalade-vtt.jpg"
+  online: false
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6 à 8 ans
+    description: ''
+    infos: []
+- name: Aqua multisports
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/aquamultisports.jpg"
+  online: false
+  nouveau: true
+  stage_une: false
+  inscription: Brabant
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6 à 8 ans
+    description: ''
+    infos: []
 - name: Techniques Artistiques
   categorie: Activités artistiques et loisirs
   img: ''
@@ -60,25 +156,6 @@ stages:
     - alias: Equipement
       info_line: Les enfants doivent apporter leur matériel (rollers, casque, coudières,
         protège poignets et genouillères).
-- name: Psycho Bricolage
-  categorie: Les petits bouts
-  img: ''
-  online: false
-  nouveau: false
-  stage_une: false
-  inscription: ''
-  location:
-  - alias: Liège
-    ville: Liège
-    age: 3-5 ans
-    description: "<p>Un stage de psychomotricité qui sera agrémenté quotidiennement
-      d'un éveil artistique par le biais du bricolage et de la peinture.</p><p>Une
-      période de repos est prévue après le temps de midi. </p>"
-    infos:
-    - alias: Tenue de rechange
-      info_line: Prévoir des habits de rechange.
-    - alias: Equipement
-      info_line: L'enfant doit apporter son tablier.
 - name: Psycho Cuisine
   categorie: Les petits bouts
   img: ''
@@ -132,9 +209,9 @@ stages:
     infos: []
 - name: Sciences & Technologies
   categorie: Activités artistiques et loisirs
-  img: ''
-  online: false
-  nouveau: false
+  img: "/assets/images/stages/decouvertesportiveetculturelle/babysavant.png"
+  online: true
+  nouveau: true
   stage_une: false
   inscription: ''
   location:
@@ -144,8 +221,8 @@ stages:
     description: "<p>Lors de ce stage, nos petits scientifiques vont découvrir par
       des petites expériences physiques, chimiques et biologiques le monde des sciences.
       La journée est composée de 3h de sciences et 3h de sport.</p><p>Pour se fondre
-      dans l'univers des Sciences et de la technologie, une excursion est prévue à
-      Technopolis et au zoo d'Anvers !</p>"
+      dans l'univers des sciences et de la technologie, une excursion est prévue à
+      l'Euro Space Center!</p>"
     infos: []
   - alias: Brabant Wallon
     ville: Brabant Wallon
@@ -154,7 +231,7 @@ stages:
       des petites expériences physiques, chimiques et biologiques le monde des sciences.
       La journée est composée de 3h de sciences et 3h de sport.</p><p>Pour se fondre
       dans l'univers des sciences et de la technologie, une excursion est prévue à
-      l'Euro Space Center et Technopolis.</p>"
+      l'Euro Space Center!</p>"
     infos: []
 - name: Quad & Laser
   categorie: Activités fun
@@ -166,7 +243,7 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-16 ans
+    age: 8-12 ans
     description: "<p>Découverte du quad, sports moteur et laser game! Fun et amusement
       garanti!</p><p>Au programme: Quad, E-Moto, Laser Game, Nerf et E-fun (pas de
       E-Fun les semaines de 4 jours)</p><p>Pratique journalière du VTT (bonne condition
@@ -268,15 +345,15 @@ stages:
     - alias: Equipement
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
-- name: Karting - Journée complète
+- name: Karting
   categorie: Activités fun
-  img: ''
-  online: false
-  nouveau: false
+  img: "/assets/images/kartingetfun.png"
+  online: true
+  nouveau: true
   stage_une: false
   inscription: ''
   location:
-  - alias: Karting - Journée complète
+  - alias: Brabant
     ville: Brabant Wallon
     age: 10-16 ans
     description: "<p><em>Stage en partenariat avec le </em><strong><em>WIK - Wavre
@@ -316,24 +393,6 @@ stages:
       info_line: 'Possibilité de faire le stage en journée complète : durant la matinée,
         les jeunes découvrent le quad, la moto ainsi que des ateliers mécanos. ►►
         Inscription à la formule KARTING - JOURNEE COMPLETE'
-- name: Hockey
-  categorie: Activités sportives
-  img: ''
-  online: false
-  nouveau: false
-  stage_une: false
-  inscription: ''
-  location:
-  - alias: Hockey
-    ville: Brabant Wallon
-    age: 6-12 ans
-    description: "<p>Pour les passionnés de ce sport collectif qui a le vent en poupe.
-      Les enfants développent des techniques de self defense, d'attaque et de distribution
-      du jeu. Au programme : perfectionnement des techniques du hockey (passes, shoot,
-      déplacements, démarquage, etc.) avec des petits matchs en fin de journée. Les
-      coaches mettent l'accent sur les notions de fair-play : respect de l'adversaire,
-      des coéquipiers et des arbitres.</p>"
-    infos: []
 - name: Hip Hop
   categorie: Danse et Gymnastique
   img: ''
@@ -350,23 +409,13 @@ stages:
       chorégraphiques debout mais aussi des figures acrobatiques au sol.</p>"
     infos: []
 - name: Fun Laser & VTT
-  categorie: Les petits bouts
-  img: ''
-  online: false
+  categorie: Activités fun
+  img: "/assets/images/boutonsactivites/parascolaires/activitesfun.png"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 8-16 ans
-    description: "<p>Un bel équilibre entre le VTT et le Laser Game.</p><p>Les jeunes
-      apprendront les règles et techniques de base du Laser Game (3x/semaine).</p><p>Pratique
-      intensive du VTT (bonne condition physique nécessaire).</p>"
-    infos:
-    - alias: Equipement
-      info_line: 'Attention : il faut un VTT, un gilet fluo, un cadenas ainsi qu''une
-        chambre à air de rechange le premier jour du stage ! '
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
@@ -377,20 +426,6 @@ stages:
     - alias: Equipement
       info_line: 'Attention : il faut un VTT, un gilet fluo, un cadenas ainsi qu''une
         chambre à air de rechange le premier jour du stage ! '
-- name: Football Féminin
-  categorie: Les petits bouts
-  img: ''
-  online: false
-  nouveau: false
-  stage_une: false
-  inscription: ''
-  location:
-  - alias: Football Féminin
-    ville: Brabant Wallon
-    age: 6-12 ans
-    description: "<p>Ce stage prévoit une alternance d'entraînements (technique ballon
-      et technique de jeu) et de petits matchs.</p>"
-    infos: []
 - name: Far-west
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/farwest.jpg"
@@ -459,7 +494,7 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Baby Escalade
+  - alias: Brabant
     ville: Brabant Wallon
     age: 4-6 ans
     description: "<p>Ce stage propose une séance d'escalade par jour.</p><p>Par cette
@@ -1243,7 +1278,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -1489,37 +1524,29 @@ stages:
       de la gymnastique durant l'année.</p><p>Pour ce stage, il faut de l'expérience
       sur les 4 agrès : poutre, barres asymétriques, sol et sauts.</p>"
     infos: []
-- name: Hip-Hop & Ragga
+- name: Hip-Hop
   img: "/assets/images/stages/danseetgymnastique/hiphopragga.png"
   inscription: ''
   categorie: Danse et Gymnastique
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 9 à 16 ans
+    description: "<p>Ce stage introduit le Hip-hop, un style de danse qui demande
+      de l'énergie pour effectuer des phases chorégraphiques debout mais aussi des
+      figures acrobatiques au sol. Les jeunes danseurs pourront s'essayer aux figures
+      de base et/ou se perfectionner. </p>"
+    infos: []
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 9-16 ans
-    description: Ce stage introduit le Hip-hop, un style de danse qui demande de l'énergie
-      pour effectuer des phases chorégraphiques debout mais aussi des figures acrobatiques
-      au sol. Les jeunes danseurs pourront s'essayer aux figures de base et/ou se
-      perfectionner. Une initation au Ragga est également proposée sur de la musique
-      tropicale très rythmée. Les enfants apprennent à délier leur bassin.
-    infos: []
-- name: Swiss Jump Kids
-  img: "/assets/images/stages/danseetgymnastique/swissjumpkids.png"
-  inscription: ''
-  categorie: Danse et Gymnastique
-  online: false
-  nouveau: false
-  stage_une: false
-  location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 8-16 ans
-    description: Lors de ce stage, les enfants découvrent le Swiss Jump (mini trampoline
-      individuel). Ils présentent, en fin de semaine, une chorégraphie sur le trampoline
-      ainsi qu'une chorégraphie sur le style de danse choisi.
+    description: "<p>Ce stage introduit le Hip-hop, un style de danse qui demande
+      de l'énergie pour effectuer des phases chorégraphiques debout mais aussi des
+      figures acrobatiques au sol. Les jeunes danseurs pourront s'essayer aux figures
+      de base et/ou se perfectionner. </p>"
     infos: []
 - name: Aventure
   img: "/assets/images/stages/activitesfun/aventure.png"
@@ -1711,20 +1738,16 @@ stages:
   inscription: ''
   categorie: Activités fun
   online: false
-  nouveau: false
+  nouveau: true
   stage_une: false
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 10-16 ans
-    description: |-
-      Un super mélange entre activités fun et VTT. Un programme super alléchant!
-
-      **PROGRAMME CARNAVAL**: VTT, paintball/moto, Jumps XL/Ko, laser game.
-
-      **PROGRAMME PAQUES**: VTT, paintball/moto, laser game, Jump XL/KO (pas E4).
-
-      **PROGRAMME ETE**: VTT, paintball/moto, laser game, Jump XL/KO.
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8 à 12 ans
+    description: "<p>Un super mélange entre activités fun et VTT. Un programme super
+      alléchant! PROGRAMME CARNAVAL: VTT, paintball/moto, Jumps XL/Ko, laser game.
+      PROGRAMME PAQUES: VTT, paintball/moto, laser game, Jump XL/KO PROGRAMME ETE:
+      VTT, paintball/moto, laser game, Jump XL/KO.</p>"
     infos:
     - alias: Condition physique
       info_line: Une bonne condition physique est indispensable.
@@ -1782,26 +1805,6 @@ stages:
     infos:
     - alias: Fair-play
       info_line: Fair-play et esprit de coopération sont requis pour ce stage !
-- name: Pilote Academy
-  img: "/assets/images/stages/activitesfun/kartingetfun.png"
-  inscription: ''
-  categorie: Activités fun
-  online: true
-  nouveau: false
-  stage_une: false
-  location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 10-16 ans
-    description: "<p>Tu es le futur champion du monde en F1 ?</p><p>Voici le programme
-      alléchant de ce stage :</p><p>Au matin : simulateur de cours, entrainement physique
-      et coordination œil-main.</p><p>Le programme de l'après-midi est entièrement
-      consacré au Karting : les apprentis pilotes sont encadrés pas un<strong> formateur
-      du WIK </strong>qui leur apprend les différentes techniques de pilotage, trajectoire,
-      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p>"
-    infos:
-    - alias: Navette
-      info_line: Déplacement au WIK assuré par le CFS. 
 - name: Skate Pro
   img: "/assets/images/stages/activitesfun/skatepro.png"
   inscription: ''
@@ -1950,7 +1953,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 8-12 ans
+    age: 7-12 ans
     description: "<p>Tu veux découvrir les jeux aquatiques et des activités fun ?</p><p>Ce
       stage est fait pour toi !</p><p>Chaque jour, pendant 2 heures, tu pourrais découvrir,
       par exemples, le waterpolo, les techniques de sauvetage,…</p><p>Le reste de
@@ -2118,14 +2121,32 @@ stages:
     - alias: Equipement
       info_line: 'Se munir de 2 paires de chaussures (baskets ou de foot) : 1 pour
         l''intérieur et l''autre pour l''extérieur.'
-- name: Football Euro 2020
-  img: "/assets/images/stages/activitessportives/footballeuro2020.png"
+- name: Football Euro 2021
+  img: "/assets/images/euro2021.jpg"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
-  nouveau: false
+  categorie: Activités sportives
+  online: true
+  nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6 à 14 ans
+    description: "<p>Un stage entièrement dédié au football !</p><ul><li><p>Apprentissage
+      des 4 thèmes fondamentaux (contrôle de balle, passe, dribble et tir au but)</p></li><li><p>Psychomotricité
+      et coordination des membres</p></li><li><p>Développement des qualités morales
+      indispensables à l’équilibre du jeune footballeur</p></li><li><p>Assimilation
+      du respect du jeu et du FAIR-PLAY</p></li><li><p>Grand tournoi en fin de semaine</p></li></ul>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6 à 14 ans
+    description: "<p>Un stage entièrement dédié au football !</p><ul><li><p>Apprentissage
+      des 4 thèmes fondamentaux (contrôle de balle, passe, dribble et tir au but)</p></li><li><p>Psychomotricité
+      et coordination des membres</p></li><li><p>Développement des qualités morales
+      indispensables à l’équilibre du jeune footballeur</p></li><li><p>Assimilation
+      du respect du jeu et du FAIR-PLAY</p></li><li><p>Grand tournoi en fin de semaine</p></li></ul><p></p>"
+    infos: []
 - name: Fun & Multisports
   img: "/assets/images/stages/activitessportives/funetmulti.png"
   inscription: ''
@@ -2272,9 +2293,16 @@ stages:
   nouveau: true
   stage_une: false
   location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 7 à 16 ans
+    description: "<p>Le padel est un sport de raquettes dérivé du tennis et du squash.
+      Ce sport très ludique est accessible aux débutants. Venez découvrir ce nouveau
+      sport qui allie tactique, coordination et le plaisir du jeu !</p>"
+    infos: []
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-16 ans
+    age: 7-16 ans
     description: "<p>Le padel est un sport de raquettes dérivé du tennis et du squash.
       Ce sport très ludique est accessible aux débutants. Venez découvrir ce nouveau
       sport qui allie tactique, coordination et le plaisir du jeu !</p>"
@@ -2305,24 +2333,6 @@ stages:
   nouveau: false
   stage_une: false
   location: []
-- name: Pilotes Academy
-  img: "/assets/images/stages/activitessportives/piloteacademy.png"
-  inscription: ''
-  categorie: Activités sportives
-  online: true
-  nouveau: false
-  stage_une: false
-  location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 10-16 ans
-    description: "<p>Ce stage permet de se perfectionner en tant que pilote. Concentration,
-      adrénaline et amusement ! Au programme, maîtrise des différents véhicules :
-      motos, quads et trottinettes. Egalement des courses de cuistax et tricycles
-      dans notre circuit gonflable. Les plus aguerris ont l’occasion de rouler avec
-      des quads thermiques. Afin de sensibiliser les jeunes au respect du matériel,
-      des ateliers de mécano sont également prévus durant la semaine.</p>"
-    infos: []
 - name: Tennis de table
   img: "/assets/images/stages/activitessportives/pingpong.png"
   inscription: ''
@@ -2595,7 +2605,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 8-12 ans
+    age: 7-12 ans
     description: "<p>Tu aimes utiliser la visseuse ou la foreuse de papa ? Ce stage
       est fait pour toi !</p><p>Durant la journée, tu manipuleras différents outils
       pour construire un jeu en bois, que tu ramèneras chez toi.</p><p>La journée
@@ -2641,29 +2651,6 @@ stages:
       viens !</p><p>Dansons, chantons, jouons au théâtre tous ensemble !</p><p>Mais,
       très important, la journée commence par un échauffement, des vocalises,...</p><p>Spectacle
       en fin de semaine !</p>"
-    infos: []
-- name: Compo Musicale & Sport
-  img: "/assets/images/stages/activitesartistiquesetloisirs/compomusicale.png"
-  inscription: ''
-  categorie: Activités artistiques et loisirs
-  online: true
-  nouveau: false
-  stage_une: false
-  location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 8-12 ans
-    description: <p>Encadré par un jeune compositeur, les enfants apprennent à travailler
-      sur Fruity Loops Studio (deux par ordinateur). Ils enregistrent leur voix et
-      leur composition musicale (sur base de partition) à l'aide d'un synthétiseur
-      ou d'un instrument rapporté de la maison. Tout le matériel se trouve sur place
-      afin de leur permettre de s'enregistrer et de "trafiquer" les sons en rajoutant
-      des basses ou d'autres mélodies. </p><p>Pour ce stage, il n'y a pas de prérequis
-      musical mais il faut simplement une envie de découvrir le monde de la composition.
-      </p><p>En fin de semaine, les parents seront invités, autour d'un verre, à écouter
-      ou à voir le travail des enfants tout au long de la création de leur musique.
-      Les enfants repartent avec leur composition sur format USB. </p><p>Les moments
-      de composition et périodes de sports s'alterneront durant la journée.</p>
     infos: []
 - name: Débrouillard
   img: "/assets/images/stages/activitesartistiquesetloisirs/debrouillard.png"
@@ -2730,26 +2717,6 @@ stages:
     infos:
     - info_line: Il ne faut donc prévoir à manger pour votre enfant que le vendredi.
       alias: Repas
-- name: Food & Pleasure
-  img: "/assets/images/stages/activitesartistiquesetloisirs/foodandpleasure.png"
-  inscription: ''
-  categorie: Activités artistiques et loisirs
-  online: true
-  nouveau: false
-  stage_une: false
-  location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 6-8 ans
-    description: "<p><em>Stage en partenariat avec </em><strong><em>Food &amp; Pleasure</em></strong></p><p>Notre
-      gentil petit monstre gourmand Gloopy s'intéresse aux fruits et légumes de saison
-      : panier de saison, tests à l'aveugle, boites mystères, éveil des 5 sens et
-      bien sûr, préparation de savoureuses recettes saines et gourmandes ! Les après-midis
-      sont consacrées à des activités de multisports.</p>"
-    infos:
-    - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription. '
 - name: Immersion Anglais
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersionanglais.png"
   inscription: ''
@@ -2854,24 +2821,6 @@ stages:
     description: "<p>Tu veux progresser en magie ?</p><p>Grace à ce stage 100% magie
       tu progresseras pour devenir un pro.</p><p>La concentration et l'écoute sont
       des qualités nécessaires pour apprendre de nouveaux tours !</p>"
-    infos: []
-- name: Photo Argentique
-  img: "/assets/images/stages/activitesartistiquesetloisirs/photoargentique.png"
-  inscription: ''
-  categorie: Activités artistiques et loisirs
-  online: true
-  nouveau: false
-  stage_une: false
-  location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 8-14 ans
-    description: "<p>Ce stage propose de découvrir le monde de la photographie argentique
-      en noir &amp; blanc en partant de la prise de vue jusqu'au développement en
-      chambre noire. Manipulation de l'appareil photo, observation de la lumière,
-      ateliers récréatifs, construction d'une image en comprenant sa signification
-      le tout en jouant au petit chimiste. </p><p>A la fin du stage, ils repartiront
-      avec leurs photographies qu’ils auront mises en valeur dans un album souvenir.</p>"
     infos: []
 - name: Robotique
   img: "/assets/images/stages/activitesartistiquesetloisirs/robotique.png"
@@ -3098,33 +3047,4 @@ stages:
     - alias: Moniteur
       info_line: Les enfants restent avec le même moniteur et ont leur propre local
         toute la semaine.
-- name: Bulle Ado
-  img: "/assets/images/stages/activitesfun/bulleado.png"
-  inscription: ''
-  categorie: Activités fun
-  online: true
-  nouveau: true
-  stage_une: false
-  location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 12-16 ans
-    description: "<p>Afin de laisser place au suspens et de permettre à chaque moniteur
-      de créer un stage original et varié, le programme sera adapté en fonction de
-      son organisation et de l'âge moyen du groupe.</p><p>Parmi les différentes activités
-      possibles : Technopolis, Euro-Space Center, Chevetogne, Cinéma, bowling, Profondville
-      (boués tractées, kayak, pedalo) Renipont plage, Barbecue , piscine au bois des
-      rêves, Visite de musées/Culturels, Patinoire à Leuven et découverte de la ville,
-      journée à la mer... et éventuellement d'autres activités en fonction des initiatives
-      de nos moniteurs.</p>"
-    infos:
-    - alias: Retour
-      info_line: Pour le retour, les horaires varieront en fonction des lieux d'activités
-        et de la circulation.
-    - alias: Déplacement
-      info_line: 'Tous les déplacements se font en autocar. il est possible de déposer
-        votre enfant sur le chemin si vous donnez une autorisation de sortie. '
-    - alias: Profondeville
-      info_line: Toutes les activités n'auront pas lieu chaque semaine à l'exception
-        de Profondeville.
 activites: []
