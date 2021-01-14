@@ -2596,13 +2596,12 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
-      sa créativité ? Ce stage est fait pour lui !</p><p>Il apprendra, tout en s'amusant,
-      quelques techniques d'art plastique : modelage, collage, dessin, etc.</p><p>Votre
+      sa créativité ? Ce stage est fait pour lui ! </p><p>Il apprendra, tout en s'amusant,
+      quelques techniques d'art plastique : modelage, collage, dessin, peinture, etc.</p><p>Votre
       enfant ramènera toutes ses œuvres à la maison !</p>"
     infos:
-    - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription. '
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.
     age: 6-12 ans
   - alias: Bruxelles
     ville: Bruxelles
