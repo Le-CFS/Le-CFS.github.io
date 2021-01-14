@@ -1181,7 +1181,7 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 4 à 6 ans
+    age: 4-6 ans
     description: "<p><em>Stage en collaboration avec </em><strong><em>Circomodo</em></strong></p><p>Tu
       es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu découvriras les arts
       du cirque à travers différents jeux : jonglage, équilibre, pyramide humaine,
