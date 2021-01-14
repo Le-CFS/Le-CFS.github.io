@@ -980,13 +980,16 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p><strong>Envie de devenir danseuse ?</strong></p><p>Ce stage offre
-      une initiation au rythme à travers l'apprentissage de différentes chorégraphies
-      adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du
-      mouvement.</p><p>Le stage est complété par des activités artistiques (bricolage,
-      confection de bijoux,...) et de multisports.</p><p>Un petit spectacle est prévu
-      à la fin de la semaine pour les parents !</p>"
-    infos: []
+    description: "<p>Votre petit bout adore se trémousser dès que vous allumez la
+      musique ? <br>Ce stage d'initiation à la danse est parfait pour lui ! </p><p>Ce
+      stage offre une initiation au rythme à travers l'apprentissage de différentes
+      chorégraphies adaptées aux plus petits. Il va permettre aux enfants d'acquérir
+      les bases du mouvement sur des musiques actuelles.</p><p>Le stage est complété
+      par des activités artistiques (bricolage, confection de bijoux,...) et de multisports.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Un petit spectacle est prévu à la fin de la semaine (en fonction
+        des possibilités covid).
 - name: Baby Foot
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyfoot.png"
   inscription: ''
