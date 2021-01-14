@@ -917,7 +917,12 @@ stages:
       et des règles élémentaires de sécurité.</p><p>Le reste de la journée est consacré
       à des activités de multisports comme la baby danse, le baby foot ou la baby
       gym.</p>"
-    infos: []
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur. 
+    - alias: Apporter son propre vélo
+      info_line: L'enfant doit venir avec son vélo en bon état et son casque. Les
+        enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
@@ -934,7 +939,7 @@ stages:
       info_line: L'enfant doit venir avec son vélo en bon état et son casque. Les
         enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
     - alias: Tenue adaptée
-      info_line: L'enfant doit venir avec son vélo en bon état et son casque.
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur. 
 - name: Astucieux
   img: "/assets/images/stages/decouvertesportiveetculturelle/astucieux.png"
   inscription: ''
