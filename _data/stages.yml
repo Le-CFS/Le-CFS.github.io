@@ -105,7 +105,7 @@ stages:
 - name: Aqua multisports
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/aquamultisports.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: Brabant
@@ -113,7 +113,13 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 6 à 8 ans
-    description: ''
+    description: "<p>Tu veux découvrir différents jeux aquatiques ?</p><p>Ce stage
+      est l'idéal si tu aimes passer du temps dans l'eau tout en t'amusant !</p><p>Chaque
+      jour, pendant 2 heures, tu pourras découvrir, par exemple, le waterpolo, les
+      techniques de sauvetage, des parcours sur eau, ou encore t’exercer à faire de
+      l'apnée.</p><p>Le reste de la journée est consacré à des activités de multisports
+      en extérieur comme du unihoc, basketball, crosse canadienne, ball bouncer, ou
+      baseball.</p>"
     infos: []
 - name: Techniques Artistiques
   categorie: Activités artistiques et loisirs
