@@ -120,7 +120,11 @@ stages:
       l'apnée.</p><p>Le reste de la journée est consacré à des activités de multisports
       en extérieur comme du unihoc, basketball, crosse canadienne, ball bouncer, ou
       baseball.</p>"
-    infos: []
+    infos:
+    - alias: Tenue à prévoir
+      info_line: Prévoir un maillot, un essuie, un bonnet, ainsi qu’une tenue de sport.
+    - info_line: Les jeunes doivent savoir nager le 50m.
+      alias: Savoir nager le 50m
 - name: Techniques Artistiques
   categorie: Activités artistiques et loisirs
   img: ''
