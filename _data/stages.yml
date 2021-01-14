@@ -1646,22 +1646,16 @@ stages:
       activités en extérieur comme des jeux dans les bois, une chasse à l'homme, un
       cache-cache 21, ou encore un stratégo géant. Si la météo n'est pas clémente,
       les activités se feront en intérieur dans les centres sportifs.</p><p><strong><em>ATTENTION
-      :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p><p><strong>Prévoir
-      une paire de bottines ainsi que des vêtements adaptés aux activités d’extérieur
-      et d'intérieur.</strong></p><p><strong>Certaines activités demandent un déplacement
-      en transport en commun assuré par nos soins.</strong></p><p>Nos partenaires
-      prennent toutes les mesures d’hygiène et sanitaires concernant le Covid-19.</p>"
+      :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p><p>Nos
+      partenaires prennent toutes les mesures d’hygiène et sanitaires concernant le
+      Covid-19.</p>"
     infos:
-    - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription. '
     - alias: Vêtements extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
         activités d’extérieur et d'intérieur.
     - alias: Navette
-      info_line: Certains déplacements se feront en transport en commun ou en car
-        assuré par le CFS. Nos partenaires prennent toutes les mesures d’hygiène et
-        sanitaires concernant le Covid-19
+      info_line: Certaines activités demandent un déplacement en transport en commun
+        assuré par nos soins.
   - alias: Liège
     ville: Liège
     age: 8-12 ans
