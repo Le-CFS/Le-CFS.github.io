@@ -918,6 +918,9 @@ stages:
       à des activités de multisports comme la baby danse, le baby foot ou la baby
       gym.</p>"
     infos:
+    - alias: Apporter son propre vélo
+      info_line: L'enfant doit venir avec son vélo en bon état et son casque. Les
+        enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
     - alias: Tenue adaptée
       info_line: L'enfant doit venir avec son vélo en bon état et son casque.
 - name: Astucieux
