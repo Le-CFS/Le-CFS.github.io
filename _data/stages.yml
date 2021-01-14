@@ -961,11 +961,14 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-8 ans
-    description: "<p>Votre enfant veut être un vrai petit débrouillard ?</p><p>Ce
-      stage est fait pour lui !</p><p>Au programme, réparation de son vélo, apprentissage
-      des techniques de nœuds, escalade, self défense, lire une carte,...</p><p><strong><em>Dernier
-      jour : Construction d’un bivouac en toute autonomie</em></strong></p>"
-    infos: []
+    description: "<p>Votre enfant veut être un vrai petit débrouillard ? Ce stage
+      est fait pour lui ! </p><p>Au programme : réparation d'un vélo (changer un pneu,
+      refaire la chaîne), apprentissage des techniques de noeuds, lecture d'une carte,
+      course d'orientation, jeux de piste,...</p><p>Ce stage est l'idéal pour apprendre
+      à se débrouiller seul et gagner en autonomie !</p>"
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur.
 - name: Baby Danse
   img: "/assets/images/stages/decouvertesportiveetculturelle/babydansetgym.png"
   inscription: ''
@@ -2607,13 +2610,12 @@ stages:
     ville: Bruxelles
     age: 6-12 ans
     description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
-      sa créativité ? Ce stage est fait pour lui !</p><p>Il apprendra, tout en s'amusant,
-      quelques techniques d'art plastique : modelage, collage, dessin, etc.</p><p>Votre
+      sa créativité ? Ce stage est fait pour lui ! </p><p>Il apprendra, tout en s'amusant,
+      quelques techniques d'art plastique : modelage, collage, dessin, peinture, etc.</p><p>Votre
       enfant ramènera toutes ses œuvres à la maison !</p>"
     infos:
-    - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription. '
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.
 - name: Bande Dessinée
   img: "/assets/images/stages/activitesartistiquesetloisirs/bd.png"
   inscription: ''
