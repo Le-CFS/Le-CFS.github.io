@@ -524,16 +524,17 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 4-6 ans
-    description: '<p>Tu désires allier sport et créativité ? </p><p>Ce stage offre
-      une initiation au rythme à travers l''apprentissage de différentes chorégraphies
-      adaptées aux plus petits. Il va permettre aux enfants d''acquérir les bases
-      du mouvement.</p><p>Les enfants auront également l''occasion de participer des
-      activités de création de magnifiques bijoux : bracelets, colliers,...</p><p>Les
-      enfants pourront évidemment repartir avec leur confection en fin de stage !</p><p>Chaque
-      journée de stage est complétée par une période d''activités multisports en extérieur
-      : baseball, uni hoc, crosse canadienne, basketball, etc.</p><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened"><strong>Matériel fourni par le CFS.</strong></p>'
+    description: "<p>Tu désires allier sport et créativité ? </p><p>Ce stage offre
+      une initiation au rythme à travers l'apprentissage de différentes chorégraphies
+      adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du
+      mouvement.</p><p>Les enfants auront également l'occasion de participer des activités
+      de création de magnifiques bijoux : bracelets, colliers,...</p><p>Les enfants
+      pourront évidemment repartir avec leur confection en fin de stage !</p><p>Chaque
+      journée de stage est complétée par une période d'activités multisports en extérieur
+      : baseball, uni hoc, crosse canadienne, basketball, etc.</p>"
     infos:
+    - alias: Matériel
+      info_line: Matériel fourni par le CFS.
     - info_line: Un spectacle et une exposition des bijoux sont prévus en fin de stage
         (entre 15h et 16h selon les possibilités avec le covid).
       alias: Spectacle
