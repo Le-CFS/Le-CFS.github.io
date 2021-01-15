@@ -1865,13 +1865,20 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-14 ans
-    description: "<p><em>Stage en partenariat avec </em><strong><em>Royal Tempo Gym</em></strong></p><p>Durant
-      ce stage, les enfants vont découvrir les plaisirs de la gymnastique par un travail
-      aux agrès dans le but de développer les qualités de base de cette discipline
-      (force, souplesse, équilibre et audace) à raison de 2 séances par jour. Les
-      2 autres séances de la journée leur permettront de découvrir d'autres disciplines
-      sportives.</p>"
-    infos: []
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Royal Tempo Gym</em></strong></p><p>Votre
+      enfant souhaite s'initier à la gymnastique ? </p><p>Durant ce stage, les enfants
+      vont découvrir les plaisirs de la gymnastique par un travail aux 4 agrès : poutre,
+      barres asymétriques, sol et sauts.</p><p>Ils développeront les qualités de base
+      de cette discipline (force, souplesse, équilibre et audace) à raison de 3 séances
+      par jour.</p><p>La dernière séance de la journée est consacrée à la découverte
+      d'autres disciplines sportives.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
+        avec le Covid).
+    - alias: Tenue adaptée
+      info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
+        gym.
 - name: Gym Pro
   img: "/assets/images/stages/danseetgymnastique/gympro.png"
   inscription: ''
