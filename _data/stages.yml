@@ -2355,17 +2355,17 @@ stages:
       de soi et la gestion du vertige.</p><p>Le reste de la journée est consacré aux
       activités de multisports et new games. Différentes activités fun sont proposées
       telles que le frisbee golf, le snag golf, le spikeball, le kinball, le flag
-      foot, ou encore le ball bouncer.</p><ul><li><p>Pour les stages à Uccle, le mur
-      d'escalade se trouve au Centre Sportif Mounier, à Woluwe-Saint-Lambert.</p></li><li><p>Pour
-      les stages à Jette, le mur d'escalade se trouve au Brussels Monkey Climbing
-      à Molenbeek.</p></li></ul>"
+      foot, ou encore le ball bouncer.</p><ul><li><p>Pour les stages à <strong>Uccle</strong>,
+      le mur d'escalade se trouve au <em>Centre Sportif Mounier, à Woluwe-Saint-Lambert.</em></p></li><li><p>Pour
+      les stages à <strong>Jette</strong>, le mur d'escalade se trouve au <em>Brussels
+      Monkey Climbing à Molenbeek.</em></p></li></ul>"
     infos:
-    - alias: Moniteurs
-      info_line: Les activités d'escalade sont assurées par des moniteurs possédant
-        le CATAGSAE.
     - alias: Transports
       info_line: Les enfants se déplacent en transports en commun tous les jours vers
         le mur d'escalade.
+    - alias: Moniteurs
+      info_line: Les activités d'escalade sont assurées par des moniteurs possédant
+        le CATAGSAE.
   - alias: Liège
     ville: Liège
     age: 7-12 ans
