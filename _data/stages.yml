@@ -2929,10 +2929,52 @@ stages:
   img: "/assets/images/stages/activitessportives/piloteacademy.png"
   inscription: ''
   categorie: Les petits bouts
-  online: false
-  nouveau: false
+  online: true
+  nouveau: true
   stage_une: false
-  location: []
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Tu veux découvrir les vraies sensations d'un pilote ? Adrénaline,
+      amusement et FUN seront au rendez-vous !</p><p>Ce stage destiné aux enfants
+      de <strong>8 à 12 ans</strong>, permet de s'initier et de se perfectionner à
+      la conduite d'un quad thermique. Lors du stage, un quad est prévu pour trois
+      enfants.</p><p>Dès l'arrivée, les enfants seront briefés et répartis en deux
+      sous-groupes en fonction de leur niveau. Pour les débutants, les bases du pilotage
+      seront vues, et pour les intermédiaires et confirmés, les techniques de pilotage
+      seront approfondies.</p><p>En fonction du niveau, toutes les techniques de pilotage
+      du quad sont abordées : vitesse, freinage, virage et relance. Les plus aguerris
+      auront également l'opportunité de s'essayer à la moto automatique et manuelle.</p><p>2h
+      de quad sont prévues le matin et 2h l'après-midi. Les enfants apprendront également
+      à entretenir et respecter le matériel. Ils auront la possibilité de faire des
+      activités fun entre les temps de roulage <em>(frisbee golf, snag golf, spikeball,
+      kinball, flag foot)</em> et de s'initier au segway et à la trottinette électrique
+      (1 pour trois enfants).</p><p>Avec la répétition des séances, l'évolution est
+      très rapide. Les pilotes progressent techniquement et apprennent à maitriser
+      leur quad.</p><p>Une simulation de pilotage est prévue une après-midi du stage
+      au centre de réalité virtuelle de Wavre.</p>"
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une paire de bottines, des vêtements adaptés aux activités
+        en extérieur, ainsi qu'une tenue de rechange en cas de mauvais temps. Pantalon
+        long obligatoire.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
+      te permettra de découvrir les sensations d’un vrai pilote : concentration, adrénaline
+      et amusement ! </p><p><strong>Au programme : </strong>une journée de quad, une
+      journée e-moto, une journée e-fun (segway et trottinette électrique), une journée
+      e-fun sur Playstation, et une journée de karting au WIK Wavre.</p><p>Le reste
+      de la journée est complété par des activités multisports.</p><p><strong>Le CFS
+      se donne le droit d'annuler le stage d'un enfant qui ne respecterait pas les
+      différentes règles de sécurité.</strong></p>"
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée au activités en extérieur.
+    - alias: Transports
+      info_line: Les transports sont assurés par le CFS.
 - name: Tennis de table
   img: "/assets/images/stages/activitessportives/pingpong.png"
   inscription: ''
@@ -2953,19 +2995,28 @@ stages:
 - name: Plongée
   img: "/assets/images/stages/activitessportives/plongee.png"
   categorie: Activités sportives
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 9-14 ans
-    description: "<p>Ce stage propose une initiation à la plongée sous-marine pour
-      les enfants sachant nager au minimum 100 mètres. Au programme: 3 heures de plongée
-      par groupe de 6, technique d'apnée, technique de bouteille, jeux aquatiques...</p>"
+    description: "<p>Tu rêves du grand bleu ?</p><p>Viens apprendre les techniques
+      de base de l'apnée, de la pression, de la sécurité, de l'utilisation de la bouteille.</p><p>Des
+      jeux aquatiques sont également au programme !</p><p><strong>Demi-journée:<br></strong>L'activité
+      de plongée est prévue de 9h à 12h.<br>L'après-midi est consacré à un autre stage
+      au choix dans le centre sportif de <strong>Rixensart :</strong> badminton, football,
+      sports raquettes, GRS, activités Fun ou bande dessinée.</p><p><strong>Journée
+      complète:<br></strong>L'activité de plongée est prévue de 9h à 12h. Le reste
+      de la journée est consacré à du multisports : unihoc, basketball, ball bouncer,
+      crosse canadienne ou encore baseball.</p>"
     infos:
-    - alias: Partenariat
-      info_line: Stage en partenariat avec EPST - Ecole de Plongée Sportive et Technique
+    - alias: Equipement
+      info_line: Prévoir un maillot, un essuie, et un bonnet, ainsi qu'une tenue de
+        sport.
+    - alias: Nager 100 m.
+      info_line: Les enfants doivent savoir nager 100 m.
   inscription: ''
 - name: Sports Raquettes
   img: "/assets/images/stages/activitessportives/raquettes.png"
