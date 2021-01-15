@@ -1435,12 +1435,19 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Tu souhaites devenir un pilote de drone ? Ce stage est fait pour
-      toi !</p><p>Nous t'avons concocté un programme varié, fun et ludique.</p><p>Une
-      partie de la journée sera consacrée à la <strong>découverte et à la manipulation
-      de drones,</strong> aussi bien <strong>aquatiques</strong> qu'<strong>aériens.</strong></p><p>L'autre
-      partie de la journée sera consacrée au <strong>Laser Game.</strong></p>"
-    infos: []
+    description: "<p>Tu es fasciné par les drones et tu rêves d'apprendre à en piloter
+      un ? Ce stage est fait pour toi.</p><p>Nous t'avons concocté un programme varié,
+      fun et ludique.</p><p>Une partie de la journée sera consacrée à la <strong>découverte
+      et à la manipulation de drones,</strong> aussi bien <strong>aquatiques</strong>
+      qu'<strong>aériens.</strong></p><p>A tour de rôle, les enfants auront la chance
+      d’apprendre à piloter un drone et à le manier entre différents circuits. Environ
+      4 drones sont prévus pour 8-10 enfants.</p><p>L'autre partie de la journée sera
+      consacrée au <strong>Laser Game </strong>(3x/semaine)<strong> </strong>et à
+      des<strong> activités fun </strong>en extérieur<strong> </strong>(2x/ semaine)
+      : frisbee golf, snag golf, spike ball, kinball, slag foot.</p>"
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur.
 - name: Escalade Découverte
   img: "/assets/images/stages/decouvertesportiveetculturelle/escaladedecouverte.png"
   inscription: ''
