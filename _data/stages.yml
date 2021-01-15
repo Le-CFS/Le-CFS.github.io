@@ -1622,12 +1622,17 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: "<p>Les explorateurs découvrent le monde qui les entoure via des
-      activités manuelles de création, des séances d'observation, des jeux collectifs
-      et chasse au trésor !</p><p>Deux excursions inoubliables sont également prévues
-      au programme lors de la semaine ! Zoo D'Anvers et Technopolis. Découvertes et
-      explorations garanties !</p>"
-    infos: []
+    description: <p>Un petit explorateur sommeille en toi ?</p><p>Les explorateurs
+      découvrent le monde qui les entoure via des activités manuelles de création,
+      des séances d'observation, des jeux collectifs et chasse au trésor !</p><p>Une
+      excursion inoubliable à Technopolis est également prévue au programme lors de
+      la semaine ! Découvertes et explorations garanties !</p><p>Se sentir bien, être
+      bien dans la nature, prendre son temps, et apprendre à observer sont les mots
+      d'ordre de la semaine ! </p><p><strong><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les transports sont assurés par le CFS.</strong></p>
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée aux activités en extérieur.
 - name: Expression Corporelle & Sport
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
   inscription: ''
