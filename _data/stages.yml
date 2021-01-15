@@ -3456,10 +3456,17 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p>Tu veux progresser en magie ?</p><p>Grace à ce stage 100% magie
-      tu progresseras pour devenir un pro.</p><p>La concentration et l'écoute sont
-      des qualités nécessaires pour apprendre de nouveaux tours !</p>"
-    infos: []
+    description: "<p>Tu rêves d'épater tes proches avec de nouveaux tours ?</p><p>Tu
+      passeras, grâce à un magicien ayant plein de tours dans son sac, une semaine
+      100% magique !</p><p>Tu découvriras le monde de l’illusion et de la manipulation.</p><p>Tu
+      apprendras, par petits groupes, à maîtriser différents tours de magie : disparition
+      d'une pièce, jeu des gobelets, jeux de dés, tours de cartes, réalisation de
+      calculs complexes grâce au mental log, etc.</p><p>La concentration et l'écoute
+      sont des qualités essentielles pour apprendre de nouveaux tours !</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Une petite démonstration de quelques tours appris est prévue en fin
+        de semaine (selon les possibilités avec le Covid).
 - name: Robotique
   img: "/assets/images/stages/activitesartistiquesetloisirs/robotique.png"
   inscription: ''
