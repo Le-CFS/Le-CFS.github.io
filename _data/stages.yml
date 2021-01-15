@@ -2072,18 +2072,31 @@ stages:
   img: "/assets/images/stages/activitesfun/funvtt.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   location:
   - alias: Brabant
     ville: Brabant Wallon
     age: 8 à 12 ans
-    description: "<p>Un super mélange entre activités fun et VTT. Un programme super
-      alléchant! PROGRAMME CARNAVAL: VTT, paintball/moto, Jumps XL/Ko, laser game.
-      PROGRAMME PAQUES: VTT, paintball/moto, laser game, Jump XL/KO PROGRAMME ETE:
-      VTT, paintball/moto, laser game, Jump XL/KO.</p>"
+    description: '<p>Votre enfant est un vrai biker à la recherche de FUN et d’adrénaline
+      ? Il n’aura pas le temps de s’ennuyer avec ce stage !</p><p>Chaque jour les
+      enfants pratiqueront du VTT une partie de la journée. Ils alterneront parcours
+      sur la route et dans les bois, apprendront à dévaler les descentes et à faire
+      des sauts.</p><p>La semaine de stage promet une pratique intensive du VTT, les
+      enfants doivent être capables de rouler 8km par jour.</p><p>Le restant de la
+      journée est complété par des activités <strong>fun</strong> <strong>games</strong>
+      (frisbee golf, snag golf, spike ball, kinball, slag foot), du <strong>laser
+      game</strong> ou de l''<strong>arrow game </strong>(jeux de flèches : prises
+      de château, courses de lapin, jeux de rôle avec des épées, chevaliers et majes).</p><p><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Attention : il faut un VTT, un cadenas,
+      une chambre à air de rechange, ainsi qu’un casque dès le premier jour du stage
+      !</p>'
     infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur. Prévoir
+        également une tenue de rechange en fonction de la météo.
     - alias: Condition physique
       info_line: Une bonne condition physique est indispensable.
     - alias: Matériel
