@@ -2,9 +2,9 @@
 stages:
 - name: Sports Raquettes & VTT
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/raquettes.png"
   online: true
-  nouveau: false
+  nouveau: true
   stage_une: false
   inscription: ''
   location:
