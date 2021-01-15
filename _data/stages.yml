@@ -3146,8 +3146,18 @@ stages:
     ville: Brabant Wallon
     age: 6-12 ans
     description: "<p>Durant ce stage, l'accent sera mis sur la maîtrise de soi, le
-      respect de l'autre et l'art de se défendre en toute simplicité.</p>"
-    infos: []
+      respect des règles et de l'autre, et l'art de se défendre en toute simplicité.</p><p>La
+      matinée, les enfants apprendront différentes techniques pour se prémunir d'un
+      danger qui pourrait leur faire face à l'aide de leurs mains et pieds : techniques
+      d'évitement, de défense, etc. Cet apprentissage leur permettra de développer
+      agilité, force et coordination.</p><p>L'après-midi, les enfants auront l'occasion
+      de rejoindre un autre stage au choix dans le centre sportif :</p><ul><li><p><strong>A
+      Rixensart :</strong> badminton, football, sports raquettes, GRS, activités Fun
+      ou bande dessinée.</p></li><li><p><strong>A Wavre :</strong> sports raquettes,
+      badminton, ou football.</p></li></ul>"
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue de sport adaptée (pas de kimono requis).
 - name: Sport Nature
   img: "/assets/images/stages/activitessportives/sportnature.png"
   inscription: ''
