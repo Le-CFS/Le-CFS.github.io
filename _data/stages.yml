@@ -1556,13 +1556,20 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - alias: Expression Corporelle & Sport
+  - alias: Brabant
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p>L'expression corporelle allie la gymnastique, la danse et le
-      théâtre ; elle permet d'exprimer ses sentiments, ses émotions et développer
-      sa personnalité.</p><p>Cette activité occupera vos enfants la moitié du temps
-      ; l'autre partie sera consacrée à des sports collectifs.</p>"
+    description: "<p>Vous chercher un stage pour éveiller les sens et la créativité
+      de votre enfant ?</p><p>L'expression corporelle allie la gymnastique, la danse
+      et le théâtre ; elle permet d'exprimer ses sentiments, ses émotions et de développer
+      sa personnalité.</p><p>Votre enfant apprendra à bouger avec son corps, à maîtriser
+      ses mouvements pour pouvoir se trouver et se repérer dans l’espace. Il participera
+      à des jeux de cohésion avec son partenaire, ainsi qu’à la création de petites
+      scènes de théâtre. Il dansera sur des chorégraphies, des jeux de rythme, afin
+      d’apprendre à respecter le tempo d'une musique.</p><p>Ces activités occuperont
+      vos enfants la moitié de la journée de stage. La seconde partie de la journée
+      sera consacrée à du multisports en extérieur : unihoc, basketball, crosse canadienne,
+      ball bouncer, baseball.</p>"
     infos: []
 - name: Mini Lanta
   img: "/assets/images/stages/decouvertesportiveetculturelle/lanta.png"
