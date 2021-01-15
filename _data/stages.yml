@@ -1193,7 +1193,7 @@ stages:
       info_line: Le manège met à disposition tout le matériel adéquat pour les petits
         cavaliers.
     - alias: Garderie
-      info_line: 'Garderie : Inscription sur place !'
+      info_line: Inscription sur place !
 - name: Baby Tennis
   img: "/assets/images/stages/decouvertesportiveetculturelle/babytennis.png"
   inscription: ''
