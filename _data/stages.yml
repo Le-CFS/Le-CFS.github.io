@@ -2,7 +2,7 @@
 stages:
 - name: Baby Natation
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/psychonatation.png"
   online: true
   nouveau: true
   stage_une: false
