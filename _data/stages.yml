@@ -1,5 +1,33 @@
 ---
 stages:
+- name: Gym pour tous
+  categorie: Danse et Gymnastique
+  img: "/assets/images/gympourtous.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 7-17 ans
+    description: '<p><em>Stage en collaboration avec le </em><strong><em>Gym Club
+      La Courtoise</em></strong></p><p>Tu es entre 7 et 17 ans et les pirouettes n''ont
+      plus de secret pour toi ?</p><p>Si tu es motivée, n''hésite pas à rejoindre
+      ce stage ! Tout au long de la semaine, tu apprendras à travailler les 4 agrès
+      : poutre, barres asymétriques, sol et sauts.</p><p>Le stage est encadré par
+      des coachs de gym de la Courtoise. Les gymnastes sont réparties selon leur âge
+      et leur niveau.</p><p>Le mardi et jeudi après-midi, tu peux rejoindre une activité
+      fun pour diversifier le stage : détective, koh lanta, jeux de piste, ou frisbee.</p><p><strong><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les membres du club de la Courtoise bénéficient
+      d''une réduction de 5€/jour de stage.</strong></p><p><strong><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Stage uniquement réservé aux filles.</strong></p><p><strong><em>Garderie
+      </em></strong><em>: inscriptions sur place !</em></p>'
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue collante adaptée à la gymnastique (tu ne dois pas
+        nécessairement porter de maillot de gym, mais si tu en as un, il est le bienvenu).
 - name: Fun VTT & Karting
   categorie: Activités fun
   img: "/assets/images/kartingetfun-1.png"
