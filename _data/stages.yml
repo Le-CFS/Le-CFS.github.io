@@ -1383,12 +1383,16 @@ stages:
     ville: Brabant Wallon
     age: 4-6 ans
     description: "<p>Tu veux devenir un bon sportif et apprendre à nager comme un
-      vrai petit poisson ?</p><p>Ce stage est TOP pour toi !</p><p>La journée se déroule
-      ainsi : apprentissage quotidien des 4 nages, dans le but d'être autonome dans
-      l'eau et initiation aux sports ballons, raquettes et jeux collectifs.</p>"
+      vrai petit poisson ?</p><p>Ce stage est TOP pour toi !</p><p>Chaque jour, pendant
+      1h, tu apprendras les 4 nages (brasse, dos, crawl et papillon) dans le but d'être
+      autonome dans l'eau.</p><p>L'après-midi, tu auras la chance de t'initier à différents
+      jeux collectifs en extérieur : sports ballons, raquettes, unihoc, crosse canadienne,
+      ball bouncer, etc.</p>"
     infos:
     - alias: Prendre tenue de bain
       info_line: Dès le premier jour, prévoir maillot, bonnet et essuie de bain.
+    - alias: Navettes
+      info_line: Les navettes sont assurées par le CFS.
     - alias: Moniteurs
       info_line: 'En piscine : 2 moniteurs pour 8 enfants.'
 - name: Découverte Sportive & Poney
