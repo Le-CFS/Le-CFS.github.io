@@ -2618,10 +2618,15 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-14 ans
-    description: "<p>Jette : <em>Stage en collaboration avec </em><strong><em>CB Futsal
-      Jette BXL Cap</em></strong></p><p>Ce stage prévoit une alternance d'entraînements
-      (technique ballon et technique de jeu) et de petits matchs.</p>"
-    infos: []
+    description: "<p>Votre enfant est un vrai mordu du ballon ? Notre stage de futsal
+      est l'idéal pour lui ! </p><p>Ce stage prévoit une alternance entre entraînements
+      et petits matchs.</p><p>Les enfants s'exercent aux techniques de ballon et de
+      jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle.</p><p>Chaque
+      entraînement est abordé de manière ludique afin d'allier football et plaisir.</p><p>La
+      journée est répartie en 3 périodes de football et une période de multisports.</p>"
+    infos:
+    - alias: Partenariat
+      info_line: A Jette : Stage en partenariat avec Futsal Jette
 - name: Futsal Euro 2021
   img: "/assets/images/futsaleuro2021.jpg"
   inscription: ''
