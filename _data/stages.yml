@@ -1406,12 +1406,24 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p><em>Stage en partenariat avec le </em><strong><em>Manège Horse's
-      Corner</em></strong><em> de Bierges</em></p><p>Envie de t'occuper de ton poney
-      ? Rejoins-nous !</p><p>Ta journée sera riche en émotions : initiation à l'équitation
-      (monter, s'occuper du poney, le nourrir,...) et découvertes sportives (ballons,
-      raquettes,...).</p>"
-    infos: []
+    description: "<p><em>Stage en collaboration avec le </em><strong><em>Manège Horse's
+      Corner</em></strong><em> de Bierges</em></p><p>Envie de t'occuper d'un poney
+      ? Rejoins-nous, ta journée sera riche en émotions !</p><p>Les enfants s’adonnent
+      le matin aux joies du manège et de l’équitation. Ce stage est une pleine participation
+      à la vie du manège : initiation à l'équitation (monter, s'occuper du poney,
+      le nourrir, le panser), balades, entretien des box.</p><p>Après le midi, les
+      enfants retournent au centre sportif et ont la chance de découvrir différents
+      sports : ballons, jeux de raquettes, basketball, baseball, etc.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Le manège met à disposition tout le matériel adéquat ainsi que des
+        bombes pour les petits cavaliers.
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
+        large) et des bottes, ainsi qu'une tenue et des chaussures de sport.
+    - alias: Navettes
+      info_line: Les navettes sont assurées par le CFS entre le centre sportif et
+        le manège.
 - name: Drones & Laser
   categorie: Activités artistiques et loisirs
   img: "/assets/images/droenetlaser_catalogue.jpg"
@@ -2954,13 +2966,23 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Un véritable Sherlock Holmes ? Voici le stage qu'il faut à votre
-      enfant !</p><p>Au programme de la semaine : Jeux de mémoire, jeux de piste,
-      géocatching, escape room, escape game VR et une sortie à Koezio,</p><p>Le semaine
-      se termine par un jeu de cohésion et un pique-nique.</p>"
+    description: '<p>Un véritable Sherlock Holmes ? Votre enfant aime partir à la
+      recherche d''indices, répondre à des énigmes, travailler en cohésion avec un
+      partenaire/une équipe ?</p><p>Voici le stage qu''il lui faut !</p><p>Au programme
+      : jeux de mémoire, jeux de piste, géocatching, escape room (jeu de société),
+      escape game VR (à côté du Cartronics à Wavre), et une sortie à Koezio aux Docks
+      Bruxsel.</p><p>De quoi ravir nos enquêteurs avec différentes énigmes et activités
+      fun tout au long de la semaine !</p><p>La semaine se termine par un jeu de cohésion
+      et un pique-nique (les enfants doivent prévoir leurs tartines, et des éventuels
+      en-cas).</p><p><strong><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Prévoir une tenue adaptée pour les activités
+      en extérieur.</strong></p><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les navettes sont assurées par le CFS.</p><p><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Pour Koezio : la taille minimale est d''1m40.</p>'
     infos:
     - alias: Koézio
-      info_line: Pour Koezio, les enfants doivent avoir MINIMUM 1,40 m
+      info_line: Pour Koezio, les enfants doivent avoir MINIMUM 1m40
 - name: Top Chef
   img: "/assets/images/stages/activitesartistiquesetloisirs/dinerparfait.png"
   inscription: ''
