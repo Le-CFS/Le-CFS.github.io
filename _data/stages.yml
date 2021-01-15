@@ -2024,20 +2024,22 @@ stages:
     ville: Bruxelles
     age: 12-16 ans
     infos:
-    - alias: Koesio
-      info_line: 'Pour Koezio : taille minimum 1,40m.'
+    - alias: Koézio
+      info_line: La taille MINIMALE est d'1m40
     - alias: Déplacements
-      info_line: Les déplacements se font en transports en commun.
-    - alias: masque & gel
-      info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
-        Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
-    - alias: Moniteur diplômé
-      info_line: Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de
-        l’expérience pour ce stage et formé pour le respect des différentes mesures
-        à suivre du protocole des stages.
-    description: "<p>UNE SUPERBE SEMAINE POUR VOS ADOS! Activités fun garanties!</p><p><strong>PROGRAMME
-      CARNAVAL - PAQUES - ETE</strong>: Bowling, Koezio, Jump XL, Escape Room VR,
-      E-fun (New games à Carnaval et pas dans les programmes des semaines à 4 jours).</p>"
+      info_line: Les déplacements en transports en commun sont assurés par le CFS.
+    description: "<p>Une superbe semaine pour vos ados !! Activités fun garanties
+      !</p><p><strong>PROGRAMME CARNAVAL - PAQUES - ETE </strong>: Bowling, Koezio,
+      Jump XL, Escape Room VR, E-fun, New games (pas de New games les semaines de
+      4 jours).</p><ul><li><p><strong>Bowling : </strong>organisé au Bowling Stone
+      Bruxelles.</p></li><li><p><strong>Excursion à Koezio au Docks Bruxsel :</strong>
+      le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes
+      sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale,
+      et de l'accrobranche.</p></li><li><p><strong>Jump XL :</strong> parc de trampoline
+      à Bruxelles.</p></li><li><p><strong>Escape room VR :</strong> activité se déroulant
+      sur place dans le centre.</p></li><li><p><strong>E-fun : </strong>segway, trottinette
+      électrique (sur place dans le centre).</p></li></ul><p><strong><em>ATTENTION
+      :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p>"
 - name: Fun Paintball & VTT
   img: "/assets/images/stages/activitesfun/funpaintballetvtt.png"
   inscription: ''
