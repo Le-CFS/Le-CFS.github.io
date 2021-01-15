@@ -436,32 +436,38 @@ stages:
 - name: Multisports
   categorie: Activités sportives
   img: ''
-  online: false
-  nouveau: false
+  online: true
+  nouveau: true
   stage_une: false
   inscription: ''
   location:
   - alias: Liège
     ville: Liège
     age: 5-12 ans
-    description: "<p>Initiation aux sports collectifs (basket, mini-foot, volley,
-      hand-ball, unihoc, base-ball athlétisme, gymnastique, badminton,...).</p><p>Un
-      programme varié qui touche à tout et est destiné aussi bien aux garçons qu'aux
-      filles.</p>"
-    infos: []
+    description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
+      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine
+      de stage une initiation aux sports collectifs (basket, mini-foot, volley, handball,
+      unihoc, baseball, etc.) ainsi qu'à l'athlétisme, la gymnastique, le badminton,
+      etc.</p><p>Un programme varié qui touche à tout et est destiné aussi bien aux
+      garçons qu'aux filles !</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
+        avec le Covid).
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
     description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
-      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine
-      une initiation aux sports collectifs avec au programme :</p><ul><li><p>Basket</p></li><li><p>Mini-Foot</p></li><li><p>Volley</p></li><li><p>...</p></li></ul><p>Mais
-      aussi des activités NEW GAMES pour varier les plaisirs :</p><ul><li><p>Uni hoc</p></li><li><p>Crosse
-      canadienne</p></li><li><p>Kin-Ball</p></li><li><p>Boum-Ball</p></li><li><p>...</p></li></ul><p>Des
-      activités multisports qui raviront votre enfant !</p>"
-    infos:
-    - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription. '
+      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine,
+      des jeux collectifs, par lesquels votre enfant développera différentes facettes
+      de la motricité, le respect des règles et la vie en groupe. Les activités en
+      extérieur sont privilégiées tout au long de la semaine : les enfants participerons
+      à différents jeux tels que le basketball, le mini-foot, le volley, ou encore
+      les sports raquettes.</p><p>Ils pourront également découvrir des activités fun
+      et tendances pour varier les plaisirs comme le unihoc, la crosse canadienne,
+      le kin-ball, ou le boum-ball.</p><p>Des activités multisports qui raviront votre
+      enfant !</p>"
+    infos: []
 - name: Mini-Tennis
   categorie: Activités sportives
   img: "/assets/images/mini-tennis.jpg"
