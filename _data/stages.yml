@@ -3303,12 +3303,16 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
-    description: "<p>Stage d'apprentissage de l'anglais au travers d'activités pédagogiques
-      diverses et ludiques : cours théoriques, jeux, sports, visites culturelles.
-      L'ensemble des activités proposées se déroule en anglais. Les formateurs sont
-      soucieux d'un apprentissage amusant et performant, respectueux des capacités
-      de chaque enfant.</p>"
-    infos: []
+    description: "<p><strong><em>Do you want to learn English ? </em></strong></p><p>Ce
+      stage d'immersion propose un apprentissage de l'anglais au travers d'activités
+      pédagogiques diverses et ludiques : cours théoriques, jeux, sports, visites
+      culturelles.</p><p>L'ensemble des activités proposées se déroule en anglais.</p><p>Les
+      formateurs sont soucieux d'un apprentissage amusant et performant, respectueux
+      des capacités de chaque enfant.</p><p>Une sortie culturelle et ludique est prévue
+      un jour de la semaine de stage (ex : aller voir un film au cinéma).</p>"
+    infos:
+    - alias: Transports
+      info_line: Les transports sont assurés par le CFS.
 - name: Immersion Néerlandais
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
   inscription: ''
