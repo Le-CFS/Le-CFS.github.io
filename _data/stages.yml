@@ -1517,6 +1517,9 @@ stages:
       telles que le frisbee golf, le snag golf, le spikeball, le kinball, le flag
       foot, ou encore le ball bouncer.</p>"
     infos:
+    - alias: Moniteurs
+      info_line: Les activités d'escalade sont assurées par des moniteurs possédant
+        le CATAGSAE.
     - alias: Mur d'escalade
       info_line: Les activités d'escalade se font sur le mur d'escalade dans le centre
         sportif. Aucun déplacement n'est prévu.
