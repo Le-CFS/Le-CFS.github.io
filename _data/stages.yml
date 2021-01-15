@@ -2016,7 +2016,7 @@ stages:
       :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p>"
     infos:
     - alias: Koézio
-      info_line: La taille minimale est d'1m40.
+      info_line: La taille MINIMALE est d'1m40.
     - alias: Déplacements
       info_line: Certaines activités demandent un déplacement en navette assuré par
         nos soins.
