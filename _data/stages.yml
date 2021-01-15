@@ -156,8 +156,21 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 6 à 8 ans
-    description: ''
-    infos: []
+    description: '<p>Un bel équilibre entre le VTT et l''escalade. Amusement garanti
+      !</p><p>Ce stage prévoit 3 heures journalières d''apprentissage des techniques
+      de base d''escalade sur mur ainsi que les consignes de sécurité s''y rapportant.</p><p>L''autre
+      partie de la journée, les enfants roulent en VTT : ils alternent parcours sur
+      la route et dans les bois, apprennent à dévaler les descentes et à faire des
+      sauts.</p><p>Lors d''une après-midi, les enfants ont l''occasion de rejoindre
+      la salle d''escalade du Blocry de Louvain-la-Neuve en VTT.</p><p>La semaine
+      de stage promet une pratique intensive du VTT, les enfants doivent être capables
+      de rouler 8km par jour.</p><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Attention : il faut un VTT, un cadenas,
+      une chambre à air de rechange, ainsi qu’un casque dès le premier jour du stage
+      !</p>'
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur.
 - name: Aqua Multisports
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/aquamultisports.jpg"
