@@ -1788,16 +1788,24 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-8 ans
-    description: "<p>Ce stage permettra aux enfants de découvrir les sensations que
-      procure un quad. La matinée, ils découvrent les joies des quads électriques
-      de notre circuit gonflable. Ils ont également l'occasion de se perfectionner
-      en vélo l'après-midi en dévalant les descentes et en découvrant les sauts. Tout
-      cela, en maîtrisant une bonne trajectoire. Sensation de vitesse garantie tout
-      au long de la semaine.</p>"
+    description: '<p>Un bel équilibre entre le quad et le vélo. Fun et amusement garanti
+      !</p><p>Ce stage pour les 6 à 8 ans permettra aux enfants de découvrir les sensations
+      procurées par un quad. La matinée, ils s’initient aux joies des quads électriques
+      de notre circuit gonflable (1 quad pour trois enfants). Ils auront aussi l''occasion
+      de s’essayer aux quads thermiques (50CC).</p><p>Les quads électriques sont bridables
+      (entre 15, 20 et 25 km/h) pour garantir la sécurité des enfants, et leur permettre
+      de progresser à leur rythme !</p><p>L’après-midi, les enfants auront l''occasion
+      de se perfectionner à vélo, en dévalant les descentes et en découvrant les sauts.
+      Tout cela, en maîtrisant une bonne trajectoire.</p><p>Sensation de vitesse garantie
+      tout au long de la semaine !</p><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Attention : il faut un VTT, un cadenas,
+      un casque ainsi qu''une chambre à air de rechange dès le premier jour de stage
+      !</p>'
     infos:
-    - alias: Equipement
-      info_line: 'Attention : VTT, gilet fluo, un cadenas, un casque ainsi qu''une
-        chambre à air de rechange dès le premier jour de stage !'
+    - alias: Equipement à prévoir !
+      info_line: Prévoir une paire de bottines, des vêtements adaptés aux activités
+        en extérieur, ainsi qu'une tenue de rechange en cas de mauvais temps. Pantalon
+        long obligatoire.
 - name: Krav Maga Découverte
   img: "/assets/images/stages/decouvertesportiveetculturelle/kravmagadecouverte.png"
   inscription: ''
