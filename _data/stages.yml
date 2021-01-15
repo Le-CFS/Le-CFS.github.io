@@ -1098,9 +1098,13 @@ stages:
     ville: Bruxelles
     age: 4-6 ans
     description: "<p>Tu veux devenir un bon sportif et apprendre à nager comme un
-      vrai petit poisson ?</p><p>Ce stage est TOP pour toi !</p><p>La journée se déroule
-      ainsi : apprentissage quotidien des 4 nages, dans le but d'être autonome dans
-      l'eau et initiation aux sports ballons, raquettes et jeux collectifs.</p>"
+      vrai petit poisson ?</p><p>Ce stage est idéal pour toi !</p><p>Durant une période
+      d'activité : apprentissage quotidien des 4 nages (brasse, dos, crawl, et papillon),
+      dans le but d'être autonome dans l'eau. Les enfants participeront également
+      à différents jeux aquatiques.</p><p>Le stage est complété par un premier contact
+      avec le sport et les jeux collectifs, par lequel votre enfant développera les
+      différentes facettes de la motricité, le respect des règles et la vie en groupe.
+      Votre enfant découvrira un large panel d'activités fun et ludiques.</p>"
     infos:
     - alias: A prévoir dès le 1er jour !
       info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
