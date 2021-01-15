@@ -2003,13 +2003,22 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 12-16 ans
-    description: "<p>UNE SUPERBE SEMAINE POUR VOS ADOS !! Activités fun garanties
+    description: '<p>Une superbe semaine pour vos ados !! Activités fun garanties
       !</p><p><strong>PROGRAMME </strong>: bowling/jeux de piste, Koezio ou Space
-      Fun, Walibi, escape room (VR) et Jump XL</p><p><em>Le programme change les semaines
-      plus courtes.</em></p>"
+      Fun, Walibi, escape room (VR) et Jump XL</p><ul><li><p>Bowling et jeux de piste
+      : organisés à Louvain-la-Neuve.</p></li><li><p>Excursion à Koezio au Docks Bruxsel
+      : le centre propose des jeux de collaboration et de cohésion par équipe. Les
+      équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture
+      générale, et de l''accrobranche.</p></li><li><p>Excursion à Space Fun Games
+      d''Etterbeek : activités de type Fort Boyard.</p></li><li><p>Escape room : organisé
+      en salle à côté du Cartronics à Wavre.</p></li><li><p>Jump XL : parc de trampoline
+      à côté du Cartronics à Wavre.</p></li></ul><p><strong><em>ATTENTION :</em></strong><em>
+      le programme peut changer les semaines plus courtes.</em></p><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Pour Koezio : la taille minimale est d''1m40.</p>'
     infos:
     - alias: Déplacements
-      info_line: Les navettes sont assurées par le CFS.
+      info_line: Certaines activités demandent un déplacement en navette assuré par
+        nos soins.
     - alias: Masque & gel
       info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
         Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
