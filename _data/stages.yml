@@ -498,13 +498,21 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p>Un bel équilibre entre le VTT et le Laser Game.</p><p>Les jeunes
-      apprendront les règles et techniques de base du Laser Game (3x/semaine).</p><p>Pratique
-      intensive du VTT, l'enfant doit être capable de rouler 8km par jour.</p>"
+    description: "<p>Un bel équilibre entre le VTT et le Laser Game. Fun et amusement
+      garanti !</p><p>Chaque jour les enfants pratiqueront du VTT une partie de la
+      journée. Ils alterneront parcours sur la route et dans les bois, apprendront
+      à dévaler les descentes et à faire des sauts.</p><p>La semaine de stage promet
+      une pratique intensive du VTT, les enfants doivent être capables de rouler 8km
+      par jour.</p><p>Les jeunes apprendront également les règles et techniques de
+      base du <strong>Laser Game</strong> (3x/semaine), et ils participeront à des<strong>
+      activités fun </strong>en extérieur<strong> </strong>(2x/semaine) : frisbee
+      golf, snag golf, spike ball, kinball, slag foot.</p>"
     infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur.
     - alias: Equipement
-      info_line: 'Attention : il faut un VTT, un gilet fluo, un cadenas ainsi qu''une
-        chambre à air de rechange le premier jour du stage ! '
+      info_line: 'Attention : il faut un VTT, un cadenas, une chambre à air de rechange,
+        ainsi qu’un casque dès le premier jour du stage !'
 - name: Far-west
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/farwest.jpg"
