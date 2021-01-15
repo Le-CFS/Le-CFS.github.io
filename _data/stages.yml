@@ -817,7 +817,7 @@ stages:
     - alias: Tenue de rechange
       info_line: Prévoir des habits de rechange.
 - name: Psycho Natation
-  img: "/assets/images/stages/lespetitsbouts/psychonatation.png"
+  img: "/assets/images/psychonatation.jpg"
   inscription: ''
   categorie: Les petits bouts
   online: true
