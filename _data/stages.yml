@@ -1930,12 +1930,29 @@ stages:
     ville: Brabant Wallon
     age: 12-16 ans
     description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
-      ! Un super programme ! Une activité différente chaque jour !</p><p><strong>PROGRAMME
+      ! Un super programme et une activité différente et FUN chaque jour !</p><p><strong>PROGRAMME
       CARNAVAL </strong>: new games, Aqualibi, ski, Koezio &amp; Space Fun Game</p><p><strong>PROGRAMME
       PAQUES </strong>: new games, Walibi, Aqualibi, mer &amp; Koezio</p><p><strong>PROGRAMME
-      ETE </strong>:<em> </em>new games, Walibi, mer, barrage de l'Eau d'Heure &amp;
-      Profondville</p>"
+      ETE </strong>: new games, Walibi, mer, barrage de l'Eau d'Heure &amp; Profondville</p><ul><li><p><strong>New
+      games</strong> : différentes activités fun sont proposées sur la journée telles
+      que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
+      de ski à la Snow Valley de Peer</strong> : les ados peuvent voyager librement
+      dans la station et des accompagnants sont présent avec eux sur les pistes.</p></li><li><p><strong>Excursion
+      à Koezio au Docks Bruxsel</strong> : le centre propose des jeux de collaboration
+      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
+      épreuves de rapidité, de culture générale, et de l'accrobranche.</p></li><li><p><strong>Excursion
+      à Space Fun Game d'Etterbeek </strong>: activités de type Fort Boyard.</p></li><li><p><strong>Excursion
+      à la mer </strong>: jeux dans le sable, cuistax, frisbee, etc.</p></li><li><p><strong>Excursion
+      au barrage de l'Eau d'Heure</strong> : aquaparc avec des structures gonflables
+      sur eau.</p></li><li><p><strong>Excursion à Profondville </strong>: bouée tractée,
+      kayak.</p></li></ul><p><strong><em>ATTENTION :</em></strong><em> le programme
+      peut changer les semaines plus courtes.</em></p>"
     infos:
+    - alias: Koézio
+      info_line: 'Pour Koézio : taille minimum 1m40.'
+    - alias: Tenue de bain
+      info_line: Prévoir son maillot et un essuie pour les activités avec de l'eau
+        (Aqualibi, mer, barrage de l'Eau d'Heure et Profondville).
     - alias: Navettes
       info_line: Les navettes sont assurées par le CFS.
   - alias: Bruxelles
