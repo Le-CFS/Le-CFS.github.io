@@ -1873,12 +1873,12 @@ stages:
       par jour.</p><p>La dernière séance de la journée est consacrée à la découverte
       d'autres disciplines sportives.</p>"
     infos:
-    - alias: Spectacle
-      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
-        avec le Covid).
     - alias: Tenue adaptée
       info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
         gym.
+    - alias: Spectacle
+      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
+        avec le Covid).
 - name: Gym Pro
   img: "/assets/images/stages/danseetgymnastique/gympro.png"
   inscription: ''
