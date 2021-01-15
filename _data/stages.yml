@@ -756,49 +756,41 @@ stages:
   - ville: Brabant Wallon
     alias: Brabant Wallon
     age: 2-3 ans
-    description: "<p>Ce stage propose un éveil psychomoteur adapté aux plus petits.
-      Les enfants apprennent à percevoir leur corps et à affiner leurs mouvements
-      au travers du jeu.</p><p>Les stages pour les plus petits tendent au développement
-      harmonieux des enfants au travers d’activités adaptées à leur âge.</p><p>L’enfant
-      développe de nouvelles aptitudes tout en jouant : il apprend les règles du jeu
-      et de groupe, développe sa sociabilité et explore les différentes facettes de
-      la motricité. Le rythme de l’enfant est respecté et une sieste est prévue pour
-      les enfants qui en ont besoin. Il y a maximum 12 enfants par groupe (8 enfants
-      pour la Pré-Psychomotricité). Pour chaque stage, il y a une base commune de
-      psychomotricité (jeux de coopération, parcours d’adresse, d’audace, exercices
-      de latéralité) et bien sûr un apprentissage spécifique en fonction du thème
-      proposé. Il est demandé aux parents de prévoir un sac avec une tenue de rechange
-      pour leur enfant.</p><p>Pour les stages commençant à 3 ans (PSYCHO) : les enfants
-      doivent être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.</p>"
+    description: "<p>Vous cherchez un premier stage pour votre petit bout ?</p><p>Ce
+      stage propose un éveil psychomoteur adapté aux plus petits. Les enfants apprennent
+      à percevoir leur corps et à affiner leurs mouvements au travers du jeu.</p><p>Les
+      stages pour les plus petits tendent au développement harmonieux des enfants
+      au travers d’activités adaptées à leur âge. L’enfant développe de nouvelles
+      aptitudes tout en jouant : il apprend les règles du jeu et de groupe, développe
+      sa sociabilité et explore les différentes facettes de la motricité. Pour chaque
+      stage, il y a une base commune de psychomotricité (jeux de coopération, parcours
+      d’adresse, d’audace, exercices de latéralité) et bien sûr un apprentissage spécifique
+      en fonction du thème proposé.</p><p>Le rythme de l’enfant est respecté et une
+      sieste est prévue pour les enfants qui en ont besoin. Il y a maximum 8 enfants
+      par groupe.</p>"
     infos:
-    - info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
-      alias: Tenue adaptée
-    - info_line: Il faut apporter un lange de rechange si nécessaire.
+    - info_line: Prévoir un sac avec une tenue et un lange de rechange.
       alias: Lange
     - info_line: Attention, il n'y a pas de garderie pour ce stage.
       alias: Pas de garderie
   - ville: Bruxelles
     alias: Bruxelles
-    description: "<p>Ce stage propose un éveil psychomoteur adapté aux plus petits.
-      Les enfants apprennent à percevoir leur corps et à affiner leurs mouvements
-      au travers du jeu.</p><p>Les stages pour les plus petits tendent au développement
-      harmonieux des enfants au travers d’activités adaptées à leur âge.</p><p>L’enfant
-      développe de nouvelles aptitudes tout en jouant : il apprend les règles du jeu
-      et de groupe, développe sa sociabilité et explore les différentes facettes de
-      la motricité. Le rythme de l’enfant est respecté et une sieste est prévue pour
-      les enfants qui en ont besoin. Il y a maximum 12 enfants par groupe (8 enfants
-      pour la Pré-Psychomotricité). Pour chaque stage, il y a une base commune de
-      psychomotricité (jeux de coopération, parcours d’adresse, d’audace, exercices
-      de latéralité) et bien sûr un apprentissage spécifique en fonction du thème
-      proposé. Il est demandé aux parents de prévoir un sac avec une tenue de rechange
-      pour leur enfant.</p><p>Pour les stages commençant à 3 ans (PSYCHO) : les enfants
-      doivent être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.</p>"
+    description: "<p>Vous cherchez un premier stage pour votre petit bout ?</p><p>Ce
+      stage propose un éveil psychomoteur adapté aux plus petits. Les enfants apprennent
+      à percevoir leur corps et à affiner leurs mouvements au travers du jeu.</p><p>Les
+      stages pour les plus petits tendent au développement harmonieux des enfants
+      au travers d’activités adaptées à leur âge. L’enfant développe de nouvelles
+      aptitudes tout en jouant : il apprend les règles du jeu et de groupe, développe
+      sa sociabilité et explore les différentes facettes de la motricité. Pour chaque
+      stage, il y a une base commune de psychomotricité (jeux de coopération, parcours
+      d’adresse, d’audace, exercices de latéralité) et bien sûr un apprentissage spécifique
+      en fonction du thème proposé.</p><p>Le rythme de l’enfant est respecté et une
+      sieste est prévue pour les enfants qui en ont besoin. Il y a maximum 8 enfants
+      par groupe.</p>"
     age: 2-3 ans
     infos:
-    - alias: Tenue adaptée
-      info_line: Prévoyez également une tenue adaptée en cas de bricolages et peintures.
     - alias: Lange
-      info_line: Il faut apporter un lange de rechange si nécessaire.
+      info_line: Prévoir un sac avec une tenue et un lange de rechange.
     - alias: Pas de garderie
       info_line: Attention, il n'y a pas de garderie pour ce stage.
 - name: Psycho Découverte
@@ -1702,7 +1694,7 @@ stages:
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir des vêtements adaptés pour l'extérieur.
-- name: Princesses & Pirates
+- name: Princesse & Pirate
   img: "/assets/images/stages/decouvertesportiveetculturelle/princessesetpirates.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -1710,18 +1702,40 @@ stages:
   nouveau: false
   stage_une: false
   location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: "<p>Tu aimes entrer dans la peau de tes personnages préférés et te
+      déguiser comme eux ?</p><p>Laisse place à ton imaginaire, ta créativité et apporte
+      ton meilleur costume pour découvrir le monde des princesses &amp; pirates !</p><p>Ce
+      stage permet aux enfants d’entrer dans le monde magique des contes de fées,
+      de mettre en scène des histoires féeriques, de faire du bricolage et des dessins
+      sur ce thème, des chasses au trésor, de se déguiser, et de danser sur les chansons
+      préférées des princesses &amp; pirates.</p><p>Des moments de temps libre, des
+      jeux de collaboration et des cercles de parole sont organisés pour que chacun
+      puisse s'exprimer et trouver sa place.</p>"
+    infos:
+    - alias: Déguisement
+      info_line: Venir avec un déguisement (dans un sac).
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: "<p>Ce stage permet aux enfants d’entrer dans le monde magique des
-      contes de fées, de mettre en scène des histoires féeriques, de faire du bricolage
-      et des dessins sur ce thème, de se déguiser, de danser sur les chansons préférées
-      des princesses &amp; pirates. </p>"
+    description: "<p>Tu aimes entrer dans la peau de tes personnages préférés et te
+      déguiser comme eux ? </p><p>Laisse place à ton imaginaire, ta créativité et
+      apporte ton meilleur costume pour découvrir le monde des princesses &amp; pirates
+      !</p><p>Ce stage permet aux enfants d’entrer dans le monde magique des contes
+      de fées, de mettre en scène des histoires féeriques, de faire du bricolage et
+      des dessins sur ce thème, des chasses au trésor, de se déguiser, et de danser
+      sur les chansons préférées des princesses &amp; pirates.</p><p>Des moments de
+      temps libre, des jeux de collaboration et des cercles de parole sont organisés
+      pour que chacun puisse s'exprimer et trouver sa place.</p>"
     infos:
-    - alias: Equipement
+    - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
     - alias: Déguisement
-      info_line: 'Venir avec un déguisement (dans un sac). '
+      info_line: Venir avec un déguisement (dans un sac).
 - name: Quad & Vélo
   img: "/assets/images/stages/decouvertesportiveetculturelle/quadetvtt.png"
   inscription: ''
