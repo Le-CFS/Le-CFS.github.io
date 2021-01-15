@@ -1175,8 +1175,12 @@ stages:
     ville: Bruxelles
     age: 4-6 ans
     description: "<p><em>Stage en partenariat avec</em><strong><em> Le Manège de La
-      Motte et Winterjumping</em></strong></p><p>Ce stage est une pleine participation
-      à la vie du manège : soins aux poneys et bien sûr, initiation à l'équitation.</p>"
+      Motte</em></strong></p><p>Ce stage est une pleine participation à la vie du
+      manège : soins et pansage des poneys, nettoyage des box, balades et jeux à poney,
+      voltige pour améliorer la motricité de l'enfant, initiation aux bases de l'équitation
+      adaptée à l'âge de l'enfant et apprentissage de la théorie équestre de manière
+      ludique. Les enfants auront également l'occasion de préparer et de mettre en
+      selle les poney avant de les monter.</p>"
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
