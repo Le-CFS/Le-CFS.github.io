@@ -3432,11 +3432,19 @@ stages:
     description: "<p>Tu veux vivre une semaine magique et amusante ?</p><p>Inscris-toi
       en magie et fun !</p><p>Tu passeras, grâce à un magicien ayant plein de tours
       dans son sac, de très bons moments !</p><p>Tu découvriras le monde de l’illusion
-      et de la manipulation.</p><p>Tu recevras ton kit de magie, que tu reprendras
-      chez toi !</p><p>Ta journée sera complétée par des activités fun, comme par
-      exemples ; laser game, arrow game, etc.</p><p>Un petit spectacle est prévu en
-      fin de semaine avec démonstration de quelques tours appris.</p>"
-    infos: []
+      et de la manipulation.</p><p>Tu apprendras, par petits groupes, à maîtriser
+      différents tours de magie (selon ton niveau d’habilité et de concentration !)
+      : disparition d'une pièce, jeu des gobelets, jeux de dés, tours de cartes, réalisation
+      de calculs complexes grâce au mental log, etc.</p><p>Tu pourras repartir avec
+      un kit de magie en fin de stage !</p><p>Ta journée sera complétée par des activités
+      fun, comme du laser game, de l'arrow game, et des fun games (freesbee golf,
+      snag golf, spike ball, kinball, slag foot).</p>"
+    infos:
+    - alias: Tenue adaptée
+      info_line: " Prévoir une tenue adaptée pour les activités fun en extérieur."
+    - alias: Spectacle
+      info_line: Une petite démonstration de quelques tours appris est prévue en fin
+        de semaine (selon les possibilités avec le Covid).
 - name: Magie Pro
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
