@@ -464,7 +464,7 @@ stages:
         lors de l''inscription. '
 - name: Mini-Tennis
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/mini-tennis.jpg"
   online: true
   nouveau: true
   stage_une: false
