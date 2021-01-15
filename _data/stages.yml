@@ -1484,11 +1484,24 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 5-8 ans
-    infos: []
-    description: "<p>Ce stage propose une séance d’escalade par jour. Par cette initiation,
-      l’enfant travaille des facettes spécifiques de la motricité telles que l’ascension
-      et l’équilibre. Il développe des facteurs essentiels comme l’audace, la maîtrise
-      de soi et la gestion du vertige. Le stage est complété par des activités multisports.</p>"
+    infos:
+    - alias: Mur d'escalade
+      info_line: Les activités d'escalade se font sur le mur d'escalade dans le centre
+        sportif. Aucun déplacement n'est prévu.
+    - alias: Moniteurs
+      info_line: Les activités d'escalade sont assurées par des moniteurs possédant
+        le CATAGSAE.
+    description: "<p>Votre enfant souhaite vivre une première expérience à la verticale
+      ? </p><p>Ce stage prévoit 3 heures journalières d'apprentissage des techniques
+      de base d'escalade sur mur ainsi que les consignes de sécurité s'y rapportant.
+      Les enfants apprennent à grimper sur les modules, à bien s'attacher, à respecter
+      les règles de sécurité et le matériel.</p><p>Par cette initiation, l’enfant
+      travaille des facettes spécifiques de la motricité telles que l’ascension et
+      l’équilibre. Il développe des facteurs essentiels comme l’audace, la maîtrise
+      de soi et la gestion du vertige.</p><p>Le reste de la journée est consacré aux
+      activités de multisports et new games. Différentes activités fun sont proposées
+      telles que le frisbee golf, le snag golf, le spikeball, le kinball, le flag
+      foot, ou encore le ball bouncer.</p>"
   - alias: Bruxelles
     ville: Bruxelles
     age: 5-8 ans
