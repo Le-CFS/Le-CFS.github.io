@@ -660,13 +660,13 @@ stages:
     age: 8-12 ans
     description: "<p>Parce que pendant les vacances, ce sont surtout des activités
       différentes, funs et amusantes que les enfants recherchent !</p><p>Ce stage
-      propose un programme alléchant qui pourra satisfaire votre enfant : </p><ul><li><p>Laser
-      Game</p></li><li><p>Arrow Game</p></li><li><p>New Games</p></li><li><p>...</p></li></ul><p>Chaque
+      propose un programme alléchant qui pourra satisfaire votre enfant :</p><ul><li><p><strong>Laser
+      Game </strong>;</p></li><li><p><strong>Arrow Game</strong> (jeux de flèches
+      tels que des prises de château, courses de lapin, jeux de rôle avec des épées,
+      chevaliers et majes) ;</p></li><li><p><strong>New Games</strong> (activités
+      fun telles que le frisbee golf, snag golf, spikeball, kinball, flag foot) ;</p></li><li><p>...</p></li></ul><p>Chaque
       jour, nous varions les plaisirs ! Inscris-toi vite, nous t'attendons !</p>"
-    infos:
-    - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription.'
+    infos: []
 - name: Pré-psychomotricité
   img: "/assets/images/stages/lespetitsbouts/prepsycho.png"
   inscription: ''
