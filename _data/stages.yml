@@ -1223,7 +1223,9 @@ stages:
       de découverte d’un multisports</strong> en extérieur. Des activités comme du
       baseball, unihoc, ball bouncer, etc. sont favorisées car elles permettent aux
       enfants d'utiliser à nouveau du matériel qui est le prolongement de leur main.</p>"
-    infos: []
+    infos:
+    - alias: Matériel
+      info_line: Tout le matériel de tennis est fourni par le CFS. 
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
