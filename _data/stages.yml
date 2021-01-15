@@ -2292,11 +2292,10 @@ stages:
       débutant, intermédiaire ou avancé, les exercices seront adaptés à ton niveau
       et ton âge.</p><p>Chaque journée se déroule en extérieur. Tout au long du stage,
       les enfants sont encadrés par des professionnels. Environ un moniteur est prévu
-      pour 8 enfants.</p><p><strong><em>Garderie :</em></strong><em> Inscription sur
-      place !</em></p>"
+      pour 8 enfants.</p>"
     infos:
     - alias: Garderie
-      info_line: 'Garderie : Inscription sur place !'
+      info_line: Inscription sur place !
     - alias: Matériel
       info_line: Le manège met à disposition tout le matériel adéquat ainsi que des
         bombes pour les petits cavaliers.
