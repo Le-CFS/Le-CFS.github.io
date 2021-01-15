@@ -462,7 +462,7 @@ stages:
     - alias: Garderie
       info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
         lors de l''inscription. '
-- name: Mini Tennis
+- name: Mini-Tennis
   categorie: Découvertes sportives et culturelles
   img: ''
   online: true
@@ -483,7 +483,7 @@ stages:
       de semaine.</p><p>La journée est divisée en 3 périodes de tennis et 1 période
       de multisports.</p>"
     infos:
-    - alias: D
+    - alias: Equipement
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
   - alias: Brabant
