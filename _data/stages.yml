@@ -2253,12 +2253,24 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 7-12 ans
-    description: "<p>Les enfants s’adonnent le matin aux joies du manège et de l’équitation.</p><p>L’après-midi
-      est consacrée à une autre activité au choix :</p><p>A Rixensart : badminton,
-      football, sports raquettes, GRS, activités Fun ou bande dessinée.</p><p>A Ottignies
-      : mini-foot, sports raquettes, GRS, Gym Pro (pratique nécessaire de la gymnastique
-      tout au long de l'année) ou magie.</p>"
+    description: '<p><em>Stage en collaboration avec le </em><strong><em>Manège Horse''s
+      Corner</em></strong><em> de Bierges</em></p><p>Les enfants s’adonnent le matin
+      aux joies du manège et de l’équitation. Ce stage est une pleine participation
+      à la vie du manège : initiation à l''équitation (monter, s''occuper du poney,
+      le nourrir, le panser), balades, entretien des box.</p><p>L''après-midi est
+      consacré à un autre stage au choix dans le centre sportif :</p><ul><li><p>A
+      Rixensart : badminton, football, sports raquettes, GRS, activités Fun ou bande
+      dessinée.</p></li><li><p>A Ottignies : mini-foot, sports raquettes, GRS, ou
+      magie.</p><p></p><p></p></li></ul><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened"><strong>Les navettes seront assurées par
+      le CFS.</strong></p>'
     infos:
+    - alias: Matériel
+      info_line: Le manège met à disposition tout le matériel adéquat ainsi que des
+        bombes pour les petits cavaliers.
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
+        large) et des bottes, ainsi qu'une tenue et des chaussures de sport.
     - alias: Navettes
       info_line: Les navettes seront assurées par le CFS.
 - name: Equitation
