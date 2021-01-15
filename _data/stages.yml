@@ -407,22 +407,18 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
-    description: '<p>Découverte du quad, sports moteur et laser game ! Fun et amusement
+    description: "<p>Découverte du quad, sports moteur et laser game ! Fun et amusement
       garanti !</p><p>Ce stage accessible pour les enfants à partir de 8 ans, promet
       des activités fun et ludiques, avec un maximum de sensationnel !</p><p>Au programme
       : Quad, E-Moto, Laser Game, Nerf et E-fun : segway et trottinette (pas de E-Fun
       les semaines de 4 jours).</p><p>Pratique journalière du VTT (bonne condition
-      physique nécessaire).</p><p><strong><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened"></strong></p><p><strong><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened">Prévoir des vêtements adaptés pour les
-      activités en extérieur.</strong></p>'
+      physique nécessaire).</p>"
     infos:
-    - alias: Prévoir dès le 1er jour !
+    - alias: Equipement à prévoir !
       info_line: 'Attention : il faut un VTT, un gilet fluo, un cadenas ainsi qu''une
         chambre à air de rechange le premier jour du stage !'
-    - info_line: Il faut un VTT, un gilet fluo, un cadenas ainsi qu'une chambre à
-        air de rechange le premier jour du stage !
-      alias: Matériel à apporter
+    - info_line: Prévoir des vêtements adaptés pour les activités en extérieur.
+      alias: Tenue adaptée
 - name: Plongée - Journée complète
   categorie: Activités sportives
   img: ''
