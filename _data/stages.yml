@@ -1722,18 +1722,25 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: "<p><em>Stage en partenariat avec </em><strong><em>Krav Maga Bruxelles</em></strong></p><p>Demi-journée
-      quotidienne d’initiation et découverte du Krav maga qui allie différents types
-      de combat et d’auto défense. Les enfants auront l'occasion de participer à des
-      initiations à plusieurs sports de self-défense et d'arts martiaux différents
-      durant la semaine. Toutes les activités seront encadrées par des moniteurs professionnels
-      de Krav Maga Bruxelles.</p><p>L’autre demi-journée est complétée par des activités
-      funs, des jeux collectifs et du multisport.</p>"
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Krav Maga Bruxelles</em></strong></p><p>Envie
+      de découvrir des techniques d'autodéfense ? Ce stage de krav maga découverte
+      répondra à tes attentes ! </p><p>Chaque journée de stage est divisée en deux
+      périodes.</p><p>Durant la première demi-journée, les enfants découvrent et s'initient
+      au Krav maga, sport qui allie différents types de combat et d’auto défense.
+      Les enfants auront l'occasion de participer à des initiations à plusieurs sports
+      de self-défense et d'arts martiaux différents durant la semaine.</p><p>Toutes
+      les activités seront encadrées par des moniteurs professionnels de Krav Maga
+      Bruxelles.</p><p>L’autre demi-journée est complétée par des activités funs,
+      des jeux collectifs et du multisports.</p><p><em>Nous tenons à vous informer
+      que le Krav Maga n’encourage pas la violence, il s’agit une pratique qui fait
+      travailler le physique et le mental sans pour autant mettre la violence au premier
+      plan.</em></p>"
     infos:
-    - alias: Pas de violence
-      info_line: Nous tenons à vous informer que le Krav Maga n’encourage pas la violence,
-        il s’agit une pratique qui fait travailler le physique et le mental sans pour
-        autant mettre la violence au premier plan.
+    - alias: Garderie
+      info_line: Inscription au préalable obligatoire pour le soir uniquement dans
+        les "Options" lors de l'inscription. Attention la garderie du soir s'effectue
+        eu Centre Sportif de Jette. Si vous souhaitez une garderie le matin, l'organisation
+        se fait directement sur place.
 - name: Dance For You
   img: "/assets/images/stages/danseetgymnastique/danceforyou.png"
   inscription: ''
@@ -2770,8 +2777,8 @@ stages:
       mental sans pour autant mettre la violence au premier plan.</em></p>"
     infos:
     - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire pour le soir uniquement
-        dans les "Options" lors de l''inscription. Attention la garderie du soir s''effectue
+      info_line: ' Inscription au préalable obligatoire pour le soir uniquement dans
+        les "Options" lors de l''inscription. Attention la garderie du soir s''effectue
         eu Centre Sportif de Jette. Si vous souhaitez une garderie le matin, l''organisation
         se fait directement sur place.'
 - name: Mini-Foot
