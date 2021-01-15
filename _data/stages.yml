@@ -463,7 +463,7 @@ stages:
       info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
         lors de l''inscription. '
 - name: Mini-Tennis
-  categorie: Découvertes sportives et culturelles
+  categorie: Activités sportives
   img: "/assets/images/mini-tennis.jpg"
   online: true
   nouveau: true
