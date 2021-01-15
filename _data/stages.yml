@@ -3127,15 +3127,17 @@ stages:
         Vous pouvez bien sûr apporter votre propre matériel.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-14 ans
-    description: "<p>Ce stage propose une découverte des cinq sports de raquettes,
-      à savoir le tennis, le badminton, le tennis de table, le paddle et le speedminton.</p><p>Par
+    age: 7-16 ans
+    description: "<p><em>Stage en collaboration avec le </em><strong><em>Royal Laeken
+      Tennis Club (Wemmel)</em></strong></p><p>Votre enfant est amateur de sports
+      raquettes ?</p><p>Ce stage propose une découverte des cinq sports de raquettes,
+      à savoir le tennis, le badminton, le tennis de table, le padel et le speedminton.</p><p>Par
       différents jeux, les enfants apprennent les bases des sports afin de pouvoir
-      réaliser des échanges.</p><p>Variété et plaisir garantis !</p>"
+      réaliser des échanges.</p><p><strong>Variété et plaisir garantis !</strong></p>"
     infos:
-    - alias: Raquette perso
-      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
-        Vous pouvez bien sûr apporter votre propre matériel.
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
+        disposition. Vous pouvez bien sûr apporter votre propre matériel.
 - name: Self Defense
   img: "/assets/images/stages/activitessportives/selfdefense.png"
   inscription: ''
