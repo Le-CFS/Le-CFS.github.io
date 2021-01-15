@@ -1619,11 +1619,16 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-12 ans
-    description: "<p>Ce stage prévoit une initiation et/ou un perfectionnement de
-      la danse moderne Jazz &amp; Hip-Hop. (musique, tempos, mouvements, danse en
-      groupe).</p><p>Les enfants réalisent également des chorégraphies sur les différents
-      tubes du moment.</p><p>Un petit spectacle est prévu à la fin de la semaine !</p>"
-    infos: []
+    description: "<p>Envie de devenir une vraie danseuse ?</p><p>Ce stage prévoit
+      une initiation et/ou un perfectionnement de la danse moderne Jazz &amp; Hip-Hop
+      (musique, tempos, mouvements, danse en groupe).</p><p>Durant la semaine de stage,
+      les enfants auront l'occasion de réaliser des chorégraphies sur différentes
+      musiques rythmées et actuelles. Ils apprendront à coordonner leurs mouvements
+      et à suivre le tempo des musiques.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Un petit spectacle est prévu à la fin de la semaine (selon les possibilités
+        avec le Covid).
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-12 ans
