@@ -3115,12 +3115,14 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p>Ce stage propose une découverte des cinq sports de raquettes,
-      à savoir le tennis, le badminton, le tennis de table, le paddle et le speedminton.</p><p>Par
-      différents jeux, les enfants apprennent les bases des sports afin de pouvoir
-      réaliser des échanges.</p><p>Variété et plaisir garantis !</p>"
+    description: <p>Votre enfant est amateur de sports raquettes ? <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
+      title="laugh" alt="laugh"></p><p>Ce stage propose une découverte des cinq sports
+      de raquettes, à savoir le tennis, le badminton, le tennis de table, le padel
+      et le speedminton.</p><p>Par différents jeux, les enfants apprennent les bases
+      des sports afin de pouvoir réaliser des échanges.</p><p><strong>Variété et plaisir
+      garantis !</strong></p>
     infos:
-    - alias: Raquette perso
+    - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
   - alias: Bruxelles
