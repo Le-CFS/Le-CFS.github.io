@@ -2100,11 +2100,11 @@ stages:
       Skate Park : Louvain, Malines, Alost, Dilbeek, ou encore les Ursulines dans
       le centre de Bruxelles.</p>"
     infos:
+    - alias: Equipement
+      info_line: Les enfants doivent amener leur BMX et toutes les protections.
     - alias: Déplacements
       info_line: 'Les déplacements en transport en commun sont assurés par le CFS.
         Lieu de départ : la gare de Rixensart.'
-    - alias: Matériel
-      info_line: Les enfants doivent amener leur BMX et toutes les protections.
 - name: Evasion
   img: "/assets/images/stages/activitesfun/evasion.png"
   inscription: ''
