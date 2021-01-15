@@ -375,11 +375,13 @@ stages:
     ville: Bruxelles
     age: 8-14 ans
     description: "<p>Lors de ce stage, nos petits scientifiques vont découvrir par
-      des petites expériences physiques, chimiques et biologiques le monde des sciences.
-      La journée est composée de 3h de sciences et 3h de sport.</p><p>Pour se fondre
-      dans l'univers des sciences et de la technologie, une excursion est prévue à
-      l'Euro Space Center!</p>"
-    infos: []
+      des petites expériences physiques, chimiques et biologiques le monde des sciences.</p><p>La
+      journée est composée de <strong>3h de sciences et 3h de sport.</strong></p><p>Pour
+      se fondre dans l'univers des Sciences et de la technologie, une excursion inoubliable
+      est prévue à <strong>Technopolis !</strong></p>"
+    infos:
+    - alias: Transports
+      info_line: Les transports sont assurés par le CFS.
 - name: Quad & Laser
   categorie: Activités fun
   img: "/assets/images/anniversaires/activites/quad.png"
