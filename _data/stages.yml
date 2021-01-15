@@ -1904,20 +1904,40 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 9 à 16 ans
-    description: "<p>Ce stage introduit le Hip-hop, un style de danse qui demande
-      de l'énergie pour effectuer des phases chorégraphiques debout mais aussi des
-      figures acrobatiques au sol. Les jeunes danseurs pourront s'essayer aux figures
-      de base et/ou se perfectionner. </p>"
-    infos: []
+    age: 9-16 ans
+    description: "<p>Envie de bouger ? Viens te défouler et développer ta créativité
+      en hip hop !</p><p>Ce stage est parfait pour s'initier ou se perfectionner aux
+      danses de rue de manière ludique !</p><p>Il faudra beaucoup d'énergie pour effectuer
+      des phases chorégraphiques debout mais aussi des figures acrobatiques au sol.</p><p>Les
+      enfants auront l'occasion de se défouler et d'apprendre les techniques propres
+      au Hip hop à travers différentes chorégraphies et ateliers. Différents styles
+      en rapport avec cette danse seront également abordés : le popping, le new style,
+      et la house.</p><p>Chaque journée de stage comporte trois périodes de hip hop
+      et une période de jeux en extérieur où les enfants auront la chance de découvrir
+      différents jeux collectifs : unihoc, basketball, crosse canadienne, ball bouncer,
+      ou encore baseball.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Une petite représentation est prévue en fin de semaine (selon les
+        possibilités avec le Covid).
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 9-16 ans
-    description: "<p>Ce stage introduit le Hip-hop, un style de danse qui demande
-      de l'énergie pour effectuer des phases chorégraphiques debout mais aussi des
-      figures acrobatiques au sol. Les jeunes danseurs pourront s'essayer aux figures
-      de base et/ou se perfectionner. </p>"
-    infos: []
+    description: "<p>Envie de bouger ? Viens te défouler et développer ta créativité
+      en hip hop ! </p><p>Ce stage est parfait pour s'initier ou se perfectionner
+      aux danses de rue de manière ludique !</p><p>Il faudra beaucoup d'énergie pour
+      effectuer des phases chorégraphiques debout mais aussi des figures acrobatiques
+      au sol.</p><p>Les enfants auront l'occasion de se défouler et d'apprendre les
+      techniques propres au Hip hop à travers différentes chorégraphies et ateliers.
+      Différents styles en rapport avec cette danse seront également abordés : le
+      popping, le new style, et la house.</p><p>Chaque journée de stage comporte trois
+      périodes de hip hop et une période de jeux en extérieur où les enfants auront
+      la chance de découvrir différents jeux collectifs : unihoc, basketball, crosse
+      canadienne, ball bouncer, ou encore baseball.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Une petite représentation est prévue en fin de semaine (selon les
+        possibilités avec le Covid).
 - name: Aventure
   img: "/assets/images/stages/activitesfun/aventure.png"
   inscription: ''
