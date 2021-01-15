@@ -2079,7 +2079,7 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 8 à 12 ans
-    description: '<p>Votre enfant est un vrai biker à la recherche de FUN et d’adrénaline
+    description: "<p>Votre enfant est un vrai biker à la recherche de FUN et d’adrénaline
       ? Il n’aura pas le temps de s’ennuyer avec ce stage !</p><p>Chaque jour les
       enfants pratiqueront du VTT une partie de la journée. Ils alterneront parcours
       sur la route et dans les bois, apprendront à dévaler les descentes et à faire
@@ -2087,21 +2087,17 @@ stages:
       enfants doivent être capables de rouler 8km par jour.</p><p>Le restant de la
       journée est complété par des activités <strong>fun</strong> <strong>games</strong>
       (frisbee golf, snag golf, spike ball, kinball, slag foot), du <strong>laser
-      game</strong> ou de l''<strong>arrow game </strong>(jeux de flèches : prises
-      de château, courses de lapin, jeux de rôle avec des épées, chevaliers et majes).</p><p><img
-      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened">Attention : il faut un VTT, un cadenas,
-      une chambre à air de rechange, ainsi qu’un casque dès le premier jour du stage
-      !</p>'
+      game</strong> ou de l'<strong>arrow game </strong>(jeux de flèches : prises
+      de château, courses de lapin, jeux de rôle avec des épées, chevaliers et majes).</p>"
     infos:
+    - alias: Equipement
+      info_line: 'Attention : il faut un VTT, un cadenas, une chambre à air de rechange,
+        ainsi qu’un casque dès le premier jour du stage !'
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur. Prévoir
         également une tenue de rechange en fonction de la météo.
     - alias: Condition physique
       info_line: Une bonne condition physique est indispensable.
-    - alias: Matériel
-      info_line: Attention, il faut un VTT, un gilet fluo, un cadenas ainsi qu'une
-        chambre à air de rechange le premier jour du stage !
 - name: Karting & Fun
   img: "/assets/images/stages/activitesfun/kartingetfun.png"
   inscription: ''
