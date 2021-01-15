@@ -2198,9 +2198,10 @@ stages:
     description: "<p>Tu veux découvrir le badminton ?</p><p>Rejoins-nous !</p><p>Grâce
       à ce stage, tu progresseras à ton rythme, tout en apprenant les bonnes techniques
       (jonglage, déplacement, lancer, visualisation de la trajectoire du volant,...).</p><p>Chaque
-      jour, tu apprendras les règles de base et tu développeras ton fair-play en disputant
-      des matchs amicaux.</p><p>La journée est complétée par des activités de multisports
-      (ballon, parcours,...)</p><p>Un tournoi est organisé en fin de semaine.</p>"
+      jour, tu apprendras les règles de base du badminton et tu développeras ton fair-play
+      en disputant des petits matchs amicaux.</p><p>La journée est complétée par des
+      activités de multisports (ballon, parcours,...).</p><p>Un tournoi est organisé
+      en fin de semaine.</p>"
     infos:
     - alias: Matériel
       info_line: Le CFS met à votre disposition le matériel.
@@ -2799,7 +2800,10 @@ stages:
     age: 8-14 ans
     description: "<p>Futur Hergé ? Ce stage est fait pour votre enfant !</p><p>Il
       apprendra à créer des planches de BD : construction d'un scénario, ébauche,
-      croquis,...</p>"
+      croquis,...</p><p>Votre enfant aura la possibilité de développer sa créativité
+      au travers du dessin. Il apprendra les notions de création de scénario et de
+      personnage, de storyboard, et de phylactère.</p><p>Durant la semaine de stages,
+      les enfants aborderont également des sujets sur l'histoire de la bande dessinée.</p>"
     infos:
     - alias: Matériel
       info_line: Se munir d'une latte, de crayons, d'un taille-crayon, d'une gomme
