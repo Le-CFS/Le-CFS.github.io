@@ -1849,16 +1849,19 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-14 ans
-    description: "<p>Votre enfant souhaite s'initier à la gymnastique ?</p><p>Durant
+    description: "<p>Votre enfant souhaite s'initier à la gymnastique ? </p><p>Durant
       ce stage, les enfants vont découvrir les plaisirs de la gymnastique par un travail
-      aux agrès.</p><p>Ils développeront les qualités de base de cette discipline
-      (force, souplesse, équilibre et audace).</p><p>Les enfants suivront 2 séances/jour
-      de gymnastique.</p><p>Le reste de la journée, des activités de multisports (ballons,
-      raquette...) sont proposées.</p>"
+      aux 4 agrès : poutre, barres asymétriques, sol et sauts..</p><p>Ils développeront
+      les qualités de base de cette discipline (force, souplesse, équilibre et audace).</p><p>Chaque
+      journée de stage comporte deux deux périodes de gymnastique (toute la matinée
+      et une partie de l'après-midi). Le reste de la journée, des activités de multisports
+      telles que les sports de ballons, jeux de raquettes, baseball, unihoc etc. sont
+      proposées. Ces activités sont privilégiées en extérieur lorsque la météo le
+      permet.</p>"
     infos:
-    - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription. '
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue collante adaptée à la gymnastique (tu ne dois pas
+        nécessairement porter de maillot de gym, mais si tu en as un, il est le bienvenu).
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-14 ans
