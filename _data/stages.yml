@@ -20,11 +20,12 @@ stages:
       et leur niveau.</p><p>Le mardi et jeudi après-midi, tu peux rejoindre une activité
       fun pour diversifier le stage : détective, koh lanta, jeux de piste, ou frisbee.</p><p><strong><img
       src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened">Les membres du club de la Courtoise bénéficient
-      d''une réduction de 5€/jour de stage.</strong></p><p><strong><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
       title="enlightened" alt="enlightened">Stage uniquement réservé aux filles.</strong></p><p><strong><em>Garderie
       </em></strong><em>: inscriptions sur place !</em></p>'
     infos:
+    - alias: 'Membres du club de la Courtoise '
+      info_line: Les membres du club de la Courtoise bénéficient d'une réduction de
+        5€/jour de stage.
     - alias: Tenue adaptée
       info_line: Prévoir une tenue collante adaptée à la gymnastique (tu ne dois pas
         nécessairement porter de maillot de gym, mais si tu en as un, il est le bienvenu).
