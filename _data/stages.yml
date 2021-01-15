@@ -2574,12 +2574,12 @@ stages:
       Jette BXL Cap</em></strong></p><p>Ce stage prévoit une alternance d'entraînements
       (technique ballon et technique de jeu) et de petits matchs.</p>"
     infos: []
-- name: Futsal Euro 2020
-  img: "/assets/images/stages/activitessportives/futsal2020.png"
+- name: Futsal Euro 2021
+  img: "/assets/images/futsaleuro2021.jpg"
   inscription: ''
   categorie: Les petits bouts
-  online: false
-  nouveau: false
+  online: true
+  nouveau: true
   stage_une: false
   location:
   - alias: Bruxelles
