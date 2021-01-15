@@ -1232,7 +1232,9 @@ stages:
       stage en collaboration avec<strong><em> Royal Tennis Club Laeken</em></strong></p></li><li><p>Schaerbeek
       : stage en collaboration avec <strong><em>Lambermont Tennis Academy</em></strong>
       (sur terrain de 12m, balles en mousse)</p></li></ul>"
-    infos: []
+    infos:
+    - alias: Matériel
+      info_line: Tout le matériel de tennis est fourni par notre partenaire. 
   - alias: Liège
     ville: Liège
     age: 4-6 ans
