@@ -488,14 +488,24 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Baby Multisports & Poney
+  - alias: Brabant
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p><em>Stage en partenariat avec </em><strong><em>Pony Plesure</em></strong></p><p>Les
-      enfants pratiquent une activité sportive 1/2 journée et s'adonnent à une initiation
-      à l'équitation sur poneys, aux soin des animaux et à des la balades l'autre
-      demi-journée.</p>"
-    infos: []
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Pony Plesure</em></strong></p><p>Chaque
+      journée de stage commence par une pleine participation à la vie du manège :
+      soins et pansage des poneys, nettoyage des box, initiation à l'équitation sur
+      poneys, balades et jeux à poney.</p><p>Le reste du stage est complété par des
+      activités multisports. Votre enfant découvrira un premier contact avec le sport
+      et les jeux collectifs, par lequel il développera les différentes facettes de
+      la motricité, le respect des règles et la vie en groupe. Votre enfant découvrira
+      un large panel d'activités fun et ludiques.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Le manège met à disposition tout le matériel adéquat pour les petits
+        cavaliers.
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
+        large) et des bottes, ainsi que des baskets pour les activités multisports.
 - name: Baby Escalade
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/babyescalade.jpg"
