@@ -820,6 +820,9 @@ stages:
       ans (PSYCHO) :</em></strong> les enfants doivent être propres. Le cas échéant,
       il faut inscrire votre petit-bout en pré-psycho.</p>"
     infos:
+    - alias: Enfants propres !
+      info_line: Les enfants doivent être propres (dans le cas contraire nous vous
+        conseillons de les inscrire en pré-psycho).
     - alias: Tenue de rechange
       info_line: 'Il est demandé aux parents de prévoir un sac avec une tenue de rechange
         pour leur enfant. '
@@ -845,6 +848,9 @@ stages:
     - alias: Tenue de rechange
       info_line: Il est demandé aux parents de prévoir un sac avec une tenue de rechange
         pour leur enfant.
+    - alias: Enfants propres !
+      info_line: Les enfants doivent être propres (dans le cas contraire nous vous
+        conseillons de les inscrire en pré-psycho).
 - name: Psycho Grimpette
   img: "/assets/images/stages/lespetitsbouts/psychogrimpette.png"
   inscription: ''
@@ -994,25 +1000,26 @@ stages:
     description: "<p>Envie d'un grand bol d'air pour vos petits bouts ? Ce stage est
       fait pour eux !</p><p>Chaque matin, les enfants se promèneront près du centre
       et iront à la découverte de la nature. Ils chercheront les trésors que la nature
-      offre...</p><p>Dès leur retour, ils réaliseront un bricolage avec les richesses
-      ramenées lors de leur expédition.</p><p>Le stage est complété par des activités
-      de psychomotricité.</p><p>Les stages pour les plus petits tendent au développement
-      harmonieux des enfants au travers d’activités adaptées à leur âge. L’enfant
-      développe de nouvelles aptitudes tout en jouant : il apprend les règles du jeu
-      et de groupe, développe sa sociabilité et explore les différentes facettes de
-      la motricité.<br>Le rythme de l’enfant est respecté et une sieste est prévue
-      pour les enfants qui en ont besoin. Il y a maximum 12 enfants par groupe (8
-      enfants pour la Pré-Psychomotricité).<br><br>Pour chaque stage, il y a une base
-      commune de psychomotricité (jeux de coopération, parcours d’adresse, d’audace,
-      exercices de latéralité) et bien sûr un apprentissage spécifique en fonction
-      du thème proposé.</p><p>Il est demandé aux parents de prévoir un sac avec une
-      tenue de rechange pour leur enfant.</p>"
+      offre, feront une chasse une trésor,...</p><p>Dès leur retour, ils réaliseront
+      un bricolage avec les richesses ramenées lors de leur expédition.</p><p>Les
+      enfants peuvent bien évidemment repartir avec leurs bricolages en fin de semaine
+      !</p><p>Le stage est également complété par des activités de psychomotricité
+      : jeux de coopération, parcours d’adresse, d’audace, exercices de latéralité.</p><p>Les
+      stages pour les plus petits tendent au développement harmonieux des enfants
+      au travers d’activités adaptées à leur âge. L’enfant développe de nouvelles
+      aptitudes tout en jouant : il apprend les règles du jeu et de groupe, développe
+      sa sociabilité et explore les différentes facettes de la motricité.</p><p>Le
+      rythme de l'enfant est respecté et une sieste est prévue pour les enfants qui
+      en ont besoin. Il y a maximum 12 enfants par groupe.</p><p>Il est demandé aux
+      parents de prévoir un sac avec une tenue de rechange pour leur enfant. Pour
+      les stages commençant à 3 ans (PSYCHO) : les enfants doivent être propres. Le
+      cas échéant, il faut inscrire votre petit-bout en pré-psycho.</p>"
     infos:
     - alias: Enfants propres
       info_line: Les enfants doivent être propres (dans le cas contraire nous vous
         conseillons de les inscrire en pré-psycho).
     - alias: Tenue adaptée
-      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
+      info_line: Prévoir une tenue adaptée pour les bricolages/peintures et pour l'extérieur.
 - name: Psycho Sport
   img: "/assets/images/stages/lespetitsbouts/psychosport.png"
   inscription: ''
