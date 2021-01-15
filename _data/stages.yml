@@ -3402,18 +3402,22 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-8 ans
+    age: 8-14 ans
     description: "<p>Tu aimes le monde féérique de la magie et du cirque ?</p><p>Ce
       stage s'adresse à toi !</p><p>Tu découvriras les diverses disciplines issues
       du monde du cirque : équilibre (échasses, monocycle), acrobatie (pyramides,
       trampoline), jonglerie (foulards, balles, quilles) et adresse (diabolos, bâtons
-      du diable).</p><p>L'autre partie de la journée, tu apprendras, par petit groupe,
-      à maîtriser les tours de magie (selon ton niveau d’habilité et de concentration
-      !).</p>"
+      du diable).</p><p>Grâce à un magicien ayant plein de tours dans son sac, tu
+      découvriras la seconde partie de la journée de stage le monde de l’illusion
+      et de la manipulation. Tu apprendras, par petits groupes, à maîtriser différents
+      tours de magie (selon ton niveau d’habilité et de concentration !) : disparition
+      d'une pièce, jeu des gobelets, jeux de dés, tours de cartes, réalisation de
+      calculs complexes grâce au mental log, etc.</p><p>Tu pourras repartir avec un
+      pack de magie en fin de stage !</p>"
     infos:
-    - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription. '
+    - alias: Spectacle
+      info_line: Un petit spectacle de magie et de cirque prévu en fin de semaine
+        (selon les possibilités avec le Covid).
 - name: Magie & Fun
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
