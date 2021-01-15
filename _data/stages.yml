@@ -3169,17 +3169,21 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p>Les enfants partiront chaque jour en vélo à la découverte des
-      alentours de leur centre afin d'être sensibilisé à <strong>l'écologie </strong>et
-      à la <strong>biodiversité</strong>. Durant cette balade, ils observeront les
-      insectes et les plantes et pourront également construire des cabanes. Une journée
-      initiation à la <strong>pêche </strong>sera proposée à votre enfant. L'après-midi
-      est consacrée à la<strong> découverte de sports collectifs</strong>. </p><p>Une
-      bonne semaine de bouffées d'air frais !</p>"
+    description: "<p>Votre enfant est un amoureux de la nature ? Ce stage promet une
+      semaine de bouffées d'air frais !</p><p>Les enfants partiront chaque jour en
+      vélo à la découverte des alentours de leur centre afin d'être sensibilisés à
+      <strong>l'écologie </strong>et à la <strong>biodiversité</strong>. Durant cette
+      balade, ils observeront les insectes et les plantes et pourront également construire
+      des cabanes.</p><p>Une journée initiation à la <strong>pêche </strong>sera proposée
+      à votre enfant.</p><p>L'après-midi est consacrée à la<strong> découverte de
+      sports collectifs </strong>en extérieur tels que le unihoc, la crosse canadienne,
+      le baseball, le basketball, ou encore le ball bouncer.</p>"
     infos:
-    - alias: Matériel
-      info_line: 'Attention : il faut un vélo, un gilet fluo, un cadenas, un casque
-        ainsi qu''une chambre à air de rechange dès le premier jour du stage !'
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur.
+    - alias: Equipement à prévoir !
+      info_line: " Attention : il faut un vélo, un cadenas, un casque ainsi qu'une
+        chambre à air de rechange dès le premier jour du stage !"
 - name: Tennis
   img: "/assets/images/stages/activitessportives/tennis.png"
   inscription: ''
