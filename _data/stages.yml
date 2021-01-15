@@ -906,40 +906,28 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 3-4 ans
-    description: '<p><strong>Et 1,2,3 PLOUF !</strong></p><p>1er pas dans l''eau ?</p><p>Ce
-      stage apprend à votre enfant les bases de la natation par le biais d''activités
+    description: "<p><strong>Et 1,2,3 PLOUF !</strong></p><p>1er pas dans l'eau ?</p><p>Ce
+      stage apprend à votre enfant les bases de la natation par le biais d'activités
       ludiques (voyage sur une frite ou une planche, apprendre à mettre la tête sous
-      l''eau, etc.), le tout dans une ambiance décontractée !</p><p>Ils auront l''occasion
+      l'eau, etc.), le tout dans une ambiance décontractée !</p><p>Ils auront l'occasion
       de faire connaissance avec les joies de la piscine et de la pataugeoire via
-      une heure quotidienne d''accoutumance à l''eau.</p><p>L''autre partie de la
-      journée, des activités de psychomotricité seront proposées aux enfants : jeux
-      de coopération, parcours d’adresse, d’audace, exercices de latéralité.</p><p>Les
-      stages pour les plus petits tendent au développement harmonieux des enfants
-      au travers d’activités adaptées à leur âge. L’enfant développe de nouvelles
-      aptitudes tout en jouant : il apprend les règles du jeu et de groupe, développe
-      sa sociabilité et explore les différentes facettes de la motricité.</p><p>Le
-      rythme de l’enfant est respecté et une sieste est prévue pour les enfants qui
-      en ont besoin. Il y a maximum 12 enfants par groupe.</p><p>Il est demandé aux
-      parents de prévoir un sac avec une tenue de rechange pour leur enfant. Pour
-      les stages commençant à 3 ans (PSYCHO) : les enfants doivent être propres. Le
-      cas échéant, il faut inscrire votre petit-bout en pré-psycho.</p><p><strong><img
-      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened">Prévoir un maillot, un bonnet, et un essuie.</strong></p>'
+      une heure quotidienne d'accoutumance à l'eau.</p><p>L'autre partie de la journée,
+      des activités de psychomotricité seront proposées aux enfants : jeux de coopération,
+      parcours d’adresse, d’audace, exercices de latéralité.</p><p>Les stages pour
+      les plus petits tendent au développement harmonieux des enfants au travers d’activités
+      adaptées à leur âge. L’enfant développe de nouvelles aptitudes tout en jouant
+      : il apprend les règles du jeu et de groupe, développe sa sociabilité et explore
+      les différentes facettes de la motricité.</p><p>Le rythme de l’enfant est respecté
+      et une sieste est prévue pour les enfants qui en ont besoin. Il y a maximum
+      12 enfants par groupe.</p><p>Il est demandé aux parents de prévoir un sac avec
+      une tenue de rechange pour leur enfant. Pour les stages commençant à 3 ans (PSYCHO)
+      : les enfants doivent être propres. Le cas échéant, il faut inscrire votre petit-bout
+      en pré-psycho.</p>"
     infos:
     - alias: Etre à l'aise dans l'eau
       info_line: Votre enfant doit être à l'aise dans l'eau.
-    - alias: Bonnet
-      info_line: Bonnet de bain obligatoire.
-  - alias: Liège
-    ville: Liège
-    age: 3-5 ans
-    description: "<p>Un stage de psychomotricité qui sera agrémenté, quotidiennement,
-      d'une heure d'accoutumance à l'eau. Une aubaine pour les petits qui auront l'occasion
-      de faire connaissance avec les joies de la piscine, en toute sécurité.</p><p>Une
-      période de repos est prévue après le temps de midi.</p>"
-    infos:
-    - alias: Tenue de rechange
-      info_line: Prévoir des habits de rechange.
+    - alias: Tenue de bain
+      info_line: Prévoir un maillot, un bonnet, et un essuie.
 - name: Psycho Natation
   img: "/assets/images/psychonatation.jpg"
   inscription: ''
