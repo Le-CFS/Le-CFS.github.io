@@ -2887,10 +2887,26 @@ stages:
     ville: Brabant Wallon
     age: 8-16 ans
     description: "<p>Tu veux évoluer au sein d'une troupe de comédie musicale ? Alors
-      viens !</p><p>Dansons, chantons, jouons au théâtre tous ensemble !</p><p>Mais,
-      très important, la journée commence par un échauffement, des vocalises,...</p><p>Spectacle
-      en fin de semaine !</p>"
-    infos: []
+      rejoins nous !</p><p>Dansons, chantons, jouons au théâtre tous ensemble !</p><p>Ce
+      stage allie différentes activités pour éveiller les sens et la créativité de
+      vos enfants.</p><p>Chaque journée commence par un échauffement, des vocalises,
+      l'apprentissage de différentes chansons, etc.</p><p>Les enfants pratiquent également
+      de la danse. Elle leur permet d'apprendre à bouger avec leur corps, à maîtriser
+      leurs mouvements pour pouvoir se repérer dans l’espace. Par des chorégraphies
+      et des jeux sur le rythme, les enfants apprennent à respecter le tempo d'une
+      musique.</p><p>Ensuite, ils apprennent à jouer au théâtre, à exprimer leurs
+      sentiments par des mouvements.</p><p>Sur base de tous leurs acquis, les enfants
+      pourront créer leurs propres piécettes et les jouer sur une grande scène tels
+      de vrais comédiens !</p><p>Chaque journée de stage comporte trois périodes de
+      comédie musicale et une période de jeux collectifs en extérieur : unihoc, crosse
+      canadienne, basketball, ball bouncer, baseball, etc.</p>"
+    infos:
+    - alias: Costume à prévoir
+      info_line: Il sera demandé aux enfants d'apporter un costume en fonction du
+        thème de la pièce de théâtre.
+    - alias: Spectacle
+      info_line: Spectacle en fin de semaine (selon les possibilités avec le Covid)
+        !
 - name: Débrouillard
   img: "/assets/images/stages/activitesartistiquesetloisirs/debrouillard.png"
   inscription: ''
