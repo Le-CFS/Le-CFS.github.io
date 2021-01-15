@@ -1958,27 +1958,38 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 12-16 ans
-    description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
+    description: '<p>Envie d''une semaine hyper fun ? Viens à ce stage phare du CFS
       ! Un super programme ! Une activité différente chaque jour !</p><p><strong>PROGRAMME
-      CARNAVAL</strong>: <em>New Games, Aqualibi, Ski, Koezio &amp; Space Fun Game</em></p><p><strong>PROGRAMME
-      PAQUES</strong>: <em>New Games, Walibi, Aqualibi, Mer (pas en Pâques 1) &amp;
-      Koezio</em></p><p><strong>PROGRAMME ETE</strong>:<em> New Games, Walibi, mer,
-      barrage de l'Eau d'Heure ou Profondeville, Koezio</em></p>"
+      CARNAVAL </strong>: new games, Aqualibi, ski, Koezio &amp; Space Fun Game</p><p><strong>PROGRAMME
+      PAQUES </strong>: new games, Walibi, Aqualibi, mer (pas en Pâques 1) &amp; Koezio</p><p><strong>PROGRAMME
+      ETE </strong>: new games, Walibi, mer, barrage de l''Eau d''Heure ou Profondville,
+      Koezio</p><ul><li><p><strong>New games </strong>: différentes activités fun
+      sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball,
+      kinball, flag foot.</p></li><li><p><strong>Excursion de ski à la Snow Valley
+      de Peer</strong> : les ados peuvent voyager librement dans la station et des
+      accompagnants sont présent avec eux sur les pistes.</p></li><li><p><strong>Excursion
+      à Koezio au Docks Bruxsel</strong> : le centre propose des jeux de collaboration
+      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
+      épreuves de rapidité, de culture générale, et de l''accrobranche.</p></li><li><p><strong>Excursion
+      à Space Fun Game d''Etterbeek</strong> : activités de type Fort Boyard.</p></li><li><p><strong>Excursion
+      à la mer</strong> : jeux dans le sable, cuistax, frisbee, etc.</p></li><li><p><strong>Excursion
+      au barrage de l''Eau d''Heure</strong> : aquaparc avec des structures gonflables
+      sur eau.</p></li><li><p><strong>Excursion à Profondville </strong>: bouée tractée,
+      kayak.</p></li></ul><p><strong><em>ATTENTION :</em></strong><em> le programme
+      peut changer les semaines plus courtes.</em></p><p><strong><em><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened"></em>Les déplacements en transports en
+      commun sont assurés par le CFS.</strong></p>'
     infos:
+    - alias: Tenue de bain
+      info_line: Prévoir son maillot et un essuie pour les activités avec de l'eau
+        (Aqualibi, mer, barrage de l'Eau d'Heure et Profondville).
     - alias: Garderie
       info_line: Attention pas de garderie pour le stage Evasion !
     - alias: Déplacements
       info_line: Les déplacements se font en transports en commun. Nos partenaires
         prennent toutes les mesures d’hygiène et sanitaires concernant le Covid-19.
     - alias: Koézio
-      info_line: 'Pour Koezio : taille minimum 1,40 m.'
-    - alias: Masque et gel
-      info_line: Port du masque obligatoire. Se munir également d’un gel hydroalcoolique.
-        Nous insistons sur ces différentes mesures pour la bonne organisation du stage.
-    - alias: Moniteur diplômé
-      info_line: Moniteur diplômé dans l’enseignement ou l’animation, ayant déjà de
-        l’expérience pour ce stage et formé pour le respect des différentes mesures
-        à suivre du protocole des stages.
+      info_line: 'Pour Koézio : taille minimum 1m40.'
 - name: Fun Ado
   img: "/assets/images/stages/activitesfun/funado.jpg"
   inscription: ''
