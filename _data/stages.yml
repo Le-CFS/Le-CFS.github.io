@@ -2329,7 +2329,7 @@ stages:
       info_line: Prévoir des vêtements adaptés pour les activités en extérieur.
     - alias: Transports
       info_line: Les transports sont assurés par le CFS.
-- name: Skate Pro
+- name: Pro Skate
   img: "/assets/images/stages/activitesfun/skatepro.png"
   inscription: ''
   categorie: Activités fun
@@ -2340,16 +2340,21 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong></p><p>Ce
-      stage en partenariat avec Max Extrême prévoit une initiation et un perfectionnement
-      au skateboard. Les as de la planche vont apprendre de nouvelles figures dans
-      une ambiance propre à ces sports extrêmes. Lors de ce stage d'exception, les
-      jeunes sont encadrés par des professionnels dans leur domaine. Chaque jour,
-      les enfants partent découvrir un nouveau Skate Park. </p>"
+    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême </em></strong><em>(plus
+      de 20 ans d'expérience dans l'apprentissage de skateboard et BMX)</em></p><p>Ce
+      stage prévoit une initiation et un perfectionnement au skateboard. Les as de
+      la planche vont apprendre de nouvelles figures dans une ambiance propre à ces
+      sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par
+      des professionnels dans leur domaine.</p><p>Chaque jour, les enfants partent
+      découvrir un nouveau Skate Park : Louvain, Malines, Alost, Dilbeek, ou encore
+      les Ursulines dans le centre de Bruxelles.</p>"
     infos:
     - alias: Equipement
       info_line: Les enfants doivent amener leur skate et toutes les protections.
-- name: Trottinette Pro
+    - alias: Déplacements
+      info_line: 'Les déplacements en transport en commun sont assurés par le CFS.
+        Lieu de départ : la gare de Rixensart.'
+- name: 'Pro Trottinette '
   img: "/assets/images/stages/activitesfun/trottinettepro.png"
   inscription: ''
   categorie: Activités fun
@@ -2360,13 +2365,20 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong></p><p>Ce
+    description: '<p><em>Stage en partenariat avec</em><strong><em> Max Extrême </em></strong><em>(plus
+      de 20 ans d''expérience dans l''apprentissage de skateboard et BMX)</em></p><p>Ce
       stage prévoit une initiation et un perfectionnement à trottinette. Les as de
-      la trot' vont apprendre de nouvelles figures dans une ambiance propre à ces
-      sports extrêmes. Lors de ce stage d'exception, les jeunes sont encadrés par
-      des professionnels dans leur domaine. Chaque jour, les enfants partent découvrir
-      un nouveau Skate Park. </p>"
+      la trot'' vont apprendre de nouvelles figures dans une ambiance propre à ces
+      sports extrêmes. Lors de ce stage d''exception, les jeunes sont encadrés par
+      des professionnels dans leur domaine.</p><p>Chaque jour, les enfants partent
+      découvrir un nouveau Skate Park : Louvain, Malines, Alost, Dilbeek, ou encore
+      les Ursulines dans le centre de Bruxelles.</p><p><strong><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les enfants doivent amener leur trottinette
+      et toutes les protections.</strong></p>'
     infos:
+    - alias: Déplacements
+      info_line: 'Les déplacements en transport en commun sont assurés par le CFS.
+        Lieu de départ : la gare de Rixensart.'
     - alias: Matériel
       info_line: Les enfants doivent amener leur trottinette et toutes les protections.
 - name: Tennis - Fun & Aventure
