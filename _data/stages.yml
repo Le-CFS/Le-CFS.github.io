@@ -3641,6 +3641,29 @@ stages:
   nouveau: true
   stage_une: false
   location:
+  - ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p><strong>Votre enfant est fou de création et de programmation
+      ?</strong></p><p>Ce stage allie les deux : les nouvelles <strong>technologies</strong>
+      et<strong> l’informatique</strong>.</p><p>Afin de donner aux enfants de nouvelles
+      clefs de réussite, nous allons via 5 sessions d’exercices développer des processus
+      de réflexion pour formuler des problèmes et leur(s) solution(s) <em>(création
+      de robots en lego, programmation de robots et présentation du travail effectué).</em></p><p><strong>Pourquoi
+      apprendre à programmer ?</strong></p><ul><li><p>Parce qu’apprendre à coder développe
+      de nombreuses autres compétences: la capacité d’abstraction et de résolution
+      de problème, la pensée logique, les mathématiques, le vocabulaire, etc.</p></li><li><p>Parce
+      nous vivons dans un monde éminemment technologique et qu’il est aussi essentiel
+      d’en maîtriser les notions que de savoir lire, écrire ou compter.</p></li><li><p>Pour
+      que les enfants sachent surfer sur le tsunami technologique sans en être de
+      simples consommateurs.</p></li><li><p>Parce que c’est ludique, et que les enfants
+      manifestent un intérêt naturel pour ces domaines.</p></li><li><p>Parce que la
+      technologie fait pleinement partie de la culture générale du XXIème siècle.</p></li><li><p>Parce
+      que les connaissances apprises dès les premières années sont solidement acquises.</p></li></ul><p><em>Pour
+      éviter que les enfants restent toute la journée devant les écrans, ils passeront
+      une </em><strong><em>demi-journée à d’autres activités</em></strong><em> et
+      </em><strong><em>profiteront des infrastructures sportives du Centre.</em></strong></p>"
+    infos: []
+    alias: Brabant Wallon
   - alias: Bruxelles
     ville: Bruxelles
     age: 8 - 14 ans
@@ -3651,7 +3674,7 @@ stages:
       de réflexion pour formuler des problèmes et leur(s) solution(s) <em>(création
       de robots en lego, programmation de robots et présentation du travail effectué).</em></p><p><strong>Pourquoi
       apprendre à programmer ?</strong></p><ul><li><p>Parce qu’apprendre à coder développe
-      de nombreuses autres compétences : la capacité d’abstraction et de résolution
+      de nombreuses autres compétences: la capacité d’abstraction et de résolution
       de problème, la pensée logique, les mathématiques, le vocabulaire, etc.</p></li><li><p>Parce
       nous vivons dans un monde éminemment technologique et qu’il est aussi essentiel
       d’en maîtriser les notions que de savoir lire, écrire ou compter.</p></li><li><p>Pour
@@ -3659,34 +3682,11 @@ stages:
       simples consommateurs.</p></li><li><p>Parce que c’est ludique, et que les enfants
       manifestent un intérêt naturel pour ces domaines.</p></li><li><p>Parce que la
       technologie fait pleinement partie de la culture générale du XXIème siècle.</p></li><li><p>Parce
-      que les connaissances apprises dès les premières années sont solidement acquises.</p></li></ul><p>Pour
+      que les connaissances apprises dès les premières années sont solidement acquises.</p></li></ul><p><em>Pour
       éviter que les enfants restent toute la journée devant les écrans, ils passeront
-      une demi-journée à d’autres activités et profiteront des infrastructures sportives
-      du Centre.</p>"
+      une </em><strong><em>demi-journée à d’autres activités</em></strong><em> et
+      </em><strong><em>profiteront des infrastructures sportives du Centre.</em></strong></p>"
     infos: []
-  - ville: Brabant Wallon
-    age: 8-14 ans
-    description: "<p><strong>Votre enfant est fou de création et de programmation
-      ?</strong></p><p>Ce stage allie les deux : les nouvelles <strong>technologies</strong>
-      et<strong> l’informatique</strong>.</p><p>Afin de donner aux enfants de nouvelles
-      clefs de réussite, nous allons via 5 sessions d’exercices développer des processus
-      de réflexion pour formuler des problèmes et leur(s) solution(s) <em>(création
-      de robots en lego, programmation de robots et présentation du travail effectué).</em></p><p><strong>Pourquoi
-      apprendre à programmer ?</strong></p><ul><li><p>Parce qu’apprendre à coder développe
-      de nombreuses autres compétences : la capacité d’abstraction et de résolution
-      de problème, la pensée logique, les mathématiques, le vocabulaire, etc.</p></li><li><p>Parce
-      nous vivons dans un monde éminemment technologique et qu’il est aussi essentiel
-      d’en maîtriser les notions que de savoir lire, écrire ou compter.</p></li><li><p>Pour
-      que les enfants sachent surfer sur le tsunami technologique sans en être de
-      simples consommateurs.</p></li><li><p>Parce que c’est ludique, et que les enfants
-      manifestent un intérêt naturel pour ces domaines.</p></li><li><p>Parce que la
-      technologie fait pleinement partie de la culture générale du XXIème siècle.</p></li><li><p>Parce
-      que les connaissances apprises dès les premières années sont solidement acquises.</p></li></ul><p>Pour
-      éviter que les enfants restent toute la journée devant les écrans, ils passeront
-      une demi-journée à d’autres activités et profiteront des infrastructures sportives
-      du Centre.</p>"
-    infos: []
-    alias: Brabant Wallon
 - name: Tennis & Anglais
   img: "/assets/images/stages/activitesartistiquesetloisirs/tennisanglaisneerlandais.png"
   inscription: ''
