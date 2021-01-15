@@ -1010,18 +1010,26 @@ stages:
     age: 4-6 ans
     description: "<p>Votre enfant souhaite découvrir le football ? Ce stage est fait
       pour lui !</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
-      avec le ballon par des apprentissages techniques et des jeux. Le stage est complété
-      par de la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace
-      et multisports).</p>"
+      avec le ballon par des apprentissages techniques et des jeux. Votre enfant s'initiera
+      aux différentes techniques de dribles, de foot, de passes, ou encore de contrôle
+      de balle. Les différentes règles seront abordées de manière ludique et des petits
+      matchs seront organisés.</p><p>Lors de ce stage, les enfants découvriront les
+      valeurs essentielles du football : le fair-play et le respect.</p><p>Le stage
+      est complété par de la psychomotricité (jeux de coopérations, parcours d'adresse,
+      d'audace et multisports).</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
     description: "<p>Votre enfant souhaite découvrir le football ? Ce stage est fait
       pour lui !</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
-      avec le ballon par des apprentissages techniques et des jeux. Le stage est complété
-      par de la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace
-      et multisports).</p>"
+      avec le ballon par des apprentissages techniques et des jeux. Votre enfant s'initiera
+      aux différentes techniques de dribles, de foot, de passes, ou encore de contrôle
+      de balle. Les différentes règles seront abordées de manière ludique et des petits
+      matchs seront organisés.</p><p>Lors de ce stage, les enfants découvriront les
+      valeurs essentielles du football : le fair-play et le respect.</p><p>Le stage
+      est complété par de la psychomotricité (jeux de coopérations, parcours d'adresse,
+      d'audace et multisports).</p>"
     infos: []
 - name: Baby Gym
   img: "/assets/images/stages/decouvertesportiveetculturelle/babygym.png"
