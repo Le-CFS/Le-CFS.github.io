@@ -2305,18 +2305,21 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec </em><strong><em>Le Manège de La
-      Motte</em></strong><em> et </em><strong><em>Winterjumping</em></strong></p><p>Ce
-      stage fait découvrir tous les aspects d’une pratique de l’équitation : participation
-      à la vie du Manège de la Motte, soins aux chevaux, dressage, cours théoriques
-      et pratique équestre, promenades...</p>"
+    description: "<p><em>Stage en partenariat avec </em>le manège <strong><em>WinterJumping</em></strong></p><p>Ce
+      stage est une pleine participation à la vie du manège : soins et pansage des
+      chevaux, nettoyage des box, balades et jeux à cheval, voltige pour améliorer
+      la motricité de l'enfant, initiation aux bases de l'équitation adaptée à l'âge
+      de l'enfant et apprentissage de la théorie équestre de manière ludique. Les
+      enfants auront également l'occasion de préparer et de mettre en selle les chevaux
+      avant de les monter.</p><p>Ce stage convient aussi bien pour un niveau débutant
+      qu'un niveau plus avancé en équitation.</p>"
     infos:
     - alias: Garderie
-      info_line: 'Garderie : Inscription sur place !'
+      info_line: Inscription sur place !
     - alias: Matériel
       info_line: Le manège met à disposition tout le matériel adéquat pour les petits
         cavaliers.
-    - alias: Tenue
+    - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
         large) et des bottes.
 - name: Escalade
