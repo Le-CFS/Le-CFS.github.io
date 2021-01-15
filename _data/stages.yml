@@ -2517,7 +2517,9 @@ stages:
       contrôle de balle.</p><p>Chaque entraînement est abordé de manière ludique afin
       d'allier football et plaisir.</p><p>La journée est répartie en 3 périodes de
       football et une période de multisports.</p>"
-    infos: []
+    infos:
+    - alias: Partenariat
+      info_line: 'A Jette : Stage en partenariat avec Futsal Jette'
 - name: Fun & Multisports
   img: "/assets/images/stages/activitessportives/funetmulti.png"
   inscription: ''
