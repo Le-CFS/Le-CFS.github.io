@@ -2080,7 +2080,7 @@ stages:
       info_line: Les enfants doivent emporter le VTT, un casque, une chambre à air
         de rechange ainsi que le cadenas (nous déclinons toute responsabilité en cas
         de vol).
-- name: BMX Pro
+- name: Pro BMX
   img: "/assets/images/stages/activitesfun/bmx.png"
   inscription: ''
   categorie: Activités fun
@@ -2091,16 +2091,20 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec </em><strong><em>Max Extreme</em></strong></p><p>Initiation
-      et perfectionnement au BMX, apprentissage de nouvelles figures.</p><p>Chaque
-      jour, les enfants partent découvrir un nouveau Skate Park : Louvain, Malines,
-      Alost, Dilbeek, ou encore les Ursulines dans le centre de Bruxelles.</p><p>Les
-      jeunes sont encadrés par des professionnels.</p>"
+    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong><em>
+      (plus de 20 ans d'expérience dans l'apprentissage de skateboard et BMX)</em></p><p>Ce
+      stage prévoit une initiation et un perfectionnement au BMX. Nos riders vont
+      apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes.
+      Lors de ce stage d'exception, les jeunes sont encadrés par des professionnels
+      dans leur domaine.</p><p>Chaque jour, les enfants partent découvrir un nouveau
+      Skate Park : Louvain, Malines, Alost, Dilbeek, ou encore les Ursulines dans
+      le centre de Bruxelles.</p>"
     infos:
-    - alias: Navette
-      info_line: Les déplacements sont assurés par le CFS.
+    - alias: Déplacements
+      info_line: 'Les déplacements en transport en commun sont assurés par le CFS.
+        Lieu de départ : la gare de Rixensart.'
     - alias: Matériel
-      info_line: Les enfants doivent amener leur BMX et toutes les protections.
+      info_line: Les enfants doivent amener leur BMX et toutes les protections.
 - name: Evasion
   img: "/assets/images/stages/activitesfun/evasion.png"
   inscription: ''
