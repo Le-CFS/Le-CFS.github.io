@@ -381,6 +381,29 @@ stages:
   stage_une: false
   inscription: ''
   location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Un bel équilibre entre le quad et le Laser Game. Fun et amusement
+      garanti !</p><p>Ce stage accessible pour les enfants à partir de 8 ans, promet
+      des activités fun et ludiques, avec un maximum de sensationnel !</p><p>Durant
+      ce stage, les enfants auront l’occasion de s'initier et se perfectionner à la
+      conduite d’un quad thermique (1 quad pour trois enfants). En fonction du niveau,
+      toutes les techniques de pilotage sont abordées : vitesse, freinage, virage
+      et relance.</p><p>Dès l'arrivée, les enfants seront briefés et répartis en deux
+      sous-groupes en fonction de leur niveau. Pour les débutants, les bases du pilotage
+      seront vues, et pour les intermédiaires et confirmés, les techniques de pilotage
+      seront approfondies. Les enfants apprendront également à entretenir et respecter
+      le matériel.</p><p>Les plus aguerris auront l'opportunité de s'essayer à la
+      moto automatique et manuelle.</p><p>2h de quad sont prévues le matin et 2h l'après-midi.
+      Le reste de la journée de stage, les jeunes apprendront les règles et techniques
+      de base du Laser Game (3x/semaine).</p><p>Une simulation de pilotage en salle
+      est prévue une après-midi du stage à côté du Cartronics à Wavre.</p>"
+    infos:
+    - alias: Equipement
+      info_line: Prévoir une paire de bottines, des vêtements adaptés pour les activités
+        en extérieur, ainsi qu'une tenue de rechange en cas de mauvais temps. Pantalon
+        long obligatoire.
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
@@ -392,12 +415,6 @@ stages:
     - info_line: Il faut un VTT, un gilet fluo, un cadenas ainsi qu'une chambre à
         air de rechange le premier jour du stage !
       alias: Matériel à apporter
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 8-12 ans
-    description: "<p>Un bel équilibre entre le quad et le Laser Game.</p><p>Les jeunes
-      apprendront les règles et techniques de base du Laser Game (3x/semaine).</p>"
-    infos: []
 - name: Plongée - Journée complète
   categorie: Activités sportives
   img: ''
