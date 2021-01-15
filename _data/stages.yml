@@ -2854,11 +2854,18 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: "<p>Tu es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu
-      découvriras les arts du cirque au travers de différents jeux : jonglage, équilibre,
-      pyramide humaine,...</p><p>Et, bien entendu, tout cela dans la joie et la bonne
-      humeur !</p><p>Spectacle en fin de semaine.</p>"
-    infos: []
+    description: "<p><em>Stage en collaboration avec </em><strong><em>Circomodo</em></strong></p><p>Tu
+      es un vrai petit clown ? Ce stage t'est destiné !</p><p>Tu découvriras les arts
+      du cirque à travers différents jeux : jonglage, équilibre, pyramide humaine,...</p><p>La
+      circomotricité, alliant la psychomotricité avec les techniques du cirque, permet
+      à l'enfant d'évoluer et se développer. En apprenant à manier des objets, ainsi
+      qu'à maîtriser son corps, il pourra pratiquer adresse et équilibre.</p><p>Chaque
+      journée de stage comporte trois périodes de cirque et une période de multisports
+      ou de jeux collectifs en intérieur. Le moniteur choisit les activités en fonction
+      des demandes des enfants.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Spectacle en fin de semaine (selon les possibilités avec le Covid).
   - alias: Liège
     ville: Liège
     age: 6-12 ans
