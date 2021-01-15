@@ -1042,14 +1042,23 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir
-      la gymnastique ? Ce stage est fait pour lui !</p><p>Découverte et initiation
+    description: <p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir
+      la gymnastique ? Ce stage est fait pour lui ! </p><p>Découverte et initiation
       à la gymnastique pour les plus jeunes par des parcours d'équilibre, d'audace
-      et premières notions de gymnastique sportive.</p><p>La baby gym va permettre
-      à l’enfant d’améliorer son développement psychomoteur. Ce stage est idéal pour
-      développer l'agilité de votre enfant.</p><p>Un petit spectacle est prévu en
-      fin de semaine pour les parents !</p>"
-    infos: []
+      et des premières notions de gymnastique sportive (faire un cumulet, sauter dans
+      des cerceaux, grimper sur un espalier, marcher sur une poutre, etc.).</p><p>La
+      baby gym est l'idéal pour permettre à l’enfant d’améliorer son développement
+      psychomoteur et de développer son agilité.</p><p>Le stage est complété par de
+      la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace et multisports).</p><p><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened"><strong>Pas de vêtements amples pour ce
+      stage et prévoir des sandales de gym.</strong></p><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Un petit spectacle est prévu en fin de
+      semaine (selon les possibilités covid).</p>
+    infos:
+    - alias: Tenue adaptée
+      info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
+        gym.
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
