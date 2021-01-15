@@ -1597,11 +1597,17 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-16 ans
-    description: "<p><em>Stage en partenariat avec l'association </em><strong><em>4UDance</em></strong></p><p>5
-      types de chorégraphies sont proposées par stage : Funck-Jazz, Hip-Hop, Break-Dance,
-      Ragga et New-Style. Un spectacle est prévu en fin de stage.</p>"
-    infos: []
+    age: 8-14 ans
+    description: "<p><em>Stage en partenariat avec l'association </em><strong><em>4UDance</em></strong></p><p>Envie
+      de devenir une vraie danseuse ?</p><p>5 types de chorégraphies sont proposées
+      par ce stage : Funck-Jazz, Hip-Hop, Break-Dance, Ragga et New-Style.</p><p>Votre
+      enfant apprendra à coordonner ses mouvements, à suivre le tempo de différentes
+      musiques rythmées et actuelles.</p><p>Les enfants doivent déjà avoir des notions
+      de danse pour participer au stage Dance For You.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Un spectacle est prévu en fin de stage (selon les possibilités avec
+        le Covid).
 - name: Danse
   img: "/assets/images/stages/danseetgymnastique/danse.png"
   inscription: ''
