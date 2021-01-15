@@ -435,25 +435,12 @@ stages:
       info_line: 'Horaire : 9h00 à 12h00'
 - name: Multisports
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/babymultisports.png"
   online: true
   nouveau: true
   stage_une: false
   inscription: ''
   location:
-  - alias: Liège
-    ville: Liège
-    age: 5-12 ans
-    description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
-      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine
-      de stage une initiation aux sports collectifs (basket, mini-foot, volley, handball,
-      unihoc, baseball, etc.) ainsi qu'à l'athlétisme, la gymnastique, le badminton,
-      etc.</p><p>Un programme varié qui touche à tout et est destiné aussi bien aux
-      garçons qu'aux filles !</p>"
-    infos:
-    - alias: Spectacle
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le Covid).
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
@@ -468,6 +455,19 @@ stages:
       le kin-ball, ou le boum-ball.</p><p>Des activités multisports qui raviront votre
       enfant !</p>"
     infos: []
+  - alias: Liège
+    ville: Liège
+    age: 5-12 ans
+    description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
+      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine
+      de stage une initiation aux sports collectifs (basket, mini-foot, volley, handball,
+      unihoc, baseball, etc.) ainsi qu'à l'athlétisme, la gymnastique, le badminton,
+      etc.</p><p>Un programme varié qui touche à tout et est destiné aussi bien aux
+      garçons qu'aux filles !</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
+        avec le Covid).
 - name: Mini-Tennis
   categorie: Activités sportives
   img: "/assets/images/mini-tennis.jpg"
