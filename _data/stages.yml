@@ -2345,7 +2345,7 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
-    description: <p>Votre enfant souhaite vivre une première expérience à la verticale
+    description: "<p>Votre enfant souhaite vivre une première expérience à la verticale
       ? </p><p>Ce stage prévoit 3 heures journalières d'apprentissage des techniques
       de base d'escalade sur mur ainsi que les consignes de sécurité s'y rapportant.
       Les enfants apprennent à grimper sur les modules, à bien s'attacher, à respecter
@@ -2358,10 +2358,11 @@ stages:
       foot, ou encore le ball bouncer.</p><ul><li><p>Pour les stages à Uccle, le mur
       d'escalade se trouve au Centre Sportif Mounier, à Woluwe-Saint-Lambert.</p></li><li><p>Pour
       les stages à Jette, le mur d'escalade se trouve au Brussels Monkey Climbing
-      à Molenbeek.</p></li></ul><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened"><strong>Les activités d'escalade sont
-      assurées par des moniteurs possédant le CATAGSAE.</strong></p>
+      à Molenbeek.</p></li></ul>"
     infos:
+    - alias: Moniteurs
+      info_line: Les activités d'escalade sont assurées par des moniteurs possédant
+        le CATAGSAE.
     - alias: Transports
       info_line: Les enfants se déplacent en transports en commun tous les jours vers
         le mur d'escalade.
