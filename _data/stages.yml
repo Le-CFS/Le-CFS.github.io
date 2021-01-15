@@ -519,21 +519,22 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 7-16 ans
-    description: "<p><em>Stage en partenariat avec </em>le manège<strong><em> La Motte</em></strong></p><p>Ce
-      stage est une pleine participation à la vie du manège : soins et pansage des
-      chevaux, nettoyage des box, balades et jeux à cheval, voltige pour améliorer
-      la motricité de l'enfant, initiation aux bases de l'équitation adaptée à l'âge
-      de l'enfant et apprentissage de la théorie équestre de manière ludique. Les
-      enfants auront également l'occasion de préparer et de mettre en selle les chevaux
-      avant de les monter.</p><p><strong><em>Garderie :</em></strong><em> Inscription
-      sur place !</em></p>"
+    description: "<p><em>Stage en partenariat avec </em>le<strong><em> Manège de La
+      Motte</em></strong></p><p>Ce stage est une pleine participation à la vie du
+      manège : soins et pansage des chevaux, nettoyage des box, balades et jeux à
+      cheval, voltige pour améliorer la motricité de l'enfant, initiation aux bases
+      de l'équitation adaptée à l'âge de l'enfant et apprentissage de la théorie équestre
+      de manière ludique. Les enfants auront également l'occasion de préparer et de
+      mettre en selle les chevaux avant de les monter.</p>"
     infos:
-    - alias: Matériel
-      info_line: Le manège met à disposition tout le matériel adéquat pour les petits
-        cavaliers.
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
         large) et des bottes.
+    - alias: Garderie
+      info_line: Inscription sur place !
+    - alias: Matériel
+      info_line: Le manège met à disposition tout le matériel adéquat pour les petits
+        cavaliers.
 - name: Bio Mômes
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/biomomes.jpg"
