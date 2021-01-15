@@ -2261,14 +2261,17 @@ stages:
     ville: Bruxelles
     age: 8-12 ans
     description: "<p>Equipe jaune ou équipe rouge ?</p><p>Viens vivre une semaine
-      dans la peau des aventuriers de Koh Lanta : compositions des tribus, épreuves
+      dans la peau des aventuriers de Koh Lanta : composition des tribus, épreuves
       en binôme et par équipe (avec les mythiques course d'orientation et épreuve
       des poteaux !), fabrication de campement, et dégustation d’insectes pour les
-      plus courageux.</p><p>Une journée au Space Fun Game est également prévue pour
-      la coopération des équipes !</p>"
+      plus courageux.</p><p>Une journée au Space Fun Game d'Etterbeek est également
+      prévue pour la coopération des équipes !</p><p><em>Fair-play et esprit de coopération
+      sont requis pour ce stage !</em></p>"
     infos:
-    - alias: Fair-play
-      info_line: Fair-play et esprit de coopération sont requis pour ce stage !
+    - alias: Tenue adaptée
+      info_line: Prévoir des vêtements adaptés pour les activités en extérieur.
+    - alias: Transports
+      info_line: Les transports sont assurés par le CFS.
 - name: Skate Pro
   img: "/assets/images/stages/activitesfun/skatepro.png"
   inscription: ''
