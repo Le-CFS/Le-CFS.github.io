@@ -2818,11 +2818,14 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 7-12 ans
+    age: 8-12 ans
     description: "<p>Tu aimes utiliser la visseuse ou la foreuse de papa ? Ce stage
-      est fait pour toi !</p><p>Durant la journée, tu manipuleras différents outils
-      pour construire un jeu en bois, que tu ramèneras chez toi.</p><p>La journée
-      est complétée par des activités de multi-sports (ballons, raquettes,...).</p>"
+      est fait pour toi ! </p><p>Durant la journée, tu manipuleras différents outils
+      (clous, vices, perceuse) pour construire un jeu en bois. Tu pourras ensuite
+      le décorer à ta façon.</p><p>Les enfants pourront évidemment ramener leur jeu
+      en bois à la maison à la fin du stage !</p><p>La journée est complétée par des
+      activités de multisports en extérieur : sports ballons, raquettes, crosse canadienne,
+      unihoc, ball bouncer, etc.</p>"
     infos: []
 - name: Cirque
   img: "/assets/images/stages/activitesartistiquesetloisirs/cirque.png"
