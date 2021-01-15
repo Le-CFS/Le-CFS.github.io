@@ -8,28 +8,27 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: ''
+  - alias: Brabant
     ville: Brabant Wallon
     age: 8-14 ans
-    description: '<p>Un bel équilibre entre les sports raquettes et le VTT. Variété
+    description: "<p>Un bel équilibre entre les sports raquettes et le VTT. Variété
       et plaisir garantis !</p><p>Ce stage propose une découverte des cinq sports
       de raquettes, à savoir le tennis, le badminton, le tennis de table, le paddle
       et le speedminton.</p><p>Par différents jeux ludiques, les enfants apprennent
-      les bases des sports afin de pouvoir réaliser des échanges et s''amuser entre
+      les bases des sports afin de pouvoir réaliser des échanges et s'amuser entre
       copains.</p><p>Le restant de la journée, les enfants pratiqueront du VTT. Ils
       alterneront parcours sur la route et dans les bois, apprendront à dévaler les
       descentes et à faire des sauts.</p><p>La semaine de stage promet une pratique
-      intensive du VTT, les enfants doivent être capables de rouler 8km par jour.</p><p><img
-      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened">Attention : il faut un VTT, un cadenas,
-      une chambre à air de rechange, ainsi qu’un casque dès le premier jour du stage
-      !</p>'
+      intensive du VTT, les enfants doivent être capables de rouler 8km par jour.</p>"
     infos:
+    - alias: Equipement à prévoir !
+      info_line: 'Attention : il faut un VTT, un cadenas, une chambre à air de rechange,
+        ainsi qu’un casque dès le premier jour du stage !'
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur et en intérieur.
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
-    - alias: Tenue adaptée
-      info_line: Prévoir une tenue adaptée pour les activités en extérieur et en intérieur.
 - name: Gym pour tous
   categorie: Danse et Gymnastique
   img: "/assets/images/gympourtous.jpg"
