@@ -2253,17 +2253,15 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 7-12 ans
-    description: '<p><em>Stage en collaboration avec le </em><strong><em>Manège Horse''s
+    description: "<p><em>Stage en collaboration avec le </em><strong><em>Manège Horse's
       Corner</em></strong><em> de Bierges</em></p><p>Les enfants s’adonnent le matin
       aux joies du manège et de l’équitation. Ce stage est une pleine participation
-      à la vie du manège : initiation à l''équitation (monter, s''occuper du poney,
-      le nourrir, le panser), balades, entretien des box.</p><p>L''après-midi est
-      consacré à un autre stage au choix dans le centre sportif :</p><ul><li><p>A
-      Rixensart : badminton, football, sports raquettes, GRS, activités Fun ou bande
-      dessinée.</p></li><li><p>A Ottignies : mini-foot, sports raquettes, GRS, ou
-      magie.</p><p></p><p></p></li></ul><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened"><strong>Les navettes seront assurées par
-      le CFS.</strong></p>'
+      à la vie du manège : initiation à l'équitation (monter, s'occuper du poney,
+      le nourrir, le panser), balades, entretien des box.</p><p>L'après-midi est consacré
+      à un autre stage au choix dans le centre sportif :</p><ul><li><p><strong>A Rixensart
+      :</strong> badminton, football, sports raquettes, GRS, activités Fun ou bande
+      dessinée.</p></li><li><p><strong>A Ottignies :</strong> mini-foot, sports raquettes,
+      GRS, ou magie.</p></li></ul>"
     infos:
     - alias: Matériel
       info_line: Le manège met à disposition tout le matériel adéquat ainsi que des
