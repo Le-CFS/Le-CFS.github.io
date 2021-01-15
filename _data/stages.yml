@@ -196,10 +196,15 @@ stages:
     description: "<p>Véritable sport éducatif, le Judo permet à chacun de devenir
       plus adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles,
       découvrir l’entraide, évaluer ses forces et ses faiblesses pour progresser.
-      </p><p>Le Judo est un sport pour tous qui procure un véritable équilibre. </p><p>Activité
-      de détente et de plaisir. Le Judo est une discipline basée sur l’échange et
+      Le Judo est un sport pour tous qui procure un véritable équilibre. Activité
+      de détente et de plaisir, le Judo est une discipline basée sur l’échange et
       la progression. L’apprentissage se fait de manière progressive en fonction des
-      aptitudes de l’individu, ce qui permet à chacun d’évoluer à son rythme.</p>"
+      aptitudes de l'enfant, ce qui permet à chacun d’évoluer à son rythme.</p><p>La
+      matinée de stage est entièrement consacrée au judo. L'après-midi, l'enfant rejoint
+      un autre stage au choix dans le centre sportif :</p><ul><li><p><strong>A Rixensart
+      :</strong> badminton, football, sports raquettes, GRS, activités Fun ou bande
+      dessinée.</p></li><li><p><strong>A Wavre :</strong> sports raquettes, badminton,
+      ou football.</p></li></ul>"
     infos: []
 - name: Escalade & VTT
   categorie: Découvertes sportives et culturelles
