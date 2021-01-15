@@ -2,7 +2,7 @@
 stages:
 - name: Fun VTT & Karting
   categorie: Activités fun
-  img: ''
+  img: "/assets/images/kartingetfun-1.png"
   online: true
   nouveau: true
   stage_une: false
