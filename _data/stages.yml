@@ -2872,18 +2872,41 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 7 à 16 ans
-    description: "<p>Le padel est un sport de raquettes dérivé du tennis et du squash.
-      Ce sport très ludique est accessible aux débutants. Venez découvrir ce nouveau
-      sport qui allie tactique, coordination et le plaisir du jeu !</p>"
-    infos: []
+    age: 7-16 ans
+    description: "<p><em>Stage en collaboration avec le </em><strong><em>Club Padel
+      Event </em></strong><em>Ottignies</em></p><p><strong>Amateur de sports de raquettes
+      ?</strong></p><p>Ce stage vous propose une initiation, découverte ou perfectionnement
+      au nouveau sport à la mode : Le Padel !</p><p>Le Padel se joue avec des balles
+      quasi similaires à celles du tennis et avec une raquette spéciale, les « Palas
+      ».</p><p>Convivial, ludique et facile à pratiquer, le Padel est un condensé
+      des points forts de tous les autres sports de raquettes.</p><p>Les enfants l’adorent
+      car il est facile à apprendre, permet de jouer en équipe et de développer les
+      qualités de main et d’œil.</p><p><strong>Amusement garanti !</strong></p><p>Chaque
+      journée de stage comporte trois périodes de Padel : les enfants auront l'occasion
+      d'apprendre à frapper la balle, anticiper son rebond, apprendre les différentes
+      tactiques du Padel, ainsi que l'esprit d'équipe. Des petits matchs sont possibles
+      en fin de semaine en fonction du niveau des enfants.</p><p>La journée de stage
+      comporte également une période de multisports : unihoc, basketball, crosse canadienne,
+      ball bouncer, etc.</p><p><em>Les enfants sont répartis sur place en fonction
+      de leur âge et de leur niveau.</em></p>"
+    infos:
+    - alias: Matériel
+      info_line: Le matériel est mis à disposition par notre partenaire.
   - alias: Bruxelles
     ville: Bruxelles
     age: 7-16 ans
-    description: "<p>Le padel est un sport de raquettes dérivé du tennis et du squash.
-      Ce sport très ludique est accessible aux débutants. Venez découvrir ce nouveau
-      sport qui allie tactique, coordination et le plaisir du jeu !</p>"
-    infos: []
+    description: "<p><em>Ce stage est en collaboration avec le </em><strong><em>Royal
+      Laeken Tennis Club (Wemmel)</em></strong></p><p>Amateur de sports de raquettes
+      ?</p><p>Ce stage vous propose une initiation, découverte ou perfectionnement
+      au nouveau sport à la mode : Le Padel !</p><p>Le Padel se joue avec des balles
+      quasi similaires à celles du tennis et avec une raquette spéciale, les « Palas
+      ».</p><p>Convivial, ludique et facile à pratiquer, le Padel est un condensé
+      des points forts de tous les autres sports de raquettes.</p><p>Les enfants l’adorent
+      car il est facile à apprendre, permet de jouer en équipe et de développer les
+      qualités de main et d’œil.</p><p><strong>Amusement garanti !</strong></p>"
+    infos:
+    - alias: Matériel
+      info_line: Le matériel est mis à disposition par notre partenaire.
 - name: Parkour
   img: "/assets/images/stages/activitessportives/parkour.png"
   inscription: ''
@@ -2894,7 +2917,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 8-14 ans
+    age: 10-16 ans
     description: <p>Tu veux devenir un Yamakasi, un "traceur" ? Viens franchir les
       obstacles avec nous !</p><p>Ce stage te fera découvrir le parkour ou art du
       déplacement qui est une activité physique qui vise un déplacement libre et efficace
