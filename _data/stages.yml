@@ -1361,19 +1361,16 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 5-7 ans
+    age: 4-6 ans
     description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
-      découvrir de nouvelles activités ?</p><p>Nous proposons durant cette semaine,
-      des jeux collectifs, par lequel votre enfant développera les différentes facettes
-      de la motricité, le respect des règles et la vie en groupe.</p><p>Des activités
-      multisports qui ravira votre enfant !</p>"
-    infos:
-    - alias: Garderie
-      info_line: 'Garderie : Inscription au préalable obligatoire dans les "Options"
-        lors de l''inscription.'
-    - alias: Rixensart
-      info_line: À Rixensart, ces activités sportives sont combinées avec des activités
-        en piscine.
+      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine,
+      des jeux collectifs, par lesquels votre enfant développera différentes facettes
+      de la motricité, le respect des règles et la vie en groupe. Les activités en
+      extérieur sont privilégiées tout au long de la semaine : les enfants participerons
+      à différents jeux tels que le unihoc, la crosse canadienne, les sports raquettes,
+      le frisbee golf, le basketball, ou encore des jeux de cohésion.</p><p>Des activités
+      multisports qui raviront votre enfant !</p>"
+    infos: []
 - name: Découverte Sportive & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/psychonatation.png"
   inscription: ''
