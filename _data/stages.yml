@@ -1,5 +1,30 @@
 ---
 stages:
+- name: Baby Natation
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: "<p><strong>Et 1,2,3 PLOUF !</strong></p><p>1er pas dans l'eau ?</p><p>Ce
+      stage apprend à votre enfant les bases de la natation par le biais d'activités
+      ludiques (voyage sur une frite ou une planche, apprendre à mettre la tête sous
+      l'eau, etc.), le tout dans une ambiance décontractée !</p><p>Ils auront l'occasion
+      de faire connaissance avec les joies de la piscine et de la pataugeoire via
+      une heure quotidienne d'accoutumance à l'eau.</p><p>L'après-midi, les enfants
+      auront la chance de s'initier à différents jeux collectifs en extérieur : sports
+      ballons, raquettes, unihoc, crosse canadienne, ball bouncer, etc.</p><p>Si votre
+      enfant sait nager, il rejoindra le grand bassin.</p>"
+    infos:
+    - alias: Moniteurs
+      info_line: 'En piscine : 2 moniteurs pour 8 enfants.'
+    - alias: Prévoir dès le 1er jour
+      info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
 - name: Super pilote
   categorie: Activités fun
   img: "/assets/images/kartingetfun.png"
