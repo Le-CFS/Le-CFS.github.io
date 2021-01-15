@@ -1052,14 +1052,14 @@ stages:
       du thème proposé.</p><p>Pour les stages commençant à 3 ans (PSYCHO) : les enfants
       doivent être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.</p>"
     infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
     - alias: Tenue de rechange
       info_line: 'Il est demandé aux parents de prévoir un sac avec une tenue de rechange
         pour leur enfant. '
     - alias: Enfants propres
       info_line: 'Pour les stages commençant à 3 ans (PSYCHO) : les enfants doivent
         être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.'
-    - alias: Tenue adaptée
-      info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
 - name: Psycho Vélo
   img: "/assets/images/stages/lespetitsbouts/psychovelo.png"
   inscription: ''
