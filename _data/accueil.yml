@@ -18,9 +18,9 @@ slider:
 - titre: Meilleurs Vœux 2021 !
   src: "/assets/images/voeux2021.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
-- titre: Bon cadeau
-  src: "/assets/images/boncadeauhiver.jpg"
-  href: https://www.lecfs.be/news/2020/12/11/bon-cadeau
+- titre: 40 ANS CFS !
+  src: "/assets/images/40anscfs.jpg"
+  href: https://www.lecfs.be/news/2021/01/12/40-ans-ca-se-fete
 selection:
   nom: Sélection du CFS
   images:
