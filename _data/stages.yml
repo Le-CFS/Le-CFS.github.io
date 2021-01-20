@@ -51,7 +51,7 @@ stages:
       uniquement réservé aux filles.</em></strong></p>"
     infos:
     - alias: Garderie
-      info_line: Inscriptions sur place !
+      info_line: 'Garderie: Inscriptions sur place !'
     - alias: 'Membres du club de la Courtoise '
       info_line: Les membres du club de la Courtoise bénéficient d'une réduction de
         5€/jour de stage.
