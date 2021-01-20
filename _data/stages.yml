@@ -222,13 +222,14 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 6 à 12 ans
-    description: "<p>Véritable sport éducatif, le Judo permet à chacun de devenir
-      plus adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles,
-      découvrir l’entraide, évaluer ses forces et ses faiblesses pour progresser.
-      Le Judo est un sport pour tous qui procure un véritable équilibre. Activité
-      de détente et de plaisir, le Judo est une discipline basée sur l’échange et
-      la progression. L’apprentissage se fait de manière progressive en fonction des
-      aptitudes de l'enfant, ce qui permet à chacun d’évoluer à son rythme.</p><p>La
+    description: "<p><strong><em>En collaboration avec Marc Charlier et le Judo Club
+      Genval. <br></em></strong><br>Véritable sport éducatif, le Judo permet à chacun
+      de devenir plus adroit, plus souple, plus fort mais aussi d’apprendre à respecter
+      des règles, découvrir l’entraide, évaluer ses forces et ses faiblesses pour
+      progresser. Le Judo est un sport pour tous qui procure un véritable équilibre.
+      Activité de détente et de plaisir, le Judo est une discipline basée sur l’échange
+      et la progression. L’apprentissage se fait de manière progressive en fonction
+      des aptitudes de l'enfant, ce qui permet à chacun d’évoluer à son rythme.</p><p>La
       matinée de stage est entièrement consacrée au judo. L'après-midi, l'enfant rejoint
       un autre stage au choix dans le centre sportif :</p><ul><li><p><strong>A Rixensart
       :</strong> badminton, football, sports raquettes, GRS, activités Fun ou bande
@@ -1166,14 +1167,26 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: "<p>Vous souhaitez que votre petit bout apprenne à rouler à vélo
+    description: '<p>Vous souhaitez que votre petit bout apprenne à rouler à vélo
       comme les grands ? Ce stage réservé aux enfants ne sachant pas rouler à vélo
-      sur 2 roues est l'idéal pour lui !</p><p>Il propose quotidiennement une demi-journée
-      consacrée à l'apprentissage de la conduite à vélo : apprendre à rouler sur deux
-      roues, réaliser de petits parcours d'adresse, apprentissage du code de la route
-      et des règles élémentaires de sécurité.</p><p>Le reste de la journée est consacré
-      à des activités de multisports comme la baby danse, le baby foot ou la baby
-      gym.</p>"
+      sur 2 roues est l''idéal pour lui !</p><p>Il propose quotidiennement une demi-journée
+      consacrée à l''apprentissage de la conduite à vélo : apprendre à rouler sur
+      deux roues, réaliser de petits parcours d''adresse, apprentissage du code de
+      la route et des règles élémentaires de sécurité.</p><p>Le reste de la journée
+      est consacré à des activités de multisports comme la baby danse, le baby foot
+      ou la baby gym.</p><p></p><p></p><p>Vous souhaitez que votre petit bout apprenne
+      à rouler à vélo comme les grands ? Ce stage réservé aux enfants ne sachant pas
+      rouler à vélo sur 2 roues est l''idéal pour lui !</p><p>Il propose quotidiennement
+      une demi-journée consacrée à l''apprentissage de la conduite à vélo : apprendre
+      à rouler sur deux roues, réaliser de petits parcours d''adresse, apprentissage
+      du code de la route et des règles élémentaires de sécurité.</p><p>Le reste de
+      la journée est consacré à des activités de multisports comme la baby danse,
+      le baby foot ou la baby gym.</p><p><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened"><strong>Prévoir une tenue adaptée pour
+      les activités en extérieur.</strong></p><p><strong><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened"> L''enfant doit venir avec son vélo en
+      bon état et son casque.</strong> Les enfants peuvent avoir les 4 petites roues
+      stabilisatrices sur leur vélo.</p>'
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur. 
