@@ -11,9 +11,10 @@ stages:
   - alias: Euro Space Center
     ville: Brabant Wallon
     age: 9-18
-    description: "<p>Parce qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir
-      avec ce stage une aventure galactique ! </p><p>Lors de ce camp, les stagiaires
-      auront l'occasion d’expérimenter les vraies sensations vécues par un <strong>astronaute</strong>
+    description: "<p><strong><em>En partenariat avec Euro Space Center</em></strong></p><p>Parce
+      qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage
+      une aventure galactique !</p><p>Lors de ce camp, les stagiaires auront l'occasion
+      d’expérimenter les vraies sensations vécues par un <strong>astronaute</strong>
       : simulation d'une marche sur la lune, reproduction de situations de désorientation
       et de vertige à l’intérieur d’un vaisseau qui n’est plus maîtrisé, test de ta
       résistance à la force de gravité dans une centrifugeuse spatiale, simulation
