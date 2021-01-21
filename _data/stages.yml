@@ -1,5 +1,48 @@
 ---
 stages:
+- name: Robotic Camp
+  categorie: Activités fun
+  img: "/assets/images/robotique.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Brabant Wallon
+    age: 13-18
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Une
+      tempête de sable inopinée survient, les panneaux solaires ne fournissent plus
+      l’énergie de bord ! Votre challenge : par équipe de deux, réveiller votre rover
+      !</p><p>Après un bref historique de la <strong>robotique</strong>, les enfants
+      verront les éléments clés qui constituent un robot : électricité, mécanique
+      et informatique.</p><p>Ils participeront à différents ateliers afin de mieux
+      comprendre ce qu’est l’<strong>électricité</strong> et la manière dont se déplace
+      le courant.</p><p>Afin d’acquérir des bases en <strong>informatique</strong>,
+      les stagiaires utiliseront un microcontrôleur Arduino pour programmer les différents
+      composants du robot. Quelques ateliers simples vont leur permettre de découvrir
+      la puissance de ce petit ordinateur de bord ! Par exemple, ils pourront envoyer
+      un SOS avec une led (diode), faire tourner un objet avec une grande précision
+      grâce à un servomoteur, intégrer un module wifi pour pouvoir déplacer le robot
+      martien à l’aide d’une tablette ou votre propre smartphone, programmer une prise
+      de vue avec le robot, etc.</p><p>Pour aborder la partie <strong>mécanique</strong>,
+      les stagiaires suivront un schéma et monteront leur rover : châssis, roues,
+      cartes électroniques, câbles, capteurs,... Ils installeront également deux panneaux
+      solaires avant de pouvoir tester leur robot en grandeur nature. Saurez-vous
+      le faire rouler et lui faire éviter des obstacles ?</p><p>Enfin, pour compléter
+      ce stage de manière ludique et amusante, un casque Oculus leur permettra de
+      se déplacer dans un environnement martien plus vrai que nature !</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Modélisation 3D
   categorie: Activités fun
   img: "/assets/images/3d.jpg"
