@@ -1,5 +1,36 @@
 ---
 stages:
+- name: Astronomy Camp Junior
+  categorie: Activités fun
+  img: "/assets/images/astronomiejr.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Brabant Wallon
+    age: 6-8
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
+      désires t'initier à la découverte des corps célestes qui nous entourent ? Vient
+      participer à un <strong>voyage dans notre ciel</strong> pour mieux comprendre
+      notre place dans l’Univers !</p><p>Découverte du ciel, des rouages du cosmos,
+      et du système solaire sont au programme ! </p><p>Lors de ce camp d’astronaute,
+      tu auras l’occasion d’approfondir tes connaissances sur l’astronomie et les
+      sciences.</p><p>Par différentes animations ludiques, tu découvriras la Lune,
+      ses différentes phases, et tu pourras même expérimenter les sensations d’une
+      marche sur la Lune par un simulateur. Tu découvriras et voyageras au travers
+      du système solaire grâce à un planétarium. Différentes expériences et jeux seront
+      également prévus sur ce thème, ainsi que sur le thème des extra-terrestres.</p><p>Enfin,
+      tu participeras à différentes expériences tel un vrai scientifique ! Tu aborderas
+      différents ateliers sur des éléments comme l’air, l’eau, et le mélange de composants.</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Astronomy Camp
   categorie: Activités fun
   img: "/assets/images/astronomie.jpg"
