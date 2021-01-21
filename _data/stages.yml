@@ -1,5 +1,76 @@
 ---
 stages:
+- name: Rocket Camp
+  categorie: Activités fun
+  img: "/assets/images/rocket.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: 'Rocket Camp 1 '
+    ville: Brabant Wallon
+    age: 11-18
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
+      rêves de voir décoller ta propre <strong>fusée </strong>? Tu devras alors mettre
+      la main à la pâte. C’est que la tâche n’est pas simple ! Moteur, ailerons, nez
+      et corps de la fusée, autant d’élément à maîtriser pour s’assurer une trajectoire
+      idéale !</p><p>Au travers de quelques expériences ludiques, les stagiaires se
+      familiariseront avec les principes de propulsion et d’action-réaction (3e loi
+      de Newton).</p><p>Ils auront ensuite l’occasion de construire une fusée à eau
+      de base à l’aide de colle à papier, d’un cutter, de ciseaux, ou encore d’un
+      pistolet à colle chaude.</p><p>Après cette première expérience, ils pourront
+      construire une fusée à eau encore plus solide, et cette fois-ci, personnalisée
+      avec un parachute. Attention si le parachute ne s’ouvre pas en plein vol, c’est
+      la dégringolade assurée !</p><p>Selon son niveau technique et son habilité manuelle,
+      chaque stagiaire aura l’occasion de construire une fusée à poudre monoétage
+      et/ou une fusée à poudre biétage.</p><p>Il devra bien sûr aussi créer sa propre
+      base de lancement à l’aide de différents outils : scies, perceuses, colle PVC,
+      tournevis, etc.</p><p>Une fois que tout est prêt, les bases de lancement des
+      stagiaires seront installées dehors et place au décollage des fusées !</p><p>Le
+      vendredi en fin de stage, un grand lancement final des fusées est prévu devant
+      les parents.</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  - alias: 'Rocket Camp 2 '
+    ville: Brabant Wallon
+    age: 11-18
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
+      rêves de voir décoller ta propre <strong>fusée </strong>? Tu devras alors mettre
+      la main à la pâte. C’est que la tâche n’est pas simple ! Moteur, ailerons, nez
+      et corps de la fusée, autant d’élément à maîtriser pour s’assurer une trajectoire
+      idéale !</p><p>Tu t’es bien amusé au premier stage Rocket Camp et tu as envie
+      d’en découvrir encore plus ? Ce stage est parfait pour progresser dans la technique
+      de fabrication de fusées !</p><p>Après une petite révision des différentes techniques,
+      chaque stagiaire réalisera au moins deux microfusées : une « normale » et une
+      « spéciale » (ogive démesurée, grands ailerons, corps très court, etc.). Il
+      introduira toutes les données dans un logiciel puis y dessinera les ailerons
+      afin d’obtenir une bonne stabilité.</p><p>Chaque stagiaire construira ensuite
+      une fusée (BT-55) à poudre plus grosse, plus solide, à deux moteurs (biétage),
+      avec une ogive en mousse personnalisée et un vrai parachute. Il aura même l’opportunité
+      de décorer sa fusée sur le thème de son choix !</p><p>Une fois que tout est
+      prêt, place au décollage des fusées !</p><p>Le vendredi en fin de stage, un
+      grand lancement final des fusées est prévu devant les parents.</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Robotic Camp
   categorie: Activités fun
   img: "/assets/images/robotique.jpg"
@@ -321,9 +392,9 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Tennis - Niveau 2
+  - alias: Tennis - Niveau 1
     ville: Brabant Wallon
-    age: 14-17
+    age: 12-13
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de pratiquer le Tennis entre jeunes sous le soleil de l’Espagne ! Ce stage Tennis
       est pour vous !</p><p>Au programme : deux séances de <strong>Tennis </strong>chaque
@@ -338,9 +409,9 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  - alias: Tennis - Niveau 1
+  - alias: Tennis - Niveau 2
     ville: Brabant Wallon
-    age: 12-13
+    age: 14-17
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de pratiquer le Tennis entre jeunes sous le soleil de l’Espagne ! Ce stage Tennis
       est pour vous !</p><p>Au programme : deux séances de <strong>Tennis </strong>chaque
@@ -363,13 +434,13 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Padel-Tennis - Niveau 2
+  - alias: 'Padel-Tennis - Niveau 1 '
     ville: Brabant Wallon
-    age: 14-17
+    age: 12-13
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de découvrir ce nouveau sport dérivé du tennis qui fait fureur partout en Europe
       ! Le stage Padel-Tennis est pour vous !</p><p>Au programme : deux séances de
-      <strong>Padel-Tennis </strong>chaque jour et beach sports l’autre partie de
+      <strong>Padel-Tennis</strong> chaque jour et beach sports l’autre partie de
       la journée. L'occasion de vivre une semaine <strong>détente-vacances</strong>
       : sports, piscine, plage, et mer.</p><p>Les animations plage et piscine sont
       encadrées par notre équipe de moniteurs brevetés.</p><p>Une excursion à Barcelone
@@ -381,13 +452,13 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  - alias: 'Padel-Tennis - Niveau 1 '
+  - alias: Padel-Tennis - Niveau 2
     ville: Brabant Wallon
-    age: 12-13
+    age: 14-17
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de découvrir ce nouveau sport dérivé du tennis qui fait fureur partout en Europe
       ! Le stage Padel-Tennis est pour vous !</p><p>Au programme : deux séances de
-      <strong>Padel-Tennis</strong> chaque jour et beach sports l’autre partie de
+      <strong>Padel-Tennis </strong>chaque jour et beach sports l’autre partie de
       la journée. L'occasion de vivre une semaine <strong>détente-vacances</strong>
       : sports, piscine, plage, et mer.</p><p>Les animations plage et piscine sont
       encadrées par notre équipe de moniteurs brevetés.</p><p>Une excursion à Barcelone
@@ -407,9 +478,9 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Nautic on the Beach - Niveau 2
+  - alias: 'Nautic on the Beach - Niveau 1 '
     ville: Brabant Wallon
-    age: 14-17
+    age: 12-13
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de goûter aux joies des <strong>sports nautiques</strong> sous le soleil de
       l'Espagne ?</p><p>Venez nous rejoindre et découvrir en compagnie de notre staff
@@ -426,9 +497,9 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  - alias: 'Nautic on the Beach - Niveau 1 '
+  - alias: Nautic on the Beach - Niveau 2
     ville: Brabant Wallon
-    age: 12-13
+    age: 14-17
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de goûter aux joies des <strong>sports nautiques</strong> sous le soleil de
       l'Espagne ?</p><p>Venez nous rejoindre et découvrir en compagnie de notre staff
@@ -453,9 +524,9 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Initiation Golf - Niveau 2
+  - alias: 'Initiation Golf - Niveau 1 '
     ville: Brabant Wallon
-    age: 14-17
+    age: 12-13
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
       ? Ce stage de Golf propose une initiation sous les conseils d’un véritable Pro
@@ -472,9 +543,9 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  - alias: 'Initiation Golf - Niveau 1 '
+  - alias: Initiation Golf - Niveau 2
     ville: Brabant Wallon
-    age: 12-13
+    age: 14-17
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
       ? Ce stage de Golf propose une initiation sous les conseils d’un véritable Pro
@@ -499,9 +570,9 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: 'Aventure XXL - Niveau 2 '
+  - alias: 'Aventure XXL - Niveau 1 '
     ville: Brabant Wallon
-    age: 14-17
+    age: 12-13
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p><strong>Sports
       et activités aventure</strong> sous le soleil de l'Espagne, le tout dans un
       hôtel 4 étoiles offrant tout le confort !</p><p>Au programme : découverte de
@@ -519,9 +590,9 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  - alias: 'Aventure XXL - Niveau 1 '
+  - alias: 'Aventure XXL - Niveau 2 '
     ville: Brabant Wallon
-    age: 12-13
+    age: 14-17
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p><strong>Sports
       et activités aventure</strong> sous le soleil de l'Espagne, le tout dans un
       hôtel 4 étoiles offrant tout le confort !</p><p>Au programme : découverte de
