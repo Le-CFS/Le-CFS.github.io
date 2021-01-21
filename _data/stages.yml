@@ -1,5 +1,95 @@
 ---
 stages:
+- name: Astronomy Camp
+  categorie: Activités fun
+  img: "/assets/images/astronomie.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Brabant Wallon
+    age: 9-12
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
+      désires t'initier à la découverte des corps célestes qui nous entourent ? Vient
+      participer à un <strong>voyage dans notre ciel </strong>pour mieux comprendre
+      notre place dans l’Univers !</p><p>Découverte du ciel, des rouages du cosmos,
+      et du système solaire sont au programme ! </p><p>Les stagiaires découvriront
+      les astres, les constellations, et les planètes grâce à une séance dans un planétarium.
+      Grâces à quelques coups de crayon, tu auras même l’occasion de mettre au point
+      une horloge qui fonctionne grâce à la lumière du soleil.</p><p>Avec un simulateur
+      informatique, tu pourras aussi imaginer toutes sortes de systèmes planétaires
+      et laisser la gravitation faire son œuvre.</p><p>Tu pourras ensuite assembler
+      ta propre lunette astronomique. Cet appareil te servira tout au long de ta carrière
+      de jeune observateur du ciel. Un petit spectroscope également fabriqué par tes
+      soins te servira à répondre aux questions que les astronomes se posent sur les
+      étoiles.</p><p>Enfin, grâce à une large maquette extérieure et des modèles miniatures,
+      tu en apprendras plus sur le système solaire et la distance entre les planètes.
+      Grâce à de véritables échantillons de matière extraterrestre, tu pourras découvriras
+      comment reconnaître un caillou tombé du ciel. Tu seras même mis au secret sur
+      les formes de vies extraterrestres qui peuvent exister… Peut-être en croiseras-tu
+      un ?</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+- name: Astronaut Espace Langues
+  categorie: Activités fun
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Brabant Wallon
+    age: 13-18
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Parce
+      qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage
+      une aventure galactique ! </p><p>Chaque journée du camp sera divisée en deux
+      parties : les stagiaires suivront pendant une demi-journée le programme du <strong>camp
+      astronaute</strong>. L'autre partie de la journée sera consacrée à des <strong>cours
+      d'anglais</strong>.</p><p>Lors de ce camp, les stagiaires auront l'occasion
+      d’expérimenter les vraies sensations vécues par un astronaute : simulation d'une
+      marche sur la lune, reproduction de situations de désorientation et de vertige
+      à l’intérieur d’un vaisseau qui n’est plus maîtrisé, test de ta résistance à
+      la force de gravité dans une centrifugeuse spatiale, simulation de réparations
+      sur un satellite avec le ressenti d’impesanteur (sur une structure métallique
+      de 8 m de haut x 10 m de long !), exercices de communication entre une équipe
+      terrestre et une équipe spatiale, découverte de la planète rouge à bord de votre
+      vaisseau.</p><p>Après avoir été briefés sur la navette américaine, son fonctionnement
+      et les phases d’une mission, les stagiaires auront la chance de participer à
+      la simulation d’une mission spatiale en conditions réelles.</p><p>Les stagiaires
+      participeront également à la construction et au lancement de fusées à eau et/ou
+      de microfusées. Ils découvriront l’histoire de l’astronomie et apprendront à
+      observer le ciel. Ils feront des expériences sur le vide et l’absence de pression.
+      Un brief sur le fonctionnement d’un satellite de télécommunication est également
+      prévu au programme. Les stagiaires devront parvenir à connecter entre eux les
+      divers éléments qui composent la plateforme d’un satellite de communication.</p><p>Durant
+      cette semaine de stage, les enfants feront aussi une visite du Space Tour, ils
+      seront exposés à la vie quotidienne dans l’espace, ils en apprendront davantage
+      sur les différentes planètes, ainsi que le système solaire, et ils feront diverses
+      expériences et mises en situation.</p><p>Enfin, pour compléter cette semaine
+      riche en découvertes, les stagiaires seront également initiés aux drones.</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Astronaut Camp Junior
   categorie: Activités fun
   img: "/assets/images/astronomiejr.jpg"
