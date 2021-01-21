@@ -1,6 +1,124 @@
 ---
 stages:
-- name: Rocket Camp
+- name: 'Satellite Camp 2 '
+  categorie: Activités fun
+  img: "/assets/images/satelliteniv2.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Brabant Wallon
+    age: 13-18
+    description: "<p><em>En partenariat avec</em><strong><em> Euro Space Center</em></strong></p><p>Système
+      de navigation, émission en direct à la télévision, surveiller notre planète
+      et son climat,... Sans les satellites tout cela serait impossible. Pendant ce
+      stage tu as une semaine pour <strong>construire </strong>et <strong>lancer ton
+      propre satellite</strong> !</p><p>Pour ce stage, n’oublie pas d’amener ton satellite
+      créé au premier camp ! Il constituera la base de la mission MySat-2.</p><p>Quel
+      est l’état de ton MySat-1 ? Nous effectuons une analyse et les réparations nécessaires.</p><p>Après
+      avoir été introduits aux capteurs, les stagiaires feront évoluer leur satellite
+      en l’équipant d’un GPS, d’une IMU (centrale à inertie), d’un panneau solaire
+      et d’une expérience « absorption/rayonnement thermique ». Tes capacités de soudure
+      seront à nouveau sollicitées.</p><p>Au cours du stage, tu construiras aussi
+      ta propre station terrestre de manière à recevoir chez toi la télémétrie de
+      ton satellite par signal radio. La mission MySat-2 nécessitera également une
+      bonne dose de programmation pour configurer ton ordinateur de bord.</p><p>Après
+      quelques tests, les satellites seront lancés à l’aide d’un drone jusqu’à une
+      hauteur de 90 mètres. Au cours d’un vol de quelques minutes, ton satellite enverra
+      une mine d’informations à la station terrestre, que tu pourras analyser par
+      la suite.</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+- name: 'Satellite Camp 1 '
+  categorie: Activités fun
+  img: "/assets/images/satellite.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: 'Satellite Camp 1 '
+    ville: Brabant Wallon
+    age: 13-18
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Système
+      de navigation, émission en direct à la télévision, surveiller notre planète
+      et son climat,... Sans les satellites tout cela serait impossible. Pendant ce
+      stage tu as une semaine pour <strong>construire </strong>et <strong>lancer ton
+      propre satellite</strong> !</p><p>Les stagiaires commenceront leur stage par
+      une introduction aux différents types de satellites. Ils apprendront également
+      le fonctionnement d’un satellite de télécommunication, suivie d’une simulation
+      d’intégration dudit satellite.</p><p>Après avoir relié les différents éléments
+      formant la plateforme du satellite, les stagiaires devront souder manuellement
+      tous les capteurs et leur électronique. Tu deviendras un vrai pro de la soudure
+      !</p><p>Un satellite n’est rien sans ordinateur de bord. Celui de ton satellite
+      est un Arduino Nano Microprocessor. Tu apprendras le langage de programmation
+      Arduino afin de pouvoir interpréter les capteurs et envoyer ces données via
+      un module radio à la station terrestre. Il faudra également tester ton satellite
+      avant de le lancer.</p><p>Lorsque le satellite sera prêt, tu le lanceras à l’aide
+      d’un drone. À 90m de hauteur, tu pourras envoyer la télémétrie à la station
+      terrestre. Tu l’analyseras après le vol, et la comparera à celle des autres
+      stagiaires.</p>"
+    infos:
+    - alias: 'Diplôme '
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+- name: Rocket Camp 2
+  categorie: Activités fun
+  img: "/assets/images/rocketniv2.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Brabant Wallon
+    age: 11-18
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
+      rêves de voir <strong>décoller ta propre fusée</strong> ? Tu devras alors mettre
+      la main à la pâte. C’est que la tâche n’est pas simple ! Moteur, ailerons, nez
+      et corps de la fusée, autant d’élément à maîtriser pour s’assurer une trajectoire
+      idéale !</p><p>Tu t’es bien amusé au premier stage Rocket Camp et tu as envie
+      d’en découvrir encore plus ? Ce stage est parfait pour progresser dans la technique
+      de fabrication de fusées !</p><p>Après une petite révision des différentes techniques,
+      chaque stagiaire réalisera au moins deux microfusées : une « normale » et une
+      « spéciale » (ogive démesurée, grands ailerons, corps très court, etc.). Il
+      introduira toutes les données dans un logiciel puis y dessinera les ailerons
+      afin d’obtenir une bonne stabilité.</p><p>Chaque stagiaire construira ensuite
+      une fusée (BT-55) à poudre plus grosse, plus solide, à deux moteurs (biétage),
+      avec une ogive en mousse personnalisée et un vrai parachute. Il aura même l’opportunité
+      de décorer sa fusée sur le thème de son choix !</p><p>Une fois que tout est
+      prêt, place au décollage des fusées !</p><p>Le vendredi en fin de stage, un
+      grand lancement final des fusées est prévu devant les parents.</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+- name: Rocket Camp 1
   categorie: Activités fun
   img: "/assets/images/rocket.jpg"
   online: true
@@ -8,7 +126,7 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: 'Rocket Camp 1 '
+  - alias: Euro Space Center
     ville: Brabant Wallon
     age: 11-18
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
@@ -30,36 +148,6 @@ stages:
       stagiaires seront installées dehors et place au décollage des fusées !</p><p>Le
       vendredi en fin de stage, un grand lancement final des fusées est prévu devant
       les parents.</p>"
-    infos:
-    - alias: Diplôme
-      info_line: Remise d'un diplôme en fin de stage.
-    - alias: Internat
-      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
-        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
-        à 16h30.'
-    - alias: Externat
-      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
-        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
-        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
-  - alias: 'Rocket Camp 2 '
-    ville: Brabant Wallon
-    age: 11-18
-    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
-      rêves de voir décoller ta propre <strong>fusée </strong>? Tu devras alors mettre
-      la main à la pâte. C’est que la tâche n’est pas simple ! Moteur, ailerons, nez
-      et corps de la fusée, autant d’élément à maîtriser pour s’assurer une trajectoire
-      idéale !</p><p>Tu t’es bien amusé au premier stage Rocket Camp et tu as envie
-      d’en découvrir encore plus ? Ce stage est parfait pour progresser dans la technique
-      de fabrication de fusées !</p><p>Après une petite révision des différentes techniques,
-      chaque stagiaire réalisera au moins deux microfusées : une « normale » et une
-      « spéciale » (ogive démesurée, grands ailerons, corps très court, etc.). Il
-      introduira toutes les données dans un logiciel puis y dessinera les ailerons
-      afin d’obtenir une bonne stabilité.</p><p>Chaque stagiaire construira ensuite
-      une fusée (BT-55) à poudre plus grosse, plus solide, à deux moteurs (biétage),
-      avec une ogive en mousse personnalisée et un vrai parachute. Il aura même l’opportunité
-      de décorer sa fusée sur le thème de son choix !</p><p>Une fois que tout est
-      prêt, place au décollage des fusées !</p><p>Le vendredi en fin de stage, un
-      grand lancement final des fusées est prévu devant les parents.</p>"
     infos:
     - alias: Diplôme
       info_line: Remise d'un diplôme en fin de stage.
