@@ -1,5 +1,40 @@
 ---
 stages:
+- name: Modélisation 3D
+  categorie: Activités fun
+  img: "/assets/images/3d.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Brabant Wallon
+    age: 12-18
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Voilà
+      quelques semaines que tu es arrivé sur la planète Mars. Tu mènes une expérience
+      en extérieur lorsque la pince de ton bras robotique se brise. Il faut la réparer
+      au plus vite !</p><p>Lors de ce stage, tu verras dans un premier temps la <strong>modélisation
+      3D</strong>. A l’aide d’un logiciel et d’un croquis, tu construiras une pince
+      capable de saisir un objet. Les notions d’axes, d’entraînements, et de résistance
+      mécanique seront abordées, car ce sont des concepts clés pour comprendre les
+      besoins d’un robot.</p><p>La découverte de l’<strong>impression 3D</strong>
+      sera également au programme : explication du logiciel de tranchage et de commande,
+      résolution et appréhension des problèmes d’impression.</p><p>Avec toutes ces
+      clés en main, les stagiaires dessineront leur propre pince, l’imprimeront, installeront
+      ses composants et valideront son fonctionnement selon des critères clairs de
+      performance établis au début du stage.</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Drone Camp
   categorie: Activités fun
   img: "/assets/images/drone.jpg"
