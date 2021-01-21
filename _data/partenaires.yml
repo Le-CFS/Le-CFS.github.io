@@ -28,13 +28,6 @@ liste:
   online: oui
   bouton: Site Web
   couleur_bouton: 
-- name: Gym Club La Courtoise
-  categorie: partenaires pédagogiques
-  logo: "/assets/images/logo-photo-courtoise.jpg"
-  href: http://www.gymclub-lacourtoise.be/
-  online: oui
-  bouton: Site Web
-  couleur_bouton: ''
 - name: Athénée Royal de Rixensart
   categorie: Partenaires écoles
   logo: "/assets/images/partenaires/atheneerix.png"
@@ -42,6 +35,13 @@ liste:
   online: oui
   bouton: Site Web
   couleur_bouton: 
+- name: Gym Club La Courtoise
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/logo-photo-courtoise.jpg"
+  href: http://www.gymclub-lacourtoise.be/
+  online: oui
+  bouton: Site Web
+  couleur_bouton: ''
 - name: BNP Paribas Fortis
   categorie: Partenaires d'entreprises
   logo: "/assets/images/partenaires/bnp.png"
