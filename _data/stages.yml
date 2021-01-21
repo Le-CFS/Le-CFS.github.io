@@ -1,5 +1,51 @@
 ---
 stages:
+- name: Aventure XXL
+  categorie: Activités fun
+  img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: 'Aventure XXL - Niveau 2 '
+    ville: Brabant Wallon
+    age: 14-17
+    description: "<p>En partenariat avec l'<strong>ADSL</strong></p><p>Sports et activités
+      aventure sous le soleil de l'Espagne, le tout dans un hôtel 4 étoiles offrant
+      tout le confort !</p><p>Au programme : découverte de Platja d'Aro, activités
+      de plage et bains de mer, piscine détente, sports à la plage (beach volley,
+      jeux de plage, …), snorkeling et kayak de mer, journée trekking côtier le long
+      des plages, activités Koh Lanta, et beach sports. L'occasion de vivre une semaine
+      détente-vacances : sports, piscine, plage, et mer.</p><p>Les animations plage
+      et piscine sont encadrées par notre équipe de moniteurs brevetés.</p><p>Une
+      excursion à Barcelone et à Roca del Vales (outlet), ainsi qu’une pool party
+      sont comprises dans le prix du séjour.</p><p>Deux sorties (Aquapark et banane
+      aquatique/slider aqua) sont proposées moyennant un supplément de 35€ pour chaque.</p>"
+    infos:
+    - alias: Internat
+      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
+        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
+        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+  - alias: 'Aventure XXL - Niveau 1 '
+    ville: Brabant Wallon
+    age: 12-13
+    description: "<p>En partenariat avec l'<strong>ADSL</strong></p><p>Sports et activités
+      aventure sous le soleil de l'Espagne, le tout dans un hôtel 4 étoiles offrant
+      tout le confort !</p><p>Au programme : découverte de Platja d'Aro, activités
+      de plage et bains de mer, piscine détente, sports à la plage (beach volley,
+      jeux de plage, …), snorkeling et kayak de mer, journée trekking côtier le long
+      des plages, activités Koh Lanta, et beach sports. L'occasion de vivre une semaine
+      détente-vacances : sports, piscine, plage, et mer.</p><p>Les animations plage
+      et piscine sont encadrées par notre équipe de moniteurs brevetés.</p><p>Une
+      excursion à Barcelone et à Roca del Vales (outlet), ainsi qu’une pool party
+      sont comprises dans le prix du séjour.</p><p>Deux sorties (Aquapark et banane
+      aquatique/slider aqua) sont proposées moyennant un supplément de 35€ pour chaque.</p>"
+    infos:
+    - alias: Internat
+      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
+        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
+        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
 - name: Sport Aventure & Quad
   categorie: Activités fun
   img: "/assets/images/stages/activitesfun/sportaventureetquad.jpg"
@@ -72,7 +118,7 @@ stages:
   - alias: Euro Space Center
     ville: Brabant Wallon
     age: 9-18
-    description: "<p><strong><em>En partenariat avec Euro Space Center</em></strong></p><p>Parce
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Parce
       qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage
       une aventure galactique !</p><p>Lors de ce camp, les stagiaires auront l'occasion
       d’expérimenter les vraies sensations vécues par un <strong>astronaute</strong>
@@ -97,16 +143,16 @@ stages:
       expériences et mises en situation.</p><p>Enfin, pour compléter cette semaine
       riche en découvertes, les stagiaires seront également initiés aux drones.</p>"
     infos:
-    - alias: Externat
-      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
-        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
-        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+    - alias: Diplome
+      info_line: Remise d'un diplôme en fin de stage.
     - alias: Internat
       info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
         et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
         à 16h30.'
-    - alias: Diplome
-      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Sports Raquettes & VTT
   categorie: Activités sportives
   img: "/assets/images/raquettes.png"
