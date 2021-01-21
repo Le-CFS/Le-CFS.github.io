@@ -2,7 +2,7 @@
 liste:
 - name: Gym Club La Courtoise
   categorie: Partenaires pédagogiques
-  logo: ''
+  logo: "/assets/images/logo-photo-courtoise.jpg"
   href: http://www.gymclub-lacourtoise.be/
   online: non
   bouton: Site Web
