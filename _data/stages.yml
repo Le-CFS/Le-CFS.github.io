@@ -1,5 +1,37 @@
 ---
 stages:
+- name: Football Academy
+  categorie: Activités sportives
+  img: "/assets/images/boutonsactivites/extrascolaires/football.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Stoumont
+    ville: Brabant Wallon
+    age: 8-16
+    description: "<p><em>Stage en collaboration avec l'</em><strong><em>Ecole de football
+      DM Academy &amp; ADSL</em></strong></p><p>Votre enfant est un vrai mordu du
+      ballon ? Notre stage de football est l'idéal pour lui !</p><p>Une semaine de
+      stage <strong>100% foot</strong> pour les amoureux du ballon rond qui jouent
+      dans un club ou qui pratiquent le football régulièrement. Les formateurs, sous
+      la direction de Demeuldre Mikael (coach spécifique sporting de Charleroi), mettent
+      l'accent sur le développement cognitif et technique des jeunes footballeurs.</p><p>Au
+      programme de la matinée :</p><ul><li><p>Apprentissage de tous les gestes techniques
+      de dribbles de façon isolée et en situation (Méthode Ajacide).</p></li><li><p>Techniques
+      de passes et de contrôles évolutives.</p></li><li><p>Apprendre à voir avant
+      de recevoir son ballon (Méthode Barcelonaise).</p></li><li><p>Finition et tir
+      au but (fun).</p></li><li><p>Jeu 1c1, 2c2 ou en supériorité numérique.</p></li></ul><p>Au
+      programme de l'après-midi :</p><ul><li><p>Développement de la confiance en soi
+      et des besoins du sport de haut niveau (attitude et comportement élite).</p></li><li><p>Match
+      et tournois (fun).</p></li></ul><p>L'équipe de moniteurs est composée de formateurs
+      actifs dans un centre de jeune de D1 belge.</p>"
+    infos:
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation
+        16h, et repas du soir. Arrivée le dimanche 11 juillet à 14h à Stoumont et
+        départ le vendredi 16 juillet à 17h.'
 - name: Astronaut Camp
   categorie: Activités fun
   img: "/assets/images/astronaute.jpg"
