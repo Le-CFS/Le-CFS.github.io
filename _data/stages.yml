@@ -1,5 +1,34 @@
 ---
 stages:
+- name: Sport Aventure & Quad
+  categorie: Activités fun
+  img: "/assets/images/stages/activitesfun/sportaventureetquad.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Stoumont
+    ville: Brabant Wallon
+    age: 10-15
+    description: "<p><em>Stage en collaboration avec l’</em><strong><em>ADSL</em></strong></p><p>Cette
+      semaine promet un stage Fun et la découverte d’une région magnifique près de
+      la cascade de Coo !</p><p>Au programme : sports aventure avec quad, VTT, initiation
+      aventurier, tir à l’arc, tir à la carabine, parcours explo-raid et super journée
+      aventure dans un site spécialisé avec parcours de cordes et ponts de singe.</p><p>Piscine
+      et sports détente sont également prévus au cours de la semaine. Le centre dispose
+      d’une salle de sports, une salle de cinéma, ainsi qu’une salle de détente.</p><p>Toute
+      la semaine de stage, les jeunes sont encadrés par des éducateurs et professeurs
+      sportifs, et les activités spécifiques sont placées sous la direction d'un organisateur
+      d'événements professionnels.</p>"
+    infos:
+    - alias: Equipement
+      info_line: 'Attention : il faut un VTT et un casque dès le premier jour du stage
+        (possibilité de location limitée sur place si besoin) ! '
+    - alias: Internat
+      info_line: 'Internat : 6 nuitées comprenant petit-déjeuner, repas de midi, collation
+        16h, et repas du soir. Arrivée le dimanche 15 août à 14h au Centre Forêt et
+        Sports de Stoumont et départ le samedi 21 août à 10h.'
 - name: Football Academy
   categorie: Activités sportives
   img: "/assets/images/boutonsactivites/extrascolaires/football.png"
@@ -11,22 +40,22 @@ stages:
   - alias: Stoumont
     ville: Brabant Wallon
     age: 8-16
-    description: "<p><strong><em>En collaboration avec l'Ecole de football DM Academy
-      &amp; ADSL</em></strong></p><p>Votre enfant est un vrai mordu du ballon ? Notre
-      stage de football est l'idéal pour lui !</p><p>Une semaine de stage <strong>100%
-      foot</strong> pour les amoureux du ballon rond qui jouent dans un club ou qui
-      pratiquent le football régulièrement. Les formateurs, sous la direction de Demeuldre
-      Mikael (coach spécifique sporting de Charleroi), mettent l'accent sur le développement
-      cognitif et technique des jeunes footballeurs.</p><p>Au programme de la matinée
-      :</p><ul><li><p>Apprentissage de tous les gestes techniques de dribbles de façon
-      isolée et en situation (Méthode Ajacide).</p></li><li><p>Techniques de passes
-      et de contrôles évolutives.</p></li><li><p>Apprendre à voir avant de recevoir
-      son ballon (Méthode Barcelonaise).</p></li><li><p>Finition et tir au but (fun).</p></li><li><p>Jeu
-      1c1, 2c2 ou en supériorité numérique.</p></li></ul><p>Au programme de l'après-midi
-      :</p><ul><li><p>Développement de la confiance en soi et des besoins du sport
-      de haut niveau (attitude et comportement élite).</p></li><li><p>Match et tournois
-      (fun).</p></li></ul><p>L'équipe de moniteurs est composée de formateurs actifs
-      dans un centre de jeune de D1 belge.</p>"
+    description: "<p><em>En collaboration avec l'</em><strong><em>Ecole de football
+      DM Academy &amp; ADSL</em></strong></p><p>Votre enfant est un vrai mordu du
+      ballon ? Notre stage de football est l'idéal pour lui !</p><p>Une semaine de
+      stage <strong>100% foot</strong> pour les amoureux du ballon rond qui jouent
+      dans un club ou qui pratiquent le football régulièrement. Les formateurs, sous
+      la direction de Demeuldre Mikael (coach spécifique sporting de Charleroi), mettent
+      l'accent sur le développement cognitif et technique des jeunes footballeurs.</p><p>Au
+      programme de la matinée :</p><ul><li><p>Apprentissage de tous les gestes techniques
+      de dribbles de façon isolée et en situation (Méthode Ajacide).</p></li><li><p>Techniques
+      de passes et de contrôles évolutives.</p></li><li><p>Apprendre à voir avant
+      de recevoir son ballon (Méthode Barcelonaise).</p></li><li><p>Finition et tir
+      au but (fun).</p></li><li><p>Jeu 1c1, 2c2 ou en supériorité numérique.</p></li></ul><p>Au
+      programme de l'après-midi :</p><ul><li><p>Développement de la confiance en soi
+      et des besoins du sport de haut niveau (attitude et comportement élite).</p></li><li><p>Match
+      et tournois (fun).</p></li></ul><p>L'équipe de moniteurs est composée de formateurs
+      actifs dans un centre de jeune de D1 belge.</p>"
     infos:
     - alias: Internat
       info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation
@@ -806,7 +835,7 @@ stages:
 - name: Baby Escalade
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/babyescalade.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
