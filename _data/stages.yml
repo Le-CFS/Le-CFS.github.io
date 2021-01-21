@@ -1,5 +1,45 @@
 ---
 stages:
+- name: Vol à Voile
+  categorie: Activités fun
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Brabant Wallon
+    age: 12-18
+    description: "<p><em>En partenariat avec E</em><strong><em>uro Space Center</em></strong></p><p>Laisse-toi
+      porter par l’envie des grands espaces et les sensations que procurent un <strong>vol
+      en planeur</strong> ! Tu combines l’entraînement des astronautes avec des sessions
+      de vol.</p><p>Pour ce stage, nos petits astronautes seront d’abord briefés sur
+      la navette américaine, son fonctionnement et les phases d’une mission. Ils seront
+      entraînés à la lecture de paramètres sur écran, et auront la chance de participer
+      à la simulation d’une mission spatiale en conditions réelles.</p><p>Les stagiaires
+      auront l'occasion d’expérimenter les vraies sensations vécues par un astronaute
+      : simulation d'une marche sur la lune, reproduction de situations de désorientation
+      et de vertige à l’intérieur d’un vaisseau qui n’est plus maîtrisé, simulation
+      de réparations sur un satellite avec le ressenti d’impesanteur (sur une structure
+      métallique de 8 m de haut x 10 m de long !), atelier de construction et de lancement
+      de fusées, expériences sur le vide et l’absence de pression dans la soute de
+      la navette, et Visite du Space Tour.</p><p>Les stagiaires apprendront également
+      le savoir-faire élémentaire du pilotage et les <strong>bases théoriques </strong>du
+      vol à voile. Ils découvriront le maniement d’un planneur, s’entraîneront sur
+      un simulateur de vol, découvriront les bases de l’aérodynamique et de la météorologie,
+      et enfin, ils participeront à 6 vols avec le moniteur.</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: 'Satellite Camp 2 '
   categorie: Activités fun
   img: "/assets/images/satelliteniv2.jpg"
@@ -130,24 +170,24 @@ stages:
     ville: Brabant Wallon
     age: 11-18
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
-      rêves de voir décoller ta propre <strong>fusée </strong>? Tu devras alors mettre
-      la main à la pâte. C’est que la tâche n’est pas simple ! Moteur, ailerons, nez
-      et corps de la fusée, autant d’élément à maîtriser pour s’assurer une trajectoire
-      idéale !</p><p>Au travers de quelques expériences ludiques, les stagiaires se
-      familiariseront avec les principes de propulsion et d’action-réaction (3e loi
-      de Newton).</p><p>Ils auront ensuite l’occasion de construire une fusée à eau
-      de base à l’aide de colle à papier, d’un cutter, de ciseaux, ou encore d’un
-      pistolet à colle chaude.</p><p>Après cette première expérience, ils pourront
-      construire une fusée à eau encore plus solide, et cette fois-ci, personnalisée
-      avec un parachute. Attention si le parachute ne s’ouvre pas en plein vol, c’est
-      la dégringolade assurée !</p><p>Selon son niveau technique et son habilité manuelle,
-      chaque stagiaire aura l’occasion de construire une fusée à poudre monoétage
-      et/ou une fusée à poudre biétage.</p><p>Il devra bien sûr aussi créer sa propre
-      base de lancement à l’aide de différents outils : scies, perceuses, colle PVC,
-      tournevis, etc.</p><p>Une fois que tout est prêt, les bases de lancement des
-      stagiaires seront installées dehors et place au décollage des fusées !</p><p>Le
-      vendredi en fin de stage, un grand lancement final des fusées est prévu devant
-      les parents.</p>"
+      rêves de voir <strong>décoller ta propre</strong> <strong>fusée </strong>? Tu
+      devras alors mettre la main à la pâte. C’est que la tâche n’est pas simple !
+      Moteur, ailerons, nez et corps de la fusée, autant d’élément à maîtriser pour
+      s’assurer une trajectoire idéale !</p><p>Au travers de quelques expériences
+      ludiques, les stagiaires se familiariseront avec les principes de propulsion
+      et d’action-réaction (3e loi de Newton).</p><p>Ils auront ensuite l’occasion
+      de construire une fusée à eau de base à l’aide de colle à papier, d’un cutter,
+      de ciseaux, ou encore d’un pistolet à colle chaude.</p><p>Après cette première
+      expérience, ils pourront construire une fusée à eau encore plus solide, et cette
+      fois-ci, personnalisée avec un parachute. Attention si le parachute ne s’ouvre
+      pas en plein vol, c’est la dégringolade assurée !</p><p>Selon son niveau technique
+      et son habilité manuelle, chaque stagiaire aura l’occasion de construire une
+      fusée à poudre monoétage et/ou une fusée à poudre biétage.</p><p>Il devra bien
+      sûr aussi créer sa propre base de lancement à l’aide de différents outils :
+      scies, perceuses, colle PVC, tournevis, etc.</p><p>Une fois que tout est prêt,
+      les bases de lancement des stagiaires seront installées dehors et place au décollage
+      des fusées !</p><p>Le vendredi en fin de stage, un grand lancement final des
+      fusées est prévu devant les parents.</p>"
     infos:
     - alias: Diplôme
       info_line: Remise d'un diplôme en fin de stage.
