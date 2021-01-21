@@ -1,8 +1,15 @@
 ---
 liste:
+- name: Gym Club La Courtoise
+  categorie: Partenaires pédagogiques
+  logo: ''
+  href: http://www.gymclub-lacourtoise.be/
+  online: non
+  bouton: Site Web
+  couleur_bouton: ''
 - name: Asbl ADSL
   categorie: Partenaires de stages
-  logo: '/assets/images/partenaires/ADSL.jpg'
+  logo: "/assets/images/partenaires/ADSL.jpg"
   href: https://www.adslstages.be/
   online: non
   bouton: Site Web
