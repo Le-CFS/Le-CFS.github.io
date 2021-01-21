@@ -1,5 +1,51 @@
 ---
 stages:
+- name: Nautic on the Beach
+  categorie: Activités fun
+  img: "/assets/images/stages/activitesfun/nauticamp.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Nautic on the Beach - Niveau 2
+    ville: Brabant Wallon
+    age: 14-17
+    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
+      de goûter aux joies des <strong>sports nautiques</strong> sous le soleil de
+      l'Espagne ?</p><p>Venez nous rejoindre et découvrir en compagnie de notre staff
+      de moniteurs les joies des sports de mer : kayak de mer, Paddle surf, snorkeling,
+      pédalo, banane aquatique, activités plage, trekking des plages,… L'occasion
+      de vivre une semaine <strong>détente-vacances</strong> : sports, piscine, plage,
+      et mer.</p><p>Les animations plage et piscine sont encadrées par notre équipe
+      de moniteurs brevetés.</p><p>Une excursion à Barcelone et à Roca del Vales (outlet),
+      ainsi qu’une pool party sont comprises dans le prix du séjour.</p><p>Deux sorties
+      (Aquapark et banane aquatique/slider aqua) sont proposées moyennant un supplément
+      de 35€ pour chaque.</p>"
+    infos:
+    - alias: Internat
+      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
+        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
+        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+  - alias: 'Nautic on the Beach - Niveau 1 '
+    ville: Brabant Wallon
+    age: 12-13
+    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
+      de goûter aux joies des <strong>sports nautiques</strong> sous le soleil de
+      l'Espagne ?</p><p>Venez nous rejoindre et découvrir en compagnie de notre staff
+      de moniteurs les joies des sports de mer : kayak de mer, Paddle surf, snorkeling,
+      pédalo, banane aquatique, activités plage, trekking des plages,… L'occasion
+      de vivre une semaine <strong>détente-vacances</strong> : sports, piscine, plage,
+      et mer.</p><p>Les animations plage et piscine sont encadrées par notre équipe
+      de moniteurs brevetés.</p><p>Une excursion à Barcelone et à Roca del Vales (outlet),
+      ainsi qu’une pool party sont comprises dans le prix du séjour.</p><p>Deux sorties
+      (Aquapark et banane aquatique/slider aqua) sont proposées moyennant un supplément
+      de 35€ pour chaque.</p>"
+    infos:
+    - alias: Internat
+      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
+        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
+        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
 - name: Initiation Golf
   categorie: Activités sportives
   img: ''
@@ -14,14 +60,14 @@ stages:
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
       ? Ce stage de Golf propose une initiation sous les conseils d’un véritable Pro
-      !</p><p>Au programme : golf en demi-journées chaque jour (practice, techniques
-      de swing, putting, chipping, ...) et beach sports la seconde partie de la journée.
-      L'occasion de vivre une semaine détente-vacances : sports, piscine, plage, et
-      mer.</p><p>Les animations plage et piscine sont encadrées par notre équipe de
-      moniteurs brevetés.</p><p>Une excursion à Barcelone et à Roca del Vales (outlet),
-      ainsi qu’une pool party sont comprises dans le prix du séjour.</p><p>Deux sorties
-      (Aquapark et banane aquatique/slider aqua) sont proposées moyennant un supplément
-      de 35€ pour chaque.</p>"
+      !</p><p>Au programme : <strong>golf </strong>en demi-journées chaque jour (practice,
+      techniques de swing, putting, chipping, ...) et beach sports la seconde partie
+      de la journée. L'occasion de vivre une semaine <strong>détente-vacances</strong>
+      : sports, piscine, plage, et mer.</p><p>Les animations plage et piscine sont
+      encadrées par notre équipe de moniteurs brevetés.</p><p>Une excursion à Barcelone
+      et à Roca del Vales (outlet), ainsi qu’une pool party sont comprises dans le
+      prix du séjour.</p><p>Deux sorties (Aquapark et banane aquatique/slider aqua)
+      sont proposées moyennant un supplément de 35€ pour chaque.</p>"
     infos:
     - alias: Internat
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
@@ -33,14 +79,14 @@ stages:
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
       ? Ce stage de Golf propose une initiation sous les conseils d’un véritable Pro
-      !</p><p>Au programme : golf en demi-journées chaque jour (practice, techniques
-      de swing, putting, chipping, ...) et beach sports la seconde partie de la journée.
-      L'occasion de vivre une semaine détente-vacances : sports, piscine, plage, et
-      mer.</p><p>Les animations plage et piscine sont encadrées par notre équipe de
-      moniteurs brevetés.</p><p>Une excursion à Barcelone et à Roca del Vales (outlet),
-      ainsi qu’une pool party sont comprises dans le prix du séjour.</p><p>Deux sorties
-      (Aquapark et banane aquatique/slider aqua) sont proposées moyennant un supplément
-      de 35€ pour chaque.</p>"
+      !</p><p>Au programme : <strong>golf </strong>en demi-journées chaque jour (practice,
+      techniques de swing, putting, chipping, ...) et beach sports la seconde partie
+      de la journée. L'occasion de vivre une semaine <strong>détente-vacances</strong>
+      : sports, piscine, plage, et mer.</p><p>Les animations plage et piscine sont
+      encadrées par notre équipe de moniteurs brevetés.</p><p>Une excursion à Barcelone
+      et à Roca del Vales (outlet), ainsi qu’une pool party sont comprises dans le
+      prix du séjour.</p><p>Deux sorties (Aquapark et banane aquatique/slider aqua)
+      sont proposées moyennant un supplément de 35€ pour chaque.</p>"
     infos:
     - alias: Internat
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
@@ -57,17 +103,18 @@ stages:
   - alias: 'Aventure XXL - Niveau 2 '
     ville: Brabant Wallon
     age: 14-17
-    description: "<p>En partenariat avec l'<strong>ADSL</strong></p><p>Sports et activités
-      aventure sous le soleil de l'Espagne, le tout dans un hôtel 4 étoiles offrant
-      tout le confort !</p><p>Au programme : découverte de Platja d'Aro, activités
-      de plage et bains de mer, piscine détente, sports à la plage (beach volley,
-      jeux de plage, …), snorkeling et kayak de mer, journée trekking côtier le long
-      des plages, activités Koh Lanta, et beach sports. L'occasion de vivre une semaine
-      détente-vacances : sports, piscine, plage, et mer.</p><p>Les animations plage
-      et piscine sont encadrées par notre équipe de moniteurs brevetés.</p><p>Une
-      excursion à Barcelone et à Roca del Vales (outlet), ainsi qu’une pool party
-      sont comprises dans le prix du séjour.</p><p>Deux sorties (Aquapark et banane
-      aquatique/slider aqua) sont proposées moyennant un supplément de 35€ pour chaque.</p>"
+    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p><strong>Sports
+      et activités aventure</strong> sous le soleil de l'Espagne, le tout dans un
+      hôtel 4 étoiles offrant tout le confort !</p><p>Au programme : découverte de
+      Platja d'Aro, activités de plage et bains de mer, piscine détente, sports à
+      la plage (beach volley, jeux de plage, …), snorkeling et kayak de mer, journée
+      trekking côtier le long des plages, activités Koh Lanta, et beach sports. L'occasion
+      de vivre une semaine <strong>détente-vacances</strong> : sports, piscine, plage,
+      et mer.</p><p>Les animations plage et piscine sont encadrées par notre équipe
+      de moniteurs brevetés.</p><p>Une excursion à Barcelone et à Roca del Vales (outlet),
+      ainsi qu’une pool party sont comprises dans le prix du séjour.</p><p>Deux sorties
+      (Aquapark et banane aquatique/slider aqua) sont proposées moyennant un supplément
+      de 35€ pour chaque.</p>"
     infos:
     - alias: Internat
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
@@ -76,17 +123,18 @@ stages:
   - alias: 'Aventure XXL - Niveau 1 '
     ville: Brabant Wallon
     age: 12-13
-    description: "<p>En partenariat avec l'<strong>ADSL</strong></p><p>Sports et activités
-      aventure sous le soleil de l'Espagne, le tout dans un hôtel 4 étoiles offrant
-      tout le confort !</p><p>Au programme : découverte de Platja d'Aro, activités
-      de plage et bains de mer, piscine détente, sports à la plage (beach volley,
-      jeux de plage, …), snorkeling et kayak de mer, journée trekking côtier le long
-      des plages, activités Koh Lanta, et beach sports. L'occasion de vivre une semaine
-      détente-vacances : sports, piscine, plage, et mer.</p><p>Les animations plage
-      et piscine sont encadrées par notre équipe de moniteurs brevetés.</p><p>Une
-      excursion à Barcelone et à Roca del Vales (outlet), ainsi qu’une pool party
-      sont comprises dans le prix du séjour.</p><p>Deux sorties (Aquapark et banane
-      aquatique/slider aqua) sont proposées moyennant un supplément de 35€ pour chaque.</p>"
+    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p><strong>Sports
+      et activités aventure</strong> sous le soleil de l'Espagne, le tout dans un
+      hôtel 4 étoiles offrant tout le confort !</p><p>Au programme : découverte de
+      Platja d'Aro, activités de plage et bains de mer, piscine détente, sports à
+      la plage (beach volley, jeux de plage, …), snorkeling et kayak de mer, journée
+      trekking côtier le long des plages, activités Koh Lanta, et beach sports. L'occasion
+      de vivre une semaine <strong>détente-vacances</strong> : sports, piscine, plage,
+      et mer.</p><p>Les animations plage et piscine sont encadrées par notre équipe
+      de moniteurs brevetés.</p><p>Une excursion à Barcelone et à Roca del Vales (outlet),
+      ainsi qu’une pool party sont comprises dans le prix du séjour.</p><p>Deux sorties
+      (Aquapark et banane aquatique/slider aqua) sont proposées moyennant un supplément
+      de 35€ pour chaque.</p>"
     infos:
     - alias: Internat
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
