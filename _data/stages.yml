@@ -1,5 +1,44 @@
 ---
 stages:
+- name: Drone Camp
+  categorie: Activités fun
+  img: "/assets/images/drone.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Brabant Wallon
+    age: 12-16
+    description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
+      veux découvrir tous les secrets de <strong>fabrication </strong>et de <strong>pilotage
+      d'un drone</strong> ? Deviens un expert en la matière avec ce stage ! Tu pourras
+      même repartir avec ton drone ! </p><p>Après un premier aperçu de la réglementation
+      en vigueur concernant l’usage des drones, tu participeras à un premier atelier
+      qui t’expliquera ce qu’est un drone et sa technologie de base. Tu apprendras
+      également comment fonctionne un drone, avant de construire le tiens ! Tu pourras
+      évidemment le tester en vol.</p><p>Grâce à un simulateur, tu expérimenteras
+      des situations de désorientation à l’intérieur d’un vaisseau qui n’est plus
+      maîtrisé. Tu réaliseras quelques exercices d’endurance, d’équilibre et de communication,
+      tout comme les astronautes lorsqu’ils s’entraînent avant d’aller dans l’espace.</p><p>Tu
+      t’entraîneras ensuite à faire tes premiers vols en double commande avec l’instructeur.</p><p>Tu
+      fabriqueras ton propre circuit et tu piloteras ton 4x4 comme si tu te trouvais
+      à bord de celui-ci.</p><p>Ensuite, tu apprendras à prendre de belles images
+      avec un drone, et tu pourras même réaliser un tournage vidéo vu d’un drone (selon
+      la météo) et ensuite le monter.</p><p>Une impression 3D de tes propres ailes
+      de pilote est également prévue au programme !</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Astronomy Camp Junior
   categorie: Activités fun
   img: "/assets/images/astronomiejr.jpg"
