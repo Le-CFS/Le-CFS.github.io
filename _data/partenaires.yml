@@ -28,6 +28,13 @@ liste:
   online: oui
   bouton: Site Web
   couleur_bouton: 
+- name: Daddy Kate
+  categorie: Partenaires d'entreprises
+  logo: "/assets/images/partenaires/daddykate.png"
+  href: https://www.daddykate.be/fr/
+  online: oui
+  bouton: Site Web
+  couleur_bouton: 
 - name: Athénée Royal de Rixensart
   categorie: Partenaires écoles
   logo: "/assets/images/partenaires/atheneerix.png"
@@ -46,13 +53,6 @@ liste:
   categorie: Partenaires d'entreprises
   logo: "/assets/images/partenaires/bnp.png"
   href: https://www.bnpparibasfortis.be/
-  online: oui
-  bouton: Site Web
-  couleur_bouton: 
-- name: Daddy Kate
-  categorie: Partenaires d'entreprises
-  logo: "/assets/images/partenaires/daddykate.png"
-  href: https://www.daddykate.be/fr/
   online: oui
   bouton: Site Web
   couleur_bouton: 
