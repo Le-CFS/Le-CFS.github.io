@@ -390,8 +390,8 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Astronaut Espace Langues
   categorie: Activités fun
-  img: ''
-  online: false
+  img: "/assets/images/astronautespacelangues.jpg"
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
