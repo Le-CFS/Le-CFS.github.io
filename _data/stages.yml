@@ -646,8 +646,8 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
 - name: Initiation Golf
   categorie: Activités sportives
-  img: ''
-  online: false
+  img: "/assets/images/initiationgolf.jpg"
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
