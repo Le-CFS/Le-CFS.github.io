@@ -754,7 +754,7 @@ stages:
   location:
   - alias: Stoumont
     ville: Brabant Wallon
-    age: 10-15
+    age: 10-15 ans
     description: "<p><em>Stage en collaboration avec l’</em><strong><em>ADSL</em></strong></p><p>Cette
       semaine promet un stage Fun et la découverte d’une région magnifique près de
       la cascade de Coo !</p><p>Au programme : sports aventure avec quad, VTT, initiation
@@ -783,7 +783,7 @@ stages:
   location:
   - alias: Stoumont
     ville: Brabant Wallon
-    age: 8-16
+    age: 8-16 ans
     description: "<p><em>En collaboration avec l'</em><strong><em>Ecole de football
       DM Academy &amp; ADSL</em></strong></p><p>Votre enfant est un vrai mordu du
       ballon ? Notre stage de football est l'idéal pour lui !</p><p>Une semaine de
