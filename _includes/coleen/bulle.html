@@ -1,32 +1,35 @@
-<!-- Team Item Starts -->
-{% unless include.offline == true %}
+<!-- gris représente une bulle grisée -->
+{% if include.offline == true or include.offline == '' or include.offline == nil %}
+{% assign gris = true %}
+{% else %}
+{% assign gris = false %}
+{% endif %}
+
+{% if gris == true %}
+{% else %}
 <a href="{% if include.href %}{{ BASE_PATH }}{{ include.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" {% if include.autre_page %}target="_blank"{% endif %} style="color: #fff !important;">
-{% endunless %}
+{% endif %}
   <figure>
-    <img src="{{ include.src }}" alt="" class="img-fluid" style="border-radius: 5%;{% if include.offline == true %}opacity: 0.2; filter: alpha(opacity=20);{% endif %}">
+    <img src="{{ include.src }}" alt="" class="img-fluid" style="border-radius: 5%;{% if gris %}opacity: 0.2; filter: alpha(opacity=20);{% endif %}">
     <div class="desktop image-overlay bulle3">
       <div class="overlay-text text-center">
         <div class="info-text">
           <strong>{% if include.titre_overlay%}{{ include.titre_overlay}}{% else %}{{ include.titre }}{% endif %}</strong>
         </div>
         <hr class="small-divider border-white">
-        {% unless include.offline == true %}
-        <a href="{% if include.href =='' %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% else %}{{ include.href }}{% endif %}" {% if include.autre_page %}target="_blank"{% endif %} class="btn btn-block btn-{% if include.couleur_bouton %}{{ include.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
-        {% endunless %}
-        {% if include.offline == true %}
+        {% if gris == true %}
         <button class="btn btn-block btn-{% if include.couleur_bouton %}{{ include.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
-        {% endif %}
-            <i class="fa fa-edit"></i> {% if include.bouton %} {{ include.bouton }}{% else %} Bientôt disponible{% endif %}
-        {% if include.offline == true %}
+          <i class="fa fa-edit"></i> Bientôt disponible
         </button>
-        {% endif %}
-        {% unless include.offline == true %}
+        {% else %}
+        <a href="{% if include.href =='' %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% else %}{{ include.href }}{% endif %}" {% if include.autre_page %}target="_blank"{% endif %} class="btn btn-block btn-{% if include.couleur_bouton %}{{ include.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+            <i class="fa fa-edit"></i> Inscription
         </a>
-        {% endunless %}
+        {% endif %}
       </div>
     </div>
   </figure>
-{% unless include.offline == true %}
+{% if gris == true %}
+{% else %}
 </a>
-{% endunless %}
-<!-- Team Item Ends -->
+{% endif %}
