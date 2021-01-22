@@ -520,27 +520,9 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Tennis - Niveau 1
+  - alias: Tennis
     ville: Brabant Wallon
-    age: 12-13 ans
-    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
-      de pratiquer le Tennis entre jeunes sous le soleil de l’Espagne ! Ce stage Tennis
-      est pour vous !</p><p>Au programme : deux séances de <strong>Tennis </strong>chaque
-      jour et beach sports (beach volley, jeux de plages, etc.), trekking côtier,
-      découverte de Platja d'Aro l’autre partie de la journée. L'occasion de vivre
-      une semaine <strong>détente-vacances</strong> : sports, piscine, plage, et mer.</p><p>Les
-      animations plage et piscine sont encadrées par notre équipe de moniteurs brevetés.</p><p>Une
-      excursion à Barcelone et à Roca del Vales (outlet), ainsi qu’une pool party
-      sont comprises dans le prix du séjour.</p><p>Deux sorties (Aquapark et banane
-      aquatique/slider aqua) sont proposées moyennant un supplément de 35€ pour chaque.</p>"
-    infos:
-    - alias: Internat
-      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
-        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
-        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  - alias: Tennis - Niveau 2
-    ville: Brabant Wallon
-    age: 14-17 ans
+    age: NIV 1 12-13 ans / NIV 2 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de pratiquer le Tennis entre jeunes sous le soleil de l’Espagne ! Ce stage Tennis
       est pour vous !</p><p>Au programme : deux séances de <strong>Tennis </strong>chaque
@@ -658,7 +640,7 @@ stages:
   location:
   - alias: Initiation Golf
     ville: Brabant Wallon
-    age: Niv1 12-13 ans / Niv2 14-17 ans
+    age: NIV1 12-13 ans / NIV2 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Envie
       de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
       ? Ce stage de Golf propose une initiation sous les conseils d’un véritable Pro
