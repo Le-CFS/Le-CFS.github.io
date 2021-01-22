@@ -168,7 +168,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 11-18
+    age: 11-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
       rêves de voir <strong>décoller ta propre</strong> <strong>fusée </strong>? Tu
       devras alors mettre la main à la pâte. C’est que la tâche n’est pas simple !
@@ -209,7 +209,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 13-18
+    age: 13-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Une
       tempête de sable inopinée survient, les panneaux solaires ne fournissent plus
       l’énergie de bord ! Votre challenge : par équipe de deux, réveiller votre rover
@@ -252,7 +252,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 12-18
+    age: 12-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Voilà
       quelques semaines que tu es arrivé sur la planète Mars. Tu mènes une expérience
       en extérieur lorsque la pince de ton bras robotique se brise. Il faut la réparer
@@ -326,7 +326,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 6-8
+    age: 6-8 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
       désires t'initier à la découverte des corps célestes qui nous entourent ? Vient
       participer à un <strong>voyage dans notre ciel</strong> pour mieux comprendre
