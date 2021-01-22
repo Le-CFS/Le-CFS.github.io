@@ -10,7 +10,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 12-18
+    age: 12-18 ans
     description: "<p><em>En partenariat avec E</em><strong><em>uro Space Center</em></strong></p><p>Laisse-toi
       porter par l’envie des grands espaces et les sensations que procurent un <strong>vol
       en planeur</strong> ! Tu combines l’entraînement des astronautes avec des sessions
@@ -50,7 +50,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 13-18
+    age: 13-18 ans
     description: "<p><em>En partenariat avec</em><strong><em> Euro Space Center</em></strong></p><p>Système
       de navigation, émission en direct à la télévision, surveiller notre planète
       et son climat,... Sans les satellites tout cela serait impossible. Pendant ce
@@ -90,7 +90,7 @@ stages:
   location:
   - alias: 'Satellite Camp 1 '
     ville: Brabant Wallon
-    age: 13-18
+    age: 13-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Système
       de navigation, émission en direct à la télévision, surveiller notre planète
       et son climat,... Sans les satellites tout cela serait impossible. Pendant ce
@@ -130,7 +130,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 11-18
+    age: 11-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
       rêves de voir <strong>décoller ta propre fusée</strong> ? Tu devras alors mettre
       la main à la pâte. C’est que la tâche n’est pas simple ! Moteur, ailerons, nez
