@@ -676,26 +676,6 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  - alias: Initiation Golf - Niveau 2
-    ville: Brabant Wallon
-    age: 14-17 ans
-    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Envie
-      de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
-      ? Ce stage de Golf propose une initiation sous les conseils d’un véritable Pro
-      !</p><p>Au programme : <strong>golf </strong>en demi-journées chaque jour (practice,
-      techniques de swing, putting, chipping,...) et beach sports (beach volley, jeux
-      de plages, etc.), trekking côtier, découverte de Platja d'Aro la seconde partie
-      de la journée. L'occasion de vivre une semaine <strong>détente-vacances</strong>
-      : sports, piscine, plage, et mer.</p><p>Les animations plage et piscine sont
-      encadrées par notre équipe de moniteurs brevetés.</p><p>Une excursion à Barcelone
-      et à Roca del Vales (outlet), ainsi qu’une pool party sont comprises dans le
-      prix du séjour.</p><p>Deux sorties (Aquapark et banane aquatique/slider aqua)
-      sont proposées moyennant un supplément de 35€ pour chaque.</p>"
-    infos:
-    - alias: Internat
-      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
-        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
-        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
 - name: Aventure XXL
   categorie: Activités fun
   img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
