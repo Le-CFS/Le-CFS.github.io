@@ -2,8 +2,8 @@
 stages:
 - name: Vol à Voile
   categorie: Activités fun
-  img: ''
-  online: false
+  img: "/assets/images/volavoil.jpg"
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
