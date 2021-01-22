@@ -3360,16 +3360,18 @@ stages:
   - alias: Brabant - Stoumont
     ville: Brabant Wallon
     age: 10-15 ans
-    description: 'Du Fun et aussi la découverte d’une région magnifique près de la
-      cascade de Coo. Sports Aventure avec : Quad, VTT, Initiation aventurier, Tir
-      à l’arc, Tir à la carabine, Parcours explo-raid, Super journée aventure dans
-      un site spécialisé avec parcours de cordes et ponts de singe. Piscine et sports
-      détente au cours de la semaine. Encadrement par des éducateurs et professeurs
-      sportifs. Accueil des stagiaires le dimanche après-midi à partir de 14h00 au
-      Centre Forêt et Sports de Stoumont. Retour le samedi matin à partir de 10h00.
-      Les chambres très agréables et lumineuses sont prévues pour 4 à 6 personnes.
-      Nous disposons de très belles infrastructures sur place : salle de sports, salle
-      de cinéma et salle de détente.'
+    description: "<p>Du <strong>Fun</strong> et aussi la <strong>découverte</strong>
+      d’une région magnifique près de la cascade de Coo. <br><br><strong>Sports Aventure
+      avec</strong> : Quad, VTT, Initiation aventurier, Tir à l’arc, Tir à la carabine,
+      Parcours explo-raid, Super journée aventure dans un site spécialisé avec parcours
+      de cordes et ponts de singe. Piscine et sports détente au cours de la semaine.
+      Encadrement par des éducateurs et professeurs sportifs. <br><br><strong>Accueil
+      </strong>des stagiaires le dimanche après-midi à partir de <strong>14h00</strong>
+      au <strong>Centre Forêt et Sports de Stoumont</strong>. <strong>Retour</strong>
+      le samedi matin à partir de <strong>10h00</strong>.<br><br><strong>Les chambres</strong>
+      très agréables et lumineuses sont prévues pour <strong>4 à 6 personnes. </strong>Nous
+      disposons de très belles infrastructures sur place : salle de sports, salle
+      de cinéma et salle de détente.</p>"
     infos:
     - alias: Repas
       info_line: 'Les repas sont prévus par le traiteur du centre. '
