@@ -540,7 +540,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   - alias: Tennis - Niveau 2
     ville: Brabant Wallon
-    age: 14-17
+    age: 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de pratiquer le Tennis entre jeunes sous le soleil de l’Espagne ! Ce stage Tennis
       est pour vous !</p><p>Au programme : deux séances de <strong>Tennis </strong>chaque
@@ -566,7 +566,7 @@ stages:
   location:
   - alias: 'Padel-Tennis - Niveau 1 '
     ville: Brabant Wallon
-    age: 12-13
+    age: 12-13 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de découvrir ce nouveau sport dérivé du tennis qui fait fureur partout en Europe
       ! Le stage Padel-Tennis est pour vous !</p><p>Au programme : deux séances de
@@ -585,7 +585,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   - alias: Padel-Tennis - Niveau 2
     ville: Brabant Wallon
-    age: 14-17
+    age: 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de découvrir ce nouveau sport dérivé du tennis qui fait fureur partout en Europe
       ! Le stage Padel-Tennis est pour vous !</p><p>Au programme : deux séances de
