@@ -357,7 +357,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 9-12
+    age: 9-12 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
       désires t'initier à la découverte des corps célestes qui nous entourent ? Vient
       participer à un <strong>voyage dans notre ciel </strong>pour mieux comprendre
@@ -398,7 +398,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 13-18
+    age: 13-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Parce
       qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage
       une aventure galactique ! </p><p>Chaque journée du camp sera divisée en deux
@@ -447,7 +447,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 6-8
+    age: 6-8 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Parce
       qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage
       une aventure galactique ! </p><p>Lors de ce camp d’astronaute, tu auras l’occasion
@@ -476,7 +476,7 @@ stages:
   location:
   - alias: Euro Space Center
     ville: Brabant Wallon
-    age: 9-18
+    age: 9-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Parce
       qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage
       une aventure galactique !</p><p>Lors de ce camp, les stagiaires auront l'occasion
