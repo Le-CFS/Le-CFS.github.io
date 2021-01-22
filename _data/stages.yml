@@ -1090,8 +1090,8 @@ stages:
       alias: Savoir nager le 50m
 - name: Techniques Artistiques
   categorie: Activités artistiques et loisirs
-  img: ''
-  online: false
+  img: "/assets/images/stages/activitesartistiquesetloisirs/artiste.png"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
