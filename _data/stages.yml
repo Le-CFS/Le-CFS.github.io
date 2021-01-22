@@ -1024,7 +1024,7 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 6 à 12 ans
+    age: 6-12 ans
     description: "<p>Véritable sport éducatif, le Judo permet à chacun de devenir
       plus adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles,
       découvrir l’entraide, évaluer ses forces et ses faiblesses pour progresser.
@@ -1049,7 +1049,7 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 6 à 8 ans
+    age: 6-8 ans
     description: "<p>Un bel équilibre entre le VTT et l'escalade. Amusement garanti
       !</p><p>Ce stage prévoit 3 heures journalières d'apprentissage des techniques
       de base d'escalade sur mur ainsi que les consignes de sécurité s'y rapportant.</p><p>L'autre
