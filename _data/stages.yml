@@ -612,7 +612,7 @@ stages:
   location:
   - alias: 'Nautic on the Beach - Niveau 1 '
     ville: Brabant Wallon
-    age: 12-13
+    age: 12-13 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Envie
       de goûter aux joies des <strong>sports nautiques</strong> sous le soleil de
       l'Espagne ?</p><p>Venez nous rejoindre et découvrir en compagnie de notre staff
@@ -631,7 +631,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   - alias: Nautic on the Beach - Niveau 2
     ville: Brabant Wallon
-    age: 14-17
+    age: 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Envie
       de goûter aux joies des <strong>sports nautiques</strong> sous le soleil de
       l'Espagne ?</p><p>Venez nous rejoindre et découvrir en compagnie de notre staff
@@ -658,7 +658,7 @@ stages:
   location:
   - alias: 'Initiation Golf - Niveau 1 '
     ville: Brabant Wallon
-    age: 12-13
+    age: 12-13 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Envie
       de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
       ? Ce stage de Golf propose une initiation sous les conseils d’un véritable Pro
@@ -678,7 +678,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   - alias: Initiation Golf - Niveau 2
     ville: Brabant Wallon
-    age: 14-17
+    age: 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Envie
       de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
       ? Ce stage de Golf propose une initiation sous les conseils d’un véritable Pro
@@ -706,7 +706,7 @@ stages:
   location:
   - alias: 'Aventure XXL - Niveau 1 '
     ville: Brabant Wallon
-    age: 12-13
+    age: 12-13 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p><strong>Sports
       et activités aventure</strong> sous le soleil de l'Espagne, le tout dans un
       hôtel 4 étoiles offrant tout le confort !</p><p>Au programme : découverte de
@@ -726,7 +726,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   - alias: 'Aventure XXL - Niveau 2 '
     ville: Brabant Wallon
-    age: 14-17
+    age: 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p><strong>Sports
       et activités aventure</strong> sous le soleil de l'Espagne, le tout dans un
       hôtel 4 étoiles offrant tout le confort !</p><p>Au programme : découverte de
