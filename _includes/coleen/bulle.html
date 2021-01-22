@@ -1,8 +1,8 @@
 <!-- gris représente une bulle grisée -->
-{% if include.offline == true or include.offline == '' or include.offline == nil %}
-{% assign gris = true %}
-{% else %}
+{% if include.offline == false or include.offline == 'false' or include.offline == nil or include.offline == '' %}
 {% assign gris = false %}
+{% else %}
+{% assign gris = true %}
 {% endif %}
 
 {% if gris == true %}

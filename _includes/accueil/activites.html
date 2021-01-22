@@ -8,7 +8,7 @@
     <div class="row">
       {% for item in bulles.images limit:4 %}
       <div class="col-xs-6 col-md-3">
-        {% include coleen/bulle.html titre=item.titre titre_overlay=item.titre_overlay offline=item.offline bouton=item.bouton autre_page=item.autre_page src=item.src href=item.href %}
+        {% include coleen/bulle.html titre=item.titre titre_overlay=item.titre_overlay offline=false bouton=item.bouton autre_page=item.autre_page src=item.src href=item.href %}
       </div>
       {% endfor %}
     </div>
