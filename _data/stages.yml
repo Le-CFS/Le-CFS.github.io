@@ -769,7 +769,7 @@ stages:
         Sports de Stoumont et départ le samedi 21 août à 10h.'
 - name: Football Academy
   categorie: Activités sportives
-  img: "/assets/images/boutonsactivites/extrascolaires/football.png"
+  img: "/assets/images/footacademy.jpg"
   online: true
   nouveau: true
   stage_une: false
