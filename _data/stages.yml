@@ -520,9 +520,9 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Tennis - Niveau 1
+  - alias: Tennis
     ville: Brabant Wallon
-    age: 12-13 ans
+    age: NIV 1 12-13 ans / NIV 2 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de pratiquer le Tennis entre jeunes sous le soleil de l’Espagne ! Ce stage Tennis
       est pour vous !</p><p>Au programme : deux séances de <strong>Tennis </strong>chaque
