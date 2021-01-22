@@ -3349,36 +3349,6 @@ stages:
   nouveau: false
   stage_une: false
   location: []
-- name: Sport Aventure & Quad
-  img: "/assets/images/stages/activitesfun/sportaventureetquad.jpg"
-  inscription: ''
-  categorie: Activités fun
-  online: true
-  nouveau: true
-  stage_une: false
-  location:
-  - alias: Brabant - Stoumont
-    ville: Brabant Wallon
-    age: 10-15 ans
-    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Du
-      <strong>Fun</strong> et aussi la <strong>découverte</strong> d’une région magnifique
-      près de la cascade de Coo. <br><br><strong>Sports Aventure avec</strong> : Quad,
-      VTT, Initiation aventurier, Tir à l’arc, Tir à la carabine, Parcours explo-raid,
-      Super journée aventure dans un site spécialisé avec parcours de cordes et ponts
-      de singe. Piscine et sports détente au cours de la semaine. Encadrement par
-      des éducateurs et professeurs sportifs. <br><br><strong>Accueil </strong>des
-      stagiaires le dimanche après-midi à partir de <strong>14h00</strong> au <strong>Centre
-      Forêt et Sports de Stoumont</strong>. <strong>Retour</strong> le samedi matin
-      à partir de <strong>10h00</strong>.<br><br><strong>Les chambres</strong> très
-      agréables et lumineuses sont prévues pour <strong>4 à 6 personnes. </strong>Nous
-      disposons de très belles infrastructures sur place : salle de sports, salle
-      de cinéma et salle de détente.</p>"
-    infos:
-    - alias: Repas
-      info_line: 'Les repas sont prévus par le traiteur du centre. '
-    - alias: Matériel
-      info_line: Ce stage nécessite un VTT en parfait état de marche ainsi qu'un casque
-        (location VTT et casque possible).
 - name: Aqua Fun
   img: "/assets/images/stages/activitessportives/aquafun.png"
   inscription: ''
