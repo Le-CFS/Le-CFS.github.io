@@ -656,9 +656,9 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: 'Initiation Golf - Niveau 1 '
+  - alias: Initiation Golf
     ville: Brabant Wallon
-    age: 12-13 ans
+    age: Niv1 12-13 ans / Niv2 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Envie
       de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
       ? Ce stage de Golf propose une initiation sous les conseils d’un véritable Pro
