@@ -1775,7 +1775,7 @@ stages:
     - alias: Tenue de bain
       info_line: Prévoir un maillot, un bonnet, et un essuie.
 - name: Psycho Natation
-  img: "/assets/images/psychonatation.jpg"
+  img: "/assets/images/psychoaqua.png"
   inscription: ''
   categorie: Les petits bouts
   online: true
