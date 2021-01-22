@@ -949,7 +949,7 @@ stages:
 - name: Super pilote
   categorie: Activités fun
   img: "/assets/images/kartingetfun.png"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -957,26 +957,24 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8 à 12 ans
-    description: '<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
+    description: "<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
       alléchant de ce stage:</p><p>Au matin : simulateur de cours, entrainement physique
-      et coordination oeil-main.</p><p>Le programme de l''après-midi est entièrement
+      et coordination oeil-main.</p><p>Le programme de l'après-midi est entièrement
       consacré au Karting : les apprentis pilotes sont encadrés pas un<strong> formateur
       du WIK </strong>qui leur apprend les différentes techniques de pilotage, trajectoire,
-      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p><p><img
-      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened">Déplacement au WIK assuré par le CFS.</p>'
+      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p><p>Déplacement
+      au WIK assuré par le CFS.</p>"
     infos: []
   - alias: Brabant
     ville: Brabant Wallon
     age: 12 à 16 ans
-    description: '<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
+    description: "<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
       alléchant de ce stage:</p><p>Au matin : simulateur de cours, entrainement physique
-      et coordination oeil-main.</p><p>Le programme de l''après-midi est entièrement
+      et coordination oeil-main.</p><p>Le programme de l'après-midi est entièrement
       consacré au Karting : les apprentis pilotes sont encadrés pas un<strong> formateur
       du WIK </strong>qui leur apprend les différentes techniques de pilotage, trajectoire,
-      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p><p><img
-      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened">Déplacement au WIK assuré par le CFS.</p>'
+      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p><p>Déplacement
+      au WIK assuré par le CFS.</p>"
     infos: []
 - name: Mini-Tennis
   categorie: Découvertes sportives et culturelles
