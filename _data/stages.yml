@@ -3353,8 +3353,8 @@ stages:
   img: "/assets/images/stages/activitesfun/sportaventureetquad.jpg"
   inscription: ''
   categorie: Activités fun
-  online: false
-  nouveau: false
+  online: true
+  nouveau: true
   stage_une: false
   location:
   - alias: Brabant - Stoumont
