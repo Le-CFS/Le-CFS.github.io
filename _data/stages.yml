@@ -2304,13 +2304,19 @@ stages:
     infos: []
   - alias: Liège
     ville: Liège
-    age: 6-12 ans
-    description: "<p>Les enfants pourront découvrir les différentes techniques du
-      Cirque telles que : la jonglerie (foulards, diabolos, assiettes chinoises, balles,
-      quilles, anneaux et bâton du diable) ; l'équilibre (monocycles, échasses, mini
-      rouleau, rola-bola et bidon) ; l'acrobatie (bases d'acrobaties fixes). </p><p>Les
-      3 heures de cirque sont complétées par 3 périodes de multisports.</p>"
-    infos: []
+    age: 8-12 ans
+    description: "<p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p><p>Tu
+      découvriras les arts du cirque à travers différents jeux : jonglerie (foulards,
+      diabolos, assiettes chinoises, balles, quilles, anneaux et bâton du diable),
+      équilibre (monocycles, échasses, mini rouleau, rola-bola et bidon), acrobatie
+      (bases d'acrobaties fixes).</p><p>Les 3 heures de cirque sont complétées par
+      3 périodes de multisports (basketball, mini-foot, volley, handball, unihoc,
+      baseball, etc.).</p><p>Une semaine pleine de découvertes, de rires et de bons
+      souvenirs !</p>"
+    infos:
+    - alias: Représentation
+      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
+        avec le covid). 
 - name: Découverte Sportive
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
   inscription: ''
