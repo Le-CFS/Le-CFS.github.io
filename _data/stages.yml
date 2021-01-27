@@ -1107,11 +1107,17 @@ stages:
   - alias: Liège
     ville: Liège
     age: 6-12 ans
-    description: "<p>Les enfants auront l'occasion de découvrir et d'appliquer différentes
-      techniques artistiques telles que peinture, travail de la terre, collages, papier
-      mâché, dessin, etc., développant ainsi leur créativité.</p><p>Les 3 périodes
-      de techniques artistiques sont complétées par 3 périodes de multisports.</p>"
+    description: "<p>Ce stage est destiné à nos créatifs qui débordent d'imagination
+      et aiment créer de leurs mains !</p><p>Les enfants auront l'occasion de découvrir
+      et d'appliquer différentes techniques artistiques telles que peinture, travail
+      de la terre, collages, papier mâché, dessin, etc., développant ainsi leur créativité.</p><p>La
+      semaine est organisée en 3 périodes de techniques artistiques par jour et 3
+      périodes de multisports (basketball, mini-foot, volley, handball, unihoc, baseball,
+      etc.).</p>"
     infos:
+    - alias: Présentation
+      info_line: Une petite présentation des créations est prévue en fin de stage
+        (selon les possibilités avec le covid). 
     - alias: Matériel
       info_line: Les enfants apporteront un vieux tablier ainsi qu'un plumier avec
         colle, ciseaux et latte.
