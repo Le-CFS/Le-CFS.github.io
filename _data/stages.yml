@@ -2746,11 +2746,17 @@ stages:
   - alias: Liège
     ville: Liège
     age: 6-12 ans
-    description: "<p>Votre enfant apprend les bases de la danse-jazz (musique, tempos,
-      mouvements, danse en groupe).</p><p>Une petite présentation est prévue en fin
-      de stage (apprentissage des différentes chorégraphies apprises durant la semaine).</p><p>La
-      semaine est organisée par 3 périodes de danse par jour et 3 périodes de multisports.</p>"
-    infos: []
+    description: "<p>Envie de devenir une vraie danseuse ?</p><p>Durant la semaine
+      de stage, les enfants apprendront les bases de la danse modern-jazz (musique,
+      tempos, mouvements, danse en groupe).</p><p>Ils auront l'occasion de réaliser
+      des chorégraphies sur différentes musiques rythmées et actuelles. Ils apprendront
+      à coordonner leurs mouvements et à suivre le tempo des musiques.</p><p>La semaine
+      est organisée par 3 périodes de danse par jour et 3 périodes de multisports
+      (basketball, mini-foot, volley, handball, unihoc, baseball, etc.).</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Une petite présentation des chorégraphies apprises est prévue en
+        fin de stage (selon les possibilités avec le covid). 
 - name: GRS
   img: "/assets/images/stages/danseetgymnastique/grs.png"
   inscription: ''
