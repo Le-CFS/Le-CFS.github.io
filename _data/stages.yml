@@ -3577,12 +3577,18 @@ stages:
   - alias: Liège
     ville: Liège
     age: 6-12 ans
-    description: "<p>Ce stage propose une alternance d'entraînements (techniques ballon
-      et techniques de jeu) et de petits matchs <em>(</em><strong><em>3 périodes</em></strong><em>
-      de football par jour et </em><strong><em>3 périodes</em></strong><em> de multisports).</em></p>"
+    description: "<p>Votre enfant est un vrai mordu du ballon ? Notre stage de football
+      est l'idéal pour lui ! </p><p>Ce stage propose une alternance d'entraînements
+      (techniques de ballon et techniques de jeu) et de petits matchs.</p><p>Chaque
+      entraînement est abordé de manière ludique afin d'allier football et plaisir.</p><p>La
+      semaine est organisée en 3 périodes de football par jour et 3 périodes de multisports
+      (basketball, mini-foot, volley, handball, unihoc, baseball, etc.).</p>"
     infos:
+    - alias: Représentation
+      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
+        avec le covid). 
     - alias: Equipement
-      info_line: 'Se munir de 2 paires de chaussures (baskets ou de foot) : 1 pour
+      info_line: 'Se munir de 2 paires de chaussures (de baskets ou de foot) : une pour
         l''intérieur et l''autre pour l''extérieur.'
 - name: Football Euro 2021
   img: "/assets/images/euro2021.jpg"
