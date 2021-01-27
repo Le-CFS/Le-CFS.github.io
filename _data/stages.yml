@@ -1,5 +1,29 @@
 ---
 stages:
+- name: Cirque Mômes
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 5-7 ans
+    description: "<p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p><p>Durant
+      ce stage, les enfants sont amenés à découvrir la variété des <strong>arts du
+      cirque</strong> à travers différents jeux : apprendre à jongler avec toutes
+      sortes d'objets, s'amuser entre équilibre et déséquilibre sur une boule, un
+      rola bola ou encore un câble, construire des pyramides humaines ensemble et
+      s'essayer au clown de théâtre !</p><p>Les 3 heures de cirque sont complétées
+      par 3 périodes de multisports (basketball, mini-foot, volley, handball, unihoc,
+      baseball, etc.).</p><p>Une semaine pleine de découvertes, de rires et de bons
+      souvenirs !</p>"
+    infos:
+    - alias: Représentation
+      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
+        avec le covid). 
 - name: Psycho Bricolage
   categorie: Les petits bouts
   img: ''
