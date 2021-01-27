@@ -947,14 +947,19 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8 à 12 ans
-    description: "<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
-      alléchant de ce stage:</p><p>Au matin : simulateur de cours, entrainement physique
-      et coordination oeil-main.</p><p>Le programme de l'après-midi est entièrement
-      consacré au Karting : les apprentis pilotes sont encadrés pas un<strong> formateur
-      du WIK </strong>qui leur apprend les différentes techniques de pilotage, trajectoire,
-      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p><p>Déplacement
-      au WIK assuré par le CFS.</p>"
-    infos: []
+    description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
+      te permettra de découvrir les sensations d’un vrai pilote : concentration, adrénaline
+      et amusement ! </p><p><strong>Au programme </strong>: une journée de quad, une
+      journée e-moto, une journée e-fun (segway et trottinette électrique), une journée
+      e-fun sur playstation, et une journée de karting au WIK Wavre.</p><p>Le reste
+      de la journée est complété par des activités multisports.</p><p><strong>Le CFS
+      se donne le droit d'annuler le stage d'un enfant qui ne respecterait pas les
+      différentes règles de sécurité.</strong></p>"
+    infos:
+    - alias: Tenue extérieur
+      info_line: Prévoir une tenue adaptée au activités en extérieur. 
+    - alias: Transports
+      info_line: Les transports sont assurés par le CFS. 
 - name: Mini-Tennis
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stages/lespetitsbouts/psychosport.png"
