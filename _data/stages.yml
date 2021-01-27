@@ -467,7 +467,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Astronaut Camp Junior
   categorie: Activités fun
-  img: "/assets/images/astronomiejr.jpg"
+  img: "/assets/images/astronautejr.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -947,17 +947,6 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8 à 12 ans
-    description: "<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
-      alléchant de ce stage:</p><p>Au matin : simulateur de cours, entrainement physique
-      et coordination oeil-main.</p><p>Le programme de l'après-midi est entièrement
-      consacré au Karting : les apprentis pilotes sont encadrés pas un<strong> formateur
-      du WIK </strong>qui leur apprend les différentes techniques de pilotage, trajectoire,
-      exercices évolutifs avec cônes sur la piste et une analyse vidéo est prévue.</p><p>Déplacement
-      au WIK assuré par le CFS.</p>"
-    infos: []
-  - alias: Brabant
-    ville: Brabant Wallon
-    age: 12 à 16 ans
     description: "<p>Tu es le futur champion du monde en F1?</p><p>Voici le programme
       alléchant de ce stage:</p><p>Au matin : simulateur de cours, entrainement physique
       et coordination oeil-main.</p><p>Le programme de l'après-midi est entièrement
