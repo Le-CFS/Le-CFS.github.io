@@ -1130,12 +1130,22 @@ stages:
   - alias: Liège
     ville: Liège
     age: 3-5 ans
-    description: "<p>Un stage de psychomotricité qui sera agrémenté, quotidiennement,
-      de quelques recettes culinaires de base, préparées par nos petits stagiaires.</p><p>Une
-      période de repos est prévue après le temps de midi.</p>"
+    description: "<p>Votre enfant à l'âme d'un futur cuisinier ?</p><p>Durant le stage,
+      nos petits chefs participeront à la préparation de quelques recettes culinaires
+      de base.</p><p>L'autre partie de la journée, des exercices et jeux basés sur
+      les différents axes de la psychomotricité seront proposés aux enfants : latéralité,
+      équilibre, éveil sensori-moteur, adresse, audace, coopération, rythme, etc.</p><p>Une
+      période de repos est prévue après le temps de midi.</p><p><strong>Attention</strong>
+      : Les enfants doivent obligatoirement être propres pour pouvoir participer à
+      ce stage.</p>"
     infos:
+    - alias: Représentation
+      info_line: Une petite représentation/dégustation est prévue en fin de stage
+        (selon les possibilités avec le covid). 
+    - alias: Tablier
+      info_line: L'enfant doit apporter son tablier.
     - alias: Tenue de rechange
-      info_line: Prévoir des habits de rechange.
+      info_line: Prévoir une tenue de rechange.
 - name: Stylisme
   categorie: Activités artistiques et loisirs
   img: ''
