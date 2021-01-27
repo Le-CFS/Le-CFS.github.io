@@ -1176,9 +1176,19 @@ stages:
     ville: Brabant Wallon
     age: 10-16 ans
     description: "<p>Ce stage est destiné aux fashionistas qui désirent créer leurs
-      propres vêtements et les customiser à la mode de leur choix. Un défilé sera
-      organisé en fin de semaine pour montrer les créations.</p>"
-    infos: []
+      propres vêtements et les customiser à la mode de leur choix !</p><p>Les enfant
+      apprennent à utiliser une machine à coudre, à manier le fil et l'aiguille, et
+      à créer et utiliser un patron. Ce stage est l'idéal pour faire ressortir l'<strong>esprit
+      créatif</strong> de votre enfant, ainsi qu'aiguiser son <strong>attrait pour
+      la mode et les vêtements</strong>. </p><p>Les enfants pourront repartir en fin
+      de stage avec leur création : jupe, short, pantalon, etc.</p><p>Chaque journée
+      de stage comporte trois périodes de stylisme et une période de jeux en extérieur
+      où les enfants auront la chance de découvrir un jeu collectif différent : unihoc,
+      basketball, crosse canadienne, ball bouncer, ou encore baseball.</p>"
+    infos:
+    - alias: Défilé
+      info_line: Un défilé sera organisé en fin de semaine pour montrer les créations
+        (selon les possibilités avec le covid).
 - name: Secourisme
   categorie: Activités artistiques et loisirs
   img: ''
