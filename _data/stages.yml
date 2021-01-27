@@ -1172,7 +1172,7 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Stylisme
+  - alias: Brabant
     ville: Brabant Wallon
     age: 10-16 ans
     description: "<p>Ce stage est destiné aux fashionistas qui désirent créer leurs
