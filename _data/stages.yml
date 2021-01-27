@@ -2184,42 +2184,44 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p>Vous désirez éveiller votre petit bout à un jeu de raquette ?
-      </p><p>Ce stage est l'idéal pour <strong>initier les enfants au tennis</strong>
-      par différents jeux leur permettant d'en acquérir les bases. Ils découvrent
-      la raquette en tant que prolongement du bras et apprennent à coordonner la vue
-      avec le mouvement de la raquette.</p><p>Nos petits tennisman apprennent, grâce
-      à la 2D, le coup droit, le revers, et toutes leurs particularités : prises,
-      placement, jeux de jambes, direction…<br>La manipulation de la balle au sol,
-      permet de contrôler le mouvement de la raquette et de la balle, et de faciliter
-      leur apprentissage. Ils peuvent ensuite s’essayer à la 3D où l’apprentissage
-      du rebond de la balle est essentiel pour un sport tel que le tennis. La volée
-      et le service sont alors également vus. <br>Les exercices permettent à l'enfant
-      de lire la trajectoire de leur balle et d'anticiper ses rebonds.</p><p>Tous
-      ces exercices sont proposés avec du <strong>matériel adapté</strong> : ballons,
-      ballons de baudruche, balles rouges et balles molles.</p><p>Chaque journée de
-      stage comporte <strong>trois périodes de tennis</strong> et une <strong>période
-      de découverte d’un multisports</strong> en extérieur. Des activités comme du
-      baseball, unihoc, ball bouncer, etc. sont favorisées car elles permettent aux
-      enfants d'utiliser à nouveau du matériel qui est le prolongement de leur main.</p>"
+    description: "<p>Vous désirez éveiller votre petit bout à un jeu de raquette ?</p><p>Ce
+      stage est l'idéal pour <strong>initier les enfants au tennis</strong> par différents
+      jeux leur permettant d'en acquérir les bases. Ils découvrent la raquette en
+      tant que prolongement du bras et apprennent à coordonner la vue avec le mouvement
+      de la raquette.</p><p>Nos petits tennisman apprennent, grâce à la 2D, le coup
+      droit, le revers, et toutes leurs particularités : prises, placement, jeux de
+      jambes, direction… La manipulation de la balle au sol, permet de contrôler le
+      mouvement de la raquette et de la balle, et de faciliter leur apprentissage.
+      Ils peuvent ensuite s’essayer à la 3D où l’apprentissage du rebond de la balle
+      est essentiel pour un sport tel que le tennis. La volée et le service sont alors
+      également vus. <br>Les exercices permettent à l'enfant de lire la trajectoire
+      de leur balle et d'anticiper ses rebonds.</p><p>Tous ces exercices sont proposés
+      avec du <strong>matériel adapté</strong> : ballons, ballons de baudruche, balles
+      rouges et balles molles.</p><p>Chaque journée de stage comporte <strong>trois
+      périodes de tennis</strong> et une <strong>période de découverte d’un multisports</strong>
+      en extérieur. Des activités comme du baseball, unihoc, ball bouncer, etc. sont
+      favorisées car elles permettent aux enfants d'utiliser à nouveau du matériel
+      qui est le prolongement de leur main.</p>"
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par le CFS. 
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: "<p>Les enfants s'initient au tennis en faisant différents jeux leur
-      permettant d’acquérir les bases. Ils découvrent la raquette en tant que prolongement
-      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.</p><p>Ils
-      apprennent, grâce à la 2D, le coup droit et le revers et toutes leurs particularités
-      : prises, placement, jeux de jambes, direction, … Ils peuvent ensuite s’essayer
-      à la 3D où l’apprentissage du rebond de la balle est essentiel pour un sport
-      tel que le tennis. La volée et le service sont alors également vus.</p><p>Et
-      tout cela avec du matériel adapté : ballons, ballons de baudruche, balles rouges
-      et balles molles.</p><p>Une période de la journée sera consacrée à la découverte
-      d’un multisport.</p><ul><li><p>Uccle &amp; Jette: stage <strong>100% <em>CFS
-      : </em></strong><em>matériel fourni par le </em><strong><em>CFS</em></strong></p></li><li><p>Wemmel:
-      stage en collaboration avec<strong><em> Royal Tennis Club Laeken</em></strong></p></li><li><p>Schaerbeek
+    description: "<p>Vous désirez éveiller votre petit bout à un jeu de raquette ?</p><p>Ce
+      stage est l'idéal pour <strong>initier les enfants au tennis </strong>par différents
+      jeux leur permettant d'en acquérir les bases. Ils découvrent la raquette en
+      tant que prolongement du bras et apprennent à coordonner la vue avec le mouvement
+      de la raquette.</p><p>Ils apprennent, grâce à la 2D, le coup droit et le revers
+      et toutes leurs particularités : prises, placement, jeux de jambes, direction,
+      … Ils peuvent ensuite s’essayer à la 3D où l’apprentissage du rebond de la balle
+      est essentiel pour un sport tel que le tennis. La volée et le service sont alors
+      également vus.</p><p>Et tout cela avec du <strong>matériel adapté</strong> :
+      ballons, ballons de baudruche, balles rouges et balles molles.</p><p>Une période
+      de la journée sera consacrée à la découverte d’un multisport.</p><ul><li><p>Uccle
+      &amp; Jette: stage <strong>100% <em>CFS : </em></strong><em>matériel fourni
+      par le </em><strong><em>CFS</em></strong></p></li><li><p>Wemmel: stage en collaboration
+      avec<strong><em> Royal Tennis Club Laeken</em></strong></p></li><li><p>Schaerbeek
       : stage en collaboration avec <strong><em>Lambermont Tennis Academy</em></strong>
       (sur terrain de 12m, balles en mousse)</p></li></ul>"
     infos:
@@ -2228,10 +2230,20 @@ stages:
   - alias: Liège
     ville: Liège
     age: 4-6 ans
-    description: "<p>Une découverte de tennis complétée par des ateliers de psychomotricité
-      et de multisports.</p><p>Les enfants découvrent la raquette en tant que prolongement
-      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.</p>"
-    infos: []
+    description: "<p><strong>Pour les enfants de 4 à 6 ans.</strong></p><p>Vous désirez
+      éveiller votre petit bout à un jeu de raquettes ? </p><p>Ce stage est l'idéal
+      pour initier votre enfant au tennis de manière ludique, et avec du matériel
+      adapté pour les plus petits (ballons, ballons de baudruche, balles rouges et
+      balles molles). Les enfants découvrent la raquette en tant que prolongement
+      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.</p><p>Cette
+      découverte du tennis est complétée par des ateliers de psychomotricité (latéralité,
+      équilibre, éveil sensori-moteur, adresse, audace, coopération, rythme, etc.)
+      et de multisports (basketball, mini-foot, volley, handball, unihoc, baseball,
+      etc.).</p>"
+    infos:
+    - alias: Représentation
+      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
+        avec le covid). 
 - name: Baby Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirquemomes.png"
   inscription: ''
