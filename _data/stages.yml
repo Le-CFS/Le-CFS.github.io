@@ -2893,7 +2893,7 @@ stages:
   img: "/assets/images/stages/danseetgymnastique/gympro.png"
   inscription: ''
   categorie: Danse et Gymnastique
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -3902,7 +3902,7 @@ stages:
     ville: Brabant Wallon
     age: 8-12 ans
     description: "<p>Tu veux découvrir les vraies sensations d'un pilote ? Adrénaline,
-      amusement et FUN seront au rendez-vous !</p><p>Ce stage destiné aux enfants
+      amusement et FUN seront au rendez-vous ! </p><p>Ce stage destiné aux enfants
       de <strong>8 à 12 ans</strong>, permet de s'initier et de se perfectionner à
       la conduite d'un quad thermique. Lors du stage, un quad est prévu pour trois
       enfants.</p><p>Dès l'arrivée, les enfants seront briefés et répartis en deux
@@ -3913,8 +3913,8 @@ stages:
       auront également l'opportunité de s'essayer à la moto automatique et manuelle.</p><p>2h
       de quad sont prévues le matin et 2h l'après-midi. Les enfants apprendront également
       à entretenir et respecter le matériel. Ils auront la possibilité de faire des
-      activités fun entre les temps de roulage <em>(frisbee golf, snag golf, spikeball,
-      kinball, flag foot)</em> et de s'initier au segway et à la trottinette électrique
+      activités fun entre les temps de roulage (frisbee golf, snag golf, spikeball,
+      kinball, flag foot) et de s'initier au segway et à la trottinette électrique
       (1 pour trois enfants).</p><p>Avec la répétition des séances, l'évolution est
       très rapide. Les pilotes progressent techniquement et apprennent à maitriser
       leur quad.</p><p>Une simulation de pilotage est prévue une après-midi du stage
