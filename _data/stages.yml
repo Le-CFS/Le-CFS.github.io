@@ -4022,11 +4022,15 @@ stages:
     ville: Bruxelles
     age: 8-14 ans
     description: "<p><em>Stage en collaboration avec </em><strong><em>Jet Set Fleur
-      Bleue</em></strong></p><p>Découverte et/ou perfectionnement au tennis de table.
-      Apprentissage du maniement de la raquette (coups droits, services, revers, et
-      déplacements autour de la table). Le stage est complété par des activités de
-      multisports.</p>"
-    infos: []
+      Bleue</em></strong></p><p>Votre enfant veut découvrir les joies d'un sport de
+      raquettes ? </p><p>Ce stage propose une découverte et/ou un perfectionnement
+      au tennis de table. Les enfants apprendront à manier la raquette : coups droits,
+      services, revers, et déplacements autour de la table.</p><p>Le stage est complété
+      par des activités de multisports.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
+        Vous pouvez bien sûr apporter votre propre matériel.
 - name: Plongée
   img: "/assets/images/stages/activitessportives/plongee.png"
   categorie: Activités sportives
