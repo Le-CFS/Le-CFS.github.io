@@ -4231,7 +4231,7 @@ stages:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
         disposition. Vous pouvez bien sûr apporter votre propre matériel.
-- name: Volley Découverte
+- name: 'Volley '
   img: "/assets/images/stages/activitessportives/volleydecouverte.png"
   inscription: ''
   categorie: Activités sportives
@@ -4243,8 +4243,15 @@ stages:
     ville: Brabant Wallon
     age: 6-12 ans
     description: "<p><em>Stage en collaboration avec le </em><strong><em>Volley Club</em></strong><em>
-      de Walhain</em></p><p>Ce stage permet une initiation au volley, apprentissage
-      des règles et des techniques de jeux.</p>"
+      de Walhain</em></p><p>Ce stage permet une initiation au volley, ainsi qu'un
+      apprentissage des règles, des techniques et de la tactique du jeu.</p><p>Au
+      cours du stage, les enfants découvriront plusieurs techniques de jeux utilisées
+      au volley : savoir réaliser une passe haute, une manchette, un smash, un service,
+      savoir se déplacer sur le terrain, etc.</p><p>Le matériel mis à disposition
+      est adapté pour les enfants : ballons de baudruche, taille de filet adaptée,...</p><p>Chaque
+      journée de stage comporte trois périodes de volley et une période de jeux en
+      extérieur où les enfants auront la chance de découvrir différents jeux collectifs
+      : unihoc, basketball, crosse canadienne, ball bouncer, ou encore baseball.</p>"
     infos:
     - alias: Garderie
       info_line: 'Pour les activités à Walhain : garderie à partir de 8h00 le matin.'
