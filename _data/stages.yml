@@ -4818,14 +4818,20 @@ stages:
   - alias: Liège
     ville: Liège
     age: 6-8 ans
-    description: "<p>Ce stage est réservé aux enfants sachant déjà rouler à deux roues.</p><p>Une
-      partie de la journée est consacrée au perfectionnement du maniement du vélo
-      sous forme de petits parcours d'obstacles, initiation au code de la route,...</p><p>Le
-      reste de la journée est consacré à des activités de multisports.</p>"
+    description: "<p>Votre enfant a envie de devenir un vrai rider ? Il ne s'ennuiera
+      pas avec ce stage !</p><p>Ce stage est réservé aux enfants sachant déjà rouler
+      à deux roues (obligatoire).</p><p>Une partie de la journée est consacrée au
+      perfectionnement du maniement du vélo sous forme de petits parcours d'obstacles,
+      initiation au code de la route, etc.</p><p>Le reste de la journée est consacré
+      à des activités de multisports (basketball, mini-foot, volley, handball, unihoc,
+      baseball, etc.).</p>"
     infos:
+    - alias: Représentation
+      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
+        avec le covid). 
     - alias: Equipement
-      info_line: L'enfant doit apporter son vélo, son casque, un cadenas (nous déclinons
-        toute responsabilité en cas de vol) ainsi qu'une chambre à air de réserve.
+      info_line: L'enfant doit apporter son vélo, son casque, un cadenas ainsi qu'une
+        chambre à air de réserve (nous déclinons toute responsabilité en cas de vol). 
 - name: Remédiation & Sport
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
   inscription: ''
