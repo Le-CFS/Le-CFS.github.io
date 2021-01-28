@@ -4741,21 +4741,29 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p>Durant ce stage, les enfants élaborent une mise en scène et créent
+    description: "<p>Tu veux évoluer au sein d'une troupe de théâtre ? Alors rejoins
+      nous !</p><p>Durant ce stage, les enfants élaborent une mise en scène et créent
       des personnages et des décors. Encadrés par des artistes du monde théâtral,
       ils travaillent de façon ludique afin de développer leurs capacités mnésiques.
-      Les enfants s'initient également à des exercices d'improvisation.</p><p>Petite
-      représentation en fin de stage.</p>"
-    infos: []
+      En jouant, ils apprendront également à exprimer leurs sentiments par des mouvements.</p><p>Les
+      enfants s'initient également à des exercices d'improvisation.</p>"
+    infos:
+    - alias: Représentation
+      info_line: Petite représentation en fin de stage (selon les possibilités avec
+        le covid).
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
-    description: "<p>Durant ce stage, les enfants élaborent une mise en scène et créent
+    description: "<p>Tu veux évoluer au sein d'une troupe de théâtre ? Alors rejoins
+      nous !</p><p>Durant ce stage, les enfants élaborent une mise en scène et créent
       des personnages et des décors. Encadrés par des artistes du monde théâtral,
       ils travaillent de façon ludique afin de développer leurs capacités mnésiques.
-      Les enfants s'initient également à des exercices d'improvisation.</p><p>Petite
-      représentation en fin de stage.</p>"
-    infos: []
+      En jouant, ils apprendront également à exprimer leurs sentiments par des mouvements.</p><p>Les
+      enfants s'initient également à des exercices d'improvisation.</p>"
+    infos:
+    - alias: Représentation
+      info_line: Petite représentation en fin de stage (selon les possibilités avec
+        le covid).
 - name: Vidéo Reportage
   img: "/assets/images/stages/activitesartistiquesetloisirs/videoreportage.png"
   inscription: ''
