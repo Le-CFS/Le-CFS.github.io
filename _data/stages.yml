@@ -1458,19 +1458,20 @@ stages:
     ville: Brabant Wallon
     age: 10-16 ans
     description: "<p><em>Stage en partenariat avec le </em><strong><em>WIK - Wavre
-      Indoor Karting</em></strong></p><p>Durant la matinée, les jeunes découvrent
-      le quad, la moto ainsi que des ateliers mécanos.</p><p>Le programme de l'après-midi
-      est entièrement consacré au Karting : les apprentis pilotes sont encadrés pas
-      un <strong>formateur du WIK</strong> qui leur apprend les différentes techniques
-      de pilotage, trajectoire, exercices évolutifs avec cônes sur la piste et une
-      analyse vidéo est prévue.</p>"
+      Indoor Karting</em></strong></p><p>Tu veux découvrir les vraies sensations d'un
+      pilote ? Adrénaline et amusement seront au rendez-vous ! </p><p>Ce stage s’organise<strong>
+      à la journée</strong> dans une vraie académie de pilotage pour tous les futurs
+      pilotes de moins de 16 ans.</p><p>Les enfants y développeront leurs compétences
+      pratiques et théoriques en combinant les apprentissages sur karting, mais aussi
+      sur nos simulateurs de course et nos crazy karts.</p><p>De plus, nos coachs
+      sont tous formés afin d’encadrer les enfants en leur offrant un maximum de fun
+      en toute sécurité (1 moniteur pour 5 enfants).</p><p>Et comme on apprend mieux
+      le ventre plein, le lunch est inclus !</p><ul><li><p><strong>Stage découverte
+      </strong>: lundi, mardi, jeudi et vendredi.</p></li><li><p><strong>Pro karting</strong>
+      : mercredi.</p></li></ul>"
     infos:
-    - alias: Demi-journée
-      info_line: 'Possibilité de faire le stage à la demi-journée : accueil à 13h00
-        au WIK en face du Walibi (Boulevard de l''Europe 117 - 1300 Wavre) ►► Inscription
-        à la formule KARTING - DEMI-JOURNEE'
-    - alias: Navette
-      info_line: Déplacement au WIK assuré par le CFS.
+    - alias: Garderie
+      info_line: Garderie comprise dans le tarif et rendez-vous directement au WIK.
 - name: Karting - Demi-journée
   categorie: Activités fun
   img: ''
