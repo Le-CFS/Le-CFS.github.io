@@ -1,5 +1,29 @@
 ---
 stages:
+- name: Vélo Mômes
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 5-7 ans
+    description: "<p>Vous souhaitez que votre petit bout apprenne à rouler à vélo
+      comme les grands ? Ce stage s'adresse aux enfants qui souhaitent apprendre à
+      rouler à deux roues !</p><p>Une partie de la journée est consacrée à l'apprentissage
+      du vélo. Les enfants apprendront à rouler sur deux roues, à réaliser des petits
+      parcours d'adresse et de slalom, etc.</p><p>Le reste de la journée est consacrée
+      à des activités de multisports (basketball, mini-foot, volley, handball, unihoc,
+      baseball, etc.).</p>"
+    infos:
+    - alias: Représentation
+      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
+        avec le covid). 
+    - alias: Equipement
+      info_line: L'enfant doit venir avec son vélo et son casque.
 - name: Tennis & VTT
   categorie: Activités sportives
   img: ''
