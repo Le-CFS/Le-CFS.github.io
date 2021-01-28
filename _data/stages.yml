@@ -3410,20 +3410,22 @@ stages:
   img: "/assets/images/stages/activitesfun/tennisfunetaventure.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-12 ans
-    description: Lors de ce stage, les enfants ont l'occasion de pratiquer le tennis
-      mais également de découvrir diverses activités fun et de faire des excursions
-      comme le Laser Game, le Train World, une visite au musée, à l'Atomium, une journée
-      à la patinoire, une journée au Parc de loisir Koézio...
+    age: 7-16 ans
+    description: "<p><em>Stage en collaboration avec </em><strong><em>Lambermont Tennis
+      Academy</em></strong></p><p>Lors de ce stage, les enfants ont l'occasion de
+      pratiquer le tennis mais également de découvrir divers activités funs et de
+      faire des excursions comme le Laser Game, le Train World, visiter un musée,
+      l'atomium, une journée à la patinoire, une journée au Parc de loisir Koézio...</p>"
     infos:
-    - alias: Partenariat
-      info_line: Stage en collaboration avec Lambert Tennis Academy
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
+        disposition. Vous pouvez bien sûr apporter votre propre matériel.
 - name: X-trem Sensation
   img: "/assets/images/stages/activitesfun/xtremsensation.png"
   inscription: ''
