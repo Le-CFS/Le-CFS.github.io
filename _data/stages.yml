@@ -4196,12 +4196,15 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 11-16 ans
-    description: "<p>Ce stage permet aux amateurs de tennis, de développer leur technique
-      de jeu et d'en apprendre davantage. Les enfants auront également l'occasion
-      de participer à des tournois durant le stage.</p>"
+    description: "<p><em>Stage en collaboration avec </em><strong><em>Lambermont Tennis
+      Academy</em></strong></p><p>Ce stage permet aux amateurs de tennis, de développer
+      leur technique de jeu et d'en apprendre davantage. Tout au long de la semaine,
+      les enfants se perfectionneront au tennis.</p><p>Les enfants auront également
+      l'occasion de participer à des tournois durant le stage.</p>"
     infos:
-    - alias: Partenariat
-      info_line: Stage en partenariat avec Lambert Tennis Academy.
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
+        disposition. Vous pouvez bien sûr apporter votre propre matériel.
 - name: Volley Découverte
   img: "/assets/images/stages/activitessportives/volleydecouverte.png"
   inscription: ''
