@@ -1,5 +1,36 @@
 ---
 stages:
+- name: Tennis & VTT
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p>Un bel équilibre entre le tennis et le VTT. Variété et plaisir
+      garantis !</p><p>Ce stage de tennis associe l'apprentissage d'exercices techniques
+      au plaisir du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine,
+      les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,
+      etc.) afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire
+      ou en adversaire.</p><p>Des groupes seront formés en fonction des âges et des
+      niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p><p>Le restant
+      de la journée, les enfants pratiqueront du VTT. Ils alterneront parcours sur
+      la route et dans les bois, apprendront à dévaler les descentes et à faire des
+      sauts.</p><p>La semaine de stage promet une pratique intensive du VTT, les enfants
+      doivent être capables de rouler 8km par jour.</p>"
+    infos:
+    - alias: Tenue extérieur
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur et en intérieur.
+    - alias: Equipement
+      info_line: 'Attention : il faut un VTT, un cadenas, une chambre à air de rechange,
+        ainsi qu’un casque dès le premier jour du stage ! '
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
+        Vous pouvez bien sûr apporter votre propre matériel.
 - name: Cirque Mômes
   categorie: Découvertes sportives et culturelles
   img: ''
