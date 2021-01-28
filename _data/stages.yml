@@ -4801,16 +4801,18 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
-    description: "<p>Stage mêlant le jeu d'acteur, la vidéo (prise avec des appareils
-      photos numériques) et une approche du vidéo-montage (sur pc, durant deux après-midis).</p><p>Par
-      petits groupes, les participants réalisent une vidéo composée de reportages,
-      lipdubs, clips, émissions TV et/ou sketches. Après l'écriture des scénarios,
-      place au tournage des scènes.</p><p>La troisième partie du stage est consacrée
-      au montage des séquences sur pc (montage vidéo simple, son et titrages, etc.).</p>"
+    description: "<p>Votre enfant a l'âme d'un futur grand cinéaste ?</p><p>Ce stage
+      mêlant le jeu d'acteur, la vidéo (prises avec des appareils photos numériques)
+      et une approche du vidéo-montage (sur pc, durant deux après-midis) est fait
+      pour lui !</p><p>Par petits groupes, les participants réalisent une vidéo composée
+      de reportages, lipdubs, clips, émissions TV et/ou sketches. Après l'écriture
+      des scénarios, place au tournage des scènes !</p><p>La troisième partie du stage
+      est consacrée au montage des séquences sur pc (montage vidéo simple, son et
+      titrages, etc.).</p>"
     infos:
     - alias: Matériel
       info_line: 'Matériel fourni : un appareil numérique et un ordinateur pour 4
-        stagiaires (le double pour 8 et le triple pour 12).'
+        stagiaires.'
 - name: New Games
   img: "/assets/images/stages/activitesfun/newgames.png"
   inscription: ''
