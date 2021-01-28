@@ -1,5 +1,27 @@
 ---
 stages:
+- name: X-trem
+  categorie: Activités fun
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 12-16 ans
+    description: "<p>Envie de découvrir un stage au programme alléchant ? </p><p>Le
+      stage X-TREM propose une semaine complète rythmée par une course d'orientation,
+      un parcours aventure, des parties de Paint-Ball, du bubble foot, du VTT, du
+      laser games, un sport nouveau, du tir à l'arc et à la carabine.</p><p>Le VTT
+      sert de moyen de transport pour se déplacer entre les différentes activités.</p><p>Un
+      programme sportif et varié ! </p>"
+    infos:
+    - alias: Equipement
+      info_line: Les Ados doivent emporter leur VTT, un gilet fluo, un casque, un
+        cadenas ainsi qu'une chambre à air de rechange (nous déclinons toute responsabilité
+        en cas de vol).
 - name: Vélo Mômes
   categorie: Découvertes sportives et culturelles
   img: ''
