@@ -1,27 +1,5 @@
 ---
 stages:
-- name: X-trem
-  categorie: Activités fun
-  img: ''
-  online: false
-  nouveau: false
-  stage_une: false
-  inscription: ''
-  location:
-  - alias: Liège
-    ville: Liège
-    age: 12-16 ans
-    description: "<p>Envie de découvrir un stage au programme alléchant ? </p><p>Le
-      stage X-TREM propose une semaine complète rythmée par une course d'orientation,
-      un parcours aventure, des parties de Paint-Ball, du bubble foot, du VTT, du
-      laser games, un sport nouveau, du tir à l'arc et à la carabine.</p><p>Le VTT
-      sert de moyen de transport pour se déplacer entre les différentes activités.</p><p>Un
-      programme sportif et varié ! </p>"
-    infos:
-    - alias: Equipement
-      info_line: Les Ados doivent emporter leur VTT, un gilet fluo, un casque, un
-        cadenas ainsi qu'une chambre à air de rechange (nous déclinons toute responsabilité
-        en cas de vol).
 - name: Vélo Mômes
   categorie: Découvertes sportives et culturelles
   img: ''
@@ -3483,32 +3461,34 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Un nouveau stage au programme alléchant : une journée inoubliable
-      de <strong>Paintball</strong>, de <strong>Quad</strong>, deux courses de <strong>Karting
-      </strong>au WIK-Wavre Indoor Karting (demi-finale/finale) ainsi que du activités
-      funs pour compléter la semaine (<strong>Laser game</strong> &amp; <strong>Arrow
-      game</strong>). Tous les déplacements se font en VTT pour se rendre aux différentes
-      activités.</p><p>L'enfant doit être capable de rouler 8 kilomètres par jour.</p>"
+    description: "<p>Envie de découvrir un nouveau stage au programme alléchant ?
+      </p><p>Au programme :</p><ul><li><p>Une journée inoubliable de <strong>Paintball
+      </strong>et <strong>moto e-trial </strong>avec lepaintball.be ;</p></li><li><p>Un
+      journée de <strong>Quad </strong>au Collège Notre-Dame de Basse-Wavre ;</p></li><li><p>Deux
+      courses de <strong>Karting </strong>au WIK-Wavre Indoor Karting (demi-finale/finale)
+      ;</p></li><li><p>Des activités funs pour compléter la semaine :<strong> laser
+      game</strong> &amp; <strong>arrow game, Fun Games </strong>(frisbee golf, snag
+      golf, spikeball, kinball, flag foot).</p></li></ul><p>Tous les déplacements
+      se font en VTT pour se rendre aux différentes activités.</p><p>L'enfant doit
+      être capable de rouler 8 kilomètres par jour.</p>"
     infos:
-    - alias: Taille
-      info_line: Attention ! Pour le karting, la taille minimum de l'enfant doit être
-        de 1m55.
     - alias: Matériel
-      info_line: 'Attention : il faut prévoir un VTT, un gilet fluo, un cadenas, un
-        casque ainsi qu''une chambre à air de rechange dès le premier jour du stage
-        !'
+      info_line: 'Attention : il faut un VTT, un cadenas, un casque ainsi qu''une
+        chambre à air de rechange dès le premier jour du stage ! '
   - alias: Liège
     ville: Liège
     age: 12-16 ans
-    description: "<p>Le stage <strong>X-TREM</strong> propose une semaine complète
-      rythmée par une course d'orientation, de parcours, de parties de Paint-Ball,
-      de squash et de la pratique du VTT pour des enfants sachant déjà rouler à vélo.</p><p>Nous
-      proposons également de la spéléologie, de l'escalade et du tir à l'arc et à
-      la carabine.</p><p>Un programme sportif et varié.</p>"
+    description: "<p>Envie de découvrir un stage au programme alléchant ? </p><p>Le
+      stage X-TREM propose une semaine complète rythmée par une course d'orientation,
+      un parcours aventure, des parties de Paint-Ball, du bubble foot, du VTT, du
+      laser games, un sport nouveau, du tir à l'arc et à la carabine.</p><p>Le VTT
+      sert de moyen de transport pour se déplacer entre les différentes activités.</p><p>Un
+      programme sportif et varié ! </p>"
     infos:
     - alias: Equipement
-      info_line: Les Ados doivent emporter le VTT, un casque, un cadenas (nous déclinons
-        toute responsabilité en cas de vol) ainsi qu'une chambre à air de rechange.
+      info_line: Les Ados doivent emporter leur VTT, un gilet fluo, un casque, un
+        cadenas ainsi qu'une chambre à air de rechange (nous déclinons toute responsabilité
+        en cas de vol).
 - name: Aventure Camp
   img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
   inscription: ''
