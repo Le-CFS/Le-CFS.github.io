@@ -1200,8 +1200,8 @@ stages:
         protège poignets et genouillères).
 - name: Psycho Cuisine
   categorie: Les petits bouts
-  img: ''
-  online: false
+  img: "/assets/images/psychocuisine.png"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
