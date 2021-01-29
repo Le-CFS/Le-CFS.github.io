@@ -2,8 +2,8 @@
 stages:
 - name: Vélo Mômes
   categorie: Découvertes sportives et culturelles
-  img: ''
-  online: false
+  img: "/assets/images/psychovelo.png"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
@@ -4846,7 +4846,7 @@ stages:
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
         avec le covid). 
 - name: Vélo-Evolution
-  img: "/assets/images/stages/lespetitsbouts/psychovelo.png"
+  img: "/assets/images/veloevolution.png"
   inscription: ''
   categorie: Activités sportives
   online: true
