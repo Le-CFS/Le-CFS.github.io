@@ -1227,8 +1227,8 @@ stages:
       info_line: Prévoir une tenue de rechange.
 - name: Stylisme
   categorie: Activités artistiques et loisirs
-  img: ''
-  online: false
+  img: "/assets/images/stylisme.jpg"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
