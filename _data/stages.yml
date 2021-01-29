@@ -4846,10 +4846,10 @@ stages:
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
         avec le covid). 
 - name: Vélo-Evolution
-  img: "/assets/images/stages/decouvertesportiveetculturelle/veloevolution.png"
+  img: "/assets/images/stages/lespetitsbouts/psychovelo.png"
   inscription: ''
   categorie: Activités sportives
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
