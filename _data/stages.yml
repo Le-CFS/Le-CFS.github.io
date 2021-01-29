@@ -1178,8 +1178,8 @@ stages:
         colle, ciseaux et latte.
 - name: Roller
   categorie: Activités fun
-  img: ''
-  online: false
+  img: "/assets/images/roller.jpg"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
