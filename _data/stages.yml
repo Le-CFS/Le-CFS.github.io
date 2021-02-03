@@ -13,9 +13,12 @@ stages:
     age: 12-16 ans
     description: "<p>Nouveau stage qui pourra plaire à votre ado, adapté avec les
       nouvelles mesures de sécurité.</p><p><strong>Programme:</strong></p><ul><li><p>Lundi
-      : Paintball + Activités Fun</p></li><li><p>Mardi : Moto E-trial + Jeux de piste</p></li><li><p>Mercredi
-      : Survivor + Activités Fun</p></li><li><p>Jeudi : Bubble foot + tir à l’arc</p></li><li><p>Vendredi
-      : Activités Fun + Jeux de piste</p></li></ul><p></p>"
+      : Paintball + Activités Fun*</p></li><li><p>Mardi : Moto E-trial* + Jeux de
+      piste</p></li><li><p>Mercredi : Survivor* + Activités Fun*</p></li><li><p>Jeudi
+      : Bubble foot + tir à l’arc</p></li><li><p>Vendredi : Activités Fun* + Jeux
+      de piste</p></li></ul><p><strong>*Survivor</strong>: Jeux de survie<br><strong>*Activités
+      fun:</strong> Snag golf, frisbee golf, flagfoot...<br><strong>*Moto e-trial:</strong>
+      Petite moto pour les ados</p>"
     infos:
     - alias: Retour
       info_line: Pour le retour, les horaires varieront en fonction des lieux d'activités
