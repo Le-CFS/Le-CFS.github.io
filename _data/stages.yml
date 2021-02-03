@@ -104,9 +104,9 @@ stages:
       info_line: L'enfant doit venir avec son vélo et son casque.
 - name: Tennis & VTT
   categorie: Activités sportives
-  img: ''
-  online: false
-  nouveau: false
+  img: "/assets/images/tennisetvtt.png"
+  online: true
+  nouveau: true
   stage_une: false
   inscription: ''
   location:
