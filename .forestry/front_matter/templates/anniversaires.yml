@@ -17,9 +17,12 @@ fields:
     type: boolean
     label: Nouveau ?
     default: true
-  - type: datetime
-    name: age
-    label: age
+  - name: age
+    type: text
+    config:
+      required: false
+    label: Age
+    description: Bien ajouter le "ans". Exemple:<br><strong>2-4 ans</strong>
   - type: file
     name: img
     label: img
@@ -50,3 +53,5 @@ fields:
     type: boolean
     label: À mettre en une
     default: true
+pages:
+- _data/anniversaires.yml
