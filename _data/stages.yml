@@ -20,6 +20,8 @@ stages:
       fun:</strong> Snag golf, frisbee golf, flagfoot...<br><strong>*Moto e-trial:</strong>
       Petite moto pour les ados</p>"
     infos:
+    - alias: Tenue adaptée
+      info_line: 'Les activités se donnent en extérieur: prévoyez des vêtements adaptés.'
     - alias: Retour
       info_line: Pour le retour, les horaires varieront en fonction des lieux d'activités
         et de la circulation
