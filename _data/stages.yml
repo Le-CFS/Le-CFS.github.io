@@ -1117,44 +1117,6 @@ stages:
       info_line: Prévoir une tenue adaptée au activités en extérieur. 
     - alias: Transports
       info_line: Les transports sont assurés par le CFS. 
-- name: Mini-Tennis
-  categorie: Découvertes sportives et culturelles
-  img: "/assets/images/stages/lespetitsbouts/psychosport.png"
-  online: true
-  nouveau: true
-  stage_une: false
-  inscription: ''
-  location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: '6 à 8 ans '
-    description: "<p>Ce stage de tennis associe l'apprentissage du geste technique
-      au plaisir du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine,
-      les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,
-      …) afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire
-      ou en adversaire.</p><p>Des groupes seront formés en fonction des âges et des
-      niveaux : balles molles, mids ou dures. (max. 8 enfants/groupe)</p><p>Un tournoi
-      amical sera organisé en fin de semaine.</p><p>La journée est divisée en 3 périodes
-      de tennis et 1 période de multisports.</p>"
-    infos:
-    - alias: Raquette à votre disposition
-      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
-        Vous pouvez bien sûr apporter votre propre matériel.
-  - alias: Brabant
-    ville: Brabant Wallon
-    age: '6 à 8 ans '
-    description: "<p>Ce stage de tennis associe l'apprentissage du geste technique
-      au plaisir du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine,
-      les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,
-      …) afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire
-      ou en adversaire.</p><p>Des groupes seront formés en fonction des âges et des
-      niveaux : balles molles, mids ou dures. (max. 8 enfants/groupe)</p><p>Un tournoi
-      amical sera organisé en fin de semaine.</p><p>La journée est divisée en 3 périodes
-      de tennis et 1 période de multisports.</p>"
-    infos:
-    - alias: Raquette à votre disposition
-      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
-        Vous pouvez bien sûr apporter votre propre matériel.
 - name: Judo
   categorie: Activités sportives
   img: "/assets/images/judo.jpg"
