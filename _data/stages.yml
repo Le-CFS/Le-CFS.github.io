@@ -2,7 +2,7 @@
 stages:
 - name: Football Ado
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/footballadobruxelles.png"
   online: true
   nouveau: true
   stage_une: false
