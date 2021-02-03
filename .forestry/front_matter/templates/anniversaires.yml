@@ -9,6 +9,14 @@ fields:
   - type: text
     name: name
     label: name
+  - name: online
+    type: boolean
+    label: À publier ?
+    default: true
+  - name: nouveau
+    type: boolean
+    label: Nouveau ?
+    default: true
   - type: datetime
     name: age
     label: age
@@ -33,15 +41,12 @@ fields:
   - type: text
     name: bouton
     label: bouton
-  - type: text
-    name: categorie
-    label: categorie
-  - type: text
-    name: online
-    label: online
-  - type: text
-    name: nouveau
-    label: nouveau
-  - type: text
-    name: anniversaire_une
-    label: anniversaire_une
+  - name: categorie
+    type: tag_list
+    default: []
+    label: Catégorie
+    description: "<strong>SEULEMENT:</strong> fun, piscine, domicile"
+  - name: anniversaire_une
+    type: boolean
+    label: À mettre en une
+    default: true
