@@ -1,5 +1,26 @@
 ---
 stages:
+- name: Bulle ado
+  categorie: Activités fun
+  img: "/assets/images/bulleado.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 12-16 ans
+    description: "<p>Nouveau stage qui pourra plaire à votre ado, adapté avec les
+      nouvelles mesures de sécurité.</p><p><strong>Programme:</strong></p><ul><li><p>Lundi
+      : painball + fun acti</p></li><li><p>Mardi : moto e-trial + jeux de piste</p></li><li><p>Mercredi
+      : survivor + fun acti</p></li><li><p>Jeudi : bubble foot + tir à l’arc</p></li><li><p>Vendredi
+      : fun acti + jeux de piste</p></li></ul><p>Pour le retour, les horaires varieront
+      en fonction des lieux d'activités et de la circulation</p>"
+    infos:
+    - alias: Déplacements
+      info_line: Tous les déplacements se font en autocar. il est possible de déposer
+        votre enfant sur le chemin si vous donnez une autorisation de sortie.
 - name: Vélo Mômes
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/psychovelo.png"
