@@ -17,6 +17,10 @@ fields:
     type: boolean
     label: Nouveau ?
     default: true
+  - name: anniversaire_une
+    type: boolean
+    label: À mettre en une
+    default: true
   - name: age
     type: text
     config:
@@ -49,9 +53,5 @@ fields:
     default: []
     label: Catégorie
     description: "<strong>SEULEMENT:</strong> fun, piscine, domicile"
-  - name: anniversaire_une
-    type: boolean
-    label: À mettre en une
-    default: true
 pages:
 - _data/anniversaires.yml
