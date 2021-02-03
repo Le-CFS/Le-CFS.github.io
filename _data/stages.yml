@@ -11,30 +11,27 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 12-16 ans
-    description: '<p>Une superbe semaine pour vos ados ! Nous leur proposons un programme
+    description: "<p>Une superbe semaine pour vos ados ! Nous leur proposons un programme
       alléchant, avec chaque jour une activité ludique différente. Activités fun garanties
       !</p><p><strong>PROGRAMME CARNAVAL : </strong>new games/laser game/arrow game/orientation/E-Fun
       (Segway)</p><ul><li><p>Laser game : organisé en extérieur.</p></li><li><p>Arrow
       game : différents jeux ludiques avec des arcs à flèches sont proposés comme
       des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers
-      et mages (l''arrow game se pratique également avec des flèches avec un bout
-      en mousse et des masques de paintball).</p></li><li><p>New games : différentes
+      et mages (l'arrow game se pratique également avec des flèches avec un bout en
+      mousse et des masques de paintball).</p></li><li><p>New games : différentes
       activités fun sont proposées sur la journée telles que le frisbee golf, snag
-      golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p>Jeux d''orientation
+      golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p>Jeux d'orientation
       : organisés dans les bois ou en extérieur à proximité du centre.</p></li><li><p>E-fun
       : segway, trottinette électrique (sur place dans le centre).</p></li></ul><p>Ce
-      stage peut également être complété par d''autres activités en extérieur comme
-      des jeux dans les bois, une chasse à l''homme, un cache-cache 21, ou encore
-      un stratégo géant. Si la météo n''est pas clémente, les activités se feront
-      en intérieur dans les centres sportifs.</p><p><strong><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened"> Prévoir une paire de bottines ainsi que
-      des vêtements adaptés aux activités d’extérieur</strong></p><p><strong><img
-      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened">Certaines activités demandent un déplacement
-      en transport en commun assuré par nos soins.</strong></p><p><em><img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
-      title="enlightened" alt="enlightened"></em>Nos partenaires prennent toutes les
-      mesures d’hygiène et sanitaires concernant le Covid-19.</p>'
+      stage peut également être complété par d'autres activités en extérieur comme
+      des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un
+      stratégo géant. Si la météo n'est pas clémente, les activités se feront en intérieur
+      dans les centres sportifs.</p><p><strong>Nos partenaires prennent toutes les
+      mesures d’hygiène et sanitaires concernant le Covid-19.</strong></p>"
     infos:
+    - alias: Déplacement
+      info_line: Certaines activités demandent un déplacement en transport en commun
+        assuré par nos soins.
     - alias: Tenue adaptée
       info_line: " Prévoir une paire de bottines ainsi que des vêtements adaptés aux
         activités d’extérieur"
