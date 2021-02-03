@@ -13,7 +13,7 @@ inscription:
   texte_mobile: Inscription
 slider:
 - titre: Stages Ados Carnaval
-  src: "/assets/images/stages-13-ans.jpg"
+  src: "/assets/images/stages-12-ans.jpg"
   href: https://www.lecfs.be/news/2021/02/03/stages-13-ans
 - titre: Stages Carnaval & Pâques
   src: "/assets/images/carnaval_paques21.jpg"
