@@ -1,5 +1,26 @@
 ---
 stages:
+- name: Football Ado
+  categorie: Activités sportives
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 12-16 ans
+    description: "<p><strong>Stage de football spécifique pour les ados!</strong></p><p><em>stage
+      en partenariat avec </em><strong><em>FUTSAL JETTE</em></strong></p><p>Votre
+      enfant est un vrai mordu du ballon ? Notre stage de football est l'idéal pour
+      lui ! </p><p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p><p>Les
+      enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble,
+      des frappes, des passes et du contrôle de balle.</p><p>Chaque entraînement est
+      abordé de manière ludique afin d'allier football et plaisir.</p><p>La journée
+      est répartie en 3 périodes de football et une période de multisports / New games.</p><p><strong><em>Attention:
+      Il n'y a pas de garderie prévue pour ce stage</em></strong></p>"
+    infos: []
 - name: Bulle ado
   categorie: Activités fun
   img: "/assets/images/bulleado.png"
