@@ -45,7 +45,8 @@ anniversaires:
   infos: Uniquement apd 13h00 – Sur Ottignies apd 14h00
   bouton: ''
   categorie:
-  - domicile fun
+  - domicile
+  - fun
   online: true
   nouveau: false
   anniversaire_une: true
@@ -281,7 +282,8 @@ anniversaires:
   infos: Vous pouvez nous contacter en cas de demande particulière.
   bouton: ''
   categorie:
-  - domicile fun
+  - domicile
+  - fun
   online: true
   nouveau: false
   anniversaire_une: false
