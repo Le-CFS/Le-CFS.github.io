@@ -23,7 +23,7 @@ stages:
     infos: []
 - name: Bulle ado
   categorie: Activités fun
-  img: "/assets/images/bulleado.png"
+  img: "/assets/images/bulleado-1.png"
   online: true
   nouveau: true
   stage_une: false
