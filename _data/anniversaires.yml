@@ -1,7 +1,7 @@
 ---
 anniversaires:
 - name: Robotique
-  online: true
+  online: false
   nouveau: true
   anniversaire_une: true
   age: 8-12 ans
@@ -10,9 +10,10 @@ anniversaires:
   href: ''
   prix: 245€
   description: ''
-  infos: ''
+  infos: Le forfait est établi pour 12 enfants.
   bouton: ''
-  categorie: []
+  categorie:
+  - fun
 - name: Psycho Boom
   age: 2-4 ans
   img: "/anniversaires/activites/psychoboom.png"
