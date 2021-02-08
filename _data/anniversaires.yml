@@ -251,7 +251,7 @@ anniversaires:
   - fun
   online: true
   nouveau: false
-  anniversaire_une: true
+  anniversaire_une: false
 - name: Swiss Jump
   age: 7 +
   img: "/anniversaires/activites/swissjump.png"
