@@ -1,5 +1,18 @@
 ---
 anniversaires:
+- name: Robotique
+  online: true
+  nouveau: true
+  anniversaire_une: true
+  age: 6-12 ans
+  img: "/assets/images/stages/stagesalaune_robotique.png"
+  lieu: Bierges
+  href: ''
+  prix: ''
+  description: ''
+  infos: ''
+  bouton: ''
+  categorie: []
 - name: Psycho Boom
   age: 2-4 ans
   img: "/anniversaires/activites/psychoboom.png"
