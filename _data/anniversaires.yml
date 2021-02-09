@@ -1,5 +1,19 @@
 ---
 anniversaires:
+- name: Robotique
+  online: false
+  nouveau: true
+  anniversaire_une: true
+  age: 8-12 ans
+  img: "/assets/images/stages/stagesalaune_robotique.png"
+  lieu: Bierges
+  href: ''
+  prix: 245€
+  description: ''
+  infos: Le forfait est établi pour 12 enfants.
+  bouton: ''
+  categorie:
+  - fun
 - name: Psycho Boom
   age: 2-4 ans
   img: "/anniversaires/activites/psychoboom.png"
