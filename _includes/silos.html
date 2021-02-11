@@ -53,7 +53,11 @@
 {% assign pluriel = false %}
 {% endif %}
 
-<p>Ce silo comprend le{% if pluriel %}s{% endif %} stage{% if pluriel %}s{% endif %} suivant{% if pluriel %}s{% endif %} : </p>
+<p>
+{% if pluriel %}Ce silo comprend les stages suivants :
+{% else %}Ce silo comprend le stage suivant :
+{% endif %}
+</p>
 <ul class="arrow-list list-style arrow-list-three">
   {% assign liste_stages = silo.stages | sort %}
   {% for stage in liste_stages %}

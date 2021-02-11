@@ -95,36 +95,36 @@ stages_enfants:
     sousmenu:
     - title: Organisation générale
       url: "/stages/protocole/general/"
-    # - title: Silos à Bruxelles
-    #   url: "/stages/protocole/bruxelles/"
-    #   online_mobile: false
-    #   sousmenu:
-    #   - title: Jette
-    #     url: "/stages/protocole/bruxelles/jette/"
-    #   - title: Laeken
-    #     url: "/stages/protocole/bruxelles/laeken/"
-    #   - title: Wemmel
-    #     url: "/stages/protocole/bruxelles/wemmel/"
-    #   - title: Uccle
-    #     url: "/stages/protocole/bruxelles/uccle/"
-    #   - title: Woluwé
-    #     url: "/stages/protocole/bruxelles/woluwe/"
-    #   - title: Auderghem
-    #     url: "/stages/protocole/bruxelles/auderghem/"
-    # - title: Silos dans le Brabant
-    #   url: "/stages/protocole/brabant/"
-    #   online_mobile: false
-    #   sousmenu:
-    #   - title: Wavre
-    #     url: "/stages/protocole/brabant/wavre/"
-    #   - title: Ottignies
-    #     url: "/stages/protocole/brabant/ottignies/"
-    #   - title: Rixensart
-    #     url: "/stages/protocole/brabant/rixensart/"
-    #   - title: Bierges
-    #     url: "/stages/protocole/brabant/bierges/"
-    #   - title: Walhain
-    #     url: "/stages/protocole/brabant/walhain/"
+    - title: Silos à Bruxelles
+      url: "/stages/protocole/bruxelles/"
+      online_mobile: false
+      sousmenu:
+      - title: Jette
+        url: "/stages/protocole/bruxelles/jette/"
+      - title: Laeken
+        url: "/stages/protocole/bruxelles/laeken/"
+      - title: Wemmel
+        url: "/stages/protocole/bruxelles/wemmel/"
+      - title: Uccle
+        url: "/stages/protocole/bruxelles/uccle/"
+      - title: Woluwé
+        url: "/stages/protocole/bruxelles/woluwe/"
+      - title: Auderghem
+        url: "/stages/protocole/bruxelles/auderghem/"
+    - title: Silos dans le Brabant
+      url: "/stages/protocole/brabant/"
+      online_mobile: false
+      sousmenu:
+      - title: Wavre
+        url: "/stages/protocole/brabant/wavre/"
+      - title: Ottignies
+        url: "/stages/protocole/brabant/ottignies/"
+      - title: Rixensart
+        url: "/stages/protocole/brabant/rixensart/"
+      - title: Bierges
+        url: "/stages/protocole/brabant/bierges/"
+      - title: Walhain
+        url: "/stages/protocole/brabant/walhain/"
     # - title: Silos à Liège
     #   url: "/stages/protocole/liege/"
     #   online_mobile: false
