@@ -12,7 +12,7 @@ infos:
   date: 
   teaser: ''
 description: ''
-image: ''
+image: "/assets/images/stvalentin.jpg"
 
 ---
 Un événément SPECIAL ST-VALENTIN ce **dimanche 14/02** de **11h00 à 14h30** (départ toutes les ½ h).
