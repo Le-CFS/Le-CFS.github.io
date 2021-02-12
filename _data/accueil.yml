@@ -18,6 +18,9 @@ slider:
 - titre: 40 ANS CFS !
   src: "/assets/images/40anscfs.jpg"
   href: https://www.lecfs.be/news/2021/01/12/40-ans-ca-se-fete
+- titre: Bon cadeau
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=14
+  src: "/assets/images/boncadeauhiver-1.jpg"
 selection:
   nom: Sélection du CFS
   images:
