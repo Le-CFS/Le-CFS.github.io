@@ -12,9 +12,6 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: Spécial Saint-Valentin
-  src: "/assets/images/stvalentin.jpg"
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=14
 - titre: Stages Carnaval & Pâques
   src: "/assets/images/carnaval_paques21.jpg"
   href: https://www.lecfs.be/stages/
