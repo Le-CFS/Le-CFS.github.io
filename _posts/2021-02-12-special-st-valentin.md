@@ -1,7 +1,11 @@
 ---
 layout: post
 menu: cfs
-tags: []
+tags:
+- CFS
+- St-Valentin
+- Activités
+- Famille
 title: SPECIAL ST-VALENTIN
 banner: "/assets/images/stvalentin.jpg"
 infos:
