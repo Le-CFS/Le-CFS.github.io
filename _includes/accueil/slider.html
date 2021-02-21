@@ -9,7 +9,7 @@
             {% for slide in slider %}
               {% if slide.src == "" or slide.src == nil %}
               {% else %}
-                <li data-target="#carousel-slider" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
+                <li data-target="#carousel-slider" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %} loading="{% if forloop.first %}eager{% else %}lazy{% endif %}"></li>
               {% endif %}
             {% endfor %}
           </ol>

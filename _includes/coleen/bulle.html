@@ -42,13 +42,19 @@
 {% assign titre_overlay = include.titre %}
 {% endif %}
 
+<!-- Pour charger limage plus tard -->
+{% if include.loading %}
+{% assign loading = 'lazy' %}
+{% else %}
+{% assign loading = 'eager' %}
+{% endif %}
 
 {% if gris == true %}
 {% else %}
 <a href="{{ href }}" target="{{ autre_page }}" style="color: #fff !important;">
 {% endif %}
   <figure>
-    <img src="{{ include.src }}" alt="{{ include.titre }}" class="img-fluid" style="border-radius: 5%;{% if gris %}opacity: 0.2; filter: alpha(opacity=20);{% endif %}">
+    <img src="{{ include.src }}" alt="{{ include.titre }}" loading="{{ loading }}" class="img-fluid" style="border-radius: 5%;{% if gris %}opacity: 0.2; filter: alpha(opacity=20);{% endif %}">
     <div class="desktop image-overlay bulle3">
       <div class="overlay-text text-center">
         <div class="info-text">
