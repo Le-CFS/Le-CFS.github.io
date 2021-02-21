@@ -1,3 +1,13 @@
+<!--   -->
+{% if forloop.index > 6 %}
+{% assign loading = 'lazy' %}
+{% else %}
+{% assign loading = 'eager' %}
+{% endif %}
+
+{% assign stage_modal = stage.name | replace: ' ', '_' | replace: '&', 'et' %}
+
+
 <style>
 .meta:hover {
   color: #444 !important;
@@ -8,16 +18,17 @@
 </style>
 
 <div class="col-md-4 col-xs-12">
+  <a data-toggle="modal" data-target="#stage_enfants_{{ stage_modal }}">
   <div class="card-2">
     <div class="image">
-      <a data-toggle="modal" data-target="#stage_enfants_{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
-        <img src="{{ stage.img }}" alt="stage {{ stage.name }}" {% if forloop.index > 6 %}loading="lazy"{% else %}loading="eager"{% endif %}>
-      </a>
+      
+        <img src="{{ stage.img }}" alt="stage {{ stage.name }}" loading="{{ loading }}">
+      
     </div>
-    <a data-toggle="modal" data-target="#stage_enfants_{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
+
     <div class="card-block">
       <h3 class="card-title">{{ stage.name }}</h3>
-      <div class="meta">
+      <div class="meta" style="color: #444 !important">
         {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
         {% for item in stage.location %}
           {% if forloop.first %}
@@ -28,11 +39,11 @@
         {% endfor %}
       </div>
       <div class="description">
-        <center><a data-toggle="modal" data-target="#stage_enfants_{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
+        <center><span class="label label-pill label-info-filled">Plus d'info</span></center>
       </div>
     </div>
-    </a>
-    <a data-toggle="modal" data-target="#stage_enfants_{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
+
+
     <div class="extra">
       <span>
         <i class="fa fa-map-marker"> {% for item in stage.location %}
@@ -44,11 +55,12 @@
         {% endfor %}</i>
       </span>
     </div>
-    </a>
+
   </div>
+  </a>
 </div>
 
-<div class="modal fade" id="stage_enfants_{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="stage_enfants_{{ stage_modal }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="card-2">
@@ -81,7 +93,7 @@
               {% endif %}
 
             <li class="nav-item">
-              <a class="nav-link{% if forloop.index0 == 0 %} active{% endif %}" data-toggle="tab" href="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tab"><span class="desktop">{{ onglet.ville }}</span><span class="mobile">{{ ville_mobile }}</span></a>
+              <a class="nav-link{% if forloop.index0 == 0 %} active{% endif %}" data-toggle="tab" href="#{{ stage_modal }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tab"><span class="desktop">{{ onglet.ville }}</span><span class="mobile">{{ ville_mobile }}</span></a>
             </li>
 
             {% endfor %}
@@ -94,7 +106,7 @@
 
                 {% if onglet.ville == "" or onglet.ville == nil %}
                 {% else %}
-                <div class="tab-pane{% if forloop.index0 == 0 %} active{% endif %}" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tabpanel">
+                <div class="tab-pane{% if forloop.index0 == 0 %} active{% endif %}" id="{{ stage_modal }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tabpanel">
                   <div class="meta">
                     {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
                     {% if onglet.age == "" or onglet.age == nil %}
