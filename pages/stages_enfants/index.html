@@ -302,6 +302,15 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
         {% endif %}
       </div>
 
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        {% if page.periode.ete.internat.online %}
+          {% capture image %}{{ page.periode.ete.internat.image }}{% endcapture %}
+          {% capture link %}{{ page.periode.ete.internat.link }}{% endcapture %}
+          {% assign offline = page.periode.ete.internat.non_clickable %}
+          {% include coleen/bulle.html src=image titre="Été Internat" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+        {% endif %}
+      </div>
+
     </div>
     {% endif %}
 
