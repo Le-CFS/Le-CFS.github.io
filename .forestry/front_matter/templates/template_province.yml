@@ -32,3 +32,13 @@ fields:
     template: template_province_stage
     label: infos
   label: Liège
+- name: internat
+  type: field_group
+  config: {}
+  fields:
+  - name: infos
+    type: include
+    config: {}
+    template: template_province_stage
+    label: infos
+  label: Internat
