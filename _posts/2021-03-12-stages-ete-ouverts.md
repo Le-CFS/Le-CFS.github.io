@@ -10,7 +10,7 @@ banner: "/assets/images/ete2021.jpg"
 infos:
   date: 
   teaser: ''
-description: CFS stages d'été ouverts
+description: Découvrez nos nouveautés !
 image: "/assets/images/ete2021.jpg"
 
 ---
