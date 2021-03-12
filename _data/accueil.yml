@@ -15,12 +15,12 @@ slider:
 - titre: STAGES ETE
   src: "/assets/images/ete2021.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
+- titre: MAG 2021
+  src: "/assets/images/mag.jpg"
+  href: https://www.lecfs.be/brochures/
 - titre: Stages Pâques
   src: "/assets/images/stagespaques.jpg"
   href: https://www.lecfs.be/stages/#paques
-- titre: 40 ANS CFS !
-  src: "/assets/images/40anscfs.jpg"
-  href: https://www.lecfs.be/news/2021/01/12/40-ans-ca-se-fete
 selection:
   nom: Sélection du CFS
   images:
