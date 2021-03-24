@@ -3,13 +3,13 @@ layout: post
 menu: cfs
 tags:
 - Stages Pâques
-title: STAGES PAQUES MAINTENUS !
-banner: "/assets/images/stagespaquesmaintenus.jpg"
+title: STAGES DE PAQUES MAINTENUS !
+banner: "/assets/images/stagespaquesmaintenus-1.jpg"
 infos:
   date: 
   teaser: ''
 description: 'Stages de Pâques 2021 maintenus ! '
-image: "/assets/images/stagespaquesmaintenus.jpg"
+image: "/assets/images/stagespaquesmaintenus-1.jpg"
 
 ---
 EN EXCLUSIVITE – STAGES PÂQUES !
