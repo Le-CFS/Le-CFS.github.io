@@ -1,4 +1,4 @@
-<!--   -->
+<!-- Pour afficher les images uniquement lors du défilement de la page -->
 {% if forloop.index > 6 %}
 {% assign loading = 'lazy' %}
 {% else %}
@@ -6,6 +6,17 @@
 {% endif %}
 
 {% assign stage_modal = stage.name | replace: ' ', '_' | replace: '&', 'et' %}
+
+<!--Pour définir si l'on utilise les onglets de ville ou pas -->
+<!--
+#TODO
+Inclure la variable GLOBALE dans un fichier de config
+-->
+{% if site.data.stages.GLOBAL_activation_onglets == true and stage.activation_onglets == true %}
+{% assign SETTINGS_onglets = true %}
+{% else %}
+{% assign SETTINGS_onglets = false %}
+{% endif %}
 
 
 <style>
@@ -33,6 +44,7 @@
         {% for item in stage.location %}
           {% if forloop.first %}
             {{ item.age }}
+          {% elsif item.age == stage.location[0].age %}
           {% else %}
              / {% if item.age == "" or item.age == nil %}{{ stage.location[0].age }}{% else %}{{ item.age }}{% endif %}
           {% endif %}
@@ -52,7 +64,8 @@
           {% else %}
              - {% if item.ville == "" or item.ville == nil %}{{ stage.location[0].ville }}{% else %}{{ item.ville }}{% endif %}
           {% endif %}
-        {% endfor %}</i>
+        {% endfor %}
+        </i>
       </span>
     </div>
 
@@ -64,99 +77,184 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="card-2">
-      <div class="image">
-        <img src="{{ stage.img }}" alt="stage {{ stage.name }}" loading="lazy">
-      </div>
-      <div class="card-block">
-        <h3 class="card-title">{{ stage.name }}</h3>
-      </div>
-    </div>
-
-{% if stage.location[0].ville == "" or stage.location[0].ville == nil %}
-{% else %}
-<div class="tabs-accordions">
-  <div class="container">
-    <div class="row">
-
-      <div class="col-md-12">
-        <div id="round-tab">
-          <!-- Nav tabs -->
-          <ul class="nav nav-tabs" role="tablist">
-            {% for onglet in stage.location %}
-
-              {% if onglet.ville == "Brabant Wallon" %}
-              {% assign ville_mobile = "Brabant" %}
-              {% elsif onglet.ville == "Bruxelles" %}
-              {% assign ville_mobile = "BXL" %}
-              {% else %}
-              {% assign ville_mobile = "Liège" %}
-              {% endif %}
-
-            <li class="nav-item">
-              <a class="nav-link{% if forloop.index0 == 0 %} active{% endif %}" data-toggle="tab" href="#{{ stage_modal }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tab"><span class="desktop">{{ onglet.ville }}</span><span class="mobile">{{ ville_mobile }}</span></a>
-            </li>
-
-            {% endfor %}
-
-          </ul>
-
-          <div class="tab-content">
-
-            {% for onglet in stage.location %}
-
-                {% if onglet.ville == "" or onglet.ville == nil %}
-                {% else %}
-                <div class="tab-pane{% if forloop.index0 == 0 %} active{% endif %}" id="{{ stage_modal }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tabpanel">
-                  <div class="meta">
-                    {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
-                    {% if onglet.age == "" or onglet.age == nil %}
-                    {{ stage.location[0].age }}
-                    {% else %}
-                    {{ onglet.age }}
-                    {% endif %}
-                  </div>
-                  <hr>
-                  <div class="description">
-                    {% if onglet.description == "" or onglet.description == nil %}
-                    {{ stage.location[0].description }}
-                    {% else %}
-                    {{ onglet.description }}
-                    {% endif %}
-                  </div>
-                  {% if onglet.infos[0].info_line == "" or onglet.infos[0].info_line == nil %}
-                  {% else %}
-                    <hr>
-                    <div class="meta">
-                      {% for info in onglet.infos %}
-                        <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
-                      {% endfor %}
-                    </div>
-                  {% endif %}
-                  {% if onglet.centres[0] == "" or onglet.centres[0] == nil %}
-                  {% else %}
-                  <hr>
-                    {% for centre in onglet.centres %}
-                      <div class="extra">
-                        <span>
-                          <i class="fa fa-map-marker"> {{ centre }}</i>
-                        </span>
-                      </div>
-                    {% endfor %}
-                  {% endif %}
-                </div>
-                {% endif %}
-
-            {% endfor %}
-
-          </div>
-
+        <div class="image">
+          <img src="{{ stage.img }}" alt="stage {{ stage.name }}" loading="lazy">
+        </div>
+        <div class="card-block">
+          <h3 class="card-title">{{ stage.name }}</h3>
         </div>
       </div>
-    </div>
-  </div>
-</div>
 
-{% endif %}
+
+      {% if SETTINGS_onglets == true %}
+
+        {% if stage.location[0].ville == "" or stage.location[0].ville == nil %}
+        {% else %}
+        <div class="tabs-accordions">
+          <div class="container">
+            <div class="row">
+
+              <div class="col-md-12">
+                <div id="round-tab">
+                  
+                  <!-- Onglets pour chacune des villes -->
+                  <ul class="nav nav-tabs" role="tablist">
+                    {% for onglet in stage.location %}
+
+                      {% if onglet.ville == "Brabant Wallon" %}
+                      {% assign ville_mobile = "Brabant" %}
+                      {% elsif onglet.ville == "Bruxelles" %}
+                      {% assign ville_mobile = "BXL" %}
+                      {% else %}
+                      {% assign ville_mobile = "Liège" %}
+                      {% endif %}
+
+                    <li class="nav-item">
+                      <a class="nav-link{% if forloop.index0 == 0 %} active{% endif %}" data-toggle="tab" href="#{{ stage_modal }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tab"><span class="desktop">{{ onglet.ville }}</span><span class="mobile">{{ ville_mobile }}</span></a>
+                    </li>
+
+                    {% endfor %}
+
+                  </ul>
+
+                  <div class="tab-content">
+
+                    {% for onglet in stage.location %}
+
+                        {% if onglet.ville == "" or onglet.ville == nil %}
+                        {% else %}
+                        <div class="tab-pane{% if forloop.index0 == 0 %} active{% endif %}" id="{{ stage_modal }}{{onglet.ville | replace: ' ', '_' | replace: 'è', 'e' }}" role="tabpanel">
+                          <div class="meta">
+                            {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                            {% if onglet.age == "" or onglet.age == nil %}
+                            {{ stage.location[0].age }}
+                            {% else %}
+                            {{ onglet.age }}
+                            {% endif %}
+                          </div>
+                          <hr>
+                          <div class="description">
+                            {% if onglet.description == "" or onglet.description == nil %}
+                            {{ stage.location[0].description }}
+                            {% else %}
+                            {{ onglet.description }}
+                            {% endif %}
+                          </div>
+                          {% if onglet.infos[0].info_line == "" or onglet.infos[0].info_line == nil %}
+                          {% else %}
+                            <hr>
+                            <div class="meta">
+                              {% for info in onglet.infos %}
+                                <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+                              {% endfor %}
+                            </div>
+                          {% endif %}
+                          {% if onglet.centres[0] == "" or onglet.centres[0] == nil %}
+                          {% else %}
+                          <hr>
+                            {% for centre in onglet.centres %}
+                              <div class="extra">
+                                <span>
+                                  <i class="fa fa-map-marker"> {{ centre }}</i>
+                                </span>
+                              </div>
+                            {% endfor %}
+                          {% endif %}
+                        </div>
+                        {% endif %}
+
+                    {% endfor %}
+
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+
+      {% else %}
+
+        {% if stage.location[0].ville == "" or stage.location[0].ville == nil %}
+        {% else %}
+        <div class="tabs-accordions">
+          <div class="container">
+            <div class="row">
+
+              <div class="col-md-12">
+                <div id="round-tab">
+                  
+                  <!-- Onglets pour chacune des villes -->
+
+                  <div class="tab-content">
+
+                    {% if stage.location[0].ville == "" or stage.location[0].ville == nil %}
+                    {% else %}
+                      <div class="meta">
+                        {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+                        {% if stage.location[0].age == "" or stage.location[0].age == nil %}
+                        {{ stage.location[0].age }}
+                        {% else %}
+                        {{ stage.location[0].age }}
+                        {% endif %}
+                      </div>
+                      <hr>
+                      <div class="description">
+                        {% if stage.location[0].description == "" or stage.location[0].description == nil %}
+                        {{ stage.location[0].description }}
+                        {% else %}
+                        {{ stage.location[0].description }}
+                        {% endif %}
+                      </div>
+                      {% if stage.location[0].infos[0].info_line == "" or stage.location[0].infos[0].info_line == nil %}
+                      {% else %}
+                        <hr>
+                        <div class="meta">
+                          {% for info in stage.location[0].infos %}
+                            <i class="fa fa-hand-o-right"> {{ info.info_line }}</i><br/>
+                          {% endfor %}
+                        </div>
+                      {% endif %}
+                      {% if stage.location[0].centres[0] == "" or stage.location[0].centres[0] == nil %}
+                      {% else %}
+                      <hr>
+                        {% for centre in stage.location[0].centres %}
+                          <div class="extra">
+                            <span>
+                              <i class="fa fa-map-marker"> {{ centre }}</i>
+                            </span>
+                          </div>
+                        {% endfor %}
+                      {% endif %}
+                    {% endif %}
+
+
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+
+      {% endif %}
+
+<!-- <p>
+Le stage {{ stage.name }} a lieu à
+{% for province in stage.location %}
+  
+  {% if forloop.first %}
+    {{province.ville}}
+  {% elsif forloop.last %}
+    et {{ province.ville }}
+  {% else %}
+    , {{ province.ville }}
+  {% endif %}
+
+{% endfor %}.
+</p> -->
 
       <div class="modal-footer" style="border-top: 0px;">
         <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border-radius: 5px;">{% if page.url contains 'activites' %}Autre activité{% else %}Autre stage{% endif %}</button>
