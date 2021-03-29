@@ -22,6 +22,7 @@ stages:
       etc.</p><p>Un programme varié qui touche à tout et est destiné aussi bien aux
       garçons qu''aux filles !</p><p><br></p>'
     infos: []
+  activation_onglets: false
 - name: Football Ado
   categorie: Activités sportives
   img: "/assets/images/stagefootballadobruxelles.png"
@@ -43,6 +44,7 @@ stages:
       est répartie en 3 périodes de football et une période de multisports / New games.</p><p><strong><em>Attention:
       Il n'y a pas de garderie prévue pour ce stage</em></strong></p>"
     infos: []
+  activation_onglets: false
 - name: Bulle ado
   categorie: Activités fun
   img: "/assets/images/stagebulleado.png"
@@ -100,6 +102,7 @@ stages:
     - alias: Déplacements
       info_line: Tous les déplacements se font en autocar. il est possible de déposer
         votre enfant sur le chemin si vous donnez une autorisation de sortie.
+  activation_onglets: false
 - name: Vélo Mômes
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/psychovelo.png"
@@ -124,6 +127,7 @@ stages:
         avec le covid). 
     - alias: Equipement
       info_line: L'enfant doit venir avec son vélo et son casque.
+  activation_onglets: false
 - name: Tennis & VTT
   categorie: Activités sportives
   img: "/assets/images/stagetennisetvtt.png"
@@ -155,6 +159,7 @@ stages:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
+  activation_onglets: false
 - name: Cirque Mômes
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/cirquemomes.jpg"
@@ -179,6 +184,7 @@ stages:
     - alias: Représentation
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
         avec le covid). 
+  activation_onglets: false
 - name: Psycho Bricolage
   categorie: Les petits bouts
   img: "/assets/images/psychobricolage.jpg"
@@ -207,6 +213,7 @@ stages:
       info_line: L'enfant doit apporter son tablier.
     - alias: Tenue de rechange
       info_line: Prévoir une tenue de rechange.
+  activation_onglets: false
 - name: Vol à Voile
   categorie: Activités fun
   img: "/assets/images/volavoil.jpg"
@@ -247,6 +254,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: 'Satellite Camp 2 '
   categorie: Activités fun
   img: "/assets/images/satelliteniv2.jpg"
@@ -287,6 +295,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: 'Satellite Camp 1 '
   categorie: Activités fun
   img: "/assets/images/satellite.jpg"
@@ -327,6 +336,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Rocket Camp 2
   categorie: Activités fun
   img: "/assets/images/rocketniv2.jpg"
@@ -365,6 +375,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Rocket Camp 1
   categorie: Activités fun
   img: "/assets/images/rocket.jpg"
@@ -406,6 +417,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Robotic Camp
   categorie: Activités fun
   img: "/assets/images/robotique.jpg"
@@ -449,6 +461,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Modélisation 3D
   categorie: Activités fun
   img: "/assets/images/3d.jpg"
@@ -484,6 +497,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Drone Camp
   categorie: Activités fun
   img: "/assets/images/drone.jpg"
@@ -523,6 +537,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Astronomy Camp Junior
   categorie: Activités fun
   img: "/assets/images/astronomiejr.jpg"
@@ -554,6 +569,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Astronomy Camp
   categorie: Activités fun
   img: "/assets/images/astronomie.jpg"
@@ -595,6 +611,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Astronaut Espace Langues
   categorie: Activités fun
   img: "/assets/images/astronautespacelangues.jpg"
@@ -644,6 +661,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Astronaut Camp Junior
   categorie: Activités fun
   img: "/assets/images/astronautejr.jpg"
@@ -673,6 +691,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Astronaut Camp
   categorie: Activités fun
   img: "/assets/images/astronaute.jpg"
@@ -719,6 +738,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
+  activation_onglets: false
 - name: Tennis
   categorie: Activités sportives
   img: "/assets/images/stages/activitessportives/tennispro.png"
@@ -745,6 +765,7 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+  activation_onglets: false
 - name: Padel-Tennis
   categorie: Activités sportives
   img: "/assets/images/stages/activitessportives/padel.png"
@@ -791,6 +812,7 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+  activation_onglets: false
 - name: Nautic on the Beach
   categorie: Activités fun
   img: "/assets/images/stages/activitesfun/nauticamp.jpg"
@@ -837,6 +859,7 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+  activation_onglets: false
 - name: Initiation Golf
   categorie: Activités sportives
   img: "/assets/images/initiationgolf.jpg"
@@ -865,6 +888,7 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+  activation_onglets: false
 - name: Aventure XXL
   categorie: Activités fun
   img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
@@ -913,6 +937,7 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+  activation_onglets: false
 - name: Sport Aventure & Quad
   categorie: Activités fun
   img: "/assets/images/stages/activitesfun/sportaventureetquad.jpg"
@@ -942,6 +967,7 @@ stages:
       info_line: 'Internat : 6 nuitées comprenant petit-déjeuner, repas de midi, collation
         16h, et repas du soir. Arrivée le dimanche 15 août à 14h au Centre Forêt et
         Sports de Stoumont et départ le samedi 21 août à 10h.'
+  activation_onglets: false
 - name: Football Academy
   categorie: Activités sportives
   img: "/assets/images/footacademy.jpg"
@@ -974,6 +1000,7 @@ stages:
       info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation
         16h, et repas du soir. Arrivée le dimanche 11 juillet à 14h à Stoumont et
         départ le vendredi 16 juillet à 17h.'
+  activation_onglets: false
 - name: Sports Raquettes & VTT
   categorie: Activités sportives
   img: "/assets/images/raquettes.png"
@@ -1003,6 +1030,7 @@ stages:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
+  activation_onglets: false
 - name: Gym pour tous
   categorie: Danse et Gymnastique
   img: "/assets/images/gympourtous.jpg"
@@ -1032,6 +1060,7 @@ stages:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue collante adaptée à la gymnastique (tu ne dois pas
         nécessairement porter de maillot de gym, mais si tu en as un, il est le bienvenu).
+  activation_onglets: false
 - name: Fun VTT & Karting
   categorie: Activités fun
   img: "/assets/images/kartingetfun-1.png"
@@ -1059,6 +1088,7 @@ stages:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur. Prévoir
         également une tenue de rechange en fonction de la météo.
+  activation_onglets: false
 - name: Baby Tennis & Vélo
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/babytennisetvelo.jpg"
@@ -1090,6 +1120,7 @@ stages:
       info_line: Tout le matériel de tennis est fourni par notre partenaire.
     - alias: Vélo
       info_line: L'enfant doit venir avec son vélo en bon état et son casque.
+  activation_onglets: false
 - name: Baby Natation
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/psychonatation.png"
@@ -1115,6 +1146,7 @@ stages:
       info_line: 'En piscine : 2 moniteurs pour 8 enfants.'
     - alias: Prévoir dès le 1er jour
       info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
+  activation_onglets: false
 - name: Super pilote
   categorie: Activités fun
   img: "/assets/images/kartingetfun.png"
@@ -1139,6 +1171,7 @@ stages:
       info_line: Prévoir une tenue adaptée au activités en extérieur. 
     - alias: Transports
       info_line: Les transports sont assurés par le CFS. 
+  activation_onglets: false
 - name: Judo
   categorie: Activités sportives
   img: "/assets/images/judo.jpg"
@@ -1164,6 +1197,7 @@ stages:
       collaboration avec Marc Charlier et le Judo Club Genval.</em></strong></p></li></ul></li><li><p><strong>A
       Wavre :</strong> sports raquettes, badminton, ou football.</p></li></ul>"
     infos: []
+  activation_onglets: false
 - name: Escalade & VTT
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/escalade-vtt.jpg"
@@ -1190,6 +1224,7 @@ stages:
         ainsi qu’un casque dès le premier jour du stage !'
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur.
+  activation_onglets: false
 - name: Aqua Multisports
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/aquamultisports.jpg"
@@ -1213,6 +1248,7 @@ stages:
       info_line: Prévoir un maillot, un essuie, un bonnet, ainsi qu’une tenue de sport.
     - info_line: Les jeunes doivent savoir nager le 50m.
       alias: Savoir nager le 50m
+  activation_onglets: false
 - name: Techniques Artistiques
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stages/activitesartistiquesetloisirs/artiste.png"
@@ -1238,6 +1274,7 @@ stages:
     - alias: Matériel
       info_line: Les enfants apporteront un vieux tablier ainsi qu'un plumier avec
         colle, ciseaux et latte.
+  activation_onglets: false
 - name: Roller
   categorie: Activités fun
   img: "/assets/images/roller.jpg"
@@ -1260,6 +1297,7 @@ stages:
     - alias: Equipement
       info_line: Les enfants doivent apporter leur matériel (rollers, casque, coudières,
         protège poignets et genouillères).
+  activation_onglets: false
 - name: Psycho Cuisine
   categorie: Les petits bouts
   img: "/assets/images/psychocuisine.png"
@@ -1287,6 +1325,7 @@ stages:
       info_line: L'enfant doit apporter son tablier.
     - alias: Tenue de rechange
       info_line: Prévoir une tenue de rechange.
+  activation_onglets: false
 - name: Stylisme
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stylisme.jpg"
@@ -1312,6 +1351,7 @@ stages:
     - alias: Défilé
       info_line: Un défilé sera organisé en fin de semaine pour montrer les créations
         (selon les possibilités avec le covid).
+  activation_onglets: false
 - name: Secourisme
   categorie: Activités artistiques et loisirs
   img: ''
@@ -1331,6 +1371,7 @@ stages:
       formation, il recevra un carnet pédagogique ainsi que le BEPS (Brevet Européen
       de Premier Secours).</p>"
     infos: []
+  activation_onglets: false
 - name: Sciences & Technologies
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stages/decouvertesportiveetculturelle/babysavant.png"
@@ -1366,6 +1407,7 @@ stages:
     infos:
     - alias: Transports
       info_line: Les transports sont assurés par le CFS.
+  activation_onglets: false
 - name: Quad & Laser
   categorie: Activités fun
   img: "/assets/images/anniversaires/activites/quad.png"
@@ -1412,6 +1454,7 @@ stages:
         chambre à air de rechange le premier jour du stage !'
     - info_line: Prévoir des vêtements adaptés pour les activités en extérieur.
       alias: Tenue adaptée
+  activation_onglets: false
 - name: Plongée - Journée complète
   categorie: Activités sportives
   img: ''
@@ -1429,6 +1472,7 @@ stages:
       consacré à du multisports (sports individuels et collectifs).</p><p>Les enfants
       doivent savoir nager 100 m.</p>"
     infos: []
+  activation_onglets: false
 - name: Plongée - Demi-journée
   categorie: Activités sportives
   img: ''
@@ -1447,6 +1491,7 @@ stages:
     infos:
     - alias: Horaire
       info_line: 'Horaire : 9h00 à 12h00'
+  activation_onglets: false
 - name: Multisports
   categorie: Activités sportives
   img: "/assets/images/babymultisports.png"
@@ -1468,6 +1513,7 @@ stages:
     - alias: Spectacle
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
         avec le Covid).
+  activation_onglets: false
 - name: Mini-Tennis
   categorie: Activités sportives
   img: "/assets/images/mini-tennis.jpg"
@@ -1508,6 +1554,7 @@ stages:
     - alias: Equipement
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
+  activation_onglets: false
 - name: Karting
   categorie: Activités fun
   img: "/assets/images/kartingetfun.png"
@@ -1534,6 +1581,7 @@ stages:
     infos:
     - alias: Garderie
       info_line: Garderie comprise dans le tarif et rendez-vous directement au WIK.
+  activation_onglets: false
 - name: Karting - Demi-journée
   categorie: Activités fun
   img: ''
@@ -1557,6 +1605,7 @@ stages:
       info_line: 'Possibilité de faire le stage en journée complète : durant la matinée,
         les jeunes découvrent le quad, la moto ainsi que des ateliers mécanos. ►►
         Inscription à la formule KARTING - JOURNEE COMPLETE'
+  activation_onglets: false
 - name: Hip Hop
   categorie: Danse et Gymnastique
   img: ''
@@ -1572,6 +1621,7 @@ stages:
       aux danses de rue !</p><p>Il faudra beaucoup d'énergie pour effectuer des phases
       chorégraphiques debout mais aussi des figures acrobatiques au sol.</p>"
     infos: []
+  activation_onglets: false
 - name: Fun Laser & VTT
   categorie: Activités fun
   img: "/assets/images/boutonsactivites/parascolaires/activitesfun.png"
@@ -1598,6 +1648,7 @@ stages:
     - alias: Equipement
       info_line: 'Attention : il faut un VTT, un cadenas, une chambre à air de rechange,
         ainsi qu’un casque dès le premier jour du stage !'
+  activation_onglets: false
 - name: Far-west
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/farwest.jpg"
@@ -1614,6 +1665,7 @@ stages:
       et une journée inoubliable au Ranch "<strong>La Cabriole</strong>" à Fernelmont.</p><p>Dépaysement
       garanti !</p>
     infos: []
+  activation_onglets: false
 - name: Equitation Débutant
   categorie: Activités sportives
   img: "/assets/images/equitationdebutant.jpg"
@@ -1642,6 +1694,7 @@ stages:
     - alias: Matériel
       info_line: Le manège met à disposition tout le matériel adéquat pour les petits
         cavaliers.
+  activation_onglets: false
 - name: Bio Mômes
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/biomomes.jpg"
@@ -1655,6 +1708,7 @@ stages:
     age: 6-8 ans
     description: ''
     infos: []
+  activation_onglets: false
 - name: Baby Multisports & Poney
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/babymulti-poney.jpg"
@@ -1681,6 +1735,7 @@ stages:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
         large) et des bottes, ainsi que des baskets pour les activités multisports.
+  activation_onglets: false
 - name: Baby Escalade
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/babyescalade.jpg"
@@ -1698,6 +1753,7 @@ stages:
       l'audace, la maîtrise de soi et la gestion du vertige.</p><p>Le stage est complété
       par des activités de multisports.</p>"
     infos: []
+  activation_onglets: false
 - name: Baby Danse & Bijoux
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/babydanse-bijoux.jpg"
@@ -1723,6 +1779,7 @@ stages:
     - info_line: Un spectacle et une exposition des bijoux sont prévus en fin de stage
         (entre 15h et 16h selon les possibilités avec le covid).
       alias: Spectacle
+  activation_onglets: false
 - name: Pilote
   categorie: Activités fun
   img: "/assets/images/pilote.jpg"
@@ -1741,6 +1798,7 @@ stages:
       s'essayer à la moto.</p><p>Le reste de la journée est complété par des activités
       multisports.</p>"
     infos: []
+  activation_onglets: false
 - name: Fun Hiver
   categorie: Activités fun
   img: "/assets/images/funhiver.jpg"
@@ -1761,6 +1819,7 @@ stages:
       fun telles que le frisbee golf, snag golf, spikeball, kinball, flag foot) ;</p></li><li><p>...</p></li></ul><p>Chaque
       jour, nous varions les plaisirs ! Inscris-toi vite, nous t'attendons !</p>"
     infos: []
+  activation_onglets: false
 - name: Pré-psychomotricité
   img: "/assets/images/stages/lespetitsbouts/prepsycho.png"
   inscription: ''
@@ -1809,6 +1868,7 @@ stages:
       info_line: Prévoir un sac avec une tenue et un lange de rechange.
     - alias: Pas de garderie
       info_line: Attention, il n'y a pas de garderie pour ce stage.
+  activation_onglets: false
 - name: Psycho Découverte
   img: "/assets/images/stages/lespetitsbouts/psychodecouverte.png"
   inscription: ''
@@ -1867,6 +1927,7 @@ stages:
     - alias: Enfants propres !
       info_line: Les enfants doivent être propres (dans le cas contraire nous vous
         conseillons de les inscrire en pré-psycho).
+  activation_onglets: false
 - name: Psycho Grimpette
   img: "/assets/images/stages/lespetitsbouts/psychogrimpette.png"
   inscription: ''
@@ -1932,6 +1993,7 @@ stages:
       info_line: 'Il est demandé aux parents de prévoir un sac avec une tenue de rechange
         pour leur enfant. '
     age: 3-4 ans
+  activation_onglets: false
 - name: Psycho Aqua
   img: "/assets/images/stages/lespetitsbouts/psychoaqua.png"
   inscription: ''
@@ -1983,6 +2045,7 @@ stages:
         avec le covid). 
     - alias: Tenue de rechange
       info_line: Prévoir une tenue de rechange.
+  activation_onglets: false
 - name: Psycho Natation
   img: "/assets/images/psychoaqua.png"
   inscription: ''
@@ -2044,6 +2107,7 @@ stages:
     - alias: Enfants propres
       info_line: Les enfants doivent être propres (dans le cas contraire nous vous
         conseillons de les inscrire en pré-psycho).
+  activation_onglets: false
 - name: Psycho Nature
   img: "/assets/images/stages/lespetitsbouts/psychonature.png"
   inscription: ''
@@ -2080,6 +2144,7 @@ stages:
     - alias: Enfants propres
       info_line: Les enfants doivent être propres (dans le cas contraire nous vous
         conseillons de les inscrire en pré-psycho).
+  activation_onglets: false
 - name: Psycho Sport
   img: "/assets/images/stages/lespetitsbouts/psychosport.png"
   inscription: ''
@@ -2118,6 +2183,7 @@ stages:
     - alias: Enfants propres
       info_line: 'Pour les stages commençant à 3 ans (PSYCHO) : les enfants doivent
         être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.'
+  activation_onglets: false
 - name: Psycho Vélo
   img: "/assets/images/stages/lespetitsbouts/psychovelo.png"
   inscription: ''
@@ -2154,6 +2220,7 @@ stages:
       info_line: Le CFS met à disposition des draisiennes.
     - alias: Vélo personnel
       info_line: L'enfant peut apporter son propre vélo.
+  activation_onglets: false
 - name: Apprenti Vélo
   img: "/assets/images/stages/decouvertesportiveetculturelle/psychovelo.png"
   inscription: ''
@@ -2196,6 +2263,7 @@ stages:
     - alias: Apporter son propre vélo
       info_line: L'enfant doit venir avec son vélo en bon état et son casque. Les
         enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
+  activation_onglets: false
 - name: Astucieux
   img: "/assets/images/stages/decouvertesportiveetculturelle/astucieux.png"
   inscription: ''
@@ -2215,6 +2283,7 @@ stages:
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur.
+  activation_onglets: false
 - name: Baby Danse
   img: "/assets/images/stages/decouvertesportiveetculturelle/babydansetgym.png"
   inscription: ''
@@ -2236,6 +2305,7 @@ stages:
     - alias: Spectacle
       info_line: Un petit spectacle est prévu à la fin de la semaine (en fonction
         des possibilités covid).
+  activation_onglets: false
 - name: Baby Foot
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyfoot.png"
   inscription: ''
@@ -2270,6 +2340,7 @@ stages:
       est complété par de la psychomotricité (jeux de coopérations, parcours d'adresse,
       d'audace et multisports).</p>"
     infos: []
+  activation_onglets: false
 - name: Baby Gym
   img: "/assets/images/stages/decouvertesportiveetculturelle/babygym.png"
   inscription: ''
@@ -2307,6 +2378,7 @@ stages:
       développer l'agilité de votre enfant.</p><p>Un petit spectacle est prévu en
       fin de semaine pour les parents !</p>"
     infos: []
+  activation_onglets: false
 - name: Baby Multisports
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultisports.png"
   inscription: ''
@@ -2325,6 +2397,7 @@ stages:
       et la vie en groupe.</p><p>Votre enfant découvrira un large panel d'activités
       fun et ludiques.</p>"
     infos: []
+  activation_onglets: false
 - name: Baby Multisports & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultietnat.png"
   inscription: ''
@@ -2349,6 +2422,7 @@ stages:
       info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
     - alias: Moniteurs
       info_line: 'En piscine : 2 moniteurs pour 8 enfants.'
+  activation_onglets: false
 - name: Baby Poney
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyponey.png"
   inscription: ''
@@ -2398,6 +2472,7 @@ stages:
         cavaliers.
     - alias: Garderie
       info_line: Inscription sur place !
+  activation_onglets: false
 - name: Baby Tennis
   img: "/assets/images/stages/decouvertesportiveetculturelle/babytennis.png"
   inscription: ''
@@ -2468,6 +2543,7 @@ stages:
     - alias: Représentation
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
         avec le covid). 
+  activation_onglets: false
 - name: Baby Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirquemomes.png"
   inscription: ''
@@ -2510,6 +2586,7 @@ stages:
     - alias: Spectacle
       info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
         avec le covid).
+  activation_onglets: false
 - name: Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirque.png"
   inscription: ''
@@ -2564,6 +2641,7 @@ stages:
     - alias: Représentation
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
         avec le covid). 
+  activation_onglets: false
 - name: Découverte Sportive
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
   inscription: ''
@@ -2584,6 +2662,7 @@ stages:
       le frisbee golf, le basketball, ou encore des jeux de cohésion.</p><p>Des activités
       multisports qui raviront votre enfant !</p>"
     infos: []
+  activation_onglets: false
 - name: Découverte Sportive & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/psychonatation.png"
   inscription: ''
@@ -2608,6 +2687,7 @@ stages:
       info_line: Les navettes sont assurées par le CFS.
     - alias: Moniteurs
       info_line: 'En piscine : 2 moniteurs pour 8 enfants.'
+  activation_onglets: false
 - name: Découverte Sportive & Poney
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyponey.png"
   inscription: ''
@@ -2637,6 +2717,7 @@ stages:
     - alias: Navettes
       info_line: Les navettes sont assurées par le CFS entre le centre sportif et
         le manège.
+  activation_onglets: false
 - name: Drones & Laser
   categorie: Activités artistiques et loisirs
   img: "/assets/images/droenetlaser_catalogue.jpg"
@@ -2661,6 +2742,7 @@ stages:
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur.
+  activation_onglets: false
 - name: Escalade Découverte
   img: "/assets/images/stages/decouvertesportiveetculturelle/escaladedecouverte.png"
   inscription: ''
@@ -2711,6 +2793,7 @@ stages:
     - alias: Mur d'escalade
       info_line: Les activités d'escalade se font sur le mur d'escalade dans le centre
         sportif. Aucun déplacement n'est prévu.
+  activation_onglets: false
 - name: Les Explorateurs
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
   inscription: ''
@@ -2753,6 +2836,7 @@ stages:
       info_line: Prévoir une tenue adaptée aux activités en extérieur.
     - alias: Transports
       info_line: Les transports sont assurés par le CFS.
+  activation_onglets: false
 - name: Expression Corporelle & Sport
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
   inscription: ''
@@ -2776,6 +2860,7 @@ stages:
       sera consacrée à du multisports en extérieur : unihoc, basketball, crosse canadienne,
       ball bouncer, baseball.</p>"
     infos: []
+  activation_onglets: false
 - name: Mini-Lanta
   img: "/assets/images/stages/decouvertesportiveetculturelle/lanta.png"
   inscription: ''
@@ -2812,6 +2897,7 @@ stages:
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir des vêtements adaptés pour l'extérieur.
+  activation_onglets: false
 - name: Princesse & Pirate
   img: "/assets/images/stages/decouvertesportiveetculturelle/princessesetpirates.png"
   inscription: ''
@@ -2854,6 +2940,7 @@ stages:
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
     - alias: Déguisement
       info_line: Venir avec un déguisement (dans un sac).
+  activation_onglets: false
 - name: Quad & Vélo
   img: "/assets/images/stages/decouvertesportiveetculturelle/quadetvtt.png"
   inscription: ''
@@ -2883,6 +2970,7 @@ stages:
       info_line: Prévoir une paire de bottines, des vêtements adaptés aux activités
         en extérieur, ainsi qu'une tenue de rechange en cas de mauvais temps. Pantalon
         long obligatoire.
+  activation_onglets: false
 - name: Krav Maga Découverte
   img: "/assets/images/stages/decouvertesportiveetculturelle/kravmagadecouverte.png"
   inscription: ''
@@ -2913,6 +3001,7 @@ stages:
         les "Options" lors de l'inscription. Attention la garderie du soir s'effectue
         eu Centre Sportif de Jette. Si vous souhaitez une garderie le matin, l'organisation
         se fait directement sur place.
+  activation_onglets: false
 - name: Dance For You
   img: "/assets/images/stages/danseetgymnastique/danceforyou.png"
   inscription: ''
@@ -2934,6 +3023,7 @@ stages:
     - alias: Spectacle
       info_line: Un spectacle est prévu en fin de stage (selon les possibilités avec
         le Covid).
+  activation_onglets: false
 - name: Danse
   img: "/assets/images/stages/danseetgymnastique/danse.png"
   inscription: ''
@@ -2982,6 +3072,7 @@ stages:
     - alias: Spectacle
       info_line: Une petite présentation des chorégraphies apprises est prévue en
         fin de stage (selon les possibilités avec le covid). 
+  activation_onglets: false
 - name: GRS
   img: "/assets/images/stages/danseetgymnastique/grs.png"
   inscription: ''
@@ -3028,6 +3119,7 @@ stages:
     - alias: Tenue adaptée
       info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
         gym.
+  activation_onglets: false
 - name: Gymnastique
   img: "/assets/images/stages/danseetgymnastique/gymnastique.png"
   inscription: ''
@@ -3069,6 +3161,7 @@ stages:
     - alias: Spectacle
       info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
         avec le Covid).
+  activation_onglets: false
 - name: Gym Pro
   img: "/assets/images/stages/danseetgymnastique/gympro.png"
   inscription: ''
@@ -3084,6 +3177,7 @@ stages:
       de la gymnastique durant l'année.</p><p>Pour ce stage, il faut de l'expérience
       sur les 4 agrès : poutre, barres asymétriques, sol et sauts.</p>"
     infos: []
+  activation_onglets: false
 - name: Hip-Hop
   img: "/assets/images/stages/danseetgymnastique/hiphopragga.png"
   inscription: ''
@@ -3128,6 +3222,7 @@ stages:
     - alias: Spectacle
       info_line: Une petite représentation est prévue en fin de semaine (selon les
         possibilités avec le Covid).
+  activation_onglets: false
 - name: Aventure
   img: "/assets/images/stages/activitesfun/aventure.png"
   inscription: ''
@@ -3216,6 +3311,7 @@ stages:
       info_line: Les enfants doivent prévoir leur VTT, un casque, un gilet fluo, une
         chambre à air de rechange ainsi qu'un cadenas dès le premier jour de stage
         (nous déclinons toute responsabilité en cas de vol).
+  activation_onglets: false
 - name: Pro BMX
   img: "/assets/images/stages/activitesfun/bmx.png"
   inscription: ''
@@ -3241,6 +3337,7 @@ stages:
     - alias: Déplacements
       info_line: 'Les déplacements en transport en commun sont assurés par le CFS.
         Lieu de départ : la gare de Rixensart.'
+  activation_onglets: false
 - name: Evasion
   img: "/assets/images/stages/activitesfun/evasion.png"
   inscription: ''
@@ -3307,6 +3404,7 @@ stages:
       info_line: Les déplacements en transports en commun sont assurés par le CFS.
     - alias: Koézio
       info_line: 'Pour Koézio : taille minimum 1m40.'
+  activation_onglets: false
 - name: Fun Ado
   img: "/assets/images/stages/activitesfun/funado.jpg"
   inscription: ''
@@ -3357,6 +3455,7 @@ stages:
       room VR :</strong> activité se déroulant sur place dans le centre.</p></li><li><p><strong>E-fun
       : </strong>segway, trottinette électrique (sur place dans le centre).</p></li></ul><p><strong><em>ATTENTION
       :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p>"
+  activation_onglets: false
 - name: Fun Paintball & VTT
   img: "/assets/images/stages/activitesfun/funpaintballetvtt.png"
   inscription: ''
@@ -3377,6 +3476,7 @@ stages:
     - alias: Matériel
       info_line: Il faut un VTT, un gilet fluo, un cadenas, un casque ainsi qu’une
         chambre à air de rechange dès le premier jour du stage !
+  activation_onglets: false
 - name: Fun VTT
   img: "/assets/images/stages/activitesfun/funvtt.png"
   inscription: ''
@@ -3407,6 +3507,7 @@ stages:
         également une tenue de rechange en fonction de la météo.
     - alias: Condition physique
       info_line: Une bonne condition physique est indispensable.
+  activation_onglets: false
 - name: Karting & Fun
   img: "/assets/images/stages/activitesfun/kartingetfun.png"
   inscription: ''
@@ -3427,6 +3528,7 @@ stages:
     - alias: Taille
       info_line: Pour le karting, la taille minimum de l'enfant doit être de 1m55
         !
+  activation_onglets: false
 - name: Koh Lanta
   img: "/assets/images/stages/activitesfun/lanta.png"
   inscription: ''
@@ -3466,6 +3568,7 @@ stages:
       info_line: Prévoir des vêtements adaptés pour les activités en extérieur.
     - alias: Transports
       info_line: Les transports sont assurés par le CFS.
+  activation_onglets: false
 - name: Pro Skate
   img: "/assets/images/stages/activitesfun/skatepro.png"
   inscription: ''
@@ -3491,6 +3594,7 @@ stages:
     - alias: Déplacements
       info_line: 'Les déplacements en transport en commun sont assurés par le CFS.
         Lieu de départ : la gare de Rixensart.'
+  activation_onglets: false
 - name: 'Pro Trottinette '
   img: "/assets/images/stages/activitesfun/trottinettepro.png"
   inscription: ''
@@ -3516,6 +3620,7 @@ stages:
     - alias: Déplacements
       info_line: 'Les déplacements en transport en commun sont assurés par le CFS.
         Lieu de départ : la gare de Rixensart.'
+  activation_onglets: false
 - name: Tennis - Fun & Aventure
   img: "/assets/images/stages/activitesfun/tennisfunetaventure.png"
   inscription: ''
@@ -3536,6 +3641,7 @@ stages:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
         disposition. Vous pouvez bien sûr apporter votre propre matériel.
+  activation_onglets: false
 - name: X-trem Sensation
   img: "/assets/images/stages/activitesfun/xtremsensation.png"
   inscription: ''
@@ -3575,6 +3681,7 @@ stages:
       info_line: Les Ados doivent emporter leur VTT, un gilet fluo, un casque, un
         cadenas ainsi qu'une chambre à air de rechange (nous déclinons toute responsabilité
         en cas de vol).
+  activation_onglets: false
 - name: Aventure Camp
   img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
   inscription: ''
@@ -3583,6 +3690,7 @@ stages:
   nouveau: false
   stage_une: false
   location: []
+  activation_onglets: false
 - name: Nauti Camp
   img: "/assets/images/stages/activitesfun/nauticamp.jpg"
   inscription: ''
@@ -3591,6 +3699,7 @@ stages:
   nouveau: false
   stage_une: false
   location: []
+  activation_onglets: false
 - name: Aqua Fun
   img: "/assets/images/stages/activitessportives/aquafun.png"
   inscription: ''
@@ -3615,6 +3724,7 @@ stages:
     - alias: Savoir nager le 50m.
       info_line: Les jeunes doivent savoir nager le 50m, être à l’aise dans l’eau
         et savoir mettre la tête sous l’eau.
+  activation_onglets: false
 - name: Badminton
   img: "/assets/images/stages/activitessportives/badminton.png"
   inscription: ''
@@ -3649,6 +3759,7 @@ stages:
     - alias: Matériel
       info_line: Le CFS met à votre disposition le matériel.
     alias: Bruxelles
+  activation_onglets: false
 - name: Equi Sports
   img: "/assets/images/stages/activitessportives/equisport.png"
   inscription: ''
@@ -3678,6 +3789,7 @@ stages:
         large) et des bottes, ainsi qu'une tenue et des chaussures de sport.
     - alias: Navettes
       info_line: Les navettes seront assurées par le CFS.
+  activation_onglets: false
 - name: Equitation
   img: "/assets/images/stages/activitessportives/equitation.png"
   inscription: ''
@@ -3729,6 +3841,7 @@ stages:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
         large) et des bottes.
+  activation_onglets: false
 - name: Escalade
   img: "/assets/images/stages/activitessportives/escalade.png"
   inscription: ''
@@ -3773,6 +3886,7 @@ stages:
     - alias: Déplacement
       info_line: Pour l'activité escalade à Huy, les enfants se rendent à pieds avec
         leur moniteur au Point-Forme de Huy (10 minutes de marche).
+  activation_onglets: false
 - name: Football
   img: "/assets/images/stages/activitessportives/football.png"
   inscription: ''
@@ -3819,6 +3933,7 @@ stages:
     - alias: Equipement
       info_line: 'Se munir de 2 paires de chaussures (de baskets ou de foot) : une pour
         l''intérieur et l''autre pour l''extérieur.'
+  activation_onglets: false
 - name: Football Euro 2021
   img: "/assets/images/footballeuro2021.jpg"
   inscription: ''
@@ -3853,6 +3968,7 @@ stages:
     infos:
     - alias: Partenariat
       info_line: 'A Jette : Stage en partenariat avec Futsal Jette'
+  activation_onglets: false
 - name: Fun & Multisports
   img: "/assets/images/stages/activitessportives/funetmulti.png"
   inscription: ''
@@ -3871,6 +3987,7 @@ stages:
       le speedminton ou encore le flag foot.</p><p>Semaine sportive et Fun assurée
       !</p>"
     infos: []
+  activation_onglets: false
 - name: Fun Multisports & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/funmultietnat.png"
   inscription: ''
@@ -3891,6 +4008,7 @@ stages:
     infos:
     - alias: Tenue de bain
       info_line: Prévoir maillot, bonnet et essuie tous les jours.
+  activation_onglets: false
 - name: Futsal
   img: "/assets/images/stages/activitessportives/futsal.png"
   inscription: ''
@@ -3911,6 +4029,7 @@ stages:
     infos:
     - alias: Partenariat
       info_line: A Jette : Stage en partenariat avec Futsal Jette
+  activation_onglets: false
 - name: Futsal Euro 2021
   img: "/assets/images/futsaleuro2021.jpg"
   inscription: ''
@@ -3933,6 +4052,7 @@ stages:
     infos:
     - alias: Partenariat
       info_line: ''
+  activation_onglets: false
 - name: Krav Maga
   img: "/assets/images/stages/activitessportives/kravmaga.jpg"
   inscription: ''
@@ -3962,6 +4082,7 @@ stages:
         les "Options" lors de l''inscription. Attention la garderie du soir s''effectue
         eu Centre Sportif de Jette. Si vous souhaitez une garderie le matin, l''organisation
         se fait directement sur place.'
+  activation_onglets: false
 - name: Mini-Foot
   img: "/assets/images/stages/activitessportives/minifoot.png"
   inscription: ''
@@ -3978,6 +4099,7 @@ stages:
       multisports. Sport incontournable pour tous les futurs footballeurs qui souhaitent
       maîtriser le ballon.</p>"
     infos: []
+  activation_onglets: false
 - name: Multi Natation
   img: "/assets/images/stages/activitessportives/multinatation.png"
   inscription: ''
@@ -4011,6 +4133,7 @@ stages:
     - alias: Trajets
       info_line: Les trajets se font à pieds avec le moniteur, du hall de l'école
         d'Agriculture à la piscine de Huy (+/- 15 minutes de marche).
+  activation_onglets: false
 - name: Padel
   img: "/assets/images/stages/activitessportives/padel.png"
   inscription: ''
@@ -4056,6 +4179,7 @@ stages:
     infos:
     - alias: Matériel
       info_line: Le matériel est mis à disposition par notre partenaire.
+  activation_onglets: false
 - name: Parkour
   img: "/assets/images/stages/activitessportives/parkour.png"
   inscription: ''
@@ -4074,6 +4198,7 @@ stages:
       se transforment en obstacles franchis grâce à des techniques gymniques tels
       que la course, le saut, l’escalade, le déplacement en équilibre, etc.</p>
     infos: []
+  activation_onglets: false
 - name: Pilote
   img: "/assets/images/stages/activitessportives/piloteacademy.png"
   inscription: ''
@@ -4124,6 +4249,7 @@ stages:
       info_line: Prévoir une tenue adaptée au activités en extérieur.
     - alias: Transports
       info_line: Les transports sont assurés par le CFS.
+  activation_onglets: false
 - name: Tennis de table
   img: "/assets/images/stages/activitessportives/pingpong.png"
   inscription: ''
@@ -4145,6 +4271,7 @@ stages:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
+  activation_onglets: false
 - name: Plongée
   img: "/assets/images/stages/activitessportives/plongee.png"
   categorie: Activités sportives
@@ -4169,6 +4296,7 @@ stages:
     - alias: Nager 100 m.
       info_line: Les enfants doivent savoir nager 100 m.
   inscription: ''
+  activation_onglets: false
 - name: Sports Raquettes
   img: "/assets/images/stages/activitessportives/raquettes.png"
   inscription: ''
@@ -4202,6 +4330,7 @@ stages:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
         disposition. Vous pouvez bien sûr apporter votre propre matériel.
+  activation_onglets: false
 - name: Self Defense
   img: "/assets/images/stages/activitessportives/selfdefense.png"
   inscription: ''
@@ -4226,6 +4355,7 @@ stages:
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue de sport adaptée (pas de kimono requis).
+  activation_onglets: false
 - name: Sport Nature
   img: "/assets/images/stages/activitessportives/sportnature.png"
   inscription: ''
@@ -4252,6 +4382,7 @@ stages:
     - alias: Equipement à prévoir !
       info_line: " Attention : il faut un vélo, un cadenas, un casque ainsi qu'une
         chambre à air de rechange dès le premier jour du stage !"
+  activation_onglets: false
 - name: Tennis
   img: "/assets/images/stages/activitessportives/tennis.png"
   inscription: ''
@@ -4299,6 +4430,7 @@ stages:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
+  activation_onglets: false
 - name: Tennis Pro
   img: "/assets/images/stages/activitessportives/tennispro.png"
   inscription: ''
@@ -4319,6 +4451,7 @@ stages:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
         disposition. Vous pouvez bien sûr apporter votre propre matériel.
+  activation_onglets: false
 - name: 'Volley '
   img: "/assets/images/stages/activitessportives/volleydecouverte.png"
   inscription: ''
@@ -4343,6 +4476,7 @@ stages:
     infos:
     - alias: Garderie
       info_line: 'Pour les activités à Walhain : garderie à partir de 8h00 le matin.'
+  activation_onglets: false
 - name: Football Camp
   img: "/assets/images/stages/activitessportives/footcamp.jpg"
   inscription: ''
@@ -4351,6 +4485,7 @@ stages:
   nouveau: false
   stage_une: false
   location: []
+  activation_onglets: false
 - name: Ski
   img: "/assets/images/stages/activitessportives/ski.jpg"
   inscription: ''
@@ -4359,6 +4494,7 @@ stages:
   nouveau: false
   stage_une: false
   location: []
+  activation_onglets: false
 - name: Padel Tennis Camp
   img: "/assets/images/stages/activitessportives/padeltenniscamp.jpg"
   inscription: ''
@@ -4367,6 +4503,7 @@ stages:
   nouveau: false
   stage_une: false
   location: []
+  activation_onglets: false
 - name: Apprenti Savant
   img: "/assets/images/stages/activitesartistiquesetloisirs/apprentisavant.png"
   inscription: ''
@@ -4382,6 +4519,7 @@ stages:
       des petites expériences physiques, chimiques et biologiques le monde des sciences.
       La journée est composée de 3h de sciences et 3h de sport.</p>"
     infos: []
+  activation_onglets: false
 - name: Artiste
   img: "/assets/images/stages/activitesartistiquesetloisirs/artiste.png"
   inscription: ''
@@ -4410,6 +4548,7 @@ stages:
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.
+  activation_onglets: false
 - name: Bande Dessinée
   img: "/assets/images/stages/activitesartistiquesetloisirs/bd.png"
   inscription: ''
@@ -4431,6 +4570,7 @@ stages:
     - alias: Matériel
       info_line: Se munir d'une latte, de crayons, d'un taille-crayon, d'une gomme
         et d'un chiffon.
+  activation_onglets: false
 - name: Bricoleur & Sport
   img: "/assets/images/stages/activitesartistiquesetloisirs/bricoleur.png"
   inscription: ''
@@ -4450,6 +4590,7 @@ stages:
       activités de multisports en extérieur : sports ballons, raquettes, crosse canadienne,
       unihoc, ball bouncer, etc.</p>"
     infos: []
+  activation_onglets: false
 - name: Cirque
   img: "/assets/images/stages/activitesartistiquesetloisirs/cirque.png"
   inscription: ''
@@ -4504,6 +4645,7 @@ stages:
     - alias: Spectacle
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
         avec le covid). 
+  activation_onglets: false
 - name: Comédie Musicale
   img: "/assets/images/stages/activitesartistiquesetloisirs/comediemusicale.png"
   inscription: ''
@@ -4536,6 +4678,7 @@ stages:
     - alias: Spectacle
       info_line: Spectacle en fin de semaine (selon les possibilités avec le Covid)
         !
+  activation_onglets: false
 - name: Débrouillard
   img: "/assets/images/stages/activitesartistiquesetloisirs/debrouillard.png"
   inscription: ''
@@ -4555,6 +4698,7 @@ stages:
       d’outils et d’électricité, cuisiner, allumer et éteindre un feu, retrouver son
       chemin, s’orienter et lire une carte, escalader.</p>"
     infos: []
+  activation_onglets: false
 - name: Détective
   img: "/assets/images/stages/activitesartistiquesetloisirs/detective.png"
   inscription: ''
@@ -4582,6 +4726,7 @@ stages:
       info_line: Les navettes sont assurées par le CFS.
     - alias: Koézio
       info_line: Pour Koezio, les enfants doivent avoir MINIMUM 1m40
+  activation_onglets: false
 - name: Top Chef
   img: "/assets/images/stages/activitesartistiquesetloisirs/dinerparfait.png"
   inscription: ''
@@ -4612,6 +4757,7 @@ stages:
     infos:
     - info_line: Il ne faut donc prévoir à manger pour votre enfant que le vendredi.
       alias: Repas
+  activation_onglets: false
 - name: Immersion Anglais
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersionanglais.png"
   inscription: ''
@@ -4633,6 +4779,7 @@ stages:
     infos:
     - alias: Transports
       info_line: Les transports sont assurés par le CFS.
+  activation_onglets: false
 - name: Immersion Néerlandais
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
   inscription: ''
@@ -4654,6 +4801,7 @@ stages:
     infos:
     - alias: Transports
       info_line: Les transports sont assurés par le CFS.
+  activation_onglets: false
 - name: Ma déco
   img: "/assets/images/stages/activitesartistiquesetloisirs/madeco.png"
   inscription: ''
@@ -4673,6 +4821,7 @@ stages:
       thème du stage et de la saison. </p>"
     infos: []
     age: 8-14 ans
+  activation_onglets: false
 - name: Magie & Cirque
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietcirque.png"
   inscription: ''
@@ -4699,6 +4848,7 @@ stages:
     - alias: Spectacle
       info_line: Un petit spectacle de magie et de cirque prévu en fin de semaine
         (selon les possibilités avec le Covid).
+  activation_onglets: false
 - name: Magie & Fun
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
@@ -4726,6 +4876,7 @@ stages:
     - alias: Spectacle
       info_line: Une petite démonstration de quelques tours appris est prévue en fin
         de semaine (selon les possibilités avec le Covid).
+  activation_onglets: false
 - name: Magie Pro
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
@@ -4748,6 +4899,7 @@ stages:
     - alias: Spectacle
       info_line: Une petite démonstration de quelques tours appris est prévue en fin
         de semaine (selon les possibilités avec le Covid).
+  activation_onglets: false
 - name: Robotique
   img: "/assets/images/stages/activitesartistiquesetloisirs/robotique.png"
   inscription: ''
@@ -4802,6 +4954,7 @@ stages:
       une </em><strong><em>demi-journée à d’autres activités</em></strong><em> et
       </em><strong><em>profiteront des infrastructures sportives du Centre.</em></strong></p>"
     infos: []
+  activation_onglets: false
 - name: Tennis & Anglais
   img: "/assets/images/stages/activitesartistiquesetloisirs/tennisanglaisneerlandais.png"
   inscription: ''
@@ -4819,6 +4972,7 @@ stages:
     infos:
     - alias: Partenariat
       info_line: Stage en partenariat avec Lambert Tennis Academy.
+  activation_onglets: false
 - name: Tennis & Baby Gym
   img: "/assets/images/stages/decouvertesportiveetculturelle/tennisetbabygym.png"
   inscription: ''
@@ -4835,6 +4989,7 @@ stages:
     infos:
     - alias: Partenariat
       info_line: Stage en partenariat avec Lambert Tennis Academy.
+  activation_onglets: false
 - name: Tennis & Gymnastique
   img: "/assets/images/stages/danseetgymnastique/tennisetgym.png"
   inscription: ''
@@ -4843,6 +4998,7 @@ stages:
   nouveau: false
   stage_une: false
   location: []
+  activation_onglets: false
 - name: Tennis & Néerlandais
   img: "/assets/images/stages/activitesartistiquesetloisirs/tennisanglaisneerlandais.png"
   inscription: ''
@@ -4851,6 +5007,7 @@ stages:
   nouveau: false
   stage_une: false
   location: []
+  activation_onglets: false
 - name: Théâtre
   img: "/assets/images/stages/activitesartistiquesetloisirs/theatre.png"
   inscription: ''
@@ -4885,6 +5042,7 @@ stages:
     - alias: Représentation
       info_line: Petite représentation en fin de stage (selon les possibilités avec
         le covid).
+  activation_onglets: false
 - name: Vidéo Reportage
   img: "/assets/images/stages/activitesartistiquesetloisirs/videoreportage.png"
   inscription: ''
@@ -4908,6 +5066,7 @@ stages:
     - alias: Matériel
       info_line: 'Matériel fourni : un appareil numérique et un ordinateur pour 4
         stagiaires.'
+  activation_onglets: false
 - name: New Games
   img: "/assets/images/newgames.jpg"
   inscription: ''
@@ -4930,6 +5089,7 @@ stages:
     - alias: Représentation
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
         avec le covid). 
+  activation_onglets: false
 - name: Vélo-Evolution
   img: "/assets/images/veloevolution.png"
   inscription: ''
@@ -4955,6 +5115,7 @@ stages:
     - alias: Equipement
       info_line: L'enfant doit apporter son vélo, son casque, un cadenas ainsi qu'une
         chambre à air de réserve (nous déclinons toute responsabilité en cas de vol). 
+  activation_onglets: false
 - name: Remédiation & Sport
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
   inscription: ''
@@ -4995,4 +5156,6 @@ stages:
     - alias: Moniteur
       info_line: Les enfants restent avec le même moniteur et ont leur propre local
         toute la semaine.
+  activation_onglets: false
 activites: []
+GLOBAL_activation_onglets: true

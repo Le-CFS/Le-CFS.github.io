@@ -2,6 +2,10 @@
 label: Stages
 hide_body: true
 fields:
+- name: GLOBAL_activation_onglets
+  type: boolean
+  label: Activer l'option pour les onglets
+  default: true
 - type: field_group_list
   name: stages
   label: stages
@@ -46,6 +50,9 @@ fields:
     type: boolean
     label: Stage à la une ?
     description: Le stage doit-il être affiché en une sur la page d'accueil ?
+  - name: activation_onglets
+    type: boolean
+    label: Activer les onglets ?
   - type: text
     name: inscription
     label: inscription
