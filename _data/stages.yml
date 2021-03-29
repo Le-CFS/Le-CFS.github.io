@@ -3820,7 +3820,7 @@ stages:
       info_line: 'Se munir de 2 paires de chaussures (de baskets ou de foot) : une pour
         l''intérieur et l''autre pour l''extérieur.'
 - name: Football Euro 2021
-  img: "/assets/images/footballeuro2020.png"
+  img: "/assets/images/footballeuro2021.jpg"
   inscription: ''
   categorie: Activités sportives
   online: true
