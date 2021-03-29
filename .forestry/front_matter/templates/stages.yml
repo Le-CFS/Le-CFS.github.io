@@ -6,6 +6,9 @@ fields:
   type: boolean
   label: Activer l'option pour les onglets
   default: true
+  description: Cocher cette case pour avoir la possibilité de créer des onglets dans
+    les cartes de stage afin d'avoir des âges/descriptions/infos différents pour chaque
+    ville.
 - type: field_group_list
   name: stages
   label: stages
