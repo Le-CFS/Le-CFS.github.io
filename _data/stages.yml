@@ -2,7 +2,7 @@
 stages:
 - name: 'Multisports & langues '
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/multisportsetlangues.jpg"
   online: true
   nouveau: true
   stage_une: false
