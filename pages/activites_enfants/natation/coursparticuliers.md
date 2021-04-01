@@ -5,7 +5,8 @@ banner: "/assets/images/banner/ecole_de_natation/coursparticuliers.png"
 image: "/assets/images/banner/ecole_de_natation/coursparticuliers.png"
 permalink: "/activites/ecole_de_natation/cours_particuliers/"
 menu: activites
-description: ''
+description: Profitez d'un apprentissage individuel et de la plein relation avec les
+  moniteurs grâce aux cours particulier de natation au CFS.
 
 ---
 {% include annonces/activites.html %}
