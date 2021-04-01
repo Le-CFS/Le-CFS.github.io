@@ -5,7 +5,8 @@ banner: "/assets/images/banner/ecole_de_natation/miniclub.png"
 image: "/assets/images/banner/ecole_de_natation/miniclub.png"
 permalink: "/activites/ecole_de_natation/mini_club/"
 menu: activites
-description: ''
+description: Découvrez l'école de natation du CFS ! Le mini-club en Brabant wallon
+  fera progresser les enfants àpd 7ans à leur rythme grâce aux petits groupes.
 
 ---
 {% include annonces/activites.html %}
