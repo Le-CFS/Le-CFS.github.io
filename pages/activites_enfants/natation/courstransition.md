@@ -5,7 +5,8 @@ banner: "/assets/images/banner/ecole_de_natation/coursdetransition.png"
 image: "/assets/images/banner/ecole_de_natation/coursdetransition.png"
 permalink: "/activites/ecole_de_natation/cours_transition/"
 menu: activites
-description: ''
+description: Découvrez l'école de natation du CFS ! Ce cours de transition conviendra
+  parfaitement pour préparer vos enfants à participer au mini-club du CFS.
 
 ---
 {% include annonces/activites.html %}
