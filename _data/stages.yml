@@ -4712,15 +4712,15 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Un véritable Sherlock Holmes ? Votre enfant aime partir à la
-      recherche d'indices, répondre à des énigmes, travailler en cohésion avec un
-      partenaire/une équipe ?</p><p>Voici le stage qu'il lui faut !</p><p>Au programme
+    description: '<p>Un véritable Sherlock Holmes ? Votre enfant aime partir à la
+      recherche d''indices, répondre à des énigmes, travailler en cohésion avec un
+      partenaire/une équipe ?</p><p>Voici le stage qu''il lui faut !</p><p>Au programme
       : jeux de mémoire, jeux de piste, géocatching, escape room (jeu de société),
       escape game VR (à côté du Cartronics à Wavre), et une sortie à Koezio aux Docks
-      Bruxsel.</p><p>De quoi ravir nos enquêteurs avec différentes énigmes et activités
-      fun tout au long de la semaine !</p><p>La semaine se termine par un jeu de cohésion
-      et un pique-nique (les enfants doivent prévoir leurs tartines, et des éventuels
-      en-cas).</p>"
+      Bruxsel (fermé en raison du Covid, remplacé par "Réalité virtuelle")</p><p>De
+      quoi ravir nos enquêteurs avec différentes énigmes et activités fun tout au
+      long de la semaine !</p><p>La semaine se termine par un jeu de cohésion et un
+      pique-nique (les enfants doivent prévoir leurs tartines, et des éventuels en-cas).</p>'
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur.
