@@ -5,12 +5,12 @@ tags:
 - Activités
 - extrascolaires
 title: Activités Extrascolaires
-banner: "/assets/images/extrascolaires3emetrim.jpg"
+banner: "/assets/images/extrascolaires3emetrim-2.jpg"
 infos:
   date: 
   teaser: ''
 description: Activités Extrascolaires - 3ème trimestre
-image: "/assets/images/extrascolaires3emetrim.jpg"
+image: "/assets/images/extrascolaires3emetrim-2.jpg"
 
 ---
 **Activités Extrascolaires**
