@@ -215,7 +215,7 @@ stages:
       info_line: Prévoir une tenue de rechange.
   activation_onglets: true
 - name: Vol à Voile
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/volavoil.jpg"
   online: true
   nouveau: true
@@ -256,7 +256,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: 'Satellite Camp 2 '
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/satelliteniv2.jpg"
   online: true
   nouveau: true
@@ -297,7 +297,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: 'Satellite Camp 1 '
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/satellite.jpg"
   online: true
   nouveau: true
@@ -338,7 +338,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Rocket Camp 2
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/rocketniv2.jpg"
   online: true
   nouveau: true
@@ -377,7 +377,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Rocket Camp 1
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/rocket.jpg"
   online: true
   nouveau: true
@@ -463,7 +463,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Modélisation 3D
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/3d.jpg"
   online: true
   nouveau: true
@@ -499,7 +499,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Drone Camp
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/drone.jpg"
   online: true
   nouveau: true
@@ -539,7 +539,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Astronomy Camp Junior
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/astronomiejr.jpg"
   online: true
   nouveau: true
@@ -571,7 +571,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Astronomy Camp
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/astronomie.jpg"
   online: true
   nouveau: true
@@ -613,7 +613,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Astronaut Espace Langues
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/astronautespacelangues.jpg"
   online: true
   nouveau: true
@@ -663,7 +663,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Astronaut Camp Junior
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/astronautejr.jpg"
   online: true
   nouveau: true
@@ -693,7 +693,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Astronaut Camp
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/astronaute.jpg"
   online: true
   nouveau: true
@@ -814,7 +814,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   activation_onglets: true
 - name: Nautic on the Beach
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/stages/activitesfun/nauticamp.jpg"
   online: true
   nouveau: true
@@ -861,7 +861,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   activation_onglets: true
 - name: Initiation Golf
-  categorie: Activités sportives
+  categorie: Internat
   img: "/assets/images/initiationgolf.jpg"
   online: true
   nouveau: true
@@ -939,7 +939,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   activation_onglets: true
 - name: Sport Aventure & Quad
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/stages/activitesfun/sportaventureetquad.jpg"
   online: true
   nouveau: true
@@ -969,7 +969,7 @@ stages:
         Sports de Stoumont et départ le samedi 21 août à 10h.'
   activation_onglets: true
 - name: Football Academy
-  categorie: Activités sportives
+  categorie: Internat
   img: "/assets/images/footacademy.jpg"
   online: true
   nouveau: true
@@ -3993,7 +3993,7 @@ stages:
 - name: Fun Multisports & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/funmultietnat.png"
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Activités sportives
   online: true
   nouveau: true
   stage_une: false
@@ -4035,7 +4035,7 @@ stages:
 - name: Futsal Euro 2021
   img: "/assets/images/futsaleuro2021.jpg"
   inscription: ''
-  categorie: Les petits bouts
+  categorie: Activités sportives
   online: true
   nouveau: true
   stage_une: false
