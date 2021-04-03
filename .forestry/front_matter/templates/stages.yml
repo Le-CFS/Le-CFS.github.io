@@ -30,6 +30,7 @@ fields:
       - Activités fun
       - Activités sportives
       - Activités artistiques et loisirs
+      - Internat
       source:
         type: simple
         section: 
