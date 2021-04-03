@@ -1,0 +1,27 @@
+---
+layout: page
+title: Stages en Internat
+permalink: "/stages/activites/stages_en_internat/"
+menu: true
+description: Au CFS, trouvez un stage durant les vacances pour vos enfants de 2 à
+  4ans, dans le Brabant wallon, à Bruxelles ou à Liège.
+banner: ''
+image: ''
+
+---
+{% include annonces/stages.html %}
+
+<div class="row">
+	<!-- Trier par ordre alphabétique -->
+	{% assign liste_stages = site.data.stages.stages | sort: "name" %}
+	
+	{% for stage in liste_stages %}
+  		
+  		{% if stage.online and stage.categorie == 'Internat' %}
+
+			{% include coleen/liste_cartes.html %}
+
+		{% endif %}
+	
+	{% endfor %}
+</div>

@@ -89,6 +89,8 @@ stages_enfants:
       url: "/stages/activites/activites_sportives/"
     - title: Activités artistiques et loisirs
       url: "/stages/activites/activites_artistiques_et_loisirs/"
+    - title: Internat
+      url: "/stages/activites/stages_en_internat/"
   - title: Organisation des stages
     url: "/stages/protocole/"
     online_mobile: false
