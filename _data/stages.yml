@@ -740,7 +740,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Tennis
-  categorie: Activités sportives
+  categorie: Internat
   img: "/assets/images/stages/activitessportives/tennispro.png"
   online: true
   nouveau: true
@@ -767,7 +767,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   activation_onglets: true
 - name: Padel-Tennis
-  categorie: Activités sportives
+  categorie: Internat
   img: "/assets/images/stages/activitessportives/padel.png"
   online: true
   nouveau: true
@@ -890,7 +890,7 @@ stages:
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   activation_onglets: true
 - name: Aventure XXL
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
   online: true
   nouveau: true
