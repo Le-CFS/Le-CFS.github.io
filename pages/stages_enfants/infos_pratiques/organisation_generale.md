@@ -9,21 +9,18 @@ description: Retrouvez les informations générales concernant les stages enfant
   la garderie du CFS.
 
 ---
-<p>Les stages se déroulent du lundi au vendredi de 9h00 à 16h00 avec 4 périodes d’activités de 1h25 / jour.</p>
+Les stages se déroulent du lundi au vendredi de 9h00 à 16h00 avec 4 périodes d’activités de 1h25 / jour.
 
-<p>Les enfants sont groupés par âge et/ou par niveau suivant le type de stage.</p>
+Les enfants sont groupés par âge et/ou par niveau suivant le type de stage.
 
-<p>Les enfants doivent se munir d’un pique-nique ainsi que de vêtements et de chaussures de sport (+ vêtements de pluie en cas de mauvais temps).</p>
+Les enfants doivent se munir d’un pique-nique ainsi que de vêtements et de chaussures de sport (+ vêtements de pluie en cas de mauvais temps).
 
-<p>Une garderie est organisée le matin dès 08h00 et le soir jusqu’à 18h00.</p>
+Une garderie est organisée le matin dès 08h00 et le soir jusqu’à 18h00.
 
-<p>Le forfait de garderie est de :</p>
+**Tarifs de la garderie:**
 
-<p><strong>Tarifs:</strong></p>
-<p>Tous les matins: 5€.</p>
-<p>Tous les soirs: 10€.</p>
-<p>Tous les matins et tous les soirs: 12€.</p>
+* Tous les matins: 5€.
+* Tous les soirs: 10€
+* Tous les matins et tous les soirs: 12€
 
-
-<p>Certains stages nécessitent des déplacements (train, bus, camionnette, etc.). </p>
-<p>Ces transports sont assurés et encadrés par notre organisation.</p>
+Certains stages nécessitent des déplacements (train, bus, camionnette, etc.), ces transports sont assurés et encadrés par notre organisation.
