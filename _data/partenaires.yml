@@ -126,13 +126,6 @@ liste:
   online: oui
   bouton: Site Web
   couleur_bouton: 
-- name: Horse's Valley à Dion
-  categorie: Partenaires pédagogiques
-  logo: "/assets/images/partenaires/horsevalley.png"
-  href: https://www.horse-valley.com/
-  online: 
-  bouton: Site Web
-  couleur_bouton: 
 - name: Ecole Le Bon-Départ
   categorie: Partenaires écoles
   logo: "/assets/images/partenaires/lebondepart_nil.png"
