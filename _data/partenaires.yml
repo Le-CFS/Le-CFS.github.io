@@ -18,7 +18,7 @@ liste:
   categorie: Partenaires de stages
   logo: "/assets/images/partenaires/pairidaiza.png"
   href: https://www.pairidaiza.eu/
-  online: oui
+  online: non
   bouton: Site Web
   couleur_bouton: 
 - name: AJP Events
@@ -32,7 +32,7 @@ liste:
   categorie: Partenaires d'entreprises
   logo: "/assets/images/partenaires/daddykate.png"
   href: https://www.daddykate.be/fr/
-  online: oui
+  online: non
   bouton: Site Web
   couleur_bouton: 
 - name: Gym Club La Courtoise
