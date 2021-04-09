@@ -207,7 +207,7 @@ liste:
   categorie: Partenaires de stages
   logo: "/assets/images/partenaires/jumpxl.png"
   href: https://jump-xl.com/
-  online: oui
+  online: non
   bouton: Site Web
   couleur_bouton: 
 - name: Aventure Parc
