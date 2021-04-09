@@ -228,7 +228,7 @@ liste:
   categorie: Partenaires entreprises
   logo: "/assets/images/partenaires/bellicon.png"
   href: https://www.bellicon.com/int_fr
-  online: oui
+  online: non
   bouton: Site Web
   couleur_bouton: 
 - name: SET-JET Fleur Bleue
@@ -242,7 +242,7 @@ liste:
   categorie: Partenaires pédagogiques
   logo: "/assets/images/partenaires/photoargentique.png"
   href: https://www.myriamandries.be/
-  online: oui
+  online: non
   bouton: Site Web
   couleur_bouton: 
 - name: Krav Maga Bruxelles
