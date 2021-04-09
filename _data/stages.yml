@@ -2074,6 +2074,8 @@ stages:
       à 3 ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut
       inscrire votre petit-bout en pré-psycho.</p>"
     infos:
+    - alias: Navette
+      info_line: Une navette sera effectué pour aller jusqu’à la piscine.
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les bricolages/peintures éventuels.
     - alias: Maillot
