@@ -40,3 +40,5 @@ fields:
   - type: text
     name: couleur_bouton
     label: couleur_bouton
+pages:
+- _data/partenaires.yml
