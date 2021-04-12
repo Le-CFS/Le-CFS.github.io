@@ -5,7 +5,7 @@
     </div>
     <div id="image-carousel-mobile" class="owl-carousel">
       {% for partenaire in site.data.partenaires.liste %}
-        {% if partenaire.online == "" or partenaire.online == nil %}
+        {% if partenaire.online == "" or partenaire.online == nil or partenaire.online == false %}
         {% else %}
         <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" loading="lazy" class="img-fluid" alt="{{ partenaire.name }}"></a></div>
         {% endif %}
