@@ -20,7 +20,7 @@ Si vous désirez vous associer à notre démarche, n'hésitez pas à nous contac
 		<div class="row">
 		
 		{% for partenaire in site.data.partenaires.liste %}
-		{% if partenaire.online and partenaire.categorie contains 'pédagogiques' and partenaire.online contains 'oui' %}
+		{% if partenaire.online and partenaire.categorie contains 'pédagogiques' %}
 		<!-- Team Item Starts -->
 		<div class="col-sm-6 col-md-4">
 
@@ -60,7 +60,7 @@ Nos partenaires de stage collaborent à l'organisation d'une semaine de stage af
 		<div class="row">
 		
 		{% for partenaire in site.data.partenaires.liste %}
-		{% if partenaire.online and partenaire.categorie contains 'stages' and partenaire.online contains 'oui' %}
+		{% if partenaire.online and partenaire.categorie contains 'stages' %}
 		<!-- Team Item Starts -->
 		<div class="col-sm-6 col-md-4">
 
@@ -99,7 +99,7 @@ Certaines entreprises proposent des avantages en nature à leur employé via les
 		<div class="row">
 		
 		{% for partenaire in site.data.partenaires.liste %}
-		{% if partenaire.online and partenaire.categorie contains 'entreprises' and partenaire.online contains 'oui' %}
+		{% if partenaire.online and partenaire.categorie contains 'entreprises' %}
 		<!-- Team Item Starts -->
 		<div class="col-sm-6 col-md-4">
 
@@ -138,7 +138,7 @@ Le CFS collabore avec certaines écoles en vue d'améliorer l'Accueil Temps Libr
 		<div class="row">
 		
 		{% for partenaire in site.data.partenaires.liste %}
-		{% if partenaire.online and partenaire.categorie contains 'écoles' and partenaire.online contains 'oui' %}
+		{% if partenaire.online and partenaire.categorie contains 'écoles' %}
 		<!-- Team Item Starts -->
 		<div class="col-sm-6 col-md-4">
 
