@@ -1,0 +1,29 @@
+---
+label: Partenaires
+hide_body: true
+fields:
+- type: field_group_list
+  name: liste
+  label: liste
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: categorie
+    label: categorie
+  - type: file
+    name: logo
+    label: logo
+  - type: text
+    name: href
+    label: href
+  - type: text
+    name: online
+    label: online
+  - type: text
+    name: bouton
+    label: bouton
+  - type: text
+    name: couleur_bouton
+    label: couleur_bouton
