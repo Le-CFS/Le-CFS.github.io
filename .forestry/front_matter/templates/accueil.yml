@@ -139,7 +139,7 @@ fields:
         type: documents
         section: fichiers-de-donnees
         file: _data/stages.yml
-        path: activites
+        path: ''
     label: Stage
 - type: field_group
   name: banner
