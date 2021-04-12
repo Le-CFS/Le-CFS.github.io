@@ -9,18 +9,31 @@ fields:
   - type: text
     name: name
     label: name
-  - type: text
-    name: categorie
-    label: categorie
+  - name: categorie
+    type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - Partenaires de stages
+      - partenaires pédagogiques
+      - Partenaires d'entreprises
+      - Partenaires écoles
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Catégorie
+  - name: online
+    type: boolean
+    label: En ligne
   - type: file
     name: logo
     label: logo
   - type: text
     name: href
     label: href
-  - type: text
-    name: online
-    label: online
   - type: text
     name: bouton
     label: bouton
