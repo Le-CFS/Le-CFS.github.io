@@ -147,24 +147,8 @@ stages_enfants:
     url: "/stages/garderie/"
   - title: Réductions
     url: "/stages/reductions/"
-  - title: Informations pratiques
-    url: "/stages/informations_pratiques/"
-    online_mobile: false
-    sousmenu:
-    - title: Organisation générale
-      url: "/stages/informations_pratiques/organisation_generale/"
-    - title: Conseils pratiques
-      url: "/stages/informations_pratiques/conseils_pratiques/"
-    - title: Assurances
-      url: "/stages/informations_pratiques/assurances/"
-    - title: Attestations
-      url: "/stages/informations_pratiques/attestations/"
-    - title: Conditions générales
-      url: "/stages/informations_pratiques/conditions_generales/"
-  - title: Partenaires pédagogiques
-    url: "/stages/partenaires_pedagogiques/"
-  - title: Nos partenaires de stage
-    url: "/stages/nos_partenaires_de_stage/"
+  - title: Conditions générales
+    url: "/stages/conditions_generales/"
 activites:
   titre: Activités enfants
   url: "/activites/"

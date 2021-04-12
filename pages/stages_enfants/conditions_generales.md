@@ -3,7 +3,7 @@ layout: page
 title: Conditions générales
 banner: "/assets/images/banner/infospratiques/conditionsgenerales.png"
 image: "/assets/images/banner/infospratiques/conditionsgenerales.png"
-permalink: "/stages/informations_pratiques/conditions_generales/"
+permalink: "/stages/conditions_generales/"
 menu: true
 description: Les informations officielles et conditions générales pour la participation
   aux stages du CFS.
