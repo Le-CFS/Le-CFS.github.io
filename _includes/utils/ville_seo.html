@@ -1,0 +1,7 @@
+<!-- 
+Ajoute une petite phrase à la fin de chaque description de stage destinée à augmenter le référencement.
+-->
+
+<p>
+Le stage {{ stage.name }} a lieu{% for province in stage.location %}{% if province.ville == "Brabant Wallon" %}{% assign prefixe = " dans le " %}{% elsif province.ville == "Internat" %}{% assign prefixe = " en " %}{% else %}{% assign prefixe = " à " %}{% endif %}{% if forloop.first %}{{prefixe}}{{province.ville}}{% elsif forloop.last %} et {{prefixe}}{{ province.ville }}{% else %}, {{prefixe}}{{ province.ville }}{% endif %}{% endfor %}.
+</p>

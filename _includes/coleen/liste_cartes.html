@@ -138,6 +138,9 @@ Inclure la variable GLOBALE dans un fichier de config
                             {{ stage.location[0].description }}
                             {% else %}
                             {{ onglet.description }}
+
+                            {% include utils/ville_seo.html %}
+
                             {% endif %}
                           </div>
                           {% if onglet.infos[0].info_line == "" or onglet.infos[0].info_line == nil %}
@@ -205,6 +208,7 @@ Inclure la variable GLOBALE dans un fichier de config
                         {{ stage.location[0].description }}
                         {% else %}
                         {{ stage.location[0].description }}
+                        {% include utils/ville_seo.html %}
                         {% endif %}
                       </div>
                       {% if stage.location[0].infos[0].info_line == "" or stage.location[0].infos[0].info_line == nil %}
@@ -240,21 +244,6 @@ Inclure la variable GLOBALE dans un fichier de config
         {% endif %}
 
       {% endif %}
-
-<!-- <p>
-Le stage {{ stage.name }} a lieu à
-{% for province in stage.location %}
-  
-  {% if forloop.first %}
-    {{province.ville}}
-  {% elsif forloop.last %}
-    et {{ province.ville }}
-  {% else %}
-    , {{ province.ville }}
-  {% endif %}
-
-{% endfor %}.
-</p> -->
 
       <div class="modal-footer" style="border-top: 0px;">
         <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border-radius: 5px;">{% if page.url contains 'activites' %}Autre activité{% else %}Autre stage{% endif %}</button>
