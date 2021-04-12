@@ -129,18 +129,6 @@ fields:
     - type: text
       name: age
       label: age
-  - name: stage
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: documents
-        section: fichiers-de-donnees
-        file: _data/stages.yml
-        path: ''
-    label: Stage
 - type: field_group
   name: banner
   label: banner
