@@ -81,7 +81,7 @@ liste:
   categorie: Partenaires de stages
   logo: "/assets/images/partenaires/pairidaiza.png"
   href: https://www.pairidaiza.eu/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: AJP Events
@@ -95,7 +95,7 @@ liste:
   categorie: Partenaires d'entreprises
   logo: "/assets/images/partenaires/daddykate.png"
   href: https://www.daddykate.be/fr/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Brussel Monkeys Climbing
@@ -295,10 +295,10 @@ liste:
   bouton: Site Web
   couleur_bouton: ''
 - name: Bellicon
-  categorie: Partenaires entreprises
+  categorie: ''
   logo: "/assets/images/partenaires/bellicon.png"
   href: https://www.bellicon.com/int_fr
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: SET-JET Fleur Bleue
