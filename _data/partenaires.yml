@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Horses Club Manège la Motte
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/horsesclub_manegelamotte.png"
+  href: https://www.facebook.com/Man%C3%A8ge-la-Motte-1497169900295644
+  bouton: Site Web
+  couleur_bouton: ''
 - name: RW WALHAIN
   categorie: partenaires pédagogiques
   online: true
