@@ -1,5 +1,12 @@
 ---
 liste:
+- name: ACE Tennis Academy asbl
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/acetennis.png"
+  href: http://www.acetennis.be/home3.asp?ClubID=120&LG=FR
+  bouton: Site Web
+  couleur_bouton: ''
 - name: Royal Laeken Tennis Club
   categorie: partenaires pédagogiques
   online: true
