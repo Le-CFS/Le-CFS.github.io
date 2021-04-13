@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Padel Events asbl
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/padeleventsasbl.png"
+  href: https://padeleventsacademy.be/
+  bouton: Site Web
+  couleur_bouton: ''
 - name: Horses Club Manège la Motte
   categorie: partenaires pédagogiques
   online: true
