@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Roc Events asbl
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/roceventsasbl.png"
+  href: https://new.rocevents.be/
+  bouton: Site Web
+  couleur_bouton: ''
 - name: Koala Crazy Games
   categorie: Partenaires de stages
   online: true
