@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Royal Laeken Tennis Club
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/royalaekentennisclub.png"
+  href: http://www.rltc.be/
+  bouton: Site Web
+  couleur_bouton: ''
 - name: Padel Events asbl
   categorie: partenaires pédagogiques
   online: true
