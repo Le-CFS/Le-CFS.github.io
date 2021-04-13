@@ -154,10 +154,10 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: Ecole du Centre à Walhain
+- name: Ecole Communale Fondamentale de Walhain
   categorie: Partenaires écoles
-  logo: "/assets/images/partenaires/ecoleducentre.png"
-  href: http://www.ecolesdewalhain.be/
+  logo: "/assets/images/ecolecommunalefondamentaledewalhain.png"
+  href: https://www.walhain.be/ma-commune/education/enseignement-communal
   online: true
   bouton: Site Web
   couleur_bouton: ''
