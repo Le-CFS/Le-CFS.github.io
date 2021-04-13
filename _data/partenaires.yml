@@ -1,5 +1,12 @@
 ---
 liste:
+- name: RW WALHAIN
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/rwalhain.png"
+  href: http://www.rw-walhain.be/
+  bouton: Site Web
+  couleur_bouton: ''
 - name: Brussel Monkeys Climbing
   categorie: partenaires pédagogiques
   online: true
