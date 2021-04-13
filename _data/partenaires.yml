@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Brussel Monkeys Climbing
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/brusselmonkeysclimbing.png"
+  href: https://www.brusselsmonkeysclimbing.com/
+  bouton: Site Web
+  couleur_bouton: ''
 - name: 4U Danse
   categorie: partenaires pédagogiques
   logo: ''
