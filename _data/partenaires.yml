@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Koala Crazy Games
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/koalacrazygames.png"
+  href: https://www.koalacrazygames.be/
+  bouton: Site Web
+  couleur_bouton: ''
 - name: ACE Tennis Academy asbl
   categorie: partenaires pédagogiques
   online: true
