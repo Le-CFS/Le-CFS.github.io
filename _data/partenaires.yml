@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Ecole Aurore Jette
+  categorie: Partenaires écoles
+  online: true
+  logo: "/assets/images/ecoleaurorejette.png"
+  href: https://www.ecole-aurore.be/
+  bouton: Site Web
+  couleur_bouton: ''
 - name: Roc Events asbl
   categorie: Partenaires de stages
   online: true
