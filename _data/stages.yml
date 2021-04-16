@@ -1,5 +1,99 @@
 ---
 stages:
+- name: Fun Summer
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Espagne
+    ville: Brabant Wallon
+    age: 15-18 ans
+    description: '<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Escalade
+      des rochers, nage, saute des falaises et explore des grottes immergées. Pour
+      compléter ce stage, trois activités très appréciées te sont proposées : le coasteering,
+      le jet ski et l''initiation à la plongée. Un programme unique, les pieds dans
+      l''eau !</p><p><strong>Encadrement</strong><br>L’encadrement est assuré 24h/24
+      par le staff de moniteurs de BDK.</p><p><strong>Logement - RV Hotels Nautic
+      Park 4* (Platja d’Aro)</strong><br>L’hôtel Nautic Park**** est de construction
+      récente et très moderne. Il dispose de 141 chambres réparties sur 4 étages.
+      Cet hôtel à la luminosité parfaite est situé dans le quartier calme du port
+      de plaisance, à 5 minutes de la plage et à 15 minutes du centre-ville. L’établissement
+      à l’architecture contemporaine possède de grands salons, un bar intérieur et
+      extérieur et une grande piscine. Confortables et lumineuses, toutes les chambres
+      sont équipées d’un balcon, d’une salle de bain complète avec sèche-cheveux,
+      d’une TV satellite, d’un téléphone, de la climatisation, d’un coffre-fort et
+      d''un frigo. Le séjour est prévu en pension complète avec eau à table. Tous
+      les repas sont servis sous forme de buffets avec show-cooking.</p><p><strong>Les
+      excursions</strong><br>Pour pimenter le séjour, nous proposons quelques excursions
+      à la carte. Celles-ci sont organisées par nos soins et sont disponibles pour
+      tous les groupes de stages et pour toutes les dates de séjours.</p><p>Le package
+      complet des 4 excursions t''est offert au prix de 125,00 € au lieu de 130,00
+      €.</p><ul><li><p>Sortie en bâteau et snorkeling (40€)</p></li><li><p>Visite
+      de Barcelone (30€)</p></li><li><p>Bowling (10€)</p></li><li><p>Parcs aquatiques
+      Waterworld et Aquadiver (50€)</p></li></ul><p>Dans un souci d''organisation
+      pratique, nous rendons <strong>obligatoire</strong> l''excursion "Parcs aquatiques".
+      Les stagiaires bénéficieront d''une après-midi à Aquadiver le jour de leur arrivée
+      et une journée au parc aquatique "Waterworld" le jour du départ.</p><p>Les excursions
+      sont à payer en liquide sur place le jour de l''arrivée.</p><p>Si tu n''y participes
+      pas, pas de panique ! D''autres activités gratuites te seront proposées (plage,
+      piscine, jeux, balades,...).</p><p><strong>Trajets en autocar</strong><br>Le
+      voyage est effectué en autocar de luxe afin de privilégier l’aspect confort
+      et la sécurité matérielle. Deux conducteurs expérimentés assurent le transfert
+      selon la réglementation en vigueur (temps de conduite, arrêts, repos…). Les
+      moniteurs et entraineurs présents lors du voyage assureront l’encadrement des
+      participants.</p>'
+    infos: []
+- name: Cool Summer
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Espagne
+    ville: Brabant Wallon
+    age: 15-18 ans
+    description: '<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Le
+      stage Cool Summer va te faire vibrer ! En route pour des activités terrestres
+      hors du commun : Paintball, Segway et Tyrolienne dans un parc aventure. Un cocktail
+      parfait ! Le tout additionné de moments plage et piscine pour profiter de l''été
+      comme il se doit.</p><p><strong>Encadrement</strong><br>L’encadrement est assuré
+      24h/24 par le staff de moniteurs de BDK.</p><p><strong>Logement - RV Hotels
+      Nautic Park 4* (Platja d’Aro)</strong><br>L’hôtel Nautic Park**** est de construction
+      récente et très moderne. Il dispose de 141 chambres réparties sur 4 étages.
+      Cet hôtel à la luminosité parfaite est situé dans le quartier calme du port
+      de plaisance, à 5 minutes de la plage et à 15 minutes du centre-ville. L’établissement
+      à l’architecture contemporaine possède de grands salons, un bar intérieur et
+      extérieur et une grande piscine. Confortables et lumineuses, toutes les chambres
+      sont équipées d’un balcon, d’une salle de bain complète avec sèche-cheveux,
+      d’une TV satellite, d’un téléphone, de la climatisation, d’un coffre-fort et
+      d''un frigo. Le séjour est prévu en pension complète avec eau à table. Tous
+      les repas sont servis sous forme de buffets avec show-cooking.</p><p><strong>Les
+      excursions</strong><br>Pour pimenter le séjour, nous proposons quelques excursions
+      à la carte. Celles-ci sont organisées par nos soins et sont disponibles pour
+      tous les groupes de stages et pour toutes les dates de séjours.</p><p>Le package
+      complet des 4 excursions t''est offert au prix de 125,00 € au lieu de 130,00
+      €.</p><ul><li><p>Sortie en bâteau et snorkeling (40€)</p></li><li><p>Visite
+      de Barcelone (30€)</p></li><li><p>Bowling (10€)</p></li><li><p>Parcs aquatiques
+      Waterworld et Aquadiver (50€)</p></li></ul><p>Dans un souci d''organisation
+      pratique, nous rendons <strong>obligatoire</strong> l''excursion "Parcs aquatiques".
+      Les stagiaires bénéficieront d''une après-midi à Aquadiver le jour de leur arrivée
+      et une journée au parc aquatique "Waterworld" le jour du départ.</p><p>Les excursions
+      sont à payer en liquide sur place le jour de l''arrivée.</p><p>Si tu n''y participes
+      pas, pas de panique ! D''autres activités gratuites te seront proposées (plage,
+      piscine, jeux, balades,...).</p><p><strong>Trajets en autocar</strong><br>Le
+      voyage est effectué en autocar de luxe afin de privilégier l’aspect confort
+      et la sécurité matérielle. Deux conducteurs expérimentés assurent le transfert
+      selon la réglementation en vigueur (temps de conduite, arrêts, repos…). Les
+      moniteurs et entraineurs présents lors du voyage assureront l’encadrement des
+      participants.</p>'
+    infos: []
 - name: Top Summer
   categorie: Internat
   img: ''
@@ -40,7 +134,7 @@ stages:
       et une journée au parc aquatique "Waterworld" le jour du départ.</p><p>Les excursions
       sont à payer en liquide sur place le jour de l'arrivée.</p><p>Si tu n'y participes
       pas, pas de panique ! D'autres activités gratuites te seront proposées (plage,
-      piscine, jeux, balades, ...).</p><p><strong>Trajets en autocar</strong><br>Le
+      piscine, jeux, balades,...).</p><p><strong>Trajets en autocar</strong><br>Le
       voyage est effectué en autocar de luxe afin de privilégier l’aspect confort
       et la sécurité matérielle. Deux conducteurs expérimentés assurent le transfert
       selon la réglementation en vigueur (temps de conduite, arrêts, repos…). Les
