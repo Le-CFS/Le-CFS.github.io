@@ -81,18 +81,19 @@ slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: Stages été
-    titre_overlay: Stages été
-    img: "/assets/images/stageete.jpg"
+  - name: Stages all inclusive
+    titre_overlay: Stages all inclusive
+    img: "/assets/images/stagesallinclusive.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
-    description: 'Viens vivre un moment fun, sportif et créatif durant les vacances
-      en toute sécurité ! N''attends plus et viens découvrir nos nombreux stages. '
-    lieu: Bruxelles - Brabant Wallon
-    age: 2.5-12 ans
+    description: "Viens vivre une expérience unique durant les vacances d'été en toute
+      sécurité ! N'attends plus et viens découvrir nos nombreux stages en internat.
+      \n2 formules proposées: En Belgique et à l'étranger. "
+    lieu: Belgique - Croatie - Espagne - Italie
+    age: A partir de 6 ans
   - name: Robotique
     titre_overlay: Robotique
     img: "/assets/images/stages/robotique2.png"
