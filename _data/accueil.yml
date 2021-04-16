@@ -82,7 +82,7 @@ une:
   nom: Stages à la Une
   images:
   - name: Stages été
-    titre_overlay: Stages enfants
+    titre_overlay: Stages été
     img: "/assets/images/stageete.jpg"
     bouton: Plus d'info
     nouveau: oui
