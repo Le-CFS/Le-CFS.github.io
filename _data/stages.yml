@@ -1,5 +1,49 @@
 ---
 stages:
+- name: Basketball
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Croatie
+    ville: Brabant Wallon
+    age: 8-18 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Si
+      tu es fan de basketball, que tu manges basket, bois basket et respire basket,
+      alors ce stage est fait pour toi ! Perfectionne-toi, améliore ta coordination
+      et ta condition physique et met les conseils de ton coach en application lors
+      de petits matchs amicaux.</p><p>Les coaches de Basketball t'attendent afin de
+      partager avec toi leur passion et leur savoir. Coaching individuel, travail
+      de perfectionnement, matches, etc. Un programme de haute qualité à portée de
+      main !</p><p><strong>Encadrement</strong><br>L’encadrement est assuré 24h/24
+      par le staff de moniteurs de BDK.</p><p><strong>Logement - L'Hostel Link (Opatija)</strong><br>L’Hostel
+      Link est la seule et unique auberge de jeunesse moderne sur la Riviera d'Opatija.
+      Composée de 114 chambres modernes, cette auberge, située à peine à quelques
+      mètres de la plage, vous donne une vue magnifique sur la mer depuis votre chambre.
+      L'Hostel Link n'est qu'à seulement 20 km de la gare routière de Rijeka et à
+      50km de l'aéroport de Rijeka. Dans un style urbain et moderne, toutes les chambres
+      sont équipées de lits simples ou superposés, d’une salle de douche, d’une TV
+      satellite, du WIFI, d'une climatisation, d'une garde-robe et d'un coffre-fort.
+      Le séjour est prévu en pension complète avec eau à table. Tous les repas sont
+      servis sous forme de buffet.</p><p><strong>Les excursions</strong><br>Pour pimenter
+      le séjour, nous proposons quelques excursions à la carte. Celles-ci sont organisées
+      par nos soins et sont disponibles pour tous les groupes de stages et pour toutes
+      les dates de séjours.</p><p>Le package complet des 2 excursions est offert au
+      prix de 50€.<br>Dans un souci d'organisation, nous rendons ces activités obligatoires
+      pour tous.</p><ul><li><p>Visite de Rijeka</p></li><li><p>Excursion à l'île de
+      Krk</p></li></ul><p>Les excursions sont à payer en liquide sur place le jour
+      de l'arrivée.</p><p><strong>Trajets en autocar</strong><br>Le voyage est effectué
+      en autocar de luxe afin de privilégier l’aspect confort et la sécurité matérielle.
+      Deux conducteurs expérimentés assurent le transfert selon la réglementation
+      en vigueur (temps de conduite, arrêts, repos…). Les moniteurs et entraineurs
+      présents lors du voyage assureront l’encadrement des participants.</p><p>Les
+      trajets sont organisés au départ de Mons, Charleroi, Spy, Namur, Wanlin, Libramont,
+      et Arlon.</p>"
+    infos: []
 - name: Vacances Ados
   categorie: Internat
   img: ''
