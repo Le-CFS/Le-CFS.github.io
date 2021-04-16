@@ -1,5 +1,54 @@
 ---
 stages:
+- name: Vacances Jeunes
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Espagne
+    ville: Brabant Wallon
+    age: 15-18 ans
+    description: <p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Cet
+      été, prends le contrôle du séjour Vacances Jeunes ! Piscine, détente, plage
+      ou shopping ? Programme ta journée comme tu le souhaites. Notre moniteur est
+      là pour te proposer des animations et s'assurer que tu respectes certains horaires.
+      Le reste du temps, tu es libre de vivre tes vacances en toute autonomie avec
+      tes ami(e)s.</p><p><strong>Encadrement</strong><br>L’encadrement est assuré
+      24h/24 par le staff de moniteurs de BDK.</p><p><strong>Logement - Sant Jordi
+      3*</strong><br>L’hôtel Sant Jordi 3*** est composé de 167 appartements situé
+      non loin de la crique du Beau Dona et du célèbre Camì de Ronda. Le centre de
+      Platja d'Aro se trouve à 900 m de l'aparthotel et à quelques mètres de la plage.
+      Modernes et fonctionnels, les appartements sont aménagés afin de pouvoir y mettre
+      3 à 4 personnes. On y trouve une petite cuisine équipée, terrasse, salle de
+      bain complète, téléphone, coffre-fort, TV satellite, air conditionné et chauffage.
+      Le séjour est prévu en pension complète avec eau à table. Tous les repas sont
+      servis sous forme de buffets avec show-cooking.</p><p>La répartition des chambres
+      se fait à l'arrivée et selon les affinités. Toutes les chambres mises à votre
+      disposition seront des chambres multiples de 3 ou 4 personnes. Toutefois, avec
+      un accord écrit des responsables, des chambres mixtes pourront être organisées
+      si cela est demandé lors de la réservation.</p><p><strong>Les excursions</strong><br>Pour
+      pimenter le séjour, nous proposons quelques excursions à la carte. Celles-ci
+      sont organisées par nos soins et sont disponibles pour tous les groupes de stages
+      et pour toutes les dates de séjours.</p><p>Le package complet des 4 excursions
+      t'est offert au prix de 125,00 € au lieu de 130,00 €.</p><ul><li><p>Sortie en
+      bâteau et snorkeling (40€)</p></li><li><p>Visite de Barcelone (30€)</p></li><li><p>Bowling
+      (10€)</p></li><li><p>Parcs aquatiques Waterworld et Aquadiver (50€)</p></li></ul><p>Dans
+      un souci d'organisation pratique, nous rendons <strong>obligatoire</strong>
+      l'excursion "Parcs aquatiques". Les stagiaires bénéficieront d'une après-midi
+      à Aquadiver le jour de leur arrivée et une journée au parc aquatique "Waterworld"
+      le jour du départ.</p><p>Les excursions sont à payer en liquide sur place le
+      jour de l'arrivée.</p><p>Si tu n'y participes pas, pas de panique ! D'autres
+      activités gratuites te seront proposées (plage, piscine, jeux, balades, ...).</p><p><strong>Trajets
+      en autocar</strong><br>Le voyage est effectué en autocar de luxe afin de privilégier
+      l’aspect confort et la sécurité matérielle. Deux conducteurs expérimentés assurent
+      le transfert selon la réglementation en vigueur (temps de conduite, arrêts,
+      repos…). Les moniteurs et entraineurs présents lors du voyage assureront l’encadrement
+      des participants.</p>
+    infos: []
 - name: Cinéma
   categorie: Internat
   img: ''
