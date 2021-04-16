@@ -2,7 +2,7 @@
 stages:
 - name: Danse moderne
   categorie: Internat
-  img: ''
+  img: "/assets/images/boutonsactivites/parascolaires/hiphop.png"
   online: false
   nouveau: true
   stage_une: false
