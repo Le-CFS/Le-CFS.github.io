@@ -81,9 +81,9 @@ slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: Stages enfants
+  - name: Stages été
     titre_overlay: Stages enfants
-    img: "/assets/images/stages/stagesenfants.png"
+    img: "/assets/images/stageete.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
