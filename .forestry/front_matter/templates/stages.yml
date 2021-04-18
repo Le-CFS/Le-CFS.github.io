@@ -78,6 +78,10 @@ fields:
         - Brabant Wallon
         - Bruxelles
         - Liège
+        - Espagne
+        - Croatie
+        - Stoumont
+        - Transinne
         source:
           type: simple
           section: 
