@@ -76,21 +76,21 @@ stages_enfants:
   - title: Un stage pour tous
     url: "/stages/activites/"
     title_mobile: Catalogue des stages
-    sousmenu:
-    - title: Les Petits Bouts
-      url: "/stages/activites/petits_bouts/"
-    - title: Découvertes sportives et culturelles
-      url: "/stages/activites/decouvertes_sportives_et_culturelles"
-    - title: Danse et Gymnastique
-      url: "/stages/activites/danse_et_gymnastique/"
-    - title: Activités Fun
-      url: "/stages/activites/activites_fun/"
-    - title: Activités sportives
-      url: "/stages/activites/activites_sportives/"
-    - title: Activités artistiques et loisirs
-      url: "/stages/activites/activites_artistiques_et_loisirs/"
-    - title: Internat
-      url: "/stages/activites/stages_en_internat/"
+    # sousmenu:
+    # - title: Les Petits Bouts
+    #   url: "/stages/activites/petits_bouts/"
+    # - title: Découvertes sportives et culturelles
+    #   url: "/stages/activites/decouvertes_sportives_et_culturelles"
+    # - title: Danse et Gymnastique
+    #   url: "/stages/activites/danse_et_gymnastique/"
+    # - title: Activités Fun
+    #   url: "/stages/activites/activites_fun/"
+    # - title: Activités sportives
+    #   url: "/stages/activites/activites_sportives/"
+    # - title: Activités artistiques et loisirs
+    #   url: "/stages/activites/activites_artistiques_et_loisirs/"
+    # - title: Internat
+    #   url: "/stages/activites/stages_en_internat/"
   - title: Organisation des stages
     url: "/stages/protocole/"
     online_mobile: false
