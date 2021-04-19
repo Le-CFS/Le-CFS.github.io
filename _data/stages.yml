@@ -1,8 +1,8 @@
 ---
 stages:
-- name: Meilleur Pâtissier
+- name: Meilleur pâtissier
   categorie: Activités artistiques et loisirs
-  img: ''
+  img: "/assets/images/meilleurpatissier.jpg"
   online: true
   nouveau: true
   stage_une: false
