@@ -84,6 +84,9 @@ fields:
         - Croatie
         - Stoumont
         - Transinne
+        - Italie
+        - Hatrival
+        - Oostduinkerke
         source:
           type: simple
           section: 
