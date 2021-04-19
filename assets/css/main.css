@@ -47,12 +47,6 @@ p{
     letter-spacing:0px;
     margin-bottom:10px
 }
-ul,li{
-    padding:0
-}
-ul,ol{
-    padding:0
-}
 .orderlist li{
     list-style:block;
     margin-left:15px
@@ -89,7 +83,6 @@ ol li{
 }
 li{
     color:#444;
-    font-size:16px;
     line-height:20px;
     letter-spacing:0px
 }
