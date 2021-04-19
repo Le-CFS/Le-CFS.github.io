@@ -1,5 +1,28 @@
 ---
 stages:
+- name: Meilleur Pâtissier
+  categorie: Activités artistiques et loisirs
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 8-12 ans
+    description: '<p>Votre enfant se passionne pour la pâtisserie? Alors ce stage
+      est fait pour lui !</p><p class="xmsonormal">Au menu: numbercakes, éclairs,
+      tartes, gâteaux fourrés et décorés mais aussi pains, sandwichs, pains au chocolat
+      et croissants.</p><p class="xmsonormal">Les 3 heures de cuisine sont complétées
+      par 3 heures de multisports (basketball, mini-foot, volley, handball, unihoc,
+      baseball, etc.)</p><p class="xmsonormal">Une semaine de découverte et de création
+      en pâtisserie, alliée au sport.</p><p class="xmsonormal">Aussi bien pour les
+      garçons que pour les filles.</p>'
+    infos:
+    - info_line: A Verlaine du 2 au 6/08/21 (E5)
+      alias: A Verlaine
 - name: Danse moderne
   categorie: Internat
   img: "/assets/images/boutonsactivites/parascolaires/hiphop.png"
