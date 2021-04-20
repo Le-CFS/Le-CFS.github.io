@@ -3817,10 +3817,10 @@ img{
     border-radius: 5px !important; 
 }
 .btn-stage-all{
-
+    border: 2px solid #03559F !important;
 }
 .btn-stage-all:hover, .btn-stage-all:focus, .btn-stage-all.active{
-
+    background: #03559F !important;
 }
 .btn-stage-bouts{
     border: 2px solid #98C01E !important;
@@ -3859,8 +3859,8 @@ img{
     background: #E2071B !important;
 }
 .btn-stage-internat{
-    
+    border: 2px solid #C09949 !important;
 }
 .btn-stage-internat:hover, .btn-stage-internat:focus, .btn-stage-internat.active{
-
+    background: #C09949 !important;
 }
