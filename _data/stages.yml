@@ -1617,7 +1617,7 @@ stages:
   inscription: ''
   location:
   - alias: 'Aventure XXL '
-    ville: Brabant Wallon
+    ville: Espagne
     age: NIV1 12-13 ans / NIV2 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p><strong>Sports
       et activités aventure</strong> sous le soleil de l'Espagne, le tout dans un
@@ -1646,7 +1646,7 @@ stages:
   inscription: ''
   location:
   - alias: Stoumont
-    ville: Brabant Wallon
+    ville: Stoumont
     age: 10-15 ans
     description: "<p><em>Stage en collaboration avec l’</em><strong><em>ADSL</em></strong></p><p>Cette
       semaine promet un stage Fun et la découverte d’une région magnifique près de
@@ -1676,7 +1676,7 @@ stages:
   inscription: ''
   location:
   - alias: Stoumont
-    ville: Brabant Wallon
+    ville: Stoumont
     age: 8-16 ans
     description: "<p><em>En collaboration avec l'</em><strong><em>Ecole de football
       DM Academy &amp; ADSL</em></strong></p><p>Votre enfant est un vrai mordu du
