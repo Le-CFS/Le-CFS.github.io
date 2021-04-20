@@ -7,6 +7,7 @@ description: L' ASBL CFS vous offre un large choix de stage pour enfants de 2 à
   dans le Brabant wallon, à Bruxelles et à Liège.
 banner: ''
 image: ''
+js: portfolio.js
 
 ---
 {% include annonces/stages.html %}
@@ -14,13 +15,51 @@ image: ''
 <p>Ci-dessous tous les stages que nous vous proposons.<br>
 Vous pouvez sélectionner une catégorie pour peaufiner votre recherche.</p>
 
-<div class="row">
-	{% assign liste_stages = site.data.stages.stages | sort: "name" %}
-	{% for stage in liste_stages %}
-  {% if stage.online %}
+<div id="content">
+    <section id="portfolio" class="section">
+         <div class="row">
+            <div class="col-md-12">
+              	<div class="controls text-center wow fadeInUpQuick" data-wow-delay=".6s">
+	                <a class="filter active btn-stage btn-stage-all btn btn-common col-md-12 btn-block" data-filter="all">
+	                  Tous les stages 
+	                </a>
+	                <a class="filter btn-stage btn-stage-bouts btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".bouts">
+	                  Les Petits Bouts 
+	                </a>
+	                <a class="filter btn-stage btn-stage-culturelles btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".culturelles">
+	                  Découvertes Culturelles
+	                </a>
+	                <a class="filter btn-stage btn-stage-danse btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".danse">
+	                  Danse & Gymnastique
+	                </a>
+	                <a class="filter btn-stage btn-stage-fun btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".fun">
+	                  Activités Fun 
+	                </a>
+	                <a class="filter btn-stage btn-stage-sportives btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".sportives">
+	                  Activités Sportives 
+	                </a>
+	                <a class="filter btn-stage btn-stage-artistiques btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".artistiques">
+	                  Artistique 
+	                </a>
+	                <a class="filter btn-stage btn-stage-internat btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".internat">
+	                  Internat - All In
+	                </a>
+              	</div>
+            </div>
+            
+            <div id="portfolio" class="row wow fadeInUpQuick" data-wow-delay="0.8s">
 
-{% include coleen/liste_cartes.html %}
+				{% assign liste_stages = site.data.stages.stages | sort: "name" %}
+				
+				{% for stage in liste_stages %}
+  					{% if stage.online %}
 
-  {% endif %}
-	{% endfor %}
+						{% include coleen/liste_cartes.html %}
+
+  					{% endif %}
+				{% endfor %}
+
+        	</div>
+        </div>
+	</section>
 </div>

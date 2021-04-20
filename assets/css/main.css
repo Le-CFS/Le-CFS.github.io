@@ -301,9 +301,6 @@ strong{
 .header-style-3 .hero-content-v2 p{
     color:#fff
 }
-.section{
-    padding:30px 0
-}
 .footer-info{
     padding:25px 0
 }
@@ -2853,18 +2850,12 @@ address i{
     right:auto;
     left:-10px
 }
-#portfolio{
-    background:#F6F6F6;
-    padding:60px 0;
-    width:100%
-}
 #portfolio .mix{
-    padding:0;
     display:none
 }
 .controls{
     text-align:center;
-    padding:20px
+    padding-bottom: 20px;
 }
 a:not([href]):not([tabindex]){
     color:#222
@@ -2887,31 +2878,6 @@ a:focus:not([href]):not([tabindex]),a:hover:not([href]):not([tabindex]){
 }
 .portfolio-img img{
     width:100%
-}
-.portfoli-content{
-    width:100%;
-    position:absolute;
-    height:100%;
-    opacity:0;
-    top:0;
-    -webkit-transition:opacity 0.8s cubic-bezier(0.19, 1, 0.22, 1);
-    transition:opacity 0.8s cubic-bezier(0.19, 1, 0.22, 1)
-}
-.portfoli-content:before{
-    background-color:RGBA(235, 88, 111, 0.7);
-    top:15px;
-    left:15px;
-    bottom:15px;
-    right:15px;
-    content:'';
-    position:absolute;
-    -webkit-transform:scale(0.8);
-    -moz-transform:scale(0.8);
-    -ms-transform:scale(0.8);
-    -o-transform:scale(0.8);
-    transform:scale(0.8);
-    -webkit-transition:all 400ms ease;
-    transition:all 400ms ease
 }
 .sup-desc-wrap{
     display:table;
@@ -3835,4 +3801,59 @@ img{
 }
 .col-xs-offset-0{
     margin-left:0
+}
+
+.btn-stage{
+    margin-bottom: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    border-radius: 5px !important; 
+}
+.btn-stage-all{
+    border: 2px solid #03559F !important;
+}
+.btn-stage-all:hover, .btn-stage-all:focus, .btn-stage-all.active{
+    background: #03559F !important;
+}
+.btn-stage-bouts{
+    border: 2px solid #98C01E !important;
+}
+.btn-stage-bouts:hover, .btn-stage-bouts:focus, .btn-stage-bouts.active{
+    background: #98C01E !important;
+}
+.btn-stage-culturelles{
+    border: 2px solid #0095D5 !important;
+}
+.btn-stage-culturelles:hover, .btn-stage-culturelles:focus, .btn-stage-culturelles.active{
+    background: #0095D5 !important;
+}
+.btn-stage-danse{
+    border: 2px solid #EB680D !important;
+}
+.btn-stage-danse:hover, .btn-stage-danse:focus, .btn-stage-danse.active{
+    background: #EB680D !important;
+}
+.btn-stage-fun{
+    border: 2px solid #911D7E !important;
+}
+.btn-stage-fun:hover, .btn-stage-fun:focus, .btn-stage-fun.active{
+    background: #911D7E !important;
+}
+.btn-stage-sportives{
+    border: 2px solid #FABB00 !important;
+}
+.btn-stage-sportives:hover, .btn-stage-sportives:focus, .btn-stage-sportives.active{
+    background: #FABB00 !important;
+}
+.btn-stage-artistiques{
+    border: 2px solid #E2071B !important;
+}
+.btn-stage-artistiques:hover, .btn-stage-artistiques:focus, .btn-stage-artistiques.active{
+    background: #E2071B !important;
+}
+.btn-stage-internat{
+    border: 2px solid #C09949 !important;
+}
+.btn-stage-internat:hover, .btn-stage-internat:focus, .btn-stage-internat.active{
+    background: #C09949 !important;
 }
