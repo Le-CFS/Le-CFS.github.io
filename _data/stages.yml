@@ -923,7 +923,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 12-18 ans
     description: "<p><em>En partenariat avec E</em><strong><em>uro Space Center</em></strong></p><p>Laisse-toi
       porter par l’envie des grands espaces et les sensations que procurent un <strong>vol
@@ -964,7 +964,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 13-18 ans
     description: "<p><em>En partenariat avec</em><strong><em> Euro Space Center</em></strong></p><p>Système
       de navigation, émission en direct à la télévision, surveiller notre planète
@@ -1005,7 +1005,7 @@ stages:
   inscription: ''
   location:
   - alias: 'Satellite Camp 1 '
-    ville: Brabant Wallon
+    ville: Transinne
     age: 13-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Système
       de navigation, émission en direct à la télévision, surveiller notre planète
@@ -1046,7 +1046,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 11-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
       rêves de voir <strong>décoller ta propre fusée</strong> ? Tu devras alors mettre
@@ -1085,7 +1085,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 11-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
       rêves de voir <strong>décoller ta propre</strong> <strong>fusée </strong>? Tu
@@ -1171,7 +1171,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 12-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Voilà
       quelques semaines que tu es arrivé sur la planète Mars. Tu mènes une expérience
@@ -1207,7 +1207,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 12-16 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
       veux découvrir tous les secrets de <strong>fabrication </strong>et de <strong>pilotage
@@ -1247,7 +1247,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 6-8 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
       désires t'initier à la découverte des corps célestes qui nous entourent ? Vient
@@ -1279,7 +1279,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 9-12 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Tu
       désires t'initier à la découverte des corps célestes qui nous entourent ? Vient
@@ -1321,7 +1321,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 13-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Parce
       qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage
@@ -1371,7 +1371,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 6-8 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Parce
       qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage
@@ -1401,7 +1401,7 @@ stages:
   inscription: ''
   location:
   - alias: Euro Space Center
-    ville: Brabant Wallon
+    ville: Transinne
     age: 9-18 ans
     description: "<p><em>En partenariat avec </em><strong><em>Euro Space Center</em></strong></p><p>Parce
       qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage
