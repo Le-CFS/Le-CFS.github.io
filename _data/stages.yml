@@ -1512,28 +1512,9 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: 'Padel-Tennis - Niveau 1 '
-    ville: Brabant Wallon
-    age: 12-13 ans
-    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
-      de découvrir ce nouveau sport dérivé du tennis qui fait fureur partout en Europe
-      ! Le stage Padel-Tennis est pour vous !</p><p>Au programme : deux séances de
-      <strong>Padel-Tennis </strong>chaque jour et beach sports (beach volley, jeux
-      de plages, etc.), trekking côtier, découverte de Platja d'Aro l’autre partie
-      de la journée. L'occasion de vivre une semaine <strong>détente-vacances</strong>
-      : sports, piscine, plage, et mer.</p><p>Les animations plage et piscine sont
-      encadrées par notre équipe de moniteurs brevetés.</p><p>Une excursion à Barcelone
-      et à Roca del Vales (outlet), ainsi qu’une pool party sont comprises dans le
-      prix du séjour.</p><p>Deux sorties (Aquapark et banane aquatique/slider aqua)
-      sont proposées moyennant un supplément de 35€ pour chaque.</p>"
-    infos:
-    - alias: Internat
-      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
-        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
-        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  - alias: Padel-Tennis - Niveau 2
-    ville: Brabant Wallon
-    age: 14-17 ans
+  - alias: 'Padel-Tennis '
+    ville: Espagne
+    age: NIV1 12-13 ans / NIV2 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL</em></strong></p><p>Envie
       de découvrir ce nouveau sport dérivé du tennis qui fait fureur partout en Europe
       ! Le stage Padel-Tennis est pour vous !</p><p>Au programme : deux séances de
@@ -1560,7 +1541,7 @@ stages:
   inscription: ''
   location:
   - alias: 'Nautic on the Beach '
-    ville: Brabant Wallon
+    ville: Espagne
     age: NIV1 12-13 ans / NIV2 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Envie
       de goûter aux joies des <strong>sports nautiques</strong> sous le soleil de
@@ -1588,7 +1569,7 @@ stages:
   inscription: ''
   location:
   - alias: Initiation Golf
-    ville: Brabant Wallon
+    ville: Espagne
     age: NIV1 12-13 ans / NIV2 14-17 ans
     description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Envie
       de découvrir les joies d’un sport passionnant qui fait fureur chez les jeunes
