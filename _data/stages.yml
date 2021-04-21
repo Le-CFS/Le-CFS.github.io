@@ -4140,15 +4140,21 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême </em></strong><em>(plus
-      de 20 ans d'expérience dans l'apprentissage de skateboard et BMX)</em></p><p>Ce
-      stage prévoit un perfectionnement au BMX. Nos riders vont apprendre de nouvelles
-      figures dans une ambiance propre à ces sports extrêmes. </p><p>Lors de ce stage
-      d'exception, les jeunes sont encadrés par des professionnels dans leur domaine.
-      La plupart des participants sont généralement confirmés. Ceci dit nous accueillons
-      avec plaisir les débutants et mettons tout en œuvre pour qu'ils trouvent leurs
-      places parmi nos groupes.</p><p>Chaque jour, les enfants partent découvrir un
-      nouveau Skate Park : Louvain, Mons, Alost, Evere...</p>"
+    description: '<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong><em>
+      (plus de 20 ans d''expérience dans l''apprentissage de skateboard, BMX et Trottinette
+      Freestyle)</em></p><p>Ce stage prévoit un perfectionnement au BMX. Nos rider
+      vont apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes.
+      <br>Lors de ce stage d''exception, les jeunes sont encadrés par des professionnels
+      dans leur domaine. La plupart des participants sont généralement confirmés.
+      Ceci dit nous accueillons avec plaisir les débutants et mettons tout en œuvre
+      pour qu''ils trouvent leurs places parmi nos groupes.<br>Chaque jour, les enfants
+      partent découvrir un nouveau Skate Park : Louvain, Mons, Alost, Evere...</p><p><strong><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les déplacements en transport en commun
+      sont assurés par le CFS. </strong>Lieu de départ : la gare de Rixensart.</p><p><strong><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les enfants doivent amener leur BMX et
+      toutes les protections.</strong></p>'
     infos:
     - alias: Equipement
       info_line: Les enfants doivent amener leur BMX et toutes les protections.
@@ -4415,15 +4421,18 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême </em></strong><em>(plus
-      de 20 ans d'expérience dans l'apprentissage de skateboard, BMX et trottinette)</em></p><p>Ce
-      stage prévoit un perfectionnement à la Trottinette. Ils vont apprendre de nouvelles
-      figures dans une ambiance propre à ces sports extrêmes.</p><p>Lors de ce stage
-      d'exception, les jeunes sont encadrés par des professionnels dans leur domaine.
-      La plupart des participants sont généralement confirmés. Ceci dit nous accueillons
-      avec plaisir les débutants et mettons tout en œuvre pour qu'ils trouvent leurs
-      places parmi nos groupes.</p><p>Chaque jour, les enfants partent découvrir un
-      nouveau Skate Park : Louvain, Mons, Alost, Evere...</p>"
+    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong><em>
+      (plus de 20 ans d'expérience dans l'apprentissage de skateboard, BMX et Trottinette
+      Freestyle)</em></p><p>Ce stage prévoit un perfectionnement à la trottinette
+      Freestyle. Les as de la Trot' vont apprendre de nouvelles figures dans une ambiance
+      propre à ces sports extrêmes. <br>Lors de ce stage d'exception, les jeunes sont
+      encadrés par des professionnels dans leur domaine. La plupart des participants
+      sont généralement confirmés. Ceci dit nous accueillons avec plaisir les débutants
+      et mettons tout en œuvre pour qu'ils trouvent leurs places parmi nos groupes.<br>Chaque
+      jour, les enfants partent découvrir un nouveau Skate Park : Louvain, Mons, Alost,
+      Evere...</p><p><strong>Les déplacements en transport en commun sont assurés
+      par le CFS. </strong>Lieu de départ : la gare de Rixensart.</p><p><strong>Les
+      enfants doivent amener leur trottinette et toutes les protections.</strong></p>"
     infos:
     - alias: Equipement
       info_line: Les enfants doivent amener leur trottinette et toutes les protections.
