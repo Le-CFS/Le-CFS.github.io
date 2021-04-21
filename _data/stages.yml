@@ -2,7 +2,7 @@
 stages:
 - name: Néerlandais
   categorie: Internat
-  img: ''
+  img: "/assets/images/banner/activites_et_infos/ecoledesdevoirs.png"
   online: false
   nouveau: true
   stage_une: false
