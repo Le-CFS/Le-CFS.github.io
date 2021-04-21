@@ -2,7 +2,7 @@
 stages:
 - name: Sports Nautiques
   categorie: Internat
-  img: ''
+  img: "/assets/images/anniversaires/activites/nautifun.png"
   online: false
   nouveau: true
   stage_une: false
