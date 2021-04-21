@@ -1,12 +1,85 @@
 ---
 stages:
+- name: Sports Nautiques
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Oostduinkerke
+    ville: Oostduinkerke
+    age: 8-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Profite
+      de cette proximité inédite avec la mer pour découvrir trois activités nautiques.
+      Découvre les joies de la glisse, maitrise le vent et profite pleinement de ton
+      séjour pour t'initier aux sports dédiés à la côte belge.</p><p><strong>Accueil
+      et départ</strong><br>L’accueil a lieu à Oostduinkerke entre 19h30 et 20h00
+      (les enfants doivent avoir soupé !) et les départs se font le samedi suivant
+      entre 9h00 et 10h00 le matin.</p><p><strong>Logement - La Rose des Sables</strong><br>Le
+      séjour est prévu en pension complète avec eau à table.</p><p><strong>Repas,
+      collations et boissons</strong><br>Les enfant doivent avoir soupé avant d'arriver
+      au stage. Pendant tout le séjour, ils profiteront d'un petit déjeuner, d'une
+      collation, d'un repas chaud ainsi qu'un repas froid/tartines chaque jour. Bien
+      sûr vous pouvez prévoir des petits encas à mettre dans la valise de votre enfant
+      mais ce n'est pas nécessaire.</p><p><strong>Participation à nos séjours en internat</strong><br>Quelques
+      règles particulières sont à respecter :</p><ul><li><p>Il vous est demandé de
+      respecter les horaires qui vous sont communiqués via les mails de confirmation
+      d’inscription à nos stages.</p></li><li><p>Il est important de prévoir des draps
+      pour la literie ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement
+      de base pour la semaine : le nécessaire de toilette (essuies de bain, gants
+      de toilettes, savon, brosse à dent, dentifrice, etc.), pyjama et pantoufles,
+      maillot et essuie de piscine pour les jeux d'eau, sous-vêtements et habits pour
+      chaque jour, vêtements chauds pour le soir, vêtements de sport et vêtement de
+      pluie.</p></li></ul>"
+    infos: []
+- name: Equitation
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Oostduinkerke
+    ville: Oostduinkerke
+    age: 8-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Pour
+      débutant, intermédiaire ou confirmé, l'équitation à la côte belge est une expérience
+      mémorable et à ne pas manquer. Apprentissage ou perfectionnement, parcours les
+      décors côtiers à cheval entre terre et mer.</p><p><strong>Accueil et départ</strong><br>L’accueil
+      a lieu à Oostduinkerke entre 19h30 et 20h00 (les enfants doivent avoir soupé
+      !) et les départs se font le samedi suivant entre 9h00 et 10h00 le matin.</p><p><strong>Logement
+      - La Rose des Sables</strong><br>Le séjour est prévu en pension complète avec
+      eau à table.</p><p><strong>Repas, collations et boissons</strong><br>Les enfant
+      doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour, ils profiteront
+      d'un petit déjeuner, d'une collation, d'un repas chaud ainsi qu'un repas froid/tartines
+      chaque jour. Bien sûr vous pouvez prévoir des petits encas à mettre dans la
+      valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong>Participation
+      à nos séjours en internat</strong><br>Quelques règles particulières sont à respecter
+      :</p><ul><li><p>Il vous est demandé de respecter les horaires qui vous sont
+      communiqués via les mails de confirmation d’inscription à nos stages.</p></li><li><p>Il
+      est important de prévoir des draps pour la literie ainsi qu’un sac de couchage
+      et un oreiller.</p></li><li><p>Équipement de base pour la semaine : le nécessaire
+      de toilette (essuies de bain, gants de toilettes, savon, brosse à dent, dentifrice,
+      etc.), pyjama et pantoufles, maillot et essuie de piscine pour les jeux d'eau,
+      sous-vêtements et habits pour chaque jour, vêtements chauds pour le soir, vêtements
+      de sport et vêtement de pluie.</p></li><li><p>Pour le stage d'Equitation : aucun
+      matériel n'est à prévoir hormis une tenue adaptée pour monter à cheval (bottes
+      ou bottines, jogging ou legging). Le centre équestre fournira à chaque enfant
+      une bombe. Toutefois, si votre enfant dispose déjà de son propre matériel, pour
+      son propre confort, il est invité à l'emporter avec lui.</p></li></ul>"
+    infos: []
 - name: Néerlandais
   categorie: Internat
   img: "/assets/images/banner/activites_et_infos/ecoledesdevoirs.png"
   online: false
   nouveau: true
   stage_une: false
-  activation_onglets: true
+  activation_onglets: false
   inscription: ''
   location:
   - alias: Oostduinkerke
