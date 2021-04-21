@@ -4394,15 +4394,21 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême </em></strong><em>(plus
-      de 20 ans d'expérience dans l'apprentissage de skateboard et BMX)</em></p><p>Ce
-      stage prévoit un perfectionnement au Skate. Ils vont apprendre de nouvelles
-      figures dans une ambiance propre à ces sports extrêmes.</p><p>Lors de ce stage
-      d'exception, les jeunes sont encadrés par des professionnels dans leur domaine.
-      La plupart des participants sont généralement confirmés. Ceci dit nous accueillons
-      avec plaisir les débutants et mettons tout en œuvre pour qu'ils trouvent leurs
-      places parmi nos groupes.</p><p>Chaque jour, les enfants partent découvrir un
-      nouveau Skate Park : Louvain, Mons, Alost, Evere...</p>"
+    description: '<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong><em>
+      (plus de 20 ans d''expérience dans l''apprentissage de skateboard, BMX et Trottinette
+      Freestyle)</em></p><p>Ce stage prévoit un perfectionnement au skate. lls vont
+      apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes.
+      <br>Lors de ce stage d''exception, les jeunes sont encadrés par des professionnels
+      dans leur domaine. La plupart des participants sont généralement confirmés.
+      Ceci dit nous accueillons avec plaisir les débutants et mettons tout en œuvre
+      pour qu''ils trouvent leurs places parmi nos groupes.<br>Chaque jour, les enfants
+      partent découvrir un nouveau Skate Park : Louvain, Mons, Alost, Evere...</p><p><strong><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les déplacements en transport en commun
+      sont assurés par le CFS. </strong>Lieu de départ : la gare de Rixensart.</p><p><strong><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les enfants doivent amener leur Skateboard
+      et toutes les protections.</strong></p>'
     infos:
     - alias: Equipement
       info_line: Les enfants doivent amener leur skate et toutes les protections.
