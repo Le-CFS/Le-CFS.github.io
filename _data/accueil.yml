@@ -112,6 +112,20 @@ une:
       Pour éviter que les enfants restent toute la journée devant les écrans, ils passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du centre.
     lieu: Bruxelles / Brabant Wallon
     age: 8 - 12 ans
+  - name: Evasion
+    titre_overlay: Evasion
+    img: "/assets/images/evasionalaune.jpg"
+    bouton: Plus d'info
+    nouveau: ''
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: |-
+      Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !
+
+      PROGRAMME ETE: New games, Walibi, Mer, Barrage de l'Eau d'Heure & Profondeville
+    lieu: Bruxelles / Brabant Wallon
+    age: 12-16 ans
   - name: Far-west
     titre_overlay: Far-west
     img: "/assets/images/farwestalaune.jpg"
@@ -130,24 +144,6 @@ une:
       Dépaysement garanti !
     lieu: Brabant
     age: 5 à 8 ans
-  - name: Evasion
-    titre_overlay: Evasion
-    img: "/assets/images/evasionalaune.jpg"
-    bouton: Plus d'info
-    nouveau: ''
-    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
-      conditions pour vos enfants tout en respectant les protocoles sanitaires de
-      l'ONE/ADEPS.
-    description: |-
-      Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !
-
-      PROGRAMME CARNAVAL: New Games, Aqualibi, Ski, Koezio & Space Fun Game
-
-      PROGRAMME PAQUES: New Games, Walibi, Aqualibi, Mer (pas en Pâques 1) & Koezio
-
-      PROGRAMME ETE: New Games, Walibi, mer, barrage de l'Eau d'Heure ou Profondeville, Koezio
-    lieu: Bruxelles / Brabant Wallon
-    age: 12-16 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
