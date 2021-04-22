@@ -14,8 +14,8 @@ description: Stages d'été à la journée
 image: "/assets/images/stages-ete-journees.jpg"
 
 ---
-Les stages à la journée pour cet été ? C'est possible !   
-  
+Les stages à la journée pour cet été ? C'est possible !
+
 Voici les dates que nous proposons à la journée :
 
 * 1er juillet
@@ -23,6 +23,6 @@ Voici les dates que nous proposons à la journée :
 * 30 août
 * 31 août
 
-Des activités variées, sportives & fun durant ses 4 journées dans le Brabant Wallon et sur Bruxelles. 
+Des activités variées, sportives & fun durant ses 4 journées dans le Brabant Wallon et sur Bruxelles.
 
-[Je souhaite réserver](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1 "Inscription")
+[Je m'inscris](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1 "Inscription")
