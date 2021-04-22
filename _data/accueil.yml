@@ -82,16 +82,16 @@ une:
   nom: Stages à la Une
   images:
   - name: Stages all inclusive
-    titre_overlay: Stages all inclusive
-    img: "/assets/images/stagesallinclusive-min-1.jpg"
+    titre_overlay: Formule All In
+    img: "/assets/images/stages-all-in.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
     description: "Viens vivre une expérience unique durant les vacances d'été en toute
-      sécurité ! N'attends plus et viens découvrir nos nombreux stages en internat.
-      \n2 formules proposées: En Belgique et à l'étranger. "
+      sécurité ! N'attends plus et viens découvrir nos nombreux stages en All In.\n2
+      formules proposées: En Belgique et à l'étranger. "
     lieu: Belgique - Croatie - Espagne - Italie
     age: A partir de 6 ans
   - name: Robotique
