@@ -1,5 +1,319 @@
 ---
 stages:
+- name: 100% Adrenaline
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Hatrival
+    ville: Hatrival
+    age: 7-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Au
+      programme du stage : défis Koh Lanta, Fort Boyard &amp; Jumanji pour vivre une
+      semaine haute en couleur. Arriveras-tu à surpasser tes peurs pour accéder aux
+      niveaux suivants ?</p><p><strong><em>INTERNAT</em></strong></p><p><strong>Accueil
+      et départ</strong><br>L’accueil a lieu<strong> </strong>à Hatrival le dimanche
+      soir, à partir de 19h00 (les enfants doivent avoir soupé !). Les départs ont
+      lieux le vendredi entre 17h00 à 18h00 au plus tard.</p><p><strong>Logement -
+      Ecuries des îles (Hatrival)</strong><br>Le séjour est prévu en pension complète
+      avec eau à table.</p><p><strong>Repas, collations et boissons</strong><br>Les
+      enfant doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour,
+      ils profiteront d'un petit déjeuner, d'une collation, d'un repas chaud ainsi
+      qu'un repas froid/tartines chaque jour. Bien sûr vous pouvez prévoir des petits
+      encas à mettre dans la valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong><em>EXTERNAT</em></strong></p><p><strong>Activités
+      </strong><br>Les activités commencent à 9h et se terminent à 16h30. Les enfants
+      doivent impérativement être présents pour 8h45 au plus tard afin de ne pas perturber
+      le début des activités. Une demi-journée est consacrée au thème du stage, l’autre
+      demi-journée, les enfants découvriront une multitude d’activités artistiques,
+      ludiques et sportives.</p><p><strong>Garderies </strong><br>La garderie est
+      gratuite de 8h30 à 9h00 et de 16h30 à 17h00, soit 30 minutes avant et après
+      le stage. Si vous souhaitez bénéficier d'une garderie plus tôt et/ou plus tard,
+      celle-ci devient payante au prix de 10€ (montant forfaitaire pour la semaine).
+      N'oubliez pas de cocher cette option dans le formulaire d'inscription.</p><p><strong>Repas,
+      collations et boissons</strong><br>Nous vous demandons de fournir une gourde
+      à vos enfants. Ils disposeront d’eau potable tout au long de la journée. N’oubliez
+      pas de prévoir chaque jour le casse-croûte de votre enfant, des collations pour
+      les pauses du matin et de l’après-midi.</p>"
+    infos: []
+- name: Mission Aventure
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Hatrival
+    ville: Hatrival
+    age: 7-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Participe
+      à une semaine de défis au coeur de la forêt. Réalise ton camp de base pour y
+      vivre des instants inoubliables. Réalise des exploits sportifs et des défis
+      afin de faire progresser ta cabane.</p><p><strong><em>INTERNAT</em></strong></p><p><strong>Accueil
+      et départ</strong><br>L’accueil a lieu<strong> </strong>à Hatrival le dimanche
+      soir, à partir de 19h00 (les enfants doivent avoir soupé !). Les départs ont
+      lieux le vendredi entre 17h00 à 18h00 au plus tard.</p><p><strong>Logement -
+      Ecuries des îles (Hatrival)</strong><br>Le séjour est prévu en pension complète
+      avec eau à table.</p><p><strong>Repas, collations et boissons</strong><br>Les
+      enfant doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour,
+      ils profiteront d'un petit déjeuner, d'une collation, d'un repas chaud ainsi
+      qu'un repas froid/tartines chaque jour. Bien sûr vous pouvez prévoir des petits
+      encas à mettre dans la valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong><em>EXTERNAT</em></strong></p><p><strong>Activités
+      </strong><br>Les activités commencent à 9h et se terminent à 16h30. Les enfants
+      doivent impérativement être présents pour 8h45 au plus tard afin de ne pas perturber
+      le début des activités. Une demi-journée est consacrée au thème du stage, l’autre
+      demi-journée, les enfants découvriront une multitude d’activités artistiques,
+      ludiques et sportives.</p><p><strong>Garderies </strong><br>La garderie est
+      gratuite de 8h30 à 9h00 et de 16h30 à 17h00, soit 30 minutes avant et après
+      le stage. Si vous souhaitez bénéficier d'une garderie plus tôt et/ou plus tard,
+      celle-ci devient payante au prix de 10€ (montant forfaitaire pour la semaine).
+      N'oubliez pas de cocher cette option dans le formulaire d'inscription.</p><p><strong>Repas,
+      collations et boissons</strong><br>Nous vous demandons de fournir une gourde
+      à vos enfants. Ils disposeront d’eau potable tout au long de la journée. N’oubliez
+      pas de prévoir chaque jour le casse-croûte de votre enfant, des collations pour
+      les pauses du matin et de l’après-midi.</p>"
+    infos: []
+- name: Cabane et beach game
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Hatrival
+    ville: Hatrival
+    age: 7-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Construis
+      tes plus belles cabanes pour t’abriter dans la nature. Allume un feu de camp,
+      améliore ton confort, participe aux courses d’orientation et aux grands jeux
+      d’extérieur. Essaie-toi à des sports aussi drôles que passionnants tels que
+      le beach soccer, le beach volley, le racket ball,…</p><p><strong><em>INTERNAT</em></strong></p><p><strong>Accueil
+      et départ</strong><br>L’accueil a lieu<strong> </strong>à Hatrival le dimanche
+      soir, à partir de 19h00 (les enfants doivent avoir soupé !). Les départs ont
+      lieux le vendredi entre 17h00 à 18h00 au plus tard.</p><p><strong>Logement -
+      Ecuries des îles (Hatrival)</strong><br>Le séjour est prévu en pension complète
+      avec eau à table.</p><p><strong>Repas, collations et boissons</strong><br>Les
+      enfant doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour,
+      ils profiteront d'un petit déjeuner, d'une collation, d'un repas chaud ainsi
+      qu'un repas froid/tartines chaque jour. Bien sûr vous pouvez prévoir des petits
+      encas à mettre dans la valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong><em>EXTERNAT</em></strong></p><p><strong>Activités
+      </strong><br>Les activités commencent à 9h et se terminent à 16h30. Les enfants
+      doivent impérativement être présents pour 8h45 au plus tard afin de ne pas perturber
+      le début des activités. Une demi-journée est consacrée au thème du stage, l’autre
+      demi-journée, les enfants découvriront une multitude d’activités artistiques,
+      ludiques et sportives.</p><p><strong>Garderies </strong><br>La garderie est
+      gratuite de 8h30 à 9h00 et de 16h30 à 17h00, soit 30 minutes avant et après
+      le stage. Si vous souhaitez bénéficier d'une garderie plus tôt et/ou plus tard,
+      celle-ci devient payante au prix de 10€ (montant forfaitaire pour la semaine).
+      N'oubliez pas de cocher cette option dans le formulaire d'inscription.</p><p><strong>Repas,
+      collations et boissons</strong><br>Nous vous demandons de fournir une gourde
+      à vos enfants. Ils disposeront d’eau potable tout au long de la journée. N’oubliez
+      pas de prévoir chaque jour le casse-croûte de votre enfant, des collations pour
+      les pauses du matin et de l’après-midi.</p>"
+    infos: []
+- name: Equitation
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Hatrival
+    ville: Hatrival
+    age: 6-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Débutant,
+      initié ou confirmé, nous te donnons rendez-vous à l'Ecurie des Iles pour te
+      faire vivre et découvrir la passion des chevaux. Pour les cavaliers de tout
+      âge, le centre équestre dispense des leçons adaptées et dédiées à différentes
+      disciplines. Rejoins-nous pour vivre une semaine inoubliable dans un cadre et
+      une ambiance familiale !</p><p><strong><em>INTERNAT</em></strong></p><p><strong>Accueil
+      et départ</strong><br>L’accueil a lieu<strong> </strong>à Hatrival le dimanche
+      soir, à partir de 19h00 (les enfants doivent avoir soupé !). Les départs ont
+      lieux le vendredi entre 17h00 à 18h00 au plus tard.</p><p><strong>Logement -
+      Ecuries des îles (Hatrival)</strong><br>Le séjour est prévu en pension complète
+      avec eau à table.</p><p><strong>Repas, collations et boissons</strong><br>Les
+      enfant doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour,
+      ils profiteront d'un petit déjeuner, d'une collation, d'un repas chaud ainsi
+      qu'un repas froid/tartines chaque jour. Bien sûr vous pouvez prévoir des petits
+      encas à mettre dans la valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong>Matériel</strong></p><p>Aucun
+      matériel n'est à prévoir hormis une tenue adaptée pour monter à cheval (bottes
+      ou bottines, jogging ou legging). Le centre équestre fournira à chaque enfant
+      une bombe. Toutefois, si votre enfant dispose déjà de son propre matériel, pour
+      son propre confort, il est invité à l'emporter avec lui.</p><p></p><p><strong><em>EXTERNAT</em></strong></p><p><strong>Activités
+      </strong><br>Les activités commencent à 9h et se terminent à 16h30. Les enfants
+      doivent impérativement être présents pour 8h45 au plus tard afin de ne pas perturber
+      le début des activités. Une demi-journée est consacrée au thème du stage, l’autre
+      demi-journée, les enfants découvriront une multitude d’activités artistiques,
+      ludiques et sportives.</p><p><strong>Garderies </strong><br>La garderie est
+      gratuite de 8h30 à 9h00 et de 16h30 à 17h00, soit 30 minutes avant et après
+      le stage. Si vous souhaitez bénéficier d'une garderie plus tôt et/ou plus tard,
+      celle-ci devient payante au prix de 10€ (montant forfaitaire pour la semaine).
+      N'oubliez pas de cocher cette option dans le formulaire d'inscription.</p><p><strong>Repas,
+      collations et boissons</strong><br>Nous vous demandons de fournir une gourde
+      à vos enfants. Ils disposeront d’eau potable tout au long de la journée. N’oubliez
+      pas de prévoir chaque jour le casse-croûte de votre enfant, des collations pour
+      les pauses du matin et de l’après-midi. </p>"
+    infos: []
+- name: Zeekamp
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Oostduinkerke
+    ville: Oostduinkerke
+    age: 8-15 ans
+    description: '<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Viens
+      t''épanouir grâce à différentes activités ludiques et sportives. Au programme
+      de ta semaine : multisport, missions dans les dunes, musique, grands jeux, journée
+      à thème, etc. Prépare tes veillées nocturnes et dispose des espaces récréatifs
+      de "La Rose des Sables" et des bords de mer.</p><p><strong>Accueil et départ</strong><br>L’accueil
+      a lieu à Oostduinkerke entre 19h30 et 20h00 (les enfants doivent avoir soupé
+      !) et les départs se font le samedi suivant entre 9h00 et 10h00 le matin.</p><p><strong>Logement
+      - La Rose des Sables</strong><br>Le séjour est prévu en pension complète avec
+      eau à table.</p><p><strong>Repas, collations et boissons</strong><br>Les enfant
+      doivent avoir soupé avant d''arriver au stage. Pendant tout le séjour, ils profiteront
+      d''un petit déjeuner, d''une collation, d''un repas chaud ainsi qu''un repas
+      froid/tartines chaque jour. Bien sûr vous pouvez prévoir des petits encas à
+      mettre dans la valise de votre enfant mais ce n''est pas nécessaire.</p><p><strong>Participation
+      à nos séjours en internat</strong><br>Quelques règles particulières sont à respecter
+      :</p><ul><li><p>Il vous est demandé de respecter les horaires qui vous sont
+      communiqués via les mails de confirmation d’inscription à nos stages.</p></li><li><p>Il
+      est important de prévoir des draps pour la literie ainsi qu’un sac de couchage
+      et un oreiller.</p></li><li><p>Équipement de base pour la semaine : le nécessaire
+      de toilette (essuies de bain, gants de toilettes, savon, brosse à dent, dentifrice,
+      etc.), pyjama et pantoufles, maillot et essuie de piscine pour les jeux d''eau,
+      sous-vêtements et habits pour chaque jour, vêtements chauds pour le soir, vêtements
+      de sport et vêtement de pluie.</p></li></ul>'
+    infos: []
+- name: Sports Nautiques
+  categorie: Internat
+  img: "/assets/images/anniversaires/activites/nautifun.png"
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Oostduinkerke
+    ville: Oostduinkerke
+    age: 8-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Profite
+      de cette proximité inédite avec la mer pour découvrir trois activités nautiques.
+      Découvre les joies de la glisse, maitrise le vent et profite pleinement de ton
+      séjour pour t'initier aux sports dédiés à la côte belge.</p><p><strong>Accueil
+      et départ</strong><br>L’accueil a lieu à Oostduinkerke entre 19h30 et 20h00
+      (les enfants doivent avoir soupé !) et les départs se font le samedi suivant
+      entre 9h00 et 10h00 le matin.</p><p><strong>Logement - La Rose des Sables</strong><br>Le
+      séjour est prévu en pension complète avec eau à table.</p><p><strong>Repas,
+      collations et boissons</strong><br>Les enfant doivent avoir soupé avant d'arriver
+      au stage. Pendant tout le séjour, ils profiteront d'un petit déjeuner, d'une
+      collation, d'un repas chaud ainsi qu'un repas froid/tartines chaque jour. Bien
+      sûr vous pouvez prévoir des petits encas à mettre dans la valise de votre enfant
+      mais ce n'est pas nécessaire.</p><p><strong>Participation à nos séjours en internat</strong><br>Quelques
+      règles particulières sont à respecter :</p><ul><li><p>Il vous est demandé de
+      respecter les horaires qui vous sont communiqués via les mails de confirmation
+      d’inscription à nos stages.</p></li><li><p>Il est important de prévoir des draps
+      pour la literie ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement
+      de base pour la semaine : le nécessaire de toilette (essuies de bain, gants
+      de toilettes, savon, brosse à dent, dentifrice, etc.), pyjama et pantoufles,
+      maillot et essuie de piscine pour les jeux d'eau, sous-vêtements et habits pour
+      chaque jour, vêtements chauds pour le soir, vêtements de sport et vêtement de
+      pluie.</p></li></ul>"
+    infos: []
+- name: Equitation
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Oostduinkerke
+    ville: Oostduinkerke
+    age: 8-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Pour
+      débutant, intermédiaire ou confirmé, l'équitation à la côte belge est une expérience
+      mémorable et à ne pas manquer. Apprentissage ou perfectionnement, parcours les
+      décors côtiers à cheval entre terre et mer.</p><p><strong>Accueil et départ</strong><br>L’accueil
+      a lieu à Oostduinkerke entre 19h30 et 20h00 (les enfants doivent avoir soupé
+      !) et les départs se font le samedi suivant entre 9h00 et 10h00 le matin.</p><p><strong>Logement
+      - La Rose des Sables</strong><br>Le séjour est prévu en pension complète avec
+      eau à table.</p><p><strong>Repas, collations et boissons</strong><br>Les enfant
+      doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour, ils profiteront
+      d'un petit déjeuner, d'une collation, d'un repas chaud ainsi qu'un repas froid/tartines
+      chaque jour. Bien sûr vous pouvez prévoir des petits encas à mettre dans la
+      valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong>Participation
+      à nos séjours en internat</strong><br>Quelques règles particulières sont à respecter
+      :</p><ul><li><p>Il vous est demandé de respecter les horaires qui vous sont
+      communiqués via les mails de confirmation d’inscription à nos stages.</p></li><li><p>Il
+      est important de prévoir des draps pour la literie ainsi qu’un sac de couchage
+      et un oreiller.</p></li><li><p>Équipement de base pour la semaine : le nécessaire
+      de toilette (essuies de bain, gants de toilettes, savon, brosse à dent, dentifrice,
+      etc.), pyjama et pantoufles, maillot et essuie de piscine pour les jeux d'eau,
+      sous-vêtements et habits pour chaque jour, vêtements chauds pour le soir, vêtements
+      de sport et vêtement de pluie.</p></li><li><p>Pour le stage d'Equitation : aucun
+      matériel n'est à prévoir hormis une tenue adaptée pour monter à cheval (bottes
+      ou bottines, jogging ou legging). Le centre équestre fournira à chaque enfant
+      une bombe. Toutefois, si votre enfant dispose déjà de son propre matériel, pour
+      son propre confort, il est invité à l'emporter avec lui.</p></li></ul>"
+    infos: []
+- name: Néerlandais
+  categorie: Internat
+  img: "/assets/images/banner/activites_et_infos/ecoledesdevoirs.png"
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Oostduinkerke
+    ville: Oostduinkerke
+    age: 6-12 ans / 12-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>À
+      la mer du nord, quoi de mieux que de pratiquer son néerlandais ? Un moniteur
+      bilingue dispensera deux heures par jour de cours en classe. Au programme :
+      réalisation des travaux de vacances et révision du cours de l'année. Le reste
+      du temps, les enfants participeront à des animations ludiques et sportives,
+      tout en entretenant leur apprentissage du néerlandais. Cette remédiation sera
+      adaptée à tous les niveaux. Les groupes seront répartis en fonction de l'année
+      scolaire terminée par l'enfant au moment du stage (et non pas en fonction de
+      l'âge).</p><p><strong>Accueil et départ</strong><br>L’accueil a lieu à Oostduinkerke
+      entre 19h30 et 20h00 (les enfants doivent avoir soupé !) et les départs se font
+      le samedi suivant entre 9h00 et 10h00 le matin.</p><p><strong>Logement - La
+      Rose des Sables</strong><br>Le séjour est prévu en pension complète avec eau
+      à table.</p><p><strong>Repas, collations et boissons</strong><br>Les enfant
+      doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour, ils profiteront
+      d'un petit déjeuner, d'une collation, d'un repas chaud ainsi qu'un repas froid/tartines
+      chaque jour. Bien sûr vous pouvez prévoir des petits encas à mettre dans la
+      valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong>Participation
+      à nos séjours en internat</strong><br>Quelques règles particulières sont à respecter
+      :</p><ul><li><p>Il vous est demandé de respecter les horaires qui vous sont
+      communiqués via les mails de confirmation d’inscription à nos stages.</p></li><li><p>Il
+      est important de prévoir des draps pour la literie ainsi qu’un sac de couchage
+      et un oreiller.</p></li><li><p>Équipement de base pour la semaine : le nécessaire
+      de toilette (essuies de bain, gants de toilettes, savon, brosse à dent, dentifrice,
+      etc.), pyjama et pantoufles, maillot et essuie de piscine pour les jeux d'eau,
+      sous-vêtements et habits pour chaque jour, vêtements chauds pour le soir, vêtements
+      de sport et vêtement de pluie.</p></li><li><p>Pour le stage de langues, votre
+      enfant est invité à emporter avec lui son matériel scolaire (trousse et cahier)
+      ainsi que son cours de l'année, ses travaux de vacances et toute autre matière
+      permettant au moniteur bilingue d'évaluer son niveau et d'avancer sur les objectifs
+      demandés par son professeur d'école.</p></li></ul>"
+    infos: []
 - name: Basketball
   categorie: Internat
   img: ''
@@ -40,9 +354,7 @@ stages:
       en autocar de luxe afin de privilégier l’aspect confort et la sécurité matérielle.
       Deux conducteurs expérimentés assurent le transfert selon la réglementation
       en vigueur (temps de conduite, arrêts, repos…). Les moniteurs et entraineurs
-      présents lors du voyage assureront l’encadrement des participants.</p><p>Les
-      trajets sont organisés au départ de Mons, Charleroi, Spy, Namur, Wanlin, Libramont,
-      et Arlon.</p>"
+      présents lors du voyage assureront l’encadrement des participants.</p>"
     infos: []
 - name: Tennis
   categorie: Internat
@@ -670,9 +982,7 @@ stages:
       est effectué en autocar de luxe afin de privilégier l’aspect confort et la sécurité
       matérielle. Deux conducteurs expérimentés assurent le transfert selon la réglementation
       en vigueur (temps de conduite, arrêts, repos…). Les moniteurs et entraineurs
-      présents lors du voyage assureront l’encadrement des participants.</p><p>Les
-      trajets sont organisés au départ de Mons, Charleroi, Spy, Namur, Wanlin, Libramont,
-      et Arlon.</p>"
+      présents lors du voyage assureront l’encadrement des participants.</p>"
     infos: []
 - name: Multisports
   categorie: Internat
@@ -711,9 +1021,7 @@ stages:
       est effectué en autocar de luxe afin de privilégier l’aspect confort et la sécurité
       matérielle. Deux conducteurs expérimentés assurent le transfert selon la réglementation
       en vigueur (temps de conduite, arrêts, repos…). Les moniteurs et entraineurs
-      présents lors du voyage assureront l’encadrement des participants.</p><p>Les
-      trajets sont organisés au départ de Mons, Charleroi, Spy, Namur, Wanlin, Libramont,
-      et Arlon.</p>"
+      présents lors du voyage assureront l’encadrement des participants.</p>"
     infos: []
 - name: Sports Nautiques
   categorie: Internat
@@ -752,9 +1060,7 @@ stages:
       est effectué en autocar de luxe afin de privilégier l’aspect confort et la sécurité
       matérielle. Deux conducteurs expérimentés assurent le transfert selon la réglementation
       en vigueur (temps de conduite, arrêts, repos…). Les moniteurs et entraineurs
-      présents lors du voyage assureront l’encadrement des participants.</p><p>Les
-      trajets sont organisés au départ de Mons, Charleroi, Spy, Namur, Wanlin, Libramont,
-      et Arlon.</p>"
+      présents lors du voyage assureront l’encadrement des participants.</p>"
     infos: []
 - name: 'Multisports & langues '
   categorie: Activités sportives
@@ -3937,25 +4243,23 @@ stages:
     description: "<p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Il souhaite
       un stage varié et fun ? Ce stage phare du CFS est fait pour lui ! Un stage alléchant
       qui propose chaque jour une activité ludique et privilégie les activités en
-      extérieur.</p><p><strong>PROGRAMME CARNAVAL : </strong>laser game/arrow game/new
-      games/orientation/Space Fun Game</p><p><strong>PROGRAMME PAQUES/ETE : </strong>laser
-      game/arrow game/new games/orientation/parc Aventure à Wavre</p><ul><li><p>Laser
-      game : organisé en extérieur (sur Ottignies, en collaboration avec notre partenaire
-      BW-Events).</p></li><li><p>Arrow game : différents jeux ludiques avec des arcs
-      à flèches sont proposés comme des prises de château, courses de lapin, jeux
-      de rôle avec des épées, chevaliers et majes (l'arrow game se pratique également
-      avec des flèches avec un bout en mousse et des masques de paintball).</p></li><li><p>New
-      games : différentes activités fun sont proposées sur la journée telles que le
-      frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p>Jeux
-      d'orientation : organisé dans les bois (au Bois de Mérode pour Rixensart, à
-      la Ferme de l'Hosté pour Wavre, et au Bois des Rêves pour Ottignies).</p></li><li><p>Excursion
-      à Space Fun Game d'Etterbeek : activités de type Fort Boyard.</p></li><li><p>Excursion
-      au Parc Aventure de Wavre : le parc propose des activités d'accrobranche dans
-      les bois.</p></li></ul><p>Ce stage peut également être complété par d'autres
-      activités en extérieur comme des jeux dans les bois, une chasse à l'homme, un
-      cache-cache 21, ou encore un stratégo géant. Si la météo n'est pas clémente,
-      les activités se feront en intérieur dans les centres sportifs.</p><p><strong><em>ATTENTION
-      : </em></strong><em>le programme peut changer les semaines plus courtes.</em></p>"
+      extérieur.</p><p><strong>PROGRAMME ETE : </strong>laser game/arrow game/new
+      games/orientation/parc Aventure à Wavre</p><ul><li><p>Laser game : organisé
+      en extérieur (sur Ottignies, en collaboration avec notre partenaire BW-Events).</p></li><li><p>Arrow
+      game : différents jeux ludiques avec des arcs à flèches sont proposés comme
+      des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers
+      et majes (l'arrow game se pratique également avec des flèches avec un bout en
+      mousse et des masques de paintball).</p></li><li><p>New games : différentes
+      activités fun sont proposées sur la journée telles que le frisbee golf, snag
+      golf, spikeball, kinball, flag foot.</p></li><li><p>Jeux d'orientation : organisé
+      dans les bois (au Bois de Mérode pour Rixensart, à la Ferme de l'Hosté pour
+      Wavre, et au Bois des Rêves pour Ottignies).</p></li><li><p>Excursion au Parc
+      Aventure de Wavre : le parc propose des activités d'accrobranche dans les bois.</p></li></ul><p>Ce
+      stage peut également être complété par d'autres activités en extérieur comme
+      des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un
+      stratégo géant. Si la météo n'est pas clémente, les activités se feront en intérieur
+      dans les centres sportifs.</p><p><strong><em>ATTENTION : </em></strong><em>le
+      programme peut changer les semaines plus courtes.</em></p>"
     infos:
     - alias: Vêtement extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
@@ -3968,9 +4272,12 @@ stages:
     age: 8-12 ans
     description: "<p>Votre enfant a entre <strong>8 et 12 ans </strong>? Il souhaite
       essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous
-      propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>PROGRAMME
-      PAQUES/ETE : </strong>New Games/Laser Game/Arrow Game/Space Fun Game/Parc Aventure
-      à Wavre</p><ul><li><p>Laser game : organisé en extérieur.</p></li><li><p>Arrow
+      propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>ETE
+      : </strong>New Games/Laser Game/Arrow Game/Space Fun Game/Parc Aventure à Wavre.
+      </p><p><strong>Stages à la journée:</strong></p><ul><li><p>1er juillet : Journée
+      Space Fun Game</p></li><li><p>2 juillet: Journée au Parc Aventure de Wavre</p></li><li><p>30
+      août: Journée Space Fun Game</p></li><li><p>31 août: Journée au Parc Aventure
+      de Wavre</p></li></ul><ul><li><p>Laser game : organisé en extérieur.</p></li><li><p>Arrow
       game : différents jeux ludiques avec des arcs à flèches sont proposés comme
       des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers
       et majes (l'arrow game se pratique également avec des flèches avec un bout en
@@ -4023,15 +4330,21 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême </em></strong><em>(plus
-      de 20 ans d'expérience dans l'apprentissage de skateboard et BMX)</em></p><p>Ce
-      stage prévoit un perfectionnement au BMX. Nos riders vont apprendre de nouvelles
-      figures dans une ambiance propre à ces sports extrêmes. </p><p>Lors de ce stage
-      d'exception, les jeunes sont encadrés par des professionnels dans leur domaine.
-      La plupart des participants sont généralement confirmés. Ceci dit nous accueillons
-      avec plaisir les débutants et mettons tout en œuvre pour qu'ils trouvent leurs
-      places parmi nos groupes.</p><p>Chaque jour, les enfants partent découvrir un
-      nouveau Skate Park : Louvain, Mons, Alost, Evere...</p>"
+    description: '<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong><em>
+      (plus de 20 ans d''expérience dans l''apprentissage de skateboard, BMX et Trottinette
+      Freestyle)</em></p><p>Ce stage prévoit un perfectionnement au BMX. Nos rider
+      vont apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes.
+      <br>Lors de ce stage d''exception, les jeunes sont encadrés par des professionnels
+      dans leur domaine. La plupart des participants sont généralement confirmés.
+      Ceci dit nous accueillons avec plaisir les débutants et mettons tout en œuvre
+      pour qu''ils trouvent leurs places parmi nos groupes.<br>Chaque jour, les enfants
+      partent découvrir un nouveau Skate Park : Louvain, Mons, Alost, Evere...</p><p><strong><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les déplacements en transport en commun
+      sont assurés par le CFS. </strong>Lieu de départ : la gare de Rixensart.</p><p><strong><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les enfants doivent amener leur BMX et
+      toutes les protections.</strong></p>'
     infos:
     - alias: Equipement
       info_line: Les enfants doivent amener leur BMX et toutes les protections.
@@ -4052,25 +4365,15 @@ stages:
     age: 12-16 ans
     description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
       ! Un super programme et une activité différente et FUN chaque jour !</p><p><strong>PROGRAMME
-      PAQUES </strong>: Paintball, moto, jeux de piste, activités fun, tir à l’arc
-      et bubble foot<em>.</em></p><p><strong>PROGRAMME ETE </strong>: new games, Walibi,
-      mer, barrage de l'Eau d'Heure &amp; Profondville</p><ul><li><p><strong>New games</strong>
-      : différentes activités fun sont proposées sur la journée telles que le frisbee
-      golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
-      de ski à la Snow Valley de Peer</strong> : les ados peuvent voyager librement
-      dans la station et des accompagnants sont présent avec eux sur les pistes.</p></li><li><p><strong>Excursion
-      à Koezio au Docks Bruxsel</strong> : le centre propose des jeux de collaboration
-      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
-      épreuves de rapidité, de culture générale, et de l'accrobranche.</p></li><li><p><strong>Excursion
-      à Space Fun Game d'Etterbeek </strong>: activités de type Fort Boyard.</p></li><li><p><strong>Excursion
+      ETE </strong>: new games, Walibi, mer, barrage de l'Eau d'Heure &amp; Profondeville</p><ul><li><p><strong>New
+      games</strong> : différentes activités fun sont proposées sur la journée telles
+      que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
       à la mer </strong>: jeux dans le sable, cuistax, frisbee, etc.</p></li><li><p><strong>Excursion
       au barrage de l'Eau d'Heure</strong> : aquaparc avec des structures gonflables
-      sur eau.</p></li><li><p><strong>Excursion à Profondville </strong>: bouée tractée,
+      sur eau.</p></li><li><p><strong>Excursion à Profondeville </strong>: bouée tractée,
       kayak.</p></li></ul><p><strong><em>ATTENTION :</em></strong><em> le programme
       peut changer les semaines plus courtes.</em></p>"
     infos:
-    - alias: Koézio
-      info_line: 'Pour Koézio : taille minimum 1m40.'
     - alias: Tenue de bain
       info_line: Prévoir son maillot et un essuie pour les activités avec de l'eau
         (Aqualibi, mer, barrage de l'Eau d'Heure et Profondville).
@@ -4081,22 +4384,20 @@ stages:
     age: 12-16 ans
     description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
       ! Un super programme ! Une activité différente chaque jour !</p><p><strong>PROGRAMME
-      CARNAVAL </strong>: new games, Aqualibi, ski, Koezio &amp; Space Fun Game</p><p><strong>PROGRAMME
-      PAQUES </strong>: New Games, Arrow Game, Laser Game, Parc Aventure de Wavre<em>
-      (nous nous occupons de la navette) </em>et Réalité virtuelle (<strong>uniquement
-      pour les 5 jours). </strong></p><p><strong>PROGRAMME ETE </strong>: new games,
-      Walibi, mer, barrage de l'Eau d'Heure ou Profondville, Koezio</p><ul><li><p><strong>New
+      ETE </strong>: new games, Walibi, mer, barrage de l'Eau d'Heure ou Profondeville,
+      Koezio.</p><p><strong>Stages à la journée:</strong></p><ul><li><p>1er juillet
+      : Journée à Koezio</p></li><li><p>2 juillet: Journée à Walibi</p></li><li><p>30
+      août: Journée à Koezio</p></li><li><p>31 août: Journée à Walibi</p></li></ul><ul><li><p><strong>New
       games </strong>: différentes activités fun sont proposées sur la journée telles
       que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
-      de ski à la Snow Valley de Peer</strong> : les ados peuvent voyager librement
-      dans la station et des accompagnants sont présent avec eux sur les pistes.</p></li><li><p><strong>Excursion
       à Koezio au Docks Bruxsel</strong> : le centre propose des jeux de collaboration
       et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
-      épreuves de rapidité, de culture générale, et de l'accrobranche.</p></li><li><p><strong>Excursion
-      à Space Fun Game d'Etterbeek</strong> : activités de type Fort Boyard.</p></li><li><p><strong>Excursion
-      à la mer</strong> : jeux dans le sable, cuistax, frisbee, etc.</p></li><li><p><strong>Excursion
+      épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum:
+      1,40 m</p></li><li><p><strong>Excursion à Space Fun Game d'Etterbeek</strong>
+      : activités de type Fort Boyard.</p></li><li><p><strong>Excursion à la mer</strong>
+      : jeux dans le sable, cuistax, frisbee, etc.</p></li><li><p><strong>Excursion
       au barrage de l'Eau d'Heure</strong> : AquaParc avec des structures gonflables
-      sur eau.</p></li><li><p><strong>Excursion à Profondville </strong>: bouée tractée,
+      sur eau.</p></li><li><p><strong>Excursion à Profondeville </strong>: bouée tractée,
       kayak.</p></li></ul><p><strong><em>ATTENTION :</em></strong><em> le programme
       peut changer les semaines plus courtes.</em></p>"
     infos:
@@ -4283,15 +4584,21 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême </em></strong><em>(plus
-      de 20 ans d'expérience dans l'apprentissage de skateboard et BMX)</em></p><p>Ce
-      stage prévoit un perfectionnement au Skate. Ils vont apprendre de nouvelles
-      figures dans une ambiance propre à ces sports extrêmes.</p><p>Lors de ce stage
-      d'exception, les jeunes sont encadrés par des professionnels dans leur domaine.
-      La plupart des participants sont généralement confirmés. Ceci dit nous accueillons
-      avec plaisir les débutants et mettons tout en œuvre pour qu'ils trouvent leurs
-      places parmi nos groupes.</p><p>Chaque jour, les enfants partent découvrir un
-      nouveau Skate Park : Louvain, Mons, Alost, Evere...</p>"
+    description: '<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong><em>
+      (plus de 20 ans d''expérience dans l''apprentissage de skateboard, BMX et Trottinette
+      Freestyle)</em></p><p>Ce stage prévoit un perfectionnement au skate. lls vont
+      apprendre de nouvelles figures dans une ambiance propre à ces sports extrêmes.
+      <br>Lors de ce stage d''exception, les jeunes sont encadrés par des professionnels
+      dans leur domaine. La plupart des participants sont généralement confirmés.
+      Ceci dit nous accueillons avec plaisir les débutants et mettons tout en œuvre
+      pour qu''ils trouvent leurs places parmi nos groupes.<br>Chaque jour, les enfants
+      partent découvrir un nouveau Skate Park : Louvain, Mons, Alost, Evere...</p><p><strong><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les déplacements en transport en commun
+      sont assurés par le CFS. </strong>Lieu de départ : la gare de Rixensart.</p><p><strong><img
+      src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png"
+      title="enlightened" alt="enlightened">Les enfants doivent amener leur Skateboard
+      et toutes les protections.</strong></p>'
     infos:
     - alias: Equipement
       info_line: Les enfants doivent amener leur skate et toutes les protections.
@@ -4310,15 +4617,18 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême </em></strong><em>(plus
-      de 20 ans d'expérience dans l'apprentissage de skateboard, BMX et trottinette)</em></p><p>Ce
-      stage prévoit un perfectionnement à la Trottinette. Ils vont apprendre de nouvelles
-      figures dans une ambiance propre à ces sports extrêmes.</p><p>Lors de ce stage
-      d'exception, les jeunes sont encadrés par des professionnels dans leur domaine.
-      La plupart des participants sont généralement confirmés. Ceci dit nous accueillons
-      avec plaisir les débutants et mettons tout en œuvre pour qu'ils trouvent leurs
-      places parmi nos groupes.</p><p>Chaque jour, les enfants partent découvrir un
-      nouveau Skate Park : Louvain, Mons, Alost, Evere...</p>"
+    description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong><em>
+      (plus de 20 ans d'expérience dans l'apprentissage de skateboard, BMX et Trottinette
+      Freestyle)</em></p><p>Ce stage prévoit un perfectionnement à la trottinette
+      Freestyle. Les as de la Trot' vont apprendre de nouvelles figures dans une ambiance
+      propre à ces sports extrêmes. <br>Lors de ce stage d'exception, les jeunes sont
+      encadrés par des professionnels dans leur domaine. La plupart des participants
+      sont généralement confirmés. Ceci dit nous accueillons avec plaisir les débutants
+      et mettons tout en œuvre pour qu'ils trouvent leurs places parmi nos groupes.<br>Chaque
+      jour, les enfants partent découvrir un nouveau Skate Park : Louvain, Mons, Alost,
+      Evere...</p><p><strong>Les déplacements en transport en commun sont assurés
+      par le CFS. </strong>Lieu de départ : la gare de Rixensart.</p><p><strong>Les
+      enfants doivent amener leur trottinette et toutes les protections.</strong></p>"
     infos:
     - alias: Equipement
       info_line: Les enfants doivent amener leur trottinette et toutes les protections.
