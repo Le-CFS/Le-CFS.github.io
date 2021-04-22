@@ -1,5 +1,56 @@
 ---
 stages:
+- name: Sports Nautiques
+  categorie: Internat
+  online: false
+  nouveau: true
+  location:
+  - alias: Italie
+    ville: Italie
+    age: 12-
+    description: ''
+    infos: []
+  img: ''
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+- name: Vacances Ados
+  categorie: Internat
+  online: false
+  nouveau: true
+  location:
+  - alias: Italie
+    ville: Italie
+    age: 14-18 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Piscine,
+      détente, plage, shopping, les moniteurs de BDK t'accompagneront dans une semaine
+      sur mesure. Tu auras des moments farniente et des moments sportifs. Du baseball
+      au beach-volley, de la randonnée aux jeux défis, du marché au shopping en ville,
+      tout est possible ! Profite même d'une soirée pieds dans l'eau et cocktail en
+      main... Avec modération bien sûr !</p><p><strong>Encadrement</strong><br>L’encadrement
+      est assuré 24h/24 par le staff de moniteurs de BDK.</p><p><strong>Logement -
+      Hotel Belvedere Misano Adriatio 3*</strong><br>L’hôtel Belvedere Misano Adriatico
+      3* vous accueille dans un hôtel récemment rénové en bord de mer de Misano. Des
+      chambres bien équipées, une équipe accueillante, l'hôtel Belvedere a tout ce
+      qu'il faut pour vous ressourcer et vous amuser. Il est situé à 2km de l'hippodrome
+      de Santamonica. Confortables et lumineuses, toutes les chambres sont équipées
+      d'un balcon, d'une TV satellite, d'une salle de bain avec douche et sèche-cheveux,
+      d'un téléphone direct et d'une climatisation.</p><p><strong>Les excursions</strong><br>Pour
+      pimenter le séjour, nous proposons quelques excursions à la carte.</p><p>Le
+      package complet des 2 excursions est offert au prix de 60€.<br>Dans un souci
+      d'organisation, nous rendons ces activités obligatoires pour tous.</p><ul><li><p>Excursion
+      à San Marino</p></li><li><p>Parc aquatique Aquafun</p></li></ul><p>Les excursions
+      sont à payer en liquide sur place le jour de l'arrivée.</p><p><strong>Trajets
+      en autocar</strong><br>Le voyage est effectué au autocar de luxe afin de privilégier
+      l’aspect confort et la sécurité matérielle. Deux conducteurs expérimentés assurent
+      le transfert selon la réglementation en vigueur (temps de conduite, arrêts,
+      repos…). Les moniteurs et entraineurs présents lors du voyage assureront l’encadrement
+      des participants.</p>"
+    infos: []
+  img: ''
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
 - name: Multisports
   categorie: Internat
   img: ''
