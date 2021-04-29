@@ -276,11 +276,13 @@ events:
 brochures:
   titre: Brochures
   url: "/brochures/"
+  title_mobile: Brochures
+  online_mobile: false
   sousmenu:
   - title: Stages
     url: "/brochures/stages/"
-  - title: Extrascolaire
-    url: "/brochures/extrascolaire/"
+  # - title: Extrascolaire
+  #   url: "/brochures/extrascolaire/"
   - title: Anniversaires
     url: "/brochures/anniversaires/"
   - title: Journées sportives
