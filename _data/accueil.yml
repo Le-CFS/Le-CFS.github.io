@@ -18,6 +18,9 @@ slider:
 - titre: MAG 2021
   src: "/assets/images/mag.jpg"
   href: https://www.lecfs.be/brochures/
+- titre: BON CADEAU
+  src: "/assets/images/boncadeauete-1.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=14
 selection:
   nom: Sélection du CFS
   images:

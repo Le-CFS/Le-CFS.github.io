@@ -5059,12 +5059,17 @@ stages:
     ville: Brabant Wallon
     age: 6-14 ans
     description: "<p>Votre enfant est un vrai mordu du ballon ? Notre stage de football
-      est l'idéal pour lui ! </p><p>Ce stage prévoit une alternance entre entraînements
+      est l'idéal pour lui !</p><p>Ce stage prévoit une alternance entre entraînements
       et petits matchs.</p><p>Les enfants s'exercent aux techniques de ballon et de
       jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle.</p><p>Chaque
       entraînement est abordé de manière ludique afin d'allier football et plaisir.</p><p>La
-      journée est répartie en 3 périodes de football et une période de multisports.</p>"
-    infos: []
+      journée est répartie en 3 périodes de football et une période de multisports.</p><p><strong>La
+      Hulpe -<em> </em></strong><em>En collaboration avec </em><strong><em>R. La Hulpe
+      S.C. <br></em></strong><em>Uniquement à la Hulpe:</em><strong><em> </em></strong><em>L</em>e
+      <em>repas chaud, collation, gouter + boissons, compris dans le prix. </em></p>"
+    infos:
+    - alias: Pas de garderie à la Hulpe
+      info_line: Stage de 08h30 à 16h30
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-14 ans

@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Royal La Hulpe Sporting Club
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/rlhsc-football-lahulpe.png"
+  href: https://www.rlhsc.be/
+  bouton: Site Web
+  couleur_bouton: ''
 - name: Royal Laeken Tennis Club
   categorie: Partenaires de stages
   online: true
