@@ -1,5 +1,44 @@
 ---
 stages:
+- name: Jumanji & Géocatching
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Hatrival
+    ville: Hatrival
+    age: 6-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Une
+      semaine déboussolée t'attend, à toi de ne pas perdre le nord ! Dirige ton équipe
+      à travers les épreuves de la jungle et mène-la à la victoire lors de courses
+      d'orientation passionnantes.</p><p><strong><em>INTERNAT</em></strong></p><p><strong>Accueil
+      et départ</strong><br>L’accueil a lieu<strong> </strong>à Hatrival le dimanche
+      soir, à partir de 19h00 (les enfants doivent avoir soupé !). Les départs ont
+      lieux le vendredi entre 17h00 à 18h00 au plus tard.</p><p><strong>Logement -
+      Ecuries des îles (Hatrival)</strong><br>Le séjour est prévu en pension complète
+      avec eau à table.</p><p><strong>Repas, collations et boissons</strong><br>Les
+      enfant doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour,
+      ils profiteront d'un petit déjeuner, d'une collation, d'un repas chaud ainsi
+      qu'un repas froid/tartines chaque jour. Bien sûr vous pouvez prévoir des petits
+      encas à mettre dans la valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong><em>EXTERNAT</em></strong></p><p><strong>Activités
+      </strong><br>Les activités commencent à 9h et se terminent à 16h30. Les enfants
+      doivent impérativement être présents pour 8h45 au plus tard afin de ne pas perturber
+      le début des activités. Une demi-journée est consacrée au thème du stage, l’autre
+      demi-journée, les enfants découvriront une multitude d’activités artistiques,
+      ludiques et sportives.</p><p><strong>Garderies </strong><br>La garderie est
+      gratuite de 8h30 à 9h00 et de 16h30 à 17h00, soit 30 minutes avant et après
+      le stage. Si vous souhaitez bénéficier d'une garderie plus tôt et/ou plus tard,
+      celle-ci devient payante au prix de 10€ (montant forfaitaire pour la semaine).
+      N'oubliez pas de cocher cette option dans le formulaire d'inscription.</p><p><strong>Repas,
+      collations et boissons</strong><br>Nous vous demandons de fournir une gourde
+      à vos enfants. Ils disposeront d’eau potable tout au long de la journée. N’oubliez
+      pas de prévoir chaque jour le casse-croûte de votre enfant, des collations pour
+      les pauses du matin et de l’après-midi.</p>"
+    infos: []
 - name: Sports Nautiques
   categorie: Internat
   online: false
