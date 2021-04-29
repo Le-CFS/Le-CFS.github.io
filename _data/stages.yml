@@ -4675,7 +4675,7 @@ stages:
       soccer,...).</p>"
     infos:
     - alias: Taille
-      info_line: Pour le karting, la taille minimum de l'enfant doit être de 1m55
+      info_line: Pour le karting, la taille minimum de l'enfant doit être de 1m20
         !
   activation_onglets: true
 - name: Koh Lanta
