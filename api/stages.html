@@ -1,12 +1,13 @@
 ---
-title: api stages
-permalink: "/api/stages/"
+layout: api
+title: Api Stages
+permalink: "/api/stages"
 ---
 
 {% assign liste_stages = site.data.stages.stages | where: "online", true %}
 
 <span>{</span><br/>
-<span style="padding-left: 15px;">"stage": [</span><br/>
+<span style="padding-left: 15px;">"stages": [</span><br/>
 {% for stage in liste_stages %}
 
 		<span style="padding-left: 30px;">{</span><br/>
