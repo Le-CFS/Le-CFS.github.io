@@ -1,5 +1,36 @@
 ---
 stages:
+- name: Football (gardiens)
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Caspoggio
+    ville: Italie
+    age: 10-18 ans
+    description: <p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Du
+      foot intensif au grand air... Voilà ce que nous te proposons. Viens apprendre
+      et te perfectionner grâce à nos coachs et la méthode "soccer-pal".<br>Stage
+      particuliers pour les gardiens de but.</p><p><strong>Encadrement</strong><br>L’encadrement
+      est assuré 24h/24 par le staff de moniteurs de BDK.</p><p><strong>Logement -
+      Hôtel Kennedy 3* (Caspoggio)</strong><br>Surplombant la vallée de Valmalenco,
+      l'Hôtel Kennedy vous attend à Caspoggio, à 300 mètres de la place de la ville,
+      avec une terrasse bien exposée et un restaurant. Caspoggio est l'endroit idéal
+      pour nos stages avec ses infrastructures, son climat agréable en été et ses
+      magnifiques paysages montagneux. Ses chambres comportent une télévision à écran
+      plat. Certaines comprennent une terrasse ou un balcon. Leur salle de bain privative
+      est pourvue d'une baignoire ou d'une douche, d'un bidet, d'un sèche-cheveux,
+      et d'articles de toilette offerts.</p><p><strong>Trajets en autocar</strong><br>Le
+      voyage est effectué au autocar de luxe afin de privilégier l’aspect confort
+      et la sécurité matérielle. Deux conducteurs expérimentés assurent le transfert
+      selon la réglementation en vigueur (temps de conduite, arrêts, repos…). Les
+      moniteurs et entraineurs présents lors du voyage assureront l’encadrement des
+      participants.</p>
+    infos: []
 - name: Basketball
   categorie: Internat
   img: ''
