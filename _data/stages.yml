@@ -145,7 +145,7 @@ stages:
       repos…). Les moniteurs et entraineurs présents lors du voyage assureront l’encadrement
       des participants.</p>"
     infos: []
-- name: Missiona adrénaline
+- name: Mission adrénaline
   categorie: Internat
   img: ''
   online: false
@@ -184,7 +184,7 @@ stages:
       pas de prévoir chaque jour le casse-croûte de votre enfant, des collations pour
       les pauses du matin et de l’après-midi.</p>"
     infos: []
-- name: Mission Aventure
+- name: Cabane d'aventurier
   categorie: Internat
   img: ''
   online: false
