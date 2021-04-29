@@ -234,7 +234,7 @@ stages:
   location:
   - alias: Hatrival
     ville: Hatrival
-    age: 7-15 ans
+    age: 6-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Participe
       à une semaine de défis au coeur de la forêt. Réalise ton camp de base pour y
       vivre des instants inoubliables. Réalise des exploits sportifs et des défis
@@ -273,7 +273,7 @@ stages:
   location:
   - alias: Hatrival
     ville: Hatrival
-    age: 7-15 ans
+    age: 6-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Construis
       tes plus belles cabanes pour t’abriter dans la nature. Allume un feu de camp,
       améliore ton confort, participe aux courses d’orientation et aux grands jeux
