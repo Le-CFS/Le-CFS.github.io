@@ -1,6 +1,6 @@
 ---
 label: PAGE centres cfs
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: layout
@@ -53,3 +53,8 @@ fields:
   - type: text
     name: url_stages
     label: url iclub pour les stages
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
