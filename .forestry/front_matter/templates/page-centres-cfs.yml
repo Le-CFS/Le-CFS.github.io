@@ -5,15 +5,23 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: page
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: permalink
   label: permalink
+  config:
+    required: true
 - type: boolean
   name: menu
   label: menu
+  hidden: true
+  default: true
 - type: textarea
   name: description
   label: description
@@ -29,19 +37,19 @@ fields:
   fields:
   - type: text
     name: name
-    label: name
+    label: Nom de la province
   - type: file
     name: banner
-    label: banner
+    label: Banner de la province
   - type: text
     name: image_annee
-    label: image_annee
-  - type: text
-    name: image_stages
-    label: image_stages
+    label: Graphique pour l'année
   - type: text
     name: url_annee
-    label: url_annee
+    label: url iclub pour l'année
+  - type: text
+    name: image_stages
+    label: Graphique pour les stages
   - type: text
     name: url_stages
-    label: url_stages
+    label: url iclub pour les stages
