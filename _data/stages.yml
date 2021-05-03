@@ -2,7 +2,7 @@
 stages:
 - name: Football perfectionnement
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/footballperfectionnement.jpg"
   online: true
   nouveau: true
   stage_une: false
