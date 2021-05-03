@@ -41,14 +41,18 @@ fields:
   - type: file
     name: banner
     label: Banner de la province
-  - type: text
-    name: image_annee
+  - name: image_annee
+    type: file
+    config:
+      maxSize: 64
     label: Graphique pour l'année
   - type: text
     name: url_annee
     label: url iclub pour l'année
-  - type: text
-    name: image_stages
+  - name: image_stages
+    type: file
+    config:
+      maxSize: 64
     label: Graphique pour les stages
   - type: text
     name: url_stages
