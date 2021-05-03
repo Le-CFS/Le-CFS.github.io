@@ -1,0 +1,47 @@
+---
+label: PAGE centres cfs
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: menu
+  label: menu
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: image
+  label: image
+- type: text
+  name: intro
+  label: intro
+- type: field_group_list
+  name: provinces
+  label: provinces
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: banner
+    label: banner
+  - type: text
+    name: image_annee
+    label: image_annee
+  - type: text
+    name: image_stages
+    label: image_stages
+  - type: text
+    name: url_annee
+    label: url_annee
+  - type: text
+    name: url_stages
+    label: url_stages
