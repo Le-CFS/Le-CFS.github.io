@@ -58,3 +58,5 @@ fields:
   config: {}
   template: seo
   label: SEO
+pages:
+- pages/le_cfs/les_centres_cfs.md

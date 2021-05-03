@@ -3,32 +3,29 @@ layout: page
 title: Les centres CFS
 permalink: "/cfs/les_centres_cfs/"
 menu: true
-description: "Nos différents centres CFS situés à Bruxelles, Liège et dans le Brabant wallon sont prêt à vous accueillir lors des activités et des stages."
-image: ""
-intro: "Vous trouverez certainement un centre <strong>CFS</strong> proche de chez vous."
-provinces: 
-  - 
-    name: Brabant
-    banner: /assets/images/bxl-banner.jpg
-    image_annee: "/assets/images/bxl-annee-graphique.JPG"
-    image_stages: "/assets/images/bxl-stages-graphique.JPG"
-    url_annee: ""
-    url_stages: ""
-  - 
-    name: Bruxelles
-    banner: /assets/images/brt-banner.jpg
-    image_annee: "/assets/images/brt-annee-graphique.JPG"
-    image_stages: "/assets/images/brt-stages-graphique.JPG"
-    url_annee: ""
-    url_stages: ""
-  - 
-    name: Liege
-    banner: /assets/images/lie-banner.jpg
-    image_annee: ""
-    image_stages: "/assets/images/lie-stages-graphique.jpg"
-    url_annee: ""
-    url_stages: ""
-
+description: Nos différents centres CFS situés à Bruxelles, Liège et dans le Brabant
+  wallon sont prêt à vous accueillir lors des activités et des stages.
+image: ''
+intro: Vous trouverez certainement un centre <strong>CFS</strong> proche de chez vous.
+provinces:
+- name: Brabant
+  banner: "/assets/images/bxl-banner.jpg"
+  image_annee: "/assets/images/bxl-annee-graphique.JPG"
+  image_stages: "/assets/images/bxl-stages-graphique.JPG"
+  url_annee: ''
+  url_stages: ''
+- name: Bruxelles
+  banner: "/assets/images/brt-banner.jpg"
+  image_annee: "/assets/images/brt-annee-graphique.JPG"
+  image_stages: "/assets/images/brt-stages-graphique.JPG"
+  url_annee: ''
+  url_stages: ''
+- name: Liege
+  banner: "/assets/images/lie-banner.jpg"
+  image_annee: ''
+  image_stages: "/assets/images/lie-stages-graphique.jpg"
+  url_annee: ''
+  url_stages: ''
 
 ---
 <center><span style="color:#2980b9; font-size:20px">{{ page.intro }}</span></center>
