@@ -33,9 +33,32 @@ stages:
       Il faut prévoir en conséquent le nécessaire de toilette et un sac de couchage.</p><p>Un
       professionnel veillera toute la nuit sur le campement, et un moniteur CFS assurera
       les activités du soir et le petit déjeuner.</p>"
-    infos:
-    - info_line: Prévoir nécessaire de toilette et un sac de couchage.
-      alias: Nuitée
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 14-15 ans
+    description: "<p><strong><em>En collaboration avec le Siep</em></strong></p><p>Tu
+      as envie de t'initier à des métiers manuels ?</p><p>Participe à ce stage qui
+      te permettra de découvrir le savoir-faire de professionnels dans différents
+      secteurs. Nous nous rendrons au SIEP à Uccle pour utiliser du matériel PRO et
+      vous immerger au mieux dans ces différentes professions.</p><p>Parmi les métiers
+      mis en avant :</p><ul><li><p>Alimentation : restauration, salle, boucherie,
+      charcuterie, boulangerie, pâtisserie, chocolaterie et confiseur</p></li><li><p>Construction
+      : menuiserie, peinture en bâtiment, chauffage, soudure, plomberie, entrepreneurs
+      de jardin et électricité</p></li><li><p>Numérique : réparation d'ordinateurs</p></li><li><p>Mobilité
+      : mécanique automobile, carrosserie</p></li><li><p>Bien-être : coiffure, esthétique,
+      toilettage canin</p></li><li><p>Commerce : vente, étalage</p></li></ul><p>La
+      semaine sera programmée de la manière suivante :</p><ul><li><p>Lundi : activités
+      fun (Koezio ou Virtual Reality + fun)</p></li><li><p>Mardi : découverte des
+      métiers (SIEP à Uccle)</p></li><li><p>Mercredi : activités fun (Koezio ou Virtual
+      Reality + fun)</p></li><li><p>Jeudi : découverte des métiers (SIEP à Uccle)
+      + survivor* et jeux de nuit (Mabrouck)</p></li><li><p>Vendredi : activités bubble
+      et paintball</p></li></ul><p>*Survivor = organisation d'un campement + construction
+      du logement.</p><p>Les adolescents dorment sur place la nuit du jeudi au vendredi.
+      Il faut prévoir en conséquent le nécessaire de toilette et un sac de couchage.</p><p>Un
+      professionnel veillera toute la nuit sur le campement, et un moniteur CFS assurera
+      les activités du soir et le petit déjeuner.</p>"
+    infos: []
 - name: Football perfectionnement
   categorie: Activités sportives
   img: "/assets/images/footballperfectionnement.jpg"
