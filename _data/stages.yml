@@ -2,7 +2,7 @@
 stages:
 - name: Découverte des métiers
   categorie: Activités fun
-  img: ''
+  img: "/assets/images/decouverte-des-metiers.jpg"
   online: true
   nouveau: true
   stage_une: false
