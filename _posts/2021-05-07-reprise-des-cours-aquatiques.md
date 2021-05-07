@@ -6,7 +6,7 @@ tags:
 - cours adultes
 - aquatiques
 - '2021'
-title: Reprise des cours aquatiques
+title: Reprise des cours adultes
 banner: "/assets/images/coursadultes-min.jpg"
 infos:
   date: 
