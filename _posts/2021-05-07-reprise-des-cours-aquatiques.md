@@ -1,13 +1,17 @@
 ---
 layout: post
 menu: cfs
-tags: []
+tags:
+- reprise
+- cours adultes
+- aquatiques
+- '2021'
 title: Reprise des cours aquatiques
 banner: "/assets/images/coursadultes-min.jpg"
 infos:
   date: 
   teaser: ''
-description: ''
+description: Reprise des cours adultes !
 image: "/assets/images/coursadultes-min.jpg"
 
 ---
