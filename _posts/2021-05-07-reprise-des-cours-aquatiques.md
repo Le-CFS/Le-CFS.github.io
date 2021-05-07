@@ -15,9 +15,9 @@ description: Reprise des cours adultes !
 image: "/assets/images/coursadultes-min.jpg"
 
 ---
-**Bonne nouvelle !** 
+**Bonne nouvelle !**
 
-Les cours adultes reprennent lundi 10/05/2021, les informations suivront par mail ce week-end (uniquement les cours aquatiques, dans l'eau). 
+Les cours adultes reprennent ce lundi 10/05/2021, les informations suivront par mail ce week-end (uniquement les cours aquatiques, dans l'eau).
 
 Un excellent week-end ☼
 
