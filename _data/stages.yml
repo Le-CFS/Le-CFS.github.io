@@ -3565,7 +3565,7 @@ stages:
         être propres. Le cas échéant, il faut inscrire votre petit-bout en pré-psycho.'
   activation_onglets: true
 - name: Psycho Vélo
-  img: "/assets/images/stages/lespetitsbouts/psychovelo.png"
+  img: "/assets/images/stage-enfant-psycho-velo-500x500.jpg"
   inscription: ''
   categorie: Les petits bouts
   online: true
@@ -3602,7 +3602,7 @@ stages:
       info_line: L'enfant peut apporter son propre vélo.
   activation_onglets: true
 - name: Apprenti Vélo
-  img: "/assets/images/stages/decouvertesportiveetculturelle/psychovelo.png"
+  img: "/assets/images/stage-enfant-apprenti-velo-500x500.jpg"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
