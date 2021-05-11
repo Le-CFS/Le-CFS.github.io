@@ -3760,7 +3760,7 @@ stages:
     infos: []
   activation_onglets: true
 - name: Baby Multisports
-  img: "/assets/images/stages/decouvertesportiveetculturelle/babymultisports.png"
+  img: "/assets/images/stage-enfant-baby-multisports-500x500.jpg"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
