@@ -1483,7 +1483,7 @@ stages:
   activation_onglets: true
 - name: Bulle ado
   categorie: Activités fun
-  img: "/assets/images/stagebulleado.png"
+  img: "/assets/images/stage-enfant-bulle-ado-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2872,7 +2872,7 @@ stages:
   activation_onglets: true
 - name: Multisports
   categorie: Activités sportives
-  img: "/assets/images/babymultisports.png"
+  img: "/assets/images/stage-enfant-baby-multisports-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
