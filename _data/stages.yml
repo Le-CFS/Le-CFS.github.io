@@ -2381,7 +2381,7 @@ stages:
   activation_onglets: true
 - name: Sports Raquettes & VTT
   categorie: Activités sportives
-  img: "/assets/images/raquettes.png"
+  img: "/assets/images/stage-enfant-sports-raquettes-et-vtt-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -5694,7 +5694,7 @@ stages:
   inscription: ''
   activation_onglets: true
 - name: Sports Raquettes
-  img: "/assets/images/stages/activitessportives/raquettes.png"
+  img: "/assets/images/stage-enfant-sports-raquettes-500x500.jpg"
   inscription: ''
   categorie: Activités sportives
   online: true
