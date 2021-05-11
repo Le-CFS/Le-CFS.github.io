@@ -2578,7 +2578,7 @@ stages:
   activation_onglets: true
 - name: Escalade & VTT
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/escalade-vtt.jpg"
+  img: "/assets/images/stage-enfant-escalade-et-vtt-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -3029,7 +3029,7 @@ stages:
   activation_onglets: true
 - name: Far-west
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/farwest.jpg"
+  img: "/assets/images/stage-enfant-farwest-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -3046,7 +3046,7 @@ stages:
   activation_onglets: true
 - name: Equitation Débutant
   categorie: Activités sportives
-  img: "/assets/images/equitationdebutant.jpg"
+  img: "/assets/images/stage-enfant-equitation-debutant-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
