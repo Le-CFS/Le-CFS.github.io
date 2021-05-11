@@ -1623,7 +1623,7 @@ stages:
   activation_onglets: true
 - name: Psycho Bricolage
   categorie: Les petits bouts
-  img: "/assets/images/psychobricolage.jpg"
+  img: "/assets/images/stage-enfant-psycho-bricolage-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
@@ -2655,7 +2655,7 @@ stages:
   activation_onglets: true
 - name: Roller
   categorie: Activités fun
-  img: "/assets/images/roller.jpg"
+  img: "/assets/images/stage-enfant-roller-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
@@ -2706,7 +2706,7 @@ stages:
   activation_onglets: true
 - name: Stylisme
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/stylisme.jpg"
+  img: "/assets/images/stage-enfant-stylisme-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
