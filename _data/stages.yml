@@ -61,7 +61,7 @@ stages:
     infos: []
 - name: Football perfectionnement
   categorie: Activités sportives
-  img: "/assets/images/footballperfectionnement.jpg"
+  img: "/assets/images/stage-enfant-football-perfectionnement-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -1461,7 +1461,7 @@ stages:
   activation_onglets: true
 - name: Football Ado
   categorie: Activités sportives
-  img: "/assets/images/stagefootballadobruxelles.png"
+  img: "/assets/images/stage-enfant-football-ado-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2348,7 +2348,7 @@ stages:
   activation_onglets: true
 - name: Football Academy
   categorie: Internat
-  img: "/assets/images/footacademy.jpg"
+  img: "/assets/images/stage-enfant-football-academy-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
