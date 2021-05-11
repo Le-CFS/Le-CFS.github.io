@@ -779,7 +779,7 @@ stages:
     infos: []
 - name: Meilleur pâtissier
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/meilleurpatissier.jpg"
+  img: "/assets/images/stage-enfant-meilleur-patissier-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -1438,7 +1438,7 @@ stages:
     infos: []
 - name: 'Multisports & langues '
   categorie: Activités sportives
-  img: "/assets/images/multisportsetlangues.jpg"
+  img: "/assets/images/stage-enfant-multi-sports-et-langues-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2411,7 +2411,7 @@ stages:
   activation_onglets: true
 - name: Gym pour tous
   categorie: Danse et Gymnastique
-  img: "/assets/images/gympourtous.jpg"
+  img: "/assets/images/stage-enfant-gym-pour-tous-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2552,7 +2552,7 @@ stages:
   activation_onglets: true
 - name: Judo
   categorie: Activités sportives
-  img: "/assets/images/judo.jpg"
+  img: "/assets/images/stage-enfant-judo-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -5427,7 +5427,7 @@ stages:
       info_line: A Jette : Stage en partenariat avec Futsal Jette
   activation_onglets: true
 - name: Futsal Euro 2021
-  img: "/assets/images/futsaleuro2021.jpg"
+  img: "/assets/images/stage-enfant-futsal-euro-2021-500x500.jpg"
   inscription: ''
   categorie: Activités sportives
   online: true
@@ -5450,7 +5450,7 @@ stages:
       info_line: ''
   activation_onglets: true
 - name: Krav Maga
-  img: "/assets/images/stages/activitessportives/kravmaga.jpg"
+  img: "/assets/images/stage-enfant-krav-maga-500x500.jpg"
   inscription: ''
   categorie: Activités sportives
   online: true
