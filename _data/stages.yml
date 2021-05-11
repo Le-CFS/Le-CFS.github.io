@@ -2935,7 +2935,7 @@ stages:
   activation_onglets: true
 - name: Karting
   categorie: Activités fun
-  img: "/assets/images/kartingetfun.png"
+  img: "/assets/images/stage-enfant-karting-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -4887,7 +4887,7 @@ stages:
       info_line: Une bonne condition physique est indispensable.
   activation_onglets: true
 - name: Karting & Fun
-  img: "/assets/images/stages/activitesfun/kartingetfun.png"
+  img: "/assets/images/stage-enfant-karting-et-fun-500x500.jpg"
   inscription: ''
   categorie: Activités fun
   online: true
