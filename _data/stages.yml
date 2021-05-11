@@ -3002,7 +3002,7 @@ stages:
   activation_onglets: true
 - name: Fun Laser & VTT
   categorie: Activités fun
-  img: "/assets/images/boutonsactivites/parascolaires/activitesfun.png"
+  img: "/assets/images/stage-enfant-activites-fun-lazer-vtt-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
