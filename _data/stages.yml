@@ -2527,7 +2527,7 @@ stages:
   activation_onglets: true
 - name: Super pilote
   categorie: Activités fun
-  img: "/assets/images/kartingetfun.png"
+  img: "/assets/images/stage-enfant-super-pilote-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
