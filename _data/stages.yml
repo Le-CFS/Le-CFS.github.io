@@ -1693,7 +1693,7 @@ stages:
   activation_onglets: true
 - name: 'Satellite Camp 2 '
   categorie: Internat
-  img: "/assets/images/satelliteniv2.jpg"
+  img: "/assets/images/stage-enfant-satellite-niveau-2-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -1734,7 +1734,7 @@ stages:
   activation_onglets: true
 - name: 'Satellite Camp 1 '
   categorie: Internat
-  img: "/assets/images/satellite.jpg"
+  img: "/assets/images/stage-enfant-satellite-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -1775,7 +1775,7 @@ stages:
   activation_onglets: true
 - name: Rocket Camp 2
   categorie: Internat
-  img: "/assets/images/rocketniv2.jpg"
+  img: "/assets/images/stage-enfant-rocket-niveau-2-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2318,7 +2318,7 @@ stages:
   activation_onglets: true
 - name: Sport Aventure & Quad
   categorie: Internat
-  img: "/assets/images/stages/activitesfun/sportaventureetquad.jpg"
+  img: "/assets/images/stage-enfant-sport-aventure-et-quad-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
