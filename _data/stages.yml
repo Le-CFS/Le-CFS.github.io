@@ -1652,7 +1652,7 @@ stages:
   activation_onglets: true
 - name: Vol à Voile
   categorie: Internat
-  img: "/assets/images/volavoil.jpg"
+  img: "/assets/images/stage-enfant-vol-a-voile-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
