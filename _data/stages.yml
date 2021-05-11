@@ -1900,7 +1900,7 @@ stages:
   activation_onglets: true
 - name: Modélisation 3D
   categorie: Internat
-  img: "/assets/images/3d.jpg"
+  img: "/assets/images/stage-enfant-3d-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2130,7 +2130,7 @@ stages:
   activation_onglets: true
 - name: Astronaut Camp
   categorie: Internat
-  img: "/assets/images/astronaute.jpg"
+  img: "/assets/images/stage-enfant-astronaute-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
