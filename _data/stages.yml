@@ -1814,7 +1814,7 @@ stages:
   activation_onglets: true
 - name: Rocket Camp 1
   categorie: Internat
-  img: "/assets/images/rocket.jpg"
+  img: "/assets/images/stage-enfant-rocket-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -1856,7 +1856,7 @@ stages:
   activation_onglets: true
 - name: Robotic Camp
   categorie: Activités fun
-  img: "/assets/images/robotique.jpg"
+  img: "/assets/images/stage-enfant-robotique-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -5081,7 +5081,7 @@ stages:
   location: []
   activation_onglets: true
 - name: Nauti Camp
-  img: "/assets/images/stages/activitesfun/nauticamp.jpg"
+  img: "/assets/images/stage-enfant-nauti-camp-500x500.jpg"
   inscription: ''
   categorie: Les petits bouts
   online: false
