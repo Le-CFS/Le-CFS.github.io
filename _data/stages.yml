@@ -2469,7 +2469,7 @@ stages:
   activation_onglets: true
 - name: Baby Tennis & Vélo
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/babytennisetvelo.jpg"
+  img: "/assets/images/stage-enfant-tennis-et-velo-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
