@@ -81,7 +81,7 @@ stages:
     infos: []
 - name: Fun Foot
   categorie: Activités sportives
-  img: "/assets/images/funfoot.jpg"
+  img: "/assets/images/stage-enfant-fun-foot-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -1936,7 +1936,7 @@ stages:
   activation_onglets: true
 - name: Drone Camp
   categorie: Internat
-  img: "/assets/images/drone.jpg"
+  img: "/assets/images/stage-enfant-drone-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -3179,7 +3179,7 @@ stages:
   activation_onglets: true
 - name: Fun Hiver
   categorie: Activités fun
-  img: "/assets/images/funhiver.jpg"
+  img: "/assets/images/stage-enfant-fun-hiver-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
@@ -4100,7 +4100,7 @@ stages:
   activation_onglets: true
 - name: Drones & Laser
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/droenetlaser_catalogue.jpg"
+  img: "/assets/images/stage-enfant-drone-et-laser-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -4784,7 +4784,7 @@ stages:
       info_line: 'Pour Koézio : taille minimum 1m40.'
   activation_onglets: true
 - name: Fun Ado
-  img: "/assets/images/stages/activitesfun/funado.jpg"
+  img: "/assets/images/stage-enfant-fun-ado-500x500.jpg"
   inscription: ''
   categorie: Activités fun
   online: true
