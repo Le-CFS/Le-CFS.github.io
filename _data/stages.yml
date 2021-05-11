@@ -2,7 +2,7 @@
 stages:
 - name: Découverte des métiers
   categorie: Activités fun
-  img: "/assets/images/decouverte-des-metiers.jpg"
+  img: "/assets/images/stage-enfant-decouverte-des-metiers-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -1976,7 +1976,7 @@ stages:
   activation_onglets: true
 - name: Astronomy Camp Junior
   categorie: Internat
-  img: "/assets/images/astronomiejr.jpg"
+  img: "/assets/images/stage-enfant-astronomie-junior-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2008,7 +2008,7 @@ stages:
   activation_onglets: true
 - name: Astronomy Camp
   categorie: Internat
-  img: "/assets/images/astronomie.jpg"
+  img: "/assets/images/stage-enfant-astronomie-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2050,7 +2050,7 @@ stages:
   activation_onglets: true
 - name: Astronaut Espace Langues
   categorie: Internat
-  img: "/assets/images/astronautespacelangues.jpg"
+  img: "/assets/images/stage-enfant-astronaute-space-langues-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2100,7 +2100,7 @@ stages:
   activation_onglets: true
 - name: Astronaut Camp Junior
   categorie: Internat
-  img: "/assets/images/astronautejr.jpg"
+  img: "/assets/images/stage-enfant-astronaute-junior-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -5072,7 +5072,7 @@ stages:
         en cas de vol).
   activation_onglets: true
 - name: Aventure Camp
-  img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
+  img: "/assets/images/stage-enfant-aventure-camp-500x500.jpg"
   inscription: ''
   categorie: Les petits bouts
   online: false
