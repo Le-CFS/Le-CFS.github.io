@@ -2605,7 +2605,7 @@ stages:
   activation_onglets: true
 - name: Aqua Multisports
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/aquamultisports.jpg"
+  img: "/assets/images/stage-enfant-aqua-multisports-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
