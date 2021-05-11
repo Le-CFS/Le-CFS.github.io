@@ -2260,7 +2260,7 @@ stages:
   activation_onglets: true
 - name: Initiation Golf
   categorie: Internat
-  img: "/assets/images/initiationgolf.jpg"
+  img: "/assets/images/stage-enfant-initiation-golf500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -2894,7 +2894,7 @@ stages:
   activation_onglets: true
 - name: Mini-Tennis
   categorie: Activités sportives
-  img: "/assets/images/mini-tennis.jpg"
+  img: "/assets/images/stage-enfant-mini-tennis-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -6464,7 +6464,7 @@ stages:
         stagiaires.'
   activation_onglets: true
 - name: New Games
-  img: "/assets/images/newgames.jpg"
+  img: "/assets/images/stage-enfant-new-games-500x500.jpg"
   inscription: ''
   categorie: Activités fun
   online: true
