@@ -1541,7 +1541,7 @@ stages:
   activation_onglets: true
 - name: Vélo Mômes
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/psychovelo.png"
+  img: "/assets/images/stage-enfant-velo-momes-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
@@ -6487,7 +6487,7 @@ stages:
         avec le covid). 
   activation_onglets: true
 - name: Vélo-Evolution
-  img: "/assets/images/veloevolution-2.png"
+  img: "/assets/images/stage-enfant-velo-evolution-500x500.jpg"
   inscription: ''
   categorie: Activités sportives
   online: true
