@@ -2678,7 +2678,7 @@ stages:
   activation_onglets: true
 - name: Psycho Cuisine
   categorie: Les petits bouts
-  img: "/assets/images/psychocuisine.png"
+  img: "/assets/images/stage-enfant-psycho-cuisine-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
@@ -3373,7 +3373,7 @@ stages:
     age: 3-4 ans
   activation_onglets: true
 - name: Psycho Aqua
-  img: "/assets/images/stages/lespetitsbouts/psychoaqua.png"
+  img: "/assets/images/stage-enfant-psycho-aqua-500x500.jpg"
   inscription: ''
   categorie: Les petits bouts
   online: true
@@ -3425,7 +3425,7 @@ stages:
       info_line: Prévoir une tenue de rechange.
   activation_onglets: true
 - name: Psycho Natation
-  img: "/assets/images/psychoaqua.png"
+  img: "/assets/images/stage-enfant-psycho-natation-500x500.jpg"
   inscription: ''
   categorie: Les petits bouts
   online: true
