@@ -2501,7 +2501,7 @@ stages:
   activation_onglets: true
 - name: Baby Natation
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/psychonatation.png"
+  img: "/assets/images/stage-enfant-baby-natation-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -4044,7 +4044,7 @@ stages:
     infos: []
   activation_onglets: true
 - name: Découverte Sportive & Natation
-  img: "/assets/images/stages/decouvertesportiveetculturelle/psychonatation.png"
+  img: "/assets/images/stage-enfant-decouverte-sportive-et-natation-500x500.jpg"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
