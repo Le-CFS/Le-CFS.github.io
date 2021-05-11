@@ -2441,7 +2441,7 @@ stages:
   activation_onglets: true
 - name: Fun VTT & Karting
   categorie: Activités fun
-  img: "/assets/images/kartingetfun-1.png"
+  img: "/assets/images/stage-enfant-fun-vtt-et-karting-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
