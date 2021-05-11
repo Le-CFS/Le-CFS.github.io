@@ -1566,7 +1566,7 @@ stages:
   activation_onglets: true
 - name: Tennis & VTT
   categorie: Activités sportives
-  img: "/assets/images/stagetennisetvtt.png"
+  img: "/assets/images/stage-enfant-tennis-et-vtt-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
