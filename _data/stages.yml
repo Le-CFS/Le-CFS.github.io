@@ -1598,7 +1598,7 @@ stages:
   activation_onglets: true
 - name: Cirque Mômes
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/cirquemomes.jpg"
+  img: "/assets/images/stage-enfant-cirque-momes-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -3089,7 +3089,7 @@ stages:
   activation_onglets: true
 - name: Baby Multisports & Poney
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/babymulti-poney.jpg"
+  img: "/assets/images/stage-enfant-baby-multi-et-poney-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
@@ -3134,7 +3134,7 @@ stages:
   activation_onglets: true
 - name: Baby Danse & Bijoux
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/babydanse-bijoux.jpg"
+  img: "/assets/images/stage-enfant-baby-danse-et-bijoux-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
