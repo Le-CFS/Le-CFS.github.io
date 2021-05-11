@@ -6487,7 +6487,7 @@ stages:
         avec le covid). 
   activation_onglets: true
 - name: Vélo-Evolution
-  img: "/assets/images/veloevolution.png"
+  img: "/assets/images/veloevolution-1.png"
   inscription: ''
   categorie: Activités sportives
   online: true
