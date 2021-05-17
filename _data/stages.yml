@@ -9,14 +9,30 @@ stages:
   activation_onglets: false
   inscription: ''
   location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 13-16 ans
+    description: "<p><strong>Equipe jaune ou équipe rouge ?</strong></p><p>Viens vivre
+      une semaine dans la peau des aventuriers de Koh Lanta : composition des tribus,
+      épreuves en binôme et par équipe (avec les mythiques course d'orientation et
+      épreuve des poteaux!), fabrication de campement, et dégustation d’insectes pour
+      les plus courageux.</p><p>Participe à des activités survivor (construction d’un
+      camp, purification de l’eau,…), des jeux de nuit et dors dans ton campement
+      avec tes coéquipiers.</p><p>Le stage se termine en beauté par un épreuve finale
+      et un barbecue.</p><p>Les adolescents dorment sur place la nuit du jeudi au
+      vendredi. Il faut prévoir en conséquent le nécessaire de toilette et un sac
+      de couchage.</p>"
+    infos:
+    - alias: Prévoir des vêtements pour les activités en extérieur
+      info_line: Prévoir des vêtements pour les activités en extérieur
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 13-16 ans
-    description: "<p>Equipe jaune ou équipe rouge ?</p><p>Viens vivre une semaine
-      dans la peau des aventuriers de Koh Lanta : composition des tribus, épreuves
-      en binôme et par équipe (avec les mythiques course d'orientation et épreuve
-      des poteaux!), fabrication de campement, et dégustation d’insectes pour les
-      plus courageux.</p><p>Participe à des activités survivor (construction d’un
+    description: "<p><strong>Equipe jaune ou équipe rouge ?</strong></p><p>Viens vivre
+      une semaine dans la peau des aventuriers de Koh Lanta : composition des tribus,
+      épreuves en binôme et par équipe (avec les mythiques course d'orientation et
+      épreuve des poteaux!), fabrication de campement, et dégustation d’insectes pour
+      les plus courageux.</p><p>Participe à des activités survivor (construction d’un
       camp, purification de l’eau,…), des jeux de nuit et dors dans ton campement
       avec tes coéquipiers.</p><p>Le stage se termine en beauté par un épreuve finale
       et un barbecue.</p><p>Les adolescents dorment sur place la nuit du jeudi au
