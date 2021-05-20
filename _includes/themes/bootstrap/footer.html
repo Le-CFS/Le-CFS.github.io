@@ -36,7 +36,7 @@
               <h3 class="small-title text-center">
                 Instagram
               </h3>
-              {% include footer/instagram.html %}
+              <a href="https://www.instagram.com/{{ site.author.instagram }}/"><img src="/assets/images/Instagram.jpg"></a>
             </div>
             <!-- Footer Widget Ends -->
 
@@ -45,7 +45,7 @@
               <h3 class="small-title">
                 Facebook
               </h3>
-              <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCFSasbl%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+              <a href="https://www.facebook.com/{{ site.author.facebook }}/"><img src="/assets/images/facebook.jpg"></a>
             </div>
             <!-- Footer Widget Ends -->
           </div>
@@ -54,12 +54,11 @@
 
         <!-- Container Ends -->
         <div class="container text-center">
-          <img class="mb-40 footer-logo" src="{{ BASE_PATH }}/assets/images/logo.png" alt="" style="width: 300px; height: auto;">
+          <img class="mb-40 footer-logo" src="{{ BASE_PATH }}/assets/images/logocfs2.jpg" alt="CFS ASBL" style="width: 300px; height: auto;">
           <span class="copy-right dis-blk">Theme Helium Jekyll - Bootstrap 4 UI Kit créé avec <i class="fa fa-heart cyan-color"></i> par <a href="https://antoniotrento.github.io">Antonio Trento</a> et adapté par Coleen & Romain</span>
           <span class="social">
                   {% if site.author.facebook %}<a href="https://www.facebook.com/{{ site.author.facebook }}/"><i class="fa fa-2x fa-facebook"></i></a>{% endif %}
-                  {% if site.author.instagram %}<a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="fa fa-2x fa-instagram"></i></a>{% endif %}                            
-              	
+                  {% if site.author.instagram %}<a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="fa fa-2x fa-instagram"></i></a>{% endif %}
           </span>
         </div>
       </footer>
