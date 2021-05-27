@@ -3752,7 +3752,7 @@ stages:
         des possibilités covid).
   activation_onglets: true
 - name: Baby Foot
-  img: "/assets/images/stages/decouvertesportiveetculturelle/babyfoot.png"
+  img: "/assets/images/stage-enfant-baby-foot-500x500.jpg"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
