@@ -166,8 +166,8 @@ stages:
     infos: []
 - name: Football (joueurs)
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-football-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -196,8 +196,8 @@ stages:
     infos: []
 - name: Football (gardiens)
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-football-gardien-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
