@@ -1338,7 +1338,7 @@ stages:
     infos: []
 - name: Basketball
   categorie: Internat
-  img: "/assets/images/stage-enfant-internat-basketball-500x500.jpg"
+  img: "/assets/images/stage-enfant-internat-espagne-basketball-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
