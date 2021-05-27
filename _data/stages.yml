@@ -797,8 +797,8 @@ stages:
     infos: []
 - name: Tennis
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-tennis-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
