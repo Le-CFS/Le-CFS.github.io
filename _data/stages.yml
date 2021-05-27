@@ -20,9 +20,9 @@ stages:
       </em>: le déplacement vers le lieu des quads se fait à pied et encadré par nos
       soins.</p>'
     infos:
-    - alias: Prévoir une paire de bottines
+    - alias: Prévoir vêtement adaptés aux activités d’extérieur et d'intérieur
       info_line: ''
-    - alias: Prévoir vêtement adaptés aux activités d’extérieur et d'intérieur.
+    - alias: Prévoir une paire de bottines
       info_line: ''
 - name: Koh Lanta Survivor
   categorie: Activités fun
