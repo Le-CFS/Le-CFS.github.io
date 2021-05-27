@@ -257,8 +257,8 @@ stages:
     infos: []
 - name: Jumanji & Géocatching
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-jumanji-et-geocatching-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
