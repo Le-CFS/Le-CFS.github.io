@@ -332,7 +332,7 @@ stages:
   inscription: ''
 - name: Vacances Ados
   categorie: Internat
-  online: false
+  online: true
   nouveau: true
   location:
   - alias: Italie
@@ -363,7 +363,7 @@ stages:
       repos…). Les moniteurs et entraineurs présents lors du voyage assureront l’encadrement
       des participants.</p>"
     infos: []
-  img: ''
+  img: "/assets/images/stage-enfant-internat-vacances-ados-500x500.jpg"
   stage_une: false
   activation_onglets: false
   inscription: ''
