@@ -1198,8 +1198,8 @@ stages:
     infos: []
 - name: Top Summer
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-espagne-top-summer-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
