@@ -1245,8 +1245,8 @@ stages:
     infos: []
 - name: Full Activity
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-espagne-full-activity-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
