@@ -1151,8 +1151,8 @@ stages:
     infos: []
 - name: Cool Summer
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-espagne-cool-summer-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
