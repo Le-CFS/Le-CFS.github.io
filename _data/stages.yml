@@ -1920,7 +1920,7 @@ stages:
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
   activation_onglets: true
 - name: Robotic Camp
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/stage-enfant-robotique-500x500.jpg"
   online: true
   nouveau: true
