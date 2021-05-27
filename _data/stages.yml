@@ -1291,8 +1291,8 @@ stages:
     infos: []
 - name: Football
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-espagne-football-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
