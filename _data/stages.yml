@@ -441,7 +441,7 @@ stages:
     infos: []
 - name: Mission adrénaline
   categorie: Internat
-  img: ''
+  img: "/assets/images/stage-enfant-internat-bdk-mission-adrenaline-500x500.jpg"
   online: false
   nouveau: true
   stage_une: false
