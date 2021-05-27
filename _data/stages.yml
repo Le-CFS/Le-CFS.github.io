@@ -559,7 +559,7 @@ stages:
     infos: []
 - name: Equitation
   categorie: Internat
-  img: ''
+  img: "/assets/images/stage-enfant-internat-equitation-500x500.jpg"
   online: false
   nouveau: true
   stage_une: false
