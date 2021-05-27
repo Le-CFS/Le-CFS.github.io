@@ -1,5 +1,29 @@
 ---
 stages:
+- name: Quad & Fun
+  categorie: Activités fun
+  img: "/assets/images/stage-enfant-quad-et-fun-500x500.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: '<p>Tu veux découvrir les vraies sensations d''un pilote ? Adrénaline,
+      amusement et FUN seront au rendez-vous ! Ce stage destiné aux enfants de 8 à
+      14 ans, permet de s''initier et de se perfectionner à la conduite d''un quad.
+      <br>L''après-midi, les enfants découvriront le laser game, de l''arrow game,
+      du frisbee golf, du snag golf, du kinball, du spike ball,...</p><p class="MsoNormal"><em>Attention
+      </em>: le déplacement vers le lieu des quads se fait à pied et encadré par nos
+      soins.</p>'
+    infos:
+    - alias: Prévoir une paire de bottines
+      info_line: ''
+    - alias: Prévoir vêtement adaptés aux activités d’extérieur et d'intérieur.
+      info_line: ''
 - name: Koh Lanta Survivor
   categorie: Activités fun
   online: true
