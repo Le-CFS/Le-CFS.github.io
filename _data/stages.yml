@@ -1385,8 +1385,8 @@ stages:
     infos: []
 - name: Vacances Ados
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-croatie-vacances-ados-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
