@@ -369,8 +369,8 @@ stages:
   inscription: ''
 - name: Multisports
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-bdk-multisports-500x500.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
