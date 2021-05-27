@@ -640,7 +640,7 @@ stages:
 - name: Sports Nautiques
   categorie: Internat
   img: "/assets/images/anniversaires/activites/nautifun.png"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
