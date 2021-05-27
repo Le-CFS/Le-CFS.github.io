@@ -67,7 +67,7 @@ stages:
       info_line: Prévoir des vêtements adaptés pour les activités en extérieur.
 - name: Découverte des métiers
   categorie: Activités fun
-  img: "/assets/images/stage-enfant-decouverte-des-metiers-500x500.jpg"
+  img: "/assets/images/stage-enfant-decouverte-metiers-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
