@@ -1,5 +1,12 @@
 ---
 liste:
+- name: LSA Perwez Beach Soccer
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/lsa.jpg"
+  href: https://www.facebook.com/LSA-Perwez-Beach-Soccer-357436874880026/
+  bouton: ''
+  couleur_bouton: ''
 - name: Royal La Hulpe Sporting Club
   categorie: partenaires pédagogiques
   online: true
