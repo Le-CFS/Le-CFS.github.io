@@ -1,12 +1,5 @@
 ---
 liste:
-- name: FC Walhain
-  categorie: partenaires pédagogiques
-  online: true
-  logo: "/assets/images/logo_partenaire_fcwalhain.jpg"
-  href: https://www.fc-walhain.be/
-  bouton: Site web
-  couleur_bouton: ''
 - name: LSA Perwez Beach Soccer
   categorie: partenaires pédagogiques
   online: true
@@ -28,12 +21,26 @@ liste:
   href: http://www.rltc.be/
   bouton: Site Web
   couleur_bouton: ''
+- name: FC Walhain
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/logo_partenaire_fcwalhain.jpg"
+  href: https://www.fc-walhain.be/
+  bouton: Site web
+  couleur_bouton: ''
 - name: Ecole Aurore Jette
   categorie: Partenaires écoles
   online: true
   logo: "/assets/images/ecoleaurorejette.png"
   href: https://www.ecole-aurore.be/
   bouton: Site Web
+  couleur_bouton: ''
+- name: 'Ritter Klub '
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/ritterklub.png"
+  href: https://ritterklub.be/
+  bouton: Site web
   couleur_bouton: ''
 - name: Roc Events asbl
   categorie: Partenaires de stages
@@ -211,7 +218,7 @@ liste:
   bouton: Site Web
   couleur_bouton: ''
 - name: Futsal Jette
-  categorie: Partenaires pédagogiques
+  categorie: ''
   logo: "/assets/images/partenaires/futsaljette.png"
   href: https://www.futsaljette.be/
   online: true
