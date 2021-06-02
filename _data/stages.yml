@@ -4165,7 +4165,7 @@ stages:
   activation_onglets: true
 - name: Drone & Laser
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/stage-enfant-drone-et-laser-500x500.jpg"
+  img: "/assets/images/stage-enfant-drone-laser-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
