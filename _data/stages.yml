@@ -3160,8 +3160,8 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Brabant
-    ville: Brabant Wallon
+  - alias: Bruxelles
+    ville: Bruxelles
     age: 4-6 ans
     description: "<p><em>Stage en partenariat avec </em><strong><em>Pony Plesure</em></strong></p><p>Chaque
       journée de stage commence par une pleine participation à la vie du manège :
