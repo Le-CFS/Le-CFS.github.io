@@ -226,6 +226,8 @@ cours_adultes:
     url: "/cours_adultes/gymentretien/"
   - title: Swiss jump
     url: "/cours_adultes/swissjump/"
+  - title: Aqua Fitness
+    url: "/cours_adultes/aquafitness/"
   - title: En savoir plus
     url: "/cours_adultes/en_savoir_plus/"
 anniversaires:
