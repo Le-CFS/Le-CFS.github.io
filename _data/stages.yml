@@ -1,5 +1,29 @@
 ---
 stages:
+- name: FUN EVASION
+  categorie: Activités fun
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: '12-16 ans '
+    description: "<p>Une superbe semaine pour vos ados !! Activités fun garanties
+      !</p><p><strong>PROGRAMME </strong>: New Games, Barrage de l'Eau d'Heure, mer,
+      Profondville et Survivor</p><ul><li><p>New Games : différentes activités fun
+      sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball,
+      kinball, flag foot.</p></li></ul><ul><li><p>Excursion au barrage de l'Eau d'Heure
+      : Aquaparc avec des structures gonflables sur eau.</p></li><li><p>Excursion
+      à Profondville : bouée tractée, kayak.</p></li><li><p>Survivor : Initiation
+      aux techniques de survie (lire une carte, filtrer de l'eau, construire un cabane,
+      ...</p></li></ul><p><em>ATTENTION : le programme peut changer les semaines plus
+      courtes.</em></p><p><strong>Certaines activités demandent un déplacement en
+      navette assuré par nos soins.</strong></p>"
+    infos: []
 - name: Quad & Fun
   categorie: Activités fun
   img: "/assets/images/stage-enfant-quad-et-fun-500x500.jpg"
