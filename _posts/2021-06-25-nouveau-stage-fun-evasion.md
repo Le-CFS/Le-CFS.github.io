@@ -23,7 +23,7 @@ Gagnez 10€ - **FUN EVASION** 🤩
 Activités fun garanties au programme pour les jeunes de **12 à 16 ans !  
 Lieu d'accueil:** Wavre/Ottignies/Rixensart
 
-* Lundi : Différentes activités fun comme le frisbee golf, snag golf, spikeball, kinball, flag foot).
+* Lundi : Différentes activités fun comme le frisbee golf, snag golf, spikeball, kinball et flag foot.
 * Mardi : Excursion au barrage de l’Eau d’Heure avec des structures gonflables sur l'eau.
 * Mercredi : Evasion à la mer avec course en cuistax.
 * Jeudi : Journée sportive et fun (bouée tractée, kayak...).
