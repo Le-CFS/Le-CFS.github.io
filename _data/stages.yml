@@ -2,7 +2,7 @@
 stages:
 - name: FUN EVASION
   categorie: Activités fun
-  img: ''
+  img: "/assets/images/stages_enfants_fun_evasion.jpg"
   online: true
   nouveau: true
   stage_une: false
