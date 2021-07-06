@@ -2627,12 +2627,11 @@ stages:
     age: 8 à 12 ans
     description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
       te permettra de découvrir les sensations d’un vrai pilote : concentration, adrénaline
-      et amusement ! </p><p><strong>Au programme </strong>: une journée de quad, une
-      journée e-moto, une journée e-fun (segway et trottinette électrique), une journée
-      e-fun sur playstation, et une journée de karting au WIK Wavre.</p><p>Le reste
-      de la journée est complété par des activités multisports.</p><p><strong>Le CFS
-      se donne le droit d'annuler le stage d'un enfant qui ne respecterait pas les
-      différentes règles de sécurité.</strong></p>"
+      et amusement !</p><p><strong>Au programme </strong>: une journée de quad, une
+      journée e-fun (segway et trottinette électrique), une journée e-fun sur playstation,
+      et une journée de karting au WIK Wavre.</p><p>Le reste de la journée est complété
+      par des activités multisports.</p><p><strong>Le CFS se donne le droit d'annuler
+      le stage d'un enfant qui ne respecterait pas les différentes règles de sécurité.</strong></p>"
     infos:
     - alias: Tenue extérieur
       info_line: Prévoir une tenue adaptée au activités en extérieur. 
