@@ -5135,16 +5135,19 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Envie de découvrir un nouveau stage au programme alléchant ?
-      </p><p>Au programme :</p><ul><li><p>Une journée inoubliable de <strong>Paintball
-      </strong>et <strong>moto e-trial </strong>avec lepaintball.be ;</p></li><li><p>Un
-      journée de <strong>Quad </strong>au Collège Notre-Dame de Basse-Wavre ;</p></li><li><p>Deux
+    description: "<p>Envie de découvrir un nouveau stage au programme alléchant ?</p><p>Au
+      programme :</p><ul><li><p>Une journée inoubliable de <strong>Paintball </strong>et
+      <strong>moto e-trial </strong>avec lepaintball.be ;</p></li><li><p>Un journée
+      de <strong>Quad </strong>au Collège Notre-Dame de Basse-Wavre ;</p></li><li><p>Deux
       courses de <strong>Karting </strong>au WIK-Wavre Indoor Karting (demi-finale/finale)
       ;</p></li><li><p>Des activités funs pour compléter la semaine :<strong> laser
       game</strong> &amp; <strong>arrow game, Fun Games </strong>(frisbee golf, snag
-      golf, spikeball, kinball, flag foot).</p></li></ul><p>Tous les déplacements
-      se font en VTT pour se rendre aux différentes activités.</p><p>L'enfant doit
-      être capable de rouler 8 kilomètres par jour.</p>"
+      golf, spikeball, kinball, flag foot).</p></li></ul><p>Les activités fun sont
+      complétées par des balades en VTT.</p><p>Tous les déplacements se font en VTT
+      pour se rendre aux différentes activités.</p><p>L'enfant doit être capable de
+      rouler minimum 18 kilomètres par jour.</p><p><strong>Attention : il faut un
+      VTT, un cadenas, un casque ainsi qu'une chambre à air de rechange dès le premier
+      jour du stage !</strong></p>"
     infos:
     - alias: Matériel
       info_line: 'Attention : il faut un VTT, un cadenas, un casque ainsi qu''une
