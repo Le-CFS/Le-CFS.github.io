@@ -3689,8 +3689,22 @@ stages:
       info_line: L'enfant peut apporter son propre vélo.
   - alias: Bruxelles
     ville: Bruxelles
-    age: ''
-    description: ''
+    age: 3-4 ans
+    description: "<p>Votre enfant veut devenir un champion, comme Eddy Merckx ? Eh
+      bien voilà ! Ce stage est un bon début !</p><p>Il prévoit une initiation au
+      vélo via des exercices d'équilibre et de prise de confiance. Les règles de sécurité
+      sont appliquées.</p><p>Le reste de la journée est consacré à un mélange de différentes
+      activités du stage «&nbsp;Psycho Découverte&nbsp;»&nbsp;: jeux de coopération,
+      parcours d'adresse, d'audace, exercice de latéralité, éveil artistique, découverte
+      de la nature environnante et du rythme.</p><p>Les stages pour les plus petits
+      tendent au développement harmonieux des enfants au travers d'activités adaptées
+      à leur âge. L'enfant développe de nouvelles aptitudes tout en jouant&nbsp;:
+      il apprend les règles du jeu et de groupe, développe sa sociabilité et explore
+      les différentes facettes de la motricité.</p><p>Le rythme de l'enfant est respecté
+      et une sieste est prévue pour les enfants qui en ont besoin. Il y a maximum
+      12 enfants par groupe (8 enfants pour la Pré-Psychomotricité).</p><p>Pour les
+      étapes commençant à 3 ans (PSYCHO) : les enfants doivent être propres. Le cas
+      échéant, il faut s'inscrire au petit-bout en pré-psycho.</p><p>Lee</p>"
     infos:
     - alias: Amener son propre vélo
       info_line: L'enfant doit venir avec son vélo/draisienne en bon état et son casque.
