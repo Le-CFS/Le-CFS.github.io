@@ -3665,18 +3665,18 @@ stages:
     description: "<p>Votre enfant veut devenir un champion, comme Eddy Merckx ? Eh
       bien voilà ! Ce stage est un bon début !</p><p>Il prévoit une initiation au
       vélo via des exercices d'équilibre et de prise de confiance. Les règles de sécurité
-      sont abordées.</p><p>Le reste de la journée est consacré à un mix des différentes
-      activités du stage « Psycho Découverte » : jeux de coopération, parcours d'adresse,
-      d'audace, exercice de latéralité, éveil artistique, découverte de la nature
-      environnante et du rythme.</p><p>Les stages pour les plus petits tendent au
-      développement harmonieux des enfants au travers d’activités adaptées à leur
-      âge. L’enfant développe de nouvelles aptitudes tout en jouant : il apprend les
-      règles du jeu et de groupe, développe sa sociabilité et explore les différentes
-      facettes de la motricité.</p><p>Le rythme de l’enfant est respecté et une sieste
-      est prévue pour les enfants qui en ont besoin. Il y a maximum 12 enfants par
-      groupe (8 enfants pour la Pré-Psychomotricité).</p><p>Pour les stages commençant
-      à 3 ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut
-      inscrire votre petit-bout en pré-psycho.</p>"
+      sont appliquées.</p><p>Le reste de la journée est consacré à un mélange de différentes
+      activités du stage «&nbsp;Psycho Découverte&nbsp;»&nbsp;: jeux de coopération,
+      parcours d'adresse, d'audace, exercice de latéralité, éveil artistique, découverte
+      de la nature environnante et du rythme.</p><p>Les stages pour les plus petits
+      tendent au développement harmonieux des enfants au travers d'activités adaptées
+      à leur âge. L'enfant développe de nouvelles aptitudes tout en jouant&nbsp;:
+      il apprend les règles du jeu et de groupe, développe sa sociabilité et explore
+      les différentes facettes de la motricité.</p><p>Le rythme de l'enfant est respecté
+      et une sieste est prévue pour les enfants qui en ont besoin. Il y a maximum
+      12 enfants par groupe (8 enfants pour la Pré-Psychomotricité).</p><p>Pour les
+      étapes commençant à 3 ans (PSYCHO) : les enfants doivent être propres. Le cas
+      échéant, il faut s'inscrire au petit-bout en pré-psycho.</p>"
     infos:
     - alias: Enfants propres
       info_line: 'Pour les stages commençant à 3 ans (PSYCHO) : les enfants doivent
@@ -3687,6 +3687,13 @@ stages:
       info_line: Le CFS met à disposition des draisiennes.
     - alias: Vélo personnel
       info_line: L'enfant peut apporter son propre vélo.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: ''
+    description: ''
+    infos:
+    - alias: Amener son propre vélo
+      info_line: L'enfant doit venir avec son vélo/draisienne en bon état et son casque.
   activation_onglets: true
 - name: Apprenti Vélo
   img: "/assets/images/stage-enfant-apprenti-velo-500x500.jpg"
@@ -3717,13 +3724,13 @@ stages:
     ville: Bruxelles
     age: 4-6 ans
     description: "<p>Vous souhaitez que votre petit bout apprenne à rouler à vélo
-      comme les grands ? Ce stage réservé aux enfants ne sachant pas rouler à vélo
-      sur 2 roues est l'idéal pour lui !</p><p>Il propose quotidiennement une demi-journée
-      consacrée à l'apprentissage de la conduite à vélo : apprendre à rouler sur deux
-      roues, réaliser de petits parcours d'adresse, apprentissage du code de la route
-      et des règles élémentaires de sécurité.</p><p>Le reste de la journée est consacré
-      à des activités de multisports comme la baby danse, le baby foot ou la baby
-      gym.</p>"
+      comme les grands ? Cette étape réservée aux enfants ne sachant pas rouler à
+      vélo sur 2 roues est l'idéal pour lui !</p><p>Il propose quotidiennement une
+      demi-journée consacrée à l'apprentissage de la conduite à vélo&nbsp;: apprendre
+      à rouler sur deux roues, réaliser de petits parcours d'adresse, apprentissage
+      du code de la route et des règles élémentaires de sécurité.</p><p>Le reste de
+      la journée est consacré aux activités de multisports comme la baby danse, le
+      baby foot ou la baby gym.</p>"
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur. 
