@@ -12,7 +12,7 @@ infos:
   date: 
   teaser: ''
 description: Nouveau centre à Perwez pour les activités extrascolaires au CFS
-image: "/assets/images/cfs_perwez_new.jpg"
+image: "/assets/images/perwez_21_22.jpg"
 
 ---
 ##### **NOUVEAU**
