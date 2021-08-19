@@ -6257,6 +6257,9 @@ stages:
     infos:
     - alias: Repas
       info_line: Il ne faut donc prévoir à manger pour votre enfant que le vendredi.
+    - alias: Navette
+      info_line: Pour les enfants inscrits à Wavre, Rixensart ou Ottignies, une navette
+        CFS est prévue jusque Bierges. 
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-12 ans
