@@ -206,6 +206,10 @@ activites:
       url: "/activites/cfs_academy/robotique_academy/"
     - title: Danse Academy
       url: "/activites/cfs_academy/danse_academy/"
+  - title: Activités Parascolaires
+    url: "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2"
+    title_mobile: Activités Parascolaires
+    online_mobile: false
 cours_adultes:
   titre: Cours adultes
   url: "/cours_adultes/"
