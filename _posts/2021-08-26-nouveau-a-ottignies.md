@@ -9,7 +9,7 @@ banner: "/assets/images/newottignies_aquafun_aquasirene.jpg"
 infos:
   date: 
   teaser: ''
-description: Nouveau à Ottignies
+description: 2 nouveautés ludiques & fun !
 image: "/assets/images/ottignies_aquafun_aquasirene_facebook.jpg"
 
 ---
