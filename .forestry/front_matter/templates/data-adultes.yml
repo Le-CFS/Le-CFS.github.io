@@ -1,0 +1,32 @@
+---
+label: DATA Adultes
+hide_body: true
+fields:
+- type: text
+  name: slogan
+  label: slogan
+- name: horaires
+  type: file
+  config:
+    maxSize: 64
+  label: Horaires des cours
+- type: field_group_list
+  name: cours
+  label: cours
+  fields:
+  - name: online
+    type: boolean
+    label: Le cours doit il être publié ?
+    default: true
+  - type: text
+    name: titre
+    label: titre
+  - type: file
+    name: src
+    label: src
+  - type: text
+    name: href
+    label: href
+  - type: text
+    name: bouton
+    label: bouton
