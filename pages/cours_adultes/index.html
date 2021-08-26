@@ -7,12 +7,10 @@ description: Le CFS propose des cours collectifs pour adultes dans une ambiance 
   sein du nouveau centre sportif du CFS situé à Bierges (Wavre).
 banner: ''
 image: ''
-slogan: Gardez la forme !
-horaires: "/assets/images/cours-adultes-programme-2021-2022.jpg"
-
 ---
+{% assign adultes = site.data.adultes %}
 <div class="row">
-<div class="col-md-12 text-center" style="font-size: 24px; margin-bottom: 20px;"><strong>Gardez la forme !</strong></div>
+<div class="col-md-12 text-center" style="font-size: 24px; margin-bottom: 20px;"><strong>{{ adultes.slogan }}</strong></div>
 
 <div class="col-md-4 offset-md-4" style="margin-bottom: 20px;">
 	<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=3&Province=Brabant" class="btn btn-block btn-info-filled" target="_blank">Inscription cours adultes</a>
@@ -28,7 +26,7 @@ horaires: "/assets/images/cours-adultes-programme-2021-2022.jpg"
 	      </div>
 	      <div id="panel1" class="panel-collapse collapse">
 	        <div class="panel-body text-gray">
-	          <img src="/assets/images/cours-adultes-programme-2021-2022.jpg" style="width: 100%;">
+	          <img src="{{ adultes.horaires }}" style="width: 100%;">
 	        </div>
 	      </div>
 	    </div>
@@ -39,37 +37,11 @@ horaires: "/assets/images/cours-adultes-programme-2021-2022.jpg"
 <div class="container">
      <div class="team-members-tow mtb-50">
 		<div class="row">
-			<div class="col-xs-6 col-md-4">
-				{% include coleen/bulle.html src="/assets/images/cours-adultes-aqua-mix-300x300.jpg" titre="Aqua Mix" href="/cours_adultes/aquamix" bouton="Plus d'info" %}
+			{% for cours in adultes.cours %}
+			<div class="col-xs-6 col-md-3">
+				{% include coleen/bulle.html src=cours.src titre=cours.titre href=cours.href bouton=cours.bouton %}
 			</div>
-
-			<div class="col-xs-6 col-md-4">
-				{% include coleen/bulle.html src="/assets/images/cours-adultes-gym-entretien-300x300.jpg" titre="Gym entretien" href="/cours_adultes/gymentretien" bouton="Plus d'info" %}
-			</div>
-
-			<div class="col-xs-6 col-md-4">
-				{% include coleen/bulle.html src="/assets/images/cours-adultes-aqua-biking-300x300.jpg" titre="Aqua Bike" href="/cours_adultes/aquabike" bouton="Plus d'info" %}
-			</div>
-
-			<div class="col-xs-6 col-md-4">
-				{% include coleen/bulle.html src="/assets/images/cours-adultes-yoga-300x300.jpg" titre="Yoga" href="/cours_adultes/yoga" bouton="Plus d'info" %}
-			</div>
-
-			<div class="col-xs-6 col-md-4">
-				{% include coleen/bulle.html src="/assets/images/cours-adultes-abdos-fessiers-300x300.jpg" titre="Abdos Fessiers" href="/cours_adultes/abdos_fessiers" bouton="Plus d'info" %}
-			</div>
-
-			<div class="col-xs-6 col-md-4">
-				{% include coleen/bulle.html src="/assets/images/cours-adultes-swiss-jump-300x300.jpg" titre="Swiss Jump" href="/cours_adultes/swissjump" bouton="Plus d'info" %}
-			</div>
-
-			<div class="col-xs-6 offset-xs-3 col-md-4">
-				{% include coleen/bulle.html src="/assets/images/cours-adultes-aqua-gym-300x300.jpg" titre="Aqua Gym" href="/cours_adultes/aquagym" bouton="Plus d'info" %}
-			</div>
-
-			<div class="col-xs-6 offset-xs-3 col-md-4">
-				{% include coleen/bulle.html src="/assets/images/cours-adultes-aqua-fitness-300x300.jpg" titre="Aqua Fitness" href="/cours_adultes/aquafitness" bouton="Plus d'info" %}
-			</div>
+			{% endfor %}
 		</div>
 	</div>
 </div>

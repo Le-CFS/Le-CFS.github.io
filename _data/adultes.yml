@@ -1,0 +1,35 @@
+slogan: Gardez la forme !
+horaires: "/assets/images/cours-adultes-programme-2021-2022.jpg"
+cours:
+- titre: "Aqua Mix"
+  src: /assets/images/cours-adultes-aqua-mix-300x300.jpg
+  href: "/cours_adultes/aquamix"
+  bouton: "Plus d'info"
+- titre: "Gym Entretien"
+  src: /assets/images/cours-adultes-gym-entretien-300x300.jpg
+  href: "/cours_adultes/aquamix"
+  bouton: "Plus d'info"
+- titre: "Aqua Biking"
+  src: /assets/images/cours-adultes-aqua-biking-300x300.jpg
+  href: "/cours_adultes/aquabike"
+  bouton: "Plus d'info"
+- titre: "Yoga"
+  src: /assets/images/cours-adultes-yoga-300x300.jpg
+  href: "/cours_adultes/yoga"
+  bouton: "Plus d'info"
+- titre: "Abdos Fessiers"
+  src: /assets/images/cours-adultes-abdos-fessiers-300x300.jpg
+  href: "/cours_adultes/abdos_fessiers"
+  bouton: "Plus d'info"
+- titre: "Swiss Jump"
+  src: /assets/images/cours-adultes-swiss-jump-300x300.jpg
+  href: "/cours_adultes/swissjump"
+  bouton: "Plus d'info"
+- titre: "Aqua Gym"
+  src: /assets/images/cours-adultes-aqua-gym-300x300.jpg
+  href: "/cours_adultes/aquagym"
+  bouton: "Plus d'info"
+- titre: "Aqua Fitness"
+  src: /assets/images/cours-adultes-aqua-fitness-300x300.jpg
+  href: "/cours_adultes/aquafitness"
+  bouton: "Plus d'info"
