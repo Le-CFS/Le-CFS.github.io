@@ -17,15 +17,15 @@ image: "/assets/images/ottignies_aquafun_aquasirene_facebook.jpg"
 
 2 nouveautés ludiques & fun !
 
-\**Aqua Fun :  
-\**Diverses activités fun telles que du water-polo, du hockey subaquatique, du parkour, de l'initiation aux techniques de sauvetage et bien d'autres encore.
+**Aqua Fun :**  
+Diverses activités fun telles que du water-polo, du hockey subaquatique, du parkour, de l'initiation aux techniques de sauvetage et bien d'autres encore.
 
 Séances d'1h.
 
 **_Attention : L'enfant doit savoir nager pour participer à cette activité._**
 
-\**Aqua Sirène :  
-\**Ce cours ouvert tant pour les enfants que les adultes permet la découverte des techniques de nage liées au monopalme, la nage du dauphin et améliore les mouvements du haut du corps en milieu aquatique. Il s'agit d'une activité assez intensive on l'on apprend également à maîtriser l'apnée.
+**Aqua Sirène :**  
+Ce cours ouvert tant pour les enfants que les adultes permet la découverte des techniques de nage liées au monopalme, la nage du dauphin et améliore les mouvements du haut du corps en milieu aquatique. Il s'agit d'une activité assez intensive on l'on apprend également à maîtriser l'apnée.
 
 Séances de 30 minutes.
 
