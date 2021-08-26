@@ -25,4 +25,4 @@ description: Profitez d'un apprentissage individuel et de la plein relation avec
 <br />
 Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser.</p>
 
-<p>📍<strong> Brabant Wallon</strong> - Bierges - Ottignies - Wavre</p>
+<p>📍<strong> Brabant Wallon</strong> - Bierges - Ottignies - Wavre - Walhain</p>

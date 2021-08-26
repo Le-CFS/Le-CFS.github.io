@@ -23,8 +23,10 @@ Nos exercices principaux visent à favoriser l'accoutumance, l'éveil sensoriel,
 
 Nos formateurs spécialisés enseignent toutes sortes de jeux ludiques et veillent au développement psychomoteur des bébés.
 
-Les parents doivent accompagner leur bébé dans l'eau durant toute la séance. Séance de 30 minutes par petits groupes de 6 enfants maximum.
+Les parents doivent accompagner leur bébé dans l'eau durant toute la séance. Séance de 30 minutes par petits groupes de 7 enfants maximum.
 
 *Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser.*
 
-📍 **Brabant Wallon** -  Bierges - Le Provincial
+📍 **Brabant Wallon** - Bierges - Le Provincial
+
+📍 **Brabant Wallon** - Walhain - Aquanil
