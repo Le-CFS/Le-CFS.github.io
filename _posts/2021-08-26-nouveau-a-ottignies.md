@@ -5,7 +5,7 @@ tags:
 - Aqua Sirène
 - Aqua Fun
 title: Nouveau à Ottignies
-banner: "/assets/images/ottignies_aquafun_aquasirene.jpg"
+banner: "/assets/images/newottignies_aquafun_aquasirene.jpg"
 infos:
   date: 
   teaser: ''
