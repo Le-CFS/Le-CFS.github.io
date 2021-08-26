@@ -15,9 +15,6 @@ slider:
 - titre: ACTIVITES EXTRASCOLAIRES
   src: "/assets/images/extrascolaire2021-2022.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
-- titre: STAGES ETE
-  src: "/assets/images/lastminute_ete2021.jpg"
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
 - titre: BON CADEAU
   src: "/assets/images/boncadeauete-1.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=14
