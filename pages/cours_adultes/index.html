@@ -38,9 +38,11 @@ image: ''
      <div class="team-members-tow mtb-50">
 		<div class="row">
 			{% for cours in adultes.cours %}
+			{% if cours.online %}
 			<div class="col-xs-6 col-md-3">
-				{% include coleen/bulle.html src=cours.src titre=cours.titre href=cours.href bouton=cours.bouton %}
+					{% include coleen/bulle.html src=cours.src titre=cours.titre href=cours.href bouton=cours.bouton %}
 			</div>
+			{% endif %}
 			{% endfor %}
 		</div>
 	</div>
