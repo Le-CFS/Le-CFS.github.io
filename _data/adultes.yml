@@ -2,12 +2,12 @@
 slogan: Gardez la forme !
 horaires: "/assets/images/nouvel-horaire-2021-2022.jpg"
 cours:
-- online: false
+- online: true
   titre: Zumba
   src: "/assets/images/cours-adultes-zumba-300x300.jpg"
   href: "/cours_adultes/zumba"
   bouton: Plus d'info
-- online: false
+- online: true
   titre: Informatique
   src: "/assets/images/cours-adultes-informatique-300x300.jpg"
   href: "/cours_adultes/informatique"
