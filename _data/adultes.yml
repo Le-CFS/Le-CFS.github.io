@@ -4,12 +4,12 @@ horaires: "/assets/images/nouvel-horaire-2021-2022.jpg"
 cours:
 - online: true
   titre: Pound
-  src: "/assets/images/cours-adultes-pound-300x300.jpg"
+  src: "/assets/images/cours-adultes-pound-300x300-1.jpg"
   href: "/cours_adultes/pound"
   bouton: Plus d'info
 - online: true
   titre: Informatique
-  src: "/assets/images/cours-adultes-informatique-300x300.jpg"
+  src: "/assets/images/cours-adultes-informatique-300x300-1.jpg"
   href: "/cours_adultes/informatique"
   bouton: Plus d'info
 - titre: Aqua Mix
@@ -34,7 +34,7 @@ cours:
   online: true
 - online: true
   titre: Zumba
-  src: "/assets/images/cours-adultes-zumba-300x300.jpg"
+  src: "/assets/images/cours-adultes-zumba-300x300-1.jpg"
   href: "/cours_adultes/zumba"
   bouton: Plus d'info
 - titre: Abdos Fessiers

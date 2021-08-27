@@ -12,7 +12,7 @@ menu: activites
 {% include annonces/natation.html %}
 
 <div class="col-md-4" style="float: right; margin-bottom: 20px;">
-	<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-block btn-info-filled" target="_blank">J'inscris mon petit nageur</a>
+<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-block btn-info-filled" target="_blank">J'inscris mon petit nageur</a>
 </div>
 
 <span style="font-size:20px">Bébés nageurs </span><span style="font-size:16px">(0 à 3 ans).</span>
@@ -25,8 +25,8 @@ Nos formateurs spécialisés enseignent toutes sortes de jeux ludiques et veille
 
 Les parents doivent accompagner leur bébé dans l'eau durant toute la séance. Séance de 30 minutes par petits groupes de 7 enfants maximum.
 
-*Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser.*
+_Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser._
 
 📍 **Brabant Wallon** - Bierges - Le Provincial
 
-📍 **Brabant Wallon** - Walhain - Aquanil
+📍 **Brabant Wallon** - Walhain - AquaNil
