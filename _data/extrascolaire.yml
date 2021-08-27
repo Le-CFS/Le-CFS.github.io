@@ -1,5 +1,24 @@
 ---
 activites:
+- name: Aqua Sirène
+  categorie: Activités sportives
+  img: "/assets/images/activites-extrascolaires-aqua-sirene-300x300.jpg"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Aqua sirène
+    ville: Brabant Wallon
+    centres: []
+    age: Dès 8 ans
+    description: "<p>Ce cours ouvert tant pour les enfants que les adultes permet
+      la découverte des techniques de nage liées au monopalme, la nage du dauphin
+      et améliore les mouvements du haut du corps en milieu aquatique. Il s'agit d'une
+      activité assez intensive on l'on apprend également à maîtriser l'apnée.</p><p>Séances
+      de 30 minutes.</p><p><strong>Horaire: </strong>Samedi 09h00 à 11h00</p>"
+    infos:
+    - alias: ''
+      info_line: ''
 - name: Robotique
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stages/stagesalaune_robotique.png"
