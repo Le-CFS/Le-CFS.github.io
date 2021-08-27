@@ -1,5 +1,21 @@
 ---
 activites:
+- name: Aqua Fun
+  categorie: Activités sportives
+  img: "/assets/images/activites-extrascolaires-aqua-fun-300x300.jpg"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Aqua Fun
+    ville: Brabant Wallon
+    centres: []
+    age: 'Dès 8 ans '
+    description: "<p>Viens découvrir par petits groupes diverses activités fun telles
+      que du water-polo, du hockey subaquatique, du parkour, de l'initiation aux techniques
+      de sauvetage et bien d'autres encore.</p><p>Séances d'1h</p><p>Le samedi de
+      11h00 à 13h00</p>"
+    infos: []
 - name: Aqua Sirène
   categorie: Activités sportives
   img: "/assets/images/activites-extrascolaires-aqua-sirene-300x300.jpg"
