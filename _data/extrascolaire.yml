@@ -789,7 +789,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/footballgardiendebut.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: Brabant Wallon
