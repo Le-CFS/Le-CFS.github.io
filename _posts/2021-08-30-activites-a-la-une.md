@@ -16,7 +16,7 @@ description: Activités extrascolaires 2021-2022
 image: "/assets/images/cfs_extrascolaires_2021_2022.jpg"
 
 ---
-**J-2 avant la rentrée ✌**
+**J-2 avant la rentrée 🎒**
 
 Découvrez nos nombreuses activités et nouveautés pour cette nouvelle année **2021-2022 :**
 
@@ -46,7 +46,7 @@ Découvrez nos nombreuses activités et nouveautés pour cette nouvelle année *
 
   📍 Rue Chapelle-Sainte-Anne 11 • 1457 Walhain
 
-**🙆‍♂️ NOUVELLES ACTIVITES :**
+**🤸‍♂️ NOUVELLES ACTIVITES :**
 
 * **Walhain :** [Les mercredis du Boscailles](https://cfsport.sharepoint.com/:b:/s/external-documents/ER-Bv29eZL5MqufHSRjyecUBBg2Juf4SuEXDdtkxY_8EqA?e=UO9n52 "Mercredis du Boscailles")
 
