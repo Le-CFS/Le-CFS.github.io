@@ -16,7 +16,7 @@ description: Activités extrascolaires 2021-2022
 image: "/assets/images/cfs_extrascolaires_2021_2022.jpg"
 
 ---
-**J-2 avant la rentrée ✌ :**
+**J-2 avant la rentrée ✌**
 
 Découvrez nos nombreuses activités et nouveautés pour cette nouvelle année **2021-2022 :**
 
@@ -48,18 +48,24 @@ Découvrez nos nombreuses activités et nouveautés pour cette nouvelle année *
 
 **NOUVELLES ACTIVITES :**
 
-**Walhain :** [Les mercredis du Boscailles](https://cfsport.sharepoint.com/:b:/s/external-documents/ER-Bv29eZL5MqufHSRjyecUBBg2Juf4SuEXDdtkxY_8EqA?e=UO9n52 "Mercredis du Boscailles")
+* **Walhain :** [Les mercredis du Boscailles](https://cfsport.sharepoint.com/:b:/s/external-documents/ER-Bv29eZL5MqufHSRjyecUBBg2Juf4SuEXDdtkxY_8EqA?e=UO9n52 "Mercredis du Boscailles")
 
-**Wavre :** Multisports • Gym Academy • Parkour Pro
 
-**Rixensart :** GRS • Aqua Gymnastique
+* **Wavre :** Multisports • Gym Academy • Parkour Pro
 
-**Ottignies :** Aqua Sirène • Aqua Fun
 
-**Court-St-Etienne :** Gym Academy
+* **Rixensart :** GRS • Aqua Gymnastique
 
-**Perwez :** Gymnastique • Parkour
 
-**Bierges :** Atelier robotique (cours adultes)
+* **Ottignies :** Aqua Sirène • Aqua Fun
+
+
+* **Court-St-Etienne :** Gym Academy
+
+
+* **Perwez :** Gymnastique • Parkour
+
+
+* **Bierges :** Atelier robotique (cours adultes)
 
 [Inscription rapide 😉](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6 "Inscription")
