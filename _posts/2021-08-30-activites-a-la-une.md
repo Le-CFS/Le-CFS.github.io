@@ -20,7 +20,7 @@ image: "/assets/images/cfs_extrascolaires_2021_2022.jpg"
 
 Découvrez nos nombreuses activités et nouveautés pour cette nouvelle année **2021-2022 :**
 
-#### A LA UNE ♦ CFS ACADEMY
+#### A LA UNE ♦ CFS ACADEMY 👟
 
 * GYM ACADEMY : 2h00 d'activités à Wavre (mercredi) et Court-St-Etienne (dimanche)
 * JUDO ACADEMY (Judo Club Genval) : Mardi, Mercredi & Vendredi à Rixensart
@@ -29,24 +29,24 @@ Découvrez nos nombreuses activités et nouveautés pour cette nouvelle année *
 * TENNIS ACADEMY : Mercredi & Vendredi à Ottignies
 * FUTSAL ACADEMY : Lundi & Samedi à Wavre - Vendredi à Ottignies
 
-#### NOUVEAUTES
+#### NOUVEAUTES ✨
 
-**ECOLE DE NATATION :**
+**💧 ECOLE DE NATATION :**
 
 * Walhain ♦ Aqua Nil : Bébés nageurs & cours particuliers
 
-  ○ Rue Abbesse 63 • 1457 Nil-St-Vincent-St-Martin
+  📍 Rue Abbesse 63 • 1457 Nil-St-Vincent-St-Martin
 
-**NOUVEAUX CENTRES :**
+**🏢 NOUVEAUX CENTRES :**
 
 * Centre Sportif de Perwez
 
-  ○ Rue des Marronniers 17 •1360 Perwez
+  📍 Rue des Marronniers 17 •1360 Perwez
 * Centre Sportif des Boscailles
 
-  ○ Rue Chapelle-Sainte-Anne 11 • 1457 Walhain
+  📍 Rue Chapelle-Sainte-Anne 11 • 1457 Walhain
 
-**NOUVELLES ACTIVITES :**
+**🙆‍♂️ NOUVELLES ACTIVITES :**
 
 * **Walhain :** [Les mercredis du Boscailles](https://cfsport.sharepoint.com/:b:/s/external-documents/ER-Bv29eZL5MqufHSRjyecUBBg2Juf4SuEXDdtkxY_8EqA?e=UO9n52 "Mercredis du Boscailles")
 
