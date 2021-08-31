@@ -232,6 +232,12 @@ cours_adultes:
     url: "/cours_adultes/swissjump/"
   - title: Aqua Fitness
     url: "/cours_adultes/aquafitness/"
+  - title: Informatique
+    url: "/cours_adultes/informatique/"
+  - title: Aqua Sirène
+    url: "/cours_adultes/aquasirene/"
+  - title: Pound
+    url: "/cours_adultes/pound/"
   - title: En savoir plus
     url: "/cours_adultes/en_savoir_plus/"
 anniversaires:
