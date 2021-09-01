@@ -220,7 +220,8 @@ anniversaires:
   infos: ''
   bouton: ''
   categorie:
-  - domicile fun
+  - domicile
+  - fun
   online: true
   nouveau: false
   anniversaire_une: false
@@ -312,7 +313,7 @@ anniversaires:
     leur tête dans l’eau.
   bouton: ''
   categorie:
-  - piscine
+  - fun
   online: true
   nouveau: false
   anniversaire_une: false

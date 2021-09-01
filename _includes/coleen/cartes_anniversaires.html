@@ -1,9 +1,20 @@
-<div class="col-xs-12 col-md-4">
+<!-- Pour afficher les images uniquement lors du défilement de la page -->
+{% if forloop.index > 6 %}
+{% assign loading = 'lazy' %}
+{% else %}
+{% assign loading = 'eager' %}
+{% endif %}
+
+{% capture categories %}
+{% for cat in anniversaire.categorie %}{{ cat }} {% endfor %}
+{% endcapture %}
+
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mix {{categories}}">
+  <a data-toggle="modal" data-target="#{{anniversaire.name | replace: ' ', '_' | replace: '&', 'et' }}">
     <div class="card-2">
       <div class="image">
-        <a data-toggle="modal" data-target="#{{anniversaire.name | replace: ' ', '_' | replace: '&', 'et' }}"><img src="{{ BASE_PATH }}{{ anniversaire.img }}" class="img-fluid"></a>
+        <img src="{{ BASE_PATH }}{{ anniversaire.img }}" class="img-fluid" loading="{{ loading }}">
       </div>
-      <a data-toggle="modal" data-target="#{{anniversaire.name | replace: ' ', '_' | replace: '&', 'et' }}">
       <div class="card-block">
         <h3 class="card-title">{{ anniversaire.name }}</h3>
         <div class="meta">
@@ -14,16 +25,15 @@
           <center><span class="label label-pill label-info-filled">Plus d'info</span></center>
         </div>
       </div>
-      </a>
-      <a data-toggle="modal" data-target="#{{anniversaire.name | replace: ' ', '_' | replace: '&', 'et' }}">
       <div class="extra">
         <span>
           <i class="fa fa-map-marker"> {{ anniversaire.lieu }}</i>
         </span>
       </div>
-      </a>
     </div>
+  </a>
 </div>
+
 <div class="modal fade" id="{{anniversaire.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">

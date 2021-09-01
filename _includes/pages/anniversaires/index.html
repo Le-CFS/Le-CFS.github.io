@@ -6,30 +6,39 @@
 	</div>
 </div>
 
-<!-- Boutons de présentation -->
-<div class="row">
-	<div class="col-md-4">
-		<a href="{{ page.url }}domicile" class="btn btn-block btn-success-filled" style="margin-top: 15px;">À MON DOMICILE</a>
-	</div>
-	<div class="col-md-4">
-		<a href="{{ page.url }}lieu_sportif_et_fun" class="btn btn-block btn-danger-filled" style="margin-top: 15px;">SPORTIF ET FUN</a>
-	</div>
-	<div class="col-md-4">
-		<a href="{{ page.url }}piscine" class="btn btn-block btn-info-filled" style="margin-top: 15px;">À LA PISCINE</a>
-	</div>
-</div>
 <br><br>
-<center>2H00 D'ANIMATION ENCADREES PAR UN MONITEUR DU CFS<br><b>LES NOUVEAUTES</b> A PARTIR <b>D'AVRIL</b></center>
-<br/>
-<br/>
-<div class="row">
-{% for anniversaire in site.data.anniversaires.anniversaires %}
-	{% if anniversaire.anniversaire_une %}
 
-		{% include coleen/cartes_anniversaires.html %}
+<div id="content">
+<section id="portfolio" class="section">
+         <div class="row">
+            <div class="col-md-12">
+              	<div class="controls text-center wow fadeInUpQuick" data-wow-delay=".6s">
+	                <a class="filter active btn-stage btn-stage-all btn btn-common col-md-12 btn-block" data-filter="all">
+	                  Tous les anniversaires
+	                </a>
+	                <a class="filter btn-stage btn-stage-bouts btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".domicile">
+	                  À mon domicile
+	                </a>
+	                <a class="filter btn-stage btn-stage-culturelles btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".fun">
+	                  Sportif et Fun
+	                </a>
+              	</div>
+            </div>
 
-	{% endif %}
-{% endfor %}
+            <div id="portfolio" class="row wow fadeInUpQuick" data-wow-delay="0.8s">
+				{% assign anniversaires = site.data.anniversaires.anniversaires | sort: "name" %}
+				
+				{% for anniversaire in anniversaires %}
+  					{% if anniversaire.online %}
+
+						{% include coleen/cartes_anniversaires.html %}
+
+  					{% endif %}
+				{% endfor %}
+
+        	</div>
+        </div>
+	</section>
 </div>
 
 <!-- Boutons de fin -->
