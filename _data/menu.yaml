@@ -157,19 +157,19 @@ activites:
   - title: Extrascolaire pour tous
     url: "/activites/extrascolaire/"
     title_mobile: Catalogue extrascolaire
-    sousmenu:
-    - title: Les Petits Bouts
-      url: "/activites/extrascolaire/petits_bouts/"
-    - title: Découvertes sportives et culturelles
-      url: "/activites/extrascolaire/decouvertes_sportives_et_culturelles"
-    - title: Danse et Gymnastique
-      url: "/activites/extrascolaire/danse_et_gymnastique/"
-    - title: Activités Fun
-      url: "/activites/extrascolaire/activites_fun/"
-    - title: Activités sportives
-      url: "/activites/extrascolaire/activites_sportives/"
-    - title: Activités artistiques et loisirs
-      url: "/activites/extrascolaire/activites_artistiques_et_loisirs/"
+    # sousmenu:
+    # - title: Les Petits Bouts
+    #   url: "/activites/extrascolaire/petits_bouts/"
+    # - title: Découvertes sportives et culturelles
+    #   url: "/activites/extrascolaire/decouvertes_sportives_et_culturelles"
+    # - title: Danse et Gymnastique
+    #   url: "/activites/extrascolaire/danse_et_gymnastique/"
+    # - title: Activités Fun
+    #   url: "/activites/extrascolaire/activites_fun/"
+    # - title: Activités sportives
+    #   url: "/activites/extrascolaire/activites_sportives/"
+    # - title: Activités artistiques et loisirs
+    #   url: "/activites/extrascolaire/activites_artistiques_et_loisirs/"
   - title: École de natation
     url: "/activites/ecole_de_natation/"
     title_mobile: École de Natation

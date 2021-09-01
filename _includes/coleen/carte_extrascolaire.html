@@ -1,3 +1,29 @@
+<!-- Pour afficher les images uniquement lors du défilement de la page -->
+{% if forloop.index > 6 %}
+{% assign loading = 'lazy' %}
+{% else %}
+{% assign loading = 'eager' %}
+{% endif %}
+
+{% assign stage_modal = stage.name | replace: ' ', '_' | replace: '&', 'et' %}
+
+{% case stage.categorie %}
+  {% when 'Internat' %}
+  {% assign categorie = 'internat' %}
+  {% when 'Activités artistiques et loisirs' %}
+  {% assign categorie = 'artistiques' %}
+  {% when 'Découvertes sportives et culturelles' %}
+  {% assign categorie = 'culturelles' %}
+  {% when 'Activités fun' %}
+  {% assign categorie = 'fun' %}
+  {% when 'Les petits bouts' %}
+  {% assign categorie = 'bouts' %}
+  {% when 'Danse et Gymnastique' %}
+  {% assign categorie = 'danse' %}
+  {% when 'Activités sportives' %}
+  {% assign categorie = 'sportives' %}
+{% endcase %}
+
 <style>
 .meta:hover {
   color: #444 !important;
@@ -7,15 +33,15 @@
 }
 </style>
 
-<div class="col-md-4 col-xs-12">
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mix {{categorie}}">
+  <a data-toggle="modal" data-target="#activite_enfant_extrascolaire_{{ stage_modal }}">
   <div class="card-2">
-    <div class="image">
-      <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><img src="{{ BASE_PATH }}{{ stage.img }}"></a>
-    </div>
-    <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
+    <div class="image"><img src="{{ BASE_PATH }}{{ stage.img }}" loading="{{ loading }}"></div>
+    
     <div class="card-block">
       <h3 class="card-title">{{ stage.name }}</h3>
       <div class="meta">
+        
         {% if stage.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
         {% for item in stage.location %}
           {% if forloop.first %}
@@ -24,13 +50,13 @@
              / {% if item.age == "" or item.age == nil %}{{ stage.location[0].age }}{% else %}{{ item.age }}{% endif %}
           {% endif %}
         {% endfor %}
+      
       </div>
       <div class="description">
-        <center><a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}"><span class="label label-pill label-info-filled">Plus d'info</span></a></center>
+        <center><span class="label label-pill label-info-filled">Plus d'info</span></center>
       </div>
     </div>
-    </a>
-    <a data-toggle="modal" data-target="#{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}">
+
     <div class="extra">
       <span>
         <i class="fa fa-map-marker"> {% for item in stage.location %}
@@ -39,14 +65,15 @@
           {% else %}
              - {% if item.ville == "" or item.ville == nil %}{{ stage.location[0].ville }}{% else %}{{ item.ville }}{% endif %}
           {% endif %}
-        {% endfor %}</i>
+        {% endfor %}
+        </i>
       </span>
     </div>
+    </div>
     </a>
-  </div>
 </div>
 
-<div class="modal fade" id="{{stage.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="activite_enfant_extrascolaire_{{ stage_modal }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="card-2">
