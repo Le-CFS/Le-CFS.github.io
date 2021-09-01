@@ -4880,8 +4880,7 @@ stages:
       peut changer les semaines plus courtes.</em></p>"
     infos:
     - alias: Tenue de bain
-      info_line: Prévoir son maillot et un essuie pour les activités avec de l'eau
-        (Aqualibi, mer, barrage de l'Eau d'Heure et Profondville).
+      info_line: Prévoir son maillot et un essuie pour Aqualibi
     - alias: Déplacements
       info_line: Les déplacements en transports en commun sont assurés par le CFS.
     - alias: Koézio
