@@ -903,7 +903,7 @@ activites:
 - name: Parkour
   img: "/assets/images/boutonsactivites/extrascolaires/parkour.png"
   inscription: ''
-  categorie: Activités fun
+  categorie: Activités sportives
   online: true
   nouveau: false
   location:

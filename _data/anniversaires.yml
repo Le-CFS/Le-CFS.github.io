@@ -47,7 +47,7 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Chasse au trésor
-  age: 6 +
+  age: 5 à 12 ans
   img: "/assets/images/anniversaires/activites/chasseautresor.png"
   lieu: Bierges / Wavre / Ottignies / Rixensart / Auderghem / Woluwé-Saint-Pierre
   href: ''
@@ -82,7 +82,7 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Cirque
-  age: 6 +
+  age: 5 à 12 ans
   img: "/assets/images/anniversaires/activites/cirque.png"
   lieu: Bierges / Auderghem
   href: ''
@@ -114,7 +114,7 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Diner Parfait
-  age: 6 +
+  age: 6-12 ans
   img: "/assets/images/anniversaires/activites/dinerparfait.png"
   lieu: Bierges / Auderghem
   href: ''
@@ -163,9 +163,9 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Princesse & Pirate
-  age: 6 +
+  age: 4-12 ans
   img: "/assets/images/anniversaires/activites/princessesetpirates.png"
-  lieu: Bierges / Wavre / Rixensart / Ottignies
+  lieu: Bierges / Wavre / Rixensart / Ottignies / Walhain
   href: ''
   prix: 175 €
   description: Nous t’organisons une chasse au trésor sur le thème des princesses
@@ -285,7 +285,7 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Magie
-  age: 8 +
+  age: 8-12 ans
   img: "/assets/images/anniversaires/activites/magie.png"
   lieu: Bierges / Wavre / Rixensart / Ottignies
   href: ''
