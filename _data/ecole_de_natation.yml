@@ -1,6 +1,6 @@
 ---
 provinces:
-- nom: "Brabant Wallon"
+- nom: Brabant Wallon
   online: true
   cours:
   - online: true
@@ -23,7 +23,7 @@ provinces:
     src: "/assets/images/boutonsactivites/ecoledenatation/natminiclub.png"
     href: "/activites/ecole_de_natation/mini_club"
     bouton: Plus d'info
-- nom: "Bruxelles"
+- nom: Bruxelles
   online: true
   cours:
   - online: true

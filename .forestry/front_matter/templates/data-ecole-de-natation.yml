@@ -31,3 +31,5 @@ fields:
     - type: text
       name: bouton
       label: bouton
+pages:
+- _data/ecole_de_natation.yml
