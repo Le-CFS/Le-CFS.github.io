@@ -1,10 +1,10 @@
 ---
-label: DATA_events
+label: DATA Academy
 hide_body: true
 fields:
 - type: field_group_list
   name: cours
-  label: Evenement
+  label: cours
   fields:
   - type: boolean
     name: online
@@ -14,12 +14,10 @@ fields:
     label: titre
   - type: file
     name: src
-    label: Image
+    label: src
   - type: text
     name: href
-    label: lien
+    label: href
   - type: text
     name: bouton
     label: bouton
-pages:
-- _data/events.yml
