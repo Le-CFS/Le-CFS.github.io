@@ -17,17 +17,15 @@ description: Découvrez l'école de natation du CFS ! Grâce aux petits groupes,
 <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-block btn-info-filled" target="_blank">J'inscris mon petit nageur</a>
 </div>
 
-<p><span style="font-size:20px">Mini-Club</span> <span style="font-size:16px"> (à partir de 7 ans)</span></p>
+<span style="font-size:20px">Mini-Club</span> <span style="font-size:16px"> (à partir de 7 ans)</span>
 
-<p>Maximum 8 élèves par groupe!</p>
+Maximum 8 élèves par groupe!
 
-<p>Le mini-club est divisé en 2 niveaux afin de faire progresser tous les enfants à leur rythme!</p>
+Le mini-club est divisé en 2 niveaux afin de faire progresser tous les enfants à leur rythme!
 
-<ul>
-<li><strong>Perfectionnement (<u>1h</u>) : Savoir nager 50m dans 3 nages (dos, brasse, crawl).</strong></li>
-<li><strong>Endurance (<u>1h30</u>) : Savoir nager les 4 nages (dos, brasse, crawl, papillon) sur longues distances.</strong></li>
-</ul>
+* **Perfectionnement (_1h_) : Savoir nager 50m dans 3 nages (dos, brasse, crawl).**
+* **Endurance (_1h30_) : Savoir nager les 4 nages (dos, brasse, crawl, papillon) sur longues distances.**
 
-<p>La plus ancienne école de natation du Brabant Wallon (depuis 1981) - Passage de brevets en fin de cycle.</em></p>
+La plus ancienne école de natation du Brabant Wallon (depuis 1981) - Passage de brevets en fin de cycle.
 
-<p>📍 <strong>Brabant Wallon</strong> - Ottignies - Collège du Christ-Roi</p>
+📍 **Brabant Wallon** - Ottignies - Collège du Christ-Roi

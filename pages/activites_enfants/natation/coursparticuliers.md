@@ -17,12 +17,12 @@ description: Profitez d'un apprentissage individuel et de la plein relation avec
 	<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-block btn-info-filled" target="_blank">J'inscris mon petit nageur</a>
 </div>
 
-<p><span style="font-size:20px">Cours particuliers </span><span style="font-size:16px">(à partir de 3 ans)</span></p>
+<span style="font-size:20px">Cours particuliers </span><span style="font-size:16px">(à partir de 3 ans)</span>
 
-<p>Un apprentissage individuel durant lequel l'élève profite pleinement de la relation privilégiée avec son moniteur. Séances de 20 minutes. Les entrées à la piscine et l'assurance sont comprises dans le prix.</p>
+Un apprentissage individuel durant lequel l'élève profite pleinement de la relation privilégiée avec son moniteur. Séances de 20 minutes. Les entrées à la piscine et l'assurance sont comprises dans le prix.
 
-<p><em><strong>CLUB</strong> : La plus ancienne école de natation du Brabant Wallon (depuis 1981) - Passage de brevets en fin de cycle</em><br />
-<br />
-Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser.</p>
+_**CLUB**: La plus ancienne école de natation du Brabant Wallon (depuis 1981) - Passage de brevets en fin de cycle_
 
-<p>📍<strong> Brabant Wallon</strong> - Bierges - Ottignies - Wavre - Walhain</p>
+Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser.
+
+📍 **Brabant Wallon** - Bierges - Ottignies - Wavre - Walhain

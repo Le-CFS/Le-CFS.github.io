@@ -13,13 +13,12 @@ menu: activites
 	<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-block btn-info-filled" target="_blank">J'inscris mon petit nageur</a>
 </div>
 
-<p><span style="font-size:20px">Cours collectifs</span>&nbsp;<span style="font-size:16px">(6&nbsp;&agrave; 14 ans)</span></p>
+<span style="font-size:20px;">Cours collectifs</span>&nbsp;<span style="font-size:16px">(6 à 14 ans)</span>
 
-<p>Un apprentissage collectif, ludique et stimulant durant lequel les &eacute;l&egrave;ves progressent selon leur niveau. Maximum 5&nbsp;&eacute;l&egrave;ves par groupe</p>
+Un apprentissage collectif, ludique et stimulant durant lequel les élèves progressent selon leur niveau. Maximum 5 élèves par groupe
 
-<p>Tous les brevets d&eacute;cern&eacute;s sont les brevets officiels de la F&eacute;d&eacute;ration Francophone Belge de Natation (FFBN). Plus d&#39;infos sur les <a href="http://www.ffbn.be/brevets-de-natation">brevets</a></p>
+Tous les brevets décernés sont les brevets officiels de la Fédération Francophone Belge de Natation (FFBN). Plus d'infos sur les [brevets](http://www.ffbn.be/brevets-de-natation).
 
-<p><br />
-📍 <strong>Bruxelles</strong>&nbsp;&bull; Jette&nbsp;&quot;Coll&egrave;ge Saint-Pierre&quot;</p>
-<br />
-📍 <strong>Bruxelles</strong>&nbsp;&bull; Woluwe&nbsp;&quot;SportCity&quot;</p>
+📍 **Bruxelles** Jette - Collège Saint-Pierre
+
+📍 **Bruxelles** -  Woluwe&nbsp;SportCity
