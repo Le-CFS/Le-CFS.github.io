@@ -1,0 +1,25 @@
+---
+label: DATA_events
+hide_body: true
+fields:
+- type: field_group_list
+  name: cours
+  label: Evenement
+  fields:
+  - type: boolean
+    name: online
+    label: online
+  - type: text
+    name: titre
+    label: titre
+  - type: file
+    name: src
+    label: Image
+  - type: text
+    name: href
+    label: lien
+  - type: text
+    name: bouton
+    label: bouton
+pages:
+- _data/events.yml
