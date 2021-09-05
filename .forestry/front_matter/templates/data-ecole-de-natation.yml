@@ -1,0 +1,33 @@
+---
+label: DATA Ecole de natation
+hide_body: true
+fields:
+- type: field_group_list
+  name: provinces
+  label: provinces
+  fields:
+  - type: text
+    name: nom
+    label: nom
+  - type: boolean
+    name: online
+    label: online
+  - type: field_group_list
+    name: cours
+    label: cours
+    fields:
+    - type: boolean
+      name: online
+      label: online
+    - type: text
+      name: titre
+      label: titre
+    - type: file
+      name: src
+      label: Image
+    - type: text
+      name: href
+      label: Lien
+    - type: text
+      name: bouton
+      label: bouton
