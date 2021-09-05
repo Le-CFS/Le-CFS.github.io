@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: field_group_list
   name: cours
-  label: cours
+  label: Academies
   fields:
   - type: boolean
     name: online
@@ -14,10 +14,12 @@ fields:
     label: titre
   - type: file
     name: src
-    label: src
+    label: Image
   - type: text
     name: href
-    label: href
+    label: Lien
   - type: text
     name: bouton
     label: bouton
+pages:
+- _data/academy.yml
