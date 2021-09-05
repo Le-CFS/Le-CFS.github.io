@@ -36,6 +36,7 @@ fields:
   label: SEO
 pages:
 - pages/activites_enfants/cfs_academy.html
+- pages/activites_enfants/ecole_de_natation.html
 - pages/activites_enfants/index.html
 - pages/activites_enfants/parascolaire.html
 - pages/activites_enfants/parascolaire/activitesartistiques.html
