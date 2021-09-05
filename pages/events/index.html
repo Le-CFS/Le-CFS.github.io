@@ -13,32 +13,22 @@ description: Organisez facilement vos anniversaires, EVG, journées sportives/p�
 
 Nous organisons pour vous une série d’évènements en mettant à votre disposition son matériel, ses moniteurs, et son savoir-faire.
 
-<div class="team-members-tow mtb-50">
-    <div class="row" style="text-align: center !important;">
+<!-- NE PAS MODIFIER EN DESSOUS DE CETTE LIGNE -->
+<!-- La liste des cours est modifiable dans le fichier _data/events.yml -->
 
-      <div class="col-xs-6 col-md-4">
-        {% include coleen/bulle.html src="/assets/images/event/anniversaires.png" titre="Anniversaires" href="/anniversaires" bouton="Plus d'info" %}
-      </div>
+<div class="container">
+    <div class="team-members-tow mtb-50">
+      <div class="row">
 
-      <div class="col-xs-6 col-md-4">
-        {% include coleen/bulle.html src="/assets/images/event/evg.png" titre="EVG" href="/events/evg" bouton="Plus d'info" %}
-      </div>
+        {% for cours in site.data.events.cours %}
+        {% if cours.online %}
+        <div class="col-xs-6 col-md-3">
+          {% include coleen/bulle.html src=cours.src titre=cours.titre href=cours.href bouton=cours.bouton %}
+        </div>
+        {% endif %}
+        {% endfor %}
 
-      <div class="col-xs-6 col-md-4">
-        {% include coleen/bulle.html src="/assets/images/event/journeessportives.png" titre="Journées sportives" href="/events/journees_sportives" bouton="Plus d'info" %}
-      </div>
-
-      <div class="col-xs-6 col-md-4">
-        {% include coleen/bulle.html src="/assets/images/event/journeespedagogiques.png" titre="Journées pédagogiques" href="/events/journees_pedagogiques" bouton="Plus d'info" %}
-      </div>
-
-      <div class="col-xs-6 col-md-4">
-        {% include coleen/bulle.html src="/assets/images/event/fancyfair.png" titre="Fancy Fair" href="/events/fancy_fair" bouton="Plus d'info" %}
-      </div>
-
-      <div class="col-xs-6 col-md-4">
-        {% include coleen/bulle.html src="/assets/images/event/locationmateriel.png" titre="Location de matériel" href="/events/location" bouton="Plus d'info" %}
       </div>
 
     </div>
-  </div>
+</div>

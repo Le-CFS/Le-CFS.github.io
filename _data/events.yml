@@ -1,0 +1,32 @@
+---
+cours:
+- online: true
+  titre: "Anniversaires"
+  src: "/assets/images/event/anniversaires.png"
+  href: "/events/anniversaires"
+  bouton: Plus d'info
+- online: true
+  titre: "EVG"
+  src: "/assets/images/event/evg.png"
+  href: "/events/evg"
+  bouton: Plus d'info
+- online: true
+  titre: "Journées sportives"
+  src: "/assets/images/event/journeessportives.png"
+  href: "/events/journees_sportives"
+  bouton: Plus d'info
+- online: true
+  titre: "Journées pédagogiques"
+  src: "/assets/images/event/journeespedagogiques.png"
+  href: "/events/journees_pedagogiques"
+  bouton: Plus d'info
+- online: true
+  titre: "Fancy Fair"
+  src: "/assets/images/event/fancyfair.png"
+  href: "/events/fancy_fair"
+  bouton: Plus d'info
+- online: true
+  titre: "Location de Matériel"
+  src: "/assets/images/event/locationmateriel.png"
+  href: "/events/location"
+  bouton: Plus d'info
