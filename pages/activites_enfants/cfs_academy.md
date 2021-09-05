@@ -19,7 +19,7 @@ description: Pour les plus aguerris du sport, le CFS vous propose une formule "C
 
 Pour les plus aguerris, le CFS vous propose une formule  avec certains avantages.
 
-Voici nos différentes disciplines :
+Voici nos différentes disciplines:
 
 <!-- NE PAS MODIFIER EN DESSOUS DE CETTE LIGNE -->
 <!-- La liste des cours est modifiable dans le fichier _data/academy.yml -->

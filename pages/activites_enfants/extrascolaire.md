@@ -13,13 +13,13 @@ js: portfolio.js
 
 <!-- NE PAS MODIFIER AU DESSUS DE CETTE LIGNE -->
 
-<p>Le CFS propose des activités sportives ou culturelles qui débutent au mois de septembre et se déroulent tout au long de l’année scolaire jusqu’à la fin du mois de mai.</p>
+Le CFS propose des activités sportives ou culturelles qui débutent au mois de septembre et se déroulent tout au long de l’année scolaire jusqu’à la fin du mois de mai.
 
-<p>Chaque enfant a le droit à une séance d’essai avant de s’engager de manière définitive.</p>
+Chaque enfant a le droit à une séance d’essai avant de s’engager de manière définitive.
 
-<p>On peut s’inscrire en cours d’année en fonction des places disponibles (le prix est alors calculé au prorata des séances restantes) et des activités.</p>
+On peut s’inscrire en cours d’année en fonction des places disponibles (le prix est alors calculé au prorata des séances restantes) et des activités.
 
-<p>Nous appliquons pour nos activités <a href="/stages/protocole/general/">le protocole général des stages</a> qui a fait ses preuves cet été.</p>
+Nous appliquons pour nos activités [le protocole général des stages](/stages/protocole/general/) qui a fait ses preuves cet été.
 
 <!-- NE PAS MODIFIER EN DESSOUS DE CETTE LIGNE -->
 

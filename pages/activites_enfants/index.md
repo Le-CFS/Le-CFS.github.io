@@ -10,12 +10,12 @@ image: ''
 
 ---
 
-<p>Le CFS propose après l’école et pendant les weekends des activités sportives, ludiques et culturelles pour petits et grands !</p>
+Le CFS propose après l’école et pendant les weekends des activités sportives, ludiques et culturelles pour petits et grands !
 
-<p>Les activités débutent au mois de septembre et se déroulent tout au long de l’année scolaire.</p>
+Les activités débutent au mois de septembre et se déroulent tout au long de l’année scolaire.
 
-<p>Il est possible de s’inscrire en cours d’année en fonction des places disponibles (le prix est alors calculé au prorata des séances restantes).</p>
-<div class="col-md-12 text-center" style="font-size: 24px; margin-bottom: 20px;"><strong>Trouvez une activité pour votre enfant.</strong></div>
+Il est possible de s’inscrire en cours d’année en fonction des places disponibles (le prix est alors calculé au prorata des séances restantes).
+<div class="col-md-12 text-center" style="font-size: 24px; margin-bottom: 20px;"><b>Trouvez une activité pour votre enfant.</b></div>
 
 <!-- NE PAS MODIFIER EN DESSOUS DE CETTE LIGNE -->
 <!-- Ces lignes sont le code pour une annonce dans un cadre bleu et les 4 bulles des activités. -->
@@ -48,10 +48,10 @@ image: ''
 
 <!-- NE PAS MODIFIER AU DESSUS DE CETTE LIGNE -->
 
-<p>Le CFS propose des <strong>activités sportives</strong> ou <strong>culturelles</strong> qui débutent au mois de septembre et se déroulent tout au long de l’année scolaire.</p>
-<p>Nous organisons également des <strong>activités parascolaires</strong> uniquement pour les <strong>élèves de l'école</strong>.</p>
+Le CFS propose des **activités sportives** ou **culturelles** qui débutent au mois de septembre et se déroulent tout au long de l’année scolaire.
+Nous organisons également des **activités parascolaires** uniquement pour les **élèves de l'école**.
 
-<p>La plus ancienne <strong>école de natation</strong> du Brabant vous propose des cours particuliers, des cours de bébés nageurs, des cours collectifs, et un mini-club pour les plus aguerris.<p> 
-<p>Vous trouverez également des <strong>cours de natation</strong> tous les mercredis à Jette à partir de 3 ans.</p>
+La plus ancienne **école de natation** du Brabant vous propose des cours particuliers, des cours de bébés nageurs, des cours collectifs, et un mini-club pour les plus aguerris. 
+Vous trouverez également des **cours de natation** tous les mercredis à Jette à partir de 3 ans.
 
-<p>Pour les plus aguerris, le CFS vous propose maintenant une formule <strong>Academy</strong> avec certains avantages dans différentes disciplines.</p>
+Pour les plus aguerris, le CFS vous propose maintenant une formule **Academy** avec certains avantages dans différentes disciplines.
