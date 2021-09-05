@@ -1,5 +1,18 @@
 ---
 activites:
+- name: Multisports
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: false
+  nouveau: true
+  inscription: Basse-Wavre
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres: []
+    age: ''
+    description: ''
+    infos: []
 - name: Aqua Fun
   categorie: Activités sportives
   img: "/assets/images/activites-extrascolaires-aqua-fun-300x300.jpg"
@@ -166,15 +179,15 @@ activites:
 - name: Cirque Découverte
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirque.png"
-  online: false
-  nouveau: false
+  online: true
+  nouveau: true
   inscription: ''
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres:
     - WAVRE - Collège Notre-Dame de Basse-Wavre
-    age: 4-6 ans
+    age: 4-7 ans
     description: "<p>Initiation aux techniques de cirque.</p>"
     infos: []
 - name: Aqua & Gymnastique
@@ -208,7 +221,7 @@ activites:
     - WAVRE - Collège Notre Dame de Basse-Wavre
     - OTTIGNIES - Centre sportif des Coquerées
     - WALHAIN - École de Tourinnes
-    age: 3-6 ans
+    age: 3-5 ans
     description: "<p>Au programme: parcours d'agilité et d'audace, développement des
       notions sensori-motrices (latéralité, équilibre...), jeux de coopération (parachute),
       exercice de rythmique. Plein de chouettes activités pour le développement de
@@ -903,7 +916,7 @@ activites:
 - name: Parkour
   img: "/assets/images/boutonsactivites/extrascolaires/parkour.png"
   inscription: ''
-  categorie: Activités fun
+  categorie: Activités sportives
   online: true
   nouveau: false
   location:
