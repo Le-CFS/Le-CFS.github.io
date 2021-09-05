@@ -1,0 +1,37 @@
+---
+cours:
+- online: true
+  titre: Mini-Foot Academy
+  src: "/assets/images/boutonsactivites/cfsacademy/minifootacademy.png"
+  href: "/activites/cfs_academy/mini_foot_academy"
+  bouton: Plus d'info
+- online: true
+  titre: Gym Pro Academy
+  src: "/assets/images/boutonsactivites/cfsacademy/gymacademy.png"
+  href: "/activites/cfs_academy/gym_pro_academy"
+  bouton: Plus d'info
+- online: true
+  titre: Ecole de Natation
+  src: "/assets/images/boutonsactivites/cfsacademy/ecoledenatation.png"
+  href: "/activites/cfs_academy/ecole_de_natation"
+  bouton: Plus d'info
+- online: true
+  titre: Tennis Academy
+  src: "/assets/images/boutonsactivites/cfsacademy/tennisacademy.png"
+  href: "/activites/cfs_academy/tennis_academy"
+  bouton: Plus d'info
+- online: true
+  titre: Judo Academy
+  src: "/assets/images/boutonsactivites/cfsacademy/judoacademy.png"
+  href: "/activites/cfs_academy/judo_academy"
+  bouton: Plus d'info
+- online: true
+  titre: Robotique Academy
+  src: "/assets/images/boutonsactivites/cfsacademy/robotiqueacademy.png"
+  href: "/activites/cfs_academy/robotique_academy"
+  bouton: Plus d'info
+- online: true
+  titre: Danse Academy
+  src: "/assets/images/boutonsactivites/cfsacademy/danseacademy.png"
+  href: "/activites/cfs_academy/danse_academy"
+  bouton: Plus d'info
