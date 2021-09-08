@@ -1,0 +1,8 @@
+---
+layout: page
+title: ORGANISATION DES STAGES
+permalink: "/stages/protocole/"
+menu: stages
+
+---
+<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/853994904664539176/Les_8_mesures2021.jpg"/></p>
