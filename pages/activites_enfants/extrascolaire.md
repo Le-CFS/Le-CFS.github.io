@@ -25,7 +25,7 @@ Nous appliquons pour nos activités [le protocole général des stages](/stages/
 
 <div id="content">
     <section id="portfolio" class="section">
-         <div class="row">
+         <div class="row" style="display:inline;">
             <div class="col-md-12">
               	<div class="controls text-center wow fadeInUpQuick" data-wow-delay=".6s">
 	                <a class="filter active btn-stage btn-stage-all btn btn-common col-md-12 btn-block" data-filter="all">
