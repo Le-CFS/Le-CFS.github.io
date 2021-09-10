@@ -5,7 +5,7 @@ tags:
 - NEW
 - ecole de natation
 - neder-over-heembeek
-title: Nouvelle école de natation à Neder-over-Heembeek
+title: NEW - Neder-over-Heembeek
 banner: "/assets/images/neder-over-heembeek-ecole-de-natation.jpg"
 infos:
   date: 
