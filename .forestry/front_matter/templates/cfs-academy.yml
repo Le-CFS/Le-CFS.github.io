@@ -44,11 +44,3 @@ fields:
   config: {}
   template: seo
   label: SEO
-pages:
-- pages/activites_enfants/academy/danse.html
-- pages/activites_enfants/academy/gympro.html
-- pages/activites_enfants/academy/judo.html
-- pages/activites_enfants/academy/minifoot.html
-- pages/activites_enfants/academy/natation.html
-- pages/activites_enfants/academy/robotique.html
-- pages/activites_enfants/academy/tennis.html

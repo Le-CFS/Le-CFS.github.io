@@ -35,22 +35,11 @@ fields:
   template: seo
   label: SEO
 pages:
-- pages/activites_enfants/cfs_academy.html
-- pages/activites_enfants/ecole_de_natation.html
-- pages/activites_enfants/index.html
-- pages/activites_enfants/parascolaire.html
-- pages/activites_enfants/parascolaire/activitesartistiques.html
-- pages/activites_enfants/parascolaire/activitesfun.html
-- pages/activites_enfants/parascolaire/activitessportives.html
-- pages/activites_enfants/parascolaire/dansegymnastique.html
-- pages/activites_enfants/parascolaire/decouvertessportives.html
-- pages/activites_enfants/parascolaire/petitsbouts.html
 - pages/anniversaires/en_savoir_plus.html
 - pages/anniversaires/index.html
 - pages/anniversaires/reservation.html
 - pages/brochures/adultes.html
 - pages/brochures/anniversaires.html
-- pages/brochures/domicile.html
 - pages/brochures/extrascolaire.html
 - pages/brochures/index.html
 - pages/brochures/stages.html
@@ -75,9 +64,6 @@ pages:
 - pages/events/journees_pedagogiques.html
 - pages/events/journees_sportives.html
 - pages/events/location.html
-- pages/events/location/chateaux.html
-- pages/events/location/fun.html
-- pages/events/tournois.html
 - pages/le_cfs/index.html
 - pages/le_cfs/news.html
 - pages/le_cfs/partenaires.html
@@ -87,6 +73,4 @@ pages:
 - pages/stages_enfants/garderie.html
 - pages/stages_enfants/partenaires_de_stage.html
 - pages/stages_enfants/partenaires_pedagogiques.html
-- pages/stages_enfants/protocoles/general.html
 - pages/stages_enfants/reductions.html
-- pages/stages_enfants/trouver_un_stage.html

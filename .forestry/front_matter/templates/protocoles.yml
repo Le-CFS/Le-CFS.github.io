@@ -101,15 +101,3 @@ fields:
   config: {}
   template: seo
   label: SEO
-pages:
-- pages/stages_enfants/protocoles/auderghem.html
-- pages/stages_enfants/protocoles/bierges.html
-- pages/stages_enfants/protocoles/jette.html
-- pages/stages_enfants/protocoles/laeken.html
-- pages/stages_enfants/protocoles/ottiginies.html
-- pages/stages_enfants/protocoles/rixensart.html
-- pages/stages_enfants/protocoles/uccle.html
-- pages/stages_enfants/protocoles/walhain.html
-- pages/stages_enfants/protocoles/wavre.html
-- pages/stages_enfants/protocoles/wemmel.html
-- pages/stages_enfants/protocoles/woluwe.html
