@@ -16,7 +16,7 @@ slider:
   src: "/assets/images/extrascolaire2021-2022.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
 - titre: ECOLE DE NATATION
-  src: "/assets/images/aquanil_nouveau.jpg"
+  src: "/assets/images/nouvelles_ecoles_natation_walhain_never.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5
 - titre: BON CADEAU
   src: "/assets/images/boncadeauete-1.jpg"
@@ -28,7 +28,7 @@ selection:
     titre_img: Extrascolaire
     titre_overlay: Extrascolaire
     src: "/assets/images/boutonsactivites/extrascolaires.png"
-    href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Groupe=1
+    href: "/extrascolaire/"
     autre_page: oui
     bouton: Inscription
     couleur_bouton: ''
@@ -85,12 +85,14 @@ une:
   nom: Stages à la Une
   images:
   - name: Stages Toussaint
-    titre_overlay: A venir...
+    titre_overlay: Stages Toussaint
     img: "/assets/images/stages/toussaint.jpg"
     bouton: Plus d'info
     nouveau: ''
-    infos: ''
-    description: Disponibles à partir du 1er septembre
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: Viens te défouler dans une ambiance familiale !
     lieu: Bruxelles / Brabant Wallon
     age: 3-16 ans
   - name: Robotique
@@ -153,7 +155,7 @@ activites:
     titre_img: Activités extrascolaires
     titre_overlay: Activités extrascolaires
     src: "/assets/images/boutonsactivites/extrascolaires.png"
-    href: "/activites/extrascolaire"
+    href: "/activites/extrascolaire/"
     autre_page: ''
     bouton: Inscription
     couleur_bouton: ''
