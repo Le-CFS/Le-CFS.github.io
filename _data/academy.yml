@@ -10,9 +10,9 @@ cours:
   src: "/assets/images/activites-extrascolairs-enfants-cfs-parcours-pro-500x500.jpg"
   href: "/activites/cfs_academy/parcours_pro"
   bouton: Plus d'ingo
-- online: true
+- online: false
   titre: Gym Pro Academy
-  src: "/assets/images/activites-extrascolairs-enfants-cfs-gym-pro-academy-500x500.jpg"
+  src: "/assets/images/activites-extrascolairs-enfants-cfs-gym-pro-academy-500x500-1.jpg"
   href: "/activites/cfs_academy/gym_pro_academy"
   bouton: Plus d'info
 - online: false
