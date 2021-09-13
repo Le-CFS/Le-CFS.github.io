@@ -44,3 +44,6 @@ fields:
   config: {}
   template: seo
   label: SEO
+pages:
+- pages/activites_enfants/academy/gym-academy.md
+- pages/activites_enfants/academy/parkour-pro.md
