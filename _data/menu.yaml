@@ -193,8 +193,6 @@ activites:
     sousmenu:
     - title: Mini-foot Academy
       url: "/activites/cfs_academy/mini_foot_academy/"
-    - title: Gym pro Academy
-      url: "/activites/cfs_academy/gym_pro_academy/"
     - title: École de natation
       url: "/activites/cfs_academy/ecole_de_natation/"
     - title: Tennis Academy
@@ -205,10 +203,18 @@ activites:
       url: "/activites/cfs_academy/robotique_academy/"
     - title: Danse Academy
       url: "/activites/cfs_academy/danse_academy/"
+    - title: Gym pro Academy
+      url: "/activites/cfs_academy/gym_pro_academy/"
+    - title: Gym Academy
+      url: "/activites/cfs_academy/gym_academy"
+    - title: Parkour Pro
+      url: "/activites/cfs_academy/parkour_pro/"
+    - title: Football Academy
+      url: "/activites/cfs_academy/football_academy/"
   - title: Activités Parascolaires
     url: "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2"
     title_mobile: Activités Parascolaires
-    online_mobile: false
+    online_mobile: true
 cours_adultes:
   titre: Cours adultes
   url: "/cours_adultes/"
