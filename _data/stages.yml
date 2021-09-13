@@ -1,4 +1,33 @@
 ---
+categories:
+- name: "Les petits bouts"
+  filtre: "bouts"
+  official_name: "Les petits Bouts"
+  btn: "btn-stage-bouts"
+- name: "Découvertes sportives et culturelles"
+  filtre: "culturelles"
+  official_name: "Sportives et Culturelles"
+  btn: "btn-stage-culturelles"
+- name: "Danse et Gymnastique"
+  filtre: "danse"
+  official_name: "Danse et Gymnastique"
+  btn: "btn-stage-danse"
+- name: "Activités fun"
+  filtre: "fun"
+  official_name: "Activités Fun"
+  btn: "btn-stage-fun"
+- name: "Activités sportives"
+  filtre: "sportives"
+  official_name: "Activités sportives"
+  btn: "btn-stage-sportives"
+- name: "Activités artistiques et loisirs"
+  filtre: "artistiques"
+  official_name: "Artistiques et Loisirs"
+  btn: "btn-stage-artistiques"
+- name: "Internat"
+  filtre:  "internat"
+  official_name: "Formules All In"
+  btn: "btn-stage-internat"
 stages:
 - name: FUN EVASION
   categorie: Activités fun

@@ -15,6 +15,9 @@ js: portfolio.js
 <p>Ci-dessous tous les stages que nous vous proposons.<br>
 Vous pouvez sélectionner une catégorie pour peaufiner votre recherche.</p>
 
+{% assign liste_stages = site.data.stages.stages | sort: "name" %}
+{% assign liste_stages = liste_stages | where: "online", true %}
+
 <div id="content">
     <section id="portfolio" class="section">
          <div class="row" style="display:inline;">
@@ -23,40 +26,26 @@ Vous pouvez sélectionner une catégorie pour peaufiner votre recherche.</p>
 	                <a class="filter active btn-stage btn-stage-all btn btn-common col-md-12 btn-block" data-filter="all">
 	                  Tous les stages 
 	                </a>
-	                <a class="filter btn-stage btn-stage-bouts btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".bouts">
-	                  Les Petits Bouts 
+
+	                <!-- La liste des catégories est disponible dans le fichier _data/stages.yml -->
+
+	                {% for categorie in site.data.stages.categories %}
+	                {% assign new_list = liste_stages | where: "categorie", categorie.name %}
+	                {% if new_list.size > 0 %}
+	                <a class="filter btn-stage {{ categorie.btn }} btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".{{ categorie.filtre }}">
+	                  {{ new_list.size }} - {{ categorie.official_name }}
 	                </a>
-	                <a class="filter btn-stage btn-stage-culturelles btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".culturelles">
-	                  Sportives & Culturelles
-	                </a>
-	                <a class="filter btn-stage btn-stage-danse btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".danse">
-	                  Danse & Gymnastique
-	                </a>
-	                <a class="filter btn-stage btn-stage-fun btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".fun">
-	                  Activités Fun 
-	                </a>
-	                <a class="filter btn-stage btn-stage-sportives btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".sportives">
-	                  Activités Sportives 
-	                </a>
-	                <a class="filter btn-stage btn-stage-artistiques btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".artistiques">
-	                  Artistique & Loisirs
-	                </a>
-	                <a class="filter btn-stage btn-stage-internat btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".internat">
-	                  Formules All In
-	                </a>
+	                {% endif %}
+	                {% endfor %}
               	</div>
             </div>
             
             <div id="portfolio" class="row wow fadeInUpQuick" data-wow-delay="0.8s">
-
-				{% assign liste_stages = site.data.stages.stages | sort: "name" %}
 				
 				{% for stage in liste_stages %}
-  					{% if stage.online %}
 
 						{% include coleen/liste_cartes.html %}
 
-  					{% endif %}
 				{% endfor %}
 
         	</div>
