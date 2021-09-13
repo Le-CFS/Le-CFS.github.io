@@ -33,7 +33,7 @@ Vous pouvez sélectionner une catégorie pour peaufiner votre recherche.</p>
 	                {% assign new_list = liste_stages | where: "categorie", categorie.name %}
 	                {% if new_list.size > 0 %}
 	                <a class="filter btn-stage {{ categorie.btn }} btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".{{ categorie.filtre }}">
-	                  {{ new_list.size }} - {{ categorie.official_name }}
+	                {{ categorie.official_name }}
 	                </a>
 	                {% endif %}
 	                {% endfor %}
