@@ -8,6 +8,5 @@ menu: activites
 avantages: []
 link: ''
 description: Texte à venir.
-published: false
 
 ---
