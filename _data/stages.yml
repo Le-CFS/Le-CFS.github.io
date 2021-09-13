@@ -20,9 +20,9 @@ stages:
       : Aquaparc avec des structures gonflables sur eau.<br></p></li><li><p>Excursion
       à Profondville : bouée tractée, kayak.<br></p></li><li><p>Survivor : Initiation
       aux techniques de survie (lire une carte, filtrer de l'eau, construire un cabane,
-      ...</p></li></ul><p><em>ATTENTION : le programme peut changer les semaines plus
-      courtes.</em></p><p><strong>Certaines activités demandent un déplacement en
-      navette assuré par nos soins.</strong></p>"
+      ...</p></li></ul><p><em>ATTENTION : le programme est susceptible de changer
+      les semaines plus courtes.</em></p><p><strong>Certaines activités demandent
+      un déplacement en navette assuré par nos soins.</strong></p>"
     infos: []
 - name: Quad & Fun
   categorie: Activités fun
@@ -92,7 +92,7 @@ stages:
 - name: Découverte des métiers
   categorie: Activités fun
   img: "/assets/images/stage-enfant-decouverte-metiers-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -191,7 +191,7 @@ stages:
 - name: Football (joueurs)
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-football-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -221,7 +221,7 @@ stages:
 - name: Football (gardiens)
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-football-gardien-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -252,7 +252,7 @@ stages:
 - name: Basketball
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-basketball-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -282,7 +282,7 @@ stages:
 - name: Jumanji & Géocatching
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-jumanji-et-geocatching-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -320,7 +320,7 @@ stages:
     infos: []
 - name: Sports Nautiques
   categorie: Internat
-  online: true
+  online: false
   nouveau: true
   location:
   - alias: Italie
@@ -356,7 +356,7 @@ stages:
   inscription: ''
 - name: Vacances Ados
   categorie: Internat
-  online: true
+  online: false
   nouveau: true
   location:
   - alias: Italie
@@ -394,7 +394,7 @@ stages:
 - name: Multisports
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-multisports-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -430,7 +430,7 @@ stages:
 - name: Football
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-football-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -505,7 +505,7 @@ stages:
 - name: Cabane d'aventurier
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-cabane-aventurier-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -629,7 +629,7 @@ stages:
 - name: Zeekamp
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-zeekamp-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -664,7 +664,7 @@ stages:
 - name: Sports Nautiques
   categorie: Internat
   img: "/assets/images/anniversaires/activites/nautifun.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -699,7 +699,7 @@ stages:
 - name: Equitation
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-equitation-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -737,7 +737,7 @@ stages:
 - name: Néerlandais
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-neerlandais-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -780,7 +780,7 @@ stages:
 - name: Basketball
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-basketball-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -822,7 +822,7 @@ stages:
 - name: Tennis
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-tennis-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -939,7 +939,7 @@ stages:
 - name: Equitation
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-equitation-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1082,7 +1082,7 @@ stages:
 - name: Cinéma
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-cinema-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1129,7 +1129,7 @@ stages:
 - name: Fun Summer
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-fun-summer-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1176,7 +1176,7 @@ stages:
 - name: Cool Summer
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-cool-summer-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1223,7 +1223,7 @@ stages:
 - name: Top Summer
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-top-summer-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1270,7 +1270,7 @@ stages:
 - name: Full Activity
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-full-activity-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1316,7 +1316,7 @@ stages:
 - name: Football
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-football-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1363,7 +1363,7 @@ stages:
 - name: Basketball
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-basketball-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1410,7 +1410,7 @@ stages:
 - name: Vacances Ados
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-vacances-ados-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1450,7 +1450,7 @@ stages:
 - name: Multisports
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-multisports-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1489,7 +1489,7 @@ stages:
 - name: Sports Nautiques
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-sports-nautiques-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1528,7 +1528,7 @@ stages:
 - name: 'Multisports & langues '
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-multi-sports-et-langues-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -1742,7 +1742,7 @@ stages:
 - name: Vol à Voile
   categorie: Internat
   img: "/assets/images/stage-enfant-vol-a-voile-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -1783,7 +1783,7 @@ stages:
 - name: 'Satellite Camp 2 '
   categorie: Internat
   img: "/assets/images/stage-enfant-satellite-niveau-2-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -1824,7 +1824,7 @@ stages:
 - name: 'Satellite Camp 1 '
   categorie: Internat
   img: "/assets/images/stage-enfant-satellite-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -1865,7 +1865,7 @@ stages:
 - name: Rocket Camp 2
   categorie: Internat
   img: "/assets/images/stage-enfant-rocket-niveau-2-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -1904,7 +1904,7 @@ stages:
 - name: Rocket Camp 1
   categorie: Internat
   img: "/assets/images/stage-enfant-rocket-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -1946,7 +1946,7 @@ stages:
 - name: Robotic Camp
   categorie: Internat
   img: "/assets/images/stage-enfant-robotique-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -1990,7 +1990,7 @@ stages:
 - name: Modélisation 3D
   categorie: Internat
   img: "/assets/images/stage-enfant-3d-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2026,7 +2026,7 @@ stages:
 - name: Drone Camp
   categorie: Internat
   img: "/assets/images/stage-enfant-drone-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2066,7 +2066,7 @@ stages:
 - name: Astronomy Camp Junior
   categorie: Internat
   img: "/assets/images/stage-enfant-astronomie-junior-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2098,7 +2098,7 @@ stages:
 - name: Astronomy Camp
   categorie: Internat
   img: "/assets/images/stage-enfant-astronomie-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2140,7 +2140,7 @@ stages:
 - name: Astronaut Espace Langues
   categorie: Internat
   img: "/assets/images/stage-enfant-astronaute-space-langues-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2190,7 +2190,7 @@ stages:
 - name: Astronaut Camp Junior
   categorie: Internat
   img: "/assets/images/stage-enfant-astronaute-junior-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2220,7 +2220,7 @@ stages:
 - name: Astronaut Camp
   categorie: Internat
   img: "/assets/images/stage-enfant-astronaute-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2267,7 +2267,7 @@ stages:
 - name: Tennis
   categorie: Internat
   img: "/assets/images/stages/activitessportives/tennispro.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2294,7 +2294,7 @@ stages:
 - name: Padel-Tennis
   categorie: Internat
   img: "/assets/images/stages/activitessportives/padel.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2322,7 +2322,7 @@ stages:
 - name: Nautic on the Beach
   categorie: Internat
   img: "/assets/images/stages/activitesfun/nauticamp.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2350,7 +2350,7 @@ stages:
 - name: Initiation Golf
   categorie: Internat
   img: "/assets/images/stage-enfant-initiation-golf500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2379,7 +2379,7 @@ stages:
 - name: Aventure XXL
   categorie: Internat
   img: "/assets/images/stages/activitesfun/aventurecamp.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2408,7 +2408,7 @@ stages:
 - name: Sport Aventure & Quad
   categorie: Internat
   img: "/assets/images/stage-enfant-sport-aventure-et-quad-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2438,7 +2438,7 @@ stages:
 - name: Football Academy
   categorie: Internat
   img: "/assets/images/stage-enfant-football-academy-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
