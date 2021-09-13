@@ -14,6 +14,20 @@ description: ''
 
 <!-- NE PAS MODIFIER AU DESSUS DE CETTE LIGNE -->
 
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!-- NE PAS MODIFIER EN DESSOUS DE CETTE LIGNE -->
+
+#### Liste des activités
+
+{% assign liste_activites = site.data.parascolaire.activites | sort: "name" %}
+
+{% for activite in liste_activites %}
+
+{% if activite.online %}
+
+{% include coleen/carte_parascolaire.html %}
+
+{% endif %}
+
+{% endfor %}
