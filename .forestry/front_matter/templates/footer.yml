@@ -2,83 +2,92 @@
 label: footer
 hide_body: true
 fields:
-- type: text
-  name: background_color
-  label: background_color
+- name: background_color
+  type: color
+  label: Couleur de fond
+  config:
+    required: false
+    color_format: Hex
+  default: "#475268"
+  description: Par défaut, la couleur est "#475268".
 - type: field_group
   name: col_1
-  label: col_1
+  label: 'Colonne 1: Nous contacter'
   fields:
   - type: text
     name: nom
-    label: nom
+    label: nom de la colonne
   - type: text
     name: adresse_1
-    label: adresse_1
+    label: Destinataire
   - type: text
     name: adresse_2
-    label: adresse_2
+    label: Rue & Numéro
   - type: text
     name: adresse_3
-    label: adresse_3
+    label: Code Postal et ville
   - type: field_group_list
     name: phones
-    label: phones
+    label: Numéros de téléphones
     fields:
     - type: text
       name: nom
-      label: nom
+      label: Intitulé (bxl, brt, lie)
     - type: text
       name: numero
       label: numero
   - type: text
     name: mail
-    label: mail
+    label: Mail de la boite info
   - type: text
     name: bouton_texte
-    label: bouton_texte
+    label: Texte du bouton de contact
   - type: text
     name: bouton_url
-    label: bouton_url
+    label: Lien du bouton de contact
   - type: textarea
     name: description
-    label: description
+    label: Texte explicatif
 - type: field_group
   name: col_2
-  label: col_2
+  label: 'Colonne 2: Instagram'
   fields:
   - type: text
     name: nom
-    label: nom
+    label: nom de la colonne
   - type: file
     name: src
-    label: src
+    label: Image
   - type: text
     name: alt
-    label: alt
+    label: Texte alternatif
 - type: field_group
   name: col_3
-  label: col_3
+  label: 'Colonne 3: Facebook'
   fields:
   - type: text
     name: nom
-    label: nom
+    label: nom de la colonne
   - type: file
     name: src
-    label: src
+    label: Image
   - type: text
     name: alt
-    label: alt
+    label: Texte alternatif
 - type: field_group
   name: logo
-  label: logo
+  label: Logo de bas de page
   fields:
   - type: text
     name: nom
     label: nom
+  - name: src
+    type: file
+    config:
+      maxSize: 64
+    label: Image
   - type: text
     name: alt
-    label: alt
-  - type: file
-    name: src
-    label: src
+    label: Texte alternatif
+pages:
+- _data/footer.yml
