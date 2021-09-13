@@ -1,59 +1,48 @@
-      <!-- Footer -->
-      <footer class="default-footer">
+{% assign footer = site.data.footer %}
 
-                <!-- Container Starts -->
-              <div class="container">
-          <!-- Row Starts -->
+      <footer class="default-footer" style="background-color: {{ footer.background_color }} !important;">
+
+        <div class="container">
           <div class="row section">
-            <!-- Footer Widget Starts -->
             <div class="footer-widget col-xs-12 col-sm-12 col-md-4 col-lg-4">
-              <h3 class="small-title text-center">
-                Nous contacter
-              </h3>
+              <h3 class="small-title text-center">{{ footer.col_1.nom }}</h3>
               <ul class="menu">
-                <li style="color: white !important;"><strong>CFS - Centre de Formation Sportive asbl</strong></li>
-                <li style="color: white !important;"><i class="fa fa-map-marker icons cyan-color contact-info-icon"></i> Rue Provinciale, 225</li>
-                <li style="color: white !important;"><i class="fa fa-map-marker icons cyan-color contact-info-icon" style="color: transparent;"></i> 1301 Bierges</li>
+                <li style="color: white !important;"><strong>{{ footer.col_1.adresse_1 }}</strong></li>
+                <li style="color: white !important;"><i class="fa fa-map-marker icons cyan-color contact-info-icon"></i> {{ footer.col_1.adresse_2 }}</li>
+                <li style="color: white !important;"><i class="fa fa-map-marker icons cyan-color contact-info-icon" style="color: transparent;"></i> {{ footer.col_1.adresse_3 }}</li>
               </ul>
+
               <div class="row">
-                <div class="col-md-5 col-xs-5"><i class="fa fa-phone icons cyan-color contact-info-icon"></i> Bruxelles</div>
-                <div class="col-md-7 col-xs-7">+32 24205302</div>
-                <div class="col-md-5 col-xs-5"><i class="fa fa-phone icons cyan-color contact-info-icon"></i> Brabant</div>
-                <div class="col-md-7 col-xs-7">+32 10227396</div>
-                <div class="col-md-5 col-xs-5"><i class="fa fa-phone icons cyan-color contact-info-icon"></i> Liège</div>
-                <div class="col-md-7 col-xs-7">+32 85312246</div>
-                <div class="col-md-12"><i class="fa fa-envelope-o icons cyan-color contact-info-icon"></i> info@lecfs.be</div>
+                {% for phone in footer.col_1.phones %}
+                  <div class="col-md-5 col-xs-5"><i class="fa fa-phone icons cyan-color contact-info-icon"></i> {{ phone.nom }}</div>
+                  <div class="col-md-7 col-xs-7">{{ phone.numero }}</div>
+                {% endfor %}
+                <div class="col-md-12"><i class="fa fa-envelope-o icons cyan-color contact-info-icon"></i> {{ footer.col_1.mail }}</div>
               </div>
+
               <br/>
-            <a href="/contact" class="btn btn-block btn-info-filled"><i class="fa fa-phone icons cyan-color contact-info-icon"></i> Nous contacter</a>
+            <a href="{{ footer.col_1.bouton_url }}" class="btn btn-block btn-info-filled"><i class="fa fa-phone icons cyan-color contact-info-icon"></i> {{ footer.col_1.bouton_texte }}</a>
             <br/>
-            <p>Créée en 1981 par des licenciés en Éducation Physique, l'association CFS - Centre de Formation Sportive asbl propose des stages sportifs et culturels pour les enfants et les jeunes de 0 à 16 ans.</p>
+            <p>{{ footer.col_1.description }}</p>
           </div>
-            <!-- Footer Widget Ends -->
 
-            <!-- Footer Widget Starts -->
             <div class="footer-widget col-xs-12 col-sm-12 col-md-4 col-lg-4">
-              <h3 class="small-title text-center">
-                Instagram
-              </h3>
-              <a href="https://www.instagram.com/{{ site.author.instagram }}/"><img src="/assets/images/Instagram.jpg"></a>
+              <h3 class="small-title text-center">{{ footer.col_2.nom }}</h3>
+              <a href="https://www.instagram.com/{{ site.author.instagram }}/">
+                <img src="{{ footer.col_2.src }}" alt="{{ footer.col_2.alt }}">
+              </a>
             </div>
-            <!-- Footer Widget Ends -->
 
-            <!-- Footer Widget Starts -->
             <div class="footer-widget col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
-              <h3 class="small-title">
-                Facebook
-              </h3>
-              <a href="https://www.facebook.com/{{ site.author.facebook }}/"><img src="/assets/images/facebook.jpg"></a>
+              <h3 class="small-title">{{ footer.col_3.nom }}</h3>
+              <a href="https://www.facebook.com/{{ site.author.facebook }}/">
+                <img src="{{ footer.col_3.src }}" alt="{{ footer.col_3.alt }}">
+              </a>
             </div>
-            <!-- Footer Widget Ends -->
           </div>
-          <!-- Row Ends -->
         </div>
 
-        <!-- Container Ends -->
         <div class="container text-center">
-          <img class="mb-40 footer-logo" src="{{ BASE_PATH }}/assets/images/logocfs.jpg" alt="CFS ASBL" style="width: 300px; height: auto;">
+          <img class="mb-40 footer-logo" src="{{ footer.logo.src }}" alt="{{ footer.logo.alt }}" style="width: 300px; height: auto;">
         </div>
       </footer>
