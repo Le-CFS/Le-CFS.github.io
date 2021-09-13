@@ -16,8 +16,10 @@ activites:
   age_fin: "P6"
   description: "Une super chouette activité !"
   ecoles:
-    - CNDBW
-    - ARO
+    - name: "Collège"
+      province: ""
+    - name: "Aro"
+      province: ""
 - name: Multisports
   categorie: Découvertes sportives et culturelles
   img: '/assets/images/stages/activitessportives/aquafun.png'
@@ -27,5 +29,7 @@ activites:
   age_fin: "M3"
   description: "Une super chouette activité !"
   ecoles:
-    - ARO
-    - Erpent
+    - name: "ARO"
+      province: ""
+    - name: "Erpent"
+      province: ""
