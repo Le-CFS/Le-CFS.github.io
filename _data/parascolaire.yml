@@ -1,35 +1,28 @@
 ---
-# ecoles:
-# - nom: College Notre Dame de Basse-Wavre
-#   tag: cndbw
-# - nom: Athénée Royal Paul Delvaux
-#   tag: aro
-# - nom: Nil Saint Vincent
-#   tag: nil
 activites:
 - name: Mini-Foot
   categorie: Découvertes sportives et culturelles
-  img: '/assets/images/stages/activitessportives/aquafun.png'
+  img: "/assets/images/stages/activitessportives/aquafun.png"
   online: true
   nouveau: true
-  age_debut: "P2"
-  age_fin: "P6"
-  description: "Une super chouette activité !"
+  age_debut: P2
+  age_fin: P6
+  description: Une super chouette activité !
   ecoles:
-    - name: "Collège"
-      province: ""
-    - name: "Aro"
-      province: ""
+  - name: Collège
+    province: Brabant Wallon
+  - name: Aro
+    province: Brabant Wallon
 - name: Multisports
   categorie: Découvertes sportives et culturelles
-  img: '/assets/images/stages/activitessportives/aquafun.png'
+  img: "/assets/images/stages/activitessportives/aquafun.png"
   online: true
   nouveau: false
-  age_debut: "Acc"
-  age_fin: "M3"
-  description: "Une super chouette activité !"
+  age_debut: Acc
+  age_fin: M3
+  description: Une super chouette activité !
   ecoles:
-    - name: "ARO"
-      province: ""
-    - name: "Erpent"
-      province: ""
+  - name: ARO
+    province: ''
+  - name: Erpent
+    province: ''

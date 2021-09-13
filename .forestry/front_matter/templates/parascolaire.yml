@@ -86,9 +86,6 @@ fields:
     type: boolean
     label: Nouveau ?
     description: Label vert "NOUVEAU" sur le stage.
-  - type: text
-    name: inscription
-    label: inscription
   - name: ecoles
     type: field_group_list
     fields:
