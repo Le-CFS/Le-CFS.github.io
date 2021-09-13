@@ -1,0 +1,84 @@
+---
+label: footer
+hide_body: true
+fields:
+- type: text
+  name: background_color
+  label: background_color
+- type: field_group
+  name: col_1
+  label: col_1
+  fields:
+  - type: text
+    name: nom
+    label: nom
+  - type: text
+    name: adresse_1
+    label: adresse_1
+  - type: text
+    name: adresse_2
+    label: adresse_2
+  - type: text
+    name: adresse_3
+    label: adresse_3
+  - type: field_group_list
+    name: phones
+    label: phones
+    fields:
+    - type: text
+      name: nom
+      label: nom
+    - type: text
+      name: numero
+      label: numero
+  - type: text
+    name: mail
+    label: mail
+  - type: text
+    name: bouton_texte
+    label: bouton_texte
+  - type: text
+    name: bouton_url
+    label: bouton_url
+  - type: textarea
+    name: description
+    label: description
+- type: field_group
+  name: col_2
+  label: col_2
+  fields:
+  - type: text
+    name: nom
+    label: nom
+  - type: file
+    name: src
+    label: src
+  - type: text
+    name: alt
+    label: alt
+- type: field_group
+  name: col_3
+  label: col_3
+  fields:
+  - type: text
+    name: nom
+    label: nom
+  - type: file
+    name: src
+    label: src
+  - type: text
+    name: alt
+    label: alt
+- type: field_group
+  name: logo
+  label: logo
+  fields:
+  - type: text
+    name: nom
+    label: nom
+  - type: text
+    name: alt
+    label: alt
+  - type: file
+    name: src
+    label: src
