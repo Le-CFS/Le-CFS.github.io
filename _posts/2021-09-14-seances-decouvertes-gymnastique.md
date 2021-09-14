@@ -7,12 +7,12 @@ tags:
 - découvertes
 - 2021-2022
 title: Séances découvertes Gymnastique
-banner: "/assets/images/seances_decouvertes_gymnastique_2021_2022.jpg"
+banner: "/assets/images/seances_decouvertes_gymnastique_21_22.jpg"
 infos:
   date: 
   teaser: ''
 description: Save the date !
-image: "/assets/images/seancesdecouvertes_gym_facebook.jpg"
+image: "/assets/images/seancesdecouvertes_gym_face.jpg"
 
 ---
 #### INFOS GYMNASTES 🤩  
