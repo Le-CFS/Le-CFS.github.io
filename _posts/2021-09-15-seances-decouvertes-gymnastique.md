@@ -21,8 +21,8 @@ image: "/assets/images/seancesdecouvertes_gym_face.jpg"
 
 ##### Ca y est ! Les inscriptions pour les séances spéciales sont **ouvertes** 🤙
 
-Gaëlle et son équipe seront ravis d’accueillir vos gymnastes durant 2h 😃  
-  
+Gaëlle et son équipe seront ravis d’accueillir vos gymnastes durant 2h 😃
+
 📍 COURT-ST-ETIENNE - La Courtoise
 
 📅 SAVE THE DATE  
