@@ -25,15 +25,7 @@
       {% include themes/bootstrap/nav-bar.html %}
       
       <div class="page-header-title">
-        <h2 class="heading-title text-center"
-          {% if {{page.url}} contains 'stages/activites/petits_bouts' %}style="color: #98C01E !important;"{% endif %}
-          {% if {{page.url}} contains 'stages/activites/decouvertes_sportives_et_culturelles' %}style="color: #0095D5 !important;"{% endif %}
-          {% if {{page.url}} contains 'stages/activites/danse_et_gymnastique' %}style="color: #EB680D !important;"{% endif %}
-          {% if {{page.url}} contains 'stages/activites/activites_fun' %}style="color: #911D7E !important;"{% endif %}
-          {% if {{page.url}} contains 'stages/activites/activites_sportives' %}style="color: #FABB00 !important;"{% endif %}
-          {% if {{page.url}} contains 'stages/activites/activites_artistiques_et_loisirs' %}style="color: #E2071B !important;"{% endif %}
-        >{{ page.title }}
-        </h2>
+        <h2 class="heading-title text-center">{{ page.title }}</h2>
       </div>
 
     </div>
