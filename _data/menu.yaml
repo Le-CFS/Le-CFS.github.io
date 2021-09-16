@@ -65,7 +65,7 @@ cfs:
       url: "/cfs/les_centres_cfs/wsl"
     - title: Woluwé-Saint-Pierre
       title_mobile: Woluwé-St-Pierre
-      url: "/cfs/les_centres_cfs/wsp/"
+      url: "/cfs/les_centres_cfs/wsp"
   - title: Partenaires
     url: "/cfs/partenaires/"
 stages_enfants:
