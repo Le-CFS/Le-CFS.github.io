@@ -218,8 +218,8 @@ activites:
 cours_adultes:
   titre: Cours adultes
   url: "/cours_adultes/"
-  title_mobile: Liste des activités
-  online_mobile: false
+  title_mobile: Liste des cours
+  online_mobile: true
   sousmenu:
   - title: Abdos fessiers
     url: "/cours_adultes/abdos_fessiers/"

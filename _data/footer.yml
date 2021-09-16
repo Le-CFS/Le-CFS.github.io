@@ -2,17 +2,6 @@
 background_color: "#475268"
 col_1:
   nom: Nous contacter
-  adresse_1: CFS - Centre de Formation Sportive asbl
-  adresse_2: Rue Provinciale, 225
-  adresse_3: 1301 Bierges
-  phones:
-  - nom: Bruxelles
-    numero: "+32 24205302"
-  - nom: Brabant
-    numero: "+32 10227396"
-  - nom: Liège
-    numero: "+32 85312246"
-  mail: info@lecfs.be
   bouton_texte: Nous contacter
   bouton_url: "/contact"
   description: Créée en 1981 par des licenciés en Éducation Physique, l'association
