@@ -14,13 +14,17 @@ fields:
   fields:
   - type: text
     name: nom
-    label: nom
+    label: Nom de la province
   - type: text
     name: tel_a_afficher
-    label: tel_a_afficher
+    label: Numéro de téléphone à afficher
+    description: 'Nous faisons une différence avec le numéro pour appeler qui ne doit
+      pas être le même que le numéro à afficher.<br>Exemple: <strong>+32 (0)10227396</strong>'
   - type: text
     name: tel_a_composer
-    label: tel_a_composer
+    label: Numéro de téléphone à composer
+    description: 'Nous faisons une différence avec le numéro pour appeler qui ne doit
+      pas être le même que le numéro à afficher.<br>Exemple: <strong>+3210227396</strong>'
 - type: text
   name: email
   label: email
@@ -33,3 +37,5 @@ fields:
 - type: text
   name: site
   label: site
+pages:
+- _data/GLOBAL.yml
