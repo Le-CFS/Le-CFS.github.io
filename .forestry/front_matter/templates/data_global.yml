@@ -1,0 +1,41 @@
+---
+label: DATA_GLOBAL
+hide_body: true
+fields:
+- type: text
+  name: adresse_ligne_1
+  label: adresse_ligne_1
+- type: text
+  name: adresse_ligne_2
+  label: adresse_ligne_2
+- type: field_group_list
+  name: provinces
+  label: provinces
+  fields:
+  - type: text
+    name: nom
+    label: Nom de la province
+  - type: text
+    name: tel_a_afficher
+    label: Numéro de téléphone à afficher
+    description: 'Nous faisons une différence avec le numéro pour appeler qui ne doit
+      pas être le même que le numéro à afficher.<br>Exemple: <strong>+32 (0)10227396</strong>'
+  - type: text
+    name: tel_a_composer
+    label: Numéro de téléphone à composer
+    description: 'Nous faisons une différence avec le numéro pour appeler qui ne doit
+      pas être le même que le numéro à afficher.<br>Exemple: <strong>+3210227396</strong>'
+- type: text
+  name: email
+  label: email
+- type: text
+  name: instagram
+  label: instagram
+- type: text
+  name: facebook
+  label: facebook
+- type: text
+  name: site
+  label: site
+pages:
+- _data/GLOBAL.yml

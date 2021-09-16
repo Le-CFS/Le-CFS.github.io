@@ -1,16 +1,17 @@
-adresse_ligne_1: "Rue Provinciale, 225"
-adresse_ligne_2: "1301 Bierges"
+---
+adresse_ligne_1: Rue Provinciale, 225
+adresse_ligne_2: 1301 Bierges
 provinces:
-        - nom: "brabant"
-          tel_a_afficher: "+32 (0)10227396"
-          tel_a_composer: "+3210227396"
-        - nom: "bruxelles"
-          tel_a_afficher: "+32 (0)24205302"
-          tel_a_composer: "+3224205302"
-        - nom: "liege"
-          tel_a_afficher: "+32 (0)85312246"
-          tel_a_composer: "+3285312246"
-email: "info@lecfs.be"
-instagram: "https://www.instagram.com/cfs_asbl/"
-facebook: "https://www.facebook.com/CFSasbl/"
-site: "www.lecfs.be"
+- nom: brabant
+  tel_a_afficher: "+32 (0)10227396"
+  tel_a_composer: "+3210227396"
+- nom: bruxelles
+  tel_a_afficher: "+32 (0)24205302"
+  tel_a_composer: "+3224205302"
+- nom: liege
+  tel_a_afficher: "+32 (0)85312246"
+  tel_a_composer: "+3285312246"
+email: info@lecfs.be
+instagram: https://www.instagram.com/cfs_asbl/
+facebook: https://www.facebook.com/CFSasbl/
+site: www.lecfs.be
