@@ -1,5 +1,22 @@
 ---
 anniversaires:
+- name: Interactif Lü
+  online: true
+  nouveau: true
+  anniversaire_une: true
+  age: 5-16 ans
+  img: "/assets/images/lu.jpg"
+  lieu: Louvain-la-Neuve
+  href: ''
+  prix: 225€
+  description: L'aire de jeu interactive LÜ est un dispositif ludique et interactif
+    permettant d’associer le sport et la réflexion à travers des jeux mais aussi des
+    situations pédagogiques multidisciplinaires.
+  infos: Le forfait est établi pour 12 enfants. 1 boisson par enfant comprise dans
+    le prix. Les jeux sont adaptés selon les âges.
+  bouton: ''
+  categorie:
+  - fun
 - name: Robotique
   online: false
   nouveau: true
