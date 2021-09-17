@@ -27,6 +27,14 @@ slider:
 selection:
   nom: Sélection du CFS
   images:
+  - titre: Interactif Lü
+    titre_img: Interactif Lü
+    titre_overlay: Interactif Lü
+    src: "/assets/images/interactif_lu.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: oui
+    bouton: Inscription
+    couleur_bouton: ''
   - titre: Extrascolaire
     titre_img: Extrascolaire
     titre_overlay: Extrascolaire
