@@ -39,7 +39,7 @@ selection:
     titre_img: Extrascolaire
     titre_overlay: Extrascolaire
     src: "/assets/images/boutonsactivites/extrascolaires.png"
-    href: "/extrascolaire/"
+    href: https://www.lecfs.be/activites/extrascolaire/
     autre_page: oui
     bouton: Inscription
     couleur_bouton: ''
