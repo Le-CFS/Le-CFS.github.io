@@ -1,11 +1,6 @@
 ---
 cours:
 - online: true
-  titre: Anniversaires
-  src: "/assets/images/event/anniversaires.png"
-  href: "/events/anniversaires"
-  bouton: Plus d'info
-- online: true
   titre: Journées sportives
   src: "/assets/images/event/journeessportives.png"
   href: "/events/journees_sportives"
