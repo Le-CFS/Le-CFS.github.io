@@ -224,18 +224,18 @@ anniversaires:
     url: "/anniversaires/evg/"
   - title: En savoir plus
     url: "/anniversaires/en_savoir_plus/"
-events:
-  titre: Events
-  url: "/events/"
+pour_les_ecoles:
+  titre: Pour les écoles
+  url: "/pour-les-ecoles/"
   title_mobile: Liste des activités
   online_mobile: false
   sousmenu:
   - title: Journées sportives
-    url: "/events/journees_sportives/"
+    url: "/pour-les-ecoles/journees_sportives/"
   - title: Journées pédagogiques
-    url: "/events/journees_pedagogiques/"
+    url: "/pour-les-ecoles/journees_pedagogiques/"
   - title: Fancy-Fair
-    url: "/events/fancy_fair/"
+    url: "/pour-les-ecoles/fancy_fair/"
   - title: Activités Parascolaires
     url: "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2"
 brochures:
