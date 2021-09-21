@@ -145,7 +145,7 @@ stages_enfants:
   - title: Garderie
     url: "/stages/garderie/"
   - title: Réductions
-    url: "/stages/reductions/"
+    url: "/cfs/reductions/"
   - title: Conditions générales
     url: "/stages/conditions_generales/"
 activites:
