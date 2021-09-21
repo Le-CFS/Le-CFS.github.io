@@ -8,7 +8,6 @@
 {% elsif pageurl contains '/news/' %}
 {% assign menu_principal = menu['cfs'] %}
 
-
 <!-- Pour éviter que la page brochures/stages passe avec le menu stages -->
 {% elsif pageurl contains '/brochures/stages/' %}
 {% assign menu_principal = menu['brochures'] %}
@@ -22,10 +21,6 @@
 {% elsif pageurl contains '/cours_adultes/' %}
 {% assign menu_principal = menu['cours_adultes'] %}
 
-<!-- Pour éviter que la page event/anniversaires passe avec le menu anniversaires -->
-{% elsif pageurl contains '/events/anniversaires/' %}
-{% assign menu_principal = menu['events'] %}
-
 <!-- Pour éviter que la page brochures/anniversaires passe avec le menu anniversaires -->
 {% elsif pageurl contains '/brochures/anniversaires/' %}
 {% assign menu_principal = menu['brochures'] %}
@@ -33,42 +28,14 @@
 {% elsif pageurl contains '/anniversaires/' %}
 {% assign menu_principal = menu['anniversaires'] %}
 
-{% elsif pageurl contains '/events/' %}
-{% assign menu_principal = menu['events'] %}
+{% elsif pageurl contains '/pour-les-ecoles/' %}
+{% assign menu_principal = menu['pour_les_ecoles'] %}
 
 
 {% elsif pageurl contains '/brochures/' %}
 {% assign menu_principal = menu['brochures'] %}
 
 {% endif %}
-
-<!-- <div class="blog-block categories-sidebar-widget">
-
-    <h4>
-        <a href="{{ menu_principal.url }}">{{ menu_principal.titre }}</a>
-    </h4>
-
-    {% for item in menu_principal.sousmenu %}
-        <div class="post-category">
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </div>
-        {% if page.url contains item.url %}
-            {% for menu2 in item.sousmenu %}
-                <div class="post-category" style="border-bottom: 0px !important; padding-left: 35px !important;">
-                    <a href="{{menu2.url}}">{{ menu2.title}}</a>
-                </div>
-                {% if menu2.sousmenu %}
-                    {% for menu3 in menu2.sousmenu %}
-                    <div class="post-category" style="border-bottom: 0px !important; padding-left: 70px !important;">
-                        <a href="{{menu3.url}}">{{ menu3.title}}</a>
-                    </div>
-                    {% endfor %}
-                {% endif %}
-            {% endfor %}
-        {% endif %}
-    {% endfor %}
-
-</div> -->
 
 <div class="blog-block categories-sidebar-widget">
 
