@@ -288,8 +288,6 @@ events:
     url: "/events/journees_pedagogiques/"
   - title: Fancy-Fair
     url: "/events/fancy_fair/"
-  - title: Location de matériel
-    url: "/events/location/"
 brochures:
   titre: Brochures
   url: "/brochures/"
