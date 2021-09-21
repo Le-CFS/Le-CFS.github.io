@@ -184,8 +184,6 @@ activites:
       url: "/activites/cfs_academy/football_academy/"
   - title: Activités Parascolaires
     url: "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2"
-    title_mobile: Activités Parascolaires
-    online_mobile: true
 cours_adultes:
   titre: Cours adultes
   url: "/cours_adultes/"
@@ -238,6 +236,8 @@ events:
     url: "/events/journees_pedagogiques/"
   - title: Fancy-Fair
     url: "/events/fancy_fair/"
+  - title: Activités Parascolaires
+    url: "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2"
 brochures:
   titre: Brochures
   url: "/brochures/"
