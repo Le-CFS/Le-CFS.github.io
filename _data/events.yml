@@ -15,8 +15,3 @@ cours:
   src: "/assets/images/event/fancyfair.png"
   href: "/events/fancy_fair"
   bouton: Plus d'info
-# - online: true
-#   titre: Location de Matériel
-#   src: "/assets/images/event/locationmateriel.png"
-#   href: "/events/location"
-#   bouton: Plus d'info
