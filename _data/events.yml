@@ -6,11 +6,6 @@ cours:
   href: "/events/anniversaires"
   bouton: Plus d'info
 - online: true
-  titre: EVG
-  src: "/assets/images/event/evg.png"
-  href: "/events/evg"
-  bouton: Plus d'info
-- online: true
   titre: Journées sportives
   src: "/assets/images/event/journeessportives.png"
   href: "/events/journees_sportives"

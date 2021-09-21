@@ -76,24 +76,8 @@ stages_enfants:
   - title: Un stage pour tous
     url: "/stages/activites/"
     title_mobile: Catalogue des stages
-    # sousmenu:
-    # - title: Les Petits Bouts
-    #   url: "/stages/activites/petits_bouts/"
-    # - title: Découvertes sportives et culturelles
-    #   url: "/stages/activites/decouvertes_sportives_et_culturelles"
-    # - title: Danse et Gymnastique
-    #   url: "/stages/activites/danse_et_gymnastique/"
-    # - title: Activités Fun
-    #   url: "/stages/activites/activites_fun/"
-    # - title: Activités sportives
-    #   url: "/stages/activites/activites_sportives/"
-    # - title: Activités artistiques et loisirs
-    #   url: "/stages/activites/activites_artistiques_et_loisirs/"
-    # - title: Internat
-    #   url: "/stages/activites/stages_en_internat/"
   - title: Organisation des stages
     url: "/stages/protocole/"
-    # online_mobile: false
   - title: Organisation générale
     url: "/stages/protocole/general/"
     # - title: Silos à Bruxelles
@@ -156,19 +140,6 @@ activites:
   - title: Extrascolaire pour tous
     url: "/activites/extrascolaire/"
     title_mobile: Catalogue extrascolaire
-    # sousmenu:
-    # - title: Les Petits Bouts
-    #   url: "/activites/extrascolaire/petits_bouts/"
-    # - title: Découvertes sportives et culturelles
-    #   url: "/activites/extrascolaire/decouvertes_sportives_et_culturelles"
-    # - title: Danse et Gymnastique
-    #   url: "/activites/extrascolaire/danse_et_gymnastique/"
-    # - title: Activités Fun
-    #   url: "/activites/extrascolaire/activites_fun/"
-    # - title: Activités sportives
-    #   url: "/activites/extrascolaire/activites_sportives/"
-    # - title: Activités artistiques et loisirs
-    #   url: "/activites/extrascolaire/activites_artistiques_et_loisirs/"
   - title: École de natation
     url: "/activites/ecole_de_natation/"
     title_mobile: École de Natation
@@ -248,17 +219,11 @@ cours_adultes:
 anniversaires:
   titre: Anniversaires
   url: "/anniversaires/"
-  title_mobile: Réservation
   sousmenu:
-  # - title: À mon domicile
-  #   url: "/anniversaires/domicile/"
-  # - title: Lieu sportif et fun
-  #   url: "/anniversaires/lieu_sportif_et_fun/"
-  # - title: À la piscine
-  #   url: "/anniversaires/piscine/"
   - title: Réservation
     url: "/anniversaires/reservation/"
-    online_mobile: false
+  - title: EVG
+    url: "/anniversaires/evg/"
   - title: En savoir plus
     url: "/anniversaires/en_savoir_plus/"
 events:
@@ -268,20 +233,7 @@ events:
   online_mobile: false
   sousmenu:
   - title: Anniversaires
-    url: "/events/anniversaires/"
-    title_mobile: Informations générales
-    online_mobile: false
-    sousmenu:
-    # - title: À mon domicile
-    #   url: "/events/anniversaires/domicile"
-    # - title: Lieu sportif et fun
-    #   url: "/events/anniversaires/lieu_sportif_et_fun/"
-    # - title: À la piscine
-    #   url: "/events/anniversaires/piscine"
-    - title: En savoir plus
-      url: "/events/anniversaires/en_savoir_plus"
-  - title: EVG
-    url: "/events/evg/"
+    url: "/anniversaires/"
   - title: Journées sportives
     url: "/events/journees_sportives/"
   - title: Journées pédagogiques
