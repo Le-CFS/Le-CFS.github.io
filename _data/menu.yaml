@@ -232,8 +232,6 @@ events:
   title_mobile: Liste des activités
   online_mobile: false
   sousmenu:
-  - title: Anniversaires
-    url: "/anniversaires/"
   - title: Journées sportives
     url: "/events/journees_sportives/"
   - title: Journées pédagogiques
