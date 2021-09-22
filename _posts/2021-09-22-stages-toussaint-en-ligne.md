@@ -25,7 +25,6 @@ Découvrez nos nombreux stages pour l'automne du **02 au 05 novembre !**
 Des stages sportifs, fun & créatifs 🤗
 
 **Aperçu de nos stages :**  
-• Ninja Warrior  
 • Aqua Fun  
 • Aventure  
 • Top Chef  
