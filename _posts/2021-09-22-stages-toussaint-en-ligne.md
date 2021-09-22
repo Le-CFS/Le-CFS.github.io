@@ -16,15 +16,16 @@ description: Stages Toussaint 2021 CFS
 image: "/assets/images/stages_toussaint_2021_fac.jpg"
 
 ---
-##### 📢 INSCRIPTION EN LIGNE !  
-🍂 C'est l'automne 🍁  
-  
+##### 📢 INSCRIPTION EN LIGNE !
+
+🍂 C'est l'automne 🍁
+
 Découvrez nos nombreux stages pour l'automne du **02 au 05 novembre !**
 
 Des stages sportifs, fun & créatifs 🤗
 
-**Petit aperçu de nos stages :  
-**• Ninja Warrior  
+**Aperçu de nos stages :**  
+• Ninja Warrior  
 • Aqua Fun  
 • Aventure  
 • Top Chef  
@@ -39,7 +40,7 @@ Des stages sportifs, fun & créatifs 🤗
 • Psycho découverte  
 • **_Et bien plus encore..._**
 
-📍 Nos centres :   
+📍 Nos centres :  
 **A Bruxelles:** Jette, Laeken, Wemmel, Asse, Auderghem, Woluwé-St-Pierre, Auderghem  
 **Dans le Brabant Wallon:** Bierges, Wavre, Rixensart, Ottignies, Court-St-Etienne, Walhain, Perwez
 
@@ -47,4 +48,4 @@ Des stages sportifs, fun & créatifs 🤗
 
 Bon mercredi à tous 😃
 
-A bientôt ! 
+A bientôt !
