@@ -1900,6 +1900,7 @@ nav#menu span.fa.fa-bars:hover{
     background-color:#fff;
     border:1px solid #ddd;
     border-radius:0
+    margin-bottom: 20px;
 }
 .card-2 .card-block .card-title{
     margin-bottom:7px
