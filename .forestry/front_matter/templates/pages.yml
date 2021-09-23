@@ -56,14 +56,6 @@ pages:
 - pages/cours_adultes/pound.html
 - pages/cours_adultes/swissjump.html
 - pages/cours_adultes/yoga.html
-- pages/events/anniversaires/en_savoir_plus.html
-- pages/events/anniversaires/index.html
-- pages/events/evg.html
-- pages/events/fancy_fair.html
-- pages/events/index.html
-- pages/events/journees_pedagogiques.html
-- pages/events/journees_sportives.html
-- pages/events/location.html
 - pages/le_cfs/index.html
 - pages/le_cfs/news.html
 - pages/le_cfs/partenaires.html
@@ -73,4 +65,3 @@ pages:
 - pages/stages_enfants/garderie.html
 - pages/stages_enfants/partenaires_de_stage.html
 - pages/stages_enfants/partenaires_pedagogiques.html
-- pages/stages_enfants/reductions.html
