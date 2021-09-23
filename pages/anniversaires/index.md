@@ -17,9 +17,23 @@ js: portfolio.js
     <a href="/anniversaires/reservation/" class="btn btn-block btn-info-filled" style="margin-top: 15px;">RÉSERVATION</a>
   </div>
 </div>
+<br>
+<br>
 
-<br><br>
+## Nouveau à Louvain-la-Neuve
 
+<br>
+{% comment%}
+Modifier la largeur, la hauteur et le lien en fonction des besoins.
+width = largeur
+height = hauteur
+src = lien
+{% endcomment %}
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/n-gbscvwkGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+<!-- NE PAS MODIFIER EN DESSOUS DE CETTE LIGNE -->
 <div id="content">
 <section id="portfolio" class="section">
          <div class="row" style="display:inline;">
