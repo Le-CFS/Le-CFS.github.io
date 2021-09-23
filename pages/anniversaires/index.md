@@ -14,15 +14,13 @@ js: portfolio.js
 
 <div class="row">
   <div class="col-md-4 offset-md-4">
-    <a href="/anniversaires/reservation/" class="btn btn-block btn-info-filled" style="margin-top: 15px;">RÉSERVATION</a>
+    <a href="/anniversaires/reservation/" class="btn btn-block btn-info-filled" style="margin-top: -5px;">RÉSERVATION</a>
   </div>
 </div>
-<br>
-<br>
 
+<div style="padding-top: 25px;"></div>
 ## Nouveau à Louvain-la-Neuve
-
-<br>
+<div style="padding-top: 12px;"></div>
 {% comment%}
 Modifier la largeur, la hauteur et le lien en fonction des besoins.
 width = largeur
