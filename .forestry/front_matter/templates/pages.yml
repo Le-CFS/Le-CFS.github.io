@@ -36,7 +36,6 @@ fields:
   label: SEO
 pages:
 - pages/anniversaires/en_savoir_plus.html
-- pages/anniversaires/index.html
 - pages/anniversaires/reservation.html
 - pages/brochures/adultes.html
 - pages/brochures/anniversaires.html
