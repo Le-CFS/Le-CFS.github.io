@@ -15,5 +15,6 @@ image: "/assets/images/banner/academy/gymproacademy.png"
 description: Profitez des nombreux avantages de l'activité extrascolaire Gym Pro Academy
   de l'ASBL CFS en vous affiliant au programme CFS Academy.
 link: ''
+published: false
 
 ---

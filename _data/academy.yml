@@ -30,7 +30,7 @@ cours:
   src: "/assets/images/boutonsactivites/cfsacademy/danseacademy.png"
   href: "/activites/cfs_academy/danse_academy"
   bouton: Plus d'info
-- online: true
+- online: false
   titre: Gym Pro Academy
   src: "/assets/images/activites-extrascolairs-enfants-cfs-gym-pro-academy-500x500-1.jpg"
   href: "/activites/cfs_academy/gym_pro_academy"
