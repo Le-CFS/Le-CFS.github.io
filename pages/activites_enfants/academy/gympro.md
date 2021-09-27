@@ -3,7 +3,7 @@ layout: academy
 title: Gym Pro Academy
 banner: "/assets/images/banner/academy/gymproacademy.png"
 permalink: "/activites/cfs_academy/gym_pro_academy/"
-menu: activites
+menu: false
 avantages:
 - Carte de 10 séances disponibles pour vos cours supplémentaires
 - Possibilité de commander votre tunique gymnique lors de l'inscription (en option)
