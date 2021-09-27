@@ -174,8 +174,8 @@ activites:
       url: "/activites/cfs_academy/robotique_academy/"
     - title: Danse Academy
       url: "/activites/cfs_academy/danse_academy/"
-    - title: Gym pro Academy
-      url: "/activites/cfs_academy/gym_pro_academy/"
+    # - title: Gym pro Academy
+    #   url: "/activites/cfs_academy/gym_pro_academy/"
     - title: Gym Academy
       url: "/activites/cfs_academy/gym_academy"
     - title: Parkour Pro
