@@ -19,7 +19,9 @@ js: portfolio.js
 </div>
 
 <div style="padding-top: 25px;"></div>
-## Nouveau à Louvain-la-Neuve
+
+<div class="col-md-12 text-center" style="font-size: 24px;"><b>Nouveau à Louvain-la-Neuve</b></div>
+
 <div style="padding-top: 12px;"></div>
 {% comment%}
 Modifier la largeur, la hauteur et le lien en fonction des besoins.
