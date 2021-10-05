@@ -1,5 +1,12 @@
 ---
 liste:
+- name: BDK Stages
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/partenaires_stages_bdk.png"
+  href: https://www.bdkstages.be/
+  bouton: Site web
+  couleur_bouton: ''
 - name: LSA Perwez Beach Soccer
   categorie: partenaires pédagogiques
   online: true
