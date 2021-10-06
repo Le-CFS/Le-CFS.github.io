@@ -358,7 +358,7 @@ liste:
   bouton: Site Web
   couleur_bouton: ''
 - name: Krav Maga Bruxelles
-  categorie: Partenaires pédagogiques
+  categorie: partenaires pédagogiques
   logo: "/assets/images/partenaires/kravmaga.png"
   href: https://www.kravmagabruxelles.be/
   online: true
@@ -372,7 +372,7 @@ liste:
   bouton: Site Web
   couleur_bouton: ''
 - name: Ranch de gégé
-  categorie: Partenaires pédagogiques
+  categorie: ''
   logo: "/assets/images/partenaires/ranchgege.jpg"
   href: https://ranchdegege.be/
   online: true
