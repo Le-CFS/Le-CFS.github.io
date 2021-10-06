@@ -351,10 +351,10 @@ liste:
   bouton: Site Web
   couleur_bouton: ''
 - name: My Lab
-  categorie: Partenaires pédagogiques
+  categorie: partenaires pédagogiques
   logo: "/assets/images/partenaires/photoargentique.png"
   href: https://www.myriamandries.be/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Krav Maga Bruxelles
