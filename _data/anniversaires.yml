@@ -50,7 +50,7 @@ anniversaires:
 - name: Psycho Découverte
   age: 3-5 ans
   img: "/assets/images/anniversaires/activites/psychodecouverte.png"
-  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Woluwé-Saint-Pierre
+  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem
   href: ''
   prix: 165 €
   description: 'Pour ton anniversaire, nous avons préparé un mélange de différentes
@@ -322,7 +322,7 @@ anniversaires:
 - name: Piscine Party
   age: 6-12 ans
   img: "/assets/images/anniversaires/activites/piscineparty.png"
-  lieu: Bierges – Woluwé-Saint-Pierre
+  lieu: Bierges
   href: ''
   prix: Merci de nous contacter
   description: Nous organisons des jeux, des défis et des jeux libres dans la piscine.
