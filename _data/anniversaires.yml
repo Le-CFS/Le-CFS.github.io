@@ -66,7 +66,7 @@ anniversaires:
 - name: Chasse au trésor
   age: 5 à 12 ans
   img: "/assets/images/anniversaires/activites/chasseautresor.png"
-  lieu: Bierges / Wavre / Ottignies / Rixensart / Auderghem / Woluwé-Saint-Pierre
+  lieu: Bierges / Wavre / Ottignies / Rixensart / Auderghem
   href: ''
   prix: 175 €
   description: L’anniversaire « chasse au trésor » est un mélange de défis sportifs
@@ -118,7 +118,7 @@ anniversaires:
 - name: Danse
   age: 4-12 ans
   img: "/assets/images/anniversaires/activites/danse.png"
-  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Woluwé-Saint-Pierre
+  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem
   href: ''
   prix: Merci de nous contacter
   description: Viens te déhancher sur le rythme de la musique! Nous allons apprendre
