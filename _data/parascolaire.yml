@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: ''
+  age_debut: Acc
+  age_fin: M2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
 - name: Karaté
   categorie: Activités sportives
   img: ''
