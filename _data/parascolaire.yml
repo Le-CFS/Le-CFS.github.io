@@ -228,6 +228,8 @@ activites:
   online: true
   nouveau: false
   ecoles:
+  - name: Rosières - Ecole Communale de Rosières
+    province: Brabant Wallon
   - name: Ottignies - Athénée Royal Paul Delvaux
     province: Brabant Wallon
 - name: Natation
