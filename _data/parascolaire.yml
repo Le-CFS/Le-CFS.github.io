@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Anglais
+  categorie: Activités artistiques et loisirs
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: false
+  nouveau: false
+  ecoles:
+  - name: Athénée Royal Paul Delvaux
+    province: Brabant Wallon
 - name: Mini-Foot
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stages/activitessportives/aquafun.png"
