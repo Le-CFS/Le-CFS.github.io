@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Multisports
+  categorie: Activités sportives
+  img: ''
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rosières - Ecole Communale de Rosières
+    province: Brabant Wallon
 - name: Danse
   categorie: Activités sportives
   img: ''
