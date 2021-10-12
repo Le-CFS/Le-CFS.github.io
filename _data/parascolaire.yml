@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Mini-Foot
+  categorie: Activités sportives
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: 'Ottignies - Athénée Royal Paul Delvaux '
+    province: Brabant Wallon
+- name: Gymnastique
+  categorie: Les petits bouts
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
 - name: Danse
   categorie: Activités sportives
   img: ''
