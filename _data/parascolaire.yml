@@ -1,5 +1,35 @@
 ---
 activites:
+- name: Découverte Sportive
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  age_debut: M3
+  age_fin: P3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Nil - Ecole Le Bon Départ
+    province: Brabant Wallon
+- name: Danse
+  categorie: Activités sportives
+  img: ''
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Nil - Ecole Le Bon Départ
+    province: Brabant Wallon
+- name: Circomotricité
+  categorie: Les petits bouts
+  img: ''
+  age_debut: M2
+  age_fin: P2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Nil - Ecole Le Bon Départ
+    province: Brabant Wallon
 - name: Psychomotricité
   categorie: Les petits bouts
   img: ''
