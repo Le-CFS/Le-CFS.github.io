@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Danse
+  categorie: Activités sportives
+  img: ''
+  age_debut: M2
+  age_fin: P3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rosières - Ecole Communale de Rosières
+    province: Brabant Wallon
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: ''
+  age_debut: M1
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Nil - Ecole Le Bon Départ
+    province: Brabant Wallon
 - name: Découverte Sportive
   categorie: Découvertes sportives et culturelles
   img: ''
