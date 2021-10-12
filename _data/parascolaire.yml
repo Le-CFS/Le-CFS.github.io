@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Parkour
+  categorie: Activités sportives
+  img: ''
+  age_debut: P3
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: LLN - Ecole des Bruyères
+    province: Brabant Wallon
 - name: Football
   categorie: Activités sportives
   img: ''
