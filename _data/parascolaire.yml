@@ -1,11 +1,21 @@
 ---
 activites:
+- name: Badminton
+  categorie: Activités sportives
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
 - name: Aqua Fun
   categorie: Activités sportives
   img: ''
   age_debut: P1
   age_fin: P6
-  online: false
+  online: true
   nouveau: false
   ecoles:
   - name: Ottignies - Athénée Royal Paul Delvaux
@@ -15,34 +25,8 @@ activites:
   img: ''
   age_debut: P1
   age_fin: P6
-  online: false
-  nouveau: false
-  ecoles:
-  - name: Athénée Royal Paul Delvaux
-    province: Brabant Wallon
-- name: Mini-Foot
-  categorie: Découvertes sportives et culturelles
-  img: "/assets/images/stages/activitessportives/aquafun.png"
-  online: true
-  nouveau: true
-  age_debut: P2
-  age_fin: P6
-  description: Une super chouette activité !
-  ecoles:
-  - name: Collège
-    province: Brabant Wallon
-  - name: Aro
-    province: Brabant Wallon
-- name: Multisports
-  categorie: Découvertes sportives et culturelles
-  img: "/assets/images/stages/activitessportives/aquafun.png"
   online: true
   nouveau: false
-  age_debut: Acc
-  age_fin: M3
-  description: Une super chouette activité !
   ecoles:
-  - name: ARO
+  - name: Ottignies - Athénée Royal Paul Delvaux
     province: Brabant Wallon
-  - name: Erpent
-    province: ''
