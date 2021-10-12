@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Parkour
+  categorie: Activités sportives
+  img: ''
+  age_debut: P4
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
+- name: Hip-Hop
+  categorie: Activités sportives
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
 - name: Découverte Sportive
   categorie: Découvertes sportives et culturelles
   img: ''
@@ -148,6 +168,8 @@ activites:
   online: true
   nouveau: false
   ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
   - name: Ottignies - Athénée Royal Paul Delvaux
     province: Brabant Wallon
 - name: Danse
