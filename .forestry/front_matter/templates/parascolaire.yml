@@ -49,6 +49,12 @@ fields:
       - P4
       - P5
       - P6
+      - H1
+      - H2
+      - H3
+      - H4
+      - H5
+      - H6
       source:
         type: simple
         section: 
@@ -71,6 +77,12 @@ fields:
       - P4
       - P5
       - P6
+      - H1
+      - H2
+      - H3
+      - H4
+      - H5
+      - H6
       source:
         type: simple
         section: 
