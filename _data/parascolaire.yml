@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Fun
+  categorie: Activités fun
+  img: ''
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
 - name: Capoeira
   categorie: Activités sportives
   img: ''
