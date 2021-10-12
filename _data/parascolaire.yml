@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Découverte Sportive
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  age_debut: P1
+  age_fin: P4
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
+- name: Codage
+  categorie: Activités artistiques et loisirs
+  img: ''
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
 - name: Baby Gym
   categorie: Découvertes sportives et culturelles
   img: ''
