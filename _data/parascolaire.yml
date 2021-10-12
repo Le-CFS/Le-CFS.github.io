@@ -4,6 +4,26 @@ activites:
   categorie: Les petits bouts
   img: ''
   age_debut: M2
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Walhain - Ecole de Tourinnes
+    province: Brabant Wallon
+- name: Circomotricité
+  categorie: Les petits bouts
+  img: ''
+  age_debut: M2
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Walhain - Ecole de Tourinnes
+    province: Brabant Wallon
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: ''
+  age_debut: M2
   age_fin: P2
   online: true
   nouveau: false
