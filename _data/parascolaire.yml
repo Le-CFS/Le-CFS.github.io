@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Baby Gym
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  age_debut: M2
+  age_fin: P2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
 - name: Psychomotricité
   categorie: Les petits bouts
   img: ''
