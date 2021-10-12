@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Capoeira
+  categorie: Activités sportives
+  img: ''
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
+- name: Anglais
+  categorie: Activités artistiques et loisirs
+  img: ''
+  age_debut: M1
+  age_fin: M2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
 - name: Théâtre
   categorie: Activités artistiques et loisirs
   img: ''
