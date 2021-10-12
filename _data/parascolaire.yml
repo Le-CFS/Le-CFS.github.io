@@ -43,6 +43,6 @@ activites:
   description: Une super chouette activité !
   ecoles:
   - name: ARO
-    province: ''
+    province: Brabant Wallon
   - name: Erpent
     province: ''
