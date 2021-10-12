@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Karaté
+  categorie: Activités sportives
+  img: ''
+  age_debut: M3
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
 - name: Fun
   categorie: Activités fun
   img: ''
