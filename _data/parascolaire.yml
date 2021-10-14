@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Baby Musique
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Baby Danse
+  categorie: Danse et Gymnastique
+  img: ''
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
 - name: Baby Artistique
   categorie: Découvertes sportives et culturelles
   img: ''
