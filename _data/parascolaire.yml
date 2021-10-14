@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Baby Tennis & Multisports
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  age_debut: M3
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone maternelle
+    province: Bruxelles
 - name: Karaté
   categorie: Activités sportives
   img: ''
