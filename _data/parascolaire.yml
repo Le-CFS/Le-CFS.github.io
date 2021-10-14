@@ -8,6 +8,8 @@ activites:
   online: true
   nouveau: false
   ecoles:
+  - name: Uccle - Ecole Notre-Dame Wolvenberg (Notre-Dame)
+    province: Bruxelles
   - name: Auderghem - Institut St-Julien Parnasse
     province: Bruxelles
 - name: Théâtre
