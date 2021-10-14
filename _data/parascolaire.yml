@@ -12,7 +12,7 @@ activites:
     province: Namur
 - name: Street Dance
   categorie: Danse et Gymnastique
-  img: ''
+  img: "/assets/images/activites_parascolaires_streetdance.jpg"
   age_debut: P1
   age_fin: P6
   online: true
@@ -22,7 +22,7 @@ activites:
     province: Namur
 - name: Nature
   categorie: Activités artistiques et loisirs
-  img: ''
+  img: "/assets/images/activites_parascolaires_nature.jpg"
   age_debut: P1
   age_fin: P6
   online: true
