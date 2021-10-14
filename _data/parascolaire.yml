@@ -1,5 +1,17 @@
 ---
 activites:
+- name: Ecole des devoirs
+  categorie: Activités artistiques et loisirs
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
 - name: Parkour
   categorie: Activités sportives
   img: ''
