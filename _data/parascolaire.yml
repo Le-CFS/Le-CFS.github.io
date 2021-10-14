@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Chorale
+  categorie: Activités artistiques et loisirs
+  img: ''
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
 - name: Baby Théâtre
   categorie: Découvertes sportives et culturelles
   img: ''
@@ -230,6 +240,8 @@ activites:
   online: true
   nouveau: false
   ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
   - name: Wavre - Athénée Royal Maurice Carême
     province: Brabant Wallon
   - name: Ottignies - Athénée Royal Paul Delvaux
