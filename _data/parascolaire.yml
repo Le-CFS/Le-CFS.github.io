@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Hip-Hop
+  categorie: Danse et Gymnastique
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone primaire
+    province: Bruxelles
+- name: GRS
+  categorie: Danse et Gymnastique
+  img: ''
+  age_debut: P3
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone primaire
+    province: Bruxelles
 - name: Fun & Multisports
   categorie: Activités fun
   img: ''
