@@ -223,8 +223,8 @@ activites:
 - name: Théâtre Humanité
   categorie: Activités artistiques et loisirs
   img: ''
-  age_debut: ''
-  age_fin: ''
+  age_debut: H1
+  age_fin: H3
   online: true
   nouveau: false
   ecoles:
