@@ -122,6 +122,8 @@ activites:
   online: true
   nouveau: false
   ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
   - name: Jette - Ecole St-Michel
     province: Bruxelles
 - name: Multisports
