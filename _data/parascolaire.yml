@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Fun & Multisports
+  categorie: Activités fun
+  img: ''
+  age_debut: P3
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone primaire
+    province: Bruxelles
 - name: Psychomotricité
   categorie: Les petits bouts
   img: ''
