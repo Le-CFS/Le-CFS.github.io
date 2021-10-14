@@ -84,6 +84,8 @@ activites:
   online: true
   nouveau: false
   ecoles:
+  - name: Uccle - Ecole Notre-Dame Wolvenberg (Notre-Dame)
+    province: Bruxelles
   - name: Wemmel - Ecole Communale Francophone primaire
     province: Bruxelles
 - name: GRS
