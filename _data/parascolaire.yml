@@ -3,6 +3,16 @@ activites:
 - name: Théâtre
   categorie: Activités artistiques et loisirs
   img: ''
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Auderghem - Institut St-Julien Parnasse
+    province: Bruxelles
+- name: Théâtre
+  categorie: Activités artistiques et loisirs
+  img: ''
   age_debut: P3
   age_fin: P6
   online: true
@@ -18,7 +28,7 @@ activites:
   online: true
   nouveau: false
   ecoles:
-  - name: Auderghem - Institut St-Julien
+  - name: Auderghem - Institut St-Julien Parnasse
     province: Bruxelles
   - name: Jette - Ecole St-Michel
     province: Bruxelles
