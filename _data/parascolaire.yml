@@ -350,7 +350,7 @@ activites:
     province: Brabant Wallon
 - name: Circomotricité
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_circomotricite.jpg"
   age_debut: M2
   age_fin: P2
   online: true
@@ -370,7 +370,7 @@ activites:
     province: Brabant Wallon
 - name: Circomotricité
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_circomotricite.jpg"
   age_debut: M2
   age_fin: P1
   online: true
