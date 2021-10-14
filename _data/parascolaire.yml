@@ -2,7 +2,7 @@
 activites:
 - name: Taekwendo
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/cfs_activites_parascolaires_taekwendo.jpg"
   age_debut: P1
   age_fin: P6
   online: true
