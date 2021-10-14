@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Artiste
+  categorie: Activités artistiques et loisirs
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Anglais
+  categorie: Activités artistiques et loisirs
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
 - name: Théâtre
   categorie: Activités artistiques et loisirs
   img: ''
