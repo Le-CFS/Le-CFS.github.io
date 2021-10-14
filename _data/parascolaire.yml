@@ -532,7 +532,7 @@ activites:
     province: Brabant Wallon
 - name: Natation
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/activites_parascolaires_natation.jpg"
   age_debut: P1
   age_fin: P6
   online: true
