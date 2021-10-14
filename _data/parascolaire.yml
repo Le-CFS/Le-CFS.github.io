@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Gymnastique
+  categorie: Danse et Gymnastique
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
 - name: Danse
   categorie: Danse et Gymnastique
   img: ''
@@ -18,6 +28,8 @@ activites:
   online: true
   nouveau: false
   ecoles:
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
   - name: Wemmel - Ecole Communale Francophone primaire
     province: Bruxelles
 - name: Mini-Foot
