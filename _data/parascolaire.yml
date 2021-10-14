@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Baby Artistique
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
 - name: Artiste
   categorie: Activités artistiques et loisirs
   img: ''
