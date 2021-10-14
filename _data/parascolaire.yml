@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Street Dance
+  categorie: Danse et Gymnastique
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Nature
+  categorie: Activités artistiques et loisirs
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
 - name: Chorale
   categorie: Activités artistiques et loisirs
   img: ''
