@@ -1,5 +1,15 @@
 ---
 activites:
+- name: Taekwendo
+  categorie: Activités sportives
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
 - name: Street Dance
   categorie: Danse et Gymnastique
   img: ''
