@@ -124,7 +124,7 @@ activites:
     province: Bruxelles
 - name: Psychomotricité
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_psychomotricite.jpg"
   age_debut: Acc
   age_fin: M3
   online: true
@@ -214,7 +214,7 @@ activites:
     province: Bruxelles
 - name: Psychomotricité
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_psychomotricite.jpg"
   age_debut: M1
   age_fin: M2
   online: true
@@ -320,7 +320,7 @@ activites:
     province: Brabant Wallon
 - name: Psychomotricité
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_psychomotricite.jpg"
   age_debut: M1
   age_fin: M3
   online: true
@@ -360,7 +360,7 @@ activites:
     province: Brabant Wallon
 - name: Psychomotricité
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_psychomotricite.jpg"
   age_debut: M2
   age_fin: P1
   online: true
@@ -380,7 +380,7 @@ activites:
     province: Brabant Wallon
 - name: Psychomotricité
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_psychomotricite.jpg"
   age_debut: M2
   age_fin: P2
   online: true
@@ -440,7 +440,7 @@ activites:
     province: Brabant Wallon
 - name: Psychomotricité
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_psychomotricite.jpg"
   age_debut: Acc
   age_fin: M2
   online: true
