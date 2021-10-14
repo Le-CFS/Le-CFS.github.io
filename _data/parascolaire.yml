@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: ''
+  age_debut: Acc
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
+- name: Multi & Créativité
+  categorie: Activités artistiques et loisirs
+  img: ''
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
 - name: Gymnastique
   categorie: Danse et Gymnastique
   img: ''
