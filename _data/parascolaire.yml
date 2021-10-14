@@ -62,7 +62,7 @@ activites:
     province: Namur
 - name: Baby Danse
   categorie: Danse et Gymnastique
-  img: ''
+  img: "/assets/images/activites_parascolaires_babydanse.jpg"
   age_debut: M1
   age_fin: P1
   online: true
@@ -430,7 +430,7 @@ activites:
     province: Brabant Wallon
 - name: Baby Gym
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/activites_parascolaires_babygym.jpg"
   age_debut: M2
   age_fin: P2
   online: true
