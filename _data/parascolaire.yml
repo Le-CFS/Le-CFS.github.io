@@ -1,5 +1,35 @@
 ---
 activites:
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: ''
+  age_debut: M1
+  age_fin: M2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone maternelle
+    province: Bruxelles
+- name: Mini-multisports
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  age_debut: M2
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone maternelle
+    province: Bruxelles
+- name: Hip-Hop
+  categorie: Danse et Gymnastique
+  img: ''
+  age_debut: M2
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone maternelle
+    province: Bruxelles
 - name: Baby Tennis & Multisports
   categorie: Découvertes sportives et culturelles
   img: ''
