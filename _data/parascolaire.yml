@@ -68,6 +68,8 @@ activites:
   online: true
   nouveau: false
   ecoles:
+  - name: Jette - Ecole Aurore
+    province: Bruxelles
   - name: Wemmel - Ecole Communale Francophone maternelle
     province: Bruxelles
 - name: Hip-Hop
