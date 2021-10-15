@@ -52,7 +52,7 @@ activites:
     province: Namur
 - name: Baby Musique
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/activites_parascolaires_babymusique.jpg"
   age_debut: M1
   age_fin: P1
   online: true
