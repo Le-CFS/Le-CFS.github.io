@@ -246,7 +246,7 @@ activites:
     province: Bruxelles
 - name: Baby Tennis & Multisports
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/activites_parascolaires_babytennis_multisports.jpg"
   age_debut: M3
   age_fin: M3
   online: true
