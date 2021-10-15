@@ -450,7 +450,7 @@ activites:
     province: Brabant Wallon
 - name: Karaté
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/activites_parascolaires_karate.jpg"
   age_debut: M3
   age_fin: P6
   online: true
@@ -470,7 +470,7 @@ activites:
     province: Brabant Wallon
 - name: Capoeira
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/activites_parascolaires_capoeira.jpg"
   age_debut: P2
   age_fin: P6
   online: true
