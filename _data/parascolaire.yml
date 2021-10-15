@@ -32,7 +32,7 @@ activites:
     province: Namur
 - name: Chorale
   categorie: Activités artistiques et loisirs
-  img: ''
+  img: "/assets/images/activites_parascolaires_chorale.jpg"
   age_debut: M1
   age_fin: P1
   online: true
