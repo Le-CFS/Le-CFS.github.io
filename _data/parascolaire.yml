@@ -146,7 +146,7 @@ activites:
     province: Bruxelles
 - name: Gymnastique
   categorie: Danse et Gymnastique
-  img: ''
+  img: "/assets/images/activites_parascolaires_gymnastique.jpg"
   age_debut: P1
   age_fin: P6
   online: true
@@ -552,7 +552,7 @@ activites:
     province: Brabant Wallon
 - name: Gymnastique
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_gymnastique.jpg"
   age_debut: P1
   age_fin: P6
   online: true
