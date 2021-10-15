@@ -72,7 +72,7 @@ activites:
     province: Namur
 - name: Baby Artistique
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/activites_parascolaires_babyartiste.jpg"
   age_debut: M1
   age_fin: P1
   online: true
