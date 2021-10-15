@@ -204,7 +204,7 @@ activites:
     province: Bruxelles
 - name: Fun & Multisports
   categorie: Activités fun
-  img: ''
+  img: "/assets/images/activites_parascolaires_fun_multisports.jpg"
   age_debut: P3
   age_fin: P6
   online: true
