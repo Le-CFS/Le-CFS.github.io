@@ -460,7 +460,7 @@ activites:
     province: Brabant Wallon
 - name: Fun
   categorie: Activités fun
-  img: ''
+  img: "/assets/images/activites_parascolaires_fun.jpg"
   age_debut: P2
   age_fin: P6
   online: true
@@ -578,7 +578,7 @@ activites:
     province: Brabant Wallon
 - name: Badminton
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/activites_parascolaires_badminton.jpg"
   age_debut: P1
   age_fin: P6
   online: true
