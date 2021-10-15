@@ -500,7 +500,7 @@ activites:
     province: Brabant Wallon
 - name: Théâtre Humanité
   categorie: Activités artistiques et loisirs
-  img: ''
+  img: "/assets/images/activites_parascolaires_theatre_humanite.jpg"
   age_debut: H1
   age_fin: H3
   online: true
