@@ -256,7 +256,7 @@ activites:
     province: Bruxelles
 - name: Karaté
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/activites_parascolaires_karate.jpg"
   age_debut: H1
   age_fin: H6
   online: true
