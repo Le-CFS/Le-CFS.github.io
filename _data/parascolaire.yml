@@ -172,7 +172,7 @@ activites:
     province: Bruxelles
 - name: Mini-Foot
   categorie: Activités sportives
-  img: "/assets/images/activites_parascolaires_mini_foot.jpg"
+  img: "/assets/images/cfs_activites_parascolaires_mini_foot.jpg"
   age_debut: P1
   age_fin: P6
   online: true
@@ -542,7 +542,7 @@ activites:
     province: Brabant Wallon
 - name: Mini-Foot
   categorie: Activités sportives
-  img: "/assets/images/activites_parascolaires_mini_foot.jpg"
+  img: "/assets/images/cfs_activites_parascolaires_mini_foot.jpg"
   age_debut: P1
   age_fin: P6
   online: true
