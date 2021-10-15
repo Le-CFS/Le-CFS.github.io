@@ -42,7 +42,7 @@ activites:
     province: Namur
 - name: Baby Théâtre
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/activites_parascolaires_babytheatre.jpg"
   age_debut: M1
   age_fin: P1
   online: true
