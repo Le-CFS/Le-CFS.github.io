@@ -390,7 +390,7 @@ activites:
     province: Brabant Wallon
 - name: Parkour
   categorie: Activités sportives
-  img: "/assets/images/activites_parascolaires_parkour.jpg"
+  img: "/assets/images/activites_parascolaires_cfs_parkour.jpg"
   age_debut: P4
   age_fin: P6
   online: true
