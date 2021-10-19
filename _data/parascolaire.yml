@@ -490,7 +490,7 @@ activites:
     province: Brabant Wallon
 - name: Théâtre
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/activites_parascolaires_theatre.jpg"
+  img: "/assets/images/activites_parascolaires_theatre_cfs.jpg"
   age_debut: P1
   age_fin: P6
   online: true
