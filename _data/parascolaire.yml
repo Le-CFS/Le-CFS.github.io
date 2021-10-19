@@ -450,7 +450,7 @@ activites:
     province: Brabant Wallon
 - name: Karaté
   categorie: Activités sportives
-  img: "/assets/images/activites_parascolaires_karate.jpg"
+  img: "/assets/images/activites_parascolaires_karate_cfs.jpg"
   age_debut: M3
   age_fin: P6
   online: true
