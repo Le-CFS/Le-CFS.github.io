@@ -440,7 +440,7 @@ activites:
     province: Brabant Wallon
 - name: Psychomotricité
   categorie: Les petits bouts
-  img: "/assets/images/activites_parascolaires_psychomotricite.jpg"
+  img: "/assets/images/activites_cfs_parascolaires__psychomot.jpg"
   age_debut: Acc
   age_fin: M2
   online: true
