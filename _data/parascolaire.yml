@@ -330,7 +330,7 @@ activites:
     province: Brabant Wallon
 - name: Découverte Sportive
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/activites_parascolaires_decouvertes_sportive.jpg"
   age_debut: M3
   age_fin: P3
   online: true
