@@ -510,7 +510,7 @@ activites:
     province: Brabant Wallon
 - name: Psycho Art
   categorie: Les petits bouts
-  img: ''
+  img: "/assets/images/activites_parascolaires_psychoart.jpg"
   age_debut: M1
   age_fin: P1
   online: true
