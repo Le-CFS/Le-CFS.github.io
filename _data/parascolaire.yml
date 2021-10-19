@@ -266,7 +266,7 @@ activites:
     province: Brabant Wallon
 - name: Ecole des devoirs
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/activites_parascolaires_ecoledesdevoirs.jpg"
+  img: "/assets/images/activites_parascolaires_ecole_des_devoirs.jpg"
   age_debut: P1
   age_fin: P6
   online: true
@@ -480,7 +480,7 @@ activites:
     province: Brabant Wallon
 - name: Anglais
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/activites_parascolaires_anglais.jpg"
+  img: "/assets/images/activites_parascolaires_cfs_anglais.jpg"
   age_debut: M1
   age_fin: M2
   online: true
