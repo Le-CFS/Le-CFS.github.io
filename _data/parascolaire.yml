@@ -400,7 +400,7 @@ activites:
     province: Brabant Wallon
 - name: Hip-Hop
   categorie: Activités sportives
-  img: "/assets/images/activites_parascolaires_streetdance.jpg"
+  img: "/assets/images/activites_parascolaires_hiphop_cfs.jpg"
   age_debut: P1
   age_fin: P6
   online: true
