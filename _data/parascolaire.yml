@@ -598,7 +598,7 @@ activites:
     province: Brabant Wallon
 - name: Anglais
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/activites_parascolaires_anglais.jpg"
+  img: "/assets/images/activites_parascolaires_cours_anglais.jpg"
   age_debut: P1
   age_fin: P6
   online: true
