@@ -340,7 +340,7 @@ activites:
     province: Brabant Wallon
 - name: Danse
   categorie: Activités sportives
-  img: "/assets/images/activites_parascolaires_danse.jpg"
+  img: "/assets/images/activites_parascolaires_cfs_danse.jpg"
   age_debut: P2
   age_fin: P6
   online: true
