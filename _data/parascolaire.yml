@@ -12,7 +12,7 @@ activites:
     province: Namur
 - name: Street Dance
   categorie: Danse et Gymnastique
-  img: "/assets/images/activites_parascolaires_streetdance.jpg"
+  img: "/assets/images/activites_parascolaires_cfs_streetdance.jpg"
   age_debut: P1
   age_fin: P6
   online: true
