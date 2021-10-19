@@ -300,7 +300,7 @@ activites:
     province: Brabant Wallon
 - name: Multisports
   categorie: Activités sportives
-  img: "/assets/images/activites_parascolaires_multisports.jpg"
+  img: "/assets/images/activites_parascolaires_multisports_cfs.jpg"
   age_debut: P2
   age_fin: P6
   online: true
