@@ -236,7 +236,7 @@ activites:
     province: Bruxelles
 - name: Hip-Hop
   categorie: Danse et Gymnastique
-  img: "/assets/images/activites_parascolaires_streetdance.jpg"
+  img: "/assets/images/activites_parascolaires_hiphop.jpg"
   age_debut: M2
   age_fin: M3
   online: true
