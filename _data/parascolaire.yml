@@ -102,7 +102,7 @@ activites:
     province: Namur
 - name: Théâtre
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/activites_parascolaires_theatre.jpg"
+  img: "/assets/images/activites_parascolaires_cfs_theatre.jpg"
   age_debut: P2
   age_fin: P6
   online: true
