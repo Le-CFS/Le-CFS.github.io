@@ -253,10 +253,10 @@ liste:
   bouton: Site Web
   couleur_bouton: ''
 - name: LTA Lambermont Tennis Academy
-  categorie: Partenaires pédagogiques
+  categorie: ''
   logo: "/assets/images/partenaires/lta_lambermont.png"
   href: https://tennisclub.rtclambermont.be/ecole-de-tennis/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Mini-Excel Wavre
