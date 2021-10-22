@@ -49,7 +49,7 @@ liste:
   href: https://ritterklub.be/
   bouton: Site web
   couleur_bouton: ''
-- name: Dance 4 U
+- name: Dance 4U
   categorie: partenaires pédagogiques
   online: true
   logo: "/assets/images/4udance.jpg"
@@ -305,7 +305,7 @@ liste:
   categorie: partenaires pédagogiques
   logo: "/assets/images/partenaires/tempogym.png"
   href: http://www.tempogymjette.be/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Walibi
