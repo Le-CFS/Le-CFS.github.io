@@ -49,6 +49,13 @@ liste:
   href: https://ritterklub.be/
   bouton: Site web
   couleur_bouton: ''
+- name: Dance 4 U
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/4udance.jpg"
+  href: ''
+  bouton: ''
+  couleur_bouton: ''
 - name: Roc Events asbl
   categorie: Partenaires de stages
   online: true
