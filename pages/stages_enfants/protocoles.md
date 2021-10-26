@@ -5,4 +5,4 @@ permalink: "/stages/protocole/"
 menu: stages
 
 ---
-<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/902550760997392464/Les_7_mesures_Toussaint_2021.jpg"/></p>
+<p class="text-center"><img src="https://cdn.discordapp.com/attachments/656057943346642945/902556479696015400/Les_7_mesures_Toussaint_2021_web.jpg"/></p>
