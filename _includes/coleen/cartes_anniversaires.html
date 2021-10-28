@@ -16,7 +16,7 @@
         <img src="{{ BASE_PATH }}{{ anniversaire.img }}" class="img-fluid" loading="{{ loading }}">
       </div>
       <div class="card-block">
-        <h3 class="card-title">{{ anniversaire.name }}</h3>
+        <h3 class="card-title" style="height: 40px;">{{ anniversaire.name }}</h3>
         <div class="meta">
           {% if anniversaire.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
           {{anniversaire.age}}

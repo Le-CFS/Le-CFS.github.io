@@ -183,7 +183,7 @@ activites:
     - title: Football Academy
       url: "/activites/cfs_academy/football_academy/"
   - title: Activités Parascolaires
-    url: "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2"
+    url: "/activites/parascolaire/"
 cours_adultes:
   titre: Cours adultes
   url: "/cours_adultes/"

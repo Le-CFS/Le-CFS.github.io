@@ -10,13 +10,13 @@
 {% endcapture %} -->
 
 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mix">
-  <a data-toggle="modal" data-target="#{{activite.name | replace: ' ', '_' | replace: '&', 'et' }}">
+  <a data-toggle="modal" data-target="#{{activite.name | replace: ' ', '_' | replace: '&', 'et' }}_{{ forloop.index }}">
     <div class="card-2">
       <div class="image">
         <img src="{{ BASE_PATH }}{{ activite.img }}" class="img-fluid" loading="{{ loading }}">
       </div>
       <div class="card-block">
-        <h3 class="card-title">{{ activite.name }}</h3>
+        <h3 class="card-title" style="height: 40px;">{{ activite.name }}</h3>
         <div class="meta">
           {% if activite.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
           {{activite.age_debut}} à {{activite.age_fin}}
@@ -25,18 +25,20 @@
           <center><span class="label label-pill label-info-filled">Plus d'info</span></center>
         </div>
       </div>
-<!--       {% for ecole in activite.ecoles %}
+      <!--
+      {% for ecole in activite.ecoles %}
       <div class="extra">
         <span>
-          <i class="fa fa-map-marker"> {{ ecole }}</i>
+          <i class="fa fa-map-marker"> {{ ecole.name }}</i>
         </span>
       </div>
-      {% endfor %} -->
+      {% endfor %}
+      -->
     </div>
   </a>
 </div>
 
-<div class="modal fade" id="{{activite.name | replace: ' ', '_' | replace: '&', 'et' }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="{{activite.name | replace: ' ', '_' | replace: '&', 'et' }}_{{ forloop.index }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="card-2">
@@ -57,7 +59,7 @@
       {% for ecole in activite.ecoles %}
       <div class="extra">
         <span>
-          <i class="fa fa-map-marker"> {{ ecole }}</i>
+          <i class="fa fa-map-marker"> {{ ecole.name }}</i>
         </span>
       </div>
       {% endfor %}
