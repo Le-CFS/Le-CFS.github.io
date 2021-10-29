@@ -8,12 +8,12 @@ cours:
 - online: true
   titre: Journées pédagogiques
   src: "/assets/images/event/journeespedagogiques.png"
-  href: "/events/journees_pedagogiques"
+  href: "/pour-les-ecoles/journees_pedagogiques"
   bouton: Plus d'info
 - online: true
   titre: Fancy Fair
   src: "/assets/images/event/fancyfair.png"
-  href: "/events/fancy_fair"
+  href: "/pour-les-ecoles/fancy_fair"
   bouton: Plus d'info
 - online: true
   titre: Activités parascolaires
