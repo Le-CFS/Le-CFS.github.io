@@ -186,11 +186,11 @@ activites:
     autre_page: ''
     bouton: Inscription
     couleur_bouton: ''
-  - titre: Évènements
-    titre_img: Évènements
-    titre_overlay: Évènements
+  - titre: Pour les écoles
+    titre_img: Pour les écoles
+    titre_overlay: Pour les écoles
     src: "/assets/images/event/event.png"
-    href: "/events"
+    href: https://www.lecfs.be/pour-les-ecoles/
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
