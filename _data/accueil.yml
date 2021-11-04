@@ -12,8 +12,8 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: STAGES TOUSSAINT
-  src: "/assets/images/cfs_stages_toussaint_2021.jpg"
+- titre: STAGES NOEL
+  src: "/assets/images/cfs_stages_noel_2021.jpg"
   href: https://www.lecfs.be/stages/
 - titre: ACTIVITES EXTRASCOLAIRES
   src: "/assets/images/cfs_extrascolaire2021-2022.jpg"
