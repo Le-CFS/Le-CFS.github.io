@@ -95,9 +95,9 @@ slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: Stages Toussaint
-    titre_overlay: Stages Toussaint
-    img: "/assets/images/stages/toussaint.jpg"
+  - name: Stages Noël
+    titre_overlay: Stages Noël
+    img: "/assets/images/stagesnoel-1.jpg"
     bouton: Plus d'info
     nouveau: ''
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
@@ -105,7 +105,7 @@ une:
       l'ONE/ADEPS.
     description: Viens te défouler dans une ambiance familiale !
     lieu: Bruxelles / Brabant Wallon
-    age: 3-16 ans
+    age: 2.5-16 ans
   - name: Robotique
     titre_overlay: Robotique
     img: "/assets/images/stages/robotique2.png"
