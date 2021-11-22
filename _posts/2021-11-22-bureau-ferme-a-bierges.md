@@ -14,7 +14,7 @@ description: ''
 image: "/assets/images/bureauferme.jpg"
 
 ---
-💡 Bureau fermé temporairement **_(en télétravail)_** 💡
+💡 Bureau fermé temporairement **_(en télétravail)_** 👩‍💻
 
 Suite aux **nouvelles mesures** du gouvernement, nous sommes dans l'obligation de fermer les portes du bureau au "Provincial" situé à Bierges.
 
