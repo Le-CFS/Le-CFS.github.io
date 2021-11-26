@@ -18,7 +18,7 @@ image: "/assets/images/blackfriday-1.jpg"
 ---
 ### **BLACK FRIDAY AU CFS** !
 
-Profites des **30% de réduction** sur nos stages d'hiver : [ici](<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCFSasbl%2Fvideos%2F590510052275097%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe> "BLACK FRIDAY")
+Profites des **30% de réduction** sur nos stages d'hiver : [ici](https://www.facebook.com/CFSasbl "CFS - BLACK FRIDAY")
 
 ‼ Nous avons pensé aussi à VOUS, chers étudiants, parents et grands-parents 😍 Décembre est un mois très chargé !
 
