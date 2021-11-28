@@ -12,9 +12,6 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: BLACK FRIDAY
-  src: "/assets/images/blackfriday.jpg"
-  href: https://www.facebook.com/CFSasbl
 - titre: STAGES NOEL
   src: "/assets/images/cfs_stages_noel_2021.jpg"
   href: https://www.lecfs.be/stages/
