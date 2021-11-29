@@ -6,12 +6,12 @@ tags:
 - Codeco
 - 26/11/2021
 title: Activités maintenues !
-banner: "/assets/images/news_codeco2611.mp4"
+banner: "/assets/images/codeco_news.jpg"
 infos:
   date: 
   teaser: ''
 description: Activités maintenues au CFS suite au codeco du 26/11/2021
-image: "/assets/images/news_codeco2611.mp4"
+image: "/assets/images/codeco_news.jpg"
 
 ---
 📣 INFO NEWS
