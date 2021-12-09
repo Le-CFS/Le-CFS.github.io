@@ -112,6 +112,36 @@ une:
       ou culturel cette semaine là ? \nDécouvrez nos différents stages !"
     lieu: Bruxelles / Brabant Wallon
     age: ''
+  - name: Psycho Cuisine
+    titre_overlay: Psycho Cuisine
+    img: "/assets/images/stages_psycho_cuisine.jpg"
+    bouton: Plus d'info
+    nouveau: oui
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: |-
+      Votre enfant à l'âme d'un futur cuisinier ? 
+
+      Durant le stage, nos petits chefs participeront à la préparation de quelques recettes culinaires de base.
+
+      L'autre partie de la journée, des exercices et jeux basés sur les différents axes de la psychomotricité seront proposés aux enfants : latéralité, équilibre, éveil sensori-moteur, adresse, audace, coopération, rythme, etc. 
+
+      Une période de repos est prévue après le temps de midi.
+
+      Attention : Mercredi 22 décembre : stage de 09h à 12h !
+
+      Attention : Pas de garderie le soir du 24 décembre (venir chercher les enfants à 16h ! )
+
+      Une petite représentation/dégustation est prévue en fin de stage (selon les possibilités avec le covid). 
+
+      Les enfants doivent obligatoirement être propres pour pouvoir participer à ce stage. 
+
+      L'enfant doit apporter son tablier.
+
+      Prévoir une tenue de rechange.
+    lieu: Brabant
+    age: 3 à 4 ans
   - name: Robotique
     titre_overlay: Robotique
     img: "/assets/images/stages/robotique2.png"
@@ -144,24 +174,6 @@ une:
       PROGRAMME ETE: New games, Walibi, Mer, Barrage de l'Eau d'Heure & Profondeville
     lieu: Bruxelles / Brabant Wallon
     age: 12-16 ans
-  - name: Far-west
-    titre_overlay: Far-west
-    img: "/assets/images/farwestalaune.jpg"
-    bouton: Plus d'info
-    nouveau: oui
-    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
-      conditions pour vos enfants tout en respectant les protocoles sanitaires de
-      l'ONE/ADEPS.
-    description: |-
-      HIIIIIIIIIHAAAAAAAAA
-
-      Quelle semaine chez les Cowboys et les Indiens !
-
-      Jeux à thèmes, bricolages (costumes, arc à flèches, etc.) et une journée inoubliable au Ranch "La Cabriole" à Fernelmont.
-
-      Dépaysement garanti !
-    lieu: Brabant
-    age: 5 à 8 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
