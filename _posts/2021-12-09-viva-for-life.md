@@ -4,7 +4,7 @@ menu: cfs
 tags:
 - Viva for life
 - CFS
-title: VIVA FOR LIFE
+title: VIVA FOR LIFE 18/12/2021
 banner: "/assets/images/vivaforlife.jpg"
 infos:
   date: 
