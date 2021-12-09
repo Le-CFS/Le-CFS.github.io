@@ -29,11 +29,11 @@ Au programme :
 • **Initiation Aqua Sirène & Nage Synchronisée**  
 • **Aqua Fitness**
 
-[Je participe !](https://www.facebook.com/events/591882408806606/?ref=newsfeed "Participer au Viva For Life")
+[**Je participe !**](https://www.facebook.com/events/591882408806606/?ref=newsfeed "Participer au Viva For Life")
 
 Les prix :
 
-• Une participation de **5€** pour le **relais** _(hors membres de l’école de natation)._   
+• Une participation de **5€** pour le **relais** _(hors membres de l’école de natation)._  
 **5€/activité** ou **10€** **pour toutes les activités aquatiques.**
 
 • **Une bourse aux jouets** : apporter un jouet en état de fonctionnement pour le revendre au profit de «Viva for life».
