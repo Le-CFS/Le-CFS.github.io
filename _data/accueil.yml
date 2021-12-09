@@ -97,14 +97,14 @@ une:
   images:
   - name: Stages Pré-Noël
     titre_overlay: Stages Pré-Noël
-    img: "/assets/images/stages_prenoel.jpg"
+    img: "/assets/images/stages_pre_noel.jpg"
     bouton: Plus d'info
     nouveau: Oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
     description: ''
-    lieu: ''
+    lieu: Bruxelles / Brabant Wallon
     age: ''
   - name: Robotique
     titre_overlay: Robotique
