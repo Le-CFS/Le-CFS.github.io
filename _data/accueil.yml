@@ -27,13 +27,13 @@ slider:
 selection:
   nom: Sélection du CFS
   images:
-  - titre: Interactif Lü
-    titre_img: Interactif Lü
-    titre_overlay: Interactif Lü
-    src: "/assets/images/cfs_interactif_lu.jpg"
-    href: https://www.lecfs.be/anniversaires/
-    autre_page: oui
-    bouton: Inscription
+  - titre: Viva For Life
+    titre_img: Viva For Life
+    titre_overlay: Viva For Life
+    src: "/assets/images/evenement_vivaforlife.jpg"
+    href: https://www.lecfs.be/news/2021/12/09/viva-for-life
+    autre_page: ''
+    bouton: ''
     couleur_bouton: ''
   - titre: Extrascolaire
     titre_img: Extrascolaire
@@ -66,6 +66,14 @@ selection:
     href: https://www.lecfs.be/anniversaires/
     autre_page: ''
     bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Interactif Lü
+    titre_img: Interactif Lü
+    titre_overlay: Interactif Lü
+    src: "/assets/images/cfs_interactif_lu.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: oui
+    bouton: Inscription
     couleur_bouton: ''
   - titre: Protocole de sécurité
     titre_img: Protocole de sécurité
