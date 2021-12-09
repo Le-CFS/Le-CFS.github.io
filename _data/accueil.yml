@@ -32,8 +32,8 @@ selection:
     titre_overlay: Viva For Life
     src: "/assets/images/evenement_vivaforlife.jpg"
     href: https://www.lecfs.be/news/2021/12/09/viva-for-life
-    autre_page: ''
-    bouton: ''
+    autre_page: Oui
+    bouton: Faire un don
     couleur_bouton: ''
   - titre: Extrascolaire
     titre_img: Extrascolaire
