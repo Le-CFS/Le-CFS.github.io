@@ -5490,7 +5490,7 @@ stages:
   img: "/assets/images/stage-enfant-football-euro-2021-500x500.jpg"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -5586,7 +5586,7 @@ stages:
   img: "/assets/images/stage-enfant-futsal-euro-2021-500x500.jpg"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
