@@ -27,13 +27,13 @@ slider:
 selection:
   nom: Sélection du CFS
   images:
-  - titre: Viva For Life
-    titre_img: Viva For Life
-    titre_overlay: Viva For Life
-    src: "/assets/images/evenement_vivaforlife.jpg"
-    href: https://www.lecfs.be/news/2021/12/09/viva-for-life
-    autre_page: Oui
-    bouton: Faire un don
+  - titre: Cours adultes
+    titre_img: Cours adultes
+    titre_overlay: Cours adultes • Noël
+    src: "/assets/images/coursadultes_noel-2.jpg"
+    href: https://www.lecfs.be/cours_adultes/
+    autre_page: ''
+    bouton: ''
     couleur_bouton: ''
   - titre: Extrascolaire
     titre_img: Extrascolaire
