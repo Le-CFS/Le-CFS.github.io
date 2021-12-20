@@ -2249,7 +2249,7 @@ stages:
 - name: Astronaut Camp
   categorie: Internat
   img: "/assets/images/stage-enfant-astronaute-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
