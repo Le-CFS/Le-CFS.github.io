@@ -131,6 +131,26 @@ une:
       Externat : repas et collation fournis par l'Euro Space Center. Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.
     lieu: Transinne
     age: 9-18 ans
+  - name: Fun hiver
+    titre_overlay: Fun hiver
+    img: "/assets/images/stages_funhiver.jpg"
+    bouton: Plus d'info
+    nouveau: oui
+    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: |-
+      Parce que pendant les vacances, ce sont surtout des activités différentes, funs et amusantes que les enfants recherchent !
+
+      Ce stage propose un programme alléchant qui pourra satisfaire votre enfant : 
+
+      Laser Game ; Arrow Game (jeux de flèches tels que des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et majes) ; New Games (activités fun telles que le frisbee golf, snag golf, spikeball, kinball, flag foot) ;...
+
+      Chaque jour, nous varions les plaisirs ! Inscris-toi vite, nous t'attendons !
+
+      Attention : Pas de garderie le soir du 24 décembre et 31 décembre (venir chercher les enfants à 16h00 !).
+    lieu: Brabant Wallon
+    age: 8 - 12 ans
   - name: Psycho Cuisine
     titre_overlay: Psycho Cuisine
     img: "/assets/images/stages_psycho_cuisine.jpg"
@@ -186,27 +206,6 @@ une:
       Attention : Pas de garderie les soirs du 20 au 24 décembre et le soir du 31 décembre (venir chercher les enfants à 16h ! )
     lieu: Bruxelles
     age: 6-12 ans
-  - name: Robotique
-    titre_overlay: Robotique
-    img: "/assets/images/stages/robotique2.png"
-    bouton: Plus d'info
-    nouveau: oui
-    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
-      conditions pour vos enfants tout en respectant les protocoles sanitaires de
-      l'ONE/ADEPS.
-    description: |-
-      Votre enfant est fou de création et de programmation?
-
-      Ce stage allie les deux:  les nouvelles technologies et l’informatique.
-
-      Afin de donner aux enfants de nouvelles clefs de réussite, nous allons via 5 sessions d’exercices développer des processus de réflexion pour formuler des problèmes et leur(s) solution(s) (création de robots en lego, programmation de robots et présentation du travail effectué).
-
-      Pour éviter que les enfants restent toute la journée devant les écrans, ils passeront une demi-journée à d’autres activités et profiteront des infrastructures sportives du centre.
-
-      Attention : Mercredi 22 décembre : stage de 09h à 12h !
-      Attention : Pas de garderie le soir du 24 décembre et 31 décembre (venir chercher les enfants à 16h00 !).
-    lieu: Bruxelles / Brabant Wallon
-    age: 8 - 12 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
