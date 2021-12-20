@@ -31,9 +31,9 @@ selection:
     titre_img: Cours adultes
     titre_overlay: Cours adultes • Noël
     src: "/assets/images/coursadultes_noel-2.jpg"
-    href: https://www.lecfs.be/cours_adultes/
-    autre_page: ''
-    bouton: ''
+    href: https://www.lecfs.be/news/2021/12/15/cours-adultes-a-noel
+    autre_page: oui
+    bouton: Inscriptions
     couleur_bouton: ''
   - titre: Extrascolaire
     titre_img: Extrascolaire
