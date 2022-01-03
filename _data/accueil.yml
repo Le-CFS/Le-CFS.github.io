@@ -12,9 +12,6 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: STAGES NOEL
-  src: "/assets/images/cfs_stages_noel_2021.jpg"
-  href: https://www.lecfs.be/stages/
 - titre: BONNES FETES DE FIN D'ANNE !
   src: "/assets/images/voeux2022.jpg"
   href: ''
