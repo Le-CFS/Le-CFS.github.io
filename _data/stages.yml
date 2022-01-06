@@ -1759,7 +1759,11 @@ stages:
       audace, coopération, rythme, etc.</p><p>Une période de repos est prévue après
       le temps de midi.</p><p><strong>Attention </strong>: Les enfants doivent obligatoirement
       être propres pour pouvoir participer à ce stage.</p>"
-    infos: []
+    infos:
+    - alias: Tablier
+      info_line: L'enfant doit apporter son tablier.
+    - alias: Tenue de rechange
+      info_line: Prévoir une tenue de rechange.
   - alias: Liège
     ville: Liège
     age: 3-5 ans
