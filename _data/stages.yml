@@ -3322,10 +3322,10 @@ stages:
         (entre 15h et 16h selon les possibilités avec le covid).
       alias: Spectacle
   activation_onglets: true
-- name: Pilote
+- name: Pilote Academy
   categorie: Activités fun
   img: "/assets/images/pilote.jpg"
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
