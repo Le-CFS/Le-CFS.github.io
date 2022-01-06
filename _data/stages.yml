@@ -31,7 +31,7 @@ categories:
 stages:
 - name: Musique & Multisports
   categorie: Activités artistiques et loisirs
-  img: ''
+  img: "/assets/images/stage_enfant_musique_multisports.jpg"
   online: true
   nouveau: true
   stage_une: false
