@@ -29,6 +29,20 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Tennis & Multisports
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: ''
+    infos: []
 - name: FUN EVASION
   categorie: Activités fun
   img: "/assets/images/stages_enfants_fun_evasion.jpg"
