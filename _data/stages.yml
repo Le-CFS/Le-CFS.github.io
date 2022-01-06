@@ -2983,8 +2983,8 @@ stages:
   activation_onglets: true
 - name: Plongée - Journée complète
   categorie: Activités sportives
-  img: ''
-  online: false
+  img: "/assets/images/plongee.png"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
@@ -3001,8 +3001,8 @@ stages:
   activation_onglets: true
 - name: Plongée - Demi-journée
   categorie: Activités sportives
-  img: ''
-  online: false
+  img: "/assets/images/plongee.png"
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
