@@ -5486,37 +5486,37 @@ stages:
       info_line: 'Se munir de 2 paires de chaussures (de baskets ou de foot) : une pour
         l''intérieur et l''autre pour l''extérieur.'
   activation_onglets: true
-- name: Football Euro 2021
-  img: "/assets/images/stage-enfant-football-euro-2021-500x500.jpg"
+- name: Football Road to World Cup 2022
+  img: "/assets/images/stage_enfant_footballworldcup22.jpg"
   inscription: ''
   categorie: Activités sportives
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   location:
   - alias: Brabant
     ville: Brabant Wallon
     age: 6 à 14 ans
-    description: "<p><strong><em>Stage spécial Euro 2021 : tournois organisés en fin
-      de semaine</em></strong></p><p>Votre enfant est un vrai mordu du ballon ? Notre
-      stage football EURO 2021 est l'idéal pour lui !</p><p>Ce stage prévoit une alternance
-      entre entraînements et petits matchs.</p><p>Les enfants s'exercent aux techniques
-      de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du
-      contrôle de balle.</p><p>Chaque entraînement est abordé de manière ludique afin
-      d'allier football et plaisir.</p><p>La journée est répartie en 3 périodes de
-      football et une période de multisports.</p>"
+    description: '<p><strong><em>Stage spécial Road to World Cup 2022 : tournois organisés
+      en fin de semaine</em></strong></p><p>Votre enfant est un vrai mordu du ballon
+      ? Notre stage "Football Road to World Cup 2022" est l''idéal pour lui !</p><p>Ce
+      stage prévoit une alternance entre entraînements et petits matchs.</p><p>Les
+      enfants s''exercent aux techniques de ballon et de jeu : apprentissage du dribble,
+      des frappes, des passes et du contrôle de balle.</p><p>Chaque entraînement est
+      abordé de manière ludique afin d''allier football et plaisir.</p><p>La journée
+      est répartie en 3 périodes de football et une période de multisports.</p>'
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
     age: 6 à 14 ans
-    description: "<p><strong><em>Stage spécial Euro 2021 : tournois organisés en fin
-      de semaine</em></strong></p><p>Votre enfant est un vrai mordu du ballon ? Notre
-      stage football EURO 2021 est l'idéal pour lui !</p><p>Ce stage prévoit une alternance
-      entre entraînements et petits matchs.</p><p>Les enfants s'exercent aux techniques
-      de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du
-      contrôle de balle.</p><p>Chaque entraînement est abordé de manière ludique afin
-      d'allier football et plaisir.</p><p>La journée est répartie en 3 périodes de
-      football et une période de multisports.</p>"
+    description: '<p><strong><em>Stage spécial Road to World Cup 2022 : tournois organisés
+      en fin de semaine</em></strong></p><p>Votre enfant est un vrai mordu du ballon
+      ? Notre stage "Football Road to World Cup 2022" est l''idéal pour lui !</p><p>Ce
+      stage prévoit une alternance entre entraînements et petits matchs.</p><p>Les
+      enfants s''exercent aux techniques de ballon et de jeu : apprentissage du dribble,
+      des frappes, des passes et du contrôle de balle.</p><p>Chaque entraînement est
+      abordé de manière ludique afin d''allier football et plaisir.</p><p>La journée
+      est répartie en 3 périodes de football et une période de multisports.</p>'
     infos:
     - alias: Partenariat
       info_line: 'A Jette : Stage en partenariat avec Futsal Jette'
