@@ -41,7 +41,7 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 6-12 ans
-    description: ''
+    description: "<p><strong><em>En collaboration avec le Raquette de Wavre</em></strong></p><p></p>"
     infos: []
 - name: FUN EVASION
   categorie: Activités fun
