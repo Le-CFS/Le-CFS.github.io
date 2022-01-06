@@ -41,7 +41,12 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 6-12 ans
-    description: "<p><strong><em>En collaboration avec le Raquette de Wavre</em></strong></p><p></p>"
+    description: "<p><strong><em>En collaboration avec le Raquette de Wavre</em></strong></p><p>Ce
+      stage de tennis associe l'apprentissage du geste technique au plaisir du jeu
+      dans une ambiance familiale.</p><p>Tout au long de la semaine, les enfants apprennent
+      les bases du tennis (prises, placement, jeux de jambes,…) afin de pouvoir réaliser
+      un maximum d’échanges que ce soit en partenaire ou en adversaire.</p><p>La journée
+      est complétée par des activités de multisports.</p>"
     infos: []
 - name: FUN EVASION
   categorie: Activités fun
