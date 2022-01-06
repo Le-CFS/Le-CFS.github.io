@@ -1741,12 +1741,25 @@ stages:
   activation_onglets: true
 - name: Psycho Bricolage
   categorie: Les petits bouts
-  img: "/assets/images/stage-enfant-psycho-bricolage-500x500.jpg"
+  img: "/assets/images/stage_enfant_psycho_bricolage.jpg"
   online: true
-  nouveau: false
+  nouveau: true
   stage_une: false
   inscription: ''
   location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 3-4 ans
+    description: "<p>Vous désirez <strong>éveiller la créativité</strong> de votre
+      petit bout ? Le stage Psycho-bricolage lui permettra de stimuler son imagination
+      et ses sens !</p><p>Ce stage propose un éveil artistique pour les plus petits
+      par le biais du bricolage et de la peinture.</p><p>L'autre partie de la journée,
+      des exercices et jeux basés sur les différents axes de la psychomotricité seront
+      proposés aux enfants : latéralité, équilibre, éveil sensori-moteur, adresse,
+      audace, coopération, rythme, etc.</p><p>Une période de repos est prévue après
+      le temps de midi.</p><p><strong>Attention </strong>: Les enfants doivent obligatoirement
+      être propres pour pouvoir participer à ce stage.</p>"
+    infos: []
   - alias: Liège
     ville: Liège
     age: 3-5 ans
