@@ -29,6 +29,24 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Musique & Multisports
+  categorie: Activités artistiques et loisirs
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: "<p>Découvrir le <strong>monde de la musique</strong> et du <strong>sport</strong>
+      tout en s’amusant !<strong><br></strong>Initiation et découverte de la musique,
+      des rythmes et des sons par des jeux ludiques. Ce stage permet de développer
+      l'imaginaire de l'enfant. </p><p>Le stage est complété par des <strong>activités
+      de multisports.</strong></p>"
+    infos: []
 - name: Tennis & Multisports
   categorie: Activités sportives
   img: "/assets/images/stage_enfant_tennis_multisports.jpg"
