@@ -31,8 +31,8 @@ categories:
 stages:
 - name: Tennis & Multisports
   categorie: Activités sportives
-  img: ''
-  online: false
+  img: "/assets/images/stage_enfant_tennis_multisports.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
