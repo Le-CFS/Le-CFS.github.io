@@ -24,11 +24,19 @@ slider:
 selection:
   nom: Sélection du CFS
   images:
+  - titre: Stages
+    titre_img: Stages enfants
+    titre_overlay: Stages enfants
+    src: "/assets/images/stages/stagesenfants.png"
+    href: "/stages/"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
   - titre: Cours adultes
     titre_img: Cours adultes
-    titre_overlay: Cours adultes • Noël
-    src: "/assets/images/coursadultes_noel-2.jpg"
-    href: https://www.lecfs.be/news/2021/12/15/cours-adultes-a-noel
+    titre_overlay: Cours adultes
+    src: "/assets/images/cours-adultes-300x300.jpg"
+    href: https://www.lecfs.be/cours_adultes/
     autre_page: oui
     bouton: Inscriptions
     couleur_bouton: ''
@@ -39,14 +47,6 @@ selection:
     href: https://www.lecfs.be/activites/extrascolaire/
     autre_page: oui
     bouton: Inscription
-    couleur_bouton: ''
-  - titre: Stages
-    titre_img: Stages enfants
-    titre_overlay: Stages enfants
-    src: "/assets/images/stages/stagesenfants.png"
-    href: "/stages/"
-    autre_page: ''
-    bouton: Plus d'info
     couleur_bouton: ''
   - titre: Ecole de Natation
     titre_img: Ecole de Natation
