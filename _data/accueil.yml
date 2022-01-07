@@ -100,54 +100,30 @@ slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: Astronaut Camp
-    titre_overlay: Astronaut Camp
-    img: "/assets/images/astronautcamp.jpg"
-    bouton: Plus d'infos
-    nouveau: oui
-    infos: Nous mettons tout en œuvre pour proposer des activités dans les meilleures
-      conditions pour vos enfants tout en respectant les protocoles sanitaires de
-      l'ONE/ADEPS.
-    description: |-
-      Parce qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage une aventure galactique !
-
-      Lors de ce camp, les stagiaires auront l'occasion d’expérimenter les vraies sensations vécues par un astronaute : simulation d'une marche sur la lune, reproduction de situations de désorientation et de vertige à l’intérieur d’un vaisseau qui n’est plus maîtrisé, test de ta résistance à la force de gravité dans une centrifugeuse spatiale, simulation de réparations sur un satellite avec le ressenti d’impesanteur (sur une structure métallique de 8 m de haut x 10 m de long !), exercices de communication entre une équipe terrestre et une équipe spatiale, découverte de la planète rouge à bord de votre vaisseau.
-
-      Après avoir été briefés sur la navette américaine, son fonctionnement et les phases d’une mission, les stagiaires auront la chance de participer à la simulation d’une mission spatiale en conditions réelles.
-
-      Les stagiaires participeront également à la construction et au lancement de fusées à eau et/ou de microfusées. Ils découvriront l’histoire de l’astronomie et apprendront à observer le ciel. Ils feront des expériences sur le vide et l’absence de pression. Un brief sur le fonctionnement d’un satellite de télécommunication est également prévu au programme. Les stagiaires devront parvenir à connecter entre eux les divers éléments qui composent la plateforme d’un satellite de communication.
-
-      Durant cette semaine de stage, les enfants feront aussi une visite du Space Tour, ils seront exposés à la vie quotidienne dans l’espace, ils en apprendront davantage sur les différentes planètes, ainsi que le système solaire, et ils feront diverses expériences et mises en situation.
-
-      Enfin, pour compléter cette semaine riche en découvertes, les stagiaires seront également initiés aux drones.
-
-      Remise d'un diplôme en fin de stage.
-
-      Internat : 4 nuitées comprenant petit-déjeuner, repas de midi, collation, et repas du soir. 
-
-      Externat : repas et collation fournis par l'Euro Space Center. Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.
-    lieu: Transinne
-    age: 9-18 ans
-  - name: Fun hiver
-    titre_overlay: Fun hiver
-    img: "/assets/images/stages_funhiver.jpg"
+  - name: Football Road to World Cup 2022
+    titre_overlay: Football Road to World Cup 2022
+    img: "/assets/images/stage_enfant_footballworldcup22.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
     description: |-
-      Parce que pendant les vacances, ce sont surtout des activités différentes, funs et amusantes que les enfants recherchent !
+      Stage spécial Road to World Cup 2022 : tournois organisés en fin de semaine
 
-      Ce stage propose un programme alléchant qui pourra satisfaire votre enfant : 
+      Votre enfant est un vrai mordu du ballon ? Notre stage "Football Road to World Cup 2022" est l'idéal pour lui !
 
-      Laser Game ; Arrow Game (jeux de flèches tels que des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et majes) ; New Games (activités fun telles que le frisbee golf, snag golf, spikeball, kinball, flag foot) ;...
+      Ce stage prévoit une alternance entre entraînements et petits matchs.
 
-      Chaque jour, nous varions les plaisirs ! Inscris-toi vite, nous t'attendons !
+      Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle.
 
-      Attention : Pas de garderie le soir du 24 décembre et 31 décembre (venir chercher les enfants à 16h00 !).
-    lieu: Brabant Wallon
-    age: 8 - 12 ans
+      Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.
+
+      La journée est répartie en 3 périodes de football et une période de multisports.
+
+      Le stage Football Road to World Cup 2022 a lieu dans le Brabant Wallon et à Bruxelles.
+    lieu: Brabant Wallon et Bruxelles
+    age: 6 - 14 ans
   - name: Psycho Cuisine
     titre_overlay: Psycho Cuisine
     img: "/assets/images/stages_psycho_cuisine.jpg"
@@ -203,6 +179,34 @@ une:
       Attention : Pas de garderie les soirs du 20 au 24 décembre et le soir du 31 décembre (venir chercher les enfants à 16h ! )
     lieu: Bruxelles
     age: 6-12 ans
+  - name: Astronaut Camp
+    titre_overlay: Astronaut Camp
+    img: "/assets/images/astronautcamp.jpg"
+    bouton: Plus d'infos
+    nouveau: oui
+    infos: Nous mettons tout en œuvre pour proposer des activités dans les meilleures
+      conditions pour vos enfants tout en respectant les protocoles sanitaires de
+      l'ONE/ADEPS.
+    description: |-
+      Parce qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage une aventure galactique !
+
+      Lors de ce camp, les stagiaires auront l'occasion d’expérimenter les vraies sensations vécues par un astronaute : simulation d'une marche sur la lune, reproduction de situations de désorientation et de vertige à l’intérieur d’un vaisseau qui n’est plus maîtrisé, test de ta résistance à la force de gravité dans une centrifugeuse spatiale, simulation de réparations sur un satellite avec le ressenti d’impesanteur (sur une structure métallique de 8 m de haut x 10 m de long !), exercices de communication entre une équipe terrestre et une équipe spatiale, découverte de la planète rouge à bord de votre vaisseau.
+
+      Après avoir été briefés sur la navette américaine, son fonctionnement et les phases d’une mission, les stagiaires auront la chance de participer à la simulation d’une mission spatiale en conditions réelles.
+
+      Les stagiaires participeront également à la construction et au lancement de fusées à eau et/ou de microfusées. Ils découvriront l’histoire de l’astronomie et apprendront à observer le ciel. Ils feront des expériences sur le vide et l’absence de pression. Un brief sur le fonctionnement d’un satellite de télécommunication est également prévu au programme. Les stagiaires devront parvenir à connecter entre eux les divers éléments qui composent la plateforme d’un satellite de communication.
+
+      Durant cette semaine de stage, les enfants feront aussi une visite du Space Tour, ils seront exposés à la vie quotidienne dans l’espace, ils en apprendront davantage sur les différentes planètes, ainsi que le système solaire, et ils feront diverses expériences et mises en situation.
+
+      Enfin, pour compléter cette semaine riche en découvertes, les stagiaires seront également initiés aux drones.
+
+      Remise d'un diplôme en fin de stage.
+
+      Internat : 4 nuitées comprenant petit-déjeuner, repas de midi, collation, et repas du soir. 
+
+      Externat : repas et collation fournis par l'Euro Space Center. Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.
+    lieu: Transinne
+    age: 9-18 ans
 banner:
   src: "/assets/images/slider/accueil/anniversaire.png"
   titre: Je réserve mon anniversaire
