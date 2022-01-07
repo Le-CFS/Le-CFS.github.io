@@ -32,14 +32,6 @@ selection:
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
-  - titre: Cours adultes
-    titre_img: Cours adultes
-    titre_overlay: Cours adultes
-    src: "/assets/images/cours-adultes-300x300.jpg"
-    href: https://www.lecfs.be/cours_adultes/
-    autre_page: oui
-    bouton: Inscriptions
-    couleur_bouton: ''
   - titre: Extrascolaire
     titre_img: Extrascolaire
     titre_overlay: Extrascolaire
@@ -55,6 +47,14 @@ selection:
     href: https://www.lecfs.be/activites/ecole_de_natation/
     autre_page: ''
     bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Cours adultes
+    titre_img: Cours adultes
+    titre_overlay: Cours adultes
+    src: "/assets/images/cours-adultes-300x300.jpg"
+    href: https://www.lecfs.be/cours_adultes/
+    autre_page: oui
+    bouton: Inscriptions
     couleur_bouton: ''
   - titre: Anniversaires
     titre_img: Anniversaires
