@@ -2698,8 +2698,8 @@ stages:
 - name: Super pilote
   categorie: Activités fun
   img: "/assets/images/stage-enfant-super-pilote-500x500.jpg"
-  online: true
-  nouveau: true
+  online: false
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -5809,8 +5809,8 @@ stages:
   img: "/assets/images/stages/activitessportives/piloteacademy.png"
   inscription: ''
   categorie: Activités fun
-  online: true
-  nouveau: true
+  online: false
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant
