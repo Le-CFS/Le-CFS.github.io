@@ -100,30 +100,26 @@ slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: Football Road to World Cup 2022
-    titre_overlay: Football Road to World Cup 2022
-    img: "/assets/images/stage_enfant_footballworldcup22.jpg"
+  - name: Pilote Academy
+    titre_overlay: Pilote Academy
+    img: "/assets/images/stages-enfants-pilote-academy-500x500.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
     description: |-
-      Stage spécial Road to World Cup 2022 : tournois organisés en fin de semaine
+      Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !
 
-      Votre enfant est un vrai mordu du ballon ? Notre stage "Football Road to World Cup 2022" est l'idéal pour lui !
+      Il te permettra de découvrir les sensations d’un vrai pilote: concentration, adrénaline et amusement !
 
-      Ce stage prévoit une alternance entre entraînements et petits matchs.
+      Au programme, apprentissage et maîtrise de quads durant deux séances par jour. Si le moniteur approuve le niveau, l'enfant pourra également s'essayer à la moto.
 
-      Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle.
+      Le reste de la journée est complété par des activités multisports.
 
-      Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.
-
-      La journée est répartie en 3 périodes de football et une période de multisports.
-
-      Le stage Football Road to World Cup 2022 a lieu dans le Brabant Wallon et à Bruxelles.
+      Le stage Pilote Academy a lieu dans le Brabant Wallon.
     lieu: Brabant Wallon et Bruxelles
-    age: 6 - 14 ans
+    age: 8 - 14 ans
   - name: Psycho Cuisine
     titre_overlay: Psycho Cuisine
     img: "/assets/images/stages_psycho_cuisine.jpg"
