@@ -3342,7 +3342,7 @@ stages:
   activation_onglets: true
 - name: Pilote Academy
   categorie: Activités fun
-  img: "/assets/images/pilote.jpg"
+  img: "/assets/images/stages-enfants-fun-pilote-academy-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
