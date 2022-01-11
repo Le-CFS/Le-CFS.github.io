@@ -3391,11 +3391,6 @@ stages:
   stage_une: false
   inscription: ''
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 2-2
-    description: ''
-    infos: []
   - alias: Brabant
     ville: Brabant Wallon
     age: 8-14 ans
@@ -3403,6 +3398,15 @@ stages:
       te permettra de découvrir les sensations d’un vrai pilote: concentration, adrénaline
       et amusement !</p><p>Au programme: Karting, 1/2 journée ROC Event, Efun, Trottinette,
       New Games</p><p>Le reste de la journée est complété par des activités multisports.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
+      te permettra de découvrir les sensations d’un vrai pilote: concentration, adrénaline
+      et amusement !</p><p><strong>Au programme:</strong></p><p>New Games, 2 demi-journées
+      E-Fun, Segway, Overboard, trottinette électrique, simulateur de voiture, karting,
+      quad &amp; VTT</p><p>Le reste de la journée est complété par des activités multisports.</p>"
     infos: []
   activation_onglets: true
 - name: Fun Hiver
