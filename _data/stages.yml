@@ -29,6 +29,27 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Mécano
+  categorie: Activités fun
+  img: "/assets/images/stages-enfants-mecano-500x500.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: '<p>Tu aimes construire, réparer et créer ? Ce stage est fait pour
+      toi !</p><p class="MsoNormal">La matinée sera consacrée à la mécanique : construction
+      de lego, apprentissage de la micro-soudure (en toute sécurité et adapté à l’âge
+      des enfants), assemblage et collage de pièces, …</p><p class="MsoNormal">Des
+      activités funs en tout genre seront proposées les après-midi, grâce à nos partenaires
+      ROC Event et JAG Event : laser game, efun, trottinette électrique, overboard,
+      crazy light, utilisation de drones, …</p><p class="MsoNormal">Lors de ta première
+      inscription, tu recevras un kit pour continuer l’expérience à la maison !</p>'
+    infos: []
 - name: Musique & Multisports
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stage_enfant_musique_multisports.jpg"
