@@ -29,6 +29,27 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Baby Artiste
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/stage-enfant-baby-artiste-500x500.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
+      sa créativité ? Ce stage est fait pour lui !</p><p>Grâce à des activités adaptées
+      à son âge (modelage, assemblage, peinture, dessin, …), votre enfant réalisera
+      différents bricolages sur un thème précisé en début de semaine avec le moniteur.</p><p>Ce
+      thème variera en fonction de la saison et votre enfant ramènera toutes ses créations
+      à la maison.</p>"
+    infos:
+    - alias: Vêtement de rechange
+      info_line: Prévoir une tenue qui peut être salie pour les activités de peinture
 - name: Mécano
   categorie: Activités fun
   img: "/assets/images/stages-enfants-mecano-500x500.jpg"
