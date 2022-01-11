@@ -100,8 +100,8 @@ slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: Pilote Academy
-    titre_overlay: Pilote Academy
+  - name: E Pilote Academy
+    titre_overlay: E Pilote Academy
     img: "/assets/images/stages-enfants-pilote-academy-500x500-1.jpg"
     bouton: Plus d'info
     nouveau: oui
@@ -113,11 +113,11 @@ une:
 
       Il te permettra de découvrir les sensations d’un vrai pilote: concentration, adrénaline et amusement !
 
-      Au programme, apprentissage et maîtrise de quads durant deux séances par jour. Si le moniteur approuve le niveau, l'enfant pourra également s'essayer à la moto.
+      Au programme:
+
+      New Games, 2 demi-journées E-Fun, Segway, Overboard, trottinette électrique, simulateur de voiture, karting, quad & VTT
 
       Le reste de la journée est complété par des activités multisports.
-
-      Le stage Pilote Academy a lieu dans le Brabant Wallon.
     lieu: Brabant Wallon et Bruxelles
     age: 8 - 14 ans
   - name: Psycho Cuisine
