@@ -6378,25 +6378,27 @@ stages:
     ville: Brabant Wallon
     age: 8-14 ans
     description: "<p><em>En collaboration avec Interlingua</em></p><p><strong><em>Do
-      you want to learn English ?</em></strong></p><p>Ce stage d'immersion propose
-      un apprentissage de l'anglais au travers d'activités pédagogiques diverses et
-      ludiques : cours théoriques, jeux, sports, visites culturelles.</p><p>L'ensemble
-      des activités proposées se déroule en anglais.</p><p>Les formateurs sont soucieux
-      d'un apprentissage amusant et performant, respectueux des capacités de chaque
-      enfant.</p><p>Une sortie culturelle et ludique est prévue un jour de la semaine
-      de stage (ex : aller voir un film au cinéma).</p>"
+      you want to learn English ?</em></strong></p><p>La moitié de la journée se fera
+      en totale immersion grâce à notre <strong>partenaire Interlingua</strong> qui
+      propose un apprentissage de l'anglais au travers d'activités pédagogiques diverses
+      et ludiques<em> (jeux de rôle, expression orale, chansons, jeux divers et activités
+      artistiques et culinaires)</em>. Les formateurs sont soucieux d'un apprentissage
+      amusant et performant, respectueux des capacités de chaque enfant.</p><p>L’autre
+      moitié de journée sera en français et sera consacrée à la découverte d’activités
+      multisports et funs.</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
     description: "<p><em>En collaboration avec Interlingua</em></p><p><strong><em>Do
-      you want to learn English ?</em></strong></p><p>Ce stage d'immersion propose
-      un apprentissage de l'anglais au travers d'activités pédagogiques diverses et
-      ludiques : cours théoriques, jeux, sports, visites culturelles.</p><p>L'ensemble
-      des activités proposées se déroule en anglais.</p><p>Les formateurs sont soucieux
-      d'un apprentissage amusant et performant, respectueux des capacités de chaque
-      enfant.</p><p>Une sortie culturelle et ludique est prévue un jour de la semaine
-      de stage (ex : aller voir un film au cinéma).</p>"
+      you want to learn English ?</em></strong></p><p>La moitié de la journée se fera
+      en totale immersion grâce à notre <strong>partenaire Interlingua</strong> qui
+      propose un apprentissage de l'anglais au travers d'activités pédagogiques diverses
+      et ludiques<em> (jeux de rôle, expression orale, chansons, jeux divers et activités
+      artistiques et culinaires)</em>. Les formateurs sont soucieux d'un apprentissage
+      amusant et performant, respectueux des capacités de chaque enfant.</p><p>L’autre
+      moitié de journée sera en français et sera consacrée à la découverte d’activités
+      multisports et funs.</p>"
     infos:
     - alias: Transports
       info_line: Les transports sont assurés par le CFS.
