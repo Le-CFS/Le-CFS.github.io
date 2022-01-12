@@ -3399,15 +3399,6 @@ stages:
       et amusement !</p><p>Au programme: Karting, 1/2 journée ROC Event, Efun, Trottinette,
       New Games</p><p>Le reste de la journée est complété par des activités multisports.</p>"
     infos: []
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 8-14 ans
-    description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
-      te permettra de découvrir les sensations d’un vrai pilote: concentration, adrénaline
-      et amusement !</p><p><strong>Au programme:</strong></p><p>New Games, 2 demi-journées
-      E-Fun, Segway, Overboard, trottinette électrique, simulateur de voiture, karting,
-      quad &amp; VTT</p><p>Le reste de la journée est complété par des activités multisports.</p>"
-    infos: []
   activation_onglets: true
 - name: Fun Hiver
   categorie: Activités fun
@@ -5866,32 +5857,6 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant
-    ville: Brabant Wallon
-    age: 8-12 ans
-    description: "<p>Tu veux découvrir les vraies sensations d'un pilote ? Adrénaline,
-      amusement et FUN seront au rendez-vous ! </p><p>Ce stage destiné aux enfants
-      de <strong>8 à 12 ans</strong>, permet de s'initier et de se perfectionner à
-      la conduite d'un quad thermique. Lors du stage, un quad est prévu pour trois
-      enfants.</p><p>Dès l'arrivée, les enfants seront briefés et répartis en deux
-      sous-groupes en fonction de leur niveau. Pour les débutants, les bases du pilotage
-      seront vues, et pour les intermédiaires et confirmés, les techniques de pilotage
-      seront approfondies.</p><p>En fonction du niveau, toutes les techniques de pilotage
-      du quad sont abordées : vitesse, freinage, virage et relance. Les plus aguerris
-      auront également l'opportunité de s'essayer à la moto automatique et manuelle.</p><p>2h
-      de quad sont prévues le matin et 2h l'après-midi. Les enfants apprendront également
-      à entretenir et respecter le matériel. Ils auront la possibilité de faire des
-      activités fun entre les temps de roulage (frisbee golf, snag golf, spikeball,
-      kinball, flag foot) et de s'initier au segway et à la trottinette électrique
-      (1 pour trois enfants).</p><p>Avec la répétition des séances, l'évolution est
-      très rapide. Les pilotes progressent techniquement et apprennent à maitriser
-      leur quad.</p><p>Une simulation de pilotage est prévue une après-midi du stage
-      au centre de réalité virtuelle de Wavre.</p>"
-    infos:
-    - alias: Tenue adaptée
-      info_line: Prévoir une paire de bottines, des vêtements adaptés aux activités
-        en extérieur, ainsi qu'une tenue de rechange en cas de mauvais temps. Pantalon
-        long obligatoire.
   - alias: Bruxelles
     ville: Bruxelles
     age: 10-16 ans
