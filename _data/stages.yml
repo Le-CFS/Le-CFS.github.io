@@ -5862,7 +5862,7 @@ stages:
   img: "/assets/images/stages/activitessportives/piloteacademy.png"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
@@ -5897,10 +5897,10 @@ stages:
     age: 10-16 ans
     description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
       te permettra de découvrir les sensations d’un vrai pilote : concentration, adrénaline
-      et amusement !</p><p><strong>Au programme</strong> : une journée de quad, une
-      journée e-fun (segway et trottinette électrique), une journée e-fun sur playstation,
-      et une journée de karting au WIK Wavre.</p><p>Le reste de la journée est complété
-      par des activités multisports.</p><p><strong>Le CFS se donne le droit d'annuler
+      et amusement !</p><p><strong>Au programme</strong> : une demi-journée E-challenge,
+      2 demi-journées (segway et trottinette électrique, overboard), 2 sessions de
+      karting, 1 session de simulateur de course, la semaine se termine par une demi-journée
+      de Quad et une demi-journée de VTT.</p><p><strong>Le CFS se donne le droit d'annuler
       le stage d'un enfant qui ne respecterait pas les différentes règles de sécurité.</strong></p>"
     infos:
     - alias: Tenue adaptée
