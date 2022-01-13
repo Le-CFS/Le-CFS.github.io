@@ -3,6 +3,11 @@ slogan: Gardez la forme !
 horaires: "/assets/images/nouvel-horaire-2021-2022.jpg"
 cours:
 - online: true
+  titre: Body balance
+  src: "/assets/images/cours-adultes-body-balance-300x300.jpg"
+  href: "/cours_adultes/bodybalance"
+  bouton: Plus d'info
+- online: true
   titre: Aqua Sirène
   src: "/assets/images/cours-adultes-aqua-sirene-300x300.jpg"
   href: "/cours_adultes/aquasirene"
