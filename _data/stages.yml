@@ -29,6 +29,28 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Immersion anglais
+  categorie: Activités artistiques et loisirs
+  img: ''
+  online: true
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Immersion anglais
+    ville: Bruxelles
+    age: ''
+    description: "<p>Do you want to learn English ? \U0001F600</p><p>Ce stage d'immersion
+      propose un apprentissage de l'anglais au travers d'activités pédagogiques diverses
+      et ludiques : cours théoriques, jeux, sports, visites culturelles.</p><p>L'ensemble
+      des activités proposées se déroule en anglais.</p><p>Les formateurs sont soucieux
+      d'un apprentissage amusant et performant, respectueux des capacités de chaque
+      enfant.</p><p>Une sortie culturelle et ludique est prévue un jour de la semaine
+      de stage (ex : aller voir un film au cinéma).</p>"
+    infos:
+    - alias: Transports
+      info_line: Les transports sont assurés par le CFS.
 - name: Futsal Road to World Cup 2022
   categorie: Activités sportives
   img: "/assets/images/stage_enfant_footballworldcup22.jpg"
