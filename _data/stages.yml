@@ -29,6 +29,26 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Beach Soccer & Fun Game
+  categorie: Activités sportives
+  img: ''
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 7-12 ans
+    description: "<p><em>Stage en partenariat avec le </em><strong><em>Club LSA Perwez</em></strong><em>
+      – entraineurs spécialisés en Beach Soccer</em></p><p>Pour les mordus du ballon
+      rond qui souhaitent découvrir un nouveau sport !</p><p>Le Beach Soccer (foot
+      sur le sable) est en plein essor en Belgique.</p><p>Ce stage prévoit une alternance
+      entre entraînements et petits matchs.</p><p>La matinée, les jeunes s'initient
+      ou se perfectionnent au Beach Soccer.</p><p>Des activités Fun sont prévues en
+      après-midi : arrow game, freesby golf, kinball, beach rugby,…</p>"
+    infos: []
 - name: Immersion Anglais
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stage-enfant-immersion-anglais-500x500.jpg"
