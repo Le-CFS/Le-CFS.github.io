@@ -40,7 +40,7 @@ stages:
   location:
   - alias: Immersion anglais
     ville: Bruxelles
-    age: ''
+    age: 8-14 ans
     description: "<p>Do you want to learn English ? \U0001F600</p><p>Ce stage d'immersion
       propose un apprentissage de l'anglais au travers d'activités pédagogiques diverses
       et ludiques : cours théoriques, jeux, sports, visites culturelles.</p><p>L'ensemble
