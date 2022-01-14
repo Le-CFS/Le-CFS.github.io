@@ -6438,7 +6438,7 @@ stages:
     - info_line: Il ne faut donc prévoir à manger pour votre enfant que le vendredi.
       alias: Repas
   activation_onglets: true
-- name: Immersion Anglais en collaboration avec Interlingua
+- name: Immersion Anglais | Interlingua
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersionanglais.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
