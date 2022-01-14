@@ -31,7 +31,7 @@ categories:
 stages:
 - name: Beach Soccer & Fun Game
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/stages-enfants-beach-soccer-et-fun-game-500x500.jpg"
   online: true
   nouveau: true
   stage_une: false
