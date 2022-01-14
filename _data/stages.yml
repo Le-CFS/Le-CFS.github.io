@@ -31,7 +31,7 @@ categories:
 stages:
 - name: Immersion anglais
   categorie: Activités artistiques et loisirs
-  img: ''
+  img: "/assets/images/stage-enfant-immersion-anglais-500x500.jpg"
   online: true
   nouveau: false
   stage_une: false
