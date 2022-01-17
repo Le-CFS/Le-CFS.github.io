@@ -3779,9 +3779,31 @@ stages:
   inscription: ''
   categorie: Les petits bouts
   online: true
-  nouveau: false
+  nouveau: true
   stage_une: false
   location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 3-4 ans
+    description: "<p><strong><em>Envie d'un grand bol d'air pour vos petits bouts
+      ? Ce stage est fait pour eux !</em></strong></p><p>Chaque matin, les enfants
+      se promènent près du centre situé dans le domaine idyllique de « new Refuge
+      » et vont à la découverte de la nature. Ils cherchent les trésors que la nature
+      offre, font une chasse une trésor,...</p><p>Dès leur retour, ils réalisent un
+      bricolage avec les richesses ramenées lors de leur expédition.</p><p>Les enfants
+      peuvent bien évidemment repartir avec leurs bricolages en fin de semaine !</p><p>Le
+      stage est également complété par des activités de psychomotricité : jeux de
+      coopération, parcours d’adresse, d’audace, exercices de latéralité.</p><p>Les
+      stages pour les plus petits tendent au développement harmonieux des enfants
+      au travers d’activités adaptées à leur âge. L’enfant développe de nouvelles
+      aptitudes tout en jouant : il apprend les règles du jeu et de groupe, développe
+      sa sociabilité et explore les différentes facettes de la motricité.</p><p>Le
+      rythme de l'enfant est respecté et une sieste est prévue pour les enfants qui
+      en ont besoin. Il y a maximum 12 enfants par groupe.</p><p>Il est demandé aux
+      parents de prévoir un sac avec une tenue de rechange pour leur enfant.</p>"
+    infos:
+    - alias: Tenues adaptées
+      info_line: Prévoir une tenue adaptée pour les bricolages/peintures et pour l'extérieur.
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 3-4 ans
