@@ -69,7 +69,7 @@ stages:
       info_line: Nos partenaires prennent toutes les mesures d’hygiène et sanitaires
         concernant le Covid-19.
 - name: Nature & Loisirs
-  categorie: Découvertes sportives et culturelles
+  categorie: Activités artistiques et loisirs
   img: "/assets/images/stage-enfant-nature-et-loisirs-500x500.jpg"
   online: true
   nouveau: true
