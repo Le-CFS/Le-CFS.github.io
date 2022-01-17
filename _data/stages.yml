@@ -2343,7 +2343,7 @@ stages:
 - name: Astronomy Camp Junior
   categorie: Internat
   img: "/assets/images/stage-enfant-astronomie-junior-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2375,7 +2375,7 @@ stages:
 - name: Astronomy Camp
   categorie: Internat
   img: "/assets/images/stage-enfant-astronomie-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2417,7 +2417,7 @@ stages:
 - name: Astronaut Espace Langues
   categorie: Internat
   img: "/assets/images/stage-enfant-astronaute-space-langues-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2467,7 +2467,7 @@ stages:
 - name: Astronaut Camp Junior
   categorie: Internat
   img: "/assets/images/stage-enfant-astronaute-junior-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
