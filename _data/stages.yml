@@ -2019,7 +2019,7 @@ stages:
 - name: Vol à Voile
   categorie: Internat
   img: "/assets/images/stage-enfant-vol-a-voile-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2060,7 +2060,7 @@ stages:
 - name: 'Satellite Camp 2 '
   categorie: Internat
   img: "/assets/images/stage-enfant-satellite-niveau-2-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2101,7 +2101,7 @@ stages:
 - name: 'Satellite Camp 1 '
   categorie: Internat
   img: "/assets/images/stage-enfant-satellite-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2142,7 +2142,7 @@ stages:
 - name: Rocket Camp 2
   categorie: Internat
   img: "/assets/images/stage-enfant-rocket-niveau-2-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2181,7 +2181,7 @@ stages:
 - name: Rocket Camp 1
   categorie: Internat
   img: "/assets/images/stage-enfant-rocket-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2223,7 +2223,7 @@ stages:
 - name: Robotic Camp
   categorie: Internat
   img: "/assets/images/stage-enfant-robotique-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2267,7 +2267,7 @@ stages:
 - name: Modélisation 3D
   categorie: Internat
   img: "/assets/images/stage-enfant-3d-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
@@ -2303,7 +2303,7 @@ stages:
 - name: Drone Camp
   categorie: Internat
   img: "/assets/images/stage-enfant-drone-500x500.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   inscription: ''
