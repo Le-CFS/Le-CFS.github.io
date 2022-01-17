@@ -260,7 +260,7 @@ stages:
       un maximum d’échanges que ce soit en partenaire ou en adversaire.</p><p>La journée
       est complétée par des activités de multisports.</p>"
     infos: []
-- name: FUN EVASION
+- name: Fun Evasion
   categorie: Activités fun
   img: "/assets/images/stages_enfants_fun_evasion.jpg"
   online: true
@@ -4804,10 +4804,8 @@ stages:
       plan.</em></p>"
     infos:
     - alias: Garderie
-      info_line: Inscription au préalable obligatoire pour le soir uniquement dans
-        les "Options" lors de l'inscription. Attention la garderie du soir s'effectue
-        eu Centre Sportif de Jette. Si vous souhaitez une garderie le matin, l'organisation
-        se fait directement sur place.
+      info_line: Attention, la garderie du soir s'effectue au Centre Sportif de Jette.
+        Pas de garderie le matin pour ce stage. Accueil à partir de 8h30.
   activation_onglets: true
 - name: Dance For You
   img: "/assets/images/stages/danseetgymnastique/danceforyou.png"
