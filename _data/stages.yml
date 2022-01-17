@@ -31,7 +31,7 @@ categories:
 stages:
 - name: Mini-Explorateurs
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/stage-enfant-mini-explorateurs-500x500.png"
   online: true
   nouveau: true
   stage_une: false
