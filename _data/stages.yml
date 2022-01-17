@@ -31,7 +31,7 @@ categories:
 stages:
 - name: Fun Aventure
   categorie: Activités fun
-  img: "/assets/images/stages-enfants-fun-aventure-500x500.jpg"
+  img: "/assets/images/stages-enfants-fun-aventure-500x500-min.jpg"
   online: true
   nouveau: true
   stage_une: false
