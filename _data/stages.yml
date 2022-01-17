@@ -3321,18 +3321,19 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p><em>Stage en partenariat avec le </em><strong><em>WIK - Wavre
-      Indoor Karting</em></strong></p><p>Tu veux découvrir les vraies sensations d'un
-      pilote ? Adrénaline et amusement seront au rendez-vous !</p><p>Ce stage s’organise<strong>
-      à la journée</strong> dans une vraie académie de pilotage pour tous les futurs
-      pilotes de moins de 16 ans.</p><p>Les enfants y développeront leurs compétences
-      pratiques et théoriques en combinant les apprentissages sur karting, mais aussi
-      sur nos simulateurs de course et nos crazy karts.</p><p>De plus, nos coachs
-      sont tous formés afin d’encadrer les enfants en leur offrant un maximum de fun
-      en toute sécurité (1 moniteur pour 5 enfants).</p><p>Et comme on apprend mieux
-      le ventre plein, le lunch est inclus !</p><ul><li><p><strong>Stage découverte
-      (100€ par journée) </strong>: lundi, mardi, jeudi et vendredi.</p></li><li><p><strong>Pro
-      karting</strong> <strong>(150€ la journée)</strong> : mercredi.</p></li></ul>"
+    description: '<p><em>Stage en partenariat avec le </em><strong><em>WIK - Wavre
+      Indoor Karting</em></strong></p><p>Tu veux découvrir les vraies sensations d''un
+      pilote ? Adrénaline et amusement seront au rendez-vous ! <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
+      title="laugh" alt="laugh"></p><p>Ce stage s’organise<strong> à la journée</strong>
+      dans une vraie académie de pilotage pour tous les futurs pilotes de moins de
+      16 ans.</p><p>Les enfants développent leurs compétences pratiques et théoriques
+      en combinant les apprentissages sur karting, mais aussi sur nos simulateurs
+      de course et nos crazy karts.</p><p>De plus, nos coachs sont tous formés afin
+      d’encadrer les enfants en leur offrant un maximum de fun en toute sécurité (1
+      moniteur pour 5 enfants).</p><p>Et comme on apprend mieux le ventre plein, le
+      lunch est inclus !</p><ul><li><p><strong>Tarif :</strong></p><ul><li><p>130€
+      par journée.</p></li><li><p>Formule 3 jours : 350€.</p></li><li><p>Formule 5
+      jours : 450€.</p></li></ul></li></ul>'
     infos:
     - alias: Garderie
       info_line: Garderie comprise dans le tarif et rendez-vous directement au WIK.
