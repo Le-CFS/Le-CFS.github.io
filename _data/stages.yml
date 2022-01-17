@@ -3446,7 +3446,8 @@ stages:
       info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
         large) et des bottes.
     - alias: Garderie
-      info_line: Inscription sur place !
+      info_line: 'Garderie : Inscription sur place. Accueil à partir de 8h et jusque
+        16h30. Pas de garderie prévue le soir !'
     - alias: Matériel
       info_line: Le manège met à disposition tout le matériel adéquat pour les petits
         cavaliers.
