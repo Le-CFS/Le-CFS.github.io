@@ -255,6 +255,16 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Carnaval Liège" href=link autre_page="oui" bouton="Inscription" offline=offline %}
         {% endif %}
       </div>
+	    
+      <div class="col-xs-6 col-sm-6 col-md-3">
+        {% if page.periode.carnaval.internat.online %}
+          {% capture image %}{{ page.periode.carnaval.internat.image }}{% endcapture %}
+          {% capture link %}{{ page.periode.carnaval.internat.link }}{% endcapture %}
+          {% assign offline = page.periode.carnaval.internat.non_clickable %}
+          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Internat" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+        {% endif %}
+      </div>
+	    
     </div>
     {% endif %}
 
