@@ -118,8 +118,11 @@ stages:
       complété par des activités de loisirs, de multisports, de défis sportifs (foot,
       badminton, danse,...) et construction d'une cabane.</p>"
     infos:
-    - alias: Tenue adaptée - peinture
+    - alias: Tenue peinture
       info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.
+    - alias: Tenue de rechange
+      info_line: Prévoir un sac avec une tenue de rechange (tenue adaptée en fonction
+        de la météo).
 - name: Beach Soccer & Fun Game
   categorie: Activités sportives
   img: "/assets/images/stages-enfants-beach-soccer-et-fun-game-500x500.jpg"
