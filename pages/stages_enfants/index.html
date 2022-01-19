@@ -229,41 +229,44 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
 
     <div class="row">
+	    
+	    {% if page.periode.carnaval.brabant.online %}
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.carnaval.brabant.online %}
+        
           {% capture image %}{{ page.periode.carnaval.brabant.image }}{% endcapture %}
           {% capture link %}{{ page.periode.carnaval.brabant.link }}{% endcapture %}
           {% assign offline = page.periode.carnaval.brabant.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Carnaval Brabant" href=link autre_page="oui" bouton="Inscription" offline=offline %}
         {% endif %}
       </div>
-
+	    
+{% if page.periode.carnaval.bruxelles.online %}
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.carnaval.bruxelles.online %}
+        
           {% capture image %}{{ page.periode.carnaval.bruxelles.image }}{% endcapture %}
           {% capture link %}{{ page.periode.carnaval.bruxelles.link }}{% endcapture %}
           {% assign offline = page.periode.carnaval.bruxelles.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Carnaval Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
-
-      <div class="col-xs-6 col-sm-6 col-md-3">
+              </div>
+{% endif %}
+	    
         {% if page.periode.carnaval.liege.online %}
+      <div class="col-xs-6 col-sm-6 col-md-3">
           {% capture image %}{{ page.periode.carnaval.liege.image }}{% endcapture %}
           {% capture link %}{{ page.periode.carnaval.liege.link }}{% endcapture %}
           {% assign offline = page.periode.carnaval.liege.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Carnaval Liège" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
-	    
+              </div>
+{% endif %}
+	            {% if page.periode.carnaval.internat.online %}
+
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.carnaval.internat.online %}
           {% capture image %}{{ page.periode.carnaval.internat.image }}{% endcapture %}
           {% capture link %}{{ page.periode.carnaval.internat.link }}{% endcapture %}
           {% assign offline = page.periode.carnaval.internat.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Internat" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
 	    
     </div>
     {% endif %}
@@ -274,43 +277,42 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
 
     <div class="row">
-
-      <div class="col-xs-6 col-sm-6 col-md-3">
       {% if page.periode.paques.brabant.online %}
+      <div class="col-xs-6 col-sm-6 col-md-3">
         {% capture image %}{{ page.periode.paques.brabant.image }}{% endcapture %}
           {% capture link %}{{ page.periode.paques.brabant.link }}{% endcapture %}
           {% assign offline = page.periode.paques.brabant.non_clickable %}
 
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Pâques Brabant" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
-
-      <div class="col-xs-6 col-sm-6 col-md-3">
+              </div>
+{% endif %}
+	    
         {% if page.periode.paques.bruxelles.online %}
+      <div class="col-xs-6 col-sm-6 col-md-3">
           {% capture image %}{{ page.periode.paques.bruxelles.image }}{% endcapture %}
           {% capture link %}{{ page.periode.paques.bruxelles.link }}{% endcapture %}
           {% assign offline = page.periode.paques.bruxelles.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Pâques Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
+        {% if page.periode.paques.liege.online %}
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.paques.liege.online %}
           {% capture image %}{{ page.periode.paques.liege.image }}{% endcapture %}
           {% capture link %}{{ page.periode.paques.liege.link }}{% endcapture %}
           {% assign offline = page.periode.paques.liege.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Pâques Liège" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
+        {% if page.periode.paques.internat.online %}
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.paques.internat.online %}
           {% capture image %}{{ page.periode.paques.internat.image }}{% endcapture %}
           {% capture link %}{{ page.periode.paques.internat.link }}{% endcapture %}
           {% assign offline = page.periode.paques.internat.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Internat" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
 
     </div>
     {% endif %}
@@ -321,42 +323,42 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
 
     <div class="row">
+        {% if page.periode.ete.brabant.online %}
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.ete.brabant.online %}
           {% capture image %}{{ page.periode.ete.brabant.image }}{% endcapture %}
           {% capture link %}{{ page.periode.ete.brabant.link }}{% endcapture %}
           {% assign offline = page.periode.ete.brabant.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Été Brabant" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
+        {% if page.periode.ete.bruxelles.online %}
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.ete.bruxelles.online %}
           {% capture image %}{{ page.periode.ete.bruxelles.image }}{% endcapture %}
           {% capture link %}{{ page.periode.ete.bruxelles.link }}{% endcapture %}
           {% assign offline = page.periode.ete.bruxelles.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Été Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
+        {% if page.periode.ete.liege.online %}
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.ete.liege.online %}
           {% capture image %}{{ page.periode.ete.liege.image }}{% endcapture %}
           {% capture link %}{{ page.periode.ete.liege.link }}{% endcapture %}
           {% assign offline = page.periode.ete.liege.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Été Liège" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
+        {% if page.periode.ete.internat.online %}
 
       <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.ete.internat.online %}
           {% capture image %}{{ page.periode.ete.internat.image }}{% endcapture %}
           {% capture link %}{{ page.periode.ete.internat.link }}{% endcapture %}
           {% assign offline = page.periode.ete.internat.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Été Internat" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
 
     </div>
     {% endif %}
@@ -367,24 +369,42 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
     </div>
 
     <div class="row">
+        
+	{% if page.periode.toussaint.brabant.online %}
+      		<div class="col-xs-6 col-sm-6 col-md-3">
+          	{% capture image %}{{ page.periode.toussaint.brabant.image }}{% endcapture %}
+          	{% capture link %}{{ page.periode.toussaint.brabant.link }}{% endcapture %}
+          	{% assign offline = page.periode.toussaint.brabant.non_clickable %}
+          	{% include coleen/bulle.html src=image alt="Stages enfants" titre="Toussaint Brabant" href=link autre_page="oui" bouton="Inscrption" offline=offline %}
+      		</div>
+	{% endif %}
+        
+	{% if page.periode.toussaint.bruxelles.online %}
+      		<div class="col-xs-6 col-sm-6 col-md-3">
+          	{% capture image %}{{ page.periode.toussaint.bruxelles.image }}{% endcapture %}
+          	{% capture link %}{{ page.periode.toussaint.bruxelles.link }}{% endcapture %}
+          	{% assign offline = page.periode.toussaint.bruxelles.non_clickable %}
+          	{% include coleen/bulle.html src=image alt="Stages enfants" titre="Toussaint Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+              	</div>
+	{% endif %}
 
-      <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.toussaint.brabant.online %}
-          {% capture image %}{{ page.periode.toussaint.brabant.image }}{% endcapture %}
-          {% capture link %}{{ page.periode.toussaint.brabant.link }}{% endcapture %}
-          {% assign offline = page.periode.toussaint.brabant.non_clickable %}
-          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Toussaint Brabant" href=link autre_page="oui" bouton="Inscrption" offline=offline %}
-        {% endif %}
-      </div>
-
-      <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.toussaint.bruxelles.online %}
-          {% capture image %}{{ page.periode.toussaint.bruxelles.image }}{% endcapture %}
-          {% capture link %}{{ page.periode.toussaint.bruxelles.link }}{% endcapture %}
-          {% assign offline = page.periode.toussaint.bruxelles.non_clickable %}
-          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Toussaint Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+	{% if page.periode.toussaint.liege.online %}
+      		<div class="col-xs-6 col-sm-6 col-md-3">
+          	{% capture image %}{{ page.periode.toussaint.liege.image }}{% endcapture %}
+          	{% capture link %}{{ page.periode.toussaint.liege.link }}{% endcapture %}
+          	{% assign offline = page.periode.toussaint.liege.non_clickable %}
+          	{% include coleen/bulle.html src=image alt="Stages enfants" titre="Toussaint Liège" href=link autre_page="oui" bouton="Inscrption" offline=offline %}
+      		</div>
+	{% endif %}
+        
+	{% if page.periode.toussaint.internat.online %}
+      		<div class="col-xs-6 col-sm-6 col-md-3">
+          	{% capture image %}{{ page.periode.toussaint.internat.image }}{% endcapture %}
+          	{% capture link %}{{ page.periode.toussaint.internat.link }}{% endcapture %}
+          	{% assign offline = page.periode.toussaint.internat.non_clickable %}
+          	{% include coleen/bulle.html src=image alt="Stages enfants" titre="Toussaint Internat" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+              	</div>
+	{% endif %}
 
     </div>
     {% endif %}
@@ -396,23 +416,40 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
 
     <div class="row">
 
-      <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.noel.brabant.online %}
+              {% if page.periode.noel.brabant.online %}
+<div class="col-xs-6 col-sm-6 col-md-3">
           {% capture image %}{{ page.periode.noel.brabant.image }}{% endcapture %}
           {% capture link %}{{ page.periode.noel.brabant.link }}{% endcapture %}
           {% assign offline = page.periode.noel.brabant.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Noël Brabant" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
 
-      <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.noel.bruxelles.online %}
+              {% if page.periode.noel.bruxelles.online %}
+<div class="col-xs-6 col-sm-6 col-md-3">
           {% capture image %}{{ page.periode.noel.bruxelles.image }}{% endcapture %}
           {% capture link %}{{ page.periode.noel.bruxelles.link }}{% endcapture %}
           {% assign offline = page.periode.noel.bruxelles.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Noël Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
+	{% if page.periode.noel.liege.online %}
+      		<div class="col-xs-6 col-sm-6 col-md-3">
+          	{% capture image %}{{ page.periode.noel.liege.image }}{% endcapture %}
+          	{% capture link %}{{ page.periode.noel.liege.link }}{% endcapture %}
+          	{% assign offline = page.periode.noel.liege.non_clickable %}
+          	{% include coleen/bulle.html src=image alt="Stages enfants" titre="Noël Brabant" href=link autre_page="oui" bouton="Inscrption" offline=offline %}
+      		</div>
+	{% endif %}
+        
+	{% if page.periode.toussaint.internat.online %}
+      		<div class="col-xs-6 col-sm-6 col-md-3">
+          	{% capture image %}{{ page.periode.noel.internat.image }}{% endcapture %}
+          	{% capture link %}{{ page.periode.noel.internat.link }}{% endcapture %}
+          	{% assign offline = page.periode.noel.internat.non_clickable %}
+          	{% include coleen/bulle.html src=image alt="Stages enfants" titre="Noël Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+              	</div>
+	{% endif %}
 
     </div>
     {% endif %}
@@ -424,23 +461,41 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
 
     <div class="row">
 
-      <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.nouvelan.brabant.online %}
+              {% if page.periode.nouvelan.brabant.online %}
+<div class="col-xs-6 col-sm-6 col-md-3">
           {% capture image %}{{ page.periode.nouvelan.brabant.image }}{% endcapture %}
           {% capture link %}{{ page.periode.nouvelan.brabant.link }}{% endcapture %}
           {% assign offline = page.periode.nouvelan.brabant.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Nouvel an Brabant" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
 
-      <div class="col-xs-6 col-sm-6 col-md-3">
-        {% if page.periode.nouvelan.bruxelles.online %}
+              {% if page.periode.nouvelan.bruxelles.online %}
+<div class="col-xs-6 col-sm-6 col-md-3">
           {% capture image %}{{ page.periode.nouvelan.bruxelles.image }}{% endcapture %}
           {% capture link %}{{ page.periode.nouvelan.bruxelles.link }}{% endcapture %}
           {% assign offline = page.periode.nouvelan.bruxelles.non_clickable %}
           {% include coleen/bulle.html src=image alt="Stages enfants" titre="Nouvel an Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
-        {% endif %}
-      </div>
+              </div>
+{% endif %}
+
+	{% if page.periode.nouvelan.liege.online %}
+      		<div class="col-xs-6 col-sm-6 col-md-3">
+          	{% capture image %}{{ page.periode.nouvelan.liege.image }}{% endcapture %}
+          	{% capture link %}{{ page.periode.nouvelan.liege.link }}{% endcapture %}
+          	{% assign offline = page.periode.nouvelan.liege.non_clickable %}
+          	{% include coleen/bulle.html src=image alt="Stages enfants" titre="Nouvel an Liège" href=link autre_page="oui" bouton="Inscrption" offline=offline %}
+      		</div>
+	{% endif %}
+        
+	{% if page.periode.nouvelan.internat.online %}
+      		<div class="col-xs-6 col-sm-6 col-md-3">
+          	{% capture image %}{{ page.periode.nouvelan.internat.image }}{% endcapture %}
+          	{% capture link %}{{ page.periode.nouvelan.internat.link }}{% endcapture %}
+          	{% assign offline = page.periode.nouvelan.internat.non_clickable %}
+          	{% include coleen/bulle.html src=image alt="Stages enfants" titre="Nouvel an Internat" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+              	</div>
+	{% endif %}
 
     </div>
     {% endif %}
