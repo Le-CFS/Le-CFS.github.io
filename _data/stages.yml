@@ -115,10 +115,15 @@ stages:
       âge (modelage, assemblage, peinture, dessin,…), votre enfant réalisera différents
       bricolages sur le thème de la nature.</p><p>Les enfants peuvent bien évidemment
       repartir avec leurs bricolages en fin de semaine !</p><p>Le stage est également
-      complété par des activités de loisirs et de multisports.</p>"
+      complété par des <strong>activités de loisirs</strong>, de <strong>multisports,</strong>
+      de <strong>défis sportifs</strong> (foot, badminton, danse,...) et <strong>construction
+      d'une cabane</strong>.</p>"
     infos:
-    - alias: Tenue adaptée - peinture
+    - alias: Tenue peinture
       info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.
+    - alias: Tenue de rechange
+      info_line: Prévoir un sac avec une tenue de rechange (tenue adaptée en fonction
+        de la météo).
 - name: Beach Soccer & Fun Game
   categorie: Activités sportives
   img: "/assets/images/stages-enfants-beach-soccer-et-fun-game-500x500.jpg"
