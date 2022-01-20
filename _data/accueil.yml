@@ -151,30 +151,30 @@ une:
       Prévoir une tenue de rechange.
     lieu: Brabant
     age: 3 à 4 ans
-  - name: Krav Maga
-    titre_overlay: krav Maga
-    img: "/assets/images/stages_krav_maga.jpg"
+  - name: Fun Aventure
+    titre_overlay: Fun Aventure
+    img: "/assets/images/stages-enfants-fun-aventure-500x500-une.jpg"
     bouton: Plus d'info
     nouveau: ''
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
       conditions pour vos enfants tout en respectant les protocoles sanitaires de
       l'ONE/ADEPS.
     description: |-
-      Stage en partenariat avec Krav Maga Bruxelles
+      Un programme alléchant, avec chaque jour une activité ludique différente.
 
-      Envie de découvrir des techniques d'autodéfense ? Ce stage de krav maga répondra à tes attentes ! 
+      Programme : New Games/Arrow Game/Space Fun Game (Fort Boyard & Laser Game)/Karting/Koezio
 
-      Chaque journée de stage est divisée en deux périodes.
+      Arrow game : différents jeux ludiques avec des arcs à flèches sont proposés comme des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique également avec des flèches avec un bout en mousse et des masques de paintball).
 
-      Durant la première demi-journée, les enfants découvrent et s'initient au Krav maga, sport qui allie différents types de combat et d’auto défense. Les enfants auront l'occasion de participer à des initiations à plusieurs sports de self-défense et d'arts martiaux différents durant la semaine. 
+      New games : différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.
 
-      Toutes les activités seront encadrées par des moniteurs professionnels de Krav Maga Bruxelles.
+      Excursion à Space Fun Game d'Etterbeek : activités de type Fort Boyard et 2 parties de laser game indoor.
 
-      L’autre demi-journée est complétée par des activités funs, des jeux collectifs et du multisports.
+      Karting : session de karting au Brussels Kart Expo
 
-      Nous tenons à vous informer que le Krav Maga n’encourage pas la violence, il s’agit une pratique qui fait travailler le physique et le mental sans pour autant mettre la violence au premier plan.
+      Excursion à Koezio au Docks Bruxsel : le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum: 1,40 m
 
-      Attention : Pas de garderie les soirs du 20 au 24 décembre et le soir du 31 décembre (venir chercher les enfants à 16h ! )
+      Ce stage pourrait être complété par d'autres activités en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un stratégo géant.
     lieu: Bruxelles
     age: 6-12 ans
   - name: Astronaut Camp
