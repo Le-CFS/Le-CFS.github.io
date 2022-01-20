@@ -103,9 +103,9 @@ slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: E Pilote Academy
-    titre_overlay: E Pilote Academy
-    img: "/assets/images/stages-enfants-pilote-academy-500x500-2.jpg"
+  - name: E-Pilote Academy
+    titre_overlay: E-Pilote Academy
+    img: "/assets/images/stages-enfants-e-pilote-academy-500x500-une.jpg"
     bouton: Plus d'info
     nouveau: oui
     infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
