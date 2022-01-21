@@ -29,6 +29,34 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Baby Tennis
+  categorie: Activités sportives
+  online: true
+  img: "/assets/images/stages-enfants-baby-tennis-lta-500x500.jpg"
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 4-6 ans
+    description: '<p><em>Stage en collaboration avec le </em><strong><em>Lambermont
+      Tennis Academy</em></strong></p><p>Vous désirez éveiller votre petit bout à
+      un jeu de raquette ? <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
+      title="laugh" alt="laugh"></p><p>Ce stage est l''idéal pour initier les enfants
+      au tennis par différents jeux leur permettant d''en acquérir les bases. Ils
+      découvrent la raquette en tant que prolongement du bras et apprennent à coordonner
+      la vue avec le mouvement de la raquette.</p><p>Ils apprennent, grâce à la 2D,
+      le coup droit et le revers et toutes leurs particularités : prises, placement,
+      jeux de jambes, direction,… Ils peuvent ensuite s’essayer à la 3D où l’apprentissage
+      du rebond de la balle est essentiel pour un sport tel que le tennis. La volée
+      et le service sont également vus.</p><p>Et tout cela avec du matériel adapté
+      : ballons, ballons de baudruche, balles rouges et balles molles.</p><p>Une période
+      de la journée est consacrée à la découverte d’un multisport.</p>'
+    infos:
+    - alias: Matériel
+      info_line: Tout le matériel de tennis est fourni par notre partenaire.
 - name: Fun Aventure
   categorie: Activités fun
   img: "/assets/images/stages-enfants-fun-aventure-500x500-min.jpg"
