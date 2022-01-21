@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Interlingua
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/interlingua.jpg"
+  href: https://www.interlingua-asbl.be/
+  bouton: Site web
+  couleur_bouton: ''
 - name: BDK Stages
   categorie: Partenaires de stages
   online: true
