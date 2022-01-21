@@ -29,6 +29,31 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Mini-Tennis
+  categorie: Activités sportives
+  img: "/assets/images/stages-enfants-mini-tennis-lta-500x500.jpg"
+  online: true
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-8 ans
+    description: '<p><em>Stage en collaboration avec </em><strong><em>Lambermont Tennis
+      Academy</em></strong></p><p>Votre enfant a envie de découvrir les joies d''un
+      sport raquettes ? <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/regular_smile.png"
+      title="smiley" alt="smiley"></p><p>Ce stage de tennis associe l''apprentissage
+      du geste technique au plaisir du jeu dans une ambiance familiale.</p><p>Tout
+      au long de la semaine, les enfants apprennent les bases du tennis (prises, placement,
+      jeux de jambes,…) afin de pouvoir réaliser un maximum d’échanges que ce soit
+      en partenaire ou en adversaire.</p><p>Des groupes sont formés en fonction des
+      âges et des niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p>'
+    infos:
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
+        Vous pouvez bien sûr apporter votre propre matériel.
 - name: Baby Tennis
   categorie: Activités sportives
   online: true
