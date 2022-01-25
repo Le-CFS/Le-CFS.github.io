@@ -322,16 +322,19 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 6-12 ans
-    description: "<p>Découvrir le <strong>monde de la musique</strong> et du <strong>sport</strong>
-      tout en s’amusant !<strong><br></strong>Initiation et découverte de la musique,
-      des rythmes et des sons par des jeux ludiques. Ce stage permet de développer
-      l'imaginaire de l'enfant. </p><p>Le stage est complété par des <strong>activités
-      de multisports.</strong></p>"
+    description: <p><em>Stage en collaboration avec </em><strong><em>Lamogoya</em></strong></p><p>Découvrir
+      le <strong>monde de la musique</strong> et du <strong>sport</strong> tout en
+      s’amusant !</p><p>Ce stage propose une initiation et une découverte de la musique,
+      des rythmes et des sons par des jeux ludiques. Les enfants apprennent, grâce
+      à la méthode <em>Digadoum</em>, à maîtriser le rythme, la notion de "droite-gauche",
+      et à jouer sur différentes percussions africaines comme le djembé ou le doumdoum.
+      Les enfants découvrent le plaisir de jouer avec d'autres et d'accompagner n'importe
+      quel musicien !</p><p>Le stage est complété par des <strong>activités de multisports.</strong></p>
     infos: []
 - name: Tennis & Multisports
   categorie: Activités sportives
   img: "/assets/images/stage_enfant_tennis_multisports.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
