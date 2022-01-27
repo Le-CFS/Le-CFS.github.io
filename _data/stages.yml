@@ -6660,7 +6660,7 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 8-14 ans
+    age: 6-12 ans
     description: "<p><em>En collaboration avec Interlingua</em></p><p><strong><em>Do
       you want to learn English ?</em></strong></p><p>La moitié de la journée se fera
       en totale immersion grâce à notre <strong>partenaire Interlingua</strong> qui
@@ -6673,7 +6673,7 @@ stages:
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-14 ans
+    age: 6-12 ans
     description: "<p><em>En collaboration avec Interlingua</em></p><p><strong><em>Do
       you want to learn English ?</em></strong></p><p>La moitié de la journée se fera
       en totale immersion grâce à notre <strong>partenaire Interlingua</strong> qui
