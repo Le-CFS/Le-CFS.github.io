@@ -29,6 +29,25 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Parkour Evolution
+  categorie: Activités fun
+  img: ''
+  online: true
+  nouveau: false
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: 'Brabant '
+    ville: Brabant Wallon
+    age: 10-16 ans
+    description: "<p>Tu as déjà suivi un stage ou une activité de Parkour ?</p><p>Viens
+      franchir les obstacles avec nous et te perfectionner à cet art du déplacement
+      !</p><p>Grâce à ce stage, tu parviendras à un déplacement libre et efficace
+      dans tous types d’environnements.</p><p>Les éléments du milieu urbain ou rural
+      se transforment en obstacles franchis grâce à des techniques gymniques tels
+      que la course, le saut, l’escalade, le déplacement en équilibre, etc.</p>"
+    infos: []
 - name: Tennis
   categorie: Activités sportives
   img: "/assets/images/stages-enfants-tennis-lta-500x500.jpg"
