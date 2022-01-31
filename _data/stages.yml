@@ -30,8 +30,8 @@ categories:
   btn: btn-stage-internat
 stages:
 - name: Parkour Evolution
-  categorie: Activités fun
-  img: ''
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_cfs_parkour.jpg"
   online: true
   nouveau: false
   stage_une: false
