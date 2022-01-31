@@ -38,7 +38,7 @@ stages:
   activation_onglets: true
   inscription: ''
   location:
-  - alias: 'Brabant '
+  - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
     description: "<p>Tu as déjà suivi un stage ou une activité de Parkour ?</p><p>Viens
