@@ -4668,7 +4668,7 @@ stages:
         le manège.
   activation_onglets: true
 - name: Drone & Laser
-  categorie: Activités artistiques et loisirs
+  categorie: Activités fun
   img: "/assets/images/stage-enfant-drone-laser-500x500.jpg"
   online: true
   nouveau: true
