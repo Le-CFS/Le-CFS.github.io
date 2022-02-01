@@ -1748,8 +1748,8 @@ stages:
 - name: Basketball
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-basketball-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -2376,8 +2376,8 @@ stages:
 - name: Vacances Ados
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-vacances-ados-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -2416,8 +2416,8 @@ stages:
 - name: Multisports
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-multisports-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -2455,8 +2455,8 @@ stages:
 - name: Sports Nautiques
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-sports-nautiques-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
