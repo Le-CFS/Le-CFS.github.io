@@ -29,6 +29,73 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Vacances Ados
+  categorie: Internat
+  img: "/assets/images/stage-enfant-internat-vacances-ados-500x500.jpg"
+  online: true
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Salou
+    ville: Espagne
+    age: 14-18 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p><strong>Piscine,
+      plage, shopping, nos moniteurs t'accompagnent dans une semaine sur mesure. Que
+      tu préfères les instants de farniente ou les défis sportifs, on te laisse le
+      choix ! Crée ton séjour idéal en compagnie des autres stagiaires. Du baseball
+      au beach-volley, de la randonnée au shopping en ville, tout est possible !</strong></p><p>Tu
+      as entre 14 et 18 ans et souhaites profiter du soleil en décompressant sur la
+      plage et au bord de la piscine ? Ce séjour a été conçu spécialement pour toi
+      ! Le stage Vacances Ados propose avant tout une semaine de totale détente pour
+      profiter au maximum du climat méditerranéen et de l'ambiance charmante de la
+      station balnéaire.</p><p>Ce stage est proposé en formule <strong><em>All-inclusive,</em></strong>
+      ce qui permet aux stagiaires d'avoir accès au bar et buffets snack tout au long
+      de la journée (sous la surveillance des moniteurs bien-sûr!) et donne libre
+      accès aux infrastructures Wellness et sportives du complexe hôtelier.</p><p><strong><em>Au
+      programme du stage</em></strong></p><ul><li><p>Balades le long des calanques
+      espagnoles</p></li><li><p>Découvertes et shopping en ville</p></li><li><p>Activités
+      sportives à la demande</p></li><li><p>Plage et piscine à gogo !</p></li></ul><p><strong>Ta
+      mission ? Profiter !</strong> Une semaine de totale détente. Découvre des paysages
+      plus magiques les uns que les autres lors de nos balades découvertes dans les
+      calanques espagnoles. Profite aussi chaque jour de la plage et de la piscine
+      pour des moments de fun et de détente !</p><p><strong><em>Excursions gratuites</em></strong></p><p>Participe
+      aussi gratuitement à plusieurs excursions dans la région : la visite du centre
+      de Salou, la découverte de la ville médiévale de Tarragone, une séance shopping
+      à Reus et une balade au port de Cambrils.</p><p><strong><em>Le prix comprend</em></strong></p><ul><li><p>8
+      jours &amp; 7 nuitées sur place à La Pineda de Salou !</p></li><li><p>Les voyages
+      aller-retour de nuit en autocar Grand Tourisme</p></li><li><p>Le logement en
+      appartement/bungalow de 4 à 6 personnes</p></li><li><p>La pension all-inclusive
+      dans le complexe hôtelier Estival Park Salou ****</p></li><li><p>L'encadrement
+      24h/24 par des moniteurs diplômés et expérimentés</p></li><li><p>Les activités
+      sportives et ludiques journalières</p></li><li><p>Les 4 excursions pour découvrir
+      la région</p></li></ul><p><strong><em>Logement et pension</em></strong><br>Le
+      complexe hôtelier Estival Park Salou **** dispose d'un spa complet (piscine,
+      jacuzzi, sauna, hammam et bassin de nage) et d'un éventail impressionnant d'installations
+      sportives. Il est situé à 5 minutes à pied de la plage Racó, à La Pineda. Les
+      chambres climatisées de l'hôtel Estival Park disposent toutes d'un balcon privé
+      et d'une télévision. Les salles de bains privatives sont équipées d'un sèche-cheveux.
+      Les jeunes sont répartis en bungalow de 3 à 5 personnes, les filles avec les
+      filles et les garçons avec les garçons de toute évidence ! L'hôtel dispose d'un
+      restaurant buffet qui sert une cuisine méditerranéenne. Vous trouverez également
+      des bars et snack-bars à volonté dans l'hôtel et près de la piscine, où vous
+      pourrez prendre une collation ou une boisson, à tout moment et sans supplément
+      grâce à la formule all-inclusive.</p><p><strong><em>Trajets en autocar</em></strong><br>Le
+      voyage est effectué au autocar de grand tourisme, pendant la nuit, afin de privilégier
+      l’aspect confort et la sécurité matérielle. Deux conducteurs expérimentés assurent
+      le transfert selon la réglementation en vigueur (temps de conduite, arrêts,
+      repo, etc.). Les moniteurs et entraineurs présents lors du voyage assureront
+      l’encadrement des participants.</p><p><strong><em>Argent de poche</em></strong><br>Pour
+      plus de sécurité, les coordinateurs récoltent l’argent de poche le jour de l'arrivée
+      afin de le placer dans un coffre. Les enfants pourront le récupérer à tout moment
+      sur simple demande. Le budget est soumis à l'appréciation des parents et est
+      principalement dédié aux souvenirs et au shopping. N'oubliez pas que les jeunes
+      séjournent en pension <strong><em>all-inclusive</em></strong>. C'est à dire,
+      qu'ils peuvent se désaltérer et grignoter à tout moment de la journée, sous
+      la surveillance des moniteurs, entre 10h et 20h (boissons, snack, chips, fruits,
+      glaces, etc.).</p>"
+    infos: []
 - name: Sun Beach Club
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-vacances-ados-500x500.jpg"
