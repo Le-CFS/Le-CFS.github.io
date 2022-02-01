@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Lamogoya
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/lamogoya.jpg"
+  href: http://www.lamogoya.com/
+  bouton: Site web
+  couleur_bouton: ''
 - name: Interlingua
   categorie: Partenaires de stages
   online: true
