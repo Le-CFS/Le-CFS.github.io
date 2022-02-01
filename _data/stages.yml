@@ -29,10 +29,51 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: La passion du cheval
+  categorie: Internat
+  img: "/assets/images/stage-enfant-internat-equitation-500x500.jpg"
+  online: true
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Hatrival
+    ville: Hatrival
+    age: 6-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Débutant,
+      initié ou confirmé, nous te donnons rendez-vous à <em>l’Ecurie des Iles</em>
+      pour de vivre et découvrir la passion des chevaux. Pour les cavaliers de tout
+      âge, le centre équestre dispense des leçons adaptées et dédiées à différentes
+      disciplines. Rejoins-nous pour vivre une semaine inoubliable dans un cadre et
+      une ambiance familiale !</p><p><strong><em>Accueil et départ</em></strong><br>À
+      Hatrival &amp; Marbehan, les arrivées ont lieu le dimanche soir, à partir de
+      19h00 (les enfants doivent avoir soupé !). Les départs ont lieu le vendredi
+      entre 17h00 à 18h00 au plus tard.</p><p><strong><em>Repas, collations et boissons</em></strong><br>Les
+      enfant doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour,
+      ils profiteront d'un petit déjeuner, d'une collation, d'un repas chaud ainsi
+      qu'un repas froid/tartines chaque jour. Bien sûr, vous pouvez prévoir des petits
+      en-cas à mettre dans la valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong><em>Participation
+      à nos séjours en internat</em></strong><br>Si votre enfant est inscrit à l’un
+      de nos séjours en internat en Belgique, nous vous demandons de respecter ces
+      quelques règles particulières :</p><ul><li><p>Il vous est demandé de respecter
+      les horaires qui vous sont communiqués via les mails de confirmation d’inscription
+      à nos stages.</p></li><li><p>Il est important de prévoir des draps pour la literie
+      ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement de base
+      pour la semaine : le nécessaire de toilette (essuies de bain, gants de toilettes,
+      savon, brosse à dents, dentifrice, etc.), pyjama et pantoufles, maillot et essuie
+      de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
+      chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul><p><strong>Si
+      votre enfant est inscrit à un stage d'équitation :</strong> aucun matériel n'est
+      à prévoir hormis une tenue adaptée pour monter à cheval (bottes ou bottines,
+      jogging ou legging). Le centre équestre fournira à chaque enfant une bombe.
+      Toutefois, si votre enfant dispose déjà de son propre matériel, pour son propre
+      confort, il est invité à l'emporter avec lui.</p>"
+    infos: []
 - name: La cabane du pays imaginaire
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-internat-bdk-cabane-aventurier-500x500.jpg"
+  online: true
   nouveau: false
   stage_une: false
   activation_onglets: false
