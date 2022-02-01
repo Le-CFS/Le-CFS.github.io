@@ -1220,8 +1220,8 @@ stages:
 - name: Basketball
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-basketball-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -1398,13 +1398,13 @@ stages:
 - name: Football
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-football-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
   location:
-  - alias: Italie
+  - alias: Caspoggio
     ville: Italie
     age: 8-18 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Rejoins
