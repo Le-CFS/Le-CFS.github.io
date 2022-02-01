@@ -29,10 +29,24 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
-- name: Art-Attack
+- name: 'Détective privé : Grands jeux indoor'
   categorie: Internat
   img: ''
   online: false
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Marbehan
+    ville: Brabant Wallon
+    age: 6-15 ans
+    description: ''
+    infos: []
+- name: Art'Attack
+  categorie: Internat
+  img: "/assets/images/activites_parascolaires_multisports_creativite.jpg"
+  online: true
   nouveau: false
   stage_une: false
   activation_onglets: false
