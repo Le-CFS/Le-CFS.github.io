@@ -29,6 +29,52 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: L'Aventurier Photographe
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Marbehan
+    ville: Brabant Wallon
+    age: 12-17 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Entre
+      le high-tech et le retour aux techniques de survie « fait maison », viens te
+      plonger dans nos Ardennes armé de ton appareil photo pour y découvrir les beautés
+      de la nature et apprendre à te débrouiller en forêt. Initie-toi au feu de camp,
+      à la construction d’une canne à pêche ou d’un abri de fortune. Découvre également
+      d’anciens métiers durant les sorties de groupes. Laisse libre court à ton imagination
+      et retranscris-la dans tes photos. La technique sera approfondie en rentrant
+      de chaque balade. A la fin du séjour, une exposition de tes photos sera disponible
+      afin de montrer à tes parents que c’est toi l’artiste de la famille !</p><p><strong>Matériel
+      spécifique</strong></p><ul><li><p>Un appareil photo reflex ou hybride (si appareil
+      compact, il faut des fonctions manuelles) avec 2 batteries</p></li><li><p>Une
+      nouvelle carte mémoire (éviter les pannes avec des vielles cartes)</p></li><li><p>Un
+      sac à dos</p></li><li><p>Des chaussures de marche</p></li><li><p>Une tasse solide,
+      genre scout, que l’on peut mettre sur un feu</p></li><li><p>Un canif genre Opinel</p></li><li><p>Une
+      lampe de poche ou frontale</p></li><li><p>Casquette, lunettes, …</p></li></ul><p><strong><em>Accueil
+      et départ</em></strong><br>À Hatrival &amp; Marbehan, les arrivées ont lieu
+      le dimanche soir, à partir de 19h00 (les enfants doivent avoir soupé !). Les
+      départs ont lieu le vendredi entre 17h00 à 18h00 au plus tard.</p><p><strong><em>Repas,
+      collations et boissons</em></strong><br>Les enfants doivent avoir soupé avant
+      d'arriver au stage. Pendant tout le séjour, ils profiteront d'un petit déjeuner,
+      d'une collation, d'un repas chaud ainsi qu'un repas froid/tartines chaque jour.
+      Bien sûr, vous pouvez prévoir des petits en-cas à mettre dans la valise de votre
+      enfant mais ce n'est pas nécessaire.</p><p><strong><em>Participation à nos séjours
+      en internat</em></strong><br>Si votre enfant est inscrit à l’un de nos séjours
+      en internat en Belgique, nous vous demandons de respecter ces quelques règles
+      particulières :</p><ul><li><p>Il vous est demandé de respecter les horaires
+      qui vous sont communiqués via les mails de confirmation d’inscription à nos
+      stages.</p></li><li><p>Il est important de prévoir des draps pour la literie
+      ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement de base
+      pour la semaine : le nécessaire de toilette (essuies de bain, gants de toilettes,
+      savon, brosse à dents, dentifrice, etc.), pyjama et pantoufles, maillot et essuie
+      de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
+      chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
+    infos: []
 - name: Jeux d'Aventure et Découverte Géocatching
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-jumanji-et-geocatching-500x500.jpg"
