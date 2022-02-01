@@ -104,7 +104,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: La passion du cheval
+- name: La Passion du Cheval
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-equitation-500x500.jpg"
   online: true
@@ -145,7 +145,7 @@ stages:
       Toutefois, si votre enfant dispose déjà de son propre matériel, pour son propre
       confort, il est invité à l'emporter avec lui.</p>"
     infos: []
-- name: La cabane du pays imaginaire
+- name: La Cabane du Pays Imaginaire
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-cabane-aventurier-500x500.jpg"
   online: true
