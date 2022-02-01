@@ -29,6 +29,82 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Sun Beach Club
+  categorie: Internat
+  img: "/assets/images/stage-enfant-internat-croatie-vacances-ados-500x500.jpg"
+  online: true
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Salou
+    ville: Espagne
+    age: 19-35 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p><strong>Sun
+      Beach Club, c'est le rendez-vous des étudiants ! Qui a dit que vacances de Pâques
+      rimaient obligatoirement avec blocus ? </strong><br><br>Ah ben si, quand même
+      un peu... Mais du coup, pourquoi ne pas étudier sur un transat au bord de la
+      piscine ? Ou au calme dans ta chambre d'hôtel ?<br>L'important, c'est de trouver
+      l'équilibre entre le temps d'étude et les moments de détente, de sport ou encore
+      de plaisir...</p><p>Vous souhaitez passer des vacances remplies d'activités
+      fun et sportives seul(e), en couple ou entre ami(e)s ? Alors profitez de notre
+      expérience d'organisateur de voyages, de nos prix défiants toute concurrence
+      et de notre connaissance poussée de la région pour organiser votre séjour idéal.
+      Partez à La Pineda de Salou pour des vacances de Pâques 100 % détente à la Costa
+      Daurada.</p><p><strong><em>Au programme du stage</em></strong></p><p>Un cocktail,
+      un bouquin, un transat, la piscine, la plage et surtout 20 degrés. Mais ce n'est
+      pas tout, le MUST en option : une pension all-inclusive vous est proposée !</p><p><strong><em>Vous
+      voyagez seul(e) ou en petit groupe</em></strong></p><p>Partagez une chambre
+      ou un appartement avec d'autres vacanciers du Sun Beach Club. C'est l'occasion
+      de vous faire de nouveaux ami(e)s venu(e)s des quatre coins de la Belgique !
+      Beaucoup de nos anciens voyageurs vous le diront, les liens tissés lors des
+      voyages BDK sont plus forts que tout.</p><p>Suivant la composition de votre
+      groupe, choisissez votre type de logement (chambre d'hôtel ou appartement/bungalow),
+      votre pension (all-inclusive, pension complète ou demi-pension), votre transport
+      (autocar BDK, voiture ou avion) et vos activités à la carte.</p><p><strong><em>Le
+      prix de 525€/personne comprend</em></strong></p><ul><li><p>8 jours &amp; 7 nuitées
+      sur place à La Pineda de Salou !</p></li><li><p>Les voyages aller-retour de
+      nuit en autocar Grand Tourisme</p></li><li><p>Le logement en chambre double
+      à l'hôtel OU en appartement 2 à 6 pers. (au choix)</p></li><li><p>La pension
+      pension complète avec eau et vins à table, dans le complexe hôtelier Estival
+      Park Salou ****</p></li></ul><p><strong><em>Options</em></strong></p><ul><li><p>Partez
+      par vos propres moyens, en voiture ou en avion (aéroport de Reus) et <strong>économisez
+      95 € </strong>sur le prix de votre séjour.</p></li><li><p>Vous préférez découvrir
+      les restaurants de la région, pique-niquer sur le sable ou encore manger un
+      petit truc sur le pouce, <strong>économisez 80 €</strong> et bénéficiez seulement
+      d'une demi-pension à l'hôtel.</p></li><li><p>Au contraire, vous avez plutôt
+      <strong>envie de boire et manger à volonté </strong>pendant toute la semaine
+      et ce sans se soucier du budget ? Pour <strong>70 € supplémentaires</strong>,
+      bénéficiez de la formule <strong>all-inclusive</strong>. Cette formule magique
+      vous donne également libre accès à l'espace Wellness (piscine détente, sauna,
+      jacuzzi, hamman et bassin de nage) mais aussi à la salle de sport (pour les
+      plus courageux !). Une formule gagnante sans aucun doute !</p></li></ul><p><strong><em>Encadrement</em></strong><br>Dans
+      le carde d'un voyage organisé comme celui-ci, BDK agit en qualité de prestataire
+      de services. Évidemment, les responsables BDK seront systématiquement présents
+      lors de chaque séjour afin de veiller au bon déroulement sur place et de répondre
+      à tout moment aux demandes des participants.</p><p><strong><em>Logement et pension</em></strong><br>Le
+      complexe hôtelier Estival Park Salou **** dispose d'un spa (piscine, jacuzzi,
+      sauna, hammam et bassin de nage) et d'un éventail impressionnant d'installations
+      sportives. Il est situé à 5 minutes à pied de la plage Racó à La Pineda et à
+      400 mètres de la célèbre discothèque <em>Pacha</em>. Les chambres climatisées
+      de l'hôtel Estival Park disposent toutes d'un balcon privé et d'une télévision.
+      Les salles de bains privatives sont équipées d'un sèche-cheveux. L'hôtel dispose
+      d'un restaurant buffet qui servent une cuisine méditerranéenne. Vous trouverez
+      également des bars et snack-bars à volonté dans l'hôtel et près de la piscine,
+      où vous pourrez prendre une collation ou une boisson. Le séjour de base est
+      proposé en formule pension complète. C'est à-dire incluant petit-déjeuner, diner
+      et souper avec eau à table (du diner du premier jour au diner du dernier jour).</p><p>Moyennant
+      un supplément, les jeunes peuvent séjourner en pension <strong><em>all-inclusive</em></strong>.
+      C'est à dire, qu'ils peuvent se désaltérer et grignoter à tout moment de la
+      journée, entre 10h et 20h (boissons, cocktails, snack, chips, fruits, glaces,
+      etc.). En all-inclusive, les boissons sont également proposées à volonté lors
+      des repas au restaurant.</p><p><strong><em>Trajets en autocar</em></strong><br>Le
+      voyage est effectué au autocar de grand tourisme, pendant la nuit, afin de privilégier
+      l’aspect confort et la sécurité matérielle. Deux conducteurs expérimentés assurent
+      le transfert selon la réglementation en vigueur (temps de conduite, arrêts,
+      repo, etc.).</p>"
+    infos: []
 - name: Multisports
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-multisports-500x500.jpg"
