@@ -31,8 +31,8 @@ categories:
 stages:
 - name: 'Détective Privé : Grands Jeux Indoor'
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stages/activitesfun/detective.png"
+  online: true
   nouveau: false
   stage_une: false
   activation_onglets: false
