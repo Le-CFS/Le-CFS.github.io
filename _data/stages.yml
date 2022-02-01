@@ -31,8 +31,8 @@ categories:
 stages:
 - name: L'Aventurier Photographe
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/stage-enfant-fun-ado-500x500.jpg"
+  online: true
   nouveau: false
   stage_une: false
   activation_onglets: false
