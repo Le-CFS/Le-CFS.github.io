@@ -29,6 +29,73 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: BDK Family
+  categorie: Internat
+  img: "/assets/images/stage-enfant-aventure-camp-500x500.jpg"
+  online: true
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Salou
+    ville: Espagne
+    age: 0-77 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p><strong>Angoissé
+      à l'idée de laisser partir vos jeunes à l'étranger ? Ou tout simplement envie
+      de vacances en famille mais vous avez peur que vos enfants s'ennuient ?</strong></p><p><strong>Nous
+      avons LA FORMULE parfaite pour vous !</strong></p><p>Accompagnez vos enfants
+      en vacances avec BDK ! Pendant que les animateurs brevetés se chargent de leur
+      faire passer des vacances dynamiques et inoubliables, profitez enfin pleinement
+      des vacances, les pieds dans l'eau et un cocktail à la main. Vous souhaitez
+      passer une journée, une ou deux soirées en famille lors de votre séjour ? Bien-sûr,
+      tout est possible. Vous pourrez ainsi aménager votre emploi du temps comme bon
+      vous semble, pour partager de beaux moments en famille mais aussi pour vous
+      détendre en solo.</p><p><strong><em>Le prix de 525€/personne comprend</em></strong></p><ul><li><p>8
+      jours &amp; 7 nuitées sur place à La Pineda de Salou !</p></li><li><p>Les voyages
+      aller-retour de nuit en autocar Grand Tourisme</p></li><li><p>Le logement en
+      chambre double à l'hôtel OU en appartement 2 à 6 pers. (au choix)</p></li><li><p>La
+      pension pension complète avec eau et vins à table, dans le complexe hôtelier
+      Estival Park Salou ****</p></li></ul><p><strong><em>Options</em></strong></p><ul><li><p>Partez
+      par vos propres moyens, en voiture ou en avion (aéroport de Reus) et <strong>économisez
+      95 € </strong>sur le prix de votre séjour.</p></li><li><p>Vous êtes à la recherche
+      du calme absolu ? Vous ne souhaitez pas partager votre salle de bain ? Vous
+      envisagez de dormir en chambre individuelle, un <strong>supplément de 140 €</strong>
+      vous sera demandé.</p></li><li><p>Vous préférez découvrir les restaurants de
+      la région, pique-niquer sur le sable ou encore manger un petit truc sur le pouce,
+      <strong>économisez 80 €</strong> et bénéficiez seulement d'une demi-pension
+      à l'hôtel.</p></li><li><p>Au contraire, vous avez plutôt <strong>envie de boire
+      et manger à volonté </strong>pendant toute la semaine et ce sans se soucier
+      du budget ? Pour <strong>70 € supplémentaires</strong>, bénéficiez de la formule
+      <strong>all-inclusive</strong>. Cette formule magique vous donne également libre
+      accès à l'espace Wellness (piscine détente, sauna, jacuzzi, hamman et bassin
+      de nage) mais aussi à la salle de sport (pour les plus courageux !). Une formule
+      gagnante sans aucun doute !</p></li></ul><p><strong><em>Encadrement</em></strong><br>Dans
+      le carde d'un voyage organisé comme celui-ci, BDK agit en qualité de prestataire
+      de services. Évidemment, les responsables BDK seront systématiquement présents
+      lors de chaque séjour afin de veiller au bon déroulement sur place et de répondre
+      à tout moment aux demandes des participants.</p><p><strong><em>Logement et pension</em></strong><br>Le
+      complexe hôtelier Estival Park Salou **** dispose d'un spa (piscine, jacuzzi,
+      sauna, hammam et bassin de nage) et d'un éventail impressionnant d'installations
+      sportives. Il est situé à 5 minutes à pied de la plage Racó à La Pineda et à
+      400 mètres de la célèbre discothèque <em>Pacha</em>. Les chambres climatisées
+      de l'hôtel Estival Park disposent toutes d'un balcon privé et d'une télévision.
+      Les salles de bains privatives sont équipées d'un sèche-cheveux. L'hôtel dispose
+      d'un restaurant buffet qui servent une cuisine méditerranéenne. Vous trouverez
+      également des bars et snack-bars à volonté dans l'hôtel et près de la piscine,
+      où vous pourrez prendre une collation ou une boisson. Le séjour de base est
+      proposé en formule pension complète. C'est à-dire incluant petit-déjeuner, diner
+      et souper avec eau à table (du diner du premier jour au diner du dernier jour).</p><p>Moyennant
+      un supplément, les jeunes peuvent séjourner en pension <strong><em>all-inclusive</em></strong>.
+      C'est à dire, qu'ils peuvent se désaltérer et grignoter à tout moment de la
+      journée, entre 10h et 20h (boissons, cocktails, snack, chips, fruits, glaces,
+      etc.). En all-inclusive, les boissons sont également proposées à volonté lors
+      des repas au restaurant.</p><p><strong><em>Trajets en autocar</em></strong><br>Le
+      voyage est effectué au autocar de grand tourisme, pendant la nuit, afin de privilégier
+      l’aspect confort et la sécurité matérielle. Deux conducteurs expérimentés assurent
+      le transfert selon la réglementation en vigueur (temps de conduite, arrêts,
+      repo, etc.).</p>"
+    infos: []
 - name: Terre Ferme
   categorie: Internat
   img: "/assets/images/stage-enfant-nature-et-loisirs-500x500.jpg"
