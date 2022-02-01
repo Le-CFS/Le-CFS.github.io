@@ -1255,9 +1255,7 @@ stages:
       baseball, etc.)</p><p class="xmsonormal">Une semaine de découverte et de création
       en pâtisserie, alliée au sport.</p><p class="xmsonormal">Aussi bien pour les
       garçons que pour les filles.</p>'
-    infos:
-    - info_line: A Verlaine du 2 au 6 août 2021
-      alias: A Verlaine
+    infos: []
 - name: Danse moderne
   categorie: Internat
   img: "/assets/images/boutonsactivites/parascolaires/hiphop.png"
