@@ -141,7 +141,7 @@ stages:
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
         Vous pouvez bien sûr apporter votre propre matériel.
 - name: Baby Tennis
-  categorie: Activités sportives
+  categorie: Découvertes sportives et culturelles
   online: true
   img: "/assets/images/stages-enfants-baby-tennis-lta-500x500.jpg"
   nouveau: false
@@ -5676,7 +5676,7 @@ stages:
 - name: Aqua Fun
   img: "/assets/images/stages/activitessportives/aquafun.png"
   inscription: ''
-  categorie: Activités sportives
+  categorie: Activités fun
   online: true
   nouveau: false
   stage_une: false
