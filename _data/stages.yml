@@ -1674,8 +1674,8 @@ stages:
 - name: Multisports
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-multisports-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -1683,29 +1683,57 @@ stages:
   - alias: Italie
     ville: Italie
     age: 8-14 ans
-    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Bien
-      sûr qui dit côte adriatique dit plage et piscine mais pas uniquement ! Nos moniteurs
-      t'ont préparé un super panel d'activités : du baseball au beach-volley, des
-      défis Koh-Lanta au Cluedo géant sans oublier les balades découvertes. Tout sera
-      mis en oeuvre pour que tu passes une semaine inoubliable !</p><p><strong>Encadrement</strong><br>L’encadrement
-      est assuré 24h/24 par le staff de moniteurs de BDK.</p><p><strong>Logement -
-      Hotel Belvedere Misano Adriatio 3*</strong><br>L’hôtel Belvedere Misano Adriatico
-      3* vous accueille dans un hôtel récemment rénové en bord de mer de Misano. Des
-      chambres bien équipées, une équipe accueillante, l'hôtel Belvedere a tout ce
-      qu'il faut pour vous ressourcer et vous amuser. Il est situé à 2km de l'hippodrome
-      de Santamonica. Confortables et lumineuses, toutes les chambres sont équipées
-      d'un balcon, d'une TV satellite, d'une salle de bain avec douche et sèche-cheveux,
-      d'un téléphone direct et d'une climatisation.</p><p><strong>Les excursions</strong><br>Pour
-      pimenter le séjour, nous proposons quelques excursions à la carte.</p><p>Le
-      package complet des 2 excursions est offert au prix de 60€.<br>Dans un souci
-      d'organisation, nous rendons ces activités obligatoires pour tous.</p><ul><li><p>Excursion
-      à San Marino</p></li><li><p>Parc aquatique Aquafun</p></li></ul><p>Les excursions
-      sont à payer en liquide sur place le jour de l'arrivée.</p><p><strong>Trajets
-      en autocar</strong><br>Le voyage est effectué au autocar de luxe afin de privilégier
-      l’aspect confort et la sécurité matérielle. Deux conducteurs expérimentés assurent
-      le transfert selon la réglementation en vigueur (temps de conduite, arrêts,
-      repos…). Les moniteurs et entraineurs présents lors du voyage assureront l’encadrement
-      des participants.</p>"
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p><strong>Bien
+      sûr qui dit Italie, dit plage et piscine mais pas uniquement ! Les moniteurs
+      BDK t'ont préparé un super panel d'activités : du baseball au beach-volley,
+      des défis Koh-Lanta au Cluedo géant sans oublier les balades découvertes. Tout
+      sera mis en oeuvre pour que tu passes une semaine inoubliable !</strong></p><p>Cet
+      été, profite d’un planning bien défini alliant activités ludiques et sportives.
+      Élabore d'ingénieuses stratégies pour remporter la victoire au cours d’un Stratégo
+      géant. Sur terrain, découvre les joies du baseball, du basketball, de l’uni-hockey
+      et des crosses canadiennes. Pars en balade le long des côtes pour faire le plein
+      de photos et, tout en t’amusant, termine ta matinée par un beach-volley. Dans
+      la mer et dans la piscine, affronte tes camarades lors de jeux défis.</p><p><strong><em>Au
+      programme du stage</em></strong></p><ul><li><p>Jeux grandeur nature tels qu'un
+      Stratégo ou Cluédo</p></li><li><p>Jeux d'adresse et d'énigmes comme Fort Boyard
+      ou Koh-Lanta</p></li><li><p>Sports collectifs : baseball, basketball, volley-ball,
+      tennis, etc.</p></li><li><p>2 à 3 sorties piscine pour faire le plein de sauts
+      et plongeons !</p></li></ul><p>Ta mission = profiter ! Outre le côté sportif,
+      découvre des paysages plus magiques les uns que les autres lors de nos balades
+      découvertes. Profite aussi chaque jour de la plage pour des moments de fun et
+      de détente.</p><p><strong><em>Le prix comprend</em></strong></p><ul><li><p>7
+      jours &amp; 6 nuitées sur place !</p></li><li><p>Le logement en chambres multiples
+      3/4 personnes</p></li><li><p>La pension complète à l'Hôtel Belvedere de Misano
+      Adriatico</p></li><li><p>Les voyages aller-retour de nuit en autocar Grand Tourisme</p></li><li><p>L'encadrement
+      24h/24 par des moniteurs diplômés et expérimentés</p></li><li><p>Les activités
+      sportives et ludiques journalières</p></li></ul><p><strong><em>Excursions supplémentaires</em></strong><br>Pour
+      pimenter ce séjour, quelques excursions à la carte sont proposées. Celles-ci
+      sont organisées par l'Equipe BDK et sont disponibles pour tous les groupes de
+      stages.</p><p>Elles sont proposés pendant des moments de détente pour ne rien
+      manquer :</p><ul><li><p>½ journée de visite à San Marino</p></li><li><p>1 journée
+      au parc Aquatique Aquafan</p></li></ul><p>Dans un souci d'organisation, ces
+      excursions sont obligatoires pour tous. Il faut donc ajouter un budget de 60
+      € au prix du séjour, payable en liquide sur place le jour de l'arrivée.</p><p><strong><em>Logement
+      - Hotel Belvedere Misano Adriatio 3*</em></strong><br>L’hôtel Belvedere Misano
+      Adriatico 3* est un petit hébergement familial, typique trois étoiles, situé
+      à tout juste 150 mètres de la plage. Les chambres doubles, triples ou quadruples
+      sont sobres mais accueillantes et fonctionnelles. Elles sont équipées d'une
+      petite salle de douche, climatisation, TV satellite et coffre-fort. Les jeunes
+      sont répartis en chambres multiples de 3 ou 4 personnes, les filles avec les
+      filles et les garçons avec les garçons de toute évidence ! Le séjour est prévu
+      en pension complète avec eau à table. Tous les repas sont servis directement
+      à table, sauf le petit-déjeuner qui est proposé sous forme de buffet. Les plats
+      typique de Romagne et la cuisine proposée est internationale et de qualité.
+      On s'y sent comme à la maison</p><p><strong><em>Trajets en autocar</em></strong><br>Le
+      voyage est effectué en autocar de luxe afin de privilégier l’aspect confort
+      et la sécurité matérielle. Deux conducteurs expérimentés assurent le transfert
+      selon la réglementation en vigueur (temps de conduite, arrêts, repos…). Les
+      moniteurs et entraineurs présents lors du voyage assureront l’encadrement des
+      participants.</p><p><strong><em>Argent de poche</em></strong><br>Pour plus de
+      sécurité, les coordinateurs récoltent l’argent de poche le jour de l'arrivée
+      afin de le placer dans un coffre. Les enfants pourront le récupérer à tout moment
+      sur simple demande. Le budget est soumis à l'appréciation des parents et est
+      principalement dédié aux souvenirs et au shopping.</p>"
     infos: []
 - name: Football
   categorie: Internat
@@ -1719,29 +1747,55 @@ stages:
   - alias: Caspoggio
     ville: Italie
     age: 8-18 ans
-    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Rejoins
-      nous pour un stage de foot exceptionnel en Italie. Nos coaches diplômés et motivés
-      t'attendent pour vivre des entraînements haut en couleurs. Individuel et par
-      équipe, ce perfectionnement va t'aider à travailler ta technique, tes frappes
-      mais également ton jeu individuel et collectif ainsi que ton esprit d'équipe.</p><p><strong>Encadrement</strong><br>L’encadrement
-      est assuré 24h/24 par le staff de moniteurs de BDK.</p><p><strong>Logement -
-      Hotel Belvedere Misano Adriatio 3*</strong><br>L’hôtel Belvedere Misano Adriatico
-      3* vous accueille dans un hôtel récemment rénové en bord de mer de Misano. Des
-      chambres bien équipées, une équipe accueillante, l'hôtel Belvedere a tout ce
-      qu'il faut pour vous ressourcer et vous amuser. Il est situé à 2km de l'hippodrome
-      de Santamonica. Confortables et lumineuses, toutes les chambres sont équipées
-      d'un balcon, d'une TV satellite, d'une salle de bain avec douche et sèche-cheveux,
-      d'un téléphone direct et d'une climatisation.</p><p><strong>Les excursions</strong><br>Pour
-      pimenter le séjour, nous proposons quelques excursions à la carte.</p><p>Le
-      package complet des 2 excursions est offert au prix de 60€.<br>Dans un souci
-      d'organisation, nous rendons ces activités obligatoires pour tous.</p><ul><li><p>Excursion
-      à San Marino</p></li><li><p>Parc aquatique Aquafun</p></li></ul><p>Les excursions
-      sont à payer en liquide sur place le jour de l'arrivée.</p><p><strong>Trajets
-      en autocar</strong><br>Le voyage est effectué au autocar de luxe afin de privilégier
-      l’aspect confort et la sécurité matérielle. Deux conducteurs expérimentés assurent
-      le transfert selon la réglementation en vigueur (temps de conduite, arrêts,
-      repos…). Les moniteurs et entraineurs présents lors du voyage assureront l’encadrement
-      des participants.</p>"
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p><strong>Rejoins
+      l'équipe pour un stage de foot exceptionnel en Italie ! Les coaches diplômés
+      et motivés de BDK t'attendent pour vivre des entraînements haut en couleurs.</strong></p><p>Individuel
+      et par équipe, ce perfectionnement va t'aider à travailler ta technique, tes
+      frappes mais également ton jeu individuel et collectif ainsi que ton esprit
+      d'équipe.</p><p>Coaché par des pros, perfectionnes toi, améliores ta coordination
+      et ta condition physique et mets leurs conseils en application lors de petits
+      matchs amicaux.</p><p><strong><em>Au programme du stage</em></strong><br>Deux
+      sessions d'entrainement d'1h30 par jour (sauf jours d'excursions), un le matin
+      et un l'après-midi !</p><ul><li><p>Coaching individuel</p></li><li><p>Perfectionnement
+      des fondamentaux</p></li><li><p>Application en matches</p></li><li><p>Préparation
+      physique</p></li><li><p>Psychomotricité</p></li></ul><p>Ta mission = profiter
+      ! À côté des entraînements intensifs, partage des instants mémorables en compagnie
+      des autres groupes dans un cadre idyllique.</p><p>Profite aussi chaque jour
+      de la plage pour vivre des moments de fun et de détente sous le soleil italien.
+      En bonus : 2 à 3 sorties piscine pour faire le plein de sauts et plongeons !</p><p><strong><em>Le
+      prix comprend</em></strong></p><ul><li><p>7 jours &amp; 6 nuitées sur place
+      !</p></li><li><p>Le logement en chambres multiples 3/4 personnes</p></li><li><p>La
+      pension complète à l'Hôtel Belvedere de Misano Adriatico</p></li><li><p>Les
+      voyages aller-retour de nuit en autocar Grand Tourisme</p></li><li><p>L'encadrement
+      24h/24 par des moniteurs diplômés et expérimentés</p></li><li><p>Les activités
+      sportives et ludiques journalières</p></li></ul><p><strong><em>Excursions supplémentaires</em></strong><br>Pour
+      pimenter ce séjour, quelques excursions à la carte sont proposées. Celles-ci
+      sont organisées par l'Equipe BDK et sont disponibles pour tous les groupes de
+      stages.</p><p>Elles sont proposés pendant des moments de détente pour ne rien
+      manquer :</p><ul><li><p>½ journée de visite à San Marino</p></li><li><p>1 journée
+      au parc Aquatique Aquafan</p></li></ul><p>Dans un souci d'organisation, ces
+      excursions sont obligatoires pour tous. Il faut donc ajouter un budget de 60
+      € au prix du séjour, payable en liquide sur place le jour de l'arrivée.</p><p><strong><em>Logement
+      - Hotel Belvedere Misano Adriatio 3*</em></strong><br>L’hôtel Belvedere Misano
+      Adriatico 3* est un petit hébergement familial, typique trois étoiles, situé
+      à tout juste 150 mètres de la plage. Les chambres doubles, triples ou quadruples
+      sont sobres mais accueillantes et fonctionnelles. Elles sont équipées d'une
+      petite salle de douche, climatisation, TV satellite et coffre-fort. Les jeunes
+      sont répartis en chambres multiples de 3 ou 4 personnes, les filles avec les
+      filles et les garçons avec les garçons de toute évidence ! Le séjour est prévu
+      en pension complète avec eau à table. Tous les repas sont servis directement
+      à table, sauf le petit-déjeuner qui est proposé sous forme de buffet. Les plats
+      typique de Romagne et la cuisine proposée est internationale et de qualité.
+      On s'y sent comme à la maison</p><p><strong><em>Trajets en autocar</em></strong><br>Le
+      voyage est effectué en autocar de luxe afin de privilégier l’aspect confort
+      et la sécurité matérielle. Deux conducteurs expérimentés assurent le transfert
+      selon la réglementation en vigueur (temps de conduite, arrêts, repos…). Les
+      moniteurs et entraineurs présents lors du voyage assureront l’encadrement des
+      participants.</p><p><strong><em>Argent de poche</em></strong><br>Pour plus de
+      sécurité, les coordinateurs récoltent l’argent de poche le jour de l'arrivée
+      afin de le placer dans un coffre. Les enfants pourront le récupérer à tout moment
+      sur simple demande. Le budget est soumis à l'appréciation des parents et est
+      principalement dédié aux souvenirs et au shopping.</p>"
     infos: []
 - name: Mission adrénaline
   categorie: Internat
