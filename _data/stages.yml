@@ -1762,7 +1762,7 @@ stages:
       permettant au moniteur bilingue d'évaluer son niveau et d'avancer sur les objectifs
       demandés par son professeur d'école.</p></li></ul>"
     infos: []
-- name: Basketball
+- name: Basketball Croatie
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-basketball-500x500.jpg"
   online: true
@@ -1771,43 +1771,55 @@ stages:
   activation_onglets: false
   inscription: ''
   location:
-  - alias: Caspoggio
-    ville: Italie
-    age: 10-18 ans
-    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p><strong>C’est
-      au cœur d’un petit village des Alpes italiennes que les stages intensifs de
-      basketball se tiennent maintenant depuis une quinzaine d’années. Encadré par
-      des entraineurs professionnels, progresse de manière fulgurante dans ce centre
-      d’entraînement recherché par les équipes de haut niveau.</strong></p><p>Caspoggio
-      est l’endroit idéal pour des stages de football et basketball grâce à ses infrastructures,
-      son climat agréable en été et ses magnifiques paysages montagneux. <br>Grâce
-      à notre expérience, vis un séjour sportif bien rempli associé à une bonne dose
-      de vacances au grand air !</p><p><strong><em>Au programme du stage</em></strong></p><ul><li><p>Perfectionner
-      les fondamentaux</p></li><li><p>Application en match</p></li><li><p>Travail
-      avec des vidéos</p></li><li><p>Psychomotricité</p></li><li><p>Préparation physique</p></li></ul><p><strong><em>Le
-      prix comprend</em></strong></p><ul><li><p>6 jours &amp; 5 nuitées sur place
-      !</p></li><li><p>La pension complète à l'Hôtel Kennedy</p></li><li><p>Le logement
-      en chambres multiples 3/4 personnes</p></li><li><p>Les voyages aller-retour
-      de nuit en autocar Grand Tourisme</p></li><li><p>L'encadrement 24h/24 par des
-      coaches expérimentés</p></li><li><p>Les activités sportives et ludiques journalières</p></li></ul><p><strong><em>Logement
-      - Hôtel Kennedy 3* (Caspoggio)</em></strong><br>Surplombant la vallée de Valmalenco,
-      l'Hotel Kennedy vous attend à Caspoggio, à 300 mètres de la place de la ville,
-      avec une terrasse bien exposée et un restaurant. Ses chambres comportent une
-      télévision à écran plat. Certaines comprennent une terrasse ou un balcon. Leur
-      salle de bain privative est pourvue d'une baignoire ou d'une douche, d'un bidet,
-      d'un sèche-cheveux et d'articles de toilette offerts. Les jeunes sont répartis
-      en chambres multiples de 3 ou 4 personnes, les filles avec les filles et les
-      garçons avec les garçons de toute évidence ! Le séjour est prévu en pension
-      complète avec eau à table.</p><p><strong><em>Trajets en autocar</em></strong><br>Le
-      voyage est effectué en autocar de luxe afin de privilégier l’aspect confort
-      et la sécurité matérielle. Deux conducteurs expérimentés assurent le transfert
-      selon la réglementation en vigueur (temps de conduite, arrêts, repos…). Les
-      moniteurs et entraineurs présents lors du voyage assureront l’encadrement des
-      participants.</p><p><strong><em>Argent de poche</em></strong><br>Pour plus de
-      sécurité, les coordinateurs récoltent l’argent de poche le jour de l'arrivée
-      afin de le placer dans un coffre. Les enfants pourront le récupérer à tout moment
-      sur simple demande. Le budget est soumis à l'appréciation des parents et est
-      principalement dédié aux souvenirs et au shopping.</p>"
+  - alias: Croatie
+    ville: Croatie
+    age: 8-18 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p><strong>Les
+      coaches de Basketball BDK t'attendent afin de partager avec toi leur passion
+      et leur savoir. Coaching individuel, travail de perfectionnement, matches, etc.</strong></p><p><strong>Un
+      programme de haute qualité à portée de main ! </strong>Si tu es fan de basketball,
+      que tu manges basket, bois basket et respire basket, alors ce stage est fait
+      pour toi !</p><p>Coaché par des professionnels, perfectionnes toi, améliores
+      ta coordination et ta condition physique et mets leurs conseils en application
+      lors de petits matchs amicaux.</p><p><strong><em>Au programme du stage</em></strong></p><p>Deux
+      sessions d'entrainement d'1h30 par jour (sauf jours d'excursions), un le matin
+      et un l'après-midi !</p><ul><li><p>Coaching individuel</p></li><li><p>Perfectionnement
+      des fondamentaux</p></li><li><p>Application en matches</p></li><li><p>Préparation
+      physique</p></li><li><p>Psychomotricité</p></li></ul><p>Ta mission = profiter
+      ! Outre le côté sportif, découvre des paysages plus magiques les uns que les
+      autres lors de nos balades découvertes. Profite aussi chaque jour de la plage
+      pour des moments de fun et de détente.</p><p><strong><em>Le prix comprend</em></strong></p><ul><li><p>7
+      jours &amp; 6 nuitées sur place !</p></li><li><p>La pension complète à l'Hotel
+      Link de Lovran</p></li><li><p>Le logement en chambres multiples 3/4 personnes</p></li><li><p>Les
+      voyages aller-retour de nuit en autocar Grand Tourisme</p></li><li><p>L'encadrement
+      24h/24 par des moniteurs diplômés et expérimentés</p></li><li><p>Les activités
+      sportives et ludiques journalières</p></li></ul><p><strong><em>Excursions supplémentaires</em></strong><br>Pour
+      pimenter le séjour, quelques excursions à la carte sont proposées. Celles-ci
+      sont organisées par l'Equipe BDK et sont disponibles pour tous les groupes de
+      stages.</p><p>Elles sont proposés pendant des moments de détente pour ne rien
+      manquer :</p><ul><li><p>Visite de la ville de Rijeka</p></li><li><p>Excursion
+      d'une demi-journée à l'île de Krk</p></li></ul><p>Dans un souci d'organisation,
+      ces excursions sont obligatoires pour tous. Il faut donc ajouter un budget de
+      50 € au prix du séjour, payable en liquide sur place le jour de l'arrivée.</p><p><strong><em>Logement
+      - L'Hostel Link (Opatija)</em></strong><br>L’Hostel Link est la seule et unique
+      auberge de jeunesse moderne sur la Riviera d'Opatija. Composée de 114 chambres
+      modernes, cette auberge, située à peine à quelques mètres de la plage, vous
+      donne une vue magnifique sur la mer depuis votre chambre. L'Hostel Link n'est
+      qu'à seulement 20 km de la gare routière de Rijeka et à 50km de l'aéroport de
+      Rijeka. Dans un style urbain et moderne, toutes les chambres sont équipées de
+      lits simples ou superposés, d’une salle de douche, d’une TV satellite, du WIFI,
+      d'une climatisation, d'une garde-robe et d'un coffre-fort. Le séjour est prévu
+      en pension complète avec eau à table. Tous les repas sont servis sous forme
+      de buffet.</p><p><strong><em>Trajets en autocar</em></strong><br>Le voyage est
+      effectué en autocar de luxe afin de privilégier l’aspect confort et la sécurité
+      matérielle. Deux conducteurs expérimentés assurent le transfert selon la réglementation
+      en vigueur (temps de conduite, arrêts, repos…). Les moniteurs et entraineurs
+      présents lors du voyage assureront l’encadrement des participants.</p><p><strong><em>Argent
+      de poche</em></strong><br>Pour plus de sécurité, les coordinateurs récoltent
+      l’argent de poche le jour de l'arrivée afin de le placer dans un coffre. Les
+      enfants pourront le récupérer à tout moment sur simple demande. Le budget est
+      soumis à l'appréciation des parents et est principalement dédié aux souvenirs
+      et au shopping.</p>"
     infos: []
 - name: Tennis
   categorie: Internat
