@@ -1209,7 +1209,7 @@ stages:
       abordé de manière ludique afin d'allier football et plaisir.</p><p>La journée
       est répartie en 3 périodes de football et une période de multisports.</p>"
     infos: []
-- name: Football Italie
+- name: 'Football '
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-football-500x500.jpg"
   online: true
@@ -1832,7 +1832,7 @@ stages:
       permettant au moniteur bilingue d'évaluer son niveau et d'avancer sur les objectifs
       demandés par son professeur d'école.</p></li></ul>"
     infos: []
-- name: Basketball Croatie
+- name: 'Basketball '
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-basketball-500x500.jpg"
   online: true
