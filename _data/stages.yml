@@ -2308,7 +2308,7 @@ stages:
     infos: []
 - name: Volley-ball
   categorie: Internat
-  img: ''
+  img: "/assets/images/stage-enfant-internat-espagne-volley-500x500.jpg"
   online: false
   nouveau: true
   stage_une: false
@@ -2318,40 +2318,54 @@ stages:
   - alias: Espagne
     ville: Espagne
     age: 12-18 ans
-    description: <p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Rejoins
-      notre équipe sur le terrain pour vivre une semaine d'entrainement hors du commun
-      ! Chaque jour, bénéficie d'un coaching personnalisé encadré par des entraîneurs
-      de la FVWB. Performance et technique sont les maîtres-mots de cette semaine
-      ensoleillée.</p><p><strong>Encadrement</strong><br>L’encadrement est assuré
-      24h/24 par le staff de moniteurs de BDK.</p><p><strong>Logement - RV Hotels
-      Nautic Park 4* (Platja d’Aro)</strong><br>L’hôtel Nautic Park**** est de construction
-      récente et très moderne. Il dispose de 141 chambres réparties sur 4 étages.
-      Cet hôtel à la luminosité parfaite est situé dans le quartier calme du port
-      de plaisance, à 5 minutes de la plage et à 15 minutes du centre-ville. L’établissement
-      à l’architecture contemporaine possède de grands salons, un bar intérieur et
-      extérieur et une grande piscine. Confortables et lumineuses, toutes les chambres
-      sont équipées d’un balcon, d’une salle de bain complète avec sèche-cheveux,
-      d’une TV satellite, d’un téléphone, de la climatisation, d’un coffre-fort et
-      d'un frigo. Le séjour est prévu en pension complète avec eau à table. Tous les
-      repas sont servis sous forme de buffets avec show-cooking.</p><p><strong>Les
-      excursions</strong><br>Pour pimenter le séjour, nous proposons quelques excursions
-      à la carte. Celles-ci sont organisées par nos soins et sont disponibles pour
-      tous les groupes de stages et pour toutes les dates de séjours.</p><p>Le package
-      complet des 4 excursions t'est offert au prix de 125,00 € au lieu de 130,00
-      €.</p><ul><li><p>Sortie en bâteau et snorkeling (40€)</p></li><li><p>Visite
-      de Barcelone (30€)</p></li><li><p>Bowling (10€)</p></li><li><p>Parcs aquatiques
-      Waterworld et Aquadiver (50€)</p></li></ul><p>Dans un souci d'organisation pratique,
-      nous rendons <strong>obligatoire</strong> l'excursion "Parcs aquatiques". Les
-      stagiaires bénéficieront d'une après-midi à Aquadiver le jour de leur arrivée
-      et une journée au parc aquatique "Waterworld" le jour du départ.</p><p>Les excursions
-      sont à payer en liquide sur place le jour de l'arrivée.</p><p>Si tu n'y participes
-      pas, pas de panique ! D'autres activités gratuites te seront proposées (plage,
-      piscine, jeux, balades, ...).</p><p><strong>Trajets en autocar</strong><br>Le
-      voyage est effectué en autocar de luxe afin de privilégier l’aspect confort
-      et la sécurité matérielle. Deux conducteurs expérimentés assurent le transfert
-      selon la réglementation en vigueur (temps de conduite, arrêts, repos…). Les
-      moniteurs et entraineurs présents lors du voyage assureront l’encadrement des
-      participants.</p>
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p><strong>Tu
+      es passionné(e) par le volley-ball ? </strong>Ce stage est conçu spécialement
+      pour toi ! Rejoins notre équipe sur le terrain pour vivre une semaine d'entrainement
+      hors du commun ! Chaque jour, bénéficie d'un coaching personnalisé encadré par
+      des entraîneurs de la FVWB. Performance et technique sont les maîtres-mots de
+      cette semaine ensoleillée. Progresse rapidement dans ta discipline favorite.
+      Ponctuée d'entrainements en salle, cette semaine de stage te permettra également
+      de découvrir le beach-volley dans les magnifiques criques de la Costa Brava.</p><p>En
+      participant à ce stage, bénéficie d'un remboursement de <strong>45 € offert
+      par la Fédération Volley Wallonie-Bruxelles </strong>(FVWB) uniquement si tu
+      y es affilié(e) !</p><p><strong><em>Le prix comprend</em></strong></p><ul><li><p>7
+      jours &amp; 6 nuitées sur place !</p></li><li><p>Le logement en chambres multiples
+      3/4 personnes</p></li><li><p>La pension complète à l'Hôtel RV Nautic Park ****</p></li><li><p>Les
+      voyages aller-retour de nuit en autocar Grand Tourisme</p></li><li><p>L'encadrement
+      24h/24 par des moniteurs diplômés et expérimentés</p></li><li><p>Les activités
+      sportives et ludiques journalières</p></li></ul><p><strong><em>Excursions à
+      la carte</em></strong><br>Pour pimenter ce séjour, quelques excursions à la
+      carte sont proposées. Celles-ci sont organisées par l'Equipe BDK et sont disponibles
+      pour tous les groupes de stages.</p><p>Le package complet des 4 excursions t'est
+      offert au prix de 100,00 € au lieu de 105,00 €.</p><p>Elles sont proposées pendant
+      des moments de détente pour ne rien manquer :</p><ul><li><p>Bowling (10€)</p></li><li><p>Banane
+      de mer (15€)</p></li><li><p>Visite de Barcelone (30€)</p></li><li><p>Parcs aquatiques
+      Waterworld et Aquadiver (50€)</p></li></ul><p>Celles-ci sont payables en liquide
+      sur place le jour de l'arrivée.</p><p>Dans un souci d'organisation, les excursions
+      aux parcs aquatiques sont obligatoires. Les participants bénéficieront d'une
+      après-midi à Aquadiver le jour de l'arrivée et une journée complète au parc
+      aquatique Waterworld le jour du départ (repas midi &amp; soir inclus).</p><p><strong><em>Logement
+      - RV Hotels Nautic Park 4* (Platja d’Aro)</em></strong><br>L’hôtel Nautic Park****
+      est de construction récente et très moderne. Il dispose de 141 chambres réparties
+      sur 4 étages. Cet hôtel à la luminosité parfaite est situé dans le quartier
+      calme du port de plaisance, à 5 minutes de la plage et à 15 minutes du centre-ville.
+      L’établissement à l’architecture contemporaine possède de grands salons, un
+      bar intérieur et extérieur et une grande piscine. Confortables et lumineuses,
+      toutes les chambres sont équipées d’un balcon, d’une salle de bain complète
+      avec sèche-cheveux, d’une TV satellite, d’un téléphone, de la climatisation,
+      d’un coffre-fort et d'un frigo. Les jeunes sont répartis en chambres multiples
+      de 3 ou 4 personnes, les filles avec les filles et les garçons avec les garçons
+      de toute évidence ! Le séjour est prévu en pension complète avec eau à table.
+      Tous les repas sont servis sous forme de buffets avec show-cooking.</p><p><strong><em>Trajets
+      en autocar</em></strong><br>Le voyage est effectué en autocar de luxe afin de
+      privilégier l’aspect confort et la sécurité matérielle. Deux conducteurs expérimentés
+      assurent le transfert selon la réglementation en vigueur (temps de conduite,
+      arrêts, repos…). Les moniteurs et entraineurs présents lors du voyage assureront
+      l’encadrement des participants.</p><p><strong><em>Argent de poche</em></strong><br>Pour
+      plus de sécurité, les coordinateurs récoltent l’argent de poche le jour de l'arrivée
+      afin de le placer dans un coffre. Les enfants pourront le récupérer à tout moment
+      sur simple demande. Le budget est soumis à l'appréciation des parents et est
+      principalement dédié aux souvenirs et au shopping.</p>"
     infos: []
 - name: Vacances Jeunes
   categorie: Internat
