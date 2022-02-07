@@ -6128,8 +6128,8 @@ stages:
       plan.</em></p>"
     infos:
     - alias: Garderie
-      info_line: Attention, la garderie du soir s'effectue au Centre Sportif de Jette.
-        Pas de garderie le matin pour ce stage. Accueil à partir de 8h30.
+      info_line: Garderie le matin à partir de 8h00. Attention, la garderie du soir
+        s'effectue au Centre Sportif de Jette.
   activation_onglets: true
 - name: Dance For You
   img: "/assets/images/stages/danseetgymnastique/danceforyou.png"
@@ -7232,8 +7232,8 @@ stages:
       mental sans pour autant mettre la violence au premier plan.</em></p>"
     infos:
     - alias: Garderie
-      info_line: Attention, la garderie du soir s'effectue au Centre Sportif de Jette.
-        Pas de garderie le matin pour ce stage. Accueil à partir de 8h30.
+      info_line: Garderie le matin à partir de 8h00. Attention, la garderie du soir
+        s'effectue au Centre Sportif de Jette.
   activation_onglets: true
 - name: Mini-Foot
   img: "/assets/images/stages/activitessportives/minifoot.png"
