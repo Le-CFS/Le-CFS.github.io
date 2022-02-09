@@ -6103,7 +6103,7 @@ stages:
         long obligatoire.
   activation_onglets: true
 - name: Krav Maga Découverte
-  img: "/assets/images/stages/decouvertesportiveetculturelle/kravmagadecouverte.png"
+  img: "/assets/images/stages-enfants-krav-maga-500x500.jpg"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
@@ -7208,7 +7208,7 @@ stages:
       info_line: ''
   activation_onglets: true
 - name: Krav Maga
-  img: "/assets/images/stage-enfant-krav-maga-500x500.jpg"
+  img: "/assets/images/stages-enfants-krav-maga-500x500.jpg"
   inscription: ''
   categorie: Activités sportives
   online: true
