@@ -15,15 +15,26 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: html
-- type: jekyll-posts
-  label: News
-  create: all
 - type: directory
   path: _data
   label: Fichiers de données
   create: documents
   match: "**/*"
   new_doc_ext: yml
+- type: directory
+  path: news/_posts
+  label: News
+  create: all
+  match: "**/*"
+  templates:
+  - news
+- type: directory
+  path: jobs/_posts
+  label: Jobs
+  create: all
+  match: "**/*"
+  templates:
+  - jobs
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
