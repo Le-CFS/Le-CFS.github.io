@@ -1,0 +1,30 @@
+---
+label: PAGE Jobs
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: file
+  name: banner
+  label: banner
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: description
+  label: description
+- type: text
+  name: image
+  label: image
+- type: text
+  name: message
+  label: message
+- type: boolean
+  name: menu
+  label: menu
+  hidden: true
