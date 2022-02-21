@@ -252,9 +252,6 @@ brochures:
     url: "/brochures/anniversaires/"
   - title: Journées sportives
     url: "/brochures/journees_sportives/"
-jobs:
-  titre: JOBS
-  url: "/jobs/"
 contact:
   titre: Contact
   url: "/contact/"
