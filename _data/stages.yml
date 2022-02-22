@@ -29,6 +29,20 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Cluedo Nature & Géocatching
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: ''
+    ville: Brabant Wallon
+    age: ''
+    description: ''
+    infos: []
 - name: A vos Etriers !
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-equitation-500x500.jpg"
@@ -38,8 +52,8 @@ stages:
   activation_onglets: false
   inscription: ''
   location:
-  - alias: Marbehan
-    ville: Brabant Wallon
+  - alias: Hatrival
+    ville: Hatrival
     age: 6-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Venez
       découvrir nos activités équestres dans un endroit apaisant, verdoyant et également
