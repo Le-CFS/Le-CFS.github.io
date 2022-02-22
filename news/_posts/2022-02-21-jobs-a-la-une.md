@@ -15,12 +15,12 @@ image: "/assets/images/recrutement.jpg"
 ---
 #### **Le CFS recrute !**
 
-**Rejoins-nous !   
-**Le CFS Créé en **1981**, le CFS propose des stages **sportifs** et **culturels** pour les enfants et les jeunes de **2,5 ans à 16 ans.** Fort de son expérience, le CFS a développé une large palette d’activités qu’il propose durant l’année scolaire et les vacances sur les régions du **Brabant Wallon**, de **Bruxelles** et de **Liège**.
+\**Rejoins-nous !  
+\**Le CFS Créé en **1981**, le CFS propose des stages **sportifs** et **culturels** pour les enfants et les jeunes de **2,5 ans à 16 ans.** Fort de son expérience, le CFS a développé une large palette d’activités qu’il propose durant l’année scolaire et les vacances sur les régions du **Brabant Wallon**, de **Bruxelles** et de **Liège**.
 
 D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et des **évènements sportifs** pour les **écoles**.
 
-**_RECHERCHE :_** 
+**_RECHERCHE :_**
 
 ![](/assets/images/robotique-1.jpg "Recrutement robotique")
 
@@ -28,7 +28,7 @@ D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et
 
 Le CFS Centre de Formation Sportive est à la recherche d’un(e) **animateur(trice) pour de la robotique.**
 
-**FONCTION** 
+**FONCTION**
 
 • Vous êtes animateur(trice) d’ateliers de robotique dans le centre CFS dans le Brabant Wallon principalement.
 
@@ -89,9 +89,9 @@ o Co-coordinateur anniversaires et évènements ;
 o Stages de vacances (ROP : coordinateur)
 
       • Coordination de la préparation et du rangement du matériel
-
+    
       • Coordination au niveau contact clientèle
-
+    
       • Coordonner diverses tâches administratives (rappels de payements, prise de présence, etc.)
 
 **PROFIL RECHERCHE**
@@ -110,9 +110,11 @@ o L’obtention d'un BSSA (Brevet Supérieur de Sauvetage Aquatique) est un plus
 
 o  Tu as les épaules pour être coordinateur au sein d’une équipe jeune et dynamique
 
+o  Tu es disponible le samedi
+
 **OFFRE**
 
-Le CFS te propose **un CDD jusqu’au 31 août 2022** au sein d’une association en pleine expansion. Possibilité de CDI par la suite.   
+Le CFS te propose **un CDD jusqu’au 31 août 2022** au sein d’une association en pleine expansion. Possibilité de CDI par la suite.  
 _👉 CV et lettre de motivation à envoyer à_ [_morgane@lecfs.be_](mailto:morgane@lecfs.be)
 
 **_RECHERCHE :_**
