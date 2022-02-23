@@ -12,6 +12,9 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
+- titre: Inscription Last Minute sans surcoût !
+  src: "/assets/images/lastminute-stage-sansurcout.jpg"
+  href: https://www.lecfs.be/news/2022/02/23/stages-last-minute
 - titre: Stages Carnaval & Pâques
   src: "/assets/images/carnaval_paques22.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
