@@ -49,3 +49,5 @@ fields:
   config: {}
   template: seo
   label: SEO
+pages:
+- news/_posts/stages-last-minute.md
