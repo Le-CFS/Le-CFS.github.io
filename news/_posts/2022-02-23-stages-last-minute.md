@@ -27,7 +27,7 @@ image: "/assets/images/sansurcout.jpg"
 
 • Drônes & Laser
 
-• Baby danse
+• Baby Danse
 
 • Psycho Grimpette
 
