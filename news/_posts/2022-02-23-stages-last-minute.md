@@ -17,7 +17,7 @@ image: "/assets/images/sansurcout.jpg"
 ---
 ### Stages Last Minute ⭐
 
-🔥 Profitez des dernières places disponibles **« sans surcoût » :**
+🔥 Profitez des dernières places disponibles  **« sans surcoût » :**
 
 • Aventure
 
@@ -27,9 +27,9 @@ image: "/assets/images/sansurcout.jpg"
 
 • Drônes & Laser
 
-• Baby
+• Baby danse
 
-• Psycho Sports
+• Psycho Grimpette
 
 • Escalade
 
