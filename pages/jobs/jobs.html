@@ -13,6 +13,7 @@ menu: true
 {% if site.categories.jobs.size > 1 %}
 
     {% for post in site.categories.jobs %}
+      {% if post.online %}
       <div class="blog-block post-content-area">
           {% if post.img %}
             <!-- #TODO -->
@@ -44,6 +45,7 @@ menu: true
 
         </div>
       <div class="mb-60"></div>
+      {% endif %}
     {% endfor %}
 
 {% else %}

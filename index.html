@@ -12,6 +12,10 @@ image: /assets/images/logo.png
 
 {% include accueil/news.html %}
 
+{% if site.categories.jobs.size > 1 %}
+  {% include accueil/jobs.html %}
+{% endif %}
+
 <div class="mb-60"></div>
 
 {% include accueil/selection.html %}
