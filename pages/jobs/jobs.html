@@ -7,17 +7,17 @@ description: Parcourez les dernières offres d'emploi liées à l'ASBL CFS, à s
   et à ses activités.
 image: ''
 message: Il n'y a pas d'offre pour le moment.
-menu: true
 
 ---
-{% if site.categories.jobs.size > 1 %}
+{% assign count = 0 %}
+
+{% assign count = site.categories.jobs | where: "online", "true" | size %}
+
+{% if count > 0 %}
 
     {% for post in site.categories.jobs %}
       {% if post.online %}
-      <div class="blog-block post-content-area">
-          {% if post.img %}
-            <!-- #TODO -->
-          {% endif %}	  
+      <div class="blog-block post-content-area">  
           <div class="blog-post">
             
             <div class="row">

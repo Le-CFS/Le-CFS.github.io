@@ -55,6 +55,16 @@
   padding-bottom: 1px;
 }
 
+@media (min-width: 768px) {
+  .navbar-toggleable-sm .navbar-nav .nav-link {
+      padding-left: 0;
+  }
+}
+
+.menu-principal {
+  list-style: none;
+}
+
 </style>
 
 {% assign mycfs = site.data.accueil.mycfs %}
@@ -75,18 +85,7 @@
         </div>
       </div>
 </div>
-<style>
-@media (min-width: 1200px){}
-  .container {
-      width: 1200px;
-  }
-}
-@media (min-width: 1400px){}
-  .container {
-      width: 1400px;
-  }
-}
-</style>
+
 <!-- Menu principal -->
 <div class="desktop">
 <nav class="navbar navbar-toggleable-sm navbar-light bg-default">
@@ -170,7 +169,7 @@
     {% for menu1 in menu_principal %}
     <!-- Si le menu principal a un sous menu -->
     {% if menu1[1]["sousmenu"] %}
-    <li class="nav-item">
+    <li class="nav-item menu-principal">
         <a class="nav-link nav-link-toggle collapsed nav-link-menu" href="#submenu{{menu1_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}"> {{ menu1[1]["titre"] }}</a>
         <div class="collapse" id="submenu{{menu1_index}}" aria-expanded="false">
             <ul class="flex-column pl-2 nav">
@@ -239,7 +238,7 @@
     </li>
     {% else %}
       {% unless menu1[1]["online_mobile"] == false %} <!-- Si le menu principal doit être affiché en version mobile -->
-        <li class="nav-item"><a class="nav-link" href='{{ menu1[1]["url"] }}' style=""> {{ menu1[1]["titre"] }}</a></li>
+        <li class="nav-item menu-principal"><a class="nav-link" href='{{ menu1[1]["url"] }}' style=""> {{ menu1[1]["titre"] }}</a></li>
       {% endunless %}
     {% endif %}
     {% assign menu1_index = menu1_index | plus: 1 %}
