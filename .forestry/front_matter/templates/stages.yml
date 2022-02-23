@@ -87,6 +87,8 @@ fields:
         - Italie
         - Hatrival
         - Oostduinkerke
+        - Marbehan
+        - Marche-en-Famenne
         source:
           type: simple
           section: 
