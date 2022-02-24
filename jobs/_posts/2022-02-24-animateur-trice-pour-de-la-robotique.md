@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: 'post'
 online: true
 title: Animateur(trice) pour de la robotique
 banner: "/assets/images/job_robotique.jpg"
