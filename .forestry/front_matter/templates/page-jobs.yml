@@ -21,8 +21,14 @@ fields:
 - type: text
   name: image
   label: image
-- type: text
-  name: message
+- name: message
+  type: textarea
+  default: Il n'y a pas d'offre pour le moment.
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
   label: message
 - type: boolean
   name: menu
