@@ -15,12 +15,6 @@ fields:
 - type: text
   name: permalink
   label: permalink
-- type: text
-  name: description
-  label: description
-- type: text
-  name: image
-  label: image
 - name: message
   type: textarea
   default: Il n'y a pas d'offre pour le moment.
