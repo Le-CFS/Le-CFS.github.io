@@ -34,5 +34,10 @@ fields:
   name: menu
   label: menu
   hidden: true
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
 pages:
 - pages/jobs/jobs.html
