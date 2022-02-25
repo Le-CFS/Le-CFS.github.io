@@ -29,7 +29,7 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  label: message
+  label: message si aucune offre
 - type: boolean
   name: menu
   label: menu
