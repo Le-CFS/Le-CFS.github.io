@@ -29,6 +29,46 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Le Triangle des Bermudes
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Hatrival
+    ville: Hatrival
+    age: 6-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Ta
+      boussole s’affole durant ce stage d’orientation éclaboussant ! Durant toute
+      la semaine, deux équipes s’affronteront pour construire la plus belle des cabanes
+      pour s’abriter dans la nature. Participe aux missions dans la boue, Allume un
+      feu de camp, améliore ton confort, et participe à nos grands jeux d’extérieur.
+      Découvre la zone de sable pour t’essayer à des sports aussi drôles que passionnants
+      tels que le Beach soccer, le Beach volley, le mort à vie à, le racket Ball et
+      les autres spécificités « made in playa ». Profite pleinement de l’esprit camp
+      de vacances en partageant avec tes amis un <strong><em>barbecue lors d’une balade
+      en calèche.</em></strong></p><p><strong><em>Accueil et départ</em></strong><br>À
+      Hatrival &amp; Marbehan, les arrivées ont lieu le dimanche soir, à partir de
+      19h00 (les enfants doivent avoir soupé !). Les départs ont lieu le vendredi
+      entre 17h00 à 18h00 au plus tard.</p><p><strong><em>Repas, collations et boissons</em></strong><br>Les
+      enfant doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour,
+      ils profiteront d'un petit déjeuner, d'une collation, d'un repas chaud ainsi
+      qu'un repas froid/tartines chaque jour. Bien sûr, vous pouvez prévoir des petits
+      en-cas à mettre dans la valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong><em>Participation
+      à nos séjours en internat</em></strong><br>Si votre enfant est inscrit à l’un
+      de nos séjours en internat en Belgique, nous vous demandons de respecter ces
+      quelques règles particulières :</p><ul><li><p>Il vous est demandé de respecter
+      les horaires qui vous sont communiqués via les mails de confirmation d’inscription
+      à nos stages.</p></li><li><p>Il est important de prévoir des draps pour la literie
+      ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement de base
+      pour la semaine : le nécessaire de toilette (essuies de bain, gants de toilettes,
+      savon, brosse à dents, dentifrice, etc.), pyjama et pantoufles, maillot et essuie
+      de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
+      chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
+    infos: []
 - name: 'Koh Lanta : L''Immersion'
   categorie: Internat
   img: ''
