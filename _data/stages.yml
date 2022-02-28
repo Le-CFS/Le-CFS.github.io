@@ -677,7 +677,7 @@ stages:
   inscription: ''
   location:
   - alias: Marbehan
-    ville: Brabant Wallon
+    ville: Marbehan
     age: 6-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Viens
       découvrir et observer les bêbêtes grâce à l’initiation aux techniques d’observation,
@@ -718,7 +718,7 @@ stages:
   inscription: ''
   location:
   - alias: Marbehan
-    ville: Brabant Wallon
+    ville: Marbehan
     age: 6-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Sais-tu
       comment faire du feu ou construire son abri de fortune ? Plonge dans l’univers
@@ -760,7 +760,7 @@ stages:
   inscription: ''
   location:
   - alias: Marbehan
-    ville: Brabant Wallon
+    ville: Marbehan
     age: 12-17 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Entre
       le high-tech et le retour aux techniques de survie « fait maison », viens te
@@ -806,7 +806,7 @@ stages:
   inscription: ''
   location:
   - alias: Marbehan
-    ville: Brabant Wallon
+    ville: Marbehan
     age: 6-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Pars
       en randonnées à la découverte d’endroits magiques entre l’Ardenne et la Gaume.
@@ -842,7 +842,7 @@ stages:
   inscription: ''
   location:
   - alias: Marbehan
-    ville: Brabant Wallon
+    ville: Marbehan
     age: 6-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Tu
       seras plongé dans à nos jeux géants : Cluedo, Escape Game, Le loup garou et
@@ -870,7 +870,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Art'Attack
+- name: Art Attack
   categorie: Internat
   img: "/assets/images/activites_parascolaires_multisports_creativite.jpg"
   online: true
@@ -880,7 +880,7 @@ stages:
   inscription: ''
   location:
   - alias: Marbehan
-    ville: Brabant Wallon
+    ville: Marbehan
     age: 6-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Tu
       vas être plongé dans un atelier d’art créatif sur le thème de la nature. Montre-nous
