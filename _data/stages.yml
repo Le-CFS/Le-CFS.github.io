@@ -29,6 +29,49 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Koh Lanta L'Expérience Ultime
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Marbehan
+    ville: Marbehan
+    age: 6-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Vivre
+      l’expérience Koh Lanta avec nuitée c’est plonger en immersion dans l’aventure
+      ultime ! Comme le célèbre jeu télévisé, choisis ton équipe. Qui ira jusqu’à
+      l’épreuve ultime ?</p><p>Dès ton arrivée, lance-toi dans une course épique dans
+      la boue, survole les obstacles et reconstitue tous les détails pour résoudre
+      les énigmes. Deviens le capitaine de l’équipe rouge ou de l’équipe jaune. En
+      équipe ou en solo, qui sera capable de gagner le Totem, de retrouver les colliers
+      d’immunité, de survivre aux conseils des flambeaux et de finir victorieux sur
+      l’épreuve des poteaux ? <strong>Profite également de deux journées avec notre
+      professionnel de la nature, Saber Fatalis. </strong>Tu<strong> </strong>apprendras
+      à te déplacer, te couvrir, te protéger, mais aussi te nourrir en pleine nature
+      grâce à ses conseils de survie. Apprend également à allumer le feu comme dans
+      l’émission télévisée.</p><p><strong><em>Accueil et départ</em></strong><br>À
+      Hatrival &amp; Marbehan, les arrivées ont lieu le dimanche soir, à partir de
+      19h00 (les enfants doivent avoir soupé !). Les départs ont lieu le vendredi
+      entre 17h00 à 18h00 au plus tard.</p><p><strong><em>Repas, collations et boissons</em></strong><br>Les
+      enfants doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour,
+      ils profiteront d'un petit déjeuner, d'une collation, d'un repas chaud ainsi
+      qu'un repas froid/tartines chaque jour. Bien sûr, vous pouvez prévoir des petits
+      en-cas à mettre dans la valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong><em>Participation
+      à nos séjours en internat</em></strong><br>Si votre enfant est inscrit à l’un
+      de nos séjours en internat en Belgique, nous vous demandons de respecter ces
+      quelques règles particulières :</p><ul><li><p>Il vous est demandé de respecter
+      les horaires qui vous sont communiqués via les mails de confirmation d’inscription
+      à nos stages.</p></li><li><p>Il est important de prévoir des draps pour la literie
+      ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement de base
+      pour la semaine : le nécessaire de toilette (essuies de bain, gants de toilettes,
+      savon, brosse à dents, dentifrice, etc.), pyjama et pantoufles, maillot et essuie
+      de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
+      chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
+    infos: []
 - name: Escape Game - Jumanji
   categorie: Internat
   img: ''
