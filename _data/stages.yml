@@ -29,6 +29,81 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Escape Game - Jumanji
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Marbehan
+    ville: Marbehan
+    age: 6-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Pourras-tu
+      t’échapper de la Jungle hostile et sauvage de Jumanji ? Si le monde sauvage
+      ne t’effraie pas et que l’aventure t’appelle, ce stage est fait pour toi. Relève
+      les défis et résous les énigmes pour avancer dans l’aventure. Tu seras plongé
+      durant toute la semaine dans un grand Escape Game version aventure. Tu découvriras
+      les animaux de la forêt et tous les ruisseaux qui entourent ton hébergement.
+      Viens t’amuser en équipe grâce à nos grands jeux nature.</p><p><strong><em>Accueil
+      et départ</em></strong><br>À Hatrival &amp; Marbehan, les arrivées ont lieu
+      le dimanche soir, à partir de 19h00 (les enfants doivent avoir soupé !). Les
+      départs ont lieu le vendredi entre 17h00 à 18h00 au plus tard.</p><p><strong><em>Repas,
+      collations et boissons</em></strong><br>Les enfants doivent avoir soupé avant
+      d'arriver au stage. Pendant tout le séjour, ils profiteront d'un petit déjeuner,
+      d'une collation, d'un repas chaud ainsi qu'un repas froid/tartines chaque jour.
+      Bien sûr, vous pouvez prévoir des petits en-cas à mettre dans la valise de votre
+      enfant mais ce n'est pas nécessaire.</p><p><strong><em>Participation à nos séjours
+      en internat</em></strong><br>Si votre enfant est inscrit à l’un de nos séjours
+      en internat en Belgique, nous vous demandons de respecter ces quelques règles
+      particulières :</p><ul><li><p>Il vous est demandé de respecter les horaires
+      qui vous sont communiqués via les mails de confirmation d’inscription à nos
+      stages.</p></li><li><p>Il est important de prévoir des draps pour la literie
+      ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement de base
+      pour la semaine : le nécessaire de toilette (essuies de bain, gants de toilettes,
+      savon, brosse à dents, dentifrice, etc.), pyjama et pantoufles, maillot et essuie
+      de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
+      chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
+    infos: []
+- name: A vos Crayons
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Marbehan
+    ville: Marbehan
+    age: 6-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Laisse
+      libre cours à ton imagination pendant ce stage haut en couleur. Epanouis-toi
+      en créant de somptueuses œuvres d’art à l’aide des techniques de la gouache,
+      de l’aquarelle, des pastels et du fusain. Aborde la technique du papier mâché
+      et maitrise l’art du maquillage et des effets spéciaux en latex. Tout un programme
+      artistique et rigolo pour les amateurs et les passionnés d’art plastique. Un
+      voyage coloré riche en créativité.</p><p><strong><em>Accueil et départ</em></strong><br>À
+      Hatrival &amp; Marbehan, les arrivées ont lieu le dimanche soir, à partir de
+      19h00 (les enfants doivent avoir soupé !). Les départs ont lieu le vendredi
+      entre 17h00 à 18h00 au plus tard.</p><p><strong><em>Repas, collations et boissons</em></strong><br>Les
+      enfants doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour,
+      ils profiteront d'un petit déjeuner, d'une collation, d'un repas chaud ainsi
+      qu'un repas froid/tartines chaque jour. Bien sûr, vous pouvez prévoir des petits
+      en-cas à mettre dans la valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong><em>Participation
+      à nos séjours en internat</em></strong><br>Si votre enfant est inscrit à l’un
+      de nos séjours en internat en Belgique, nous vous demandons de respecter ces
+      quelques règles particulières :</p><ul><li><p>Il vous est demandé de respecter
+      les horaires qui vous sont communiqués via les mails de confirmation d’inscription
+      à nos stages.</p></li><li><p>Il est important de prévoir des draps pour la literie
+      ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement de base
+      pour la semaine : le nécessaire de toilette (essuies de bain, gants de toilettes,
+      savon, brosse à dents, dentifrice, etc.), pyjama et pantoufles, maillot et essuie
+      de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
+      chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
+    infos: []
 - name: Tous en Selle
   categorie: Internat
   img: ''
