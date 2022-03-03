@@ -29,6 +29,75 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Cinéma, Court Métrage
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Oostduinkerke
+    ville: Oostduinkerke
+    age: 12-17 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p><strong>Cet
+      été 2022, BDK fait son cinéma !</strong></p><p>C'est le stage cinématographique
+      dédié aux ados âgés de 12 à 18 ans en totale immersion dans le monde du cinéma.</p><p>Viens
+      t'amuser, t'exprimer et échanger en équipe. Le cœur du projet : la créativité.</p><p>Découvre
+      tous les métiers du cinéma de l'écriture au tournage et du montage à la projection.
+      Profite d'un tas de conseils et astuces pour te mettre en valeur et te sentir
+      à l’aise dans toutes les séquences suggérées par le réalisateur. Laisse-toi
+      aller face à la caméra !</p><p><strong><em>Au programme</em></strong><br>Dans
+      un groupe de maximum 12 ados, viens découvrir tout l’univers du cinéma : scénarios,
+      castings, tournages, montages, etc. Lors de ce stage, tu participeras de manière
+      active à toutes les étapes techniques mais aussi artistiques de la réalisation
+      d'un court-métrage.</p><ul><li><p>Choix du thème du film</p></li><li><p>Écriture
+      d'un scénario</p></li><li><p>Tournage, découpage, montage</p></li><li><p>Enregistrement
+      des voix off</p></li><li><p>Aspects techniques d'une caméra</p></li><li><p>Réflexion
+      sur les médias</p></li></ul><p><strong><em>Tes objectifs </em></strong><br>Lors
+      de ce stage, tu vivras une superbe expérience tissée de liens forts créés grâce
+      au partage d'idées, de difficultés et de réussites. Une ultime présentation
+      des travaux, des tournages et des scènes jouées durant la semaine sera présentée
+      aux autres vacanciers.</p><ul><li><p>Développer ton sens des responsabilités
+      et ton autonomie</p></li><li><p>Prendre conscience de ton image et acquérir
+      de la confiance en toi</p></li><li><p>Apprendre les fondamentaux du maniement
+      de la caméra et du son</p></li><li><p>Apprendre à travailler en équipe et collaborer
+      sur un projet</p></li><li><p>Élaborer et construire les différentes étapes d’un
+      film</p></li><li><p>Présenter en public ton projet finalisé</p></li></ul><p><strong><em>Transport</em></strong><br>Le
+      prix du stage comprend le trajet en autocar aller-retour. Aucune réduction ne
+      sera octroyée pour ceux souhaitant venir par leurs propres moyens. N'oubliez
+      pas de mentionner les lieux de départ et de retour dans le formulaire d'inscription.</p><p><strong><em>Matériel
+      à prévoir</em></strong><br>Sac de couchage + drap housse - Oreiller avec taie
+      - Essuie de douche - Nécessaire de toilette - Vêtements adaptés à la météo (variable)
+      - Tenues légère et sportive (short, t-shirt, etc... ) - Pyjama et pantoufles
+      - Bottines de marche - Baskets de sport - Tongue ou claquette -...</p><p>Aucun
+      matériel n'est à prévoir hormis une tenue adaptée pour monter à cheval (bottes
+      ou bottines, jogging ou legging). Le centre équestre fournira à chaque enfant
+      une bombe. Toutefois, si votre enfant dispose déjà de son propre matériel, pour
+      son propre confort, il est invité à l'emporter avec lui.</p><p><strong><em>Accueil
+      et départ</em></strong><br>Les arrivées ont lieu le samedi soir, entre 19h30
+      et 20h00 (les enfants doivent avoir soupé !) et les départs se font le samedi
+      suivant entre 9h30 et 10h30 le matin.</p><p><strong><em>Repas, collations et
+      boissons</em></strong><br>Les enfant doivent avoir soupé avant d'arriver au
+      stage. Pendant tout le séjour, ils profiteront d'un petit déjeuner, d'une collation,
+      d'un repas chaud ainsi qu'un repas froid/tartines chaque jour. Bien sûr vous
+      pouvez prévoir des petits encas à mettre dans la valise de votre enfant mais
+      ce n'est pas nécessaire.</p><p><strong><em>Participation à nos séjours en internat</em></strong><br>Quelques
+      règles particulières sont à respecter :</p><ul><li><p>Il vous est demandé de
+      respecter les horaires qui vous sont communiqués via les mails de confirmation
+      d’inscription à nos stages.</p></li><li><p>Il est important de prévoir des draps
+      pour la literie ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement
+      de base pour la semaine : le nécessaire de toilette (essuies de bain, gants
+      de toilettes, savon, brosse à dent, dentifrice, etc.), pyjama et pantoufles,
+      maillot et essuie de piscine pour les jeux d'eau, sous-vêtements et habits pour
+      chaque jour, vêtements chauds pour le soir, vêtements de sport et vêtement de
+      pluie.</p></li><li><p>Pour le stage d'Equitation : aucun matériel n'est à prévoir
+      hormis une tenue adaptée pour monter à cheval (bottes ou bottines, jogging ou
+      legging). Le centre équestre fournira à chaque enfant une bombe. Toutefois,
+      si votre enfant dispose déjà de son propre matériel, pour son propre confort,
+      il est invité à l'emporter avec lui.</p></li></ul>"
+    infos: []
 - name: Capsules Vidéos
   categorie: Internat
   img: ''
