@@ -38,7 +38,7 @@ stages:
   activation_onglets: false
   inscription: ''
   location:
-  - alias: Marche-En-Famenne
+  - alias: Marche-en-Famenne
     ville: Marche-en-Famenne
     age: 7-12 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>C’est
