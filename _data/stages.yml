@@ -29,6 +29,46 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Tireur d'Elite
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Marbehan
+    ville: Marbehan
+    age: 6-15 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>L’expérience
+      fraicheur de l’été ! Affronte tes amis dans l’incroyable bataille d’eau à l’aide
+      d’un pistolet dernier cri. Entraine-toi à être précis pour être un parfait tireur
+      d’élite. Crée ton camp de base et tes protections pour ne pas être touché. Une
+      semaine d’aventure où tu devras apprendre à te camoufler, apprendre à être discret
+      et à créer des jeux de rôles super marrants. Participe à deux demi-journées
+      de Laser Game et/ou Archery Tag, comme dans la série Arrow, deviens un archer
+      expérimenté et défie tes amies. Affronte tous tes amis durant cette expérience
+      unique. <strong>En collaboration avec Gaume Paint-Ball.</strong></p><p><strong><em>Accueil
+      et départ</em></strong><br>À Hatrival &amp; Marbehan, les arrivées ont lieu
+      le dimanche soir, à partir de 19h00 (les enfants doivent avoir soupé !). Les
+      départs ont lieu le vendredi entre 17h00 à 18h00 au plus tard.</p><p><strong><em>Repas,
+      collations et boissons</em></strong><br>Les enfants doivent avoir soupé avant
+      d'arriver au stage. Pendant tout le séjour, ils profiteront d'un petit déjeuner,
+      d'une collation, d'un repas chaud ainsi qu'un repas froid/tartines chaque jour.
+      Bien sûr, vous pouvez prévoir des petits en-cas à mettre dans la valise de votre
+      enfant mais ce n'est pas nécessaire.</p><p><strong><em>Participation à nos séjours
+      en internat</em></strong><br>Si votre enfant est inscrit à l’un de nos séjours
+      en internat en Belgique, nous vous demandons de respecter ces quelques règles
+      particulières :</p><ul><li><p>Il vous est demandé de respecter les horaires
+      qui vous sont communiqués via les mails de confirmation d’inscription à nos
+      stages.</p></li><li><p>Il est important de prévoir des draps pour la literie
+      ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement de base
+      pour la semaine : le nécessaire de toilette (essuies de bain, gants de toilettes,
+      savon, brosse à dents, dentifrice, etc.), pyjama et pantoufles, maillot et essuie
+      de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
+      chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
+    infos: []
 - name: Ma Cabane Magique
   categorie: Internat
   img: ''
