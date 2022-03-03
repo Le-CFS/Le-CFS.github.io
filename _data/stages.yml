@@ -3167,29 +3167,40 @@ stages:
 - name: Zeekamp
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-zeekamp-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
   location:
   - alias: Oostduinkerke
     ville: Oostduinkerke
-    age: 8-15 ans
+    age: 6-15 ans
     description: '<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Viens
       t''épanouir grâce à différentes activités ludiques et sportives. Au programme
-      de ta semaine : multisport, missions dans les dunes, musique, grands jeux, journée
-      à thème, etc. Prépare tes veillées nocturnes et dispose des espaces récréatifs
-      de "La Rose des Sables" et des bords de mer.</p><p><strong>Accueil et départ</strong><br>L’accueil
-      a lieu à Oostduinkerke entre 19h30 et 20h00 (les enfants doivent avoir soupé
-      !) et les départs se font le samedi suivant entre 9h00 et 10h00 le matin.</p><p><strong>Logement
-      - La Rose des Sables</strong><br>Le séjour est prévu en pension complète avec
-      eau à table.</p><p><strong>Repas, collations et boissons</strong><br>Les enfant
-      doivent avoir soupé avant d''arriver au stage. Pendant tout le séjour, ils profiteront
-      d''un petit déjeuner, d''une collation, d''un repas chaud ainsi qu''un repas
-      froid/tartines chaque jour. Bien sûr vous pouvez prévoir des petits encas à
-      mettre dans la valise de votre enfant mais ce n''est pas nécessaire.</p><p><strong>Participation
-      à nos séjours en internat</strong><br>Quelques règles particulières sont à respecter
+      de ta semaine : multisports, missions dans les dunes, musique, grands jeux,
+      journée à thème, etc.<br>Prépare tes veillées nocturnes et dispose des espaces
+      récréatifs de "La Rose des Sables" et des bords de mer.</p><p><strong><em>Transport</em></strong><br>Le
+      prix du stage comprend le trajet en autocar aller-retour. Aucune réduction ne
+      sera octroyée pour ceux souhaitant venir par leurs propres moyens. N''oubliez
+      pas de mentionner les lieux de départ et de retour dans le formulaire d''inscription.</p><p><strong><em>Matériel
+      à prévoir</em></strong><br>Sac de couchage + drap housse - Oreiller avec taie
+      - Essuie de douche - Nécessaire de toilette - Vêtements adaptés à la météo (variable)
+      - Tenues légère et sportive (short, t-shirt, etc... ) - Pyjama et pantoufles
+      - Bottines de marche - Baskets de sport - Tongue ou claquette -...</p><p>Aucun
+      matériel n''est à prévoir hormis une tenue adaptée pour monter à cheval (bottes
+      ou bottines, jogging ou legging). Le centre équestre fournira à chaque enfant
+      une bombe. Toutefois, si votre enfant dispose déjà de son propre matériel, pour
+      son propre confort, il est invité à l''emporter avec lui.</p><p><strong><em>Accueil
+      et départ</em></strong><br>Les arrivées ont lieu le samedi soir, entre 19h30
+      et 20h00 (les enfants doivent avoir soupé !) et les départs se font le samedi
+      suivant entre 9h30 et 10h30 le matin.</p><p><strong><em>Repas, collations et
+      boissons</em></strong><br>Les enfant doivent avoir soupé avant d''arriver au
+      stage. Pendant tout le séjour, ils profiteront d''un petit déjeuner, d''une
+      collation, d''un repas chaud ainsi qu''un repas froid/tartines chaque jour.
+      Bien sûr vous pouvez prévoir des petits encas à mettre dans la valise de votre
+      enfant mais ce n''est pas nécessaire.</p><p><strong><em>Participation à nos
+      séjours en internat</em></strong><br>Quelques règles particulières sont à respecter
       :</p><ul><li><p>Il vous est demandé de respecter les horaires qui vous sont
       communiqués via les mails de confirmation d’inscription à nos stages.</p></li><li><p>Il
       est important de prévoir des draps pour la literie ainsi qu’un sac de couchage
@@ -3197,33 +3208,51 @@ stages:
       de toilette (essuies de bain, gants de toilettes, savon, brosse à dent, dentifrice,
       etc.), pyjama et pantoufles, maillot et essuie de piscine pour les jeux d''eau,
       sous-vêtements et habits pour chaque jour, vêtements chauds pour le soir, vêtements
-      de sport et vêtement de pluie.</p></li></ul>'
+      de sport et vêtement de pluie.</p></li><li><p>Pour le stage d''Equitation :
+      aucun matériel n''est à prévoir hormis une tenue adaptée pour monter à cheval
+      (bottes ou bottines, jogging ou legging). Le centre équestre fournira à chaque
+      enfant une bombe. Toutefois, si votre enfant dispose déjà de son propre matériel,
+      pour son propre confort, il est invité à l''emporter avec lui.</p></li></ul>'
     infos: []
 - name: Sports Nautiques
   categorie: Internat
   img: "/assets/images/anniversaires/activites/nautifun.png"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
   location:
   - alias: Oostduinkerke
     ville: Oostduinkerke
-    age: 8-15 ans
+    age: 12-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>Profite
       de cette proximité inédite avec la mer pour découvrir trois activités nautiques.
-      Découvre les joies de la glisse, maitrise le vent et profite pleinement de ton
-      séjour pour t'initier aux sports dédiés à la côte belge.</p><p><strong>Accueil
-      et départ</strong><br>L’accueil a lieu à Oostduinkerke entre 19h30 et 20h00
-      (les enfants doivent avoir soupé !) et les départs se font le samedi suivant
-      entre 9h00 et 10h00 le matin.</p><p><strong>Logement - La Rose des Sables</strong><br>Le
-      séjour est prévu en pension complète avec eau à table.</p><p><strong>Repas,
-      collations et boissons</strong><br>Les enfant doivent avoir soupé avant d'arriver
-      au stage. Pendant tout le séjour, ils profiteront d'un petit déjeuner, d'une
-      collation, d'un repas chaud ainsi qu'un repas froid/tartines chaque jour. Bien
-      sûr vous pouvez prévoir des petits encas à mettre dans la valise de votre enfant
-      mais ce n'est pas nécessaire.</p><p><strong>Participation à nos séjours en internat</strong><br>Quelques
+      Découvre les joies de la glisse grâce à notre activité kayak en mer, maitrise
+      le vent grâce à l'initiation au char à voile et garde ton équilibre en t'attaquant
+      aux vagues sur ton paddle surf. Amusement et sensation garantis.</p><p>En dehors
+      de ces activités nautiques, participe avec l'ensemble du groupe à des grands
+      jeux, des épreuves sportives, des énigmes,... <br>Les animateurs BDK te préparent
+      une semaine de folie.</p><p><strong><em>Transport</em></strong><br>Le prix du
+      stage comprend le trajet en autocar aller-retour. Aucune réduction ne sera octroyée
+      pour ceux souhaitant venir par leurs propres moyens. N'oubliez pas de mentionner
+      les lieux de départ et de retour dans le formulaire d'inscription.</p><p><strong><em>Matériel
+      à prévoir</em></strong><br>Sac de couchage + drap housse - Oreiller avec taie
+      - Essuie de douche - Nécessaire de toilette - Vêtements adaptés à la météo (variable)
+      - Tenues légère et sportive (short, t-shirt, etc... ) - Pyjama et pantoufles
+      - Bottines de marche - Baskets de sport - Tongue ou claquette -...</p><p>Aucun
+      matériel n'est à prévoir hormis une tenue adaptée pour monter à cheval (bottes
+      ou bottines, jogging ou legging). Le centre équestre fournira à chaque enfant
+      une bombe. Toutefois, si votre enfant dispose déjà de son propre matériel, pour
+      son propre confort, il est invité à l'emporter avec lui.</p><p><strong><em>Accueil
+      et départ</em></strong><br>Les arrivées ont lieu le samedi soir, entre 19h30
+      et 20h00 (les enfants doivent avoir soupé !) et les départs se font le samedi
+      suivant entre 9h30 et 10h30 le matin.</p><p><strong><em>Repas, collations et
+      boissons</em></strong><br>Les enfant doivent avoir soupé avant d'arriver au
+      stage. Pendant tout le séjour, ils profiteront d'un petit déjeuner, d'une collation,
+      d'un repas chaud ainsi qu'un repas froid/tartines chaque jour. Bien sûr vous
+      pouvez prévoir des petits encas à mettre dans la valise de votre enfant mais
+      ce n'est pas nécessaire.</p><p><strong><em>Participation à nos séjours en internat</em></strong><br>Quelques
       règles particulières sont à respecter :</p><ul><li><p>Il vous est demandé de
       respecter les horaires qui vous sont communiqués via les mails de confirmation
       d’inscription à nos stages.</p></li><li><p>Il est important de prévoir des draps
@@ -3232,7 +3261,11 @@ stages:
       de toilettes, savon, brosse à dent, dentifrice, etc.), pyjama et pantoufles,
       maillot et essuie de piscine pour les jeux d'eau, sous-vêtements et habits pour
       chaque jour, vêtements chauds pour le soir, vêtements de sport et vêtement de
-      pluie.</p></li></ul>"
+      pluie.</p></li><li><p>Pour le stage d'Equitation : aucun matériel n'est à prévoir
+      hormis une tenue adaptée pour monter à cheval (bottes ou bottines, jogging ou
+      legging). Le centre équestre fournira à chaque enfant une bombe. Toutefois,
+      si votre enfant dispose déjà de son propre matériel, pour son propre confort,
+      il est invité à l'emporter avec lui.</p></li></ul>"
     infos: []
 - name: Equitation
   categorie: Internat
@@ -3297,15 +3330,15 @@ stages:
 - name: Néerlandais
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-neerlandais-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
   location:
   - alias: Oostduinkerke
     ville: Oostduinkerke
-    age: 6-12 ans / 12-15 ans
+    age: 6-15 ans
     description: "<p><em>Stage en collaboration avec</em> <strong><em>BDK</em></strong></p><p>À
       la mer du nord, quoi de mieux que de pratiquer son néerlandais ? Un moniteur
       bilingue dispensera deux heures par jour de cours en classe. Au programme :
@@ -3314,28 +3347,41 @@ stages:
       tout en entretenant leur apprentissage du néerlandais. Cette remédiation sera
       adaptée à tous les niveaux. Les groupes seront répartis en fonction de l'année
       scolaire terminée par l'enfant au moment du stage (et non pas en fonction de
-      l'âge).</p><p><strong>Accueil et départ</strong><br>L’accueil a lieu à Oostduinkerke
-      entre 19h30 et 20h00 (les enfants doivent avoir soupé !) et les départs se font
-      le samedi suivant entre 9h00 et 10h00 le matin.</p><p><strong>Logement - La
-      Rose des Sables</strong><br>Le séjour est prévu en pension complète avec eau
-      à table.</p><p><strong>Repas, collations et boissons</strong><br>Les enfant
-      doivent avoir soupé avant d'arriver au stage. Pendant tout le séjour, ils profiteront
-      d'un petit déjeuner, d'une collation, d'un repas chaud ainsi qu'un repas froid/tartines
-      chaque jour. Bien sûr vous pouvez prévoir des petits encas à mettre dans la
-      valise de votre enfant mais ce n'est pas nécessaire.</p><p><strong>Participation
-      à nos séjours en internat</strong><br>Quelques règles particulières sont à respecter
-      :</p><ul><li><p>Il vous est demandé de respecter les horaires qui vous sont
-      communiqués via les mails de confirmation d’inscription à nos stages.</p></li><li><p>Il
-      est important de prévoir des draps pour la literie ainsi qu’un sac de couchage
-      et un oreiller.</p></li><li><p>Équipement de base pour la semaine : le nécessaire
-      de toilette (essuies de bain, gants de toilettes, savon, brosse à dent, dentifrice,
-      etc.), pyjama et pantoufles, maillot et essuie de piscine pour les jeux d'eau,
-      sous-vêtements et habits pour chaque jour, vêtements chauds pour le soir, vêtements
-      de sport et vêtement de pluie.</p></li><li><p>Pour le stage de langues, votre
-      enfant est invité à emporter avec lui son matériel scolaire (trousse et cahier)
-      ainsi que son cours de l'année, ses travaux de vacances et toute autre matière
-      permettant au moniteur bilingue d'évaluer son niveau et d'avancer sur les objectifs
-      demandés par son professeur d'école.</p></li></ul>"
+      l'âge).</p><p>En dehors de ces cours de remédiation, participe avec l'ensemble
+      du groupe à des grands jeux, des épreuves sportives, des énigmes,... <br>Les
+      animateurs BDK te préparent une semaine de folie.</p><p><strong><em>Transport</em></strong><br>Le
+      prix du stage comprend le trajet en autocar aller-retour. Aucune réduction ne
+      sera octroyée pour ceux souhaitant venir par leurs propres moyens. N'oubliez
+      pas de mentionner les lieux de départ et de retour dans le formulaire d'inscription.</p><p><strong><em>Matériel
+      à prévoir</em></strong><br>Sac de couchage + drap housse - Oreiller avec taie
+      - Essuie de douche - Nécessaire de toilette - Vêtements adaptés à la météo (variable)
+      - Tenues légère et sportive (short, t-shirt, etc... ) - Pyjama et pantoufles
+      - Bottines de marche - Baskets de sport - Tongue ou claquette -...</p><p>Aucun
+      matériel n'est à prévoir hormis une tenue adaptée pour monter à cheval (bottes
+      ou bottines, jogging ou legging). Le centre équestre fournira à chaque enfant
+      une bombe. Toutefois, si votre enfant dispose déjà de son propre matériel, pour
+      son propre confort, il est invité à l'emporter avec lui.</p><p><strong><em>Accueil
+      et départ</em></strong><br>Les arrivées ont lieu le samedi soir, entre 19h30
+      et 20h00 (les enfants doivent avoir soupé !) et les départs se font le samedi
+      suivant entre 9h30 et 10h30 le matin.</p><p><strong><em>Repas, collations et
+      boissons</em></strong><br>Les enfant doivent avoir soupé avant d'arriver au
+      stage. Pendant tout le séjour, ils profiteront d'un petit déjeuner, d'une collation,
+      d'un repas chaud ainsi qu'un repas froid/tartines chaque jour. Bien sûr vous
+      pouvez prévoir des petits encas à mettre dans la valise de votre enfant mais
+      ce n'est pas nécessaire.</p><p><strong><em>Participation à nos séjours en internat</em></strong><br>Quelques
+      règles particulières sont à respecter :</p><ul><li><p>Il vous est demandé de
+      respecter les horaires qui vous sont communiqués via les mails de confirmation
+      d’inscription à nos stages.</p></li><li><p>Il est important de prévoir des draps
+      pour la literie ainsi qu’un sac de couchage et un oreiller.</p></li><li><p>Équipement
+      de base pour la semaine : le nécessaire de toilette (essuies de bain, gants
+      de toilettes, savon, brosse à dent, dentifrice, etc.), pyjama et pantoufles,
+      maillot et essuie de piscine pour les jeux d'eau, sous-vêtements et habits pour
+      chaque jour, vêtements chauds pour le soir, vêtements de sport et vêtement de
+      pluie.</p></li><li><p>Pour le stage d'Equitation : aucun matériel n'est à prévoir
+      hormis une tenue adaptée pour monter à cheval (bottes ou bottines, jogging ou
+      legging). Le centre équestre fournira à chaque enfant une bombe. Toutefois,
+      si votre enfant dispose déjà de son propre matériel, pour son propre confort,
+      il est invité à l'emporter avec lui.</p></li></ul>"
     infos: []
 - name: 'Basketball '
   categorie: Internat
