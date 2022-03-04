@@ -10,7 +10,7 @@ intro: Vous trouverez certainement un centre <strong>CFS</strong> proche de chez
 provinces:
 - name: Bruxelles
   banner: "/assets/images/bxl-banner.jpg"
-  image_annee: "/assets/images/bxl-annee-graphique.JPG"
+  image_annee: "/assets/images/bxl_annee_graphique.JPG"
   image_stages: "/assets/images/bxl_stages_graphique.JPG"
   url_annee: ''
   url_stages: ''
