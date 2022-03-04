@@ -8,13 +8,13 @@ description: Nos différents centres CFS situés à Bruxelles, Liège et dans le
 image: ''
 intro: Vous trouverez certainement un centre <strong>CFS</strong> proche de chez vous.
 provinces:
-- name: Brabant
+- name: Bruxelles
   banner: "/assets/images/bxl-banner.jpg"
   image_annee: "/assets/images/bxl-annee-graphique.JPG"
   image_stages: "/assets/images/bxl-stages-graphique.JPG"
   url_annee: ''
   url_stages: ''
-- name: Bruxelles
+- name: Brabant
   banner: "/assets/images/brt-banner.jpg"
   image_annee: "/assets/images/brt-annee-graphique.JPG"
   image_stages: "/assets/images/brt-stages-graphique.JPG"
