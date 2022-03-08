@@ -18,7 +18,7 @@ image: "/assets/images/cours-adultes.mp4"
 Une certaine nouvelle liberté, bye bye le CST 😃 !  
 Plus d'excuses ! Rejoins-nous pour ce dernier trimestre avec tes ami(e)s, famille, collègues, voisin(e)s,... 😍
 
-**_Au programme :_   
+**_Au programme :_  
 • Aqua Bike** du lundi au vendredi  
 • **Aqua Gym** le lundi, mardi et vendredi  
 • **Aqua Mix** le jeudi et vendredi  
@@ -27,7 +27,7 @@ Plus d'excuses ! Rejoins-nous pour ce dernier trimestre avec tes ami(e)s, famill
 • **Swiss Jump** le mardi  
 • **Yoga** le samedi
 
-🖋 **INSCRIPTION  
-**👉 [Inscription rapide]()  
+🖋 INSCRIPTION  
+👉 [Inscription rapide]()  
 📞 010/22.73.96  
 📧 info@lecfs.be
