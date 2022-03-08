@@ -7,12 +7,12 @@ tags:
 - inscription
 - sport
 title: Plus d'excuses, on bouge !
-banner: ''
+banner: "/assets/images/news_cours_adultes.jpg"
 infos:
   date: 
   teaser: ''
 description: Cours adultes - Du sport toute l'année !
-image: ''
+image: "/assets/images/news_cours_adultes.jpg"
 
 ---
 Une certaine nouvelle liberté, bye bye le CST 😃 !  
