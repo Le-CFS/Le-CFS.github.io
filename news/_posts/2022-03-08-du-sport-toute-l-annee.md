@@ -7,12 +7,12 @@ tags:
 - inscription
 - sport
 title: Plus d'excuses, on bouge !
-banner: "/assets/images/cours-adultes.mp4"
+banner: ''
 infos:
   date: 
   teaser: ''
 description: Cours adultes - Du sport toute l'année !
-image: "/assets/images/cours-adultes.mp4"
+image: ''
 
 ---
 Une certaine nouvelle liberté, bye bye le CST 😃 !  
@@ -28,6 +28,6 @@ Plus d'excuses ! Rejoins-nous pour ce dernier trimestre avec tes ami(e)s, famill
 • **Yoga** le samedi
 
 🖋 INSCRIPTION  
-👉 [Inscription rapide]()  
+👉 [Inscription rapide](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=3&Province=Brabant "Cours adultes")  
 📞 010/22.73.96  
 📧 info@lecfs.be
