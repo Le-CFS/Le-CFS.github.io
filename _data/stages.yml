@@ -7726,7 +7726,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 12-16 ans
+    age: 10-16 ans
     description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
       ! Un super programme et une activité différente et FUN chaque jour !</p><p><strong>PROGRAMME
       Carnaval </strong>: New Games, Fun Game, Jeux de piste, Géocatching, Koezio,
@@ -7752,7 +7752,7 @@ stages:
       info_line: Les navettes sont assurées par le CFS.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 12-16 ans
+    age: 10-16 ans
     description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
       ! Un super programme ! Une activité différente chaque jour !</p><p><strong>PROGRAMME
       Carnaval </strong>: New Games, Laser Game, Aqualibi, Quad, VTT, Koézio</p><p><strong>PROGRAMME
