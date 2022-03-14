@@ -1,5 +1,5 @@
 ---
-layout: 'post'
+layout: post
 online: true
 title: Stagiaire en Assistant Administratif et Commercial
 banner: "/assets/images/job_stagiaire_assistant_admin_commercial.jpg"
