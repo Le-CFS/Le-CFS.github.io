@@ -32,7 +32,7 @@ stages:
 - name: Fun Padel
   categorie: Activités sportives
   img: "/assets/images/sans-titre.jpg"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
