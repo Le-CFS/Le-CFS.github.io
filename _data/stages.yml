@@ -29,6 +29,32 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Fun Padel
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p><em>Stage en collaboration avec le </em><strong><em>Club Padel
+      Event Academy</em></strong></p><p>Amateur de sports de raquettes ?</p><p>Ce
+      stage propose une découverte au nouveau sport à la mode : Le Padel !</p><p>Le
+      Padel se joue avec des balles quasi similaires à celles du tennis et avec une
+      raquette spéciale, le « Palas ».</p><p>Convivial, ludique et facile à pratiquer,
+      le Padel est un condensé des points forts de tous les autres sports de raquettes.</p><p>Les
+      enfants l’adorent car il est facile à apprendre, permet de jouer en équipe et
+      de développer les qualités de main et d’œil.</p><p>Amusement garanti !</p><p>L'autre
+      moitié de la journée, les jeunes participent à des activités Fun &amp; multisports
+      : kinball, ultimate frisbee, tchoukball, speedminton, flag foot, etc.</p><p>Les
+      enfants sont répartis sur place en fonction de leur âge et de leur niveau.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Le matériel est mis à disposition par notre partenaire.
 - name: Psycho Padel
   categorie: Découvertes sportives et culturelles
   img: ''
