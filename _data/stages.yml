@@ -4369,7 +4369,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-football-ado-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
