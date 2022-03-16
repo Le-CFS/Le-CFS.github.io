@@ -402,8 +402,8 @@ stages:
     infos: []
 - name: Cuisine, Le Voyage Gustatif
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/cuisine.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -437,8 +437,8 @@ stages:
     infos: []
 - name: Cirque et Cabriole
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/cirque.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
