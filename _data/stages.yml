@@ -257,8 +257,8 @@ stages:
     infos: []
 - name: H2O Kids
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/internat-eau.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -293,8 +293,8 @@ stages:
     infos: []
 - name: Fun Sport
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/fun-multisport.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
