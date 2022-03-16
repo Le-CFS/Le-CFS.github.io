@@ -2691,13 +2691,20 @@ stages:
   - alias: Walhain
     ville: Brabant Wallon
     age: 7-14 ans
-    description: "<p><em>En collaboration avec le </em><strong><em>FC Walhain</em></strong></p><p>Votre
-      enfant est un vrai mordu du ballon ? Notre stage de football est l'idéal pour
-      lui ! </p><p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p><p>Les
-      enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble,
-      des frappes, des passes et du contrôle de balle.</p><p>Chaque entraînement est
-      abordé de manière ludique afin d'allier football et plaisir.</p><p>La journée
-      est répartie en 3 périodes de football et une période de multisports.</p>"
+    description: "<p><strong>Walhain - </strong><em>En collaboration avec le </em><strong><em>FC
+      Walhain</em></strong></p><p><strong>La Hulpe -<em> </em></strong><em>En collaboration
+      avec le </em><strong><em>Royal La Hulpe Sporting Club<br></em></strong><em>Uniquement
+      à la Hulpe :</em><strong><em> </em></strong><em>L</em>e <em>repas chaud, collation,
+      gouter + boissons, compris dans le prix.</em></p><p>Votre enfant est un vrai
+      mordu du ballon ? Notre stage de football est l'idéal pour lui !</p><p>Ce stage
+      prévoit une alternance entre entraînements et petits matchs.</p><p>Les enfants
+      s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des
+      frappes, des passes et du contrôle de balle.</p><p>Chaque entraînement est abordé
+      de manière ludique afin d'allier football et plaisir.</p><p><strong>Walhain
+      -</strong> La journée est répartie en 3 périodes de football et une période
+      de multisports.</p><p><strong>La Hulpe -</strong> La journée est répartie en
+      2 périodes de football et 2 périodes de multisports et activités fun (dont 1X/semaine
+      initiation au paddle).</p>"
     infos: []
 - name: 'Football '
   categorie: Internat
