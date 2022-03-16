@@ -198,8 +198,8 @@ stages:
     infos: []
 - name: Capsules Vidéos
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/internat-cinema.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
