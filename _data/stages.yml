@@ -29,6 +29,27 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
+- name: Festifoot
+  categorie: Découvertes sportives et culturelles
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p><em>Stage en partenariat avec le</em><strong><em> Royal La Hulpe
+      Sporting Club</em></strong></p><p>Votre enfant est un vrai mordu du ballon ?
+      Notre stage festifoot est l'idéal pour lui ! </p><p>50% du temps de festifoot
+      c'est principalement des 2 contre 2, les 50% autres, ce sont des ateliers footballistiques
+      adaptés à leurs âges.</p>"
+    infos:
+    - alias: Repas
+      info_line: Le repas chaud, la collation et les boissons sont compris dans le
+        prix.
 - name: Fun Padel
   categorie: Activités sportives
   img: "/assets/images/fun-padel.jpg"
