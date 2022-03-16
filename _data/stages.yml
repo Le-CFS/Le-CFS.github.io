@@ -366,8 +366,8 @@ stages:
     infos: []
 - name: Escalade, En Apesanteur
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/escalade.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
