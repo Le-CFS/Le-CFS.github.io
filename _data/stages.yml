@@ -29,26 +29,6 @@ categories:
   official_name: Formules All In
   btn: btn-stage-internat
 stages:
-- name: Beach Fun Game
-  categorie: Activités fun
-  img: ''
-  online: false
-  nouveau: true
-  stage_une: false
-  activation_onglets: false
-  inscription: ''
-  location:
-  - alias: Perwez
-    ville: Brabant Wallon
-    age: 6-12 ans
-    description: "<p><em>Stage en partenariat avec le </em><strong><em>Club LSA Perwez</em></strong></p><p>Votre
-      enfant désire découvrir de nouvelles activités ? Le tout dans une ambiance fun
-      et décontractée ?</p><p>Ce stage propose des activités Fun avec du matériel
-      adapté sur sable : arrow game, freesby golf, kinball, beach rugby,…</p>"
-    infos:
-    - alias: Niveau
-      info_line: Les enfants sont répartis sur place en fonction de leur âge et de
-        leur niveau.
 - name: Festifoot
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/activites_parascolaires_football.jpg"
