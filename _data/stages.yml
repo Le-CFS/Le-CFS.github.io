@@ -472,8 +472,8 @@ stages:
     infos: []
 - name: Back Stage
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/back-stage-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -509,8 +509,8 @@ stages:
     infos: []
 - name: Aqualand
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/aqua-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
