@@ -57,7 +57,7 @@ stages:
       info_line: Le matériel est mis à disposition par notre partenaire.
 - name: Psycho Padel
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/sans-titre-1.jpg"
+  img: "/assets/images/psycho-padel.jpg"
   online: true
   nouveau: true
   stage_une: false
