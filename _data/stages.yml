@@ -621,8 +621,8 @@ stages:
     infos: []
 - name: Ma Cabane Magique
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/cabane-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -661,8 +661,8 @@ stages:
     infos: []
 - name: L'Univers de la Caricature, Dessin et BD
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/bd-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -697,8 +697,8 @@ stages:
     infos: []
 - name: Les Explorateurs, Géocatching
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/explorateurs-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
