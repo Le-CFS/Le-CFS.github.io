@@ -735,8 +735,8 @@ stages:
     infos: []
 - name: Les Experts de Marbehan, Grand Jeu Indoor
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/expert-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -773,8 +773,8 @@ stages:
     infos: []
 - name: Les Artistes de Rues
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/artiste-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
