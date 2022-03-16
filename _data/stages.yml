@@ -544,8 +544,8 @@ stages:
     infos: []
 - name: VTT & Pêche
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/peche-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -581,8 +581,8 @@ stages:
     infos: []
 - name: Tireur d'Elite
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/tireur-elite-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
