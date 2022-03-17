@@ -400,7 +400,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Cuisine, Le Voyage Gustatif
+- name: Cuisine - Voyage Gustatif
   categorie: Internat
   img: "/assets/images/cuisine.jpg"
   online: true
