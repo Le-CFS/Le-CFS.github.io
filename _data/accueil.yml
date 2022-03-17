@@ -138,32 +138,28 @@ une:
       Au programme : une demi-journée E-challenge, 2 demi-journées (segway et trottinette électrique, overboard), 2 sessions de karting, 1 session de simulateur de course, la semaine se termine par une demi-journée de Quad et une demi-journée de VTT.
     lieu: Brabant Wallon et Bruxelles
     age: 8 - 14 ans
-  - name: Fun Aventure
-    titre_overlay: Fun Aventure
-    img: "/assets/images/stages-enfants-fun-aventure-500x500-une.jpg"
+  - name: Koh-Lanta
+    titre_overlay: Koh-Lanta
+    img: "/assets/images/stages-enfants-koh-lanta-500x500.jpg"
     bouton: Plus d'info
     nouveau: ''
-    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
-      conditions pour vos enfants tout en respectant les protocoles sanitaires de
-      l'ONE/ADEPS.
+    infos: |-
+      Prévoir des vêtements adaptés pour les activités en extérieur.
+      Le stage existe aussi pour les enfants de 6-8 ans: Mini-Lanta
     description: |-
-      Un programme alléchant, avec chaque jour une activité ludique différente.
+      Equipe jaune ou équipe rouge ?
 
-      Programme : New Games/Arrow Game/Space Fun Game (Fort Boyard & Laser Game)/Karting/Koezio
+      Viens vivre une semaine dans la peau des aventuriers de Koh Lanta : composition des tribus, épreuves en binôme et par équipe (avec les mythiques course d'orientation et épreuve des poteaux!), fabrication de campement, et dégustation d’insectes pour les plus courageux. 
 
-      Arrow game : différents jeux ludiques avec des arcs à flèches sont proposés comme des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique également avec des flèches avec un bout en mousse et des masques de paintball).
+      Les enfants passent un maximum de temps dans les bois pour ce stage :
 
-      New games : différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.
+      A Wavre : dans le bois du Collège Notre-Dame de Basse-Wavre.
+      A Ottignies : dans le Bois des Rêves.
+      A Rixensart : dans le bois près de l'Athénée de Rixensart.
 
-      Excursion à Space Fun Game d'Etterbeek : activités de type Fort Boyard et 2 parties de laser game indoor.
-
-      Karting : session de karting au Brussels Kart Expo
-
-      Excursion à Koezio au Docks Bruxsel : le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum: 1,40 m
-
-      Ce stage pourrait être complété par d'autres activités en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un stratégo géant.
-    lieu: Bruxelles
-    age: 8-14 ans
+      Fair-play et esprit de coopération sont requis pour ce stage ! 
+    lieu: Brabant
+    age: 8-12 ans
   - name: Astronaut Camp
     titre_overlay: Astronaut Camp
     img: "/assets/images/astronautcamp.jpg"
