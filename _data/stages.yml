@@ -29,10 +29,57 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Speed For Fun
+  categorie: Activités fun
+  img: "/assets/images/stage-enfant-karting-et-fun-500x500.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-16 ans
+    description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
+      te permettra de te perfectionner dans diverses activités motorisées afin de
+      rencontrer les sensations d’un vrai pilote : concentration, adrénaline et amusement
+      !</p><p><strong>Au programme</strong> : 2 sessions de 2h30 de Karting au first
+      Kart-inn de Machelen avec apprentissage de la trajectoire, techniques de conduite
+      et entrainement spécifique ; 1 session de Karting au WIK Wavre + 1 période de
+      simulateur Playstation ; 1 journée E-Fun (Trottinettes électrique, Segway, Crazy
+      Kart, Overboard,…). La semaine est complétée par des New Games.</p><p><strong>Le
+      CFS se donne le droit d'annuler le stage d'un enfant qui ne respecterait pas
+      les différentes règles de sécurité.</strong></p>"
+    infos:
+    - alias: Tenue
+      info_line: Prévoir une tenue adaptée aux activités en extérieur.
+    - alias: Transports
+      info_line: Les transports sont assurés par le CFS.
+- name: Beach Soccer
+  categorie: Activités sportives
+  img: "/assets/images/beach-soccer.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: "<p><em>Stage en partenariat avec l’</em><strong><em>Indoor Beach
+      Center Barca</em></strong><em> – entraineurs spécialisés en Beach Soccer</em></p><p>Pour
+      les mordus du ballon rond qui souhaitent découvrir un nouveau sport !</p><p>Le
+      Beach Soccer (foot sur le sable) est en plein essor en Belgique.</p><p>Ce stage
+      prévoit une alternance entre entraînements et petits matchs.</p><p>La matinée,
+      les jeunes s'initient ou se perfectionnent au Beach Soccer.</p><p>Des activités
+      Fun sont prévues en après-midi : arrow game, freesby golf, kinball, beach rugby,…</p>"
+    infos: []
 - name: Beach Fun Game
   categorie: Activités fun
-  img: ''
-  online: false
+  img: "/assets/images/beach-game.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -877,8 +924,8 @@ stages:
     infos: []
 - name: Koh Lanta - Expérience Ultime
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/koh-lanta-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
