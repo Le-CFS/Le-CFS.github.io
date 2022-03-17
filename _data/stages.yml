@@ -967,8 +967,8 @@ stages:
     infos: []
 - name: Escape Game - Jumanji
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/escape-game-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1005,8 +1005,8 @@ stages:
     infos: []
 - name: A vos Crayons
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/dessin-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
