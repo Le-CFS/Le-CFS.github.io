@@ -26,7 +26,7 @@ categories:
   btn: btn-stage-artistiques
 - name: Internat
   filtre: internat
-  official_name: Formules All In
+  official_name: Formules Internat
   btn: btn-stage-internat
 stages:
 - name: Festifoot
