@@ -1080,8 +1080,8 @@ stages:
     infos: []
 - name: Spirit - L'Etalon des Plaines
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/sans-titre.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
