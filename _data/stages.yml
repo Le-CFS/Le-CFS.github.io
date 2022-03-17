@@ -127,7 +127,7 @@ stages:
     infos:
     - alias: Matériel
       info_line: Le matériel est mis à disposition par notre partenaire.
-- name: Cinéma, Court Métrage
+- name: Cinéma - Court Métrage
   categorie: Internat
   img: "/assets/images/cinema.jpg"
   online: true
@@ -364,7 +364,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Escalade, En Apesanteur
+- name: Escalade - En Apesanteur
   categorie: Internat
   img: "/assets/images/escalade.jpg"
   online: true
@@ -1980,7 +1980,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Jeux d'Aventure et Découverte Géocatching
+- name: Jeux Aventure et Découverte Géocatching
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-jumanji-et-geocatching-500x500.jpg"
   online: true
