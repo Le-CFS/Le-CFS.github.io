@@ -659,7 +659,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: L'Univers de la Caricature, Dessin et BD
+- name: Univers de la Caricature - Dessin et BD
   categorie: Internat
   img: "/assets/images/bd-internat.jpg"
   online: true
@@ -695,7 +695,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Les Explorateurs, Géocatching
+- name: Les Explorateurs - Géocatching
   categorie: Internat
   img: "/assets/images/explorateurs-internat.jpg"
   online: true
@@ -733,7 +733,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Les Experts de Marbehan, Grand Jeu Indoor
+- name: Les Experts de Marbehan - Grand Jeu Indoor
   categorie: Internat
   img: "/assets/images/expert-internat.jpg"
   online: true
@@ -1934,7 +1934,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: L'Aventurier Photographe
+- name: Aventurier Photographe
   categorie: Internat
   img: "/assets/images/stage-enfant-fun-ado-500x500.jpg"
   online: true
