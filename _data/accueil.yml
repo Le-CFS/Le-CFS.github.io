@@ -100,6 +100,28 @@ slogan: Le CFS, à votre service depuis 1981.
 une:
   nom: Stages à la Une
   images:
+  - name: Football Road to World Cup 2022
+    titre_overlay: Football Road to World Cup 2022
+    img: "/assets/images/stage_enfant_footballworldcup22.jpg"
+    bouton: Plus d'info
+    nouveau: oui
+    infos: |-
+      Stage organisé en collaboration avec le FC Walhain (Brabant Wallon)
+      Stage organisé en collaboration avec le Futsal Jette (Bruxelles)
+    description: |-
+      Stage spécial Road to World Cup 2022 : tournois organisés en fin de semaine
+
+      Votre enfant est un vrai mordu du ballon ? Notre stage "Football Road to World Cup 2022" est l'idéal pour lui !
+
+      Ce stage prévoit une alternance entre entraînements et petits matchs.
+
+      Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle.
+
+      Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.
+
+      La journée est répartie en 3 périodes de football et une période de multisports.
+    lieu: Brabant - Bruxelles
+    age: 5 à 12 ans
   - name: E-Pilote Academy
     titre_overlay: E-Pilote Academy
     img: "/assets/images/stages-enfants-e-pilote-academy-500x500-une.jpg"
@@ -116,35 +138,6 @@ une:
       Au programme : une demi-journée E-challenge, 2 demi-journées (segway et trottinette électrique, overboard), 2 sessions de karting, 1 session de simulateur de course, la semaine se termine par une demi-journée de Quad et une demi-journée de VTT.
     lieu: Brabant Wallon et Bruxelles
     age: 8 - 14 ans
-  - name: Psycho Cuisine
-    titre_overlay: Psycho Cuisine
-    img: "/assets/images/stages_psycho_cuisine.jpg"
-    bouton: Plus d'info
-    nouveau: oui
-    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
-      conditions pour vos enfants tout en respectant les protocoles sanitaires de
-      l'ONE/ADEPS.
-    description: |-
-      Votre enfant à l'âme d'un futur cuisinier ? 
-
-      Durant le stage, nos petits chefs participeront à la préparation de quelques recettes culinaires de base.
-
-      L'autre partie de la journée, des exercices et jeux basés sur les différents axes de la psychomotricité seront proposés aux enfants : latéralité, équilibre, éveil sensori-moteur, adresse, audace, coopération, rythme, etc. 
-
-      Une période de repos est prévue après le temps de midi.
-
-      Attention : Mercredi 22 décembre : stage de 09h à 12h !
-      Attention : Pas de garderie le soir du 24 décembre et 31 décembre (venir chercher les enfants à 16h00 ! )
-
-      Une petite représentation/dégustation est prévue en fin de stage (selon les possibilités avec le covid). 
-
-      Les enfants doivent obligatoirement être propres pour pouvoir participer à ce stage. 
-
-      L'enfant doit apporter son tablier.
-
-      Prévoir une tenue de rechange.
-    lieu: Brabant
-    age: 3 à 4 ans
   - name: Fun Aventure
     titre_overlay: Fun Aventure
     img: "/assets/images/stages-enfants-fun-aventure-500x500-une.jpg"
