@@ -854,7 +854,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Koh Lanta L'Expérience Ultime
+- name: Koh Lanta - Expérience Ultime
   categorie: Internat
   img: ''
   online: false
@@ -897,7 +897,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Escape Game, Jumanji
+- name: Escape Game - Jumanji
   categorie: Internat
   img: ''
   online: false
@@ -1010,7 +1010,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Spirit, L'Etalon des Plaines
+- name: Spirit - L'Etalon des Plaines
   categorie: Internat
   img: ''
   online: false
@@ -1892,7 +1892,7 @@ stages:
       de piscine pour les jeux d'eau, sous-vêtements et habits pour chaque jour, vêtements
       chauds pour le soir, vêtements de sport et vêtement de pluie.</p></li></ul>"
     infos: []
-- name: Mission Commando, L'Instinct de Survie
+- name: Mission Commando - L'Instinct de Survie
   categorie: Internat
   img: "/assets/images/stage-enfant-mini-explorateurs-500x500.png"
   online: true
