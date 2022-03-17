@@ -811,7 +811,7 @@ stages:
 - name: L'Aventurier Photographe
   categorie: Internat
   img: "/assets/images/photo-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
