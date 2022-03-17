@@ -1204,8 +1204,8 @@ stages:
     infos: []
 - name: Le Triangle des Bermudes
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/internat-bermude.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1244,8 +1244,8 @@ stages:
     infos: []
 - name: Koh Lanta, L'Immersion
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/koh-lanta-2-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1283,8 +1283,8 @@ stages:
     infos: []
 - name: Cluedo Nature & Géocatching
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/geocatching.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
