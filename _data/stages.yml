@@ -1122,8 +1122,8 @@ stages:
     infos: []
 - name: Mon Cheval et Moi
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/equitation-2-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1163,8 +1163,8 @@ stages:
     infos: []
 - name: Mission Camouflage
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/mission-camouflage.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
