@@ -1042,8 +1042,8 @@ stages:
     infos: []
 - name: Tous en Selle
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/equitation-internat.jpg"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
