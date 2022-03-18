@@ -12,6 +12,9 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
+- titre: Solidaire avec l'Ukraine / In solidarity with Ukraine
+  src: "/assets/images/ukraine.jpg"
+  href: ''
 - titre: Stages Pâques & Ete
   src: "/assets/images/slider_paques_ete.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
