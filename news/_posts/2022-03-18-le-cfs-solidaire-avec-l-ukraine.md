@@ -53,7 +53,7 @@ Si vous êtes intéressé, contactez-nous directement par téléphone au **010/2
 • 6-14 ans : Foot : Accueil au Centre Sportif d’Ottignies
 
 📍 **A Walhain**  
-\**📅 Du **04/04/2022** au **08/04/2022** et du **11/04/2022** au **15/04/2022**  
+📅 Du **04/04/2022** au **08/04/2022** et du **11/04/2022** au **15/04/2022**  
 • 3-6 ans : Psychomotricité  
 • 6-14 ans : Football
 
