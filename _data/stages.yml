@@ -78,7 +78,7 @@ stages:
     infos: []
 - name: Beach Fun Game
   categorie: Activités fun
-  img: "/assets/images/beach-game.jpg"
+  img: "/assets/images/beach-volley.jpg"
   online: true
   nouveau: true
   stage_une: false
