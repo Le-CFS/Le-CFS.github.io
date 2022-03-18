@@ -58,7 +58,7 @@ stages:
       info_line: Les transports sont assurés par le CFS.
 - name: Beach Soccer
   categorie: Activités sportives
-  img: "/assets/images/beach-soccer.jpg"
+  img: "/assets/images/stage-beach-soccer.jpg"
   online: true
   nouveau: true
   stage_une: false
