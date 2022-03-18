@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Jag Events
+  categorie: Partenaires de stages
+  online: false
+  logo: "/assets/images/jagevents.png"
+  href: ''
+  bouton: ''
+  couleur_bouton: ''
 - name: Lamogoya
   categorie: Partenaires de stages
   online: true
