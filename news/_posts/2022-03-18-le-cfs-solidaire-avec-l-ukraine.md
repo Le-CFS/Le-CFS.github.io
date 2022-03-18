@@ -22,26 +22,26 @@ Afin de venir en aide aux **familles réfugiée**s, le CFS **accueillera des enf
 👧 Le bien-être des enfants est notre priorité absolue et surtout en cette période ! Il est primordial pour nous de pouvoir offrir un accueil chaleureux, et familial aux enfants ainsi que de soutenir les familles dans le besoin.
 
 💡 **Nous recherchons des interprètes** Français-Anglais ou Français-Ukrainien pour une **mission de traduction** sur le terrain durant les deux semaines de stages pour aider les enfants à comprendre plus facilement le déroulement des activités.  
- Si vous êtes intéressé, contactez-nous directement par téléphone au **010/22.73.96** (Brabant) / **02/420.53.02** (Bruxelles) ou **par mail** à [info@lecfs.be](mailto:info@lecfs.be) 🙂 Merci pour eux ❤
+Si vous êtes intéressé, contactez-nous directement par téléphone au **010/22.73.96** (Brabant) / **02/420.53.02** (Bruxelles) ou **par mail** à [info@lecfs.be](mailto:info@lecfs.be) 🙂 Merci pour eux ❤
 
 👉 Les stages se dérouleront en collaboration avec les communes de **Jette, Wavre, Ottignies, Walhain et Amay.**
 
 ✔ Les stages que nous proposons :
 
-📍 **A Jette  
-**📅 Du **04/04/2022** au **08/04/2022** et du **11/04/2022** au **15/04/2022  
-**• 3-4 ans : Psychomotricité  
+📍 **A Jette**  
+📅 Du **04/04/2022** au **08/04/2022** et du **11/04/2022** au **15/04/2022  
+• 3-4 ans : Psychomotricité  
 • 4-6 ans : Baby Multisports/baby gym/baby danse/baby foot  
 • 6-14 ans : Football/tennis/danse/gymnastique/GRS/tennis de table/immersion anglais
 
-📍 **A Wavre  
-**📅 Du **04/04/2022** au **08/04/2022** et du **11/04/2022** au **15/04/2022  
-**• 3-4 ans : Psychomotricité  
+📍 **A Wavre**  
+📅 Du **04/04/2022** au **08/04/2022** et du **11/04/2022** au **15/04/2022  
+• 3-4 ans : Psychomotricité  
 • 4-14 ans : Gymnastique / Danse / Escalade / Football / Tennis
 
-📍 **A Ottignies  
-**📅 Du **04/04/2022** au **08/04/2022  
-**• 3-4 ans : Psychomotricité : Accueil à l’Athénée Royal Paul Delvaux d’Ottignies  
+📍 **A Ottignies**  
+📅 Du **04/04/2022** au **08/04/2022  
+• 3-4 ans : Psychomotricité : Accueil à l’Athénée Royal Paul Delvaux d’Ottignies  
 • 4-6 ans : Musique & multisport : Accueil au Centre Sportif d’Ottignies  
 • 6-12 ans : GRS accueil : Accueil au Centre Sportif d’Ottignies  
 • 6-12 ans : Apprentissage anglais : Accueil au Centre Sportif d’Ottignies  
@@ -52,14 +52,14 @@ Afin de venir en aide aux **familles réfugiée**s, le CFS **accueillera des enf
 • 6-14 ans : Hip-Hop : Accueil au Centre Sportif d’Ottignies  
 • 6-14 ans : Foot : Accueil au Centre Sportif d’Ottignies
 
-📍 **A Walhain  
-**📅 Du 04/04/2022 au 08/04/2022 et du 11/04/2022 au 15/04/2022  
+📍 **A Walhain**  
+\**📅 Du **04/04/2022** au **08/04/2022** et du **11/04/2022** au **15/04/2022**  
 • 3-6 ans : Psychomotricité  
 • 6-14 ans : Football
 
 📍 **A Amay**  
-📅 Du **11/04/2022** au **15/04/2022  
-**• 3- 5 ans : Psychomotricité  
+📅 Du **11/04/2022** au **15/04/2022**  
+• 3- 5 ans : Psychomotricité  
 • 5- 12 ans : Multisports  
 • 6-12 ans : Danse / Techniques artistiques  
 • 8-12 ans : New Games
@@ -77,7 +77,8 @@ Vous êtes une famille d'accueil ? Contactez le CPAS de votre commune qui s’oc
 
 **L’équipe du CFS**
 
-_______________________________________________________________  
+***
+
 **ANGL**
 
 ### 💙CFS, in solidarity with Ukraine💛
@@ -111,7 +112,7 @@ If you are interested, please contact us directly by phone at **010/22.73.96** (
 • 6-12 years old : GRS : Centre Sportif d’Ottignies  
 • 6-12 years old : English learning : Centre Sportif d’Ottignies  
 • 3-14 years old : Football : Centre Sportif d’Ottignies  
-📅 From 11/04/2022 to 15/04/2022  
+📅 From **11/04/2022** to **15/04/2022**  
 • 3-4 years old : Psychomotricité : Athénée Royal Paul Delvaux d’Ottignies  
 • 4-6 years old : Music & multisport : Centre Sportif d’Ottignies  
 • 6-14 years old : Hip – Hop : Centre Sportif d’Ottignies  
