@@ -7,12 +7,12 @@ tags:
 - solidarite
 - Ukraine
 title: "\U0001F499 Le CFS, solidaire avec l'Ukraine \U0001F49B"
-banner: "/assets/images/ukraine.jpg"
+banner: "/assets/images/ukraine_solidarite.jpg"
 infos:
   date: 
   teaser: ''
 description: Stages offerts pour les réfugiés d'Ukraine
-image: "/assets/images/ukraine-1.jpg"
+image: "/assets/images/ukraine_solidarite-1.jpg"
 
 ---
 ### 💙CFS, solidaire de l’Ukraine💛
