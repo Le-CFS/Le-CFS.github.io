@@ -177,7 +177,7 @@ liste:
   couleur_bouton: ''
 - name: Gym Club La Courtoise
   categorie: partenaires pédagogiques
-  logo: "/assets/images/logo-photo-courtoise.jpg"
+  logo: "/assets/images/lacourtoise.png"
   href: http://www.gymclub-lacourtoise.be/
   online: true
   bouton: Site Web
