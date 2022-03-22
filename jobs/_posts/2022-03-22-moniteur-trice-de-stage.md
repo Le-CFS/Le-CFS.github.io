@@ -18,7 +18,7 @@ D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et
 
 ###### **FONCTION**
 
-Vous êtes animateur(trice) sportif(ve) pour des enfants (différentes catégories d’âge selon le stage) dans un de nos centres CFS de **Bruxelles** (Jette, Laeken, Wemmel, Uccle, Auderghem, Woluwe-Saint-Pierre).
+Vous êtes animateur(trice) sportif(ve) pour des enfants (différentes catégories d’âge selon le stage) dans un de nos centres CFS de **Bruxelles** (Jette, Laeken, Wemmel, Uccle, Auderghem, Woluwe-Saint-Pierre, Berchem-Sainte-Agathe).
 
 ###### **PROFIL**
 
