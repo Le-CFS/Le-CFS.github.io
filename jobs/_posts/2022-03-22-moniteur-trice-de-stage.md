@@ -1,7 +1,7 @@
 ---
 layout: post
 online: true
-title: Moniteur(trice) de stage
+title: Moniteur(trice) de stage Brabant Wallon
 banner: "/assets/images/moniteur-brabant.png"
 menu: false
 description: ''
