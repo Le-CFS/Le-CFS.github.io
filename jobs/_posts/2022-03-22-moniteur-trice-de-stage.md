@@ -42,6 +42,6 @@ o Vous avez une affinité avec le domaine du sport et/ou des activités culturel
 
 Un salaire compétitif dans une ambiance conviviale et familiale.
 
-> Plus d’informations sur toutes les [activités](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Brabant) proposées par le CFS.
+Plus d’informations sur toutes les [activités](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Brabant) proposées par le CFS.
 
 📩 _CV à envoyer à_ [_candidature@lecfs.be_](mailto:candidature@lecfs.be) _en y inscrivant votre top 3 des stages que vous souhaiteriez animer ou vous sentiriez à l’aise d’animer ainsi que votre top 3 pour le lieu de stage._
