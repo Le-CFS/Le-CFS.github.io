@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Padel Events Academy
+  categorie: Partenaires de stages
+  online: false
+  logo: ''
+  href: https://padeleventsacademy.be/
+  bouton: ''
+  couleur_bouton: ''
 - name: Speed 4 Fun
   categorie: Partenaires de stages
   online: true
