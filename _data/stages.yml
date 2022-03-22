@@ -31,7 +31,7 @@ categories:
 stages:
 - name: Speed 4 Fun
   categorie: Activités fun
-  img: "/assets/images/stage-enfant-karting-et-fun-500x500.jpg"
+  img: "/assets/images/speed4fun.jpg"
   online: true
   nouveau: true
   stage_une: false

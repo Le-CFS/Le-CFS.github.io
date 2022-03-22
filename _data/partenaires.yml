@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Speed 4 Fun
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/microsoftteams-image.png"
+  href: ''
+  bouton: ''
+  couleur_bouton: ''
 - name: Jag Events
   categorie: Partenaires de stages
   online: false
