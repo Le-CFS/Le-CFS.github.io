@@ -3702,7 +3702,7 @@ stages:
     infos: []
 - name: 'Danse '
   categorie: Internat
-  img: "/assets/images/boutonsactivites/parascolaires/hiphop.png"
+  img: "/assets/images/danse-internat.jpg"
   online: true
   nouveau: false
   stage_une: false
