@@ -4,7 +4,7 @@ liste:
   categorie: Partenaires de stages
   online: true
   logo: "/assets/images/microsoftteams-image.png"
-  href: ''
+  href: https://www.speed4fun.be/
   bouton: ''
   couleur_bouton: ''
 - name: Jag Events
