@@ -3,7 +3,7 @@ liste:
 - name: Padel Events Academy
   categorie: Partenaires de stages
   online: false
-  logo: ''
+  logo: "/assets/images/padel-events.png"
   href: https://padeleventsacademy.be/
   bouton: ''
   couleur_bouton: ''
