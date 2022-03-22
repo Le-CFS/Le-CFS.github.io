@@ -1,10 +1,10 @@
 ---
 layout: post
 online: true
-title: Moniteur(trice) de stage Brabant Wallon
-banner: "/assets/images/moniteur-brabant.png"
+title: Moniteur(trice) de stage Bruxelles
+banner: "/assets/images/moniteur-bruxelles.png"
 menu: false
-description: ''
+description: Le CFS recrute ! Recherche animateur(trice) pour ses stages
 image: ''
 
 ---
@@ -18,7 +18,7 @@ D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et
 
 ###### **FONCTION**
 
-Vous êtes animateur(trice) sportif(ve) pour des enfants (différentes catégories d’âge selon le stage) dans un des centres CFS du **Brabant Wallon** (Wavre, Bierges, Ottignies, Rixensart, Walhain, Perwez, etc.).
+Vous êtes animateur(trice) sportif(ve) pour des enfants (différentes catégories d’âge selon le stage) dans un de nos centres CFS de **Bruxelles** (Jette, Laeken, Wemmel, Uccle, Auderghem, Woluwe-Saint-Pierre).
 
 ###### **PROFIL**
 
@@ -42,6 +42,6 @@ o Vous avez une affinité avec le domaine du sport et/ou des activités culturel
 
 Un salaire compétitif dans une ambiance conviviale et familiale.
 
-Plus d’informations sur toutes les [activités](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Brabant) proposées par le CFS.
+Plus d’informations sur toutes les [activités](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2&Province=Bruxelles) proposées par le CFS.
 
-📩 _CV à envoyer à_ [_candidature@lecfs.be_](mailto:candidature@lecfs.be) _en y inscrivant votre top 3 des stages que vous souhaiteriez animer ou vous sentiriez à l’aise d’animer ainsi que votre top 3 pour le lieu de stage._
+📩 _CV à envoyer à_ [_candidature@lecfs.be_](mailto:candidature@lecfs.be) _en y inscrivant le top 3 des stages que vous souhaiteriez animer ou vous sentiriez à l’aise d’animer ainsi que votre top 3 pour le lieu de stage._
