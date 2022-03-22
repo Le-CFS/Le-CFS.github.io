@@ -8,19 +8,19 @@ description: ''
 image: ''
 
 ---
-**Rejoins-nous !**
+### **Rejoins-nous !**
 
 Créé en **1981**, le CFS propose des stages **sportifs** et **culturels** pour les enfants et les jeunes de **2,5 ans à 16 ans.** Fort de son expérience, le CFS a développé une large palette d’activités qu’il propose durant l’année scolaire et les vacances sur les régions du **Brabant Wallon**, de **Bruxelles** et de **Liège**.
 
 D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et des **évènements sportifs** pour les **écoles**.
 
-**👉 Le CFS Centre de Formation Sportive est à la recherche de plusieurs animateurs et moniteurs pour ses stages d’été**
+#### **👉 Le CFS Centre de Formation Sportive est à la recherche de plusieurs animateurs et moniteurs pour ses stages d’été**
 
-**FONCTION**
+###### **FONCTION**
 
 Vous êtes animateur(trice) sportif(ve) pour des enfants (différentes catégories d’âge selon le stage) dans un des centres CFS du **Brabant Wallon** (Wavre, Bierges, Ottignies, Rixensart, Walhain, Perwez, etc.).
 
-**PROFIL**
+###### **PROFIL**
 
 o Vous avez un des profils suivants :
 
@@ -36,7 +36,7 @@ o Vous êtes à l’aise avec les enfants ;
 
 o Vous avez une affinité avec le domaine du sport et/ou des activités culturelles.
 
-**OFFRE**
+###### **OFFRE**
 
 **Contrat par semaine en article 17** pour des stages durant l’été 2022.
 
