@@ -5417,31 +5417,29 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-sport-aventure-et-quad-500x500.jpg"
   online: false
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
   - alias: Stoumont
     ville: Stoumont
-    age: 10-15 ans
-    description: "<p><em>Stage en collaboration avec l’</em><strong><em>ADSL</em></strong></p><p>Cette
-      semaine promet un stage Fun et la découverte d’une région magnifique près de
-      la cascade de Coo !</p><p>Au programme : sports aventure avec quad, VTT, initiation
-      aventurier, tir à l’arc, tir à la carabine, parcours explo-raid et super journée
-      aventure dans un site spécialisé avec parcours de cordes et ponts de singe.</p><p>Piscine
-      et sports détente sont également prévus au cours de la semaine. Le centre dispose
-      d’une salle de sports, une salle de cinéma, ainsi qu’une salle de détente.</p><p>Toute
-      la semaine de stage, les jeunes sont encadrés par des éducateurs et professeurs
-      sportifs, et les activités spécifiques sont placées sous la direction d'un organisateur
-      d'événements professionnels.</p>"
+    age: 9-15 ans
+    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Pour
+      les amoureux des sports Evasion et du Quad... un super stage dans une région
+      magnifique au bord de l'Amblève !</p><p>Au programme : Pilotage Quad, course
+      d'orientation, parcours explo raid, tir à l'arc, tir à la carabine et super
+      journée aventure dans un site spécialisé avec parcours de cordes et ponts de
+      singe.</p><p>L'encadrement est assuré par des professeurs d'éducation physique.</p><p>Nous
+      logeons dans le centre Forêt et Sports à Stoumont. Le cadre est agréable avec
+      une superbe vue sur la vallée, les chambres de 2 à 4 lits sont lumineuses et
+      les repas sont assurés par le traiteur sur place. Les jeunes sont pris en charge
+      24h/24 et de chouettes animations sont organisées en soirée ! Bol d'air et sensations
+      assurées pour cette semaine à Stoumont !</p>"
     infos:
-    - alias: Equipement
-      info_line: 'Attention : il faut un VTT et un casque dès le premier jour du stage
-        (possibilité de location limitée sur place si besoin) ! '
     - alias: Internat
-      info_line: 'Internat : 6 nuitées comprenant petit-déjeuner, repas de midi, collation
-        16h, et repas du soir. Arrivée le dimanche 15 août à 14h au Centre Forêt et
-        Sports de Stoumont et départ le samedi 21 août à 10h.'
+      info_line: 'Internat : 6 nuitées comprenant petit-déjeuner, repas de midi, collation
+        16h, et repas du soir. Arrivée le dimanche 14 août à 14h au Centre Forêt et
+        Sports de Stoumont et départ le samedi 20 août à 10h.'
   activation_onglets: true
 - name: Football Academy
   categorie: Internat
