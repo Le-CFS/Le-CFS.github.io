@@ -5443,7 +5443,7 @@ stages:
   activation_onglets: true
 - name: Football Academy
   categorie: Internat
-  img: "/assets/images/stage-enfant-football-academy-500x500.jpg"
+  img: "/assets/images/internat-foot.jpg"
   online: false
   nouveau: false
   stage_une: false
