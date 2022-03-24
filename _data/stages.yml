@@ -89,14 +89,16 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
-    description: "<p><em>Stage en partenariat avec l’</em><strong><em>Indoor Beach
-      Center Barca</em></strong></p><p>Pour les mordus de sports de plage !</p><p>Découverte
+    description: '<p><em>Stage en partenariat avec </em><strong><em>Newteam Beach
+      Soccer Brussels</em></strong></p><p>Pour les mordus de sports de plage !</p><p>Découverte
       ou perfectionnement de différents sports pouvant se pratiquer sur la plage.
-      Fun, amusement et sensations d’être en vacances garantis !</p><p>Au programme
-      : une demi journée par jour où les jeunes pratiquent du Beach Soccer, Beach
-      Volley, Flag Foot (Beach Rugby sans contact), Frescobol (raquettes de plage),
-      speedminton ou encore frisbee !</p><p>D’autres activités Fun sont prévues l’autre
-      demi journée dans le centre : arrow game, frisbee golf, kinball, Ball Bouncer,…</p>"
+      Fun, amusement et sensations d’être en vacances garantis !</p><p>Les activités
+      "Beach Game" se déroulent à l''indoor Beach Center Barca d''Anderlecht.</p><p>Au
+      programme : une demi journée par jour où les jeunes pratiquent du Beach Soccer,
+      Beach Volley, Flag Foot (Beach Rugby sans contact), Frescobol (raquettes de
+      plage), speedminton ou encore frisbee !</p><p>D’autres activités Fun sont prévues
+      l’autre demi journée dans le centre : arrow game, frisbee golf, kinball, Ball
+      Bouncer,…</p>'
     infos: []
 - name: Festifoot
   categorie: Découvertes sportives et culturelles
