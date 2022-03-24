@@ -260,7 +260,7 @@ liste:
   bouton: Site Web
   couleur_bouton: ''
 - name: EPST Plongée
-  categorie: Partenaires de stages
+  categorie: partenaires pédagogiques
   logo: "/assets/images/partenaires/epst_plongee.png"
   href: http://www.epst.be/www/index.php?option=com_content&task=view&id=3&Itemid=1
   online: true
