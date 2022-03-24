@@ -8,7 +8,7 @@ liste:
   bouton: ''
   couleur_bouton: ''
 - name: Speed 4 Fun
-  categorie: Partenaires de stages
+  categorie: partenaires pédagogiques
   online: true
   logo: "/assets/images/microsoftteams-image.png"
   href: https://www.speed4fun.be/
@@ -22,14 +22,14 @@ liste:
   bouton: ''
   couleur_bouton: ''
 - name: Lamogoya
-  categorie: Partenaires de stages
+  categorie: partenaires pédagogiques
   online: true
   logo: "/assets/images/lamogoya.jpg"
   href: http://www.lamogoya.com/
   bouton: Site web
   couleur_bouton: ''
 - name: Interlingua
-  categorie: Partenaires de stages
+  categorie: partenaires pédagogiques
   online: true
   logo: "/assets/images/interlingua.jpg"
   href: https://www.interlingua-asbl.be/
@@ -57,7 +57,7 @@ liste:
   bouton: Site Web
   couleur_bouton: ''
 - name: Royal Laeken Tennis Club
-  categorie: Partenaires de stages
+  categorie: partenaires pédagogiques
   online: true
   logo: "/assets/images/royalaekentennisclub.png"
   href: http://www.rltc.be/
@@ -183,7 +183,7 @@ liste:
   bouton: Site Web
   couleur_bouton: ''
 - name: Brussel Monkeys Climbing
-  categorie: partenaires pédagogiques
+  categorie: Partenaires de stages
   online: true
   logo: "/assets/images/brusselmonkeysclimbing.png"
   href: https://www.brusselsmonkeysclimbing.com/
