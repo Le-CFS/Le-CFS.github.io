@@ -36,7 +36,7 @@ liste:
   bouton: Site web
   couleur_bouton: ''
 - name: BDK Stages
-  categorie: Partenaires de stages
+  categorie: partenaires pédagogiques
   online: true
   logo: "/assets/images/partenaires_stages_bdk.png"
   href: https://www.bdkstages.be/
@@ -148,14 +148,14 @@ liste:
   bouton: ''
   couleur_bouton: ''
 - name: Euro Space Center
-  categorie: Partenaires de stages
+  categorie: partenaires pédagogiques
   logo: "/assets/images/partenaires/eurospacecenter.png"
   href: https://www.eurospacecenter.be/
   online: true
   bouton: Site Web
   couleur_bouton: ''
 - name: Asbl ADSL
-  categorie: Partenaires de stages
+  categorie: partenaires pédagogiques
   logo: "/assets/images/partenaires/ADSL.jpg"
   href: https://www.adslstages.be/
   online: true
