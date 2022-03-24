@@ -29,6 +29,49 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Beach Soccer & Multisports
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6-18 ans
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Newteam Beach
+      Soccer Brussels</em></strong></p><p>Pour les mordus de sports de plage et de
+      ballons !</p><p>Le Beach Soccer est une activité en plein essor en Belgique.
+      Egalement appelé football de plage, ce sport s'apparente au football mais il
+      est pratiqué sur le sable. Le Beach Soccer a pour avantage d'accentuer l'agilité,
+      l'équilibre et la précision du joueur, et ses bienfaits sur les articulations
+      et la circulation sanguine sont reconnus.</p><p>La matinée, les jeunes s'initient
+      ou se perfectionnent au Beach Soccer.</p><p>L'après-midi est consacré à la découverte
+      d'autres activités beach : volley, rugby, frisbee, badminton, baseball, tennis/paddel
+      ou handball.</p>"
+    infos:
+    - alias: Lieu BRT
+      info_line: Les activités "Beach Game" se déroulent en extérieur au Stage Gaston
+        Reiff.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-18 ans
+    description: "<p><em>Stage en partenariat avec </em><strong><em>Newteam Beach
+      Soccer Brussels</em></strong></p><p>Pour les mordus de sports de plage et de
+      ballons !</p><p>Le Beach Soccer est une activité en plein essor en Belgique.
+      Egalement appelé football de plage, ce sport s'apparente au football mais il
+      est pratiqué sur le sable. Le Beach Soccer a pour avantage d'accentuer l'agilité,
+      l'équilibre et la précision du joueur, et ses bienfaits sur les articulations
+      et la circulation sanguine sont reconnus.</p><p>La matinée, les jeunes s'initient
+      ou se perfectionnent au Beach Soccer.</p><p>L'après-midi est consacré à la découverte
+      d'autres activités beach : volley, rugby, frisbee, badminton, baseball, tennis/paddel
+      ou handball.</p>"
+    infos:
+    - alias: Lieu BXL
+      info_line: Les activités "Beach Game" se déroulent à l'indoor Beach Center Barca
+        d'Anderlecht.
 - name: Speed 4 Fun
   categorie: Activités fun
   img: "/assets/images/speed4fun.jpg"
