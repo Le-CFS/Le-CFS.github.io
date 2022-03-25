@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Newteam Beach Soccer Brussels
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/new-team-beach-soccer.png"
+  href: https://www.facebook.com/newteambeachsoccer/
+  bouton: ''
+  couleur_bouton: ''
 - name: Padel Events Academy
   categorie: Partenaires de stages
   online: false
