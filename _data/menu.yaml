@@ -217,6 +217,8 @@ cours_adultes:
 anniversaires:
   titre: Anniversaires
   url: "/anniversaires/"
+  title_mobile: Liste des activités
+  online_mobile: false
   sousmenu:
   - title: Réservation
     url: "/anniversaires/reservation/"
