@@ -7,29 +7,24 @@ fields:
   label: layout
   hidden: true
   default: post
-- name: online
-  type: boolean
-  label: Doit être publié ?
-- type: text
-  name: title
-  label: title
-- type: file
-  name: banner
-  label: banner
-- type: text
-  name: permalink
-  label: permalink
-  hidden: true
 - type: boolean
   name: menu
   label: menu
   hidden: true
 - type: text
-  name: description
-  label: description
-- type: text
-  name: image
-  label: image
+  name: title
+  label: title
+- name: online
+  type: boolean
+  label: Doit être publié ?
+- type: file
+  name: banner
+  label: banner
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
 pages:
 - jobs/_posts/animateur-trice-pour-de-la-robotique.md
 - jobs/_posts/moniteur-trice-de-gymnastique-parkour.md
