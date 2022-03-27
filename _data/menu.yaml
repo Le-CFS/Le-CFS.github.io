@@ -14,7 +14,6 @@ cfs:
     url: "/cfs/les_centres_cfs/"
     title_mobile: Liste des centres
     online_mobile: false
-    mobile: 2 colonnes
     sousmenu:
     - title: Amay
       url: "/cfs/les_centres_cfs/amay"
@@ -72,6 +71,7 @@ stages_enfants:
   titre: Stages enfants
   url: "/stages/"
   title_mobile: Réservation
+  online_mobile: true
   sousmenu:
   - title: Un stage pour tous
     url: "/stages/activites/"
@@ -136,6 +136,7 @@ activites:
   titre: Activités enfants
   url: "/activites/"
   title_mobile: Informations générales
+  online_mobile: true
   sousmenu:
   - title: Extrascolaire pour tous
     url: "/activites/extrascolaire/"
@@ -257,6 +258,10 @@ brochures:
 jobs:
   titre: JOBS
   url: "/jobs/"
+  title_mobile: JOBS
+  online_mobile: true
 contact:
   titre: Contact
   url: "/contact/"
+  title_mobile: contact
+  online_mobile: true
