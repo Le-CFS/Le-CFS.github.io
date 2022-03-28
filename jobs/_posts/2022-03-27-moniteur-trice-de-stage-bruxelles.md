@@ -1,7 +1,7 @@
 ---
 layout: post
 online: true
-title: Moniteur(trice) de stage Bruxelles
+title: Moniteur(trice) de stage Bruxelles été 2022
 banner: "/assets/images/moniteur-bruxelles.png"
 menu: false
 description: Le CFS recrute ! Recherche animateur(trice) pour ses stages
