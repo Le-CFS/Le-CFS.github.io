@@ -3,10 +3,10 @@ layout: post
 menu: false
 title: Moniteur(trice) de psychomotricité
 online: true
-banner: "/assets/images/moniteur-trice_psychomotricite_brabant.jpg"
+banner: "/assets/images/moniteurs-trices_psychomotricite_brabant.jpg"
 description: Le CFS recrute ! Recherche moniteur(trice) pour ses stages et durant
   l'année scolaire.
-image: "/assets/images/moniteur-trice_psychomotricite_brabant.jpg"
+image: "/assets/images/moniteurs-trices_psychomotricite_brabant.jpg"
 
 ---
 ### Rejoins-nous !
@@ -15,7 +15,7 @@ Le CFS Créé en **1981**, le CFS propose des stages **sportifs** et **culturels
 
 D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et des **évènements sportifs** pour les **écoles**.
 
-#### 👉 Le CFS Centre de Formation Sportive est à la recherche de 3 profil **moniteurs(trices) de psychomotricité** 👶
+#### 👉 Le CFS Centre de Formation Sportive est à la recherche de 3 **moniteurs(trices) de psychomotricité** 👶
 
 ###### **FONCTION**
 
@@ -52,4 +52,4 @@ o Vous êtes flexible au niveau des horaires et disponible durant le weekend
 ###### **OFFRE**
 
 Contrat **CDI / Mi-temps.**  
-📩 Envoyez votre CV à [morgane@lecfs.be](mailto:morgane@lecfs.be)
+📩 Envoyez votre CV à candidature@lecfs.be
