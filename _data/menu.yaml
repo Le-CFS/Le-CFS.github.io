@@ -76,8 +76,6 @@ stages_enfants:
   - title: Un stage pour tous
     url: "/stages/activites/"
     title_mobile: Catalogue des stages
-  - title: Organisation des stages
-    url: "/stages/protocole/"
   - title: Organisation générale
     url: "/stages/protocole/general/"
   - title: Silos à Bruxelles
@@ -175,8 +173,6 @@ activites:
       url: "/activites/cfs_academy/robotique_academy/"
     - title: Danse Academy
       url: "/activites/cfs_academy/danse_academy/"
-    # - title: Gym pro Academy
-    #   url: "/activites/cfs_academy/gym_pro_academy/"
     - title: Gym Academy
       url: "/activites/cfs_academy/gym_academy"
     - title: Parkour Pro
@@ -249,8 +245,6 @@ brochures:
   sousmenu:
   - title: Stages
     url: "/brochures/stages/"
-  # - title: Extrascolaire
-  #   url: "/brochures/extrascolaire/"
   - title: Anniversaires
     url: "/brochures/anniversaires/"
   - title: Journées sportives
