@@ -14,7 +14,7 @@ Le CFS Créé en **1981**, le CFS propose des stages **sportifs** et **culturels
 
 D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et des **évènements sportifs** pour les **écoles**.
 
-#### 👉 Le CFS Centre de Formation Sportive est à la recherche d’un(e) **Coordinateur(-trice) & Animateur(-trice) Sportif(ve)** pour la région de Bruxelles ⚽ 
+#### 👉 Le CFS Centre de Formation Sportive est à la recherche d’un(e) **Coordinateur(-trice) & Animateur(-trice) Sportif(ve)** pour la région de Bruxelles ⚽
 
 ###### **FONCTION**
 
@@ -55,4 +55,4 @@ o Tu es disponible le samedi
 ###### **OFFRE**
 
 Le CFS te propose **un CDD jusqu’au 31 août 2022** au sein d’une association en pleine expansion. Possibilité de CDI par la suite.  
-📩 _CV et lettre de motivation à envoyer à_ [_morgane@lecfs.be_](mailto:morgane@lecfs.be)
+📩 _CV et lettre de motivation à envoyer à_ _candidature@lecfs.be_
