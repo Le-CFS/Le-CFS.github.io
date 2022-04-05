@@ -42,7 +42,9 @@ o Vous aimez rendre service ;
 
 o Vous êtes précis, rigoureux et savez gérer les priorités ;
 
-o Vous êtes résistant au stress ;
+o Vous êtes **résistant au stress** ;
+
+o Vous êtes capable de gérer plusieurs tâches en même temps ;
 
 o Vous aimez le travail d’équipe ;
 
