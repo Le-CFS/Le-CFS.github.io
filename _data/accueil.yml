@@ -12,12 +12,12 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: Solidaire avec l'Ukraine / In solidarity with Ukraine
-  src: "/assets/images/ukraine.jpg"
-  href: https://www.lecfs.be/news/2022/03/21/le-cfs-solidaire-avec-l-ukraine
 - titre: Stages Pâques & Ete
   src: "/assets/images/slider_paques_ete.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
+- titre: Solidaire avec l'Ukraine / In solidarity with Ukraine
+  src: "/assets/images/ukraine.jpg"
+  href: https://www.lecfs.be/news/2022/03/21/le-cfs-solidaire-avec-l-ukraine
 - titre: ACTIVITES EXTRASCOLAIRES
   src: "/assets/images/cfs_extrascolaire2021-2022.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
