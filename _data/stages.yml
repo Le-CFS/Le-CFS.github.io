@@ -7964,6 +7964,8 @@ stages:
       m.</p></li></ul><p><strong><em>ATTENTION :</em></strong><em> le programme peut
       changer les semaines plus courtes.</em></p>"
     infos:
+    - alias: Koezio
+      info_line: 'Taille minimum pour Koezio : 1m40'
     - alias: Tenue de bain
       info_line: Prévoir son maillot et un essuie pour les activités avec de l'eau
         (Aqualibi, Barrage de l'Eau d'Heure et Profondeville).
