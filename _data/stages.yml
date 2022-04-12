@@ -8279,6 +8279,27 @@ stages:
     - alias: Matériel
       info_line: 'Attention : il faut un VTT, un cadenas, un casque ainsi qu''une
         chambre à air de rechange dès le premier jour du stage ! '
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-16 ans
+    description: '<p>Une superbe semaine pour vos pré-ados et ados à la recherche
+      de sensation et d’activités fun!</p><p class="MsoNormal"><strong>PROGRAMME :
+      </strong>New Games, Laser Game, Koezio, Réalité Virtuelle et E-fun.</p><ul><li><p><strong>New
+      games </strong>: différentes activités fun sont proposées sur la journée telles
+      que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
+      à Space Fun Game d''Etterbeek</strong> : 3 parties de Laser Game indoor.</p></li><li><p><strong>Excursion
+      à Koezio au Docks Bruxsel :</strong> le centre propose des jeux de collaboration
+      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
+      épreuves de rapidité, de culture générale, et de l''accrobranche.</p></li><li><p><strong>Escape
+      room VR :</strong> activités de réalité virtuelle pour une expérience inoubliable
+      !</p></li><li><p><strong>E-Fun : </strong>segway, trottinette électrique (sur
+      place dans le centre).</p></li></ul><p><strong><em>ATTENTION :</em></strong><em>
+      le programme peut changer les semaines plus courtes.</em></p>'
+    infos:
+    - alias: Koezio
+      info_line: 'Koezio : La taille MINIMALE est d''1m40'
+    - alias: Déplacements
+      info_line: Les déplacements en transports en commun sont assurés par le CFS.
   - alias: Liège
     ville: Liège
     age: 12-16 ans
