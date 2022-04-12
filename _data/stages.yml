@@ -8257,19 +8257,28 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Envie de découvrir un nouveau stage au programme alléchant ?</p><p>Au
-      programme :</p><ul><li><p>Une journée inoubliable de <strong>Paintball </strong>avec
-      lepaintball.be ;</p></li><li><p>Un journée de <strong>quad </strong>au Collège
-      Notre-Dame de Basse-Wavre ;</p></li><li><p>Courses de <strong>Karting </strong>au
-      WIK-Wavre Indoor Karting ;</p></li><li><p>Des activités funs pour compléter
-      la semaine :<strong> laser game</strong> &amp; <strong>arrow game</strong>.</p></li></ul><p>Les
-      activités fun sont complétées par des balades en VTT.</p><p>Tous les déplacements
-      se font en VTT pour se rendre aux différentes activités.</p><p>L'enfant doit
-      être capable de rouler minimum 18 kilomètres par jour.</p>"
+    description: '<p>Une superbe semaine pour vos pré-ados et ados à la recherche
+      de sensation et d’activités fun!</p><ul><li><p>une journée de <strong>Paintball
+      </strong>avec lepaintball.be</p></li><li><p><strong>Fun Challenge</strong><em>
+      (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em> :
+      activités crazy light, darts, sumo, twister géant,…(1/2 journée)</p></li><li><p><strong>Réalité
+      virtuelle</strong> à THE VEX<strong> </strong>Louvain La Neuve pour une expérience
+      inoubliable !</p></li><li><p><strong>E-fun : </strong>segway, trottinette électrique
+      et crazy Kart en partenariat avec <strong>Roc Events</strong></p></li><li><p><strong>Arrow
+      game</strong> : différents jeux ludiques avec des arcs à flèches sont proposés
+      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
+      chevaliers et mages (l''arrow game se pratique également avec des flèches avec
+      un bout en mousse et des masques de paintball).</p></li><li><p>Des <strong>activités
+      fun</strong> et des <strong>new games</strong> pour compléter la semaine telles
+      que<strong> </strong>frisbee golf, snag golf, spikeball, kinball, flag foot).</p></li></ul><p
+      class="MsoNormal">Les activités fun sont complétées par des balades en VTT.</p><p
+      class="MsoNormal">Tous les déplacements se font en VTT pour se rendre aux différentes
+      activités.</p><p class="MsoNormal">L''enfant doit être capable de rouler minimum
+      20 kilomètres par jour.</p>'
     infos:
     - alias: Matériel
-      info_line: 'Attention : il faut un VTT, un cadenas, un casque ainsi qu''une
-        chambre à air de rechange dès le premier jour du stage ! '
+      info_line: 'Attention : il faut un VTT, un cadenas, un casque ainsi qu''une
+        chambre à air de rechange dès le premier jour du stage ! '
   - alias: Liège
     ville: Liège
     age: 12-16 ans
