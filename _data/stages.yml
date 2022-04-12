@@ -6320,19 +6320,17 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 8-14 ans
-    description: '<p>Tu es un futur pilote de F1 ? Viens t''exercer avec ce stage
-      !</p><p class="MsoNormal">Il te permettra de découvrir les sensations d’un vrai
-      pilote : concentration, adrénaline et amusement !</p><p class="MsoNormal"><strong>Au
-      programme</strong> : Segway, Trottinettes électriques, crazy Kart, Overboard,
-      Karting, Quad, moto électrique, simulateur de course, Fun challenge !</p><ul><li><p>2
-      demi-journées <strong>E-FUN </strong>(segway et trottinette électrique, overboard,
-      crazy kart) ,</p></li><li><p>1 session de <strong>karting</strong> + <strong>Simulateur
-      de course</strong></p></li><li><p>1 demi-journée de <strong>Fun Challenge</strong>
+    description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
+      te permettra de découvrir les sensations d’un vrai pilote : concentration, adrénaline
+      et amusement !</p><p><strong>Au programme</strong> : E-FUN, Karting, Quad, moto
+      électrique, Fun Challenge !</p><ul><li><p>2 demi-journées <strong>E-FUN </strong>(segway
+      et trottinette électrique, overboard, crazy kart)</p></li><li><p>2 sessions
+      de <strong>karting</strong></p></li><li><p>1 demi-journée de <strong>Fun Challenge</strong>
       <em>(En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>
       : activités crazy light, darts, sumo, twister géant, lancer de hâches…</p></li><li><p><strong>Journée
-      Quad et moto électrique </strong>en partenariat avec <strong>ROC Event.</strong></p></li></ul><p
-      class="MsoNormal"><strong>Le CFS se donne le droit d''annuler le stage d''un
-      enfant qui ne respecterait pas les différentes règles de sécurité.</strong></p>'
+      Quad et moto électrique </strong>en partenariat avec <strong>ROC Event.</strong></p></li></ul><p><strong>Le
+      CFS se donne le droit d'annuler le stage d'un enfant qui ne respecterait pas
+      les différentes règles de sécurité.</strong></p>"
     infos:
     - alias: Tenue
       info_line: Prévoir une tenue adaptée aux activités en extérieur.
