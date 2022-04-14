@@ -1,5 +1,5 @@
 ---
-layout: 'post'
+layout: post
 online: true
 title: Animateur(trice) pour de la robotique
 banner: "/assets/images/job_robotique.jpg"
@@ -52,4 +52,4 @@ Contrat CDD à durée déterminée jusque fin août (prolongeable en CDI).
 OU  
 Convention bénévole (horaires mercredis après midi et soirée) + contrat article 17 pour les semaines de stages (carnaval, Pâques, été 2022).
 
-📩 _CV et lettre de motivation à envoyer à_ [_morgane@lecfs.be_](mailto:morgane@lecfs.be)_._
+📩 _CV et lettre de motivation à envoyer à_ _candidature@lecfs.be_

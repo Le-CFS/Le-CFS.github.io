@@ -1,6 +1,6 @@
 ---
 layout: post
-online: true
+online: false
 title: Moniteur(-trice) de Gymnastique & Parkour
 banner: "/assets/images/job_moniteur-trice_parkour_gymnastique.jpg"
 menu: false

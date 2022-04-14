@@ -1,7 +1,7 @@
 ---
 layout: post
 online: true
-title: Moniteur(trice) de stage Brabant Wallon
+title: Moniteur(trice) de stage Brabant Wallon été 2022
 banner: "/assets/images/moniteur-brabant.png"
 menu: false
 description: Le CFS recrute ! Recherche animateur(trice) pour ses stages

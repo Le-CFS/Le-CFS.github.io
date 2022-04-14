@@ -2344,15 +2344,14 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: '<p><em>Stage en collaboration avec la </em><strong><em>New Lambermont
+    description: "<p><em>Stage en collaboration avec la </em><strong><em>New Lambermont
       Tennis School</em></strong></p><p>Votre enfant a envie de découvrir les joies
-      d''un sport raquettes ? <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/regular_smile.png"
-      title="smiley" alt="smiley"></p><p>Ce stage de tennis associe l''apprentissage
-      du geste technique au plaisir du jeu dans une ambiance familiale.</p><p>Tout
-      au long de la semaine, les enfants apprennent les bases du tennis (prises, placement,
+      d'un sport raquettes ? </p><p>Ce stage de tennis associe l'apprentissage du
+      geste technique au plaisir du jeu dans une ambiance familiale.</p><p>Tout au
+      long de la semaine, les enfants apprennent les bases du tennis (prises, placement,
       jeux de jambes,…) afin de pouvoir réaliser un maximum d’échanges que ce soit
       en partenaire ou en adversaire.</p><p>Des groupes sont formés en fonction des
-      âges et des niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p>'
+      âges et des niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p>"
     infos:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
@@ -2369,19 +2368,18 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: '<p><em>Stage en collaboration avec la </em><strong><em>New Lambermont
+    description: "<p><em>Stage en collaboration avec la </em><strong><em>New Lambermont
       Tennis School</em></strong></p><p>Vous désirez éveiller votre petit bout à un
-      jeu de raquette ? <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
-      title="laugh" alt="laugh"></p><p>Ce stage est l''idéal pour initier les enfants
-      au tennis par différents jeux leur permettant d''en acquérir les bases. Ils
-      découvrent la raquette en tant que prolongement du bras et apprennent à coordonner
-      la vue avec le mouvement de la raquette.</p><p>Ils apprennent, grâce à la 2D,
-      le coup droit et le revers et toutes leurs particularités : prises, placement,
-      jeux de jambes, direction,… Ils peuvent ensuite s’essayer à la 3D où l’apprentissage
+      jeu de raquette ? </p><p>Ce stage est l'idéal pour initier les enfants au tennis
+      par différents jeux leur permettant d'en acquérir les bases. Ils découvrent
+      la raquette en tant que prolongement du bras et apprennent à coordonner la vue
+      avec le mouvement de la raquette.</p><p>Ils apprennent, grâce à la 2D, le coup
+      droit et le revers et toutes leurs particularités : prises, placement, jeux
+      de jambes, direction,… Ils peuvent ensuite s’essayer à la 3D où l’apprentissage
       du rebond de la balle est essentiel pour un sport tel que le tennis. La volée
       et le service sont également vus.</p><p>Et tout cela avec du matériel adapté
       : ballons, ballons de baudruche, balles rouges et balles molles.</p><p>Une période
-      de la journée est consacrée à la découverte d’un multisport.</p>'
+      de la journée est consacrée à la découverte d’un multisport.</p>"
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par notre partenaire.
@@ -6324,12 +6322,20 @@ stages:
     age: 8-14 ans
     description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
       te permettra de découvrir les sensations d’un vrai pilote : concentration, adrénaline
-      et amusement !</p><p><strong>Au programme</strong> : une demi-journée E-challenge,
-      2 demi-journées (segway et trottinette électrique, overboard), 2 sessions de
-      karting, 1 session de simulateur de course, la semaine se termine par une demi-journée
-      de Quad et une demi-journée de VTT.</p><p><strong>Le CFS se donne le droit d'annuler
-      le stage d'un enfant qui ne respecterait pas les différentes règles de sécurité</strong>.</p>"
-    infos: []
+      et amusement !</p><p><strong>Au programme</strong> : E-FUN, Karting, Quad, moto
+      électrique, Fun Challenge !</p><ul><li><p>2 demi-journées <strong>E-FUN </strong>(segway
+      et trottinette électrique, overboard, crazy kart)</p></li><li><p>2 sessions
+      de <strong>karting</strong></p></li><li><p>1 demi-journée de <strong>Fun Challenge</strong>
+      <em>(En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>
+      : activités crazy light, darts, sumo, twister géant, lancer de hâches…</p></li><li><p><strong>Journée
+      Quad et moto électrique </strong>en partenariat avec <strong>ROC Event.</strong></p></li></ul><p><strong>Le
+      CFS se donne le droit d'annuler le stage d'un enfant qui ne respecterait pas
+      les différentes règles de sécurité.</strong></p>"
+    infos:
+    - alias: Tenue
+      info_line: Prévoir une tenue adaptée aux activités en extérieur.
+    - alias: Transports
+      info_line: Les transports sont assurés par le CFS.
   activation_onglets: true
 - name: Fun Hiver
   categorie: Activités fun
@@ -7820,29 +7826,28 @@ stages:
     description: "<p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Il souhaite
       un stage varié et fun ? Ce stage phare du CFS est fait pour lui ! Un stage alléchant
       qui propose chaque jour une activité ludique et privilégie les activités en
-      extérieur.</p><p><strong>PROGRAMME Carnaval : </strong>Laser game/Arrow game/Aqualibi/Fun
-      game/New Games/Jeux d'orientation/, jeux de piste et jeux dans les bois</p><p><strong>PROGRAMME
-      Pâques &amp; Ete : </strong>Laser Game/Arrow Game/Parc Aventure/Fun Game/New
-      Games/Jeux d'orientation, Jeux de piste et jeux dans les bois</p><ul><li><p><strong>Laser
-      game</strong> : En collaboration avec BW Event</p></li><li><p><strong>Arrow
-      game</strong> : différents jeux ludiques avec des arcs à flèches sont proposés
-      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
-      chevaliers et mages (l'arrow game se pratique également avec des flèches avec
-      un bout en mousse et des masques de paintball).</p></li><li><p><strong>Fun Game</strong>
-      : En collaboration avec <strong>Jag Events</strong> : activités crazy light,
-      darts, sumo, twister géant,…</p></li><li><p><strong>New games</strong> : différentes
-      activités fun sont proposées sur la journée telles que le frisbee golf, snag
-      golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Aqualibi </strong>:
-      Parc d'attractions aquatique : des toboggans qui plairont à tous, une piscine
-      à vague pour un moment de fun inoubliable, une rivière surprenante parfois tranquille,
-      parfois carrément féroce et bien d'autres plaisirs aquatiques !</p></li><li><p><strong>Excursion
-      au Parc Aventure de Wavre</strong> : le parc propose des activités d'accrobranche
-      dans les bois.</p></li><li><p><strong>Jeux d'orientation, jeux de piste et jeux
-      dans les bois</strong></p></li></ul><p>Ce stage peut également être complété
-      par d'autres activités en extérieur comme des jeux dans les bois, une chasse
-      à l'homme, un cache-cache 21, ou encore un stratégo géant. Si la météo n'est
-      pas clémente, les activités se feront en intérieur dans les centres sportifs.</p><p><strong><em>ATTENTION
-      : </em></strong><em>le programme peut changer les semaines plus courtes.</em></p>"
+      extérieur.</p><p><strong>PROGRAMME Pâques &amp; Eté : </strong>Laser Game/Arrow
+      Game/Parc Aventure/Fun Game/New Games/Jeux d'orientation, Jeux de piste et jeux
+      dans les bois</p><ul><li><p><strong>Laser game</strong> : En collaboration avec
+      BW Event</p></li><li><p><strong>Arrow game</strong> : différents jeux ludiques
+      avec des arcs à flèches sont proposés comme des prises de château, courses de
+      lapin, jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique
+      également avec des flèches avec un bout en mousse et des masques de paintball).</p></li><li><p><strong>Fun
+      Game</strong> : En collaboration avec <strong>Jag Events</strong> : activités
+      crazy light, darts, sumo, twister géant,…</p></li><li><p><strong>New games</strong>
+      : différentes activités fun sont proposées sur la journée telles que le frisbee
+      golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Aqualibi
+      </strong>: Parc d'attractions aquatique : des toboggans qui plairont à tous,
+      une piscine à vague pour un moment de fun inoubliable, une rivière surprenante
+      parfois tranquille, parfois carrément féroce et bien d'autres plaisirs aquatiques
+      !</p></li><li><p><strong>Excursion au Parc Aventure de Wavre</strong> : le parc
+      propose des activités d'accrobranche dans les bois.</p></li><li><p><strong>Jeux
+      d'orientation, jeux de piste et jeux dans les bois</strong></p></li></ul><p>Ce
+      stage peut également être complété par d'autres activités en extérieur comme
+      des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un
+      stratégo géant. Si la météo n'est pas clémente, les activités se feront en intérieur
+      dans les centres sportifs.</p><p><strong><em>ATTENTION : </em></strong><em>le
+      programme peut changer les semaines plus courtes.</em></p>"
     infos:
     - alias: Vêtement extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
@@ -7855,17 +7860,16 @@ stages:
     age: 8-12 ans
     description: "<p>Votre enfant a entre <strong>8 et 12 ans </strong>? Il souhaite
       essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous
-      propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>Carnaval
-      : </strong>New Games/Arrow Game/Space Fun Game (Fort Boyard &amp; Laser Game)/Laser
-      Game extérieur/Aqualibi</p><p><strong>Pâques : </strong>New Games/Arrow Game/Space
-      Fun Game (Fort Boyard &amp; Laser Game)/Laser Game extérieur/Parc Aventure de
-      Wavre</p><ul><li><p><strong>Laser game :</strong> organisé en extérieur.</p></li><li><p><strong>Arrow
-      game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés
-      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
-      chevaliers et majes (l'arrow game se pratique également avec des flèches avec
-      un bout en mousse et des masques de paintball).</p></li><li><p><strong>New games
-      :</strong> différentes activités fun sont proposées sur la journée telles que
-      le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p><strong>Excursion
+      propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>PROGRAMME
+      Pâques &amp; Eté : </strong>New Games/Arrow Game/Space Fun Game (Fort Boyard
+      &amp; Laser Game)/Laser Game extérieur/Parc Aventure de Wavre</p><ul><li><p><strong>Laser
+      game :</strong> organisé en extérieur.</p></li><li><p><strong>Arrow game :</strong>
+      différents jeux ludiques avec des arcs à flèches sont proposés comme des prises
+      de château, courses de lapin, jeux de rôle avec des épées, chevaliers et majes
+      (l'arrow game se pratique également avec des flèches avec un bout en mousse
+      et des masques de paintball).</p></li><li><p><strong>New games :</strong> différentes
+      activités fun sont proposées sur la journée telles que le frisbee golf, snag
+      golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p><strong>Excursion
       à Space Fun Game d'Etterbeek</strong> : activités de type Fort Boyard et 2 parties
       de laser game indoor.</p></li><li><p><strong>Excursion au Parc Aventure de Wavre</strong>
       : le parc propose des activités d'accrobranche dans les bois.</p></li><li><p><strong>Excursion
@@ -7876,9 +7880,7 @@ stages:
       en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache
       21, ou encore un stratégo géant. Si la météo n'est pas clémente, les activités
       se feront en intérieur dans les centres sportifs.</p><p><strong><em>ATTENTION
-      :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p><p>Nos
-      partenaires prennent toutes les mesures d’hygiène et sanitaires concernant le
-      Covid-19.</p>"
+      :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p>"
     infos:
     - alias: Vêtements extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
@@ -7950,12 +7952,12 @@ stages:
       ! Un super programme et une activité différente et FUN chaque jour !</p><p><strong>PROGRAMME
       Pâques </strong>: New games, Excursion à Walibi, Aqualibi, E-Fun, Koézio et
       activités dans le centre de Bruxelles</p><p><strong>PROGRAMME Eté </strong>:
-      New games, Profondeville, Walibi, Barrage de l'Eau d'Heure, Koézio et activités
-      dans le centre de Bruxelles</p><ul><li><p><strong>New Games</strong> : différentes
-      activités fun sont proposées sur la journée telles que le frisbee golf, snag
-      golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion à Aqualibi</strong>
-      : Parc d'attractions où tu partageras de vraies sensations dans l'eau!</p></li><li><p><strong>Barrage
-      de l'Eau d'Heure / Profondeville : </strong>Activités aquatiques.</p></li><li><p><strong>Excursion
+      New games, Profondeville, Walibi, Space Fun Game, Koézio et activités dans le
+      centre de Bruxelles</p><ul><li><p><strong>New Games</strong> : différentes activités
+      fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball,
+      kinball, flag foot.</p></li><li><p><strong>Excursion à Aqualibi</strong> : Parc
+      d'attractions où tu partageras de vraies sensations dans l'eau!</p></li><li><p><strong>Profondeville
+      : </strong>Activités aquatiques (bouées tractées et paddle).</p></li><li><p><strong>Excursion
       à Walibi</strong> : Parc d'attractions où tu partageras de vraies sensations
       ! La célèbre rivière sauvage, la Radja River, le terrifiant train de la mine,
       le Calamity mine et bien d'autres sensation fun garantie t'attendent !</p></li><li><p><strong>E-Fun</strong>
@@ -7966,6 +7968,8 @@ stages:
       m.</p></li></ul><p><strong><em>ATTENTION :</em></strong><em> le programme peut
       changer les semaines plus courtes.</em></p>"
     infos:
+    - alias: Koezio
+      info_line: 'Taille minimum pour Koezio : 1m40'
     - alias: Tenue de bain
       info_line: Prévoir son maillot et un essuie pour les activités avec de l'eau
         (Aqualibi, Barrage de l'Eau d'Heure et Profondeville).
@@ -7977,24 +7981,23 @@ stages:
     description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
       ! Un super programme ! Une activité différente chaque jour !</p><p><strong>PROGRAMME
       Pâques </strong>: New Games, Laser Game, Walibi, Quad, VTT, Koézio</p><p><strong>PROGRAMME
-      Eté </strong>: New Games, Profondeville, Walibi, Quad, VTT, Koézio</p><ul><li><p><strong>New
-      games </strong>: différentes activités fun sont proposées sur la journée telles
-      que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Journée
-      Quad &amp; VTT</strong> : en partenariat avec <strong>ROC Event</strong></p></li><li><p><strong>Laser
-      game : Excursion à Space Fun Game d'Etterbeek</strong> : 3 parties de laser
-      game indoor.</p></li><li><p><strong>Excursion à Koezio au Docks Bruxsel</strong>
+      Eté </strong>: New Games, Profondeville, Walibi, Quad, Moto électrique, Laser
+      game, Koézio </p><ul><li><p><strong>New games </strong>: différentes activités
+      fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball,
+      kinball, flag foot.</p></li><li><p><strong>Profondeville : </strong>Activités
+      aquatiques. (bouées tractées et paddle)</p></li><li><p><strong>Excursion à Walibi
+      </strong>: Parc d'attractions où tu partageras de vraies sensations ! La célèbre
+      rivière sauvage, la Radja River, le terrifiant train de la mine, le Calamity
+      mine et bien d'autres sensation fun garantie t'attendent !</p></li><li><p><strong>Journée
+      Quad, moto électrique et Laser game</strong> en partenariat avec <strong>ROC
+      Event.</strong></p></li><li><p><strong>Excursion à Koezio au Docks Bruxsel</strong>
       : le centre propose des jeux de collaboration et de cohésion par équipe. Les
       équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture
-      générale, et de l'accrobranche. Taille minimum: 1,40 m</p></li><li><p><strong>Excursion
-      à Walibi </strong>: Parc d'attractions où tu partageras de vraies sensations
-      ! La célèbre rivière sauvage, la Radja River, le terrifiant train de la mine,
-      le Calamity mine et bien d'autres sensation fun garantie t'attendent !</p></li><li><p><strong>Excursion
-      à Aqualibi</strong> : Parc d'attractions aquatique: des toboggans qui plairont
-      à tous, une piscine à vague pour un moment de fun inoubliable, une rivière surprenantes
-      parfois tranquille, parfois carrément féroce et bien d'autres plaisirs aquatiques
-      t'attendent !</p></li></ul><p><strong><em>ATTENTION :</em></strong><em> le programme
-      peut changer les semaines plus courtes.</em></p>"
+      générale, et de l'accrobranche. Taille minimum: 1,40 m</p></li></ul><p><strong><em>ATTENTION
+      :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p>"
     infos:
+    - alias: Koezio
+      info_line: 'Taille minimum pour Koezio : 1m40'
     - alias: Tenue de bain
       info_line: Prévoir son maillot et un essuie pour les activités avec de l'eau
         (Aqualibi, Barrage de l'Eau d'Heure et Profondeville).
@@ -8258,19 +8261,49 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Envie de découvrir un nouveau stage au programme alléchant ?</p><p>Au
-      programme :</p><ul><li><p>Une journée inoubliable de <strong>Paintball </strong>avec
-      lepaintball.be ;</p></li><li><p>Un journée de <strong>quad </strong>au Collège
-      Notre-Dame de Basse-Wavre ;</p></li><li><p>Courses de <strong>Karting </strong>au
-      WIK-Wavre Indoor Karting ;</p></li><li><p>Des activités funs pour compléter
-      la semaine :<strong> laser game</strong> &amp; <strong>arrow game</strong>.</p></li></ul><p>Les
-      activités fun sont complétées par des balades en VTT.</p><p>Tous les déplacements
-      se font en VTT pour se rendre aux différentes activités.</p><p>L'enfant doit
-      être capable de rouler minimum 18 kilomètres par jour.</p>"
+    description: '<p>Une superbe semaine pour vos pré-ados et ados à la recherche
+      de sensation et d’activités fun!</p><ul><li><p>une journée de <strong>Paintball
+      </strong>avec lepaintball.be</p></li><li><p><strong>Fun Challenge</strong><em>
+      (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em> :
+      activités crazy light, darts, sumo, twister géant,…(1/2 journée)</p></li><li><p><strong>Réalité
+      virtuelle</strong> à THE VEX<strong> </strong>Louvain La Neuve pour une expérience
+      inoubliable !</p></li><li><p><strong>E-fun : </strong>segway, trottinette électrique
+      et crazy Kart en partenariat avec <strong>Roc Events</strong></p></li><li><p><strong>Arrow
+      game</strong> : différents jeux ludiques avec des arcs à flèches sont proposés
+      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
+      chevaliers et mages (l''arrow game se pratique également avec des flèches avec
+      un bout en mousse et des masques de paintball).</p></li><li><p>Des <strong>activités
+      fun</strong> et des <strong>new games</strong> pour compléter la semaine telles
+      que<strong> </strong>frisbee golf, snag golf, spikeball, kinball, flag foot).</p></li></ul><p
+      class="MsoNormal">Les activités fun sont complétées par des balades en VTT.</p><p
+      class="MsoNormal">Tous les déplacements se font en VTT pour se rendre aux différentes
+      activités.</p><p class="MsoNormal">L''enfant doit être capable de rouler minimum
+      20 kilomètres par jour.</p>'
     infos:
     - alias: Matériel
-      info_line: 'Attention : il faut un VTT, un cadenas, un casque ainsi qu''une
-        chambre à air de rechange dès le premier jour du stage ! '
+      info_line: 'Attention : il faut un VTT, un cadenas, un casque ainsi qu''une
+        chambre à air de rechange dès le premier jour du stage ! '
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-16 ans
+    description: '<p>Une superbe semaine pour vos pré-ados et ados à la recherche
+      de sensation et d’activités fun!</p><p class="MsoNormal"><strong>PROGRAMME :
+      </strong>New Games, Laser Game, Koezio, Réalité Virtuelle et E-fun.</p><ul><li><p><strong>New
+      games </strong>: différentes activités fun sont proposées sur la journée telles
+      que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
+      à Space Fun Game d''Etterbeek</strong> : 3 parties de Laser Game indoor.</p></li><li><p><strong>Excursion
+      à Koezio au Docks Bruxsel :</strong> le centre propose des jeux de collaboration
+      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
+      épreuves de rapidité, de culture générale, et de l''accrobranche.</p></li><li><p><strong>Escape
+      room VR :</strong> activités de réalité virtuelle pour une expérience inoubliable
+      !</p></li><li><p><strong>E-Fun : </strong>segway, trottinette électrique (sur
+      place dans le centre).</p></li></ul><p><strong><em>ATTENTION :</em></strong><em>
+      le programme peut changer les semaines plus courtes.</em></p>'
+    infos:
+    - alias: Koezio
+      info_line: 'Koezio : La taille MINIMALE est d''1m40'
+    - alias: Déplacements
+      info_line: Les déplacements en transports en commun sont assurés par le CFS.
   - alias: Liège
     ville: Liège
     age: 12-16 ans
@@ -8553,7 +8586,7 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 6 à 14 ans
+    age: 5-16 ans
     description: '<p><strong><em>Stage spécial Road to World Cup 2022 : tournois organisés
       en fin de semaine</em></strong></p><p>Votre enfant est un vrai mordu du ballon
       ? Notre stage "Football Road to World Cup 2022" est l''idéal pour lui !</p><p>Ce
@@ -8565,7 +8598,7 @@ stages:
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6 à 14 ans
+    age: 5-16 ans
     description: '<p><strong><em>Stage spécial Road to World Cup 2022 : tournois organisés
       en fin de semaine</em></strong></p><p>Votre enfant est un vrai mordu du ballon
       ? Notre stage "Football Road to World Cup 2022" est l''idéal pour lui !</p><p>Ce
@@ -8816,14 +8849,20 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 10-16 ans
-    description: "<p>Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !</p><p>Il
-      te permettra de découvrir les sensations d’un vrai pilote : concentration, adrénaline
-      et amusement !</p><p><strong>Au programme</strong> : une demi-journée E-challenge,
-      2 demi-journées (segway et trottinette électrique, overboard), 2 sessions de
-      karting, 1 session de simulateur de course, la semaine se termine par une demi-journée
-      de Quad et une demi-journée de VTT.</p><p><strong>Le CFS se donne le droit d'annuler
-      le stage d'un enfant qui ne respecterait pas les différentes règles de sécurité.</strong></p>"
+    age: 8-16 ans
+    description: '<p>Tu es un futur pilote de F1 ? Viens t''exercer avec ce stage
+      !</p><p class="MsoNormal">Il te permettra de découvrir les sensations d’un vrai
+      pilote : concentration, adrénaline et amusement !</p><p class="MsoNormal"><strong>Au
+      programme</strong> : Segway, Trottinettes électriques, crazy Kart, Overboard,
+      Karting, Quad, Moto électrique, Laser game, Fun challenge !</p><ul><li><p>2
+      demi-journées <strong>E-FUN </strong>(segway et trottinette électrique, overboard,
+      crazy kart) ,</p></li><li><p>2 sessions de <strong>karting</strong>,</p></li><li><p>1
+      demi-journée de <strong>Fun Challenge</strong> <em>(En collaboration avec </em><strong><em>Jag
+      Events</em></strong><em>)</em> : activités crazy light, darts, sumo, twister
+      géant, lancer de hâches…</p></li><li><p><strong>Journée Quad, moto électrique
+      et Laser game</strong> en partenariat avec <strong>ROC Event.</strong></p></li></ul><p
+      class="MsoNormal"><strong>Le CFS se donne le droit d''annuler le stage d''un
+      enfant qui ne respecterait pas les différentes règles de sécurité.</strong></p>'
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée au activités en extérieur.
