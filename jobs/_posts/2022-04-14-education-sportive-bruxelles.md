@@ -14,7 +14,7 @@ Le CFS Créé en **1981**, le CFS propose des stages **sportifs** et **culturels
 
 D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et des **évènements sportifs** pour les **écoles**.
 
-#### 👉 Le CFS Centre de Formation Sportive est à la recherche d’un(e) **Moniteur(trice)** (discipline sportive + formation e-pilote) **diplômé(e) en éducation sportive** 🤸‍♀️
+#### 👉 Le CFS Centre de Formation Sportive est à la recherche d’un(e) **Moniteur(trice)** **diplômé(e) en éducation sportive** 🤸‍♀️
 
 ###### **FONCTION**
 
@@ -50,6 +50,7 @@ o Vous êtes flexible au niveau des horaires et disponible le samedi.
 
 ###### **OFFRE**
 
-Contrat **CDI à durée indéterminée.  
-Commencement prévu ASAP.**  
-📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:morgane@lecfs.be)
+* **Contrat CDI à durée indéterminée.**
+* **Formation E-Pilote**
+* **Commencement prévu ASAP.**  
+  📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:morgane@lecfs.be)

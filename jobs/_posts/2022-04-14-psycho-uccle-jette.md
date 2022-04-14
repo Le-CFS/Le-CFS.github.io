@@ -1,7 +1,7 @@
 ---
 layout: post
 menu: false
-title: Moniteur(-trice) de Psychomotricité à Bruxelles
+title: Moniteurs(-trices) de Psychomotricité à Bruxelles
 online: true
 banner: "/assets/images/moniteurs-trices_psychomotricite_brabant.jpg"
 description: Le CFS recrute ! Recherche moniteurs(trices) pour ses stages et durant
@@ -51,5 +51,5 @@ o Vous êtes flexible au niveau des horaires et disponible durant le weekend (sa
 
 ###### **OFFRE**
 
-Contrat **CDD 3 mois** renouvelable en **CDD d'1 an** de **septembre 2022** à **août 2023. Disponible le samedi !**  
+Contrat **CDD 3 mois** renouvelable en **CDD d'1 an** de **septembre 2022** à **août 2023.**  
 📩 Envoyez votre CV à candidature@lecfs.be
