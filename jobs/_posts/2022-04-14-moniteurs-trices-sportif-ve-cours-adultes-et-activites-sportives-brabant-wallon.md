@@ -1,8 +1,7 @@
 ---
 layout: post
 menu: false
-title: 'Moniteurs(trices) sportif(ve) : cours adultes et activités sportives Brabant
-  Wallon'
+title: 'Moniteur(trice) sportif(ve) : cours adultes et natation Brabant Wallon'
 online: true
 banner: "/assets/images/job_cours_adultes.jpg"
 description: Le CFS recrute ! Moniteurs(trices) sportif(ve) Brabant Wallon
@@ -15,7 +14,7 @@ Le CFS Créé en **1981**, le CFS propose des stages **sportifs** et **culturels
 
 D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et des **évènements sportifs** pour les **écoles**.
 
-#### 👉 Le CFS Centre de Formation Sportive est à la recherche de **moniteurs(trices)** pour nos **cours collectifs** pour les **adultes** et pour **nos cours de natation** **💧**
+#### 👉 Le CFS Centre de Formation Sportive est à la recherche de **moniteur(trice)** pour nos **cours collectifs** pour les **adultes** et pour **nos cours de natation** **💧**
 
 ###### **FONCTION**
 
