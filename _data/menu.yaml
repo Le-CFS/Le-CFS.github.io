@@ -219,7 +219,7 @@ anniversaires:
   titre: Anniversaires
   url: "/anniversaires/"
   title_mobile: Liste des activités
-  online_mobile: false
+  online_mobile: true
   sousmenu:
   - title: Réservation
     url: "/anniversaires/reservation/"
@@ -231,7 +231,7 @@ pour_les_ecoles:
   titre: Pour les écoles
   url: "/pour-les-ecoles/"
   title_mobile: Liste des activités
-  online_mobile: false
+  online_mobile: true
   sousmenu:
   - title: Journées sportives
     url: "/pour-les-ecoles/journees_sportives/"
@@ -247,7 +247,7 @@ brochures:
   title_mobile: Brochures
   online_mobile: false
   sousmenu:
-  - title: Stages
+  - title: MAG et activités
     url: "/brochures/stages/"
   # - title: Extrascolaire
   #   url: "/brochures/extrascolaire/"
