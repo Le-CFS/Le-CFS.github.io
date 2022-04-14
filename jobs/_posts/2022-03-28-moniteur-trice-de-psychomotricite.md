@@ -1,7 +1,7 @@
 ---
 layout: post
 menu: false
-title: Moniteurs(trices) de psychomotricité
+title: Moniteurs(trices) de psychomotricité dans le Brabant
 online: true
 banner: "/assets/images/moniteurs-trices_psychomotricite_brabant.jpg"
 description: Le CFS recrute ! Recherche moniteurs(trices) pour ses stages et durant
