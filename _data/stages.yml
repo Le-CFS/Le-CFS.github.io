@@ -6990,22 +6990,36 @@ stages:
   nouveau: true
   stage_une: false
   location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: "<p><strong>Et 1,2,3 PLOUF !</strong></p><p>1er pas dans l'eau ?</p><p>Ce
+      stage apprend à votre enfant les bases de la natation par le biais d'activités
+      ludiques (voyage sur une frite ou une planche, mettre la tête sous l'eau, etc.),
+      le tout dans une ambiance décontractée !</p><p>Les enfants ont l'occasion de
+      faire connaissance avec les joies de la piscine et de la pataugeoire via une
+      heure quotidienne d'accoutumance à l'eau.</p><p>L'après-midi, ils s'initient
+      à différentes activités de multisports et des jeux collectifs ou de coopération.</p>"
+    infos:
+    - alias: Moniteur
+      info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
+    - alias: Equipement
+      info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: "<p>Tu veux devenir un bon sportif et apprendre à nager comme un
-      vrai petit poisson ?</p><p>Ce stage est idéal pour toi !</p><p>Durant une période
-      d'activité : apprentissage quotidien des 4 nages (brasse, dos, crawl, et papillon),
-      dans le but d'être autonome dans l'eau. Les enfants participeront également
-      à différents jeux aquatiques.</p><p>Le stage est complété par un premier contact
-      avec le sport et les jeux collectifs, par lequel votre enfant développera les
-      différentes facettes de la motricité, le respect des règles et la vie en groupe.
-      Votre enfant découvrira un large panel d'activités fun et ludiques.</p>"
+    description: "<p><strong>Et 1,2,3 PLOUF !</strong></p><p>1er pas dans l'eau ?</p><p>Ce
+      stage apprend à votre enfant les bases de la natation par le biais d'activités
+      ludiques (voyage sur une frite ou une planche, mettre la tête sous l'eau, etc.),
+      le tout dans une ambiance décontractée !</p><p>Les enfants ont l'occasion de
+      faire connaissance avec les joies de la piscine et de la pataugeoire via une
+      heure quotidienne d'accoutumance à l'eau.</p><p>L'après-midi, ils s'initient
+      à différentes activités de multisports et des jeux collectifs ou de coopération.</p>"
     infos:
-    - alias: A prévoir dès le 1er jour !
-      info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
     - alias: Moniteurs
-      info_line: 'En piscine : 2 moniteurs pour 8 enfants.'
+      info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
+    - alias: Equipement
+      info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
   activation_onglets: true
 - name: Baby Poney
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyponey.png"
@@ -8638,18 +8652,42 @@ stages:
   nouveau: true
   stage_une: false
   location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6-8 ans
+    description: "<p>Votre enfant est fou de sport et aime découvrir de nouvelles
+      activités ? Le stage Fun Multisports &amp; Natation est fait pour lui ! </p><p>Les
+      enfants ont l'occasion de pratiquer une heure quotidienne de jeux aquatiques,
+      le tout dans une ambiance décontractée.</p><p>La semaine de stage est également
+      agrémentée par des sports collectifs et des activités Fun telles que le Kinball,
+      l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot !</p><p>Semaine
+      sportive et Fun assurée !</p>"
+    infos:
+    - alias: Moniteur
+      info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
+    - alias: Savoir nager
+      info_line: Votre enfant doit savoir nager 25m et être à l'aise dans l'eau pour
+        participer à ce stage. 
+    - alias: Equipement
+      info_line: Prévoir maillot, bonnet et essuie dès le 1er jour de stage.
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: "<p>Votre enfant est fou de sports et aime découvrir de nouvelles
-      activités ? Le stage Fun Multisports &amp; Natation est fait pour lui !</p><p>Les
-      enfants auront l'occasion de pratiquer une heure quotidienne de jeux aquatiques.</p><p>La
-      semaine de stage est également agrémentée par des sports collectifs et des activités
-      Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton
-      ou encore le flag foot !</p><p>Semaine sportive et Fun assurée !</p>"
+    description: "<p>Votre enfant est fou de sport et aime découvrir de nouvelles
+      activités ? Le stage Fun Multisports &amp; Natation est fait pour lui ! </p><p>Les
+      enfants ont l'occasion de pratiquer une heure quotidienne de jeux aquatiques,
+      le tout dans une ambiance décontractée.</p><p>La semaine de stage est également
+      agrémentée par des sports collectifs et des activités Fun telles que le Kinball,
+      l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot !</p><p>Semaine
+      sportive et Fun assurée !</p>"
     infos:
-    - alias: Tenue de bain
-      info_line: Prévoir maillot, bonnet et essuie tous les jours.
+    - alias: Moniteur
+      info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
+    - alias: Savoir nager
+      info_line: Votre enfant doit savoir nager 25m et être à l'aise dans l'eau pour
+        participer à ce stage. 
+    - alias: Equipement
+      info_line: Prévoir maillot, bonnet et essuie dès le 1er jour de stage.
   activation_onglets: true
 - name: Futsal
   img: "/assets/images/stages/activitessportives/futsal.png"
