@@ -8665,6 +8665,9 @@ stages:
     infos:
     - alias: Moniteur
       info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
+    - alias: Savoir nager
+      info_line: Votre enfant doit savoir nager 25m et être à l'aise dans l'eau pour
+        participer à ce stage. 
     - alias: Equipement
       info_line: Prévoir maillot, bonnet et essuie dès le 1er jour de stage.
   - alias: Bruxelles
@@ -8680,6 +8683,9 @@ stages:
     infos:
     - alias: Moniteur
       info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
+    - alias: Savoir nager
+      info_line: Votre enfant doit savoir nager 25m et être à l'aise dans l'eau pour
+        participer à ce stage. 
     - alias: Equipement
       info_line: Prévoir maillot, bonnet et essuie dès le 1er jour de stage.
   activation_onglets: true
