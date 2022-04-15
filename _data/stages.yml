@@ -8670,15 +8670,18 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: "<p>Votre enfant est fou de sports et aime découvrir de nouvelles
-      activités ? Le stage Fun Multisports &amp; Natation est fait pour lui !</p><p>Les
-      enfants auront l'occasion de pratiquer une heure quotidienne de jeux aquatiques.</p><p>La
-      semaine de stage est également agrémentée par des sports collectifs et des activités
-      Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton
-      ou encore le flag foot !</p><p>Semaine sportive et Fun assurée !</p>"
+    description: "<p>Votre enfant est fou de sport et aime découvrir de nouvelles
+      activités ? Le stage Fun Multisports &amp; Natation est fait pour lui ! </p><p>Les
+      enfants ont l'occasion de pratiquer une heure quotidienne de jeux aquatiques,
+      le tout dans une ambiance décontractée.</p><p>La semaine de stage est également
+      agrémentée par des sports collectifs et des activités Fun telles que le Kinball,
+      l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot !</p><p>Semaine
+      sportive et Fun assurée !</p>"
     infos:
-    - alias: Tenue de bain
-      info_line: Prévoir maillot, bonnet et essuie tous les jours.
+    - alias: Moniteur
+      info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
+    - alias: Equipement
+      info_line: Prévoir maillot, bonnet et essuie dès le 1er jour de stage.
   activation_onglets: true
 - name: Futsal
   img: "/assets/images/stages/activitessportives/futsal.png"
