@@ -49,7 +49,8 @@ o Vous êtes à l’aise avec les enfants ;
 
 o Vous êtes flexible au niveau des horaires et disponible durant le weekend (samedi).
 
-###### **OFFRE  
-**Contrat **CDD à partir du 1er juin avec à la clé un CDI**  
-  
+###### **OFFRE**
+
+Contrat **CDD à partir du 1er juin avec à la clé un CDI**
+
 📩 Envoyez votre CV à candidature@lecfs.be
