@@ -1,0 +1,53 @@
+---
+layout: page
+title: Articles de presse
+banner: "/assets/images/banner-jobs.jpg"
+permalink: "/presse/"
+description: Découvrez les dernières parutions du CFS
+image: ''
+message: Il n'y a pas d'offre pour le moment
+menu: false
+
+---
+{% assign count = 0 %}
+
+{% assign count = site.categories.articles | where: "online", "true" | size %}
+
+{% if count > 0 %}
+
+    {% for post in site.categories.articles %}
+      {% if post.online %}
+      <div class="blog-block post-content-area">  
+          <div class="blog-post">
+            
+            <div class="row">
+              <div class="col-md-8">
+                <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+                <p>{{ post.infos.teaser }}</p>
+              </div>
+              <div class="col-md-4">
+                {% if post.author %}
+                  <!-- #TODO -->
+                {% endif %}
+              </div>
+            </div>
+            
+
+            <div class="row">
+              <div class="col-md-6">
+                <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;">Continuer la lecture <i class="fa fa-arrow-circle-o-right icons"></i></a>
+              </div>
+              <div class="col-md-6">
+                <p class="text-right" style="padding-top: 25px;">{{ post.date | date: "%d/%m/%Y" }}</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      <div class="mb-60"></div>
+      {% endif %}
+    {% endfor %}
+
+{% else %}
+{{ page.message }}
+{% endif %}

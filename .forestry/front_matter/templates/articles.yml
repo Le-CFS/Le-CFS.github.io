@@ -1,0 +1,27 @@
+---
+label: Articles
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: post
+- type: boolean
+  name: menu
+  label: menu
+  hidden: true
+- type: text
+  name: title
+  label: title
+- name: online
+  type: boolean
+  label: Doit être publié ?
+- type: file
+  name: banner
+  label: banner
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO

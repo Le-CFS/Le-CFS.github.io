@@ -254,6 +254,11 @@ jobs:
   url: "/jobs/"
   title_mobile: JOBS
   online_mobile: true
+presse:
+  titre: Presse
+  url: "/presse/"
+  title_mobile: Presse
+  online_mobile: true
 contact:
   titre: Contact
   url: "/contact/"
