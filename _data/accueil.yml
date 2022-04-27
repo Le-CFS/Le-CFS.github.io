@@ -6,7 +6,7 @@ mycfs:
   texte_ordi: Se connecter - My CFS
   texte_mobile: My CFS
 inscription:
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
   icone: fa fa-edit
   autre_page: oui
   texte_ordi: Inscription rapide
@@ -15,9 +15,9 @@ slider:
 - titre: L'été au CFS
   src: "/assets/images/leteaucfs_22.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
-- titre: Solidaire avec l'Ukraine / In solidarity with Ukraine
-  src: "/assets/images/ukraine.jpg"
-  href: https://www.lecfs.be/news/2022/03/21/le-cfs-solidaire-avec-l-ukraine
+- titre: MAG CFS 2022
+  src: "/assets/images/mag2022.jpg"
+  href: https://www.lecfs.be/brochures/
 - titre: BON CADEAU
   src: "/assets/images/boncadeauete-1.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=14

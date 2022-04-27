@@ -29,6 +29,32 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Crazy Fun
+  categorie: Activités fun
+  img: "/assets/images/crazy-fun.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-16 ans
+    description: "<p><em>En partenariat avec </em><strong><em>ROC EVENTS</em></strong></p><p>Roc
+      events offre la chance aux plus jeunes de tester, de s’initier ou d’approfondir
+      leurs capacités dans la conduite. Ces stages sur circuit permettent un pilotage
+      maîtrisé grâce à une pédagogie adaptée et offrent une réelle occasion de valoriser
+      et de responsabiliser les enfants dans un cadre ludique, pédagogique et professionnel.
+      Durant la semaine, les jeunes apprennent à développer de bons réflexes. On se
+      souvient toujours de ses premiers tours de roue, ces moments chargés en émotions
+      qui marquent une vie…</p><p>Au programme = Quad / Moto / Laser game / Trottinette
+      électrique / Kart / Hoverboard / Segway / Bubble soccer / Structures gonflables
+      / …</p><p>Le stagiaire choisit son activité au jour le jour en fonction de ses
+      envies, ses sensations et ses affinités. Fun et amusement garanti !</p>"
+    infos:
+    - alias: Garderie
+      info_line: Attention, garderie du soir uniquement jusque 17h
 - name: Beach Soccer & Multisports
   categorie: Activités sportives
   img: "/assets/images/beach-soccer-stage.jpg"
