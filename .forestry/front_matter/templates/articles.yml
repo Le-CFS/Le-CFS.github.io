@@ -25,3 +25,5 @@ fields:
   config: {}
   template: seo
   label: SEO
+pages:
+- articles/_posts/2022-04-05-assistant-administratif-commercial.md
