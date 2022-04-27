@@ -1,5 +1,23 @@
 ---
 activites:
+- name: Parkour Pro
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_cfs_parkour.jpg"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - 'WAVRE - Collège Notre Dame de Basse Wavre '
+    age: 9-16 ans
+    description: "<p>Cette discipline utilise le corps pour seul outil. Face à des
+      obstacles naturels, ce sont les habilités motrices qui servent de support à
+      l'activité. Courses, sauts, grimpes, exercices d'équilibre et de suspension
+      sont au programme.</p><p>L'activité se déroule en <strong>salle </strong>et
+      2-3 séances sur l'année se font en <strong>milieu naturel.</strong></p>"
+    infos: []
 - name: Multisports
   categorie: Découvertes sportives et culturelles
   img: ''
