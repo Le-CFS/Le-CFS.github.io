@@ -35,6 +35,11 @@ sections:
   match: "**/*"
   templates:
   - jobs
+- type: directory
+  path: articles/_posts
+  label: Presse
+  create: all
+  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
