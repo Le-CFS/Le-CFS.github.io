@@ -37,6 +37,7 @@ fields:
 pages:
 - pages/anniversaires/en_savoir_plus.html
 - pages/anniversaires/reservation.html
+- pages/articles/articles.html
 - pages/brochures/adultes.html
 - pages/brochures/anniversaires.html
 - pages/brochures/extrascolaire.html
