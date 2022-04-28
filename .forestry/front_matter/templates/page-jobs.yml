@@ -35,4 +35,5 @@ fields:
   template: seo
   label: SEO
 pages:
+- pages/articles/articles.html
 - pages/jobs/jobs.html
