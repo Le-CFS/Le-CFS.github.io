@@ -13,13 +13,14 @@ banner: "/assets/images/backtosport.jpg"
 infos:
   date: 
   teaser: ''
-description: Regoûter aux joies du sport !
+description: Regoûtez aux joies du sport !
 image: "/assets/images/backtosport.jpg"
 
 ---
-### **Regoûter aux joies du sport !**
+### **Regoûtez aux joies du sport !**
 
-##### Cette année, le **CFS** en collaboration avec **l'asbl Sport Jette** et la **commune de Jette** a décidé de **VOUS** faire plaisir pour passer un moment **unique** en famille !  
+##### Cette année, le **CFS** en collaboration avec **l'asbl Sport Jette** et la **commune de Jette** a décidé de **VOUS** faire plaisir pour passer un moment **unique** en famille !
+
 Afin de promouvoir la **pratique sportive** auprès du grand public,  
 nous organisons au mois de mai **une série d’animations** dans le cadre du plan **"Back To Sport".** 🎁 Goodies et stages gratuit 🤩
 
