@@ -29,6 +29,28 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Football
+  categorie: Activités sportives
+  img: "/assets/images/football.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6-16 ans
+    description: "<p><em>Stage en partenariat avec le</em><strong><em> R.F.C Orp Noduwez</em></strong></p><p>Votre
+      enfant est un vrai mordu du ballon ? Notre stage de football est l'idéal pour
+      lui ! </p><p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p><p>Les
+      enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble,
+      des frappes, des passes et du contrôle de balle.</p><p>Chaque entraînement est
+      abordé de manière ludique afin d'allier football et plaisir.</p><p>La journée
+      est répartie en 3 périodes de football et une période de multisports.</p>"
+    infos:
+    - alias: Garderie
+      info_line: Garderie de 8h à 17h, comprise dans les frais d'inscription.
 - name: Crazy Fun
   categorie: Activités fun
   img: "/assets/images/crazy-fun.jpg"
