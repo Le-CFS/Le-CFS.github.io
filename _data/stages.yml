@@ -29,6 +29,26 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Festifoot
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/festifoot.jpg"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-6 ans
+    description: "<p><em>Stage en partenariat avec le</em><strong><em> R.F.C. Orp
+      Noduwez</em></strong></p><p>Votre enfant est un vrai mordu du ballon ? Notre
+      stage festifoot est l'idéal pour lui ! </p><p>50% du temps de festifoot c'est
+      principalement des 2 contre 2, les 50% autres, ce sont des ateliers footballistiques
+      adaptés à leurs âges.</p>"
+    infos:
+    - alias: Garderie
+      info_line: Garderie de 8h à 17h, comprise dans les frais d'inscription.
 - name: Football
   categorie: Activités sportives
   img: "/assets/images/football.jpg"
