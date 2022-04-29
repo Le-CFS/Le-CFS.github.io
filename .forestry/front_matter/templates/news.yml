@@ -49,3 +49,5 @@ fields:
   config: {}
   template: seo
   label: SEO
+pages:
+- news/_posts/back-to-sport-un-evenement-a-ne-pas-manquer.md
