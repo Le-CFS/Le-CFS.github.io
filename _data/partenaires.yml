@@ -1,5 +1,12 @@
 ---
 liste:
+- name: R.F.C. ORP Noduwez
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/rfc-orp-noduwez.png"
+  href: https://rfcorpnoduwez.be/
+  bouton: ''
+  couleur_bouton: ''
 - name: Newteam Beach Soccer Brussels
   categorie: partenaires pédagogiques
   online: true
