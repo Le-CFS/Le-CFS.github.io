@@ -19,9 +19,8 @@ image: "/assets/images/backtosport.jpg"
 ---
 ### **Regoûter aux joies du sport !**
 
-##### Cette année, le **CFS** en collaboration avec **l'asbl Sport Jette** et la **commune de Jette**   
-a décidé de **VOUS** faire plaisir pour passer un moment **unique** en famille !   
-Afin de promouvoir la **pratique sportive** auprès du grand public,   
+##### Cette année, le **CFS** en collaboration avec **l'asbl Sport Jette** et la **commune de Jette** a décidé de **VOUS** faire plaisir pour passer un moment **unique** en famille !  
+Afin de promouvoir la **pratique sportive** auprès du grand public,  
 nous organisons au mois de mai **une série d’animations** dans le cadre du plan **"Back To Sport".** 🎁 Goodies et stages gratuit 🤩
 
 **Au programme pour la journée "Back to Sport" Family du samedi 07 mai :**  
@@ -31,10 +30,10 @@ _Activités **ludiques**, **originales** et **gratuites** pour tous les âges._
 _En collaboration avec **Jag Events**_  
 🕘 De 10h00 à 17h00
 
-• **Parcours de Psychomotricité**   
+• **Parcours de Psychomotricité**  
 🕘 De 10h00 à 17h00
 
-• **Animation château d'escalade**   
+• **Animation château d'escalade**  
 _En collaboration avec **Jag Events**_  
 🕐 De 10h00 à 17h00
 
@@ -48,10 +47,10 @@ _En collaboration avec **Jag Events**_
 _En collaboration avec **Hidden Power**_  
 🕐 De 14h00 à 17h00
 
-**INFOS PRATIQUES  
+\**INFOS PRATIQUES  
 _Adresse de l'évènement :  
-_**📍 Place Reine Astrid • 1090 Jette**_  
-  
+**_📍 Place Reine Astrid • 1090 Jette_**
+
 _**🎁 **_Goodies et stages offerts_ 🤩 _:_**  
 A l'occasion de cette journée, des goodies seront distribués durant toute la journée.
 
