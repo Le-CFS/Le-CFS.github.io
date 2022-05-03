@@ -1,9 +1,16 @@
 ---
 liste:
+- name: CTT Tourinnes asbl
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/ctttourinnes_asbl.png"
+  href: https://ctttourinnes.be/
+  bouton: ''
+  couleur_bouton: ''
 - name: R.F.C. ORP Noduwez
   categorie: Partenaires de stages
   online: true
-  logo: "/assets/images/rfc-orp-noduwez.png"
+  logo: "/assets/images/orp_jauche.jpg"
   href: https://rfcorpnoduwez.be/
   bouton: ''
   couleur_bouton: ''
@@ -24,7 +31,7 @@ liste:
 - name: Speed 4 Fun
   categorie: partenaires pédagogiques
   online: true
-  logo: "/assets/images/microsoftteams-image.png"
+  logo: "/assets/images/speed4fun-1.jpg"
   href: https://www.speed4fun.be/
   bouton: ''
   couleur_bouton: ''
