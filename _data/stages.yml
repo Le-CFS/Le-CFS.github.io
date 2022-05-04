@@ -29,6 +29,33 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Tennis de Table
+  categorie: Activités sportives
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6-16 ans
+    description: "<p><em>Stage en collaboration avec </em><strong><em>CTT Tourinnes
+      asbl</em></strong></p><p>Votre enfant veut découvrir les joies d'un sport de
+      raquettes ? </p><p>Ce stage propose une découverte et/ou un perfectionnement
+      au tennis de table. Les enfants apprennent à manier la raquette : coups droits,
+      services, revers, et déplacements autour de la table.</p><p>Le stage est complété
+      par des activités de multisports.</p><p>Le stage de tennis de table est encadré
+      par Van Laere Pieter-Paul et/ou Benjamin Noël, tous deux diplômés par l'Adeps.
+      Il y aura également la présence de relanceur en fonction des inscriptions.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
+        disposition. Vous pouvez bien sûr apporter votre propre matériel.
+    - alias: Garderie
+      info_line: 'Garderie : uniquement de 8h30 à 16h30. Tarif compris dans les frais
+        d''inscription.'
 - name: Festifoot
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/festifoot.jpg"
