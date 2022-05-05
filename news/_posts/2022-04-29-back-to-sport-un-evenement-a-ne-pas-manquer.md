@@ -43,7 +43,7 @@ _En collaboration avec **Jag Events**_
 • **New Games**  
 🕚 De 10h00 à 17h00
 
-• **K-Pop** _(Danse Coréenne)_ - **Yoga**  
+• **K-Pop** _(Danse Coréenne)_ - **Small Dance** & **Yoga**  
 _En collaboration avec **Hidden Power**_  
 🕐 De 14h00 à 17h00
 
