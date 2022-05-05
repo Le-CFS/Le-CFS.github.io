@@ -12,9 +12,9 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: Back to Sport
-  src: "/assets/images/backtosport.jpg"
-  href: https://www.lecfs.be/news/2022/04/29/back-to-sport-un-evenement-a-ne-pas-manquer
+- titre: C'est déjà samedi ! Back to Sport 07/05
+  src: "/assets/images/slider_backtosport_family.jpg"
+  href: https://www.lecfs.be/news/2022/05/05/07-mai-back-to-sport-family
 - titre: L'été au CFS
   src: "/assets/images/leteaucfs_22.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
