@@ -12,9 +12,6 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: C'est déjà samedi ! Back to Sport 14/05
-  src: "/assets/images/slider_urban_sport.jpg"
-  href: https://www.lecfs.be/news/2022/05/09/urban-sport-14-05
 - titre: L'été au CFS
   src: "/assets/images/leteaucfs_22.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
