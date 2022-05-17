@@ -1,12 +1,5 @@
 ---
 liste:
-- name: 'Manège « L’écurie Barré » '
-  categorie: Partenaires de stages
-  online: true
-  logo: "/assets/images/ecurie-barre.jpg"
-  href: ''
-  bouton: ''
-  couleur_bouton: ''
 - name: CTT Tourinnes asbl
   categorie: Partenaires de stages
   online: true
@@ -19,13 +12,6 @@ liste:
   online: true
   logo: "/assets/images/orp_jauche.jpg"
   href: https://rfcorpnoduwez.be/
-  bouton: ''
-  couleur_bouton: ''
-- name: Newteam Beach Soccer Brussels
-  categorie: partenaires pédagogiques
-  online: true
-  logo: "/assets/images/new-team-beach-soccer.png"
-  href: https://www.facebook.com/newteambeachsoccer/
   bouton: ''
   couleur_bouton: ''
 - name: Padel Events Academy
@@ -46,6 +32,20 @@ liste:
   categorie: Partenaires de stages
   online: false
   logo: "/assets/images/jagevents.png"
+  href: ''
+  bouton: ''
+  couleur_bouton: ''
+- name: Newteam Beach Soccer Brussels
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/new-team-beach-soccer.png"
+  href: https://www.facebook.com/newteambeachsoccer/
+  bouton: ''
+  couleur_bouton: ''
+- name: 'Manège « L’écurie Barré » '
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/ecurie-barre.jpg"
   href: ''
   bouton: ''
   couleur_bouton: ''
