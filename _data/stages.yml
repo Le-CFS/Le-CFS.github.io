@@ -29,6 +29,28 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Equitation
+  categorie: Activités sportives
+  img: ''
+  online: true
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 3-10 ANS
+    description: "<p><em>Stage en collaboration avec </em>«<strong><em> L’Ecurie Barré
+      » </em></strong><em>à Lonzée (Gembloux)</em></p><p>L’écurie est basée sur le
+      <strong>respect du cheva</strong>l et son <strong>bien-être</strong>, les enfants
+      apprennent à <strong>s’occuper de leur poney</strong> : brosser - seller - brider.</p><p>Les
+      enfants montent le matin et l’après-midi : cours, promenade, jeux avec poney,
+      psychomotricité <em>(apprendre à manipuler le poney).</em></p><p>Les enfants
+      doivent prévoir boissons, collations et le pique-nique.</p>"
+    infos:
+    - alias: Garderie
+      info_line: " Garderie de 8h à 9h et de 16h à 17h30 (gratuite)."
 - name: Tennis de Table
   categorie: Activités sportives
   img: "/assets/images/tennis-de-table.png"
