@@ -35,32 +35,11 @@ liste:
   href: ''
   bouton: ''
   couleur_bouton: ''
-- name: Newteam Beach Soccer Brussels
-  categorie: partenaires pédagogiques
-  online: true
-  logo: "/assets/images/new-team-beach-soccer.png"
-  href: https://www.facebook.com/newteambeachsoccer/
-  bouton: ''
-  couleur_bouton: ''
-- name: 'Manège « L’écurie Barré » '
-  categorie: Partenaires de stages
-  online: true
-  logo: "/assets/images/ecurie-barre.jpg"
-  href: ''
-  bouton: ''
-  couleur_bouton: ''
 - name: Lamogoya
   categorie: partenaires pédagogiques
   online: true
   logo: "/assets/images/lamogoya.jpg"
   href: http://www.lamogoya.com/
-  bouton: Site web
-  couleur_bouton: ''
-- name: Interlingua
-  categorie: partenaires pédagogiques
-  online: true
-  logo: "/assets/images/interlingua.jpg"
-  href: https://www.interlingua-asbl.be/
   bouton: Site web
   couleur_bouton: ''
 - name: BDK Stages
@@ -70,12 +49,33 @@ liste:
   href: https://www.bdkstages.be/
   bouton: Site web
   couleur_bouton: ''
+- name: 'Manège « L’écurie Barré » '
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/ecurie-barre.jpg"
+  href: ''
+  bouton: ''
+  couleur_bouton: ''
+- name: Interlingua
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/interlingua.jpg"
+  href: https://www.interlingua-asbl.be/
+  bouton: Site web
+  couleur_bouton: ''
 - name: LSA Perwez Beach Soccer
   categorie: partenaires pédagogiques
   online: true
   logo: "/assets/images/lsa.jpg"
   href: https://www.facebook.com/LSA-Perwez-Beach-Soccer-357436874880026/
   bouton: Site web
+  couleur_bouton: ''
+- name: Newteam Beach Soccer Brussels
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/new-team-beach-soccer.png"
+  href: https://www.facebook.com/newteambeachsoccer/
+  bouton: ''
   couleur_bouton: ''
 - name: Royal La Hulpe Sporting Club
   categorie: partenaires pédagogiques
