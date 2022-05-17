@@ -1,5 +1,12 @@
 ---
 liste:
+- name: 'Manège « L’écurie Barré » '
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/ecurie-barre.jpg"
+  href: ''
+  bouton: ''
+  couleur_bouton: ''
 - name: CTT Tourinnes asbl
   categorie: Partenaires de stages
   online: true
