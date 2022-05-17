@@ -31,9 +31,9 @@ categories:
 stages:
 - name: Equitation
   categorie: Activités sportives
-  img: ''
+  img: "/assets/images/stage-enfant-equitation-ecuriebarre-500x500.jpg"
   online: true
-  nouveau: false
+  nouveau: true
   stage_une: false
   activation_onglets: false
   inscription: ''
