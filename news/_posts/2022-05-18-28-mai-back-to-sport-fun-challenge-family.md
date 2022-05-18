@@ -23,26 +23,24 @@ _Regoûtez aux joies du sport en famille_ 💕
 
 **Au programme pour le samedi 28 mai :**
 
-• **Parcours Fun Challenge   
-**_(Crazy Light, lancer de hache, combat de sumo, twister géant)_  
+• **Parcours Fun Challenge**  
+_(Crazy Light, lancer de hache, combat de sumo, twister géant)_  
 _En collaboration avec **Jag Events**_  
 🕘 De 10h00 à 17h00
 
-• **Ninja Warriors  
-**_(Parcours d'obstacles)_  
+• **Ninja Warriors**  
+_(Parcours d'obstacles)_  
 🕘 De 10h00 à 17h00
 
-• **Krav Maga  
-**_En collaboration avec **Krav Maga Bruxelles**_  
-🕘 De 10h00 à 17h00
+• **Krav Maga**  
+_En collaboration **avec Krav Maga Bruxelles**_**  
+🕘** De 14h00 à 17h00
 
 • **Danse**  
-_En collaboration avec **Dance 4 you**_  
-🕘 De 10h00 à 17h00
+🕘 De 14h00 à 17h00
 
 • **Flashmob Géant** au profit de l'Ukraine  
-_En collaboration avec **Dance 4 you**_  
-🕘 De 15h00 à 17h00
+🕘 A 15h00 !
 
 INFOS PRATIQUES  
 Adresse de l’évènement :  
