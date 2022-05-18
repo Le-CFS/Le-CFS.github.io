@@ -13,7 +13,7 @@ inscription:
   texte_mobile: Inscription
 slider:
 - titre: BACK TO SPORT 28/05
-  src: "/assets/images/backtosport_28_05.jpg"
+  src: "/assets/images/backtosport28_05.jpg"
   href: https://www.lecfs.be/news/2022/05/18/28-mai-back-to-sport-fun-challenge-family
 - titre: L'été au CFS
   src: "/assets/images/leteaucfs_22.jpg"
