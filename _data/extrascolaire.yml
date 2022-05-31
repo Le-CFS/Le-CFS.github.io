@@ -25,8 +25,7 @@ activites:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    centres:
-    - Rixensart - Centre Sportif de Rixensart
+    centres: []
     age: 7-14 ans
     description: "<p>Cours de skate donné par notre partenaire Maxextrême dans le
       seul skatepark privé du Brabant Wallon. Apprenez le skateboard dans une ambiance
