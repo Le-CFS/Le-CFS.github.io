@@ -1,5 +1,21 @@
 ---
 activites:
+- name: Skate
+  categorie: Activités fun
+  img: "/assets/images/activites-extrascolaires-skate-300x300.jpg"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - Rixensart - Centre Sportif de Rixensart
+    age: 7-14 ans
+    description: "<p>Cours de skate donné par notre partenaire Maxextrême dans le
+      seul skatepark privé du Brabant Wallon. Apprenez le skateboard dans une ambiance
+      propre aux sports extrêmes et accompagné par des professionnels du milieu.</p>"
+    infos: []
 - name: Parkour Pro
   categorie: Activités sportives
   img: "/assets/images/activites_parascolaires_cfs_parkour.jpg"
