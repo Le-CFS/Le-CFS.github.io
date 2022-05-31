@@ -9,7 +9,8 @@ activites:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    centres: []
+    centres:
+    - Wavre - Parc de l’Europe
     age: 7-14 ans
     description: "<p>Cours de trottinette freestyle donné par notre partenaire Maxextrême
       dans le seul skatepark privé du Brabant Wallon. Apprenez la trottinette freestyle
@@ -25,7 +26,8 @@ activites:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    centres: []
+    centres:
+    - Wavre - Parc de l’Europe
     age: 7-14 ans
     description: "<p>Cours de skate donné par notre partenaire Maxextrême dans le
       seul skatepark privé du Brabant Wallon. Apprenez le skateboard dans une ambiance
