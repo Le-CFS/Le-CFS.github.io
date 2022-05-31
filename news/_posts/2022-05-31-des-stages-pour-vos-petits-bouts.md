@@ -6,7 +6,7 @@ tags:
 - psychomotricite
 - ete
 title: "Des stages pour vos petits bouts \U0001F476"
-banner: "/assets/images/edit_short_lespetitsbouts.mp4"
+banner: "/assets/images/stages_petitsbouts-1.jpg"
 infos:
   date: 
   teaser: ''
