@@ -50,8 +50,8 @@ Code promo : **Petitsbouts2022**_
 
 📞 Nous sommes joignable le lundi, mardi, jeudi et vendredi de 08h00 à 12h30 et de 13h30 à 18h00 et le mercredi de 08h00 à 18h00 non-stop.  
 **_Brabant Wallon_** : 010/22.73.96  
-**Bruxelles** : 02/420.53.02  
-**Liège** : 085/31.22.46  
+**_Bruxelles_** : 02/420.53.02  
+**_Liège_** : 085/31.22.46  
 📧 info@lecfs.be
 
 A très vite 😍
