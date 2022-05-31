@@ -1,5 +1,21 @@
 ---
 activites:
+- name: Trottinette freestyle
+  categorie: Activités fun
+  img: "/assets/images/activites-extrascolaires-trott-300x300.jpg"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres: []
+    age: 7-14 ans
+    description: "<p>Cours de trottinette freestyle donné par notre partenaire Maxextrême
+      dans le seul skatepark privé du Brabant Wallon. Apprenez la trottinette freestyle
+      dans une ambiance propre aux sports extrêmes et accompagné par des professionnels
+      du milieu.</p>"
+    infos: []
 - name: Skate
   categorie: Activités fun
   img: "/assets/images/activites-extrascolaires-skate-300x300.jpg"
