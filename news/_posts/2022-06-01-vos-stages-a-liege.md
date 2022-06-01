@@ -20,7 +20,7 @@ Du fun, du sport et de la créativité durant tout l'été ☀
 😎 Au programme en **Juillet** :  
 Psycho Bricolage - Psycho Cuisine - Cirque Mômes - Multisports - Multisports & Langues - Vélo-mômes - Danse - Techniques Artistiques - Football - Roller - Aventure,...
 
-😎 Et en **août :**  
+😎 Et en **Août :**  
 Psycho Cuisine - Multisports - Baby Tennis - Football - Danse - Techniques Artistiques - Aventure - New Games -X-trem - Meilleur Pâtissier,...
 
 **📅** [**Programme complet**](https://www.lecfs.be/files/liege/ "Programme été Liège")  
