@@ -29,6 +29,30 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Fun Sports Karting
+  categorie: Internat
+  img: ''
+  online: false
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Floreffe
+    ville: Brabant Wallon
+    age: 11-16 ans
+    description: "<p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p><p>Le
+      cocktail 100% Fun par excellence avec un grand nombre d'activités différentes
+      !</p><p>VTT, une séance de rando Trottinette électrique, karting 2x sur une
+      des plus belles pistes indoor de Belgique, Escalade en salle 1x et piscine détente,
+      une journée Fun Nautic avec bouée tractée- zodiac- kayak, Laser Game sur site
+      extérieur spécialisé + Sports.</p><p>Le tout dans le cadre magnifique de l'Abbaye
+      de Floreffe.</p>"
+    infos:
+    - alias: Accueil
+      info_line: Accueil des stagiaires le dimanche soir à 19h30.
+    - alias: matériel
+      info_line: Venir avec son VTT + casque obligatoire - location limitée possible.
 - name: Fun Aventure, Accrobranche & E-pilote
   categorie: Internat
   img: "/assets/images/stoumont.png"
