@@ -29,6 +29,31 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Comédie Musicale
+  categorie: Internat
+  img: "/assets/images/comedie-musicale.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Godinne
+    ville: Brabant Wallon
+    age: 10-15 ans
+    description: "<p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p><p>Soyez
+      prêts à découvrir les paillettes de Broadway et à danser, chanter et jouer au
+      rythme de la comédie musicale !</p><p>Nos monitrices expérimentées (directrices
+      de troupe, formation cours Florent à Paris!) vous emmènent dans une formidable
+      création ! Préparez-vous à vous approprier la scène, apprendre à évoluer dans
+      l’espace, perfectionner votre diction, développer votre oreille musicale, prendre
+      confiance en vous, gérer votre trac, développer votre créativité sur scène mais
+      aussi en coulisses (créations de décors et costumes) et surtout à faire partie
+      d’une troupe de comédie musicale !</p><p>Une expérience enrichissante et pleine
+      de rencontres ! La scène n’attend plus que vous !</p>"
+    infos:
+    - alias: Accueil
+      info_line: Accueil des stagiaires le dimanche soir à 19h.
 - name: Fun Sports Karting
   categorie: Internat
   img: "/assets/images/karting.png"
