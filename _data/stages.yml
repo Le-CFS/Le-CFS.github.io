@@ -5605,7 +5605,7 @@ stages:
 - name: Football Academy
   categorie: Internat
   img: "/assets/images/internat-foot.jpg"
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   inscription: ''
@@ -5632,9 +5632,9 @@ stages:
       animations sont organisées en soirée !</p>"
     infos:
     - alias: Internat
-      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation
-        16h, et repas du soir. Arrivée le dimanche 10 juillet à 14h à Stoumont et
-        départ le vendredi 15 juillet à 17h.'
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation
+        16h, et repas du soir. Arrivée le dimanche 10 juillet à 14h à Stoumont et
+        départ le vendredi 15 juillet à 17h.'
   activation_onglets: true
 - name: Sports Raquettes & VTT
   categorie: Activités sportives
