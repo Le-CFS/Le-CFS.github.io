@@ -30,7 +30,7 @@ categories:
   btn: btn-stage-internat
 stages:
 - name: Fun Aventure, Accrobranche & E-pilote
-  categorie: Activités fun
+  categorie: Internat
   img: "/assets/images/stoumont.png"
   online: true
   nouveau: true
@@ -8484,20 +8484,52 @@ stages:
 - name: Aventure Camp
   img: "/assets/images/stage-enfant-aventure-camp-500x500.jpg"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Internat
+  online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Espagne
+    ville: Espagne
+    age: 12-17 ans
+    description: "<p><em>Stage en partenariat avec </em><strong><em>ADSL</em></strong></p><p>Activités
+      : découverte de Platja d’Aro et selfie tour, activités de plage, sports de plage
+      et bains de mer, journée découverte de la Fontaine Piquante, accrobranche, journée
+      vélo avec arrêt sur une plage de sable fin, snorkeling à S’Agaro, activités
+      Koh Lanta, journée trekking côtier le long des plages avec arrêts prévus pour
+      se baigner + pique-nique, journée découverte de Barcelone et Pool Party offertes.</p><p>Excursions
+      payantes en option :</p><ul><li><p>Aquapark (35€ - Dernier jour du séjour)</p></li><li><p>Banane
+      aquatique + slider aquatique (35€ - en cours de séjour</p></li></ul>"
+    infos:
+    - alias: Détails
+      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
+        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
+        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   activation_onglets: true
-- name: Nauti Camp
+- name: Nautic Camp
   img: "/assets/images/stage-enfant-nauti-camp-500x500.jpg"
   inscription: ''
-  categorie: Les petits bouts
-  online: false
+  categorie: Internat
+  online: true
   nouveau: false
   stage_une: false
-  location: []
+  location:
+  - alias: Espagne
+    ville: Espagne
+    age: 12-17 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>ADSL</em></strong></p><p>Activités
+      : découverte de Platja d’Aro et selfie tour, activités de plage, sports de plage
+      et bains de mer, snorkeling à S’Agaro, kayak de mer et banane aquatique, activités
+      Koh Lanta, journée trekking côtier le long des plages avec arrêts prévus dans
+      des criques pour se baigner + pique-nique, snorkeling à Platja d’Aro + journée
+      découverte de Barcelone et Pool Party offertes.</p><p>Deux sorties sont proposées
+      moyennant un supplément :</p><ul><li><p>Aquapark - 35€ (le dernier jour)</p></li><li><p>Slider
+      aqua - 25€ (durant la semaine)</p></li></ul>"
+    infos:
+    - alias: Détails
+      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
+        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
+        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
   activation_onglets: true
 - name: Aqua Fun
   img: "/assets/images/stages/activitessportives/aquafun.png"
