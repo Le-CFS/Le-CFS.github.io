@@ -31,8 +31,8 @@ categories:
 stages:
 - name: Fun Sports Karting
   categorie: Internat
-  img: ''
-  online: false
+  img: "/assets/images/karting.png"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
