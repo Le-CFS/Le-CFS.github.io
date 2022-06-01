@@ -8505,7 +8505,7 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  activation_onglets: true
+  activation_onglets: false
 - name: Nautic Camp
   img: "/assets/images/stage-enfant-nauti-camp-500x500.jpg"
   inscription: ''
@@ -8530,7 +8530,7 @@ stages:
       info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
         Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
         une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
-  activation_onglets: true
+  activation_onglets: false
 - name: Aqua Fun
   img: "/assets/images/stages/activitessportives/aquafun.png"
   inscription: ''
@@ -9312,15 +9312,30 @@ stages:
     - alias: Garderie
       info_line: 'Pour les activités à Walhain : garderie à partir de 8h00 le matin.'
   activation_onglets: true
-- name: Football Camp
+- name: 'Football '
   img: "/assets/images/stages/activitessportives/footcamp.jpg"
   inscription: ''
-  categorie: Activités sportives
-  online: false
+  categorie: Internat
+  online: true
   nouveau: false
   stage_une: false
-  location: []
-  activation_onglets: true
+  location:
+  - alias: Espagne
+    ville: Espagne
+    age: 12-17 ans
+    description: "<p><em>Stage en collaboration avec</em> <strong><em>ADSL</em></strong></p><p>Activités
+      : Découverte de Platja d’Aro et selfie tour, Football matin et en soirée (sauf
+      jour de l’excursion à Barcelone et jour N°8 du retour), activités de plage,
+      sports de plage et bains de mer, journée découverte de Barcelone et Pool Party
+      offertes.</p><p>Excursions payantes en option :</p><ul><li><p>Aquapark (35€
+      - Dernier jour du séjour)</p></li><li><p>Banane aquatique + slider aquatique
+      (35€ - en cours de séjour)</p></li></ul>"
+    infos:
+    - alias: Détails
+      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
+        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
+        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+  activation_onglets: false
 - name: Ski
   img: "/assets/images/stages/activitessportives/ski.jpg"
   inscription: ''
