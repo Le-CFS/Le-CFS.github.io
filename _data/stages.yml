@@ -29,6 +29,35 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Basket "Marc Deheneffe"
+  categorie: Internat
+  img: "/assets/images/basket.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Malonne
+    ville: Brabant Wallon
+    age: 11-18 ans
+    description: '<p><em>En collaboration avec l''</em><strong><em>ADSL</em></strong></p><p>Perfectionnement
+      en formule de stage internat pour joueurs ayant au moins un an de pratique du
+      basketball en club ! Nouvelle formule de stage "THE BEST 5".<br><br>Nous vous
+      proposons un stage de perfectionnement sous la direction de coaches expérimentés
+      dans l''apprentissage du basketball chez les jeunes !</p><p>Différents thèmes
+      sont proposés avec un degré de difficulté correspondant à l''âge des joueurs
+      et des joueuses. Citons quelques exemples : techniques de shoot, technique de
+      course, mouvements sans ballon, astuces défensives, maniement de ballon... Les
+      ressources sont énormes ! Le tout, chapeauté par un directeur de camp (Head
+      Coach) et l''ex-joueur international namurois <strong>MARC DEHENEFFE</strong>.<br><br>L''objectif
+      de notre équipe de coachs : permettre à chaque joueur et joueuse d''élever son
+      niveau de jeu !</p>'
+    infos:
+    - alias: accueil
+      info_line: Accueil des stagiaires dimanche soir à 19h.
+    - alias: cadeau
+      info_line: Cadeaux pour chaque participant 
 - name: Jeux Vidéo & Sports
   categorie: Internat
   img: "/assets/images/jeux-video.png"
