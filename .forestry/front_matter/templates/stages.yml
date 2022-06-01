@@ -89,6 +89,9 @@ fields:
         - Oostduinkerke
         - Marbehan
         - Marche-en-Famenne
+        - Malonne
+        - Foreffe
+        - Godinne
         source:
           type: simple
           section: 
