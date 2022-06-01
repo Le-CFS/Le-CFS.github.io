@@ -29,6 +29,28 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Fun Sports Nautic
+  categorie: Internat
+  img: "/assets/images/sport-nautic.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Godinne
+    ville: Brabant Wallon
+    age: 10-15 ans
+    description: "<p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p><p>Plein
+      succès pour ce Stage d'été rafraîchissant !</p><p>Paddle, Piscine détente, jeux
+      en piscine, Vtt balade et technique, kayak de mer, Bouée tractée par un zodiac,
+      sports détente en extérieur...</p><p>Un cocktail d’activités loisirs en pleine
+      nature !</p>"
+    infos:
+    - alias: Accueil
+      info_line: Accueil des stagiaires le dimanche soir à 19h.
+    - alias: matériel
+      info_line: Venir avec son VTT + casque obligatoire - location limitée possible.
 - name: Comédie Musicale
   categorie: Internat
   img: "/assets/images/comedie-musicale.png"
