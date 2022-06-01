@@ -9330,15 +9330,29 @@ stages:
   stage_une: false
   location: []
   activation_onglets: true
-- name: Padel Tennis Camp
-  img: "/assets/images/stages/activitessportives/padeltenniscamp.jpg"
+- name: Tennis
+  img: "/assets/images/stage-enfant-internat-tennis-500x500.jpg"
   inscription: ''
-  categorie: Activités sportives
-  online: false
+  categorie: Internat
+  online: true
   nouveau: false
   stage_une: false
-  location: []
-  activation_onglets: true
+  location:
+  - alias: Espagne
+    ville: Espagne
+    age: 12-17 ans
+    description: "<p>Activités : Découverte de Platja d’Aro et selfie tour, Tennis
+      matin et en soirée (sauf jour de l’excursion à Barcelone et jour N°8 du retour),
+      activités de plage, sports de plage et bains de mer, journée découverte de Barcelone
+      et Pool Party offertes.</p><p>Deux sorties sont proposées moyennant un supplément
+      :</p><ul><li><p>Aquapark - 35€ (le dernier jour)</p></li><li><p>Slider aqua
+      - 25€ (durant la semaine)</p></li></ul>"
+    infos:
+    - alias: Détails
+      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
+        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
+        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+  activation_onglets: false
 - name: Apprenti Savant
   img: "/assets/images/stages/activitesartistiquesetloisirs/apprentisavant.png"
   inscription: ''
