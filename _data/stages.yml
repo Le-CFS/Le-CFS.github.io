@@ -29,6 +29,35 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Fun Aventure, Accrobranche & E-pilote
+  categorie: Activités fun
+  img: "/assets/images/stoumont.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Stoumont
+    ville: Stoumont
+    age: 9-15 ans
+    description: "<p><em>En partenariat avec l'</em><strong><em>ADSL Stages</em></strong></p><p>Pour
+      les amoureux des sports Evasion et du Quad... un super stage dans une région
+      magnifique au bord de l'Amblève !</p><p>Au programme : Pilotage Quad, course
+      d'orientation, parcours explo raid, tir à l'arc, tir à la carabine et super
+      journée aventure dans un site spécialisé avec parcours de cordes et ponts de
+      singe.</p><p>L'encadrement est assuré par des professeurs d'éducation physique.</p><p>Le
+      cadre est agréable avec une superbe vue sur la vallée. Bol d'air et sensations
+      assurées pour cette semaine à Stoumont !</p><p>Nous logeons dans le centre Forêt
+      et Sports. Le cadre est agréable avec une superbe vue sur la vallée, les chambres
+      de 2 à 4 lits sont lumineuses et les repas sont assurés par le traiteur sur
+      place. Les jeunes sont pris en charge 24h/24 et de chouettes animations sont
+      organisées en soirée !</p>"
+    infos:
+    - alias: Internat
+      info_line: 'Internat : 6 nuitées comprenant petit-déjeuner, repas de midi, collation
+        16h, et repas du soir. Arrivée le dimanche 14 août à 14h au Centre Forêt et
+        Sports de Stoumont et départ le samedi 20 août à 10h.'
 - name: Equitation
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-equitation-ecuriebarre-500x500.jpg"
