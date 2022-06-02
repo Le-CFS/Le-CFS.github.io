@@ -12,15 +12,15 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
+- titre: Activités extrascolaires 2022-2023
+  src: "/assets/images/cfsextrascolaire2022-2023.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
 - titre: L'été au CFS
   src: "/assets/images/leteaucfs_22.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
 - titre: MAG CFS 2022
   src: "/assets/images/mag2022.jpg"
   href: https://www.lecfs.be/brochures/
-- titre: BON CADEAU
-  src: "/assets/images/boncadeauete-1.jpg"
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=14
 selection:
   nom: Sélection du CFS
   images:
