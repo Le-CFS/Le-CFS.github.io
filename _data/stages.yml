@@ -39,7 +39,7 @@ stages:
   inscription: ''
   location:
   - alias: Malonne
-    ville: Brabant Wallon
+    ville: Malonne
     age: 11-18 ans
     description: '<p><em>En collaboration avec l''</em><strong><em>ADSL</em></strong></p><p>Perfectionnement
       en formule de stage internat pour joueurs ayant au moins un an de pratique du
@@ -68,7 +68,7 @@ stages:
   inscription: ''
   location:
   - alias: Godinne
-    ville: Brabant Wallon
+    ville: Godinne
     age: 11-14 ans
     description: "<p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p><p>Du
       jeu mais aussi du sport ! Nouveau ! Console Nintendo SWITCH + nouveau jeux et
@@ -91,7 +91,7 @@ stages:
   inscription: ''
   location:
   - alias: Godinne
-    ville: Brabant Wallon
+    ville: Godinne
     age: 10-15 ans
     description: "<p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p><p>Plein
       succès pour ce Stage d'été rafraîchissant !</p><p>Paddle, Piscine détente, jeux
@@ -113,7 +113,7 @@ stages:
   inscription: ''
   location:
   - alias: Godinne
-    ville: Brabant Wallon
+    ville: Godinne
     age: 10-15 ans
     description: "<p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p><p>Soyez
       prêts à découvrir les paillettes de Broadway et à danser, chanter et jouer au
@@ -138,7 +138,7 @@ stages:
   inscription: ''
   location:
   - alias: Floreffe
-    ville: Brabant Wallon
+    ville: Foreffe
     age: 11-16 ans
     description: "<p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p><p>Le
       cocktail 100% Fun par excellence avec un grand nombre d'activités différentes
