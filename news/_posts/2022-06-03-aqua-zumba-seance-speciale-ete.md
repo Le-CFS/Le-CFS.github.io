@@ -14,7 +14,8 @@ description: "Un nouveau cours pour cet été \U0001F929"
 image: "/assets/images/aquazumba_ete.jpg"
 
 ---
-### 2 soirées à ne pas manquer !  
+### 2 soirées à ne pas manquer !
+
 Venez tester notre séance spéciale "Aqua Zumba" cet été 😍
 
 #### Pssst, les places partent vite !
@@ -23,7 +24,7 @@ Nous aimerions vous présenter ce nouveau cours endiablé pour ensuite l'introdu
 
 **✌ 2 dates :**  
 **Lundi 25 Juillet 2022** de 18:30 à 19:15 et de 19:15 à 20:00  
-**Jeudi 28 Août 2022** de 18:30 à 19:15 et de 19:15 à 20:00
+**Jeudi 18 Août 2022** de 18:30 à 19:15 et de 19:15 à 20:00
 
 **👉** [**Inscription rapide**](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=3&Province=Brabant "Inscription rapide Aqua Zumba")
 
