@@ -6,7 +6,7 @@ tags:
 - été
 - 4-8 ans
 - découverte sportive
-title: "Des stages destinés à vos enfants de 4 à 8 ans \U0001F929"
+title: "Des stages destinés aux enfants de 4 à 8 ans \U0001F929"
 banner: "/assets/images/decouvertesportive-1.jpg"
 infos:
   date: 
