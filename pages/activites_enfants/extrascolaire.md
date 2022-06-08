@@ -21,6 +21,9 @@ On peut s’inscrire en cours d’année en fonction des places disponibles (le 
 
 Nous appliquons pour nos activités [le protocole général des stages](/stages/protocole/general/) qui a fait ses preuves cet été.
 
+<center class="m-3"><iframe width="560" height="315" src="https://www.youtube.com/embed/aTRqSAyhoZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
 <!-- NE PAS MODIFIER EN DESSOUS DE CETTE LIGNE -->
 
 <div id="content">
@@ -54,15 +57,15 @@ Nous appliquons pour nos activités [le protocole général des stages](/stages/
             
             <div id="portfolio" class="row wow fadeInUpQuick" data-wow-delay="0.8s">
 
-							{% assign liste_stages = site.data.extrascolaire.activites | sort: "name" %}
-								
-								{% for stage in liste_stages %}
-								  {% if stage.online %}
+				{% assign liste_stages = site.data.extrascolaire.activites | sort: "name" %}
+					
+				{% for stage in liste_stages %}
+					{% if stage.online %}
 
-										{% include coleen/carte_extrascolaire.html %}
+						{% include coleen/carte_extrascolaire.html %}
 
-								  {% endif %}
-								{% endfor %}
+					{% endif %}
+				{% endfor %}
 
         	</div>
         </div>
