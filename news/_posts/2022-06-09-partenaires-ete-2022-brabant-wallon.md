@@ -6,12 +6,12 @@ tags:
 - Brabant Wallon
 - Ete 2022
 title: Partenaires été 2022 - Brabant Wallon
-banner: "/assets/images/partenaires_brabant.jpg"
+banner: "/assets/images/partenaires_brabant_wallon.jpg"
 infos:
   date: 
   teaser: ''
 description: Nos nombreux partenaires de cet été dans le Brabant Wallon
-image: "/assets/images/partenaires_brabant.jpg"
+image: "/assets/images/partenaires_brabant-1.jpg"
 
 ---
 ### CFS, Créateur de souvenirs 🤩
