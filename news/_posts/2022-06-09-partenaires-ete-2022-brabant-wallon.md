@@ -26,35 +26,35 @@ _• LSA Perwez - Beach Soccer à Perwez
 • FC Walhain  
 • R.F.C. Orp - Noduwez - Orp-Jauche_
 
-🎾 Partenaires **SPORTS RAQUETTES :   
-**_• Tennis Club l'Abbaye - Hélécine  
+🎾 Partenaires **SPORTS RAQUETTES** :  
+_• Tennis Club l'Abbaye - Hélécine  
 • Padel Events Academy - Ottignies  
 • CTT Tourinnes Saint-Lambert - Walhain_
 
-🐴 Partenaires **EQUITATION :  
-**_• Horse's Corner - Bierges  
+🐴 Partenaires **EQUITATION** :  
+_• Horse's Corner - Bierges  
 • Ecurie Barré - Overijse_
 
-🛹 Partenaire **BMX / SKATE / TROTTINETTE :  
-**_• MaxExtrême_
+🛹 Partenaire **BMX / SKATE / TROTTINETTE** :  
+_• MaxExtrême_
 
-🥋 Partenaire **JUDO  
-**_• Judo Club Genval - Marc Charlier_
+🥋 Partenaire **JUDO** :  
+_• Judo Club Genval - Marc Charlier_
 
-🤸‍♀️ Partenaire **GYMNASTIQUE  
-**_• Gym Club "La Courtoise" - Court-St.-Etienne_
+🤸‍♀️ Partenaire **GYMNASTIQUE** :  
+_• Gym Club "La Courtoise" - Court-St.-Etienne_
 
-🥁 Partenaire **MUSIQUE  
-**_• Lamogoya_
+🥁 Partenaire **MUSIQUE** :  
+_• Lamogoya_
 
-🤓 Partenaire **LANGUES  
-**_• Interlingua Asbl_
+🤓 Partenaire **LANGUES** :  
+_• Interlingua Asbl_
 
-🥽 Partenaire **PLONGEE  
-**_• E.P.S.T - Ecole de Plongée Sportive & Technique_
+🥽 Partenaire **PLONGEE** :  
+_• E.P.S.T - Ecole de Plongée Sportive & Technique_
 
-🏎 Partenaire **KARTING  
-**_• WIK - Wavre Indoor Karting_ 
+🏎 Partenaire **KARTING** :  
+_• WIK - Wavre Indoor Karting_
 
 Découvrez notre **programme complet** de cet **été** : [**Programme**](https://www.lecfs.be/files/CFSMAGAZINE/#page=4 "Programme été 2022")
 
