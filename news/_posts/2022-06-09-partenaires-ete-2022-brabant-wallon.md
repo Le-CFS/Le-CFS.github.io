@@ -11,7 +11,7 @@ infos:
   date: 
   teaser: ''
 description: Nos nombreux partenaires de cet été dans le Brabant Wallon
-image: "/assets/images/partenaires_brabant-1.jpg"
+image: "/assets/images/partenaires_brabant.jpg"
 
 ---
 ### CFS, Créateur de souvenirs 🤩
