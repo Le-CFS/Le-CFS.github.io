@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Tennis Padel Club l'Abbaye
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/tennisclublabbaye.jpg"
+  href: https://tcabbaye.wordpress.com/
+  bouton: ''
+  couleur_bouton: ''
 - name: CTT Tourinnes asbl
   categorie: Partenaires de stages
   online: true
