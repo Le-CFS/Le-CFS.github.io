@@ -10,12 +10,12 @@ tags:
 - sportifs
 - culturels
 title: "Des stages destinés aux enfants de +8 ans \U0001F929"
-banner: ''
+banner: "/assets/images/stages_bxl_-8ans_ete.jpg"
 infos:
   date: 
   teaser: ''
 description: "Un stage inoubliable avec le CFS \U0001F929"
-image: ''
+image: "/assets/images/stages_8ans-_bruxelles.jpg"
 
 ---
 ### Un été inoubliable avec le CFS 😍  
