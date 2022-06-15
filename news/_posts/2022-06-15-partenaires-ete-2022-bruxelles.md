@@ -10,7 +10,7 @@ banner: "/assets/images/partenaires_bruxelles.jpg"
 infos:
   date: 
   teaser: ''
-description: Nos nombreux partenaires de cet été dans le Brabant Wallon
+description: Nos nombreux partenaires de cet été à Bruxelles
 image: "/assets/images/partenaires_bruxelles-1.jpg"
 
 ---
@@ -21,40 +21,30 @@ CFS, Créateur de souvenirs 🤩
 Durant les **vacances d’été,** nous vous proposons de nombreuses animations sportives, créatives et fun en collaboration avec de nombreux partenaires 😍 :
 
 ⚽ Partenaires **FOOTBALL** :  
-_• LSA Perwez - Beach Soccer à Perwez  
-• RLHSC - Royal La Hulpe Sporting Club  
-• FC Walhain  
-• R.F.C. Orp - Noduwez - Orp-Jauche_
+_• Futsal Jette - Jette  
+• Soufiane Bencok  
+• NewTeam Beach Soccer - Anderlecht_
 
 🎾 Partenaires **SPORTS RAQUETTES** :  
-_• Tennis Club l’Abbaye - Hélécine  
-• Padel Events Academy - Ottignies  
-• CTT Tourinnes Saint-Lambert - Walhain_
-
-🐴 Partenaires **EQUITATION** :  
-_• Horse’s Corner - Bierges  
-• Ecurie Barré - Overijse_
-
-🛹 Partenaire **BMX / SKATE / TROTTINETTE** :  
-_• MaxExtrême_
-
-🥋 Partenaire **JUDO** :  
-_• Judo Club Genval - Marc Charlier_
+_• Ace Tennis Academy - Woluwé-St-Pierre  
+• Royal Laeken Tennis Club - Wemmel  
+• The New Lambermont Tennis School - Schaerbeek  
+• Royal Set-Jet Fleur Bleue - Jette_
 
 🤸‍♀️ Partenaire **GYMNASTIQUE** :  
-_• Gym Club “La Courtoise” - Court-St.-Etienne_
+_• Tempo Gym - Jette_
 
-🥁 Partenaire **MUSIQUE** :  
-_• Lamogoya_
+🥋 Partenaire **KRAV MAGA** :  
+_• Krav Maga Bruxelles - Jette_
+
+🐴 Partenaires **EQUITATION** :  
+_• Horse Club Manège la Motte - Wemmel / Asse_
+
+🏎 Partenaires **KARTING** :  
+_• Speed4Fun_ 
 
 🤓 Partenaire **LANGUES** :  
 _• Interlingua Asbl_
-
-🥽 Partenaire **PLONGEE** :  
-_• E.P.S.T - Ecole de Plongée Sportive & Technique_
-
-🏎 Partenaire **KARTING** :  
-_• WIK - Wavre Indoor Karting_
 
 Découvrez notre **programme complet** de cet **été** : [**Programme**](https://www.lecfs.be/files/CFSMAGAZINE/#page=4 "Programme été 2022")
 
