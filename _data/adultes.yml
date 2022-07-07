@@ -3,8 +3,13 @@ slogan: Gardez la forme !
 horaires: "/assets/images/nouvel-horaire-2021-2022.jpg"
 cours:
 - online: true
+  titre: Dance & Fit
+  src: "/assets/images/cours-adultes-dance-fit-300x300.jpg"
+  href: "/cours_adultes/dance&fit"
+  bouton: Plus d'info
+- online: true
   titre: Aqua Circuit
-  src: "/assets/images/cours-adultes-aqua-circuit-300x300.jpg"
+  src: "/assets/images/cours-adultes-aquacircuit-300x300.jpg"
   href: "/cours_adultes/aquacircuit"
   bouton: Plus d'info
 - online: true
