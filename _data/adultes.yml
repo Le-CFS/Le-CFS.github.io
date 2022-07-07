@@ -3,6 +3,11 @@ slogan: Gardez la forme !
 horaires: "/assets/images/nouvel-horaire-2021-2022.jpg"
 cours:
 - online: true
+  titre: Aqua Circuit
+  src: "/assets/images/cours-adultes-aqua-circuit-300x300.jpg"
+  href: "/cours_adultes/aquacircuit"
+  bouton: Plus d'info
+- online: true
   titre: Aqua Sirène
   src: "/assets/images/cours-adultes-aqua-sirene-300x300.jpg"
   href: "/cours_adultes/aquasirene"
