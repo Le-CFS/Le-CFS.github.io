@@ -237,6 +237,13 @@ pour_les_ecoles:
     url: "/pour-les-ecoles/fancy_fair/"
   - title: Activités Parascolaires
     url: "/activites/parascolaire/"
+    title_mobile: Activités Parascolaires
+    online_mobile: false
+    sousmenu:
+    - title: Liste des écoles partenaires
+      url: "/activites/cfs_academy/mini_foot_academy/"
+    - title: Catalogue d'activités
+      url: "/activites/parascolaire/"
 brochures:
   titre: Brochures
   url: "/brochures/"
