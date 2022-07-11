@@ -9,6 +9,11 @@ fields:
   hidden: true
   label: Layout
   default: page
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
 - name: type_page
   type: select
   default: ''
@@ -26,11 +31,14 @@ fields:
       path: 
   label: Type de page
   description: Aide pour automatiser le menu.
-- name: title
-  type: text
+- name: bulle
+  type: file
   config:
-    required: false
-  label: Titre
+    maxSize: 64
+  label: Image pour les bulles
+  showOnly:
+    field: type_page
+    value: adultes
 - name: menu
   type: boolean
   label: Faut il un menu sur la gauche ?
