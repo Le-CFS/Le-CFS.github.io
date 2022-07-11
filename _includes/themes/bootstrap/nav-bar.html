@@ -89,7 +89,7 @@
 <!-- Menu principal -->
 <div class="desktop">
 <nav class="navbar navbar-toggleable-sm navbar-light bg-default">
-  <div class="container" style="width: 1200px;">
+  <div class="container" style="width: 1400px;">
     <a class="navbar-brand" href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
       <i class="fa fa-bars"></i>
@@ -169,6 +169,15 @@
               {% if menu2.menu_list == "adultes" %}
                 {% for page_list in site.pages %}
                   {% if page_list.type_page == "adultes" %}
+                      {% if page_list.published == false %}
+                      {% else %}
+                      <li class="nav-item"><a class="nav-link" href="{{ page_list.url }}" style="padding-left: 16px;">{{ page_list.title }}</a></li>
+                      {% endif %}
+                  {% endif %}
+                {% endfor %}
+              {% elsif menu2.menu_list == "ecoles" %}
+                {% for page_list in site.pages %}
+                  {% if page_list.type_page == "ecoles" %}
                       {% if page_list.published == false %}
                       {% else %}
                       <li class="nav-item"><a class="nav-link" href="{{ page_list.url }}" style="padding-left: 16px;">{{ page_list.title }}</a></li>

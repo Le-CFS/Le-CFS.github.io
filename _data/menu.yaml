@@ -6,6 +6,8 @@ cfs:
   sousmenu:
   - title: News
     url: "/cfs/news/"
+  - title: Presse
+    url: "/cfs/presse/"
   - title: Réductions
     url: "/cfs/reductions/"
   - title: Questions fréquentes
@@ -179,8 +181,6 @@ activites:
       url: "/activites/cfs_academy/parkour_pro/"
     - title: Football Academy
       url: "/activites/cfs_academy/football_academy/"
-  - title: Activités Parascolaires
-    url: "/activites/parascolaire/"
 cours_adultes:
   titre: Cours adultes
   url: "/cours_adultes/"
@@ -188,8 +188,8 @@ cours_adultes:
   online_mobile: true
   sousmenu:
   - menu_list: "adultes"
-    title: test
-    url: test
+    title: adultes
+    url: adultes
   - title: En savoir plus
     url: "/cours_adultes/en_savoir_plus/"
 anniversaires:
@@ -212,19 +212,9 @@ pour_les_ecoles:
   sousmenu:
   - title: Journées sportives
     url: "/pour-les-ecoles/journees_sportives/"
-  - title: Journées pédagogiques
-    url: "/pour-les-ecoles/journees_pedagogiques/"
-  - title: Fancy-Fair
-    url: "/pour-les-ecoles/fancy_fair/"
-  - title: Activités Parascolaires
-    url: "/activites/parascolaire/"
-    title_mobile: Activités Parascolaires
-    online_mobile: false
-    sousmenu:
-    - title: Liste des écoles partenaires
-      url: "/activites/cfs_academy/mini_foot_academy/"
-    - title: Catalogue d'activités
-      url: "/activites/parascolaire/"
+  - menu_list: "ecoles"
+    title: ecoles
+    url: ecoles
 brochures:
   titre: Brochures
   url: "/brochures/"
@@ -243,9 +233,9 @@ jobs:
   title_mobile: JOBS
   online_mobile: true
 presse:
-  titre: Presse
-  url: "/presse/"
-  title_mobile: Presse
+  titre: Journées sportives
+  url: "/pour-les-ecoles/journees_sportives/"
+  title_mobile: Journées sportives
   online_mobile: true
 contact:
   titre: Contact

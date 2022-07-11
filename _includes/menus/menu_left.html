@@ -55,6 +55,17 @@
                     {% endif %}
                 {% endif %}
             {% endfor %}
+        {% elsif menu1.menu_list == "ecoles" %}
+            {% for page_list in site.pages %}
+                {% if page_list.type_page == "ecoles" %}
+                    {% if page_list.published == false %}
+                    {% else %}
+                    <div class="post-category">
+                        <a href="{{ page_list.url }}">{{ page_list.title }}</a>
+                    </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
         {% else %}
             <div class="post-category">
                 <a href="{{ menu1.url }}">{{ menu1.title }}</a>
