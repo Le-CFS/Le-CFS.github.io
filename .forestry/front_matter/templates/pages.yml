@@ -9,6 +9,23 @@ fields:
   hidden: true
   label: Layout
   default: page
+- name: type_page
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - adultes
+    - centres
+    - ecoles
+    - aucun
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type de page
+  description: Aide pour automatiser le menu.
 - name: title
   type: text
   config:
