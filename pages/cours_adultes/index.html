@@ -7,10 +7,12 @@ description: Le CFS propose des cours collectifs pour adultes dans une ambiance 
   sein du nouveau centre sportif du CFS situé à Bierges (Wavre).
 banner: ''
 image: ''
+slogan: "Gardez la forme !"
+horaires: "/assets/images/nouvel-horaire-2021-2022.jpg"
 ---
-{% assign adultes = site.data.adultes %}
+
 <div class="row">
-<div class="col-md-12 text-center" style="font-size: 24px; margin-bottom: 20px;"><strong>{{ adultes.slogan }}</strong></div>
+<div class="col-md-12 text-center" style="font-size: 24px; margin-bottom: 20px;"><strong>{{ page.slogan }}</strong></div>
 
 <div class="col-md-4 offset-md-4" style="margin-bottom: 20px;">
 	<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=3&Province=Brabant" class="btn btn-block btn-info-filled" target="_blank">Inscription cours adultes</a>
@@ -26,7 +28,7 @@ image: ''
 	      </div>
 	      <div id="panel1" class="panel-collapse collapse">
 	        <div class="panel-body text-gray">
-	          <img src="{{ adultes.horaires }}" style="width: 100%;">
+	          <img src="{{ page.horaires }}" style="width: 100%;">
 	        </div>
 	      </div>
 	    </div>
@@ -37,12 +39,15 @@ image: ''
 <div class="container">
      <div class="team-members-tow mtb-50">
 		<div class="row">
-			{% for cours in adultes.cours %}
-			{% if cours.online %}
-			<div class="col-xs-6 col-md-3">
-					{% include coleen/bulle.html src=cours.src titre=cours.titre href=cours.href bouton=cours.bouton %}
-			</div>
-			{% endif %}
+			{% for page in site.pages %}
+				{% if page.type_page == "adultes" %}
+					{% if page.published == false %}
+					{% else %}
+					<div class="col-xs-6 col-md-3">
+							{% include coleen/bulle.html src=page.bulle titre=page.title href=page.permalink bouton=page.bouton %}
+					</div>
+					{% endif %}
+				{% endif %}
 			{% endfor %}
 		</div>
 	</div>

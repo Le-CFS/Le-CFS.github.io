@@ -187,28 +187,9 @@ cours_adultes:
   title_mobile: Liste des cours
   online_mobile: true
   sousmenu:
-  - title: Abdos fessiers
-    url: "/cours_adultes/abdos_fessiers/"
-  - title: Aquabike
-    url: "/cours_adultes/aquabike/"
-  - title: Aquagym
-    url: "/cours_adultes/aquagym/"
-  - title: Aqua mix
-    url: "/cours_adultes/aquamix/"
-  - title: Yoga
-    url: "/cours_adultes/yoga/"
-  - title: Gym entretien
-    url: "/cours_adultes/gymentretien/"
-  - title: Swiss jump
-    url: "/cours_adultes/swissjump/"
-  - title: Aqua Fitness
-    url: "/cours_adultes/aquafitness/"
-  - title: Informatique
-    url: "/cours_adultes/informatique/"
-  - title: Aqua Sirène
-    url: "/cours_adultes/aquasirene/"
-  - title: Pound
-    url: "/cours_adultes/pound/"
+  - menu_list: "adultes"
+    title: test
+    url: test
   - title: En savoir plus
     url: "/cours_adultes/en_savoir_plus/"
 anniversaires:
