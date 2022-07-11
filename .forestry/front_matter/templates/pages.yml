@@ -31,6 +31,24 @@ fields:
       path: 
   label: Type de page
   description: Aide pour automatiser le menu.
+- name: activite_garderie
+  type: boolean
+  label: Garderie ?
+  showOnly:
+    field: type_page
+    value: ecoles
+- name: activite_parascolaire
+  type: boolean
+  label: Parascolaire ?
+  showOnly:
+    field: type_page
+    value: ecoles
+- name: activite_pedagogique
+  type: boolean
+  label: Journées pédagogiques ?
+  showOnly:
+    field: type_page
+    value: ecoles
 - name: bulle
   type: file
   config:
@@ -89,6 +107,8 @@ pages:
 - pages/le_cfs/partenaires.html
 - pages/le_cfs/questions_frequentes.html
 - pages/le_cfs/reductions.html
+- pages/pour-les-ecoles/ecoles/auderghem-saint-julien.html
+- pages/pour-les-ecoles/ecoles/cse-sart-messire-guillaume.html
 - pages/pour-les-ecoles/index.html
 - pages/stages_enfants/activites.html
 - pages/stages_enfants/garderie.html
