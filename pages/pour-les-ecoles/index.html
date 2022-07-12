@@ -9,24 +9,33 @@ description: 'Organisez facilement vos les évènements pour votre école: activ
   pascolaires, journées sportives, journées pédagogiques et fancy-fair ! '
 
 ---
-Nous organisons pour vous une série d’évènements en mettant à votre disposition notre matériel, nos moniteurs, et notre savoir-faire.
+Nous organisons pour vous une série d'activités en mettant à votre disposition notre matériel, nos moniteurs, et notre savoir-faire.
 
 <!-- NE PAS MODIFIER EN DESSOUS DE CETTE LIGNE -->
-<!-- La liste des cours est modifiable dans le fichier _data/pour-les-ecoles.yml -->
 
-<div class="container">
-    <div class="team-members-tow mtb-50">
-      <div class="row">
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Établissement</th>
+      <th scope="col">Garderies</th>
+      <th scope="col">Journées pédagogiques</th>
+      <th scope="col">Activités parascolaires</th>
+    </tr>
+  </thead>
+  <tbody>
 
-        {% for cours in site.data.pour-les-ecoles.cours %}
-        {% if cours.online %}
-        <div class="col-xs-6 col-md-3">
-          {% include coleen/bulle.html src=cours.src titre=cours.titre href=cours.href bouton=cours.bouton %}
-        </div>
-        {% endif %}
-        {% endfor %}
-
-      </div>
-
-    </div>
-</div>
+    {% for page in site.pages %}
+          {% if page.type_page == "ecoles" %}
+              {% if page.published == false %}
+              {% else %}
+                  <tr>
+                      <td>{{ page.title }}</td>
+                      <td><center>{% if page.activite_garderie %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+                      <td><center>{% if page.activite_parascolaire %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+                      <td><center>{% if page.activite_pedagogique %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+                  </tr>
+              {% endif %}
+          {% endif %}
+      {% endfor %}
+  </tbody>
+</table>

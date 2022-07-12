@@ -39,7 +39,7 @@ Il est possible de s’inscrire en cours d’année en fonction des places dispo
           </div>
 
           <div class="col-xs-6 col-sm-6 col-md-3">
-            {% include coleen/bulle.html src="/assets/images/boutonsactivites/parascolaires.png" titre="Activités parascolaires" href="/activites/parascolaire/" bouton="Inscription" %}
+            {% include coleen/bulle.html src="/assets/images/boutonsactivites/parascolaires.png" titre="Activités parascolaires" href="/pour-les-ecoles/" bouton="Inscription" %}
           </div>
 
         </div>

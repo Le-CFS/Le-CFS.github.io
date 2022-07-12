@@ -11,8 +11,8 @@ menu: activites
 
 {% include annonces/natation.html %}
 
-<div class="col-md-4" style="float: right; margin-bottom: 20px;">
-<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-block btn-info-filled" target="_blank">J'inscris mon petit nageur</a>
+<div class="d-flex justify-content-center mb-3">
+<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-info-filled" target="_blank">J'inscris mon petit nageur</a>
 </div>
 
 <span style="font-size:20px">Bébés nageurs </span><span style="font-size:16px">(0 à 3 ans).</span>
