@@ -13,7 +13,7 @@ activite_pedagogique: false
 bulle: ''
 button_document_text: Voir le programme
 button_document_color: 
-button_document_link: #
+button_document_link: 
 published: false
 
 ---

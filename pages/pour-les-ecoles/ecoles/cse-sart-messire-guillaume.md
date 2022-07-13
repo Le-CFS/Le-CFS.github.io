@@ -11,9 +11,6 @@ activite_garderie: false
 activite_parascolaire: true
 activite_pedagogique: true
 bulle: ''
-button_document_text: Voir le programme
-button_document_color: 
-button_document_link: #
 published: false
 
 ---
