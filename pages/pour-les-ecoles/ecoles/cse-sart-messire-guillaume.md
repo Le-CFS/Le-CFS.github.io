@@ -11,7 +11,14 @@ activite_garderie: false
 activite_parascolaire: true
 activite_pedagogique: true
 bulle: ''
+button_document_text: Voir le programme
+button_document_color: 
+button_document_link: #
 published: false
 
 ---
+
+<div class="d-flex justify-content-center mb-3">
+	<a href="{{  page.button_document_link}}" class="btn btn-info-filled" target="_blank">{{  page.button_document_text }}</a>
+</div>
 Coucou l'école !
