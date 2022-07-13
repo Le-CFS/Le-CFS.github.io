@@ -11,16 +11,8 @@ activite_garderie: true
 activite_parascolaire: true
 activite_pedagogique: true
 bulle: ''
-button_document_text: Voir le programme
-button_document_color: 
-button_document_link: #
 
 ---
-
-<div class="d-flex justify-content-center mb-3">
-	<a href="{{ page.button_document_link}}" class="btn btn-info-filled" target="_blank">{{  page.button_document_text }}</a>
-</div>
-
 Un cadre convivial pour vos enfants !
 
 Chers Parents, 
