@@ -110,20 +110,6 @@ stages_enfants:
       url: "/stages/protocole/brabant/bierges/"
     - title: Walhain
       url: "/stages/protocole/brabant/walhain/"
-  - title: Silos à Liège
-    url: "/stages/protocole/liege/"
-    online_mobile: false
-    sousmenu:
-    - title: Huy
-      url: "/stages/protocole/liege/huy/"
-    - title: Verlaine
-      url: "/stages/protocole/liege/verlaine/"
-    - title: Villers-le-Bouillet
-      url: "/stages/protocole/liege/villers-le-bouillet/"
-    - title: Amay
-      url: "/stages/protocole/liege/amay/"
-    - title: Awans
-      url: "/stages/protocole/liege/awans/"
   - title: Lieux de stage
     url: "/stages/lieux_de_stage/"
   - title: Garderie
@@ -166,7 +152,7 @@ activites:
     - title: Mini-foot Academy
       url: "/activites/cfs_academy/mini_foot_academy/"
     - title: École de natation
-      url: "/activites/cfs_academy/ecole_de_natation/"
+      url: "/activites/ecole_de_natation/"
     - title: Tennis Academy
       url: "/activites/cfs_academy/tennis_academy/"
     - title: Judo Academy
