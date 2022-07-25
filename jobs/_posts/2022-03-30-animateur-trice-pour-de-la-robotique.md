@@ -1,6 +1,6 @@
 ---
 layout: post
-online: true
+online: false
 title: Animateur(trice) pour de la robotique
 banner: "/assets/images/job_robotique.jpg"
 menu: false
