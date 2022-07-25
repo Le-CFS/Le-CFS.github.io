@@ -1,6 +1,6 @@
 ---
 layout: post
-online: true
+online: false
 title: Coordinateur(-trice) & Animateur(-trice) Sportif(ve)
 banner: "/assets/images/job_coordinat_anim_sportif.jpg"
 menu: false
