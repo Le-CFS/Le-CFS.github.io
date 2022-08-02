@@ -29,6 +29,65 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Kids Fun
+  categorie: Activités fun
+  img: "/assets/images/anniversaires/activites/arrow.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 7-9 ans
+    description: "<p>Votre enfant a entre <strong>7 et 9 ans </strong>? Il souhaite
+      essayer un stage varié et fun ? Ce stage est fait pour lui ! Il vous propose
+      un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>Programme
+      : </strong>New Games, Arrow Game, Laser Game, Fun Challenge, E-Fun</p><ul><li><p><strong>New
+      games :</strong> différentes activités fun sont proposées sur la journée telles
+      que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p><strong>Arrow
+      game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés
+      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
+      chevaliers et mages (l'arrow game se pratique également avec des flèches avec
+      un bout en mousse et des masques de paintball).</p></li><li><p><strong>Excursion
+      à Space Fun Game d'Etterbeek</strong> : 3 parties de Laser Game indoor.</p></li><li><p><strong>Fun
+      Challenge</strong><em> (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>
+      : activités crazy light, darts, sumo, twister géant,…</p></li><li><p><strong>E-Fun
+      : </strong>segway et trottinette électrique, overboard, crazy kart.</p></li></ul><p><strong><em>ATTENTION
+      :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p>"
+    infos:
+    - alias: Tenue
+      info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
+        activités d’extérieur et d'intérieur.
+    - alias: Navettes
+      info_line: Certaines activités demandent un déplacement en navette assuré par
+        nos soins.
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 7-9 ans
+    description: "<p>Votre enfant a entre <strong>7 et 9 ans </strong>? Il souhaite
+      essayer un stage varié et fun ? Ce stage est fait pour lui ! Il vous propose
+      un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>Programme
+      : </strong>New Games, Arrow Game, Laser Game, Fun Challenge, E-Fun</p><ul><li><p><strong>New
+      games :</strong> différentes activités fun sont proposées sur la journée telles
+      que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p><strong>Arrow
+      game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés
+      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
+      chevaliers et mages (l'arrow game se pratique également avec des flèches avec
+      un bout en mousse et des masques de paintball).</p></li><li><p><strong>Excursion
+      à Space Fun Game d'Etterbeek</strong> : 3 parties de Laser Game indoor.</p></li><li><p><strong>Fun
+      Challenge</strong><em> (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>
+      : activités crazy light, darts, sumo, twister géant,…</p></li><li><p><strong>E-Fun
+      : </strong>segway et trottinette électrique, overboard, crazy kart.</p></li></ul><p><strong><em>ATTENTION
+      :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p>"
+    infos:
+    - alias: Tenue
+      info_line: " Prévoir une paire de bottines ainsi que des vêtements adaptés aux
+        activités d’extérieur et d'intérieur."
+    - alias: Navette
+      info_line: Certaines activités demandent un déplacement en navette assuré par
+        nos soins.
 - name: Basket "Marc Deheneffe"
   categorie: Internat
   img: "/assets/images/basket.png"
