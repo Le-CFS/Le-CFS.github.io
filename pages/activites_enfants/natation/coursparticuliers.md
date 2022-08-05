@@ -27,4 +27,4 @@ Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription.
 
 📍 **Brabant Wallon** - Bierges - Ottignies - Wavre
 
-📍 **Namur** - Eghezée - **NOUVEAU !** A partir de **Janvier 2023**
+📍 **Namur** - Liernu _(Eghezée)_ - **NOUVEAU !** A partir de **Janvier 2023**

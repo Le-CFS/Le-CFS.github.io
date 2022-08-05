@@ -29,4 +29,4 @@ _Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription
 
 📍 **Brabant Wallon** - Bierges - Le Provincial
 
-📍 **Namur** - Eghezée - **NOUVEAU !** A partir de **Janvier 2023**
+📍 **Namur** - Liernu _(Eghezée)_ - **NOUVEAU !** A partir de **Janvier 2023**
