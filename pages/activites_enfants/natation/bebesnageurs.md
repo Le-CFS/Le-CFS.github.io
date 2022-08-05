@@ -29,4 +29,4 @@ _Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription
 
 📍 **Brabant Wallon** - Bierges - Le Provincial
 
-📍 **Brabant Wallon** - Walhain - AquaNil
+📍 **Namur** - Eghezée - **NOUVEAU !** A partir de **Janvier 2023**
