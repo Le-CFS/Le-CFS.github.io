@@ -57,7 +57,7 @@ Le Client doit prévoir le repas de midi, des collations et boissons en suffisan
 
 Si un Stage nécessite un déplacement (excursion, natation, équitation, etc.), celui-ci sera organisé par le CFS via des véhicules comme des bus, des camionnettes ou des voitures ou en transports en commun (train, métro, etc.).
 
-Une garderie est organisée le matin dès 8h00 et le soir jusqu’à 18h00 avec gratuité de la garderie de 08h30 à 9h00 et de 16h00 à 16h30. Le forfait garderie est de 5 € (matin), 10 € (soir) ou de 12 € (matin et soir). Possibilité de prendre à la carte : 1€ par ½ heure entamée.
+Une garderie est organisée le matin dès 8h00 et le soir jusqu’à 18h00 avec gratuité de la garderie de 08h45 à 9h00 et de 16h00 à 16h15. Le forfait garderie est de 5 € (matin), 10 € (soir) ou de 12 € (matin et soir). Possibilité de prendre à la carte : 1€ par ½ heure entamée.
 
 Les parents s’engagent à respecter ces horaires et seront particulièrement attentifs à ne pas dépasser l’heure de la garderie du soir.
 
