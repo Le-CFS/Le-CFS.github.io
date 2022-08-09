@@ -74,7 +74,7 @@ activites:
   - alias: Aqua Fun
     ville: Brabant Wallon
     centres:
-    - Ottignies - Athénée Royal Paul Delvaux
+    - OTTIGNIES - Athénée Royal Paul Delvaux
     age: 'Dès 8 ans '
     description: "<p>Viens découvrir par petits groupes diverses activités fun telles
       que du water-polo, du hockey subaquatique, du parkour, de l'initiation aux techniques
@@ -91,7 +91,7 @@ activites:
   - alias: Aqua sirène
     ville: Brabant Wallon
     centres:
-    - Ottignies - Athénée Royal Paul Delvaux
+    - OTTIGNIES - Athénée Royal Paul Delvaux
     age: Dès 8 ans
     description: "<p>Ce cours ouvert tant pour les enfants que les adultes permet
       la découverte des techniques de nage liées au monopalme, la nage du dauphin
@@ -253,7 +253,7 @@ activites:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres:
-    - Rixensart - Centre Sportif
+    - RIXENSART - Complexe Sportif
     age: 6-12 ans
     description: "<p>Une activité varié qui pourra combler votre enfant entre la natation
       et la gymnastique.</p><p>Initiation à la gymnastique sportive. Sol, sauts, poutre,
@@ -397,8 +397,7 @@ activites:
     ville: Brabant Wallon
     centres:
     - WAVRE - Collège Notre-Dame de Basse-Wavre
-    - RIXENSART - Centre Sportif
-    - OTTIGNIES - Centre Sportif des Coquerées
+    - RIXENSART - Complexe Sportif
     age: 4-6 ans
     description: "<p>Votre enfant souhaite devenir un danseur ?</p><p>Ce cours permet
       aux enfants d’acquérir les bases du mouvement et de développer leur expression
@@ -723,7 +722,7 @@ activites:
     ville: Brabant Wallon
     centres:
     - BIERGES - Le Provincial
-    - RIXENSART - Complexe Sportif de Rixensart
+    - RIXENSART - Complexe Sportif
     age: 6-12 ans
     description: "<p>Vous souhaitez que votre enfant apprenne à se défendre tout en
       s'amusant ? Cette activité est faite pour lui.</p><p>Les arts martiaux comportent
