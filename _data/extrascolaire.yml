@@ -545,8 +545,8 @@ activites:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres:
-    - BIERGES - Le Provincial
     - WAVRE - Collège Notre-Dame de Basse-Wavre
+    - RIXENSART - Complexe Sportif
     age: 6-14 ans
     description: "<p>Les cours de GRS donnés au CFS permettent aux élèves d'apprendre
       la technique des engins à travers des ateliers et/ou des chorégraphies sur musique.
@@ -642,7 +642,7 @@ activites:
   - L'agenda peut être aménagé en fonction des conditions météorologiques.
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: Brabant Wallon
@@ -661,7 +661,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/funvtt.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: BRABANT WALLON
@@ -867,6 +867,8 @@ activites:
     - WAVRE - Collège Notre Dame de Basse Wavre
     - RIXENSART - Complexe Sportif
     - OTTIGNIES - Centre Sportif des Coquerées
+    - WALHAIN - Centre Sportif des Boscailles
+    - ORP-JAUCHE - R.F.C ORP Noduwez
     age: 6 à 14 ans
     description: "<p>Une heure d’exercices (technique de dribbles - 1 ballon par enfant,
       passes, tirs) et une heure de match (positionnement correct sur le terrain +
