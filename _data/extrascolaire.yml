@@ -27,9 +27,9 @@ activites:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres:
-    - Wavre - Parc de l’Europe
+    - WAVRE - Parc de l'Europe
     age: 7-14 ans
-    description: "<p>Cours de skate donné par notre partenaire Maxextrême dans le
+    description: "<p>Cours de skate donné par notre partenaire MaxExtrême dans le
       seul skatepark privé du Brabant Wallon. Apprenez le skateboard dans une ambiance
       propre aux sports extrêmes et accompagné par des professionnels du milieu.</p>"
     infos: []
@@ -68,7 +68,7 @@ activites:
   categorie: Activités sportives
   img: "/assets/images/activites-extrascolaires-aqua-fun-300x300.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   inscription: ''
   location:
   - alias: Aqua Fun
@@ -85,7 +85,7 @@ activites:
   categorie: Activités sportives
   img: "/assets/images/activites-extrascolaires-aqua-sirene-300x300.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   inscription: ''
   location:
   - alias: Aqua sirène
@@ -105,12 +105,13 @@ activites:
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stages/stagesalaune_robotique.png"
   online: true
-  nouveau: true
+  nouveau: false
   inscription: ''
   location:
-  - alias: robotique
+  - alias: Robotique
     ville: Brabant Wallon
-    centres: []
+    centres:
+    - BIERGES - Le Provincial
     age: 6 à 14 ans
     description: "<p><strong>Prenez vos bonnes résolutions pour la rentrée scolaire
       ! </strong><br></p><p>Nos enfants ne sont pas formés à 90% des métiers de 2030
@@ -138,7 +139,7 @@ activites:
 - name: Remédiation & Jeux
   categorie: Activités artistiques et loisirs
   img: "/assets/images/anniversaires/activites/timesup.png"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -158,7 +159,7 @@ activites:
 - name: Remédiation
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -178,7 +179,7 @@ activites:
   categorie: Activités sportives
   img: "/assets/images/stages/decouvertesportiveetculturelle/funmultietnat.png"
   online: true
-  nouveau: true
+  nouveau: false
   inscription: ''
   location:
   - alias: Brabant Wallon
@@ -256,7 +257,7 @@ activites:
   categorie: Danse et Gymnastique
   img: "/assets/images/stages/activitessportives/aquafun.png"
   online: true
-  nouveau: true
+  nouveau: false
   inscription: ''
   location:
   - alias: Brabant Wallon
@@ -284,6 +285,7 @@ activites:
     - WAVRE - Collège Notre Dame de Basse-Wavre
     - OTTIGNIES - Centre sportif des Coquerées
     - WALHAIN - École de Tourinnes
+    - RIXENSART - Complexe Sportif
     age: 3-5 ans
     description: "<p>Au programme: parcours d'agilité et d'audace, développement des
       notions sensori-motrices (latéralité, équilibre...), jeux de coopération (parachute),
@@ -718,7 +720,7 @@ activites:
   inscription: ''
   categorie: Activités sportives
   online: true
-  nouveau: true
+  nouveau: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
@@ -736,7 +738,7 @@ activites:
   inscription: ''
   categorie: Activités sportives
   online: true
-  nouveau: true
+  nouveau: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
