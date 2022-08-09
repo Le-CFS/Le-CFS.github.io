@@ -8,7 +8,7 @@ cours:
 - online: true
   titre: Ecole de Natation
   src: "/assets/images/boutonsactivites/cfsacademy/ecoledenatation.png"
-  href: "/activites/cfs_academy/ecole_de_natation"
+  href: "/activites/ecole_de_natation"
   bouton: Plus d'info
 - online: true
   titre: Tennis Academy
