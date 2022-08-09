@@ -2957,7 +2957,7 @@ stages:
 - name: Fun Evasion
   categorie: Activités fun
   img: "/assets/images/stages_enfants_fun_evasion.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -4916,7 +4916,7 @@ stages:
 - name: Football Ado
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-football-ado-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -6459,7 +6459,7 @@ stages:
 - name: Fun Laser & VTT
   categorie: Activités fun
   img: "/assets/images/stage-enfant-activites-fun-lazer-vtt-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -6645,7 +6645,7 @@ stages:
 - name: Fun Hiver
   categorie: Activités fun
   img: "/assets/images/stage-enfant-fun-hiver-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -8321,7 +8321,7 @@ stages:
   img: "/assets/images/stage-enfant-fun-ado-500x500.jpg"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
