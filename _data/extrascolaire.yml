@@ -200,6 +200,15 @@ activites:
   nouveau: false
   inscription: ''
   location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - AUDERGHEM - Institut St-Julien
+    age: 6-12 ans
+    description: "<p>Au programme: exercices de souplesse, premières bases techniques
+      et chorégraphiques de la danse Jazz. Un spectacle est prévu en fin d'année et
+      les parents y sont conviés gratuitement !</p>"
+    infos: []
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres:
