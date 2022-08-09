@@ -25,4 +25,6 @@ Afin de préparer l'enfant à pouvoir participer au mini-club, ce cours de trans
 
 Horaires disponibles : le choix de l'horaire se fait, en fonction du niveau de l'enfant, au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser.
 
-📍 **Brabant Wallon** - Ottignies - Collège du Christ-Roi & Athénée Royal Paul Delvaux
+📍 **Brabant Wallon**  
+Ottignies - Collège du Christ-Roi  
+Ottignies - Athénée Royal Paul Delvaux

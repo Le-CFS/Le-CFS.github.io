@@ -17,10 +17,11 @@ menu: activites
 
 Un apprentissage collectif, ludique et stimulant durant lequel les élèves progressent selon leur niveau. Maximum 5 élèves par groupe.
 
-$Tous les brevets décernés sont les brevets officiels de la Fédération Francophone Belge de Natation (FFBN). 
+$Tous les brevets décernés sont les brevets officiels de la Fédération Francophone Belge de Natation (FFBN).
 
-📍 **Bruxelles** Jette - Collège Saint-Pierre
+📍 **Bruxelles**  
+Jette - Collège Saint-Pierre  
+Woluwé-St-Pierre - SportCity  
+Neder-over-Heembeek - **NOUVEAU**
 
-📍 **Bruxelles** Woluwé-St-Pierre - SportCity
-
-📍 **Bruxelles** Neder-over-Heembeek - **NOUVEAU**
+📍 **Brabant Wallon**
