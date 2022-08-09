@@ -14,7 +14,7 @@ description: Découvrez l'école de natation du CFS ! Ce cours de transition con
 {% include annonces/natation.html %}
 
 <div class="d-flex justify-content-center mb-3">
-	<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-info-filled" target="_blank">J'inscris mon petit nageur</a>
+<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-info-filled" target="_blank">J'inscris mon petit nageur</a>
 </div>
 
 <span style="font-size:20px">Transition</span><span style="font-size:16px"> (à partir de 6 ans)</span>
@@ -25,5 +25,4 @@ Afin de préparer l'enfant à pouvoir participer au mini-club, ce cours de trans
 
 Horaires disponibles : le choix de l'horaire se fait, en fonction du niveau de l'enfant, au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser.
 
-📍 **Brabant Wallon** - Ottignies - Collège du Christ-Roi
-📍 **Brabant Wallon** - Wavre - Ecole Internationale du Verseau
+📍 **Brabant Wallon** - Ottignies - Collège du Christ-Roi & Athénée Royal Paul Delvaux
