@@ -9442,7 +9442,7 @@ stages:
   img: "/assets/images/stages/activitessportives/volleydecouverte.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
