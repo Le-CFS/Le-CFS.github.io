@@ -667,7 +667,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/minitennisetmultisports.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: Brabant Wallon
@@ -740,7 +740,8 @@ activites:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    centres: []
+    centres:
+    - RIXENSART - Complexe Sportif
     age: 5 à 15 ans
     description: "<p><strong><em>En collaboration avec Marc Charlier et le Judo Club
       Genval. </em></strong></p><p>Véritable sport éducatif, le Judo permet à chacun
@@ -780,14 +781,11 @@ activites:
     ville: Brabant Wallon
     centres:
     - RIXENSART - Complexe Sportif
-    - OTTIGNIES - Centre Sportif
     age: 6-12 ans
     description: "<p>Sport incontournable pour tous les futurs footballeurs qui souhaitent
       maîtriser le ballon.</p><p>Initiation au mini-foot (aspect technique, tactique
       et petits matchs).</p><p>Piscine une fois/mois !</p>"
-    infos:
-    - alias: TOURNOI
-      info_line: Un tournoi est prévu le 2 juin 2021!
+    infos: []
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -813,6 +811,8 @@ activites:
   - ville: Brabant Wallon
     centres:
     - WAVRE - Centre Sportif
+    - OTTIGNIES - Centre Sportif des Coquerées
+    - RIXENSART - Complexe Sportif
     age: 4 à 16 ans
     description: "<p>Le <strong>CFS</strong> propose un apprentissage et/ou perfectionnement
       des différentes techniques du Mini-Foot. Au programme: passe, dribble, contrôle,
@@ -836,7 +836,6 @@ activites:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres:
-    - WAVRE - Collège Notre Dame de Basse Wavre
     - OTTIGNIES - Centre Sportif des Coquerées
     age: 5 à 8 ans
     description: "<p>1 heure de découvertes sportives (sports ballons, uni-hoc, frisbee,
