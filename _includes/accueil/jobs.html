@@ -3,6 +3,7 @@
 {% assign count = site.categories.jobs | where: "online", "true" | size %}
 
 {% if count > 0 %}
+{% assign posts = site.categories.jobs | where: "online", "true" %}
 <div class="container">
   <div class="team-members-tow mtb-50">
     
@@ -11,7 +12,7 @@
     </div>
     
     <div class="row">
-      {% for post in site.categories.jobs limit:2 %}
+      {% for post in posts limit:2 %}
         {% if post.online %}
         <!-- Une seule news pour la version mobile, et deux pour la version ordi -->
         <div class="col-md-6 col-sm-12 col-xs-12">
