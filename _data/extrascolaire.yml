@@ -64,6 +64,15 @@ activites:
     age: ''
     description: ''
     infos: []
+  - alias: Liège
+    ville: Liège
+    centres:
+    - VERLAINE - Hall Omnisports
+    age: 5-8 ans
+    description: "<p><strong>NOUVEAU </strong></p><p>Séances de multisports avec au
+      programme 2h de découvertes sportives : sports ballons, uni-hoc, frisbee, badminton,
+      crosse canadienne, base-ball, gymnastique, etc.</p>"
+    infos: []
 - name: Aqua Fun
   categorie: Activités sportives
   img: "/assets/images/activites-extrascolaires-aqua-fun-300x300.jpg"
@@ -811,6 +820,17 @@ activites:
       info_line: La prise en charge des enfants se fera à l'Ecole communale Francophone
         de Wemmel à 15h30 et ils seront récupérés par leurs parents au Hall des Sports
         (Dijck 34) à 17h45.
+  - alias: Liège
+    ville: Liège
+    centres:
+    - VERLAINE - Hall Omnisports
+    age: 5-12 ans
+    description: "<p><strong>NOUVEAU</strong></p><p>Le CFS propose un apprentissage
+      et/ou perfectionnement des différentes techniques du Mini-Foot. Au programme
+      : passe, dribble, contrôle, amortie, shoot, jonglage, positionnement... Une
+      attention particulière sera portée à l'esprit d'équipe, le respect des règles
+      et des autres. Les enfants sont regroupés par niveaux et par âge.</p>"
+    infos: []
   nouveau: false
 - name: Mini-Foot ACADEMY
   img: "/assets/images/boutonsactivites/extrascolaires/minifootacademy.png"
