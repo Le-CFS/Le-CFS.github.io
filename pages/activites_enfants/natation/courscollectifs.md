@@ -24,4 +24,5 @@ Jette - Collège Saint-Pierre
 Woluwé-St-Pierre - SportCity  
 Neder-over-Heembeek - **NOUVEAU**
 
-📍 **Brabant Wallon**
+📍 **Brabant Wallon  
+**Ottignies - Athénée Royal Paul Delvaux - **NOUVEAU**
