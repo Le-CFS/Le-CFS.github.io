@@ -6044,7 +6044,7 @@ stages:
 - name: Escalade & VTT
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-escalade-et-vtt-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -6486,7 +6486,7 @@ stages:
 - name: Far-west
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-farwest-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -7752,7 +7752,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
