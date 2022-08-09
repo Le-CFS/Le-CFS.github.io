@@ -301,6 +301,16 @@ activites:
       exercice de rythmique. Plein de chouettes activités pour le développement de
       vos enfants.</p>"
     infos: []
+  - alias: Liège
+    ville: Liège
+    centres:
+    - HUY - Ecole de l'Agriculture
+    age: 3-5 ans
+    description: "<p><strong>NOUVEAU</strong></p><p>Au programme : parcours d'agilité
+      et d'audace, développement des notions sensori-motrices (latéralité, équilibre...),
+      jeux de coopération (parachute), exercices rythmique. Plein de chouettes activités
+      pour le développement de vos enfants.</p>"
+    infos: []
 - name: Self Défense
   categorie: Activités sportives
   img: ''
@@ -492,6 +502,18 @@ activites:
     description: "<p>Cours d'initiation à la gymnastique pour les plus petits. Parcours
       d'équilibre, d'audace et premières notions de gymnastique sportive.</p>"
     infos: []
+  - alias: Liège
+    ville: Liège
+    centres:
+    - HUY - Ecole de l'Agriculture
+    age: 4-6 ans
+    description: "<p><strong>NOUVEAU</strong></p><p>Votre enfant a besoin de se dépenser
+      tout en s'amusant ? La baby gym est une activité qui va permettre à votre enfant
+      de mieux grandir et d'affirmer ses conduites motrices.</p><p>Cette initiation
+      à la gymnastique pour les plus petits va contribuer à l'épanouissement de l'enfant
+      en favorisant ses habilités motrices naturelles.</p><p>Au programme : parcours
+      d'équilibre, d'audace et premières notions de gymnastique sportive.</p>"
+    infos: []
   nouveau: false
 - name: Danse Jazz
   img: "/assets/images/boutonsactivites/extrascolaires/dansejazz.png"
@@ -613,6 +635,17 @@ activites:
     description: "<p>Initiation et perfectionnement à la gymnastique sportive. Sol,
       sauts, poutre, barres... Petite démonstration en fin d'année. Les enfants sont
       regroupés par niveau/âge.</p>"
+    infos: []
+  - alias: Liège
+    ville: Liège
+    centres:
+    - HUY - Ecole de l'Agriculture
+    age: 6-14 ans
+    description: "<p><strong>NOUVEAU</strong></p><p>Quel que soit le niveau de votre
+      enfant, qu'il soit pour le loisir ou une ambition compétitive, nous avons mis
+      en place des cours d'initiation ou de perfectionnement selon le niveau et l'envie
+      de votre enfant à la gymnastique sportive.</p><p>Nous travaillons les différents
+      agrès : sol, sauts, poutre, et barres asymétriques.</p>"
     infos: []
 - name: Gymnastique PRO
   img: "/assets/images/boutonsactivites/extrascolaires/gympro.png"
