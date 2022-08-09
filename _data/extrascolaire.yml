@@ -762,6 +762,14 @@ activites:
   categorie: Découvertes sportives et culturelles
   online: true
   location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 5-8 ans
+    description: "<p>2 heure de découvertes sportives (sports ballons, uni-hoc, frisbee,
+      badminton, crosse canadienne, base-ball, gymnastique, etc.).</p>"
+    infos: []
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -922,17 +930,6 @@ activites:
   categorie: Activités artistiques et loisirs
   online: true
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    centres:
-    - BIERGES - Le Provincial
-    age: 8 à 12 ans
-    description: "<p>L’objectif du cours est de donner le goût des langues et la capacité
-      de s'exprimer dans de petites situations de la vie de tous les jours. L’apprentissage
-      est ludique (jeux linguistiques, expression orale, jeux de rôle, mises en situation,
-      etc.) et respectueux des capacités de chaque enfant. Ce cours convient tant
-      pour un apprentissage que pour un rattrapage (maximum 6 enfants par groupe).</p>"
-    infos: []
   - alias: Bruxelles
     ville: Bruxelles
     centres:
@@ -982,11 +979,12 @@ activites:
     centres:
     - WAVRE - Collège Notre Dame de Basse Wavre
     - PERWEZ - Centre Sportif de Perwez
+    - RIXENSART - Athénée Royal de Rixensart
     age: 9 à 16 ans
     description: "<p>Cette discipline utilise le corps pour seul outil. Face à des
       obstacles naturels, ce sont les habilités motrices qui servent de support à
       l'activité. Courses, sauts, grimpes, exercices d'équilibre et de suspension
-      sont au programme . L'activité se déroulera en salle et en milieu naturel.</p>"
+      sont au programme . L'activité se déroulera en salle.</p>"
     infos: []
 - name: Sports Raquettes
   img: "/assets/images/boutonsactivites/extrascolaires/raquettes.png"
