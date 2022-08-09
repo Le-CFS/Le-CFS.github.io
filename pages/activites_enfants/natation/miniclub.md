@@ -24,8 +24,9 @@ Maximum 8 élèves par groupe!
 Le mini-club est divisé en 2 niveaux afin de faire progresser tous les enfants à leur rythme!
 
 * **Perfectionnement (_1h_) : Savoir nager 50m dans 3 nages (dos, brasse, crawl).**
-* **Endurance (_1h30_) : Savoir nager les 4 nages (dos, brasse, crawl, papillon) sur longues distances.**
 
 La plus ancienne école de natation du Brabant Wallon (depuis 1981) - Passage de brevets en fin de cycle.
 
-📍 **Brabant Wallon** - Ottignies - Collège du Christ-Roi
+📍 **Brabant Wallon**  
+Ottignies - Collège du Christ-Roi  
+Ottignies - Athénée Royal Paul Delvaux

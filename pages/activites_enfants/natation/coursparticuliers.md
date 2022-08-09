@@ -25,6 +25,10 @@ Un apprentissage individuel durant lequel l'élève profite pleinement de la rel
 
 Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser.
 
-📍 **Brabant Wallon** - Bierges - Ottignies - Wavre
+📍 **Brabant Wallon**  
+Bierges - Le Provincial  
+Ottignies - Collège du Christ-Roi  
+Ottignies - Athénée Royal Paul Delvaux
 
-📍 **Namur** - Liernu _(Eghezée)_ - **NOUVEAU !** A partir de **Janvier 2023**
+📍 **Namur**  
+Liernu _(Eghezée)_ - **NOUVEAU !** A partir de **Janvier 2023**

@@ -2895,7 +2895,7 @@ stages:
 - name: Mécano
   categorie: Activités fun
   img: "/assets/images/stages-enfants-mecano-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2957,7 +2957,7 @@ stages:
 - name: Fun Evasion
   categorie: Activités fun
   img: "/assets/images/stages_enfants_fun_evasion.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2981,7 +2981,7 @@ stages:
 - name: Quad & Fun
   categorie: Activités fun
   img: "/assets/images/stage-enfant-quad-et-fun-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -4916,7 +4916,7 @@ stages:
 - name: Football Ado
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-football-ado-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -4938,7 +4938,7 @@ stages:
 - name: Bulle ado
   categorie: Activités fun
   img: "/assets/images/stage-enfant-bulle-ado-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -5021,7 +5021,7 @@ stages:
 - name: Tennis & VTT
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-tennis-et-vtt-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -5852,7 +5852,7 @@ stages:
 - name: Sports Raquettes & VTT
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-sports-raquettes-et-vtt-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -5910,7 +5910,7 @@ stages:
 - name: Fun VTT & Karting
   categorie: Activités fun
   img: "/assets/images/stage-enfant-fun-vtt-et-karting-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -5938,7 +5938,7 @@ stages:
 - name: Baby Tennis & Vélo
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-tennis-et-velo-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -5970,7 +5970,7 @@ stages:
 - name: Baby Natation
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-baby-natation-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -6044,7 +6044,7 @@ stages:
 - name: Escalade & VTT
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-escalade-et-vtt-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -6067,30 +6067,6 @@ stages:
         ainsi qu’un casque dès le premier jour du stage !'
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur.
-  activation_onglets: true
-- name: Aqua Multisports
-  categorie: Découvertes sportives et culturelles
-  img: "/assets/images/stage-enfant-aqua-multisports-500x500.jpg"
-  online: true
-  nouveau: true
-  stage_une: false
-  inscription: Brabant
-  location:
-  - alias: Brabant
-    ville: Brabant Wallon
-    age: 6-8 ans
-    description: "<p>Tu veux découvrir différents jeux aquatiques ?</p><p>Ce stage
-      est l'idéal si tu aimes passer du temps dans l'eau tout en t'amusant !</p><p>Chaque
-      jour, pendant 2 heures, tu pourras découvrir, par exemple, le waterpolo, les
-      techniques de sauvetage, des parcours sur eau, ou encore t’exercer à faire de
-      l'apnée.</p><p>Le reste de la journée est consacré à des activités de multisports
-      en extérieur comme du unihoc, basketball, crosse canadienne, ball bouncer, ou
-      baseball.</p>"
-    infos:
-    - alias: Tenue à prévoir
-      info_line: Prévoir un maillot, un essuie, un bonnet, ainsi qu’une tenue de sport.
-    - info_line: Les jeunes doivent savoir nager le 50m.
-      alias: Savoir nager le 50m
   activation_onglets: true
 - name: Techniques Artistiques
   categorie: Activités artistiques et loisirs
@@ -6483,7 +6459,7 @@ stages:
 - name: Fun Laser & VTT
   categorie: Activités fun
   img: "/assets/images/stage-enfant-activites-fun-lazer-vtt-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -6510,7 +6486,7 @@ stages:
 - name: Far-west
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-farwest-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -6669,7 +6645,7 @@ stages:
 - name: Fun Hiver
   categorie: Activités fun
   img: "/assets/images/stage-enfant-fun-hiver-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -7080,7 +7056,7 @@ stages:
   img: "/assets/images/stage-enfant-psycho-velo-500x500.jpg"
   inscription: ''
   categorie: Les petits bouts
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -7575,7 +7551,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -7733,7 +7709,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -7776,7 +7752,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/explorateur.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -7880,7 +7856,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/quadetvtt.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -8345,7 +8321,7 @@ stages:
   img: "/assets/images/stage-enfant-fun-ado-500x500.jpg"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -8416,7 +8392,7 @@ stages:
   img: "/assets/images/stages/activitesfun/funvtt.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -8447,7 +8423,7 @@ stages:
   img: "/assets/images/stage-enfant-karting-et-fun-500x500.jpg"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -8570,7 +8546,7 @@ stages:
   img: "/assets/images/stages/activitesfun/tennisfunetaventure.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9137,7 +9113,7 @@ stages:
   img: "/assets/images/stages/activitessportives/multinatation.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9289,7 +9265,7 @@ stages:
 - name: Plongée
   img: "/assets/images/stages/activitessportives/plongee.png"
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9349,7 +9325,7 @@ stages:
   img: "/assets/images/stages/activitessportives/selfdefense.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9371,7 +9347,7 @@ stages:
   img: "/assets/images/stages/activitessportives/sportnature.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9445,7 +9421,7 @@ stages:
   img: "/assets/images/stages/activitessportives/tennispro.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9466,7 +9442,7 @@ stages:
   img: "/assets/images/stages/activitessportives/volleydecouverte.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9614,7 +9590,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/bricoleur.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9742,7 +9718,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/detective.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9883,7 +9859,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietcirque.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9910,7 +9886,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9938,7 +9914,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:

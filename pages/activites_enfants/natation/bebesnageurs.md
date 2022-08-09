@@ -27,6 +27,8 @@ Les parents doivent accompagner leur bébé dans l'eau durant toute la séance. 
 
 _Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser._
 
-📍 **Brabant Wallon** - Bierges - Le Provincial
+📍 **Brabant Wallon**  
+Bierges - Le Provincial
 
-📍 **Namur** - Liernu _(Eghezée)_ - **NOUVEAU !** A partir de **Janvier 2023**
+📍 **Namur**  
+Liernu _(Eghezée)_ - **NOUVEAU !** A partir de **Janvier 2023**
