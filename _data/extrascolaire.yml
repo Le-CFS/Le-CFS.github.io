@@ -427,7 +427,7 @@ activites:
   - alias: Bruxelles
     ville: Bruxelles
     centres:
-    - Auderghem - Institut St-Julien
+    - AUDERGHEM - Institut St-Julien
     age: 4-6 ans
     description: "<p>Premier contact avec le sport et les jeux collectifs par lesquels
       votre enfant développe les différentes facettes de la motricité, le respect
@@ -453,6 +453,9 @@ activites:
     centres:
     - OTTIGNIES - Centre Sportif des Coquerées
     - COURT-SAINT-ETIENNE - Salle de la Courtoise
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    - RIXENSART - Complexe Sportif
+    - PERWEZ - Centre Sportif
     age: 4-6 ans
     description: "<p>Votre enfant a besoin de se dépenser tout en s'amusant ? La baby
       gym est une activité qui va permettre à votre enfant de mieux grandir et affirmer
