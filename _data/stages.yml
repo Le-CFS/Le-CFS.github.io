@@ -5938,7 +5938,7 @@ stages:
 - name: Baby Tennis & Vélo
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-tennis-et-velo-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -5970,7 +5970,7 @@ stages:
 - name: Baby Natation
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-baby-natation-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -6067,30 +6067,6 @@ stages:
         ainsi qu’un casque dès le premier jour du stage !'
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur.
-  activation_onglets: true
-- name: Aqua Multisports
-  categorie: Découvertes sportives et culturelles
-  img: "/assets/images/stage-enfant-aqua-multisports-500x500.jpg"
-  online: true
-  nouveau: true
-  stage_une: false
-  inscription: Brabant
-  location:
-  - alias: Brabant
-    ville: Brabant Wallon
-    age: 6-8 ans
-    description: "<p>Tu veux découvrir différents jeux aquatiques ?</p><p>Ce stage
-      est l'idéal si tu aimes passer du temps dans l'eau tout en t'amusant !</p><p>Chaque
-      jour, pendant 2 heures, tu pourras découvrir, par exemple, le waterpolo, les
-      techniques de sauvetage, des parcours sur eau, ou encore t’exercer à faire de
-      l'apnée.</p><p>Le reste de la journée est consacré à des activités de multisports
-      en extérieur comme du unihoc, basketball, crosse canadienne, ball bouncer, ou
-      baseball.</p>"
-    infos:
-    - alias: Tenue à prévoir
-      info_line: Prévoir un maillot, un essuie, un bonnet, ainsi qu’une tenue de sport.
-    - info_line: Les jeunes doivent savoir nager le 50m.
-      alias: Savoir nager le 50m
   activation_onglets: true
 - name: Techniques Artistiques
   categorie: Activités artistiques et loisirs
