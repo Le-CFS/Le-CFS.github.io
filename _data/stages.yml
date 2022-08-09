@@ -4938,7 +4938,7 @@ stages:
 - name: Bulle ado
   categorie: Activités fun
   img: "/assets/images/stage-enfant-bulle-ado-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -7551,7 +7551,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9590,7 +9590,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/bricoleur.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9718,7 +9718,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/detective.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
