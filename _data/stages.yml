@@ -2895,7 +2895,7 @@ stages:
 - name: Mécano
   categorie: Activités fun
   img: "/assets/images/stages-enfants-mecano-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -9113,7 +9113,7 @@ stages:
   img: "/assets/images/stages/activitessportives/multinatation.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9265,7 +9265,7 @@ stages:
 - name: Plongée
   img: "/assets/images/stages/activitessportives/plongee.png"
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9859,7 +9859,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietcirque.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9886,7 +9886,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9914,7 +9914,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
