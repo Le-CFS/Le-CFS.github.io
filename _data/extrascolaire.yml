@@ -1,5 +1,31 @@
 ---
 activites:
+- name: Fun & Multisports
+  categorie: Activités sportives
+  img: "/assets/images/stage-enfant-baby-multisports-500x500.jpg"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Notre Dame de Lourdes
+    - AUDERGHEM - Institut Saint-Julien
+    age: 6-12 ans
+    description: "<p>Séances de multisports ainsi que des activités Fun avec au programme
+      : sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball,
+      etc.</p>"
+    infos: []
+  - alias: Liège
+    ville: Liège
+    centres:
+    - VERLAINE - Hall Omnisports
+    age: 8-12 ans
+    description: "<p><strong>NOUVEAU </strong></p><p>Une combinaison d'activités fun
+      et ludiques telles que par exemple :</p><ul><li><p>New games</p></li><li><p>Multisports</p></li><li><p>Koh
+      Lanta</p></li><li><p>Arrow Games</p></li><li><p>et bien d'autres !</p></li></ul>"
+    infos: []
 - name: Festifoot Academy
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-baby-foot-500x500.jpg"
