@@ -1,5 +1,25 @@
 ---
 activites:
+- name: Initiation GRS/Acrogym/Danse
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/grs.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres: []
+    age: 5-8 ans
+    description: "<p>Ce cours propose une initiation à la danse, la GRS et l'acrogym.</p><p>Les
+      cours de GRS permettent aux élèves d'apprendre la technique des engins à travers
+      des ateliers et/ou des chorégraphies sur musique. Les engins sont le ballon,
+      la corde, le cerceau, le ruban et les massues. La conscience du corps, le rythme,
+      la créativité, la souplesse et la technique seront développés dans une ambiance
+      dynamique et ludique.</p><p>Les enfants feront également différents exercices
+      de souplesse, apprendront les premières bases techniques et chorégraphiques
+      de la danse Jazz.</p>"
+    infos: []
 - name: Trottinette freestyle
   categorie: Activités fun
   img: "/assets/images/activites-extrascolaires-trott-300x300.jpg"
