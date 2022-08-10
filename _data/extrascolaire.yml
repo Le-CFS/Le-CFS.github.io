@@ -1,5 +1,21 @@
 ---
 activites:
+- name: Koh Lanta
+  categorie: Activités fun
+  img: "/assets/images/stages/activitesfun/lanta.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - WALHAIN - Centre Sportif des Boscailles
+    age: 8-16 ans
+    description: <p>Viens t'amuser les mercredis avec nous et découvrir une multitude
+      d'activités "Koh-Lanta" en intérieur ou extérieur (épreuves par équipe, tir
+      à l'arc, immunités, etc...).</p>
+    infos: []
 - name: Tennis
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-mini-tennis-500x500.jpg"
