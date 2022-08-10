@@ -1,5 +1,28 @@
 ---
 activites:
+- name: Gym Academy
+  categorie: Danse et Gymnastique
+  img: "/assets/images/activites_parascolaires_gymnastique.jpg"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    - COURT-SAINT-ETIENNE - Salle de la Courtoise
+    age: 6-16 ans
+    description: "<p>Pour les plus aguerris en gymnastique, le CFS vous propose une
+      formule Academy. </p><p>Voici les avantages proposés :</p><ul><li><p>4h/semaine
+      : mercredi de 16h à 18h à <strong>Basse-Wavre</strong> et dimanche de 10h à
+      12h à <strong>Court-Saint-Etienne </strong>(pour la technique).</p></li><li><p>10
+      gymnastes maximum/moniteur.</p></li><li><p>Affiliation à la Fédération francophone
+      de Gymnastique (en option).</p></li><li><p>Survêtements aux couleurs de l'Academy.</p></li><li><p>Doit
+      avoir <strong>acquis toutes les bases</strong> de la gymnastique (évaluation
+      à l'admission).</p></li><li><p>Une compétition en interne en fin d'année.</p></li><li><p>Possibilité
+      de prendre une carte de 10 séances pour les cours supplémentaires.</p></li></ul>"
+    infos: []
 - name: VTT - Cyclo Cross
   categorie: Activités sportives
   img: "/assets/images/cyclo-cross.png"
