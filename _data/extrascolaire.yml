@@ -1,5 +1,24 @@
 ---
 activites:
+- name: Gym Spécial Garçons
+  categorie: Danse et Gymnastique
+  img: "/assets/images/gym-garcons.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - COURT-SAINT-ETIENNE - Salle de la Courtoise
+    age: 6-14 ans
+    description: "<p>Nous travaillons les différents agrès : sol, sauts, poutre, et
+      barres asymétriques.</p><p>Une petite démonstration est prévue en fin d'année.
+      Les enfants sont regroupés par âge/niveau.</p><p><strong><em>CLUB </em></strong><em>:
+      Entrainement spécial dans la grande salle GSA du Blocry (LLN) au moins un dimanche
+      sur l'année - Possibilité d'affiliation à la FFG (Fédération Francophone de
+      Gymnastique) sur demande.</em></p>"
+    infos: []
 - name: Initiation GRS/Acrogym/Danse
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/grs.png"
