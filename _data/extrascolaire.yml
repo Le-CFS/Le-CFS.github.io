@@ -1,5 +1,28 @@
 ---
 activites:
+- name: VTT - Cyclo Cross
+  categorie: Activités sportives
+  img: "/assets/images/cyclo-cross.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - ORP-JAUCHE - R.F.C. ORP Noduwez
+    age: 7-15 ans
+    description: "<p>Votre enfant souhaite découvre le monde du VTT et du cyclocross
+      ?</p><p>Grâce à Jean-Paul Van Horebeek, votre enfant connaitra toutes les joies
+      d’apprendre à rouler sur un circuit fermé et sécurisé de plus de 2 kilomètres
+      où descentes, montées et obstacles se mettront sur leur chemin. Le terrain de
+      jeu est évolutif et permet un apprentissage pour les débutants jusqu’au plus
+      confirmés.</p><p>Deux groupes seront formés en fonction des niveaux.</p><p><em>Nous
+      mettrons à disposition des cyclocross adaptés (10 ans, 13 ans et 15 ans) afin
+      que vos enfants puissent s’initier tout au long de l’année au cyclocross.</em></p><p>Adrénaline
+      et plaisir assuré !</p><p><em>Accès Vestiaire pour se laver - Encadré par Jean-Paul
+      Van Horebeek</em></p>"
+    infos: []
 - name: Gym Spécial Garçons
   categorie: Danse et Gymnastique
   img: "/assets/images/gym-garcons.png"
