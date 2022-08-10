@@ -1,5 +1,24 @@
 ---
 activites:
+- name: Tennis
+  categorie: Activités sportives
+  img: "/assets/images/stage-enfant-mini-tennis-500x500.jpg"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Centre Sportif des Coquerées
+    age: 6-18 ans
+    description: "<p>Cours d’initiation et de perfectionnement de tennis pour les
+      enfants.</p><p>Groupe de maximum 5 enfants pour l'initiation, et de 4 pour le
+      perfectionnement (minimum 2 ans d'expérience).</p><p>Le droit d'inscription
+      comprend : cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure),
+      prêt de raquette et assurance.</p><p><strong><em>CLUB</em></strong><em> : Cours
+      d'initiation et perfectionnement au Club de Tennis TC Ottintois.</em></p>"
+    infos: []
 - name: Baby Foot
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/cfs_activites_parascolaires_mini_foot.jpg"
