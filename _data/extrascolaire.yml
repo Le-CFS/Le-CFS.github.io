@@ -1,5 +1,21 @@
 ---
 activites:
+- name: Festifoot Academy
+  categorie: Activités sportives
+  img: "/assets/images/stage-enfant-baby-foot-500x500.jpg"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Complexe sportif du Heymbosch
+    age: 5-6 ans
+    description: "<p>Votre enfant est un vrai mordu du ballon ? Notre activité festifoot
+      est l'idéal pour lui !</p><p>Entrainement de football pour les plus jeunes avec
+      au programme : techniques, tactiques et petits matchs.</p>"
+    infos: []
 - name: Cheerleading
   categorie: Danse et Gymnastique
   img: "/assets/images/cheerleading.png"
