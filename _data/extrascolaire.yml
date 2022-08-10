@@ -1,5 +1,21 @@
 ---
 activites:
+- name: Baby Foot
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/cfs_activites_parascolaires_mini_foot.jpg"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - RIXENSART - Complexe Sportif
+    age: 3-6 ans
+    description: "<p>Entrainement de football pour les plus jeunes avec au programme
+      : technique, tactique et petits matchs. Les enfants sont regroupés par âge et
+      par niveau.</p>"
+    infos: []
 - name: Gym Academy
   categorie: Danse et Gymnastique
   img: "/assets/images/activites_parascolaires_gymnastique.jpg"
