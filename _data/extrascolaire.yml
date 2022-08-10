@@ -1,5 +1,27 @@
 ---
 activites:
+- name: Cheerleading
+  categorie: Danse et Gymnastique
+  img: "/assets/images/cheerleading.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    age: 8-16 ans
+    description: "<p>Le cheerleading, originaire des Etats-Unis, est une discipline
+      mélangeant différentes activités physiques ainsi que des chorégraphies : chants,
+      acrobaties ou éléments gymniques (<em>tumbling</em>), sauts (<em>jumps</em>),
+      portés (<em>stunts</em>) et danse.</p><p>Nos cours visent à faire découvrir
+      et initier les élèves aux bases du cheerleading.</p><p>Ils apprennent la gymnastique
+      au sol, seuls et en groupe. Les chorégraphies gymniques, le travail d'équipe
+      (pour les réalisations de pyramides) et la manipulation des pom-poms.</p><p>Le
+      développement de l’esprit d’équipe est également très important lors de cette
+      activité.</p>"
+    infos: []
 - name: Koh Lanta
   categorie: Activités fun
   img: "/assets/images/stages/activitesfun/lanta.png"
