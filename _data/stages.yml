@@ -29,6 +29,34 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Tennis & Padel
+  categorie: Activités sportives
+  img: "/assets/images/tennis-padel.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 7-14 ans
+    description: "<p><em>Stage en collaboration avec le </em><strong><em>Tennis Padel
+      Club l'Abbaye</em></strong></p><p>Votre enfant veut découvrir les joies d'un
+      sport de raquettes ? </p><p>Au programme : découverte, initiation, perfectionnement
+      du tennis &amp; du padel par une approche ludique et professionnelle. 3 terrains
+      de terre battue sont à la disposition des enfants dans le magnifique cadre du
+      Domaine Provincial d'Hélécine et vue sur la coupole depuis les terrains !</p><p>Le
+      début de semaine sera consacré au perfectionnement du bagage technique nécessaire
+      afin de pouvoir échanger et de profiter. La fin de semaine sera consacrée, quant
+      à elle, à l'initiation aux matchs par le biais de jeux organisés entre les élèves.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
+        disposition. Vous pouvez bien sûr apporter votre propre matériel.
+    - alias: Equipement
+      info_line: Prévoir pique-nique, collations, et une tenue sportive adaptée au
+        temps.
 - name: Kids Fun
   categorie: Activités fun
   img: "/assets/images/anniversaires/activites/arrow.png"
