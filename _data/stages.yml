@@ -545,7 +545,7 @@ stages:
     infos: []
 - name: Festifoot
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/activites_parascolaires_football.jpg"
+  img: "/assets/images/festifoot-hulpe.png"
   online: true
   nouveau: true
   stage_une: false
