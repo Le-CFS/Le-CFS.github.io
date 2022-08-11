@@ -361,7 +361,7 @@ stages:
         d''inscription.'
 - name: Festifoot
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/festifoot.jpg"
+  img: "/assets/images/festifoot-orp.png"
   online: true
   nouveau: true
   stage_une: false
