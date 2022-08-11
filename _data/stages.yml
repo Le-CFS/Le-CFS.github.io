@@ -29,6 +29,27 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Tennis & Anglais
+  categorie: Activités sportives
+  img: "/assets/images/tennis-anglais.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-16 ans
+    description: "<p><em>Stage en collaboration avec la </em><strong><em>New Lambermont
+      Tennis School.</em></strong></p><p>Ce stage combine l'apprentissage du tennis
+      avec l'apprentissage de l'Anglais.</p><p>Encadrés par des professionnels de
+      l'école Richmond, les enfants recevront une initiation à l'Anglais pendant 10h
+      sur la semaine (2 x 1h par jour). La méthode Richmond est nouvelle, plus orientée
+      sur la pratique et beaucoup moins rébarbative que des méthodes d'apprentissage
+      de langues traditionnelles (+ d'infos sur demande).</p><p>L'école de tennis
+      se réserve le droit d'annuler le stage si le nombre d'inscrits est insuffisant.</p>"
+    infos: []
 - name: VTT
   categorie: Activités sportives
   img: "/assets/images/vtt-orp.png"
@@ -7476,8 +7497,8 @@ stages:
       &amp; Jette : stage <strong>100% <em>CFS : </em></strong><em>matériel fourni
       par le </em><strong><em>CFS</em></strong></p></li><li><p>Wemmel : stage en collaboration
       avec<strong><em> Royal Tennis Club Laeken</em></strong></p></li><li><p>Schaerbeek
-      : stage en collaboration avec <strong><em>Lambermont Tennis Academy</em></strong>
-      (sur terrain de 12m, balles en mousse)</p></li></ul>"
+      : stage en collaboration avec <strong><em>New Lambermont Tennis School </em></strong>(sur
+      terrain de 12m, balles en mousse)</p></li></ul>"
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par notre partenaire. 
@@ -9459,7 +9480,7 @@ stages:
       ou dures (max. 8 enfants/groupe).</p><p>Un tournoi amical sera organisé en fin
       de semaine.</p><ul><li><p>Jette : stage <strong><em>100% CFS </em>: </strong>matériel
       fourni par le <strong>CFS</strong></p></li><li><p>Schaerbeek : stage en collaboration
-      avec<em> </em><strong><em>Lambermont Tennis Academy</em></strong></p></li><li><p>Wemmel
+      avec<em> </em><strong><em>New Lambermont Tennis School</em></strong></p></li><li><p>Wemmel
       : stage en collaboration avec<em> </em><strong><em>Royal Laeken Tennis Club</em></strong></p></li><li><p>Woluwe-Saint-Pierre
       : stage en collaboration avec<em> </em><strong><em>Ace Tennis Academy</em></strong></p></li></ul>"
     infos:
