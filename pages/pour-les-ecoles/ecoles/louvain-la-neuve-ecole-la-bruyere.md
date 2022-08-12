@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Louvain-La-Neuve - Ecole La Bruyère
-banner: "/assets/images/test-image-banner.jpg"
-image: "/assets/images/test-image.jpg"
+banner: "/assets/images/slider-les-bruyeres.jpg"
+image: "/assets/images/banner-les-bruyeres.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
 description: Ecole Royal Paul Delvaux

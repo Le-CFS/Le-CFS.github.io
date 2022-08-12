@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Nil-Saint-Vincent - Ecole Le Bon Départ
-banner: "/assets/images/test-image-banner.jpg"
-image: "/assets/images/test-image.jpg"
+banner: "/assets/images/slider-nil.jpg"
+image: "/assets/images/banner-nil.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
 description: Ecole Royal Paul Delvaux
