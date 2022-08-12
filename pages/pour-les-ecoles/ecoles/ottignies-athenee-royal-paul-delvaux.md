@@ -46,8 +46,9 @@ Nous souhaitions éclaircir certains points organisationnels pour débuter une n
 
 Voici les services proposés par le CFS aux élèves de l'ARO :
 
-##### **Garderies - LES PETITS GARDONS  
-**_Surveillance des temps de midi • Activités libres animées • Etudes surveillées_
+##### **Garderies - LES PETITS GARDONS**
+
+_Surveillance des temps de midi • Activités libres animées • Etudes surveillées_
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
@@ -59,16 +60,17 @@ Un coordinateur, Nicolas, est présent sur place pour assurer la gestion au quot
 
 ##### **Journées Pédagogiques**
 
-Le CFS organise des journées sportives au sein de l'école pour les élèves lors des journées pédagogiques. 
+Le CFS organise des journées sportives au sein de l'école pour les élèves lors des journées pédagogiques.
 
-Le CFS se charge également de la garderie. 
+Le CFS se charge également de la garderie.
 
 **_Dates et inscriptions des journées pédagogiques 2022-2023_**
 
-##### **Activités Parascolaires  
-**_Activités sportives, fun, créatives • Ecoles des devoirs_
+##### **Activités Parascolaires**
 
-C'est avec plaisir que le CFS vous propose pour la 11ème année une activités hebdomadaire pendant les heures de garderie. 
+_Activités sportives, fun, créatives • Ecoles des devoirs_
+
+C'est avec plaisir que le CFS vous propose pour la 11ème année une activités hebdomadaire pendant les heures de garderie.
 
 [**_Je m'inscris à une activité parascolaire_**](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant "Mon activité parascolaire")**_  
 Mon dépliant 2022-2023 "Activités Parascolaires ARO"_**
