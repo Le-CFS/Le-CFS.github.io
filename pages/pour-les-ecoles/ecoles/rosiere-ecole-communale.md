@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Rosière - Ecole Communale
-banner: "/assets/images/test-image-banner.jpg"
-image: "/assets/images/test-image.jpg"
+banner: "/assets/images/slider-rosieres.jpg"
+image: "/assets/images/banner-rosieres.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
 description: Ecole Royal Paul Delvaux

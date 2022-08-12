@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Walhain - Ecole du centre
-banner: "/assets/images/test-image-banner.jpg"
-image: "/assets/images/test-image.jpg"
+banner: "/assets/images/slider-walhain.jpg"
+image: "/assets/images/banner-walhain.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
 description: Ecole Royal Paul Delvaux
