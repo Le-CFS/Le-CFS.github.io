@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Uccle - Ecole Wolvenberg
-banner: "/assets/images/test-image-banner.jpg"
-image: "/assets/images/test-image.jpg"
+banner: "/assets/images/slider-wolvenberg.jpg"
+image: "/assets/images/banner-wolvenberg.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
 description: Ecole Royal Paul Delvaux

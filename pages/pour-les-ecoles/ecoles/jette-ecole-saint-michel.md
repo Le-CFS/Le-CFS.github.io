@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Jette - Ecole Saint Michel
-banner: "/assets/images/test-image-banner.jpg"
-image: "/assets/images/test-image.jpg"
+banner: "/assets/images/slider-st-michel.jpg"
+image: "/assets/images/banner-st-michel.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
 description: Ecole Royal Paul Delvaux

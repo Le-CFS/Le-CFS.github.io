@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Waterloo - Athénée Royal de Waterloo
-banner: "/assets/images/test-image-banner.jpg"
-image: "/assets/images/test-image.jpg"
+banner: "/assets/images/slider-waterloo.jpg"
+image: "/assets/images/banner-waterloo.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
 description: Ecole Royal Paul Delvaux

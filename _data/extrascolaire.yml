@@ -1,5 +1,205 @@
 ---
 activites:
+- name: Fun & Multisports
+  categorie: Activités sportives
+  img: "/assets/images/stage-enfant-baby-multisports-500x500.jpg"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Notre Dame de Lourdes
+    - AUDERGHEM - Institut Saint-Julien
+    age: 6-12 ans
+    description: "<p>Séances de multisports ainsi que des activités Fun avec au programme
+      : sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball,
+      etc.</p>"
+    infos: []
+  - alias: Liège
+    ville: Liège
+    centres:
+    - VERLAINE - Hall Omnisports
+    age: 8-12 ans
+    description: "<p><strong>NOUVEAU </strong></p><p>Une combinaison d'activités fun
+      et ludiques telles que par exemple :</p><ul><li><p>New games</p></li><li><p>Multisports</p></li><li><p>Koh
+      Lanta</p></li><li><p>Arrow Games</p></li><li><p>et bien d'autres !</p></li></ul>"
+    infos: []
+- name: Festifoot Academy
+  categorie: Activités sportives
+  img: "/assets/images/stage-enfant-baby-foot-500x500.jpg"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Complexe sportif du Heymbosch
+    age: 5-6 ans
+    description: "<p>Votre enfant est un vrai mordu du ballon ? Notre activité festifoot
+      est l'idéal pour lui !</p><p>Entrainement de football pour les plus jeunes avec
+      au programme : techniques, tactiques et petits matchs.</p>"
+    infos: []
+- name: Cheerleading
+  categorie: Danse et Gymnastique
+  img: "/assets/images/cheerleading.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - JETTE - Salle Omnisport
+    age: 8-16 ans
+    description: "<p>Le cheerleading, originaire des Etats-Unis, est une discipline
+      mélangeant différentes activités physiques ainsi que des chorégraphies : chants,
+      acrobaties ou éléments gymniques (<em>tumbling</em>), sauts (<em>jumps</em>),
+      portés (<em>stunts</em>) et danse.</p><p>Nos cours visent à faire découvrir
+      et initier les élèves aux bases du cheerleading.</p><p>Ils apprennent la gymnastique
+      au sol, seuls et en groupe. Les chorégraphies gymniques, le travail d'équipe
+      (pour les réalisations de pyramides) et la manipulation des pom-poms.</p><p>Le
+      développement de l’esprit d’équipe est également très important lors de cette
+      activité.</p>"
+    infos: []
+- name: Koh Lanta
+  categorie: Activités fun
+  img: "/assets/images/stages/activitesfun/lanta.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - WALHAIN - Centre Sportif des Boscailles
+    age: 8-16 ans
+    description: <p>Viens t'amuser les mercredis avec nous et découvrir une multitude
+      d'activités "Koh-Lanta" en intérieur ou extérieur (épreuves par équipe, tir
+      à l'arc, immunités, etc...).</p>
+    infos: []
+- name: Tennis
+  categorie: Activités sportives
+  img: "/assets/images/stage-enfant-mini-tennis-500x500.jpg"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Centre Sportif des Coquerées
+    age: 6-18 ans
+    description: "<p>Cours d’initiation et de perfectionnement de tennis pour les
+      enfants.</p><p>Groupe de maximum 5 enfants pour l'initiation, et de 4 pour le
+      perfectionnement (minimum 2 ans d'expérience).</p><p>Le droit d'inscription
+      comprend : cotisation, terrain intérieur, moniteur, balles adaptées (mousse/molle/dure),
+      prêt de raquette et assurance.</p><p><strong><em>CLUB</em></strong><em> : Cours
+      d'initiation et perfectionnement au Club de Tennis TC Ottintois.</em></p>"
+    infos: []
+- name: Baby Foot
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/cfs_activites_parascolaires_mini_foot.jpg"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - RIXENSART - Complexe Sportif
+    age: 3-6 ans
+    description: "<p>Entrainement de football pour les plus jeunes avec au programme
+      : technique, tactique et petits matchs. Les enfants sont regroupés par âge et
+      par niveau.</p>"
+    infos: []
+- name: Gym Academy
+  categorie: Danse et Gymnastique
+  img: "/assets/images/activites_parascolaires_gymnastique.jpg"
+  online: true
+  nouveau: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    - COURT-SAINT-ETIENNE - Salle de la Courtoise
+    age: 6-16 ans
+    description: "<p>Pour les plus aguerris en gymnastique, le CFS vous propose une
+      formule Academy. </p><p>Voici les avantages proposés :</p><ul><li><p>4h/semaine
+      : mercredi de 16h à 18h à <strong>Basse-Wavre</strong> et dimanche de 10h à
+      12h à <strong>Court-Saint-Etienne </strong>(pour la technique).</p></li><li><p>10
+      gymnastes maximum/moniteur.</p></li><li><p>Affiliation à la Fédération francophone
+      de Gymnastique (en option).</p></li><li><p>Survêtements aux couleurs de l'Academy.</p></li><li><p>Doit
+      avoir <strong>acquis toutes les bases</strong> de la gymnastique (évaluation
+      à l'admission).</p></li><li><p>Une compétition en interne en fin d'année.</p></li><li><p>Possibilité
+      de prendre une carte de 10 séances pour les cours supplémentaires.</p></li></ul>"
+    infos: []
+- name: VTT - Cyclo Cross
+  categorie: Activités sportives
+  img: "/assets/images/cyclo-cross.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - ORP-JAUCHE - R.F.C. ORP Noduwez
+    age: 7-15 ans
+    description: "<p>Votre enfant souhaite découvre le monde du VTT et du cyclocross
+      ?</p><p>Grâce à Jean-Paul Van Horebeek, votre enfant connaitra toutes les joies
+      d’apprendre à rouler sur un circuit fermé et sécurisé de plus de 2 kilomètres
+      où descentes, montées et obstacles se mettront sur leur chemin. Le terrain de
+      jeu est évolutif et permet un apprentissage pour les débutants jusqu’au plus
+      confirmés.</p><p>Deux groupes seront formés en fonction des niveaux.</p><p><em>Nous
+      mettrons à disposition des cyclocross adaptés (10 ans, 13 ans et 15 ans) afin
+      que vos enfants puissent s’initier tout au long de l’année au cyclocross.</em></p><p>Adrénaline
+      et plaisir assuré !</p><p><em>Accès Vestiaire pour se laver - Encadré par Jean-Paul
+      Van Horebeek</em></p>"
+    infos: []
+- name: Gym Spécial Garçons
+  categorie: Danse et Gymnastique
+  img: "/assets/images/gym-garcons.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - COURT-SAINT-ETIENNE - Salle de la Courtoise
+    age: 6-14 ans
+    description: "<p>Nous travaillons les différents agrès : sol, sauts, poutre, et
+      barres asymétriques.</p><p>Une petite démonstration est prévue en fin d'année.
+      Les enfants sont regroupés par âge/niveau.</p><p><strong><em>CLUB </em></strong><em>:
+      Entrainement spécial dans la grande salle GSA du Blocry (LLN) au moins un dimanche
+      sur l'année - Possibilité d'affiliation à la FFG (Fédération Francophone de
+      Gymnastique) sur demande.</em></p>"
+    infos: []
+- name: Initiation GRS/Acrogym/Danse
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/grs.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres: []
+    age: 5-8 ans
+    description: "<p>Ce cours propose une initiation à la danse, la GRS et l'acrogym.</p><p>Les
+      cours de GRS permettent aux élèves d'apprendre la technique des engins à travers
+      des ateliers et/ou des chorégraphies sur musique. Les engins sont le ballon,
+      la corde, le cerceau, le ruban et les massues. La conscience du corps, le rythme,
+      la créativité, la souplesse et la technique seront développés dans une ambiance
+      dynamique et ludique.</p><p>Les enfants feront également différents exercices
+      de souplesse, apprendront les premières bases techniques et chorégraphiques
+      de la danse Jazz.</p>"
+    infos: []
 - name: Trottinette freestyle
   categorie: Activités fun
   img: "/assets/images/activites-extrascolaires-trott-300x300.jpg"

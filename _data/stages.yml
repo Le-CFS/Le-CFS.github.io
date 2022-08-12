@@ -29,6 +29,76 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Tennis & Anglais
+  categorie: Activités sportives
+  img: "/assets/images/tennis-anglais.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-16 ans
+    description: "<p><em>Stage en collaboration avec la </em><strong><em>New Lambermont
+      Tennis School.</em></strong></p><p>Ce stage combine l'apprentissage du tennis
+      avec l'apprentissage de l'Anglais.</p><p>Encadrés par des professionnels de
+      l'école Richmond, les enfants recevront une initiation à l'Anglais pendant 10h
+      sur la semaine (2 x 1h par jour). La méthode Richmond est nouvelle, plus orientée
+      sur la pratique et beaucoup moins rébarbative que des méthodes d'apprentissage
+      de langues traditionnelles (+ d'infos sur demande).</p><p>L'école de tennis
+      se réserve le droit d'annuler le stage si le nombre d'inscrits est insuffisant.</p>"
+    infos: []
+- name: VTT
+  categorie: Activités sportives
+  img: "/assets/images/vtt-orp.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 7-15 ans
+    description: "<p><em>Stage en partenariat avec le</em><strong><em> R.F.C. Orp
+      Noduwez</em></strong></p><p>Votre enfant souhaite découvre le monde du VTT ?</p><p>Ce
+      stage lui permet de découvrir toutes les joies d’apprendre à rouler sur un circuit
+      fermé et sécurisé de plus de 2 kilomètres où descentes, montées et obstacles
+      se mettront sur leur chemin. Le terrain de jeu est évolutif et permet un apprentissage
+      pour les débutants jusqu’au plus confirmés.</p>"
+    infos:
+    - alias: Garderie
+      info_line: Garderie de 8h à 17h, comprise dans les frais d'inscription.
+- name: Tennis & Padel
+  categorie: Activités sportives
+  img: "/assets/images/tennis-padel.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 7-14 ans
+    description: "<p><em>Stage en collaboration avec le </em><strong><em>Tennis Padel
+      Club l'Abbaye</em></strong></p><p>Votre enfant veut découvrir les joies d'un
+      sport de raquettes ? </p><p>Au programme : découverte, initiation, perfectionnement
+      du tennis &amp; du padel par une approche ludique et professionnelle. 3 terrains
+      de terre battue sont à la disposition des enfants dans le magnifique cadre du
+      Domaine Provincial d'Hélécine et vue sur la coupole depuis les terrains !</p><p>Le
+      début de semaine sera consacré au perfectionnement du bagage technique nécessaire
+      afin de pouvoir échanger et de profiter. La fin de semaine sera consacrée, quant
+      à elle, à l'initiation aux matchs par le biais de jeux organisés entre les élèves.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
+        disposition. Vous pouvez bien sûr apporter votre propre matériel.
+    - alias: Equipement
+      info_line: Prévoir pique-nique, collations, et une tenue sportive adaptée au
+        temps.
 - name: Kids Fun
   categorie: Activités fun
   img: "/assets/images/anniversaires/activites/arrow.png"
@@ -291,7 +361,7 @@ stages:
         d''inscription.'
 - name: Festifoot
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/festifoot.jpg"
+  img: "/assets/images/festifoot-orp.png"
   online: true
   nouveau: true
   stage_une: false
@@ -311,7 +381,7 @@ stages:
       info_line: Garderie de 8h à 17h, comprise dans les frais d'inscription.
 - name: Football
   categorie: Activités sportives
-  img: "/assets/images/football.jpg"
+  img: "/assets/images/foot-orp.png"
   online: true
   nouveau: true
   stage_une: false
@@ -475,7 +545,7 @@ stages:
     infos: []
 - name: Festifoot
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/activites_parascolaires_football.jpg"
+  img: "/assets/images/festifoot-hulpe.png"
   online: true
   nouveau: true
   stage_une: false
@@ -7427,8 +7497,8 @@ stages:
       &amp; Jette : stage <strong>100% <em>CFS : </em></strong><em>matériel fourni
       par le </em><strong><em>CFS</em></strong></p></li><li><p>Wemmel : stage en collaboration
       avec<strong><em> Royal Tennis Club Laeken</em></strong></p></li><li><p>Schaerbeek
-      : stage en collaboration avec <strong><em>Lambermont Tennis Academy</em></strong>
-      (sur terrain de 12m, balles en mousse)</p></li></ul>"
+      : stage en collaboration avec <strong><em>New Lambermont Tennis School </em></strong>(sur
+      terrain de 12m, balles en mousse)</p></li></ul>"
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par notre partenaire. 
@@ -9382,14 +9452,15 @@ stages:
     ville: Brabant Wallon
     age: 8-14 ans
     description: "<p>Votre enfant veut découvrir les joies d'un sport de raquettes
-      ? </p><p>Ce stage de tennis associe l'apprentissage du geste technique au plaisir
+      ?</p><p>Ce stage de tennis associe l'apprentissage du geste technique au plaisir
       du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine, les enfants
       apprennent les bases du tennis (prises, placement, jeux de jambes,…) afin de
       pouvoir réaliser un maximum d’échanges que ce soit en partenaire ou en adversaire.</p><p>Des
       groupes seront formés en fonction des âges et des niveaux : balles molles, mids
       ou dures (max. 8 enfants/groupe).</p><p>Un tournoi amical sera organisé en fin
       de semaine.</p><p>La journée est divisée en 3 périodes de tennis et 1 période
-      de multisports.</p>"
+      de multisports.</p><ul><li><p>Hélécine : stage en collaboration avec <strong><em>Tennis
+      Padel Club l'Abbaye</em></strong></p></li></ul>"
     infos:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
@@ -9409,7 +9480,7 @@ stages:
       ou dures (max. 8 enfants/groupe).</p><p>Un tournoi amical sera organisé en fin
       de semaine.</p><ul><li><p>Jette : stage <strong><em>100% CFS </em>: </strong>matériel
       fourni par le <strong>CFS</strong></p></li><li><p>Schaerbeek : stage en collaboration
-      avec<em> </em><strong><em>Lambermont Tennis Academy</em></strong></p></li><li><p>Wemmel
+      avec<em> </em><strong><em>New Lambermont Tennis School</em></strong></p></li><li><p>Wemmel
       : stage en collaboration avec<em> </em><strong><em>Royal Laeken Tennis Club</em></strong></p></li><li><p>Woluwe-Saint-Pierre
       : stage en collaboration avec<em> </em><strong><em>Ace Tennis Academy</em></strong></p></li></ul>"
     infos:
