@@ -8,7 +8,7 @@
     <div class="row">
       {% for post in site.categories.news limit:2 %}
         <!-- Une seule news pour la version mobile, et deux pour la version ordi -->
-        <div class="col-md-6 col-sm-12 col-xs-12">
+        <div class="col-md-6">
           {% if forloop.index0 == 1  %}
             <div class="desktop">
           {% endif %}
@@ -18,7 +18,7 @@
             {% endif %}   
             <div class="blog-post">
               <div class="row">
-                <div class="col-md-12">
+                <div class="col-xs-12">
                   <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
                   <p>{{ post.infos.teaser }}</p>
                 </div>
@@ -27,10 +27,10 @@
                   {% endif %}
               </div>
               <div class="row">
-                <div class="col-md-6 col-xs-6 col-sm-6">
+                <div class="col-xs-6">
                   <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;"><span class="desktop">Continuer la lecture <i class="fa fa-arrow-circle-o-right icons"></i></span><span class="mobile">Lire <i class="fa fa-arrow-circle-o-right icons"></i></span></a>
                 </div>
-                <div class="col-md-6 col-xs-6 col-sm-6">
+                <div class="col-xs-6">
                   <p class="text-right" style="padding-top: 25px;">{{ post.date | date: "%d/%m/%Y" }}</p>
                 </div>
               </div>
