@@ -54,8 +54,6 @@ Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle 
 
 [**_Mon dépliant "Les Petits Gardons"_**](https://cfsport.sharepoint.com/:b:/s/external-documents/EY8yqJpPm0VDvCncCqbPd2kBRao5FU9Ep0kBKMTFZQGnGw?e=1ppJTx "Les Petits Gardons ARO")
 
-<div class="d-flex justify-content-center mb-3"> <a href="{{ page.button_document_link}}" class="btn btn-info-filled" target="_blank">{{  page.button_document_text }}</a> </div>
-
 Un coordinateur, Nicolas, est présent sur place pour assurer la gestion au quotidien et restera votre référent. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : garderie@lespetitsgardons.be.
 
 ##### **Journées Pédagogiques**
