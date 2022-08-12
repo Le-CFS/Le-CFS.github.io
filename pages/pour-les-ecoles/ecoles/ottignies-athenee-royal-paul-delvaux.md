@@ -52,7 +52,7 @@ _Surveillance des temps de midi • Activités libres animées • Etudes survei
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-**_Mon dépliant "Les Petits Gardons"_**
+[**_Mon dépliant "Les Petits Gardons"_**](https://cfsport.sharepoint.com/:b:/s/external-documents/EY8yqJpPm0VDvCncCqbPd2kBRao5FU9Ep0kBKMTFZQGnGw?e=1ppJTx "Les Petits Gardons ARO")
 
 <div class="d-flex justify-content-center mb-3"> <a href="{{ page.button_document_link}}" class="btn btn-info-filled" target="_blank">{{  page.button_document_text }}</a> </div>
 
@@ -72,5 +72,5 @@ _Activités sportives, fun, créatives • Ecoles des devoirs_
 
 C'est avec plaisir que le CFS vous propose pour la 11ème année une activités hebdomadaire pendant les heures de garderie.
 
-[**_Je m'inscris à une activité parascolaire_**](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant "Mon activité parascolaire")**_  
-Mon dépliant 2022-2023 "Activités Parascolaires ARO"_**
+[**_Je m'inscris à une activité parascolaire_**](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant "Mon activité parascolaire")**  
+**[**_Mon dépliant 2022-2023 "Activités Parascolaires ARO"_**](https://cfsport.sharepoint.com/:b:/s/external-documents/EYIzeQMrBRZBv7bCuJ5KJbIBXPuQDz6opf2TL8Cp8ux4rw?e=tNE2Ve "Mon dépliant ARO")
