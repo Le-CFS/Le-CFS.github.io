@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Wemmel - Ecole communale Francophone Maternelle & Primaire
-banner: "/assets/images/test-image-banner.jpg"
-image: "/assets/images/test-image.jpg"
+banner: "/assets/images/slider-wemmel.jpg"
+image: "/assets/images/banner-wemmel.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
 description: Ecole Royal Paul Delvaux
