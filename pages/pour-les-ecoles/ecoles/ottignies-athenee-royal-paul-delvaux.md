@@ -72,5 +72,5 @@ _Activités sportives, fun, créatives • Ecoles des devoirs_
 
 C'est avec plaisir que le CFS vous propose pour la 11ème année une activités hebdomadaire pendant les heures de garderie.
 
-[**_Je m'inscris à une activité parascolaire_**](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant "Mon activité parascolaire")**  
-**[**_Mon dépliant 2022-2023 "Activités Parascolaires ARO"_**](https://cfsport.sharepoint.com/:b:/s/external-documents/EYIzeQMrBRZBv7bCuJ5KJbIBXPuQDz6opf2TL8Cp8ux4rw?e=tNE2Ve "Mon dépliant ARO")
+[**_Je m'inscris à une activité parascolaire_**](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant "Mon activité parascolaire")  
+[**_Mon dépliant 2022-2023 "Activités Parascolaires ARO"_**](https://cfsport.sharepoint.com/:b:/s/external-documents/EYIzeQMrBRZBv7bCuJ5KJbIBXPuQDz6opf2TL8Cp8ux4rw?e=tNE2Ve "Mon dépliant ARO")
