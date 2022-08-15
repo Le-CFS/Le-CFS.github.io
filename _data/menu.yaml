@@ -196,8 +196,6 @@ pour_les_ecoles:
   title_mobile: Liste des activités
   online_mobile: true
   sousmenu:
-  - title: Journées sportives
-    url: "/pour-les-ecoles/journees_sportives/"
   - menu_list: "ecoles"
     title: ecoles
     url: ecoles
@@ -218,11 +216,18 @@ jobs:
   url: "/jobs/"
   title_mobile: JOBS
   online_mobile: true
-presse:
+journees_sportives:
   titre: Journées sportives
-  url: "/pour-les-ecoles/journees_sportives/"
+  url: "/journees-sportives/"
   title_mobile: Journées sportives
   online_mobile: true
+  sousmenu:
+  - title: Mounier
+    url: "/journees-sportives/mounier/"
+  - title: Blocry
+    url: "/journees-sportives/blocry/"
+  - title: Dans ton école
+    url: "/journees-sportives/dans-ton-ecole/"
 contact:
   titre: Contact
   url: "/contact/"
