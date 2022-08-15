@@ -1,0 +1,31 @@
+<!-- gris représente une bulle grisée -->
+{% if include.lien=="" %}
+{% assign button_link = '#' %}
+{% else %}
+{% assign button_link = include.lien %}
+{% endif %}
+
+<!-- adresse vers laquelle la bulle doit pointer -->
+{% if include.couleur=="" %}
+{% assign button_color = "info" %}
+{% else %}
+{% assign button_color = include.couleur %}
+{% endif %}
+
+<!-- doit s'ouvrir sur une autre page ou non -->
+{% if include.autre_page == '' %}
+{% assign button_target = '_self' %}
+{% else %}
+{% assign button_target = '_blank' %}
+{% endif %}
+
+<!-- doit s'ouvrir sur une autre page ou non -->
+{% if include.texte=="" %}
+{% assign button_text = "Ouvrir la page" %}
+{% else %}
+{% assign button_text = include.texte %}
+{% endif %}
+
+<div class="d-flex justify-content-center my-3">
+    <a href="{{ button_link}}" class="btn btn-{{ button_color}}-filled" target="{{ button_target}}">{{ button_text}}</a>
+</div>

@@ -18,23 +18,26 @@ description: ''
 {% if province.online %}
 <div class="container">
     <div class="team-members-tow mtb-50">
-      <div class="row">
-        <div class="sub-title col-md-8">
+      <div class="d-flex justify-content-between align-items-center">
+        <div class="sub-title">
           <span>{{ province.nom }}</span>
         </div>
-        <div class="col-md-4" style="margin-bottom: 20px;">
-          <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-block btn-info-filled">J'inscris mon petit nageur</a>
+        <div>
+          <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-info-filled">J'inscris mon petit nageur</a>
         </div>
-
-        {% for cours in province.cours %}
-        {% if cours.online %}
-        <div class="col-xs-6 col-md-3">
-          {% include coleen/bulle.html src=cours.src titre=cours.titre href=cours.href bouton=cours.bouton %}
-        </div>
-        {% endif %}
-        {% endfor %}
-
       </div>
+        <div class="row">
+
+          {% for cours in province.cours %}
+          {% if cours.online %}
+          <div class="col-xs-6 col-md-3">
+            {% include coleen/bulle.html src=cours.src titre=cours.titre href=cours.href bouton=cours.bouton %}
+          </div>
+          {% endif %}
+          {% endfor %}
+
+        </div>
+
     </div>
 </div>
 {% endif %}

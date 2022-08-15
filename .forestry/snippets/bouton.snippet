@@ -1,0 +1,15 @@
+{% comment %}
+Lien = url vers laquelle le bouton doit rediriger
+Couleur = couleur du bouton (info, success, danger, warning)
+autre_page = Si le bouton doit ouvrir le lien vers une autre page. true si oui, false si non.
+texte = le texte sur le bouton
+
+Attention à bien mettre les informations entre les deux guillemets.
+{% endcomment %}
+
+{% include utils/button.html
+    lien=""
+    couleur=""
+    autre_page=true
+    texte=""
+%}

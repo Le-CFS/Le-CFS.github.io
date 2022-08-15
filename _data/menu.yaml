@@ -192,8 +192,7 @@ anniversaires:
     url: "/anniversaires/en_savoir_plus/"
 pour_les_ecoles:
   titre: Pour les écoles
-  url: "/pour-les-ecoles/"
-  title_mobile: Liste des activités
+  url: "/pour-les-ecoles/ecoles/royal-paul-delvaux/"
   online_mobile: true
   sousmenu:
   - menu_list: "ecoles"

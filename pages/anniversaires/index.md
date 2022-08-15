@@ -12,10 +12,8 @@ js: portfolio.js
 
 {% include annonces/anniversaires.html %}
 
-<div class="row">
-  <div class="col-md-4 offset-md-4">
-    <a href="/anniversaires/reservation/" class="btn btn-block btn-info-filled" style="margin-top: -5px;">RÉSERVATION</a>
-  </div>
+<div class="d-flex justify-content-center mb-3">
+  <a href="/anniversaires/reservation/" class="btn btn-block btn-info-filled" style="margin-top: -5px;">RÉSERVATION</a>
 </div>
 
 <div style="padding-top: 25px;"></div>
