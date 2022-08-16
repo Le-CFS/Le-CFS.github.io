@@ -41,8 +41,6 @@ L’élève travaille donc de manière autonome. Les parents peuvent venir cherc
 
 Pour les **activités libres animées**, les enfants sont accueillis dans un cadre convivial sur base d’un projet pédagogique approuvé par l’O.N.E. mettant l’accent sur leur bien-être et leurs épanouissements, en leurs proposant des activités diverses et adaptées (facturation mensuelle via le badging). Ces activités libres se déroulent un maximum en extérieur. En cas de mauvais temps les élèves sont redirigés vers une classe adaptée. Les encadrants suivent régulièrement des formations auprès de l’O.N.E.
 
-{% include utils/button.html lien="[https://cfsport.sharepoint.com/:b:/s/external-documents/EY8yqJpPm0VDvCncCqbPd2kBRao5FU9Ep0kBKMTFZQGnGw?e=1ppJTx](https://cfsport.sharepoint.com/:b:/s/external-documents/EY8yqJpPm0VDvCncCqbPd2kBRao5FU9Ep0kBKMTFZQGnGw?e=1ppJTx "https://cfsport.sharepoint.com/:b:/s/external-documents/EY8yqJpPm0VDvCncCqbPd2kBRao5FU9Ep0kBKMTFZQGnGw?e=1ppJTx")" couleur="info" autre_page=true texte="Les Petits Gardons ARO" %}
-
 Une coordinatrice, Sylvie, est présente sur place pour assurer la gestion au quotidien et restera votre référente.
 
 ***
