@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Namur - Collège d'Erpent
-banner: "/assets/images/slider-erpent.jpg"
-image: "/assets/images/banner-erpent.jpg"
+banner: "/assets/images/banner-erpent.jpg"
+image: "/assets/images/slider-erpent.jpg"
 permalink: "/pour-les-ecoles/ecoles/Namur - Collège d'Erpent/"
 menu: true
 description: Collège Notre-Dame de la Paix Erpent
