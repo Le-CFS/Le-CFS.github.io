@@ -3,7 +3,7 @@ layout: page
 title: Wavre - Athénée Royal Maurice Carême
 banner: "/assets/images/slider_rix.jpg"
 image: "/assets/images/banner_rix.jpg"
-permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
+permalink: "/pour-les-ecoles/ecoles/wavre-maurice-careme/"
 menu: true
 description: Ecole Royal Paul Delvaux
 type_page: ecoles
