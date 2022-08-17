@@ -7,9 +7,9 @@ permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
 description: Ecole Saint-Michel
 type_page: ecoles
-activite_garderie: true
+activite_garderie: false
 activite_parascolaire: true
-activite_pedagogique: true
+activite_pedagogique: false
 bulle: ''
 button_document_text: Voir le programme
 button_document_color: 
