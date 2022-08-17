@@ -1,6 +1,9 @@
 <!-- gris représente une bulle grisée -->
 {% if include.lien=="" %}
 {% assign button_link = '#' %}
+{% elsif include.lien contains '[' %}
+{% assign new_lien = include.lien | split: "]" | slice: 0 | remove: "[" %}
+{% assign button_link = new_lien %}
 {% else %}
 {% assign button_link = include.lien %}
 {% endif %}
