@@ -56,6 +56,6 @@ _Activités sportives, fun, créatives • Ecoles des devoirs_
 
 C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec l’Athénée.
 
-{% include utils/button.html lien="[https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant")" couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
+{% include utils/button.html lien="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant" couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien="[https://cfsport.sharepoint.com/:b:/s/external-documents/EWJ2zVmOTKBMkoGWVPRsVNoBHLKDhj7inGz3EBFYP1J_qg?e=hI7f2N](https://cfsport.sharepoint.com/:b:/s/external-documents/EWJ2zVmOTKBMkoGWVPRsVNoBHLKDhj7inGz3EBFYP1J_qg?e=hI7f2N "https://cfsport.sharepoint.com/:b:/s/external-documents/EWJ2zVmOTKBMkoGWVPRsVNoBHLKDhj7inGz3EBFYP1J_qg?e=hI7f2N")" couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
+{% include utils/button.html lien="https://cfsport.sharepoint.com/:b:/s/external-documents/EWJ2zVmOTKBMkoGWVPRsVNoBHLKDhj7inGz3EBFYP1J_qg?e=hI7f2N" couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
