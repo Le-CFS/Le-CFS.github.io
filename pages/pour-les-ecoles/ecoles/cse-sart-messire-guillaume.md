@@ -15,8 +15,4 @@ published: false
 
 ---
 
-<div class="d-flex justify-content-center mb-3">
-	<a href="{{ page.button_document_link}}" class="btn btn-info-filled" target="_blank">{{  page.button_document_text }}</a>
-</div>
-
 Coucou l'école !
