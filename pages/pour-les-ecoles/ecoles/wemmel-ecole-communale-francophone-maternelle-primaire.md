@@ -24,7 +24,7 @@ Chers Parents,
 
 Cette année 2021-2022 se termine et nous préparons activement la rentrée 2022-2023.
 
-C’est avec plaisir que le CFS vous propose des activités sportives et culturelles le mardi, mercredi et jeudi après-midi en collaboration avec l’Ecole Communale Francophone Maternelle et Primaire
+C’est avec plaisir que le CFS vous propose des activités sportives et culturelles du lundi au vendredi après-midi en collaboration avec l’Ecole Communale Francophone Maternelle et Primaire.
 
 {% include utils/button.html  
 lien="[https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Bruxelles](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Bruxelles "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Bruxelles")" couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
