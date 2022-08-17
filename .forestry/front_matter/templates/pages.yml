@@ -49,22 +49,6 @@ fields:
   showOnly:
     field: type_page
     value: ecoles
-- name: button_document_text
-  type: text
-  config:
-    required: false
-  label: Texte button pour le programme
-  showOnly:
-    field: type_page
-    value: ecoles
-- name: button_document_link
-  type: text
-  config:
-    required: false
-  label: Line pour le bouton du programme
-  showOnly:
-    field: type_page
-    value: ecoles
 - name: bulle
   type: file
   config:
