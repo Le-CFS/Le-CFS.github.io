@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Educateur(trice) Physique à Bruxelles
-online: false
+online: true
 banner: "/assets/images/job_education_physique_bxl.jpg"
 description: Le CFS recrute ! Educateur(trice) sportif(ve) Bruxelles
 image: "/assets/images/job_education_physique_bxl.jpg"
