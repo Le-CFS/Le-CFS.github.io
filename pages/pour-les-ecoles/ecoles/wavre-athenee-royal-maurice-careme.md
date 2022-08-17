@@ -34,7 +34,7 @@ _Surveillance des temps de midi • Activités libres animées • Etudes survei
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien="[https://cfsport.sharepoint.com/:b:/s/external-documents/Ec011ajYxV9GpNQpai3NuCUBdW2DH6Q96M1jYhOngCLLqA?e=RXwFhI](https://cfsport.sharepoint.com/:b:/s/external-documents/Ec011ajYxV9GpNQpai3NuCUBdW2DH6Q96M1jYhOngCLLqA?e=RXwFhI "https://cfsport.sharepoint.com/:b:/s/external-documents/Ec011ajYxV9GpNQpai3NuCUBdW2DH6Q96M1jYhOngCLLqA?e=RXwFhI")" couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
+{% include utils/button.html lien="https://cfsport.sharepoint.com/:b:/s/external-documents/Ec011ajYxV9GpNQpai3NuCUBdW2DH6Q96M1jYhOngCLLqA?e=RXwFhI" couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
 
 Une coordinatrice, Patricia, est présente sur place pour assurer la gestion au quotidien et restera votre référente. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 
