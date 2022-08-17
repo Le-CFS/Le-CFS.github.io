@@ -21,6 +21,24 @@
             <div class="desktop mb-60"></div>
             <span class="mobile" style="padding-bottom: 20px;"></span>
           {% endif %}
+          {% if page.type_page == "ecoles" %}
+          <table class="table table-striped mt-4 mb-4">
+            <thead>
+              <tr>
+                <th scope="col" style="width:33%"><center>Activités parascolaires</center></th>
+                <th scope="col" style="width:33%"><center>Garderies</center></th>
+                <th scope="col" style="width:33%"><center>Journées pédagogiques</center></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                  <td><center>{% if page.activite_parascolaire %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+                  <td><center>{% if page.activite_garderie %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+                  <td><center>{% if page.activite_pedagogique %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+              </tr>
+            </tbody>
+          </table>
+          {% endif %}
           {{ content }}
         </div>
       </div>
