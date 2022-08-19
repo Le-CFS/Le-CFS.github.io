@@ -41,7 +41,7 @@ Le CFS organise des journées sportives au sein de l'école pour les élèves lo
 
 Le CFS se charge également de la garderie.
 
-**_Dates et inscriptions des journées pédagogiques 2022-2023_**
+**_Dates et inscriptions des journées pédagogiques 2022-2023 à venir..._**
 
 ***
 
