@@ -13,7 +13,6 @@ activite_pedagogique: true
 bulle: ''
 
 ---
-
 #### Un cadre convivial pour vos enfants !
 
 _En collaboration avec ADSL Stages_
@@ -61,4 +60,4 @@ _Activités sportives, fun, créatives_
 
 Un choix d’activités (1h entière) proposées certains jours où votre enfant s’engage à l’année de septembre à fin mai (cotisation annuelle, par virement en une seule fois). Il est possible de faire une séance d’essai gratuite. Les activités commencent la semaine du **19 septembre** **2022** et se terminent le **25 mai 2022**
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ES8v0LxbEzJIl_CiO6P80-4BZ4gjyTiWfxgZnynuS4xWZw?e=jwuR9P' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
+{% include utils/button.html lien='[https://cfsport.sharepoint.com/:b:/s/external-documents/Ee6wGlDHd-JAstufo9VCI3wBIAtAhubKrLlI_P7m8BeJcg?e=FUiNN8](https://cfsport.sharepoint.com/:b:/s/external-documents/Ee6wGlDHd-JAstufo9VCI3wBIAtAhubKrLlI_P7m8BeJcg?e=FUiNN8 "https://cfsport.sharepoint.com/:b:/s/external-documents/Ee6wGlDHd-JAstufo9VCI3wBIAtAhubKrLlI_P7m8BeJcg?e=FUiNN8")' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
