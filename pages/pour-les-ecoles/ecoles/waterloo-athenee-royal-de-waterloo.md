@@ -17,7 +17,7 @@ bulle: ''
 
 Chers Parents d'élèves,
 
-Cette année 2021-2022 se termine et nous préparons activement la rentrée 2022-2023. Nous souhaitions éclaircir certains points organisationnels pour débuter une nouvelle année scolaire de façon pro-active.
+Nous préparons activement la rentrée 2022-2023 et c’est avec plaisir que le CFS vous propose des activités sportives et culturelles tous les jours de la semaine sauf le mercredi (lundi, mardi, jeudi et vendredi) en collaboration avec l’Athénée Royal de Waterloo.
 
 ***
 
