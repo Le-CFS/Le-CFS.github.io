@@ -9,7 +9,7 @@ description: Ecole Royal Paul Delvaux
 type_page: ecoles
 activite_parascolaire: true
 activite_garderie: true
-activite_pedagogique: true
+activite_pedagogique: false
 bulle: ''
 
 ---
@@ -50,13 +50,3 @@ texte="Les Petits Gardons ARO"
 %}
 
 Un coordinateur, Nicolas, est présent sur place pour assurer la gestion au quotidien et restera votre référent. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
-
-***
-
-##### **Journées Pédagogiques**
-
-Le CFS organise des journées sportives au sein de l'école pour les élèves lors des journées pédagogiques.
-
-Le CFS se charge également de la garderie.
-
-**_Dates et inscriptions des journées pédagogiques 2022-2023 à venir..._**
