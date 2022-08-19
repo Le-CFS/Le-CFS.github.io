@@ -13,7 +13,6 @@ activite_pedagogique: false
 bulle: ''
 
 ---
-
 #### **Un cadre convivial pour vos enfants !**
 
 Chers Parents,
@@ -25,4 +24,4 @@ C’est avec plaisir que le CFS vous propose des activités sportives et culture
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQcZ-KSKJO1FpZrCulN7L5EBQS0VhuyULPQ0IRakAPe_Mg?e=cplzeS' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
+{% include utils/button.html lien='[https://cfsport.sharepoint.com/:b:/s/external-documents/EeJqdZoYutNLgQ5fVknOzNMBRIKC6qwpoecMs5LYVceXxw?e=CD3kqM](https://cfsport.sharepoint.com/:b:/s/external-documents/EeJqdZoYutNLgQ5fVknOzNMBRIKC6qwpoecMs5LYVceXxw?e=CD3kqM "https://cfsport.sharepoint.com/:b:/s/external-documents/EeJqdZoYutNLgQ5fVknOzNMBRIKC6qwpoecMs5LYVceXxw?e=CD3kqM")' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
