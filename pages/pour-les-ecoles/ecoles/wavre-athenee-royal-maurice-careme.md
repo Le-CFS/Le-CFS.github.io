@@ -5,7 +5,7 @@ banner: "/assets/images/slider_rix.jpg"
 image: "/assets/images/banner_rix.jpg"
 permalink: "/pour-les-ecoles/ecoles/wavre-maurice-careme/"
 menu: true
-description: Ecole Royal Paul Delvaux
+description: Athénée Royal Maurice Carême
 type_page: ecoles
 activite_parascolaire: true
 activite_garderie: true
@@ -13,7 +13,6 @@ activite_pedagogique: true
 bulle: ''
 
 ---
-
 #### **Un cadre convivial pour vos enfants !**
 
 Chers Parents d'élèves,
@@ -30,7 +29,7 @@ _Surveillance des temps de midi • Activités libres animées • Etudes survei
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/Ec011ajYxV9GpNQpai3NuCUBdW2DH6Q96M1jYhOngCLLqA?e=RXwFhI' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
+{% include utils/button.html lien='[https://cfsport.sharepoint.com/:b:/s/external-documents/EXn1ks1kIxFPjCKrIQh-jKcBVIUWtXfIDufPpvAZYrwDtw?e=W6UfKC](https://cfsport.sharepoint.com/:b:/s/external-documents/EXn1ks1kIxFPjCKrIQh-jKcBVIUWtXfIDufPpvAZYrwDtw?e=W6UfKC "https://cfsport.sharepoint.com/:b:/s/external-documents/EXn1ks1kIxFPjCKrIQh-jKcBVIUWtXfIDufPpvAZYrwDtw?e=W6UfKC")' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
 
 Une coordinatrice, Patricia, est présente sur place pour assurer la gestion au quotidien et restera votre référente. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 
@@ -59,7 +58,7 @@ texte="Je m'inscris à une activité parascolaire"
 %}
 
 {% include utils/button.html  
-lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EWJ2zVmOTKBMkoGWVPRsVNoBHLKDhj7inGz3EBFYP1J_qg?e=hI7f2N'
+lien='[https://cfsport.sharepoint.com/:b:/s/external-documents/ER3JCSpPcBxItJmAGBpH93IBYCo5L0oFWJ5cgqmvMhnVBQ?e=cqFR3A](https://cfsport.sharepoint.com/:b:/s/external-documents/ER3JCSpPcBxItJmAGBpH93IBYCo5L0oFWJ5cgqmvMhnVBQ?e=cqFR3A "https://cfsport.sharepoint.com/:b:/s/external-documents/ER3JCSpPcBxItJmAGBpH93IBYCo5L0oFWJ5cgqmvMhnVBQ?e=cqFR3A")'
 couleur="info"  
 autre_page=true  
 texte="Mon dépliant 2022-2023"  
