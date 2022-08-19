@@ -1,18 +1,27 @@
 ---
 layout: page
 title: Court-Saint-Etienne - Sart-Messire-Guillaume
-banner: "/assets/images/banner/events/journeesportives.png"
-image: "/assets/images/banner/events/journeesportives.png"
+banner: "/assets/images/slider-sart-messire-guillaume.jpg"
+image: "/assets/images/banner-sart-messire-guillaume.jpg"
 permalink: "/pour-les-ecoles/ecoles/sart-messire-guillaume/"
 menu: true
-description: Ecole de Sart-Messire-GUillaume
+description: Ecole de Sart-Messire-Guillaume
 type_page: ecoles
-activite_parascolaire: true
 activite_garderie: false
+activite_parascolaire: true
 activite_pedagogique: true
 bulle: ''
-published: false
 
 ---
+#### **Un cadre convivial pour vos enfants !**
 
-Coucou l'école !
+Chers Parents,
+
+Cette année 2021-2022 se termine et nous préparons activement la rentrée 2022-2023.
+
+C’est avec plaisir que le CFS vous propose des activités sportives et culturelles le lundi après-midi en collaboration avec l’Ecole Communale de Sart-Messire-Guillaume.
+
+{% include utils/button.html  
+lien='[https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant")' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
+
+{% include utils/button.html lien='[https://cfsport.sharepoint.com/:b:/s/external-documents/Ec1LUgJ66yRDnP1z0i60LY8BiMU2UdF1-5IM5jedd6XbIQ?e=hcc8Kv](https://cfsport.sharepoint.com/:b:/s/external-documents/Ec1LUgJ66yRDnP1z0i60LY8BiMU2UdF1-5IM5jedd6XbIQ?e=hcc8Kv "https://cfsport.sharepoint.com/:b:/s/external-documents/Ec1LUgJ66yRDnP1z0i60LY8BiMU2UdF1-5IM5jedd6XbIQ?e=hcc8Kv")' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
