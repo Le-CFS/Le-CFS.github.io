@@ -24,6 +24,18 @@ Nous souhaitions éclaircir certains points organisationnels pour débuter une n
 
 Voici les services proposés par le CFS aux élèves de l'ARO :
 
+##### **Activités Parascolaires**
+
+_Activités sportives, fun, créatives • Ecoles des devoirs_
+
+C'est avec plaisir que le CFS vous propose pour la 11ème année une activités hebdomadaire pendant les heures de garderie.
+
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
+
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EeCiQkdYYZBEraW8VeN7yVEBn46ZgKTy-tXfHKtUSdWP8w?e=ZxDegB' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
+
+***
+
 ##### **Garderies - LES PETITS GARDONS**
 
 _Surveillance des temps de midi • Activités libres animées • Etudes surveillées_
@@ -31,7 +43,7 @@ _Surveillance des temps de midi • Activités libres animées • Etudes survei
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
 {% include utils/button.html
-lien='[https://cfsport.sharepoint.com/:b:/s/external-documents/EXAy64EazohBvAsB83rPUvoBZpQL0raAhd4FkPZzuB8OTQ?e=c59RpQ](https://cfsport.sharepoint.com/:b:/s/external-documents/EXAy64EazohBvAsB83rPUvoBZpQL0raAhd4FkPZzuB8OTQ?e=c59RpQ "https://cfsport.sharepoint.com/:b:/s/external-documents/EXAy64EazohBvAsB83rPUvoBZpQL0raAhd4FkPZzuB8OTQ?e=c59RpQ")'
+lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EXAy64EazohBvAsB83rPUvoBZpQL0raAhd4FkPZzuB8OTQ?e=c59RpQ'
 couleur="info"
 autre_page=true
 texte="Les Petits Gardons ARO"
@@ -48,25 +60,3 @@ Le CFS organise des journées sportives au sein de l'école pour les élèves lo
 Le CFS se charge également de la garderie.
 
 **_Dates et inscriptions des journées pédagogiques 2022-2023 à venir..._**
-
-***
-
-##### **Activités Parascolaires**
-
-_Activités sportives, fun, créatives • Ecoles des devoirs_
-
-C'est avec plaisir que le CFS vous propose pour la 11ème année une activités hebdomadaire pendant les heures de garderie.
-
-{% include utils/button.html
-lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant'
-couleur="info"
-autre_page=true
-texte="Je m'inscris à une activité parascolaire"
-%}
-
-{% include utils/button.html
-lien='[https://cfsport.sharepoint.com/:b:/s/external-documents/EeCiQkdYYZBEraW8VeN7yVEBn46ZgKTy-tXfHKtUSdWP8w?e=ZxDegB](https://cfsport.sharepoint.com/:b:/s/external-documents/EeCiQkdYYZBEraW8VeN7yVEBn46ZgKTy-tXfHKtUSdWP8w?e=ZxDegB "https://cfsport.sharepoint.com/:b:/s/external-documents/EeCiQkdYYZBEraW8VeN7yVEBn46ZgKTy-tXfHKtUSdWP8w?e=ZxDegB")'
-couleur="info"
-autre_page=true
-texte="Mon dépliant 2022-2023"
-%}
