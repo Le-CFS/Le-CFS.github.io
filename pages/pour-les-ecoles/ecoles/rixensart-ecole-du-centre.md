@@ -3,7 +3,7 @@ layout: page
 title: Rixensart - Ecole du Centre
 banner: "/assets/images/slider-rix-ecole-du-centre.jpg"
 image: "/assets/images/banner-rix-ecole-du-centre.jpg"
-permalink: "/pour-les-ecoles/ecoles/Ecole-du-Centre/"
+permalink: "/pour-les-ecoles/ecoles/ecole-du-centre-rixensart/"
 menu: true
 description: Rixensart - Ecole du Centre
 type_page: ecoles
