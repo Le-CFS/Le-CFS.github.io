@@ -13,7 +13,6 @@ activite_pedagogique: true
 bulle: ''
 
 ---
-
 #### **Un cadre convivial pour vos enfants !**
 
 Chers Parents d'élèves,
@@ -32,7 +31,7 @@ _Surveillance des temps de midi • Activités libres animées • Etudes survei
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
 {% include utils/button.html
-lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EY8yqJpPm0VDvCncCqbPd2kBRao5FU9Ep0kBKMTFZQGnGw?e=1ppJTx'
+lien='[https://cfsport.sharepoint.com/:b:/s/external-documents/EXAy64EazohBvAsB83rPUvoBZpQL0raAhd4FkPZzuB8OTQ?e=c59RpQ](https://cfsport.sharepoint.com/:b:/s/external-documents/EXAy64EazohBvAsB83rPUvoBZpQL0raAhd4FkPZzuB8OTQ?e=c59RpQ "https://cfsport.sharepoint.com/:b:/s/external-documents/EXAy64EazohBvAsB83rPUvoBZpQL0raAhd4FkPZzuB8OTQ?e=c59RpQ")'
 couleur="info"
 autre_page=true
 texte="Les Petits Gardons ARO"
@@ -66,7 +65,7 @@ texte="Je m'inscris à une activité parascolaire"
 %}
 
 {% include utils/button.html
-lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYIzeQMrBRZBv7bCuJ5KJbIBXPuQDz6opf2TL8Cp8ux4rw?e=tNE2Ve'
+lien='[https://cfsport.sharepoint.com/:b:/s/external-documents/EeCiQkdYYZBEraW8VeN7yVEBn46ZgKTy-tXfHKtUSdWP8w?e=ZxDegB](https://cfsport.sharepoint.com/:b:/s/external-documents/EeCiQkdYYZBEraW8VeN7yVEBn46ZgKTy-tXfHKtUSdWP8w?e=ZxDegB "https://cfsport.sharepoint.com/:b:/s/external-documents/EeCiQkdYYZBEraW8VeN7yVEBn46ZgKTy-tXfHKtUSdWP8w?e=ZxDegB")'
 couleur="info"
 autre_page=true
 texte="Mon dépliant 2022-2023"
