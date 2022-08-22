@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Walhain - Ecole du centre
+title: Walhain - Ecoles Communales
 banner: "/assets/images/slider-walhain.jpg"
 image: "/assets/images/banner-walhain.jpg"
-permalink: "/pour-les-ecoles/ecoles/Ecole-du-Centre/"
+permalink: "/pour-les-ecoles/ecoles/Ecoles-communales/"
 menu: true
-description: 'Walhain - Ecole du Centre '
+description: Walhain - Ecole Communales
 type_page: ecoles
 activite_parascolaire: true
 activite_garderie: false
