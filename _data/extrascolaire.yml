@@ -1284,15 +1284,22 @@ activites:
     centres:
     - WAVRE - Collège Notre Dame de Basse Wavre
     - OTTIGNIES - Centre Sportif des Coquerées
-    age: 8 à 15 ans
-    description: "<p>Perfectionnement  pour les passionnés de la pratique du VTT.
-      Trip dans les bois, parcours de la région !  Le jeune doit avoir son propre
-      VTT, un casque et une chambre à air de rechange</p><p>Le planning pourra être
-      adapté en fonction des conditions météorologiques (en cas de forte intempérie,
-      activité en salle). Maximum 10 enfants par groupe.</p>"
+    - Perwez - Centre Sportif
+    age: A partir de 8 ans
+    description: "<p>Perfectionnement pour les passionnés de la pratique du VTT. Trip
+      dans les bois, parcours de la région ! Le jeune doit avoir son propre VTT, un
+      casque et une chambre à air de rechange</p><p>Le planning pourra être adapté
+      en fonction des conditions météorologiques (en cas de forte intempérie, activité
+      en salle). Maximum 10 enfants par groupe.</p><p>Horaires disponibles :</p><ul><li><p><strong>Ottignies
+      </strong>(Centre Sportif des Coquerées)</p><ul><li><p>Mercredi 14h00 à 16h00
+      de 8 à 15 ans</p></li></ul></li><li><p><strong>Wavre </strong>(Collège Notre-Dame
+      de Basse-Wavre)</p><ul><li><p>Samedi 10h00 à 12h00 de 8 à 15 ans</p></li></ul></li><li><p><strong>Perwez
+      </strong>(Centre Sportif de Perwez)</p><ul><li><p>Samedi 10h00 à 12h00 de 9
+      à 16 ans</p></li></ul></li></ul>"
     infos:
-    - alias: NIVEAUX
-      info_line: 'Deux niveaux : Pro ou Initiation'
+    - alias: Niveaux
+      info_line: 'Deux niveaux : Pro ou Initiation (les groupes sont constitués sur
+        places).'
     alias: Brabant Wallon
 - name: Multi Aqua
   img: "/assets/images/boutonsactivites/extrascolaires/multiaqua.png"
