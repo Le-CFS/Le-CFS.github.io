@@ -15,8 +15,6 @@ bulle: ''
 ---
 #### **Un cadre convivial pour vos enfants !**
 
-Chers Parents d'élèves,
-
 Voici les services proposés par le CFS aux élèves de l'Ecole Le Bon Départ :
 
 ***

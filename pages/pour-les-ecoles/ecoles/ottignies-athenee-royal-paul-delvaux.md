@@ -15,18 +15,13 @@ bulle: ''
 ---
 #### **Un cadre convivial pour vos enfants !**
 
-Chers Parents d'élèves,
-
-Cette année 2021-2022 se termine et nous préparons activement la rentrée 2022-2023.
-Nous souhaitions éclaircir certains points organisationnels pour débuter une nouvelle année scolaire de façon pro-active.
+Voici les services proposés par le CFS aux élèves de l'ARO :
 
 ***
 
-Voici les services proposés par le CFS aux élèves de l'ARO :
-
 ##### **Activités Parascolaires**
 
-_Activités sportives, fun, créatives • Ecoles des devoirs_
+**_Activités sportives, fun, créatives • Ecoles des devoirs_**
 
 C'est avec plaisir que le CFS vous propose pour la 11ème année une activités hebdomadaire pendant les heures de garderie.
 
@@ -38,7 +33,7 @@ C'est avec plaisir que le CFS vous propose pour la 11ème année une activités 
 
 ##### **Garderies - LES PETITS GARDONS**
 
-_Surveillance des temps de midi • Activités libres animées • Etudes surveillées_
+**_Surveillance des temps de midi • Activités libres animées • Etudes surveillées_**
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
