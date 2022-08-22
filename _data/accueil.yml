@@ -206,11 +206,19 @@ activites:
     autre_page: ''
     bouton: Inscription
     couleur_bouton: ''
-  - titre: Parascolaire
-    titre_img: Parascolaire
-    titre_overlay: Parascolaire
-    src: "/assets/images/boutonsactivites/parascolaires.png"
+  - titre: Pour les écoles
+    titre_img: Pour les écoles
+    titre_overlay: Pour les écoles
+    src: "/assets/images/pourlesecoles.jpg"
     href: https://www.lecfs.be/pour-les-ecoles/ecoles/royal-paul-delvaux/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Ecole de natation
+    titre_img: Ecole de natation
+    titre_overlay: Ecole de natation
+    src: "/assets/images/ecole_de_natation.jpg"
+    href: https://www.lecfs.be/activites/ecole_de_natation/
     autre_page: ''
     bouton: Inscription
     couleur_bouton: ''
@@ -221,12 +229,4 @@ activites:
     href: "/cours_adultes"
     autre_page: ''
     bouton: Inscription
-    couleur_bouton: ''
-  - titre: Pour les écoles
-    titre_img: Pour les écoles
-    titre_overlay: Pour les écoles
-    src: "/assets/images/pourlesecoles.jpg"
-    href: https://www.lecfs.be/pour-les-ecoles/ecoles/royal-paul-delvaux/
-    autre_page: ''
-    bouton: Plus d'info
     couleur_bouton: ''
