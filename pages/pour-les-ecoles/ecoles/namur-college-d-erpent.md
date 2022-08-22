@@ -13,51 +13,40 @@ activite_pedagogique: true
 bulle: ''
 
 ---
-#### Un cadre convivial pour vos enfants !
+#### **Un cadre convivial pour vos enfants !**
 
-_En collaboration avec ADSL Stages_
-
-Chers Parents d'élèves,
-
-Cette année 2021-2022 se termine et nous préparons activement la rentrée **2022-2023**. Nous souhaitions éclaircir certains points organisationnels pour débuter une nouvelle année scolaire de façon pro-active.
+Voici les services proposés par le CFS en collaboration avec l'Asbl **ADSL Stages **aux élèves du Collège d'Erpent :
 
 ***
 
-L’**ADSL Asbl** et le **CFS Asbl**, reconnues par l’**ONE**, continueront de travailler main dans la main pour accompagner vos enfants en-dehors des heures de cours.
+##### **• Etudes surveillées & Activités libres animées** 
 
-* Le CFS continuera sa gestion administrative & financière et restera en contact avec les parents via notre bureau, ouvert tous les jours de 09h à 18h.
-* L’ADSL s’occupera de l’organisation sur le terrain, avec la présence de la coordinatrice, Sylvie, qui sera présente sur place pour vous aider au quotidien.
+##### **• Ecole des devoirs** 
 
-##### **Etudes surveillées et Activités libres animées**
+##### **• Surveillance du temps de midi (maternelle)** 
 
-Les **études surveillées** (uniquement pour les primaires) se déroulent de **15h45 à 16h45**. Tous les enfants sont réunis en plusieurs classes pour faire leurs devoirs, petits travaux ou, le cas échéant, réaliser une activité dans le calme. Chaque classe est surveillée par un encadrant (qui n’est pas professeur).
+##### • **Stages**
 
-L’élève travaille donc de manière autonome. Les parents peuvent venir chercher les enfants à l’heure qui leur convient.
+**_En collaboration avec l'Asbl ADSL Stages_** 
 
-Pour les **activités libres animées**, les enfants sont accueillis dans un cadre convivial sur base d’un projet pédagogique approuvé par l’O.N.E. mettant l’accent sur leur bien-être et leurs épanouissements, en leurs proposant des activités diverses et adaptées (facturation mensuelle via le badging). Ces activités libres se déroulent un maximum en extérieur. En cas de mauvais temps les élèves sont redirigés vers une classe adaptée. Les encadrants suivent régulièrement des formations auprès de l’O.N.E.
+{% include utils/button.html lien='https://inscriptions.adslstages.be/' couleur="info"  
+autre_page=true  
+texte="Je m'inscris à un stage"  
+%}
 
-Une coordinatrice, Sylvie, est présente sur place pour assurer la gestion au quotidien et restera votre référente.
+##### **• Activités club maternelle et primaire durant toute l'année**
 
-***
+**_Activités sportives, fun, créatives_**
 
-##### **Ecole des devoirs**
+C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec le Collège d'Erpent :
 
-De **15h50 à 16h50**, les enfants sont encadrés et accompagnés pour faire leurs devoirs ou réviser une autre matière. Cela permet à votre enfant de bien réaliser ses travaux en ayant des explications claires venant d’un professeur. La compréhension n’en sera que meilleure (abonnement annuel).
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info"  
+autre_page=true  
+texte="Je m'inscris à une activité parascolaire"  
+%}
 
-Les parents ne peuvent reprendre les enfants qu’à partir de **16h50** !
-
-***
-
-##### **Surveillance du temps de midi (maternelle)**
-
-Les temps de midi sont encadrés par une équipe composée d’une puéricultrice et de surveillant(e)s. Après avoir mangé, les élèves jouent librement dans la cour sous surveillance. Les plus jeunes peuvent accéder à la sieste.
-
-***
-
-##### **Activités club maternelle et primaire durant toute l’année**
-
-_Activités sportives, fun, créatives_
-
-Un choix d’activités (1h entière) proposées certains jours où votre enfant s’engage à l’année de septembre à fin mai (cotisation annuelle, par virement en une seule fois). Il est possible de faire une séance d’essai gratuite. Les activités commencent la semaine du **19 septembre** **2022** et se terminent le **25 mai 2022**
-
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/Ee6wGlDHd-JAstufo9VCI3wBIAtAhubKrLlI_P7m8BeJcg?e=FUiNN8' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
+{% include utils/button.html  
+lien='https://cfsport.sharepoint.com/:b:/s/external-documents/Ee6wGlDHd-JAstufo9VCI3wBIAtAhubKrLlI_P7m8BeJcg?e=ZP6Wqf' couleur="info"  
+autre_page=true  
+texte="Mon dépliant 2022-2023"  
+%}
