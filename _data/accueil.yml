@@ -210,7 +210,7 @@ activites:
     titre_img: Parascolaire
     titre_overlay: Parascolaire
     src: "/assets/images/boutonsactivites/parascolaires.png"
-    href: https://www.lecfs.be/activites/parascolaire/
+    href: https://www.lecfs.be/pour-les-ecoles/ecoles/royal-paul-delvaux/
     autre_page: ''
     bouton: Inscription
     couleur_bouton: ''
@@ -226,7 +226,7 @@ activites:
     titre_img: Pour les écoles
     titre_overlay: Pour les écoles
     src: "/assets/images/pourlesecoles.jpg"
-    href: https://www.lecfs.be/pour-les-ecoles/
+    href: https://www.lecfs.be/pour-les-ecoles/ecoles/royal-paul-delvaux/
     autre_page: ''
     bouton: Plus d'info
     couleur_bouton: ''
