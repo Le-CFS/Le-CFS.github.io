@@ -15,19 +15,19 @@ bulle: ''
 ---
 #### **Un cadre convivial pour vos enfants !**
 
-Voici les services proposés par le CFS en collaboration avec l'Asbl **ADSL Stages **aux élèves du Collège d'Erpent :
+Voici les services proposés par le CFS en collaboration avec l'Asbl ADSL Stages aux élèves du Collège d'Erpent :
 
 ***
 
-##### **• Etudes surveillées & Activités libres animées** 
+##### **• Etudes surveillées & Activités libres animées**
 
-##### **• Ecole des devoirs** 
+##### **• Ecole des devoirs**
 
-##### **• Surveillance du temps de midi (maternelle)** 
+##### **• Surveillance du temps de midi (maternelle)**
 
 ##### • **Stages**
 
-**_En collaboration avec l'Asbl ADSL Stages_** 
+**_En collaboration avec l'Asbl ADSL Stages_**
 
 {% include utils/button.html lien='https://inscriptions.adslstages.be/' couleur="info"  
 autre_page=true  
@@ -37,8 +37,6 @@ texte="Je m'inscris à un stage"
 ##### **• Activités club maternelle et primaire durant toute l'année**
 
 **_Activités sportives, fun, créatives_**
-
-C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec le Collège d'Erpent :
 
 {% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info"  
 autre_page=true  
