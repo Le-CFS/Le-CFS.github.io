@@ -48,7 +48,7 @@ _Surveillance des temps de midi • Activités libres animées • Etudes survei
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EUFy2ShPsDhGqYmMdypUx7YBcaXblg16jcb4wQTcNqTaDw?e=vIzpcP' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Royal de Waterloo" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQ7lC7UnuwdAj6ppIPw0FJIBmpLcwjAwfGqGlXFbfZn_EA?e=3hqd4y' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Royal de Waterloo" %}
 
 Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 
