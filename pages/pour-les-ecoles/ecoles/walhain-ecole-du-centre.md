@@ -17,8 +17,6 @@ bulle: ''
 
 Chers Parents,
 
-Cette année 2021-2022 se termine et nous préparons activement la rentrée 2022-2023.
-
 C’est avec plaisir que le CFS vous propose des activités sportives et culturelles le lundi, mardi et jeudi après-midi en collaboration avec l’Ecole Communale fondamentale de Walhain Centre.
 
 {% include utils/button.html  
