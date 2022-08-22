@@ -17,8 +17,6 @@ bulle: ''
 
 Chers Parents,
 
-Cette année 2021-2022 se termine et nous préparons activement la rentrée 2022-2023.
-
 C’est avec plaisir que le CFS vous propose des activités sportives et culturelles du lundi au vendredi après-midi en collaboration avec l’Ecole Communale Francophone Maternelle et Primaire.
 
 {% include utils/button.html  
