@@ -15,15 +15,13 @@ bulle: ''
 ---
 #### **Un cadre convivial pour vos enfants !**
 
-Chers Parents d'élèves,
-
-Cette année 2021-2022 se termine et nous préparons activement la rentrée 2022-2023. Nous souhaitions éclaircir certains points organisationnels pour débuter une nouvelle année scolaire de façon pro-active.
+Voici les services proposés par le CFS aux élèves de l'Athénée de Maurice Carême :
 
 ***
 
 ##### **Activités Parascolaires**
 
-_Activités sportives, fun, créatives • Ecoles des devoirs_
+**_Activités sportives, fun, créatives • Ecoles des devoirs_**
 
 C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec l’Athénée.
 
@@ -40,11 +38,9 @@ texte="Mon dépliant 2022-2023"
 
 ***
 
-Voici les services proposés par le CFS aux élèves de l'Athénée de Maurice Carême :
-
 ##### **Garderies - LES PETITS GARDONS**
 
-_Surveillance des temps de midi • Activités libres animées • Etudes surveillées_
+**_Surveillance des temps de midi • Activités libres animées • Etudes surveillées_**
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
