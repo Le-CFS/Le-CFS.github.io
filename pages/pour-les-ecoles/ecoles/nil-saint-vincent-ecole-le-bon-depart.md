@@ -21,7 +21,7 @@ Voici les services proposés par le CFS aux élèves de l'Ecole Le Bon Départ :
 
 ##### **Activités Parascolaires**
 
-**_Activités sportives, fun, créatives • Ecoles des devoirs_**
+**_Activités sportives, fun, créatives_**
 
 C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec l’Ecole Le Bon Départ.
 
