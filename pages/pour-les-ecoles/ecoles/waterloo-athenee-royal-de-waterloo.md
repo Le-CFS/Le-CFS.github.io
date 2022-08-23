@@ -3,7 +3,7 @@ layout: page
 title: Waterloo - Athénée Royal de Waterloo
 banner: "/assets/images/slider-waterloo.jpg"
 image: "/assets/images/banner-waterloo.jpg"
-permalink: "/pour-les-ecoles/ecoles/athenee-royale-waterloo/"
+permalink: "/pour-les-ecoles/ecoles/athenee-royal-waterloo/"
 menu: true
 description: Athénée Royal de Waterloo
 type_page: ecoles
