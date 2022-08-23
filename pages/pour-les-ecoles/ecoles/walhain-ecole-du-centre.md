@@ -5,7 +5,7 @@ banner: "/assets/images/slider-walhain.jpg"
 image: "/assets/images/banner-walhain.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecoles-communales/"
 menu: true
-description: Walhain - Ecole Communales
+description: Walhain - Ecoles Communales
 type_page: ecoles
 activite_parascolaire: true
 activite_garderie: false

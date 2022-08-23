@@ -5,7 +5,7 @@ banner: "/assets/images/slider-waterloo.jpg"
 image: "/assets/images/banner-waterloo.jpg"
 permalink: "/pour-les-ecoles/ecoles/athenee-royale-waterloo/"
 menu: true
-description: Ecole Royal Paul Delvaux
+description: Athénée Royal de Waterloo
 type_page: ecoles
 activite_parascolaire: true
 activite_garderie: true
