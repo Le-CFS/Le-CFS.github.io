@@ -45,3 +45,11 @@ texte="Les Petits Gardons ARO"
 %}
 
 Un coordinateur, Nicolas, est présent sur place pour assurer la gestion au quotidien et restera votre référent. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
+
+***
+
+##### **Stages**
+
+**_Nous organisons également durant les vacances scolaires des stages sportifs, fun & créatifs dans ton école !_**
+
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à un stage" %}
