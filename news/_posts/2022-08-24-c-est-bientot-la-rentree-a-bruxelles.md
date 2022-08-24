@@ -21,7 +21,7 @@ Nous avons hâte de commencer l’année scolaire avec vous et pour ça, nous vo
 
 Au CFS nous voulons l’activité la plus adaptée à votre enfant, c’est pourquoi vous bénéficiez d’une séance d’essai ! N’attendez plus !
 
-{% include utils/button.html lien='[https://cfsport.sharepoint.com/:v:/s/external-documents/EeECoU-ODdxCvipgYeGq54UBuG7LaGwTAcO58lbMFiK7Ng?e=9X8vLB](https://cfsport.sharepoint.com/:v:/s/external-documents/EeECoU-ODdxCvipgYeGq54UBuG7LaGwTAcO58lbMFiK7Ng?e=9X8vLB "https://cfsport.sharepoint.com/:v:/s/external-documents/EeECoU-ODdxCvipgYeGq54UBuG7LaGwTAcO58lbMFiK7Ng?e=9X8vLB")' couleur="info" autre_page=true texte="Découvrez ici notre vidéo de présentation" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:v:/s/external-documents/EeECoU-ODdxCvipgYeGq54UBuG7LaGwTAcO58lbMFiK7Ng?e=9X8vLB' couleur="info" autre_page=true texte="Découvrez ici notre vidéo de présentation" %}
 
 **Les nouveautés** ✨
 
@@ -31,7 +31,7 @@ JETTE - Terrain de foot du Heymbosch : Festifoot – [**Toutes nos activités au
 
 AUDERGHEM - Institut Saint-Julien : – Baby Multisports – Fun & Multisports – [**Toutes nos activités à Auderghem**](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "Activités Auderghem")
 
-**Nous sommes également présents sur** ✨
+**Nous sommes également présents à** ✨
 
 [WOLUWE-SAINT-PIERRE](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "WSPI")
 
