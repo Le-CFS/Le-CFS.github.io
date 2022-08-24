@@ -1,46 +1,49 @@
 ---
 layout: post
 menu: cfs
-tags: []
-title: C’est bientôt la rentrée !
+tags:
+- rentrée 2022
+- extrascolaire
+- nouveautés
+- activités
+title: C’est bientôt la rentrée dans le Brabant Wallon !
 banner: ''
 infos:
   date: 
   teaser: ''
-description: ''
+description: 'Ma rentrée extrascolaire au CFS ! '
 image: ''
 
 ---
 Nous avons hâte de commencer l’année scolaire avec vous et pour ça, nous vous avons préparé plein de nouvelles activités !
 
-À partir du 5/09
+👉 À partir du 07/09
 
 Au CFS nous voulons l’activité la plus adaptée à votre enfant, c’est pourquoi vous bénéficiez d’une séance d’essai ! N’attendez plus !
 
-Découvrez ici notre vidéo de présentation : [https://cfsport.sharepoint.com/:v:/s/external-documents/EeECoU-ODdxCvipgYeGq54UBuG7LaGwTAcO58lbMFiK7Ng?e=9X8vLB](https://cfsport.sharepoint.com/:v:/s/external-documents/EeECoU-ODdxCvipgYeGq54UBuG7LaGwTAcO58lbMFiK7Ng?e=9X8vLB "https://cfsport.sharepoint.com/:v:/s/external-documents/EeECoU-ODdxCvipgYeGq54UBuG7LaGwTAcO58lbMFiK7Ng?e=9X8vLB")
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:v:/s/external-documents/EeECoU-ODdxCvipgYeGq54UBuG7LaGwTAcO58lbMFiK7Ng?e=9X8vLB' couleur="info" autre_page=true texte="Découvrez ici notre vidéo de présentation" %}
 
-__*Mettre les liens sur « toutes nos activités »*__
+**Les nouveautés par centre** ✨
 
-**Les nouveautés par centre :**
+BIERGES - Le Provincial : Initiation GRS/Acrogym/danse – [**Toutes nos activités à Bierges**](https://www.lecfs.be/files/CFSMAGAZINE/#page=44 "Activités Bierges") 
 
-Bierges : Initiation GRS/Acrogym/danse – **Toutes nos activités à Bierges :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=44**](https://www.lecfs.be/files/CFSMAGAZINE/#page=44 "https://www.lecfs.be/files/CFSMAGAZINE/#page=44")
+COURT-SAINT-ETIENNE - La Courtoise : Gym spécial garçons – [**Toutes nos activités à CSE**](https://www.lecfs.be/files/CFSMAGAZINE/#page=44  "Activités CSE")
 
-Court-Saint-Etienne : Gym spécial garçons – **Toutes nos activités à CSE :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=44**](https://www.lecfs.be/files/CFSMAGAZINE/#page=44 "https://www.lecfs.be/files/CFSMAGAZINE/#page=44")
+OTTIGNIES - Coquerées : Gymnastique – Initiation Basket – Natation cours collectifs – [**Toutes nos activités à Ottignies**](https://www.lecfs.be/files/CFSMAGAZINE/#page=43  "Activités Ottignies")
 
-Ottignies : Gymnastique – Initiation Basket – Natation cours collectif – **Toutes nos activités à Ottignies :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=43**](https://www.lecfs.be/files/CFSMAGAZINE/#page=43 "https://www.lecfs.be/files/CFSMAGAZINE/#page=43")
+WAVRE - Parc de l’Europe : Skate et trottinette freestyle
 
-Wavre Parc de l’Europe : Skate et trottinette freestyle
+**Les nouveaux centres** ✨
 
-**Nouveau centre !**
+ORP : Football – VTT CycloCross – [**Toutes nos activités à Orp**](https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=21238&CategorieEvenement=Stages&LG=FR&EvenementLieuID=145&FixedEvenementPeriodeID=&FixedEvenementLieuID=  "Activités ORP")
 
-Orp : Football – VTT CycloCross – **Toutes nos activités à Orp :** [**https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=21238&CategorieEvenement=Stages&LG=FR&EvenementLieuID=145&FixedEvenementPeriodeID=&FixedEvenementLieuID=**](https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=21238&CategorieEvenement=Stages&LG=FR&EvenementLieuID=145&FixedEvenementPeriodeID=&FixedEvenementLieuID= "https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=21238&CategorieEvenement=Stages&LG=FR&EvenementLieuID=145&FixedEvenementPeriodeID=&FixedEvenementLieuID=")
+WAVRE - Parc de l’Europe : Skate et trottinette freestyle - [**Toutes nos activités avec Max Extrême**](https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=20771&CategorieEvenement=Stages&LG=FR&EvenementLieuID=152&FixedEvenementPeriodeID=&FixedEvenementLieuID= "Activités Max Extrême")
 
-Wavre Parc de l’Europe : Skate et trottinette freestyle
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6' couleur="info" autre_page=true texte="Inscription" %}
 
-[https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=20771&CategorieEvenement=Stages&LG=FR&EvenementLieuID=152&FixedEvenementPeriodeID=&FixedEvenementLieuID=](https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=20771&CategorieEvenement=Stages&LG=FR&EvenementLieuID=152&FixedEvenementPeriodeID=&FixedEvenementLieuID= "https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=20771&CategorieEvenement=Stages&LG=FR&EvenementLieuID=152&FixedEvenementPeriodeID=&FixedEvenementLieuID=")
+Si vous souhaitez nous contacter : 
 
-Bouton : Inscription
+📞 010/22.73.96  
+📧 info@lecfs.be
 
-Bouton plus d’info
-
-Bouton nous contacter : [mailtoinfo@lecfs.be](mailto:mailtoinfo@lecfs.be)
+A très vite 😍
