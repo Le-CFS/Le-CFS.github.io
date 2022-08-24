@@ -25,9 +25,21 @@ Au CFS nous voulons l’activité la plus adaptée à votre enfant, c’est pour
 
 **Les nouveautés** ✨
 
-JETTE - Salle Omnisport : - Cheerlading – Baby Danse – Danse Jazz contemporraine – Hip Hop – Grs – [**Toutes nos activités à Jette**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "Activités Jette")
+JETTE - Salle Omnisport : – Cheerlading – Baby Danse – Danse Jazz contemporraine – Hip Hop – Grs – [**Toutes nos activités à Jette**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "Activités Jette")
 
-JETTE - Terrain de foot du Heymbosch : Football academy – [**Toutes nos activités au Heymbosch**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "Activités Heymbosch")
+JETTE - Terrain de foot du Heymbosch : Festifoot – [**Toutes nos activités au Heymbosch**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "Activités Heymbosch")
+
+AUDERGHEM - Institut Saint-Julien : – Baby Multisports – Fun & Multisports
+
+**Nous sommes également présents sur :**
+
+**Woluwe St Pierre :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=47**](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "https://www.lecfs.be/files/CFSMAGAZINE/#page=47")
+
+**Woluwe St Lambert :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=47**](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "https://www.lecfs.be/files/CFSMAGAZINE/#page=47")
+
+**Laeken :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=46**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "https://www.lecfs.be/files/CFSMAGAZINE/#page=46")
+
+**Auderghem :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=46**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "https://www.lecfs.be/files/CFSMAGAZINE/#page=46")
 
 {% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Bruxelles' couleur="info" autre_page=true texte="Inscription" %}
 
