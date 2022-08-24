@@ -39,7 +39,7 @@ ORP : Football – VTT CycloCross – [**Toutes nos activités à Orp**](https:/
 
 WAVRE - Parc de l’Europe : Skate et trottinette freestyle - [**Toutes nos activités avec Max Extrême**](https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=20771&CategorieEvenement=Stages&LG=FR&EvenementLieuID=152&FixedEvenementPeriodeID=&FixedEvenementLieuID= "Activités Max Extrême")
 
-{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Brabant' couleur="info" autre_page=true texte="Inscription" %}
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Brabant' couleur="info" autre_page=true texte="Inscription rapide" %}
 
 Si vous souhaitez nous contacter :
 

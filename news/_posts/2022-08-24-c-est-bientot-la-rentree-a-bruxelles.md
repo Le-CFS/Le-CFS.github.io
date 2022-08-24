@@ -33,15 +33,15 @@ AUDERGHEM - Institut Saint-Julien : – Baby Multisports – Fun & Multisports �
 
 **Nous sommes également présents à** ✨
 
-[WOLUWE-SAINT-PIERRE](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "WSPI")
+WOLUWE-SAINT-PIERRE - SportCity : [**Toutes nos activités à WSPI**](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "Activités WSPI")
 
-[WOLUWE-SAINT-LAMBERT](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "WSLA")
+WOLUWE-SAINT-LAMBERT - Mounier : [**Toutes nos activités à WSLA**](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "Activités WSLA")
 
-[LAEKEN](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "Laeken")
+LAEKEN - Primerose & Institut Christ-Roi : [**Toutes nos activités à Laeken**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46  "Laeken")
 
-[NEDER-OVER-HEEMBEEK](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "Neder")
+NEDER-OVER-HEEMBEEK : [**Toutes nos activités à NOH**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46  "Activités NOH")
 
-{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Bruxelles' couleur="info" autre_page=true texte="Inscription" %}
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Bruxelles' couleur="info" autre_page=true texte="Inscription rapide" %}
 
 Si vous souhaitez nous contacter :
 
@@ -49,3 +49,5 @@ Si vous souhaitez nous contacter :
 📧 info@lecfs.be
 
 A très vite 😍
+
+ rapide
