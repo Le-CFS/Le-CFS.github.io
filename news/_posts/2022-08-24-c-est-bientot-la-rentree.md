@@ -7,12 +7,12 @@ tags:
 - nouveautés
 - activités
 title: C’est bientôt la rentrée dans le Brabant Wallon !
-banner: ''
+banner: "/assets/images/banner_rentree2022.jpg"
 infos:
   date: 
   teaser: ''
 description: 'Ma rentrée extrascolaire au CFS ! '
-image: ''
+image: "/assets/images/reseaxu-sociaux-rentree2022.png"
 
 ---
 Nous avons hâte de commencer l’année scolaire avec vous et pour ça, nous vous avons préparé plein de nouvelles activités !
@@ -39,7 +39,7 @@ ORP : Football – VTT CycloCross – [**Toutes nos activités à Orp**](https:/
 
 WAVRE - Parc de l’Europe : Skate et trottinette freestyle - [**Toutes nos activités avec Max Extrême**](https://www12.iclub.be/myiclub.asp?c=1&From=register3&ClubID=559&EvenementID=20771&CategorieEvenement=Stages&LG=FR&EvenementLieuID=152&FixedEvenementPeriodeID=&FixedEvenementLieuID= "Activités Max Extrême")
 
-{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6' couleur="info" autre_page=true texte="Inscription" %}
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Brabant' couleur="info" autre_page=true texte="Inscription" %}
 
 Si vous souhaitez nous contacter : 
 
