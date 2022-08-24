@@ -29,17 +29,17 @@ JETTE - Salle Omnisport : – Cheerlading – Baby Danse – Danse Jazz contempo
 
 JETTE - Terrain de foot du Heymbosch : Festifoot – [**Toutes nos activités au Heymbosch**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "Activités Heymbosch")
 
-AUDERGHEM - Institut Saint-Julien : – Baby Multisports – Fun & Multisports
+AUDERGHEM - Institut Saint-Julien : – Baby Multisports – Fun & Multisports – [**Toutes nos activités à Auderghem**](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "Activités Auderghem")
 
-**Nous sommes également présents sur :**
+**Nous sommes également présents sur** ✨
 
-**Woluwe St Pierre :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=47**](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "https://www.lecfs.be/files/CFSMAGAZINE/#page=47")
+[WOLUWE-SAINT-PIERRE](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "WSPI")
 
-**Woluwe St Lambert :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=47**](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "https://www.lecfs.be/files/CFSMAGAZINE/#page=47")
+[WOLUWE-SAINT-LAMBERT](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "WSLA")
 
-**Laeken :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=46**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "https://www.lecfs.be/files/CFSMAGAZINE/#page=46")
+[LAEKEN](https://www.lecfs.be/files/CFSMAGAZINE/#page=46  "Laeken")
 
-**Auderghem :** [**https://www.lecfs.be/files/CFSMAGAZINE/#page=46**](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "https://www.lecfs.be/files/CFSMAGAZINE/#page=46")
+[NEDER-OVER-HEEMBEEK](https://www.lecfs.be/files/CFSMAGAZINE/#page=46  "Neder")
 
 {% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Bruxelles' couleur="info" autre_page=true texte="Inscription" %}
 
