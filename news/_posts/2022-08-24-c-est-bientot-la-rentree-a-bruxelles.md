@@ -11,13 +11,13 @@ banner: "/assets/images/banner_rentree2022.jpg"
 infos:
   date: 
   teaser: ''
-description: Ta rentée au CFS !
+description: 'Ma rentrée extrascolaire au CFS ! '
 image: "/assets/images/reseaxu-sociaux-rentree2022.png"
 
 ---
 Nous avons hâte de commencer l’année scolaire avec vous et pour ça, nous vous avons préparé plein de nouvelles activités !
 
-👉 À partir du 07/09
+👉 À partir du 05/09
 
 Au CFS nous voulons l’activité la plus adaptée à votre enfant, c’est pourquoi vous bénéficiez d’une séance d’essai ! N’attendez plus !
 
@@ -37,9 +37,9 @@ AUDERGHEM - Institut Saint-Julien : – Baby Multisports – Fun & Multisports �
 
 [WOLUWE-SAINT-LAMBERT](https://www.lecfs.be/files/CFSMAGAZINE/#page=47 "WSLA")
 
-[LAEKEN](https://www.lecfs.be/files/CFSMAGAZINE/#page=46  "Laeken")
+[LAEKEN](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "Laeken")
 
-[NEDER-OVER-HEEMBEEK](https://www.lecfs.be/files/CFSMAGAZINE/#page=46  "Neder")
+[NEDER-OVER-HEEMBEEK](https://www.lecfs.be/files/CFSMAGAZINE/#page=46 "Neder")
 
 {% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Bruxelles' couleur="info" autre_page=true texte="Inscription" %}
 
