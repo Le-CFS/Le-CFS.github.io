@@ -33,7 +33,7 @@ JETTE - Terrain de foot du Heymbosch : Football academy – [**Toutes nos activi
 
 Si vous souhaitez nous contacter :
 
-📞 010/22.73.96  
+📞 02/420.53.02  
 📧 info@lecfs.be
 
 A très vite 😍
