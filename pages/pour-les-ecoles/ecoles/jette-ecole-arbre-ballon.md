@@ -20,7 +20,7 @@ Chers parents, grands-parents, accompagnants,
 C’est avec plaisir que le **CFS** vous propose, **en collaboration avec le Service Enseignement de la Commune**, sa grille d’activité sportives et non-sportives du mercredi après-midi pour les élèves de l’école Arbre Ballon.
 
 {% include utils/button.html  
-lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2Province=Bruxelles_' couleur="info" autre_page=true texte="_Je m'inscris à une activité socio-culturelles du mercredi" %}
+lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Bruxelles' couleur="info" autre_page=true texte="Je m'inscris à une activité socio-culturelles du mercredi" %}
 
 {% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ETMIT3SgMY1FpPTYW245w5QBvQ-SSsHfJKWw-l-5POTg3g?e=PcbD7M' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
 
