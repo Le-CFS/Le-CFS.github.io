@@ -8,9 +8,9 @@ description: Le CFS recrute ! Recherche Payroll & HR Officer Junior
 image: ''
 
 ---
-Le CFS Centre de Formation Sportive est à la recherche d’un(e) Employé(e) en Payroll et Ressources Humaines Junior pour son bureau de Bierges. 
+#### **Le CFS Centre de Formation Sportive est à la recherche d’un(e) Employé(e) en Payroll et Ressources Humaines Junior pour son bureau de Bierges**
 
-Rejoins-nous !
+#### **👉 Rejoins-nous !**
 
 **Le CFS**
 
@@ -58,4 +58,4 @@ o Vous avez une bonne **gestion du stress** et êtes **orienté solutions**.
 
 Le CFS vous propose **un CDI à temps plein** au sein d’une association en pleine expansion, avec un employeur stable et ambitieux.
 
-CV et lettre de motivation à envoyer à [dimitri@lecfs.be](mailto:dimitri@lecfs.be) pour le 31/08/22 au plus tard.
+📩 CV et lettre de motivation à envoyer à [dimitri@lecfs.be](mailto:dimitri@lecfs.be) pour le 31/08/22 au plus tard.
