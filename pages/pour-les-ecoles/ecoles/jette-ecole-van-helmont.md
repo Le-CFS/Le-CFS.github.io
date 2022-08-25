@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Jette - Ecole Van Asbroeck
-banner: "/assets/images/slider-ecole-asbroeck.jpg"
-image: "/assets/images/banner-ecole-asbroeck.jpg"
-permalink: "/pour-les-ecoles/ecoles/Ecole-Van-Asbroeck/"
+title: Jette - Ecole Van Helmont
+banner: "/assets/images/slider-ecole-van-helmont.jpg"
+image: "/assets/images/banner-ecole-van-helmont.jpg"
+permalink: "/pour-les-ecoles/ecoles/Ecole-Van-Helmont/"
 menu: true
-description: Ecole Van Asbroeck
+description: Ecole Van Helmont
 type_page: ecoles
 activite_parascolaire: true
 activite_garderie: false
@@ -17,12 +17,12 @@ bulle: ''
 
 Chers parents, grands-parents, accompagnants,
 
-C’est avec plaisir que le **CFS** vous propose, **en collaboration avec le Service Enseignement de la Commune**, sa grille d’activité sportives et non-sportives du mercredi après-midi pour les élèves de l’école Van Asbroeck.
+C’est avec plaisir que le **CFS** vous propose, **en collaboration avec le Service Enseignement de la Commune**, sa grille d’activité sportives et non-sportives du mercredi après-midi pour les élèves de l’école Van Helmont.
 
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2Province=Bruxelles_' couleur="info" autre_page=true texte="_Je m'inscris à une activité socio-culturelles du mercredi" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYzbCD48elFEqBZH4vXgvIYB39x3yz7CYY4xYTrcwp1nBQ?e=L1HIyN' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ER-z58p4C-RGhkXGL94m6HMBZvtX4DTbxbfteIrNh1Ki-A?e=sDPFQQ' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
 
 #### PROJET PEDAGOGIQUE
 
