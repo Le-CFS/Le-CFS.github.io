@@ -22,6 +22,8 @@ C’est avec plaisir que le **CFS** vous propose, **en collaboration avec le Ser
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Bruxelles' couleur="info" autre_page=true texte="Je m'inscris à une activité socio-culturelles du mercredi" %}
 
+👉 Sélectionnez votre école dans le menu déroulement **_« Ecole »_**
+
 {% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ER-z58p4C-RGhkXGL94m6HMBZvtX4DTbxbfteIrNh1Ki-A?e=sDPFQQ' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
 
 #### PROJET PEDAGOGIQUE
