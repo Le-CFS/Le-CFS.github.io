@@ -4,7 +4,7 @@ menu: cfs
 tags:
 - parrainage
 - ambassadeur CFS
-title: 'Action parrainage ! '
+title: Action parrainage - Deviens un ambassadeur du CFS !
 banner: "/assets/images/action-parrainage.png"
 infos:
   date: 
