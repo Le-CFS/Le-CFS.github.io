@@ -24,6 +24,14 @@ slider:
 selection:
   nom: Sélection du CFS
   images:
+  - titre: Extrascolaire
+    titre_img: Extrascolaire
+    titre_overlay: Extrascolaire
+    src: "/assets/images/activites-extrascolaires-liege-nouveau-250x250.jpg"
+    href: https://www.lecfs.be/activites/extrascolaire/
+    autre_page: oui
+    bouton: Inscription
+    couleur_bouton: ''
   - titre: Stages enfants
     titre_img: Stages enfants
     titre_overlay: Stages enfants
@@ -31,14 +39,6 @@ selection:
     href: "/stages/"
     autre_page: ''
     bouton: Plus d'info
-    couleur_bouton: ''
-  - titre: Extrascolaire
-    titre_img: Extrascolaire
-    titre_overlay: Extrascolaire
-    src: "/assets/images/boutonsactivites/extrascolaires.png"
-    href: https://www.lecfs.be/activites/extrascolaire/
-    autre_page: oui
-    bouton: Inscription
     couleur_bouton: ''
   - titre: Anniversaires
     titre_img: Anniversaires
