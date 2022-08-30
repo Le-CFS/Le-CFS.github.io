@@ -100,36 +100,22 @@ slogan: Le CFS, créateur de souvenirs depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: Football Road to World Cup 2022
-    titre_overlay: Football Road to World Cup 2022
-    img: "/assets/images/stage_enfant_footballworldcup22.jpg"
+  - name: Stages Toussaint Liège
+    titre_overlay: Stages Toussaint Liège
+    img: "/assets/images/stages-enfants-toussaint-liege-250x250.jpg"
     bouton: Plus d'info
     nouveau: oui
-    infos: |-
-      Stage organisé en collaboration avec le FC Walhain (Brabant Wallon)
-      Stage organisé en collaboration avec le Futsal Jette (Bruxelles)
-    description: |-
-      Stage spécial Road to World Cup 2022 : tournois organisés en fin de semaine
-
-      Votre enfant est un vrai mordu du ballon ? Notre stage "Football Road to World Cup 2022" est l'idéal pour lui !
-
-      Ce stage prévoit une alternance entre entraînements et petits matchs.
-
-      Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle.
-
-      Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.
-
-      La journée est répartie en 3 périodes de football et une période de multisports.
-    lieu: Brabant - Bruxelles
-    age: 5 à 12 ans
+    infos: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=3&Province=Liege&_ga=2.123299021.754499811.1661149830-1649094147.1650885735
+    description: "Nouveau à Liège ! Des stages sportifs, fun et créatifs proche de
+      chez vous du 24 au 28 octobre \U0001F929"
+    lieu: Liège
+    age: A partir de 3 ans
   - name: E-Pilote Academy
     titre_overlay: E-Pilote Academy
     img: "/assets/images/stages-enfants-e-pilote-academy-500x500-une.jpg"
     bouton: Plus d'info
     nouveau: oui
-    infos: Nous mettons tout en oeuvre pour proposer des activités dans les meilleures
-      conditions pour vos enfants tout en respectant les protocoles sanitaires de
-      l'ONE/ADEPS.
+    infos: ''
     description: |-
       Tu es un futur pilote de F1 ? Viens t'exercer avec ce stage !
 
