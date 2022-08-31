@@ -24,7 +24,7 @@ o Vous assurez les formalités légales et prenez en charge l'administration des
 
 o Vous gérez la gestion des avantages extra-légaux (flotte GSM, véhicules, chèques repas, jours de congés supplémentaires etc.) ;
 
-o Vous gérez les aides à l'emploi pour les nouveaux collaborateurs (APE, Actiris, impulsion, etc.)
+o Vous gérez les aides à l'emploi pour les nouveaux collaborateurs (APE, Actiris, Impulsion, etc.)
 
 o Vous aidez à la réalisation et vous contrôlez les prestations des employés ;
 
@@ -36,7 +36,7 @@ o Vous assistez les coordinateurs par Région dans diverses tâches administrati
 
 o Vous répondez aux questions RH en termes de contenus et de processus - par mail, téléphone, face à face - aux différents collaborateurs de manière conviviale ;
 
-o Vous aidez au recrutement en postant des offres d’emploi sur les différents réseaux (indeed, site internet, forem, facebook,etc.) et vous dispatchez les CV aux coordinateurs par Région »
+o Vous aidez au recrutement en postant des offres d’emploi sur les différents réseaux (Indeed, site internet, Forem, Facebook, etc.) et vous dispatchez les CV aux coordinateurs par Région »
 
 **Profil recherché**
 
@@ -58,4 +58,4 @@ o Vous avez une bonne **gestion du stress** et êtes **orienté solutions**.
 
 Le CFS vous propose **un CDI à temps plein** au sein d’une association en pleine expansion, avec un employeur stable et ambitieux.
 
-📩 CV et lettre de motivation à envoyer à [dimitri@lecfs.be](mailto:dimitri@lecfs.be) pour le 31/08/22 au plus tard.
+📩 CV et lettre de motivation à envoyer à [dimitri@lecfs.be](mailto:dimitri@lecfs.be) pour le 07/09/22 au plus tard.
