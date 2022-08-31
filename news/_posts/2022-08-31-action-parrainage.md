@@ -5,12 +5,12 @@ tags:
 - parrainage
 - ambassadeur CFS
 title: Action parrainage - Deviens un ambassadeur du CFS !
-banner: "/assets/images/action-parrainage.png"
+banner: "/assets/images/remportez-des-bons-a-valoir-et-faites-decouvrir-le-cfs-a-votre-entourage_.png"
 infos:
   date: 
   teaser: ''
 description: Deviens un ambassadeur du CFS et parraine un ami !
-image: ''
+image: "/assets/images/remportez-des-bons-a-valoir-et-faites-decouvrir-le-cfs-a-votre-entourage-1-002.png"
 
 ---
 # Remportez des bons à valoir et faites découvrir le CFS à votre entourage !
