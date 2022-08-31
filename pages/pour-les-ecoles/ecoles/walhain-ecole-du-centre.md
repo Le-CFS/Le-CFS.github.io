@@ -17,7 +17,7 @@ bulle: ''
 
 Chers Parents,
 
-C’est avec plaisir que le CFS vous propose des activités sportives et culturelles le lundi, mardi et jeudi après-midi en collaboration avec l’Ecole Communale fondamentale de Walhain Centre.
+C’est avec plaisir que le CFS vous propose des activités sportives et culturelles le lundi, mardi et jeudi après-midi en collaboration avec l’Ecole Communale fondamentale dans ses implantations de Walhain Centre, Tourinnes-Saint-Lambert et Perbais.
 
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
