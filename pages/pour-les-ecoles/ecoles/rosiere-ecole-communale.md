@@ -22,4 +22,4 @@ C’est avec plaisir que le CFS vous propose des activités sportives et culture
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EfULjbTProtCsD6cNtNgc3sB2WgzneGxsA5RdufCoKtJAg?e=xiT4bH' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQNknmTKpTRDiJXeiWRELE8Bpk9Z8Vs0TD16Z07mq3NcyQ?e=eLgnoz' couleur="info" autre_page=true texte="Mon dépliant 2022-2023" %}
