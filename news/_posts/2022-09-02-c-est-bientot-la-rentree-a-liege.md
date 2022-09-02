@@ -15,7 +15,7 @@ description: 'Ma rentrée extrascolaire au CFS ! '
 image: "/assets/images/reseaxu-sociaux-rentree2022.png"
 
 ---
-#### C'est nouveau depuis cette année et nous avons hâte de commencer l’année scolaire avec vous 🤩 
+#### C'est nouveau depuis cette année et nous avons hâte de commencer l’année scolaire avec vous 🤩
 
 👉 À partir du 12/09
 
@@ -25,7 +25,7 @@ Au CFS nous voulons l’activité la plus adaptée à votre enfant, c’est pour
 
 **Nos 2 centres pour vous accueillir** ✨
 
-**VERLAINE** - Hall Omnisports de Verlaine :   
+**VERLAINE** - Hall Omnisports de Verlaine :  
 • Multisports  
 • Fun & Multisports  
 • Mini-Foot
@@ -35,7 +35,7 @@ Au CFS nous voulons l’activité la plus adaptée à votre enfant, c’est pour
 • Gymnastique  
 • Psychomotricité
 
-s/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Liege' couleur="info" autre_page=true texte="Inscription rapide" %}
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6&Province=Liege' couleur="info" autre_page=true texte="Inscription rapide" %}
 
 Si vous souhaitez nous contacter :
 
