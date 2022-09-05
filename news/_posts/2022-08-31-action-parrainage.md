@@ -38,3 +38,4 @@ _*CONDITIONS :_
 _Nous nous réservons le droit de refuser le bon si la personne se trouve déjà dans notre base de données._
 
 * _Vous êtes parrain? Vous pouvez cumuler les bons (tu amènes 5 copains : tu reçois 100€ de bon à valoir)_
+* _Nous nous réservons le droit d’annuler un bon si le filleul annule son inscription_.
