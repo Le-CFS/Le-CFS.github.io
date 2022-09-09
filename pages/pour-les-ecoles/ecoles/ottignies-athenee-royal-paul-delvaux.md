@@ -37,8 +37,7 @@ C'est avec plaisir que le CFS vous propose pour la 11ème année une activités 
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html
-lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EXAy64EazohBvAsB83rPUvoBZpQL0raAhd4FkPZzuB8OTQ?e=c59RpQ'
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ERC1MnYVDjlJgsUtwMPJ6JUBWXIQhXydV4-4QDe1WPZvFw?e=2FjIaV'
 couleur="info"
 autre_page=true
 texte="Les Petits Gardons ARO"
