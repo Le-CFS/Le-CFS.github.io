@@ -46,7 +46,10 @@ Le CFS organise des journées sportives au sein de l'école pour les élèves lo
 
 Le CFS se charge également de la garderie.
 
-**_Dates et inscriptions des journées pédagogiques 2022-2023 à venir..._**
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=8&Province=Brabant&_ga=2.220008281.150876476.1663160616-1649094147.1650885735' couleur="info"  
+autre_page=true  
+texte="Je m'inscris à une journée pédagogique"  
+%}
 
 ##### • **Stages**
 
