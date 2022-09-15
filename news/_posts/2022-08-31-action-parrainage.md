@@ -15,7 +15,7 @@ image: "/assets/images/remportez-des-bons-a-valoir-et-faites-decouvrir-le-cfs-a-
 ---
 # Remportez des bons à valoir et faites découvrir le CFS à votre entourage !
 
-#### Pour la reprise de l’extrascolaire, nous vous proposons de devenir des ambassadeurs CFS du 29/08 au 15/09.
+#### Pour la reprise de l’extrascolaire, nous vous proposons de devenir des ambassadeurs CFS du 29/08 au 25/09.
 
 **Mais comment ça fonctionne ?**
 
