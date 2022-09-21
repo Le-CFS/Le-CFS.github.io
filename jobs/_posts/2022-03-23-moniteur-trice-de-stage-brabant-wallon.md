@@ -1,6 +1,6 @@
 ---
 layout: post
-online: true
+online: false
 title: Moniteur(trice) de stage Brabant Wallon été 2022
 banner: "/assets/images/moniteur-brabant.png"
 menu: false

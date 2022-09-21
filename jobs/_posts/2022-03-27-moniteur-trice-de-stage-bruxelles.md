@@ -1,6 +1,6 @@
 ---
 layout: post
-online: true
+online: false
 title: Moniteur(trice) de stage Bruxelles été 2022
 banner: "/assets/images/moniteur-bruxelles.png"
 menu: false
