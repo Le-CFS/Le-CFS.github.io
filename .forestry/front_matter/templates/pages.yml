@@ -49,6 +49,12 @@ fields:
   showOnly:
     field: type_page
     value: ecoles
+- name: activite_stage
+  type: boolean
+  label: Journées pédagogiques ?
+  showOnly:
+    field: type_page
+    value: ecoles
 - name: bulle
   type: file
   config:
