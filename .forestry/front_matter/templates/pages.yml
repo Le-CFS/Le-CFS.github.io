@@ -51,7 +51,7 @@ fields:
     value: ecoles
 - name: activite_stage
   type: boolean
-  label: Journées pédagogiques ?
+  label: Stages ?
   showOnly:
     field: type_page
     value: ecoles
