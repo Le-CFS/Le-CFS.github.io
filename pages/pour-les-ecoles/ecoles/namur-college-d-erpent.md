@@ -11,6 +11,7 @@ activite_parascolaire: true
 activite_garderie: true
 activite_pedagogique: true
 bulle: ''
+activite_stage: false
 
 ---
 #### **Un cadre convivial pour vos enfants !**
@@ -35,7 +36,7 @@ texte="Je m'inscris à une activité parascolaire"
 %}
 
 {% include utils/button.html  
-lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ETb_CsXUTgdCqALhFTGvfGMBhqqklZJ_HdtnI4Z9vSqJGg?e=2yUzFR' couleur="info"  
+lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ETsJK2bl31pLjnEUJNNdFmQBZ6gefoyclfudLaZQVRbqKQ?e=Isaetv' couleur="info"  
 autre_page=true  
 texte="Mon dépliant 2022-2023"  
 %}
