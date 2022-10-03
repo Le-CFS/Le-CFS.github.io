@@ -11,6 +11,7 @@ activite_parascolaire: true
 activite_garderie: true
 activite_pedagogique: true
 bulle: ''
+activite_stage: false
 
 ---
 #### **Un cadre convivial pour vos enfants !**
@@ -40,7 +41,7 @@ texte="Mon dépliant 2022-2023"
 
 ##### **Garderies - LES PETITS GARDONS**
 
-**_Surveillance des temps de midi • Activités libres animées • Etudes surveillées_**
+**_Activités libres animées • Etudes surveillées_**
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
