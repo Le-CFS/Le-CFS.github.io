@@ -2,10 +2,10 @@
 layout: post
 menu: false
 title: Assistant Administratif & Commercial
-online: false
-banner: ''
-description: ''
-image: ''
+online: true
+banner: "/assets/images/assistant_comm_admin_brabant.jpg"
+description: Le CFS recrute ! Recherche Assistant Administratif & Commercial
+image: "/assets/images/assistant_comm_admin_brabant.jpg"
 
 ---
 #### **Le CFS Centre de Formation Sportive est à la recherche d’un(e) Assistant(-e) Administratif(-tive) & Commercial(-e) pour travailler dans son bureau à Bierges, dans le Brabant Wallon.**
