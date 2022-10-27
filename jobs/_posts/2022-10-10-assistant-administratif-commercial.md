@@ -56,4 +56,4 @@ o Une expérience probante dans un Customer Service est un atout non négligeabl
 
 Le CFS vous propose un contrat à durée déterminée d'un an à temps plein au sein d’une organisation en pleine expansion. Possibilité de CDI par la suite.
 
-📩 **CV et lettre de motivation** à envoyer pour le **21 octobre 2022** au plus tard à [dimitri@lecfs.be](mailto:dimitri@lecfs.be).
+📩 **CV et lettre de motivation** à envoyer pour le **11 novembre 2022** au plus tard à [dimitri@lecfs.be](mailto:dimitri@lecfs.be).
