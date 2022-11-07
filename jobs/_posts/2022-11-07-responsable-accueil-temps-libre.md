@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Responsable Accueil Temps Libre
-online: false
+online: true
 banner: "/assets/images/cfs_job.jpg"
 description: Le CFS est à la recherche d'un Responsable Accueil Temps Libre
 image: "/assets/images/cfs_job.jpg"
@@ -14,14 +14,14 @@ image: "/assets/images/cfs_job.jpg"
 
 **Le CFS**
 
-Créé en 1981, le CFS propose des stages sportifs et culturels pour les enfants et les jeunes de 2,5 ans à 18 ans. Fort de son expérience, le CFS a développé une large palette d’activités para et extrascolaires qu’il propose durant l’année scolaire ainsi que des activités durant les vacances sur les régions du Brabant Wallon, de Bruxelles, de Liège et de Namur. D’autres parts, le CFS est également le partenaire de multiples écoles en y organisant toutes les garderies.
+Créé en 1981, le CFS propose des stages sportifs et culturels pour les enfants et les jeunes de 2,5 ans à 18 ans. Fort de son expérience, le CFS a développé une large palette d’activités para et extrascolaires qu’il propose durant l’année scolaire ainsi que des activités durant les vacances sur les régions du Brabant Wallon, de Bruxelles, de Liège et de Namur. D’autre part, le CFS est également le partenaire de multiples écoles en y organisant toutes les garderies.
 
 **Fonction**
 
-o Vous supervisez les 5 coordinateurs d’école
+o Vous supervisez les 5 coordinateurs d’école :
 
 * Planification et supervision du travail des collaborateurs
-* Réalise les entretiens de fonctionnement
+* Réalisation des entretiens de fonctionnement
 * Réalise les évaluations de ses collaborateurs
 * Implique ses collaborateurs dans des projets / groupes de travail
 * Gère les conflits dans ses équipes
