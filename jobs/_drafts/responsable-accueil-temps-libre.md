@@ -14,7 +14,7 @@ image: ''
 
 **Le CFS**
 
-Créé en 1981, le CFS propose des stages sportifs et culturels pour les enfants et les jeunes de 2,5 ans à 16 ans. Fort de son expérience, le CFS a développé une large palette d’activités para et extrascolaires qu’il propose durant l’année scolaire ainsi que des activités durant les vacances sur les régions du Brabant Wallon, de Bruxelles, de Liège et de Namur. D’autres parts, le CFS est également le partenaire de multiples écoles en y organisant toutes les garderies.
+Créé en 1981, le CFS propose des stages sportifs et culturels pour les enfants et les jeunes de 2,5 ans à 18 ans. Fort de son expérience, le CFS a développé une large palette d’activités para et extrascolaires qu’il propose durant l’année scolaire ainsi que des activités durant les vacances sur les régions du Brabant Wallon, de Bruxelles, de Liège et de Namur. D’autres parts, le CFS est également le partenaire de multiples écoles en y organisant toutes les garderies.
 
 **Fonction**
 
