@@ -3,9 +3,9 @@ layout: post
 menu: false
 title: Responsable Accueil Temps Libre
 online: false
-banner: ''
+banner: "/assets/images/cfs_job.jpg"
 description: Le CFS est à la recherche d'un Responsable Accueil Temps Libre
-image: ''
+image: "/assets/images/cfs_job.jpg"
 
 ---
 #### **Le CFS Centre de Formation Sportive est à la recherche d’un(e) Responsable ATL pour travailler dans la région namuroise et du brabant wallon ainsi que dans ses bureaux à Bierges.**
