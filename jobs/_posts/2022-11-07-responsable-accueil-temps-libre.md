@@ -3,14 +3,14 @@ layout: post
 menu: false
 title: Responsable Accueil Temps Libre
 online: true
-banner: "/assets/images/cfs_job.jpg"
+banner: "/assets/images/responsable-atl_brt_bxl_nam.jpg"
 description: Le CFS est à la recherche d'un Responsable Accueil Temps Libre
-image: "/assets/images/cfs_job.jpg"
+image: "/assets/images/responsable-atl_brt_bxl_nam.jpg"
 
 ---
 #### **Le CFS Centre de Formation Sportive est à la recherche d’un(e) Responsable ATL pour travailler dans la région namuroise et du brabant wallon ainsi que dans ses bureaux à Bierges.**
 
-##### **👉 Rejoins-nous !**
+#### **👉 Rejoins-nous !**
 
 **Le CFS**
 
@@ -63,7 +63,7 @@ o Vous êtes coordinateur d’une école :
 
 **Profil**
 
-o Vous disposez au minimum d’un diplôme de l’enseignement supérieur de type court (baccalauréat) en à orientation sociale, psychologique ou pédagogique de plein exercice ou de promotion sociale ;
+o Vous disposez au minimum d’un diplôme de l’enseignement supérieur de type court (baccalauréat) à orientation sociale, psychologique ou pédagogique de plein exercice ou de promotion sociale ;
 
 o Vous êtes autonome et vous vous adaptez à diverses situations ;
 
@@ -75,9 +75,9 @@ o Vous aimez travailler en équipe et vous possédez de bonnes capacités décis
 
 o Vous êtes flexible au niveau des horaires ;
 
-o Vous connaissez la suite Office (excel, word) ;
+o Vous connaissez la suite Office (Excel, Word) ;
 
-o Vous maitrisez le français à l’oral et à l’écrit et disposez de très bonne compétence en technique de communication ;
+o Vous maitrisez le français à l’oral et à l’écrit et disposez de très bonnes compétences en technique de communication ;
 
 o Vous présentez bien (vous représentez l’image du CFS envers les directions et les communes) ;
 
