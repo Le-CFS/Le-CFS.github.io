@@ -22,9 +22,9 @@ o Vous supervisez les 5 coordinateurs d’école :
 
 * Planification et supervision du travail des collaborateurs
 * Réalisation des entretiens de fonctionnement
-* Réalise les évaluations de ses collaborateurs
-* Implique ses collaborateurs dans des projets / groupes de travail
-* Gère les conflits dans ses équipes
+* Réalisation des évaluations de ses collaborateurs
+* Implication des collaborateurs dans des projets / groupes de travail
+* Gestion des conflits dans ses équipes
 
 o Vous êtes quotidiennement présent sur le terrain afin de vérifier la qualité des ATL au sein des écoles
 
@@ -34,22 +34,22 @@ o Vous représentez l'Asbl en CCA (réunion communale)
 
 o Vous représentez l'Asbl vis-à-vis des directeurs d’écoles
 
-o Vous créez des synergies entre les écoles (pédagogie / utilisation matériel)
+o Vous créez des synergies entre les écoles (pédagogie/utilisation matériel)
 
 o Vous assurez diverses tâches administratives :
 
 * Reporting mensuel des prestations du personnel (garderies & écoles des devoirs)
-* Rappel de payement
+* Rappel de paiement
 * Demande de subsides mensuels à l’ONE
 * Mise à jour des bases de données
 * Renouvellement des droits d'inscription ALE
 * Gestion des badges
 
-o Vous animer des groupes d’enfants pendant les congés scolaires avec la possibilité de devenir chef de centre
+o Vous animez des groupes d’enfants pendant les congés scolaires avec la possibilité de devenir chef de centre
 
 o Vous êtes coordinateur d’une école :
 
-* Vous gérez l’équipe d’accueillants et d’animateurs.
+* Vous gérez l’équipe d’accueillants et d’animateurs :
 
 1. Planning ;
 2. Encodage des prestations ;
@@ -58,8 +58,8 @@ o Vous êtes coordinateur d’une école :
 * Vous assurez la communication avec les parents de l’école ainsi qu’avec la direction de l’école.
 * Vous êtes garant de la qualité de l’accueil temps libre au sein de l’école.
 * Vous gérez les conflits entre les surveillants et les enfants.
-* Vous badgez les enfants à leur arrivée/départ de l’école et valider les présences mensuelles.
-* Vous assurez diverses tâches administratives : rapport mensuel des présences (animateurs ET élèves), inscription, rappel de payement, attestation, demande de subsides, etc.
+* Vous badgez les enfants à leur arrivée/départ de l’école et validez les présences mensuelles.
+* Vous assurez diverses tâches administratives : rapport mensuel des présences (animateurs ET élèves), inscriptions, rappels de paiement, attestations, demandes de subsides, etc.
 
 **Profil**
 
