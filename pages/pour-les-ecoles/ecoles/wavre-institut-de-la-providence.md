@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Wavre - Institut de la Providence
-banner: "/assets/images/slider-rosieres.jpg"
-image: "/assets/images/banner-rosieres.jpg"
+banner: "/assets/images/slider-providence.jpg"
+image: "/assets/images/banner-providence.jpg"
 menu: true
 description: Institut de la Providence de Wavre
 type_page: ecoles
@@ -11,7 +11,6 @@ activite_garderie: false
 activite_pedagogique: false
 bulle: ''
 activite_stage: false
-published: false
 
 ---
 #### **Un cadre convivial pour vos enfants !**
