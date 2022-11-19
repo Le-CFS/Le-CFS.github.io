@@ -29,6 +29,49 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Psycho Créa
+  categorie: Les petits bouts
+  img: "/assets/images/psycho-crea.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 3-4 ans
+    description: "<p>Vous désirez <strong>éveiller la créativité</strong> de votre
+      petit bout ? Le stage Psycho Créa lui permettra de stimuler son imagination
+      et ses sens !</p><p>Ce stage propose un éveil artistique pour les plus petits
+      par le biais du bricolage, de la peinture, du dessin.</p><p>L'autre partie de
+      la journée, des exercices et jeux basés sur les différents axes de la psychomotricité
+      seront proposés aux enfants : jeux de coopération, parcours d'adresse, adresse,
+      audace, coopération, etc.</p><p>Une période de repos est prévue après le temps
+      de midi.</p>"
+    infos:
+    - alias: Enfant propre !
+      info_line: 'Attention : Les enfants doivent obligatoirement être propres pour
+        pouvoir participer à ce stage.'
+    - alias: Equipement
+      info_line: L'enfant doit apporter son tablier et une tenue de rechange
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 3-4 ans
+    description: "<p>Vous désirez <strong>éveiller la créativité</strong> de votre
+      petit bout ? Le stage Psycho Créa lui permettra de stimuler son imagination
+      et ses sens !</p><p>Ce stage propose un éveil artistique pour les plus petits
+      par le biais du bricolage, de la peinture, du dessin.</p><p>L'autre partie de
+      la journée, des exercices et jeux basés sur les différents axes de la psychomotricité
+      seront proposés aux enfants : jeux de coopération, parcours d'adresse, adresse,
+      audace, coopération, etc.</p><p>Une période de repos est prévue après le temps
+      de midi.</p>"
+    infos:
+    - alias: Enfant Propre !
+      info_line: 'Attention : Les enfants doivent obligatoirement être propres pour
+        pouvoir participer à ce stage.'
+    - alias: Equipement
+      info_line: L'enfant doit apporter son tablier et une tenue de rechange
 - name: Tennis & Anglais
   categorie: Activités sportives
   img: "/assets/images/tennis-anglais.png"
@@ -105,7 +148,7 @@ stages:
   online: true
   nouveau: true
   stage_une: false
-  activation_onglets: false
+  activation_onglets: true
   inscription: ''
   location:
   - alias: Brabant
