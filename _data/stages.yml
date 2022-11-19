@@ -31,8 +31,8 @@ categories:
 stages:
 - name: Mini Bolide
   categorie: Activités fun
-  img: ''
-  online: false
+  img: "/assets/images/mini-bolide.png"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: true
