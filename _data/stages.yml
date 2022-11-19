@@ -29,6 +29,43 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Festi Foot
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/festi-foot.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-6 ans
+    description: "<p>Votre enfant souhaite découvrir le football ? Ce stage est fait
+      pour lui !</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
+      avec le ballon par des apprentissages techniques et des jeux. Votre enfant s'initiera
+      aux différentes techniques de dribble, de foot, de passe, ou encore de contrôle
+      de balle. Les différentes règles seront abordées de manière ludique et des petits
+      matchs seront organisés.</p><p>Lors de ce stage, les enfants découvriront les
+      valeurs essentielles du football : le fair-play et le respect.</p><p>Le stage
+      est complété par des activités multisports et des jeux collectifs. Votre enfant
+      développera les différentes facettes de la motricité, le respect des règles
+      et la vie en groupe.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-6 ans
+    description: "<p>Votre enfant souhaite découvrir le football ? Ce stage est fait
+      pour lui !</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
+      avec le ballon par des apprentissages techniques et des jeux. Votre enfant s'initiera
+      aux différentes techniques de dribble, de foot, de passe, ou encore de contrôle
+      de balle. Les différentes règles seront abordées de manière ludique et des petits
+      matchs seront organisés.</p><p>Lors de ce stage, les enfants découvriront les
+      valeurs essentielles du football : le fair-play et le respect.</p><p>Le stage
+      est complété par des activités multisports et des jeux collectifs. Votre enfant
+      développera les différentes facettes de la motricité, le respect des règles
+      et la vie en groupe.</p>"
+    infos: []
 - name: Psycho Créa
   categorie: Les petits bouts
   img: "/assets/images/psycho-crea.png"
