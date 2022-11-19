@@ -2743,12 +2743,14 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-8 ans
-    description: "<p><em>Stage en collaboration avec la </em><strong><em>New Lambermont
-      Tennis School</em></strong></p><p>Votre enfant a envie de découvrir les joies
-      d'un sport raquettes ? </p><p>Ce stage de tennis associe l'apprentissage du
-      geste technique au plaisir du jeu dans une ambiance familiale.</p><p>Tout au
-      long de la semaine, les enfants apprennent les bases du tennis (prises, placement,
+    age: 5-8 ans
+    description: "<p><em>A Schaerbeek : Stage en collaboration avec la </em><strong><em>New
+      Lambermont Tennis School </em></strong><em>(6-8 ans)</em></p><p><em>A WSPI :
+      Stage en collaboration avec </em><strong><em>Ace Tennis Academy </em></strong><em>(6-8
+      ans)</em></p><p><em>Stage 100% CFS (5-7 ans</em>)</p><p>Votre enfant a envie
+      de découvrir les joies d'un sport raquettes ?</p><p>Ce stage de tennis associe
+      l'apprentissage du geste technique au plaisir du jeu dans une ambiance familiale.</p><p>Tout
+      au long de la semaine, les enfants apprennent les bases du tennis (prises, placement,
       jeux de jambes,…) afin de pouvoir réaliser un maximum d’échanges que ce soit
       en partenaire ou en adversaire.</p><p>Des groupes sont formés en fonction des
       âges et des niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p>"
@@ -6795,10 +6797,11 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 3-4 ans
-    description: "<p>Vous cherchez un premier stage pour votre petit bout ?</p><p>Ce
-      stage réunit un mix de différentes facettes de psychomotricité : jeux de coopération,
-      parcours d'adresse, d'audace, exercice de latéralité, éveil artistique, découverte
-      de la nature environnante et du rythme.</p><p>Les stages pour les plus petits
+    description: "<p>Stage idéal pour votre petit bout !</p><p>Vous cherchez un stage
+      ludique et varié pour votre enfant ?</p><p>Chaque jour, les enfants découvrent
+      une activité différente : jeux de coopération, parcours d'adresse, d'audace,
+      exercice de latéralité, éveil artistique, découverte de la nature environnante,
+      du rythme musical et découverte culinaire.</p><p>Les stages pour les plus petits
       tendent au développement harmonieux des enfants au travers d’activités adaptées
       à leur âge. L’enfant développe de nouvelles aptitudes tout en jouant : il apprend
       les règles du jeu et de groupe, développe sa sociabilité et explore les différentes
@@ -6820,10 +6823,11 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 3-4 ans
-    description: "<p>Vous cherchez un premier stage pour votre petit bout ?</p><p>Ce
-      stage réunit un mix de différentes facettes de psychomotricité : jeux de coopération,
-      parcours d'adresse, d'audace, exercice de latéralité, éveil artistique, découverte
-      de la nature environnante et du rythme.</p><p>Les stages pour les plus petits
+    description: "<p>Stage idéal pour votre petit bout !</p><p>Vous cherchez un stage
+      ludique et varié pour votre enfant ?</p><p>Chaque jour, les enfants découvrent
+      une activité différente : jeux de coopération, parcours d'adresse, d'audace,
+      exercice de latéralité, éveil artistique, découverte de la nature environnante,
+      du rythme musical et découverte culinaire.</p><p>Les stages pour les plus petits
       tendent au développement harmonieux des enfants au travers d’activités adaptées
       à leur âge. L’enfant développe de nouvelles aptitudes tout en jouant : il apprend
       les règles du jeu et de groupe, développe sa sociabilité et explore les différentes
@@ -6832,7 +6836,7 @@ stages:
       groupe (8 enfants pour la Pré-Psychomotricité).</p><p>Pour chaque stage, il
       y a une base commune de psychomotricité (jeux de coopération, parcours d’adresse,
       d’audace, exercices de latéralité) et bien sûr un apprentissage spécifique en
-      fonction du thème proposé.</p><p> <strong><em>Pour les stages commençant à 3
+      fonction du thème proposé.</p><p><strong><em>Pour les stages commençant à 3
       ans (PSYCHO) : </em></strong>les enfants doivent être propres. Le cas échéant,
       il faut inscrire votre petit-bout en pré-psycho.</p>"
     infos:
@@ -6842,6 +6846,9 @@ stages:
     - alias: Enfants propres !
       info_line: Les enfants doivent être propres (dans le cas contraire nous vous
         conseillons de les inscrire en pré-psycho).
+    - alias: Bricolage
+      info_line: Les enfants rentrent chaque semaine avec un bricolage et une création
+        culinaire réalisés par leurs soins.
   activation_onglets: true
 - name: Psycho Grimpette
   img: "/assets/images/stages/lespetitsbouts/psychogrimpette.png"
