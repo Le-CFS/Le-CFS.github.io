@@ -6820,6 +6820,9 @@ stages:
     - alias: Tenue de rechange
       info_line: 'Il est demandé aux parents de prévoir un sac avec une tenue de rechange
         pour leur enfant. '
+    - alias: Bricolage
+      info_line: Les enfants rentrent chaque semaine avec un bricolage et une création
+        culinaire réalisés par leurs soins.
   - alias: Bruxelles
     ville: Bruxelles
     age: 3-4 ans
@@ -9397,7 +9400,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 8-14 ans
+    age: 6-12 ans
     description: "<p>Votre enfant est amateur de sports raquettes ?</p><p>Ce stage
       propose une découverte des cinq sports de raquettes, à savoir le tennis, le
       badminton, le tennis de table, le padel et le speedminton.</p><p>Par différents
