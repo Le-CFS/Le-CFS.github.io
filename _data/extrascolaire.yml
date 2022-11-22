@@ -396,10 +396,12 @@ activites:
     centres:
     - RIXENSART - Complexe Sportif
     age: 6-9 ans
-    description: "<p>Une activité variée qui pourra combler votre enfant entre la
-      natation et le sport.</p><p>La natation sera agrémenté par des activités de
-      multisports. Une belle année sportive assurée !</p><p>Au programme pour la natation
-      : jeux nautiques dans la pataugeoire.</p>"
+    description: '<p>Une activité variée qui pourra combler votre enfant entre la
+      natation et le sport <img src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png"
+      title="laugh" alt="laugh"></p><p>Au programme pour la natation : jeux nautiques
+      dans la pataugeoire.</p><p>Les enfants sont ensuite répartis dans les autres
+      groupes pour la 2e partie de l''activité : Gymnastique, GRS, Mini-Foot.</p><p>Une
+      belle année sportive assurée !</p>'
     infos:
     - alias: Savoir nager
       info_line: Les enfants ne doivent pas savoir nager.
