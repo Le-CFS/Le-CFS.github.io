@@ -558,8 +558,8 @@ stages:
   activation_onglets: false
   inscription: ''
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
     age: 6-16 ans
     description: "<p><em>En partenariat avec </em><strong><em>ROC EVENTS</em></strong></p><p>Roc
       events offre la chance aux plus jeunes de tester, de s’initier ou d’approfondir
