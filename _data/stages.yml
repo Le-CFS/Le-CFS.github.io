@@ -8904,19 +8904,18 @@ stages:
     ville: Brabant Wallon
     age: 10-16 ans
     description: '<p>Une superbe semaine pour vos pré-ados et ados à la recherche
-      de sensation et d’activités fun!</p><ul><li><p>une journée de <strong>Paintball
-      </strong>avec lepaintball.be</p></li><li><p><strong>Fun Challenge</strong><em>
-      (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em> :
-      activités crazy light, darts, sumo, twister géant,…(1/2 journée)</p></li><li><p><strong>Réalité
-      virtuelle</strong> à THE VEX<strong> </strong>Louvain La Neuve pour une expérience
-      inoubliable !</p></li><li><p><strong>E-fun : </strong>segway, trottinette électrique
-      et crazy Kart en partenariat avec <strong>Roc Events</strong></p></li><li><p><strong>Arrow
-      game</strong> : différents jeux ludiques avec des arcs à flèches sont proposés
-      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
-      chevaliers et mages (l''arrow game se pratique également avec des flèches avec
-      un bout en mousse et des masques de paintball).</p></li><li><p>Des <strong>activités
-      fun</strong> et des <strong>new games</strong> pour compléter la semaine telles
-      que<strong> </strong>frisbee golf, snag golf, spikeball, kinball, flag foot).</p></li></ul><p
+      de sensation et d’activités fun!</p><p><strong>Au programme</strong> : New Games,
+      Arrow Game, Laser Games, Karting, simulateur de course playstation, Fun Challenge
+      !</p><ul><li><p><strong>New games :</strong> différentes activités fun sont
+      proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball,
+      flag foot, ball bouncer.</p></li><li><p><strong>Arrow game</strong> : différents
+      jeux ludiques avec des arcs à flèches sont proposés comme des prises de château,
+      courses de lapin, jeux de rôle avec des épées, chevaliers et mages (l''arrow
+      game se pratique également avec des flèches avec un bout en mousse et des masques
+      de paintball).</p></li><li><p>2 sessions de <strong>karting </strong>+<strong>
+      simulateur de course playstation </strong>au<strong> WIK Wavre</strong></p></li><li><p><strong>Fun
+      Challenge</strong><em> (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>
+      : activités crazy light, darts, sumo, twister géant,…(1/2 journée)</p></li></ul><p
       class="MsoNormal">Les activités fun sont complétées par des balades en VTT.</p><p
       class="MsoNormal">Tous les déplacements se font en VTT pour se rendre aux différentes
       activités.</p><p class="MsoNormal">L''enfant doit être capable de rouler minimum
@@ -8925,27 +8924,6 @@ stages:
     - alias: Matériel
       info_line: 'Attention : il faut un VTT, un cadenas, un casque ainsi qu''une
         chambre à air de rechange dès le premier jour du stage ! '
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 10-16 ans
-    description: '<p>Une superbe semaine pour vos pré-ados et ados à la recherche
-      de sensation et d’activités fun!</p><p class="MsoNormal"><strong>PROGRAMME :
-      </strong>New Games, Laser Game, Koezio, Réalité Virtuelle et E-fun.</p><ul><li><p><strong>New
-      games </strong>: différentes activités fun sont proposées sur la journée telles
-      que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
-      à Space Fun Game d''Etterbeek</strong> : 3 parties de Laser Game indoor.</p></li><li><p><strong>Excursion
-      à Koezio au Docks Bruxsel :</strong> le centre propose des jeux de collaboration
-      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
-      épreuves de rapidité, de culture générale, et de l''accrobranche.</p></li><li><p><strong>Escape
-      room VR :</strong> activités de réalité virtuelle pour une expérience inoubliable
-      !</p></li><li><p><strong>E-Fun : </strong>segway, trottinette électrique (sur
-      place dans le centre).</p></li></ul><p><strong><em>ATTENTION :</em></strong><em>
-      le programme peut changer les semaines plus courtes.</em></p>'
-    infos:
-    - alias: Koezio
-      info_line: 'Koezio : La taille MINIMALE est d''1m40'
-    - alias: Déplacements
-      info_line: Les déplacements en transports en commun sont assurés par le CFS.
   - alias: Liège
     ville: Liège
     age: 12-16 ans
