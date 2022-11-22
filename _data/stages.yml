@@ -29,6 +29,32 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Roller & Fun
+  categorie: Activités fun
+  img: "/assets/images/roller.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p>Envie de devenir un as de la glisse ? Voilà un stage parfait
+      pour votre enfant !</p><p>Le roller est une activité physique et sportive qui
+      permet aux enfants de développer équilibre et motricité.</p><p>Ce stage est
+      à la fois ludique et sportif. Les enfants découvrent ce sport avec beaucoup
+      d'amusement à travers différents obstacles et parcours.</p><p>Le stage est agrémenté
+      par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball,
+      le speedminton ou encore le flag foot.</p>"
+    infos:
+    - alias: Savoir patiner
+      info_line: Les stagiaires doivent déjà être capables de patiner pour profiter
+        pleinement du stage.
+    - alias: Equipement
+      info_line: Les enfants doivent apporter leur matériel (rollers, casque, coudières,
+        protège poignets et genouillères). 
 - name: Mini Bolide
   categorie: Activités fun
   img: "/assets/images/mini-bolide.png"
