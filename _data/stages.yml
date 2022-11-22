@@ -29,6 +29,27 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Tennis Compétition
+  categorie: Activités sportives
+  img: "/assets/images/tennis-pro.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 10-16 ans
+    description: "<p><em>Stage en collaboration avec </em><strong><em>La Raquette</em></strong></p><p>Ce
+      stage permet aux amateurs de tennis de développer leur technique de jeu et d'en
+      apprendre davantage. Tout au long de la semaine, les enfants se perfectionnent
+      au tennis.</p><p>Les enfants ont également l'occasion de participer à des tournois
+      durant le stage.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
+        disposition. Vous pouvez bien sûr apporter votre propre matériel.
 - name: Tennis & Multisports
   categorie: Activités sportives
   img: "/assets/images/tennis.png"
