@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Royal Tennis Club La Raquette
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/rtclr_new_logo.jpg"
+  href: https://laraquette.eu/
+  bouton: ''
+  couleur_bouton: ''
 - name: Tennis Padel Club l'Abbaye
   categorie: partenaires pédagogiques
   online: true
