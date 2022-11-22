@@ -8569,35 +8569,14 @@ stages:
     - alias: Déplacements
       info_line: Les déplacements en transports en commun sont assurés par le CFS.
   activation_onglets: true
-- name: Fun Ado
+- name: Fun Ados
   img: "/assets/images/stage-enfant-fun-ado-500x500.jpg"
   inscription: ''
   categorie: Activités fun
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 12-16 ans
-    description: "<p>Une superbe semaine pour vos ados !! Activités fun garanties
-      !</p><p><strong>PROGRAMME </strong>: bowling/jeux de piste, Koezio (fermé en
-      raison du Covid pour Pâques) ou Space Fun, Walibi (fermé en raison du Covid
-      pour Pâques), escape room (VR) et Jump XL</p><ul><li><p><strong>Bowling et jeux
-      de piste :</strong> organisés à Louvain-la-Neuve.</p></li><li><p><strong>Excursion
-      à Koezio au Docks Bruxsel :</strong> le centre propose des jeux de collaboration
-      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
-      épreuves de rapidité, de culture générale, et de l'accrobranche.</p></li><li><p><strong>Excursion
-      à Space Fun Games d'Etterbeek :</strong> activités de type Fort Boyard.</p></li><li><p><strong>Escape
-      room :</strong> organisé en salle à côté du Cartronics à Wavre.</p></li><li><p><strong>Jump
-      XL : </strong>parc de trampoline à côté du Cartronics à Wavre.</p></li></ul><p><strong><em>ATTENTION
-      :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p>"
-    infos:
-    - alias: Koézio
-      info_line: La taille MINIMALE est d'1m40.
-    - alias: Déplacements
-      info_line: Certaines activités demandent un déplacement en navette assuré par
-        nos soins.
   - alias: Bruxelles
     ville: Bruxelles
     age: 12-16 ans
@@ -8607,16 +8586,19 @@ stages:
     - alias: Déplacements
       info_line: Les déplacements en transports en commun sont assurés par le CFS.
     description: "<p>Une superbe semaine pour vos ados !! Activités fun garanties
-      !</p><p><strong>PROGRAMME CARNAVAL / PAQUES &amp; ETE: </strong>New Games, Laser
-      Game, Koezio, Réalité Virtuelle et E-fun.</p><ul><li><p><strong>New games </strong>:
-      différentes activités fun sont proposées sur la journée telles que le frisbee
-      golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
-      à Koezio au Docks Bruxsel :</strong> le centre propose des jeux de collaboration
-      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
-      épreuves de rapidité, de culture générale, et de l'accrobranche.</p></li><li><p><strong>Excursion
-      à Space Fun Game d'Etterbeek</strong> : 3 parties de Laser Game indoor.</p></li><li><p><strong>Escape
-      room VR :</strong> activités de réalité virtuel</p></li><li><p><strong>E-fun
-      : </strong>segway, trottinette électrique (sur place dans le centre).</p></li></ul><p><strong><em>ATTENTION
+      !</p><p><strong>PROGRAMME : </strong>New Games, Koezio, Virtual Room, Go Ventura,
+      Bowling &amp; Q-Zar</p><ul><li><p><strong>New games </strong>: différentes activités
+      fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball,
+      kinball, flag foot.</p></li><li><p><strong>Excursion à Koezio au Docks Bruxsel
+      :</strong> le centre propose des jeux de collaboration et de cohésion par équipe.
+      Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de
+      culture générale, et de l'accrobranche.</p></li><li><p><strong>Virtual Room
+      :</strong> activités de réalité virtuelle pour une expérience inoubliable !</p></li><li><p><strong>Go
+      Ventura :</strong> le parc permet d'entrer dans la peau d'aventuriers et de
+      participer à différents challenges : cohésion d'équipe, stratégie et coopération
+      sont au rendez-vous !</p></li><li><p><strong>Bowling </strong>en collaboration
+      avec le <strong>Crosly Bowling &amp; Q-Zar : </strong>laser game où deux équipes
+      s'affrontent dans un labyrinthe afin de conquérir la base de leurs adversaires.</p></li></ul><p><strong><em>ATTENTION
       :</em></strong><em> le programme peut changer les semaines plus courtes.</em></p>"
   activation_onglets: true
 - name: Fun Paintball & VTT
