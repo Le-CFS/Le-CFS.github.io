@@ -8570,11 +8570,11 @@ stages:
       info_line: Les déplacements en transports en commun sont assurés par le CFS.
   activation_onglets: true
 - name: Fun Ados
-  img: "/assets/images/stage-enfant-fun-ado-500x500.jpg"
+  img: "/assets/images/stages/activitesfun/evasion.png"
   inscription: ''
   categorie: Activités fun
   online: true
-  nouveau: false
+  nouveau: true
   stage_une: false
   location:
   - alias: Bruxelles
