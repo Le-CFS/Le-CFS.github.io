@@ -8378,6 +8378,9 @@ stages:
     - alias: Navette
       info_line: Certaines activités demandent un déplacement en navette assuré par
         nos soins.
+    - alias: Waterloo
+      info_line: 'Pour les stages à Waterloo, le programme est différent : Laser Game,
+        Arrow Game, New Games, Minigolf, Journée Quad & Laser'
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
