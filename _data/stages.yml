@@ -8333,6 +8333,21 @@ stages:
     - alias: Spectacle
       info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
         avec le Covid).
+  - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Votre enfant souhaite s'initier à la gymnastique ? </p><p>Durant
+      ce stage, les enfants découvrent les plaisirs de la gymnastique par un travail
+      aux 4 agrès : poutre, barres asymétriques, sol et saut.</p><p>Ils développent
+      les qualités de base de cette discipline (force, souplesse, équilibre et audace)
+      à raison de 3 séances par jour.</p><p>La dernière séance de la journée est consacrée
+      à la découverte d'autres disciplines sportives.</p>"
+    infos:
+    - alias: Tenue
+      info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
+        gym.
+    - alias: Spectacle
+      info_line: Un petit spectacle est prévu en fin de semaine.
   activation_onglets: true
 - name: Gym Pro
   img: "/assets/images/stages/danseetgymnastique/gympro.png"
