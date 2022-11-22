@@ -29,6 +29,39 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Baby Tennis & Multisports
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/baby-tennis-multi.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p><em>Stage en collaboration avec </em><strong><em>La Raquette</em></strong></p><p>Vous
+      désirez éveiller votre petit bout à un jeu de raquette ? </p><p>Ce stage est
+      l'idéal pour initier les enfants au tennis par différents jeux leur permettant
+      d'en acquérir les bases. Ils découvrent la raquette en tant que prolongement
+      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.</p><p>Nos
+      petits tennisman apprennent, grâce à la 2D, le coup droit, le revers, et toutes
+      leurs particularités : prises, placement, jeux de jambes, direction,… La manipulation
+      de la balle au sol, permet de contrôler le mouvement de la raquette et de la
+      balle, et de faciliter leur apprentissage. Ils peuvent ensuite s’essayer à la
+      3D où l’apprentissage du rebond de la balle est essentiel pour un sport tel
+      que le tennis. La volée et le service sont également vus. Les exercices permettent
+      à l'enfant de lire la trajectoire de leur balle et d'anticiper ses rebonds.</p><p>Tous
+      ces exercices sont proposés avec du matériel adapté : ballons, ballons de baudruche,
+      balles rouges et balles molles.</p><p>Chaque journée de stage comporte trois
+      périodes de tennis et une période de découverte d’un multisports en extérieur.
+      Des activités comme du baseball, unihoc, ball bouncer, etc. sont favorisées
+      car elles permettent aux enfants d'utiliser à nouveau du matériel qui est le
+      prolongement de leur main.</p>"
+    infos:
+    - alias: Matériel
+      info_line: Tout le matériel de tennis est fourni par notre partenaire. 
 - name: Roller & Fun
   categorie: Activités fun
   img: "/assets/images/roller.png"
