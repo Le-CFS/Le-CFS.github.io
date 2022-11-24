@@ -108,36 +108,32 @@ une:
     img: "/assets/images/boutonsiteweb4.jpg"
     bouton: Plus d'info
     nouveau: non
-    infos: ''
-    description: Stage Aventure
-    lieu: ''
-    age: De 8 à 12 ans
-  - name: Kids Fun
-    titre_overlay: Kids Fun
-    img: "/assets/images/stages-enfants-kids-fun-250x250.jpg"
-    bouton: Plus d'info
-    nouveau: oui
-    infos: |-
-      Prévoir des vêtements adaptés pour les activités en extérieur.
-      Le stage existe aussi pour les enfants de 6-8 ans: Mini-Lanta
-    description: "Votre enfant a entre 7 et 9 ans ? Il souhaite essayer un stage varié
-      et fun ? Ce stage est fait pour lui ! Il vous propose un programme alléchant,
-      avec chaque jour une activité ludique différente.\n\nProgramme : New Games,
-      Arrow Game, Laser Game, Fun Challenge, E-Fun\n\nNew games : différentes activités
-      fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball,
-      kinball, flag foot, ball bouncer.\n\nArrow game : différents jeux ludiques avec
-      des arcs à flèches sont proposés comme des prises de château, courses de lapin,
-      jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique également
-      avec des flèches avec un bout en mousse et des masques de paintball).\n\nExcursion
-      à Space Fun Game d'Etterbeek : 3 parties de Laser Game indoor.\n\nFun Challenge (En
-      collaboration avec Jag Events) : activités crazy light, darts, sumo, twister
-      géant,…\n\nE-Fun : segway et trottinette électrique, overboard, crazy kart.\n\n⚠️
-      ATTENTION : le programme peut changer les semaines plus courtes.\n\n\U0001F4A1Prévoir
-      une paire de bottines ainsi que des vêtements adaptés aux activités d’extérieur
-      et d'intérieur.\n\U0001F4A1Certaines activités demandent un déplacement en navette
-      assuré par nos soins."
+    infos: Prévoir une paire de bottines ainsi que des vêtements adaptés aux activités
+      d’extérieur et d'intérieur. Certaines activités demandent un déplacement en
+      navette assuré par nos soins.
+    description: |-
+      Votre enfant a entre 8 et 12 ans ? Il souhaite essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous propose un programme alléchant, avec chaque jour une activité ludique différente.
+
+      Programme Bruxelles : New Games, Arrow Game, Space Fun Game (Fort Boyard & Laser Game), Laser Game extérieur, Patinoire.
+      Programme Brabant : New Games, Laser Game, Arrow Game, Patinoire, Fun Game.
     lieu: Brabant et Bruxelles
-    age: 7-9 ans
+    age: 8-12 ans
+  - name: Baby Multisports
+    titre_overlay: Baby Multisports
+    img: "/assets/images/boutonsiteweb2.jpg"
+    bouton: Plus d'info
+    nouveau: non
+    infos: ''
+    description: |-
+      Votre enfant a besoin de se défouler ? Il adore le sport et aime découvrir de nouvelles activités ? 
+
+      Voici un stage qui le ravira !
+
+      Par un premier contact avec le sport et les jeux collectifs, votre petit bout développera les différentes facettes de la motricité, le respect des règles et la vie en groupe.
+
+      Votre enfant découvrira un large panel d'activités fun et ludiques. 
+    lieu: Brabant et Bruxelles
+    age: 4-6 ans
   - name: E-Pilote Academy
     titre_overlay: E-Pilote Academy
     img: "/assets/images/stages-enfants-e-pilote-academy-500x500-une.jpg"
