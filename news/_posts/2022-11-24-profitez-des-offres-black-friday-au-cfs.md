@@ -8,7 +8,7 @@ infos:
   date: 
   teaser: ''
 description: 'Le Black Friday au CFS ! '
-image: ''
+image: "/assets/images/slider-black-friday.jpg"
 
 ---
 ### **BLACK FRIDAY AU CFS** !
