@@ -10,8 +10,8 @@ tags:
 title: Profitez des offres Black Friday au CFS !
 banner: "/assets/images/slider-black-friday.jpg"
 infos:
-  date: 
-  teaser: ''
+  date: 2022-11-24
+  teaser: Le Black Friday au CFS !
 description: 'Le Black Friday au CFS ! '
 image: "/assets/images/slider-black-friday.jpg"
 
