@@ -103,16 +103,15 @@ slogan: Le CFS, créateur de souvenirs depuis 1981.
 une:
   nom: Stages à la Une
   images:
-  - name: Stages Toussaint Liège
-    titre_overlay: Stages Toussaint Liège
-    img: "/assets/images/stages-enfants-toussaint-liege-250x250.jpg"
+  - name: Aventure
+    titre_overlay: Aventure
+    img: "/assets/images/boutonsiteweb4.jpg"
     bouton: Plus d'info
-    nouveau: oui
+    nouveau: non
     infos: ''
-    description: "Nouveau à Liège ! Des stages sportifs, fun et créatifs proche de
-      chez vous du 24 au 28 octobre \U0001F929"
-    lieu: Liège
-    age: A partir de 3 ans
+    description: Stage Aventure
+    lieu: ''
+    age: De 8 à 12 ans
   - name: Kids Fun
     titre_overlay: Kids Fun
     img: "/assets/images/stages-enfants-kids-fun-250x250.jpg"
