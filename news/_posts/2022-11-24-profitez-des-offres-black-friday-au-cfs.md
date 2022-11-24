@@ -1,7 +1,10 @@
 ---
 layout: post
 menu: cfs
-tags: []
+tags:
+- 'Black Friday  '
+- Réduction
+- Promo
 title: Profitez des offres Black Friday au CFS !
 banner: "/assets/images/slider-black-friday.jpg"
 infos:
