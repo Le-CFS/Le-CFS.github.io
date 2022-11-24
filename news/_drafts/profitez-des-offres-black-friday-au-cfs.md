@@ -19,8 +19,8 @@ Profitez de **10€ de réduction** sur nos stages d'hiver et sur les anniversai
 
 **Comment faire ?** 🧐
 
-Renseignez le code promo : **Friday22** lors de vos inscriptions par internet ou par téléphone avec notre équipe (010/22.73.96).
+👉 Renseignez le code promo : **Friday22** lors de vos inscriptions par internet ou par téléphone avec notre équipe (010/22.73.96).
 
-L'offre est valable jusqu'au 29/11.
+❗️L'offre est valable jusqu'au _29/11_ ❗️
 
 L'Equipe du CFS
