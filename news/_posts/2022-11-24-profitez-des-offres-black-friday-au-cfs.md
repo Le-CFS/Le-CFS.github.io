@@ -5,6 +5,8 @@ tags:
 - 'Black Friday  '
 - Réduction
 - Promo
+- CFS
+- offre
 title: Profitez des offres Black Friday au CFS !
 banner: "/assets/images/slider-black-friday.jpg"
 infos:
