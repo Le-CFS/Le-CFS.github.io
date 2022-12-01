@@ -10,7 +10,7 @@ infos:
   date: 
   teaser: ''
 description: ''
-image: "/assets/images/viva-for-life.jpg"
+image: "/assets/images/viva-for-life1.jpg"
 
 ---
 ### **DU SPORT AU PROFIT DE VIVA FOR LIFE !**
