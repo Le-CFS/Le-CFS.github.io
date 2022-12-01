@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Responsable Accueil Temps Libre
-online: true
+online: false
 banner: "/assets/images/responsable-atl_brt_bxl_nam.jpg"
 description: Le CFS recrute ! Recherche Responsable Accueil Temps Libre
 image: "/assets/images/responsable-atl_brt_bxl_nam.jpg"
