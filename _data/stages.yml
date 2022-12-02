@@ -29,6 +29,43 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Telecom Camp
+  categorie: Internat
+  img: "/assets/images/telecom.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Transinne
+    age: 12-18 ans
+    description: "<p>Construit ton récepteur FM pour recevoir des signaux satellites
+      ! Les stagiaires apprennent à utiliser les moyens de communication entre la
+      terre et les stations spatiales. Ils réalisent leur propre station radioamateur,
+      apprennent à la manipuler et la calibrer.</p><p>Un stage certifiant d’une semaine
+      pour une expérience inoubliable. Prépare ton examen à l'IBPT pour obtenir une
+      licence et deviens un pro des télécommunications !</p><p>Au programme :</p><ul><li><p>Bases
+      techniques de la radio : Apprends le fonctionnement général d'un émetteur et
+      d'un récepteur, comprends comment une antenne fonctionne et comment son signal
+      peut être reçu jusqu'aux confins du système solaire !</p></li><li><p>Construction
+      d'un récepteur FM : tu t'exerceras à la soudure en construisant ton propre récepteur
+      radio.</p></li><li><p>Présentation de l'examen IBPT : A la fin de la semaine,
+      l'agence belge des télécoms organisera un examen qui te permettra d'obtenir
+      ta licence ONE3 et de devenir un radioamateur à part entière. Nous te préparerons
+      tout au long de la semaine pour que tu aies toutes les chances de la réussir.</p></li></ul>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Cyclocross
   categorie: Activités sportives
   img: "/assets/images/cyclocross.png"
