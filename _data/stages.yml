@@ -29,6 +29,42 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Astrobiology Camp
+  categorie: Internat
+  img: "/assets/images/astrobiologie.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Transinne
+    age: 13-16 ans
+    description: "<p>Fabrique ton spectroscope afin de découvrir les preuves chimiques
+      de l'existence de la vie !</p><p>Découvre et décode des messages envoyés à des
+      extra-terrestres. Crée ensuite ta propre capsule culturelle !</p><p>Au programme
+      :</p><ul><li><p>Une discussion et un échange pour définir la Vie, imaginer des
+      expériences pour la détecter.</p></li><li><p>Les moyens de résistance inventés
+      par les êtres vivants pour s'adapter aux environnements inhospitaliers, avec
+      la recherche de conditions extrêmes semblables, ailleurs que sur Terre, grâce
+      à l'exploration spatiale.</p></li><li><p>Détection biologique par respirométrie,
+      pour tenter de détecter des micro-organismes.</p></li><li><p>Initiation à la
+      microscopie et à la culture de micro-organismes.</p></li><li><p>Construction
+      d'un spectroscope.</p></li><li><p>Le contact avec les extraterrestres dans la
+      fiction afin d'évaluer le niveau de préparation de l'humanité à un tel événement.</p></li><li><p>Constitution
+      d'une capsule culturelle.</p></li></ul>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation,
+        et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi
+        à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
+        Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
+        mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
 - name: Telecom Camp
   categorie: Internat
   img: "/assets/images/telecom.png"
@@ -254,16 +290,17 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 5-6 ans
-    description: "<p>Votre enfant souhaite découvrir le football ? Ce stage est fait
-      pour lui !</p><p>Votre petit champion aura l'occasion d'avoir un premier contact
-      avec le ballon par des apprentissages techniques et des jeux. Votre enfant s'initiera
-      aux différentes techniques de dribble, de foot, de passe, ou encore de contrôle
-      de balle. Les différentes règles seront abordées de manière ludique et des petits
-      matchs seront organisés.</p><p>Lors de ce stage, les enfants découvriront les
-      valeurs essentielles du football : le fair-play et le respect.</p><p>Le stage
-      est complété par des activités multisports et des jeux collectifs. Votre enfant
-      développera les différentes facettes de la motricité, le respect des règles
-      et la vie en groupe.</p>"
+    description: "<p><em>A Perwez - Stage en collaboration avec le </em><strong><em>Club
+      LSA Perwez</em></strong></p><p>Votre enfant souhaite découvrir le football ?
+      Ce stage est fait pour lui !</p><p>Votre petit champion aura l'occasion d'avoir
+      un premier contact avec le ballon par des apprentissages techniques et des jeux.
+      Votre enfant s'initiera aux différentes techniques de dribble, de foot, de passe,
+      ou encore de contrôle de balle. Les différentes règles seront abordées de manière
+      ludique et des petits matchs seront organisés.</p><p>Lors de ce stage, les enfants
+      découvriront les valeurs essentielles du football : le fair-play et le respect.</p><p>Le
+      stage est complété par des activités multisports et des jeux collectifs. Votre
+      enfant développera les différentes facettes de la motricité, le respect des
+      règles et la vie en groupe.</p>"
     infos: []
   - alias: Bruxelles
     ville: Bruxelles
