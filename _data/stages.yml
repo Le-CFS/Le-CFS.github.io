@@ -29,6 +29,29 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Cyclocross
+  categorie: Activités sportives
+  img: "/assets/images/cyclocross.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p><em>Stage en partenariat avec le</em><strong><em> R.F.C. Orp
+      Noduwez</em></strong></p><p>Votre enfant souhaite découvre le monde du Cyclocross
+      ?</p><p>Ce stage lui permet de découvrir toutes les joies d’apprendre à rouler
+      sur un circuit fermé et sécurisé de plus de 2 kilomètres où descentes, montées
+      et obstacles se mettront sur leur chemin. Le terrain de jeu est évolutif et
+      permet un apprentissage pour les débutants jusqu’au plus confirmés.</p><p>L'après-midi,
+      les enfants s'initient à différentes activités de multisports et des jeux collectifs.</p><p>Adrénaline
+      et plaisir assuré !</p>"
+    infos:
+    - alias: Garderie
+      info_line: Garderie de 8h à 17h, comprise dans les frais d'inscription.
 - name: Tennis Compétition
   categorie: Activités sportives
   img: "/assets/images/tennis-pro.png"
