@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Assistant Administratif & Commercial
-online: true
+online: false
 banner: "/assets/images/job-aca.jpg"
 description: Le CFS recrute ! Recherche Assistant Administratif & Commercial
 image: "/assets/images/assistant_comm_admin_brabant.jpg"
