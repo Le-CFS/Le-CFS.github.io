@@ -23,6 +23,9 @@ Psycho créa, Apprenti Vélo, Baby Multisports, Kids Fun, Mini Bolide, Football,
 
 📍Bruxelles - Brabant Wallon - Liège
 
+{% include utils/button.html  
+lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1&_ga=2.268535153.102325985.1670259718-1649094147.1650885735' couleur="info" autre_page=true texte="Je m'inscris à un stage" %}
+
 🏘 NOS NOUVEAUX CENTRES :
 
 BRUXELLES :
@@ -41,6 +44,6 @@ BRABANT :
 
 💻 www.lecfs.be
 
-A bientôt ! 
+A bientôt !
 
 **_L'Equipe du CFS_**
