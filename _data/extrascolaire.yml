@@ -646,7 +646,7 @@ activites:
     description: "<p>Initiation au rythme à travers des chorégraphies adaptées.</p>"
     infos:
     - alias: Spectacle
-      info_line: Spectacle le Weekend du 29/05/2021.
+      info_line: Un spectacle est prévu en fin d'année
   nouveau: false
 - name: Baby Multisports
   img: "/assets/images/boutonsactivites/extrascolaires/babymultisports.png"
