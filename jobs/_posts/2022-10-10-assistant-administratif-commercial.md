@@ -54,6 +54,6 @@ o Vous avez une affinité pour le sport en général ;
 
 o Une expérience probante dans un Customer Service est un atout non négligeable.
 
-Le CFS vous propose un contrat à durée déterminée d'un an à temps plein au sein d’une organisation en pleine expansion. Possibilité de CDI par la suite.
+Le CFS vous propose un contrat à durée déterminée (jusqu'au 29 septembre 2023) à temps plein au sein d’une organisation en pleine expansion. Possibilité de CDI par la suite.
 
 📩 **CV et lettre de motivation** à envoyer pour le **23 décembre 2022** au plus tard à candidature@lecfs.be.
