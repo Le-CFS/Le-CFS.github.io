@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Assistant Administratif & Commercial
-online: false
+online: true
 banner: "/assets/images/job-aca.jpg"
 description: Le CFS recrute ! Recherche Assistant Administratif & Commercial
 image: "/assets/images/assistant_comm_admin_brabant.jpg"
@@ -56,4 +56,4 @@ o Une expérience probante dans un Customer Service est un atout non négligeabl
 
 Le CFS vous propose un contrat à durée déterminée d'un an à temps plein au sein d’une organisation en pleine expansion. Possibilité de CDI par la suite.
 
-📩 **CV et lettre de motivation** à envoyer pour le **11 novembre 2022** au plus tard à [dimitri@lecfs.be](mailto:dimitri@lecfs.be).
+📩 **CV et lettre de motivation** à envoyer pour le **23 décembre 2022** au plus tard à candidature@lecfs.be.
