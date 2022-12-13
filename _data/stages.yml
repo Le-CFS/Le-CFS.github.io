@@ -29,6 +29,26 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Fun & Multisports et Langues
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/multi-langue.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Ce stage allie la découverte de l'Anglais et la pratique d'activités
+      sportives. </p><p>Chaque journée est divisée en 2 périodes. La première propose
+      des animations en Anglais basées sur la découverte et l'amusement. Le CFS te
+      fait découvrir la langue étrangère de façon ludique.</p><p>Le stage est agrémenté
+      par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball,
+      le speedminton ou encore le flag foot.</p><p>Semaine sportive et Fun assurée
+      !</p>"
+    infos: []
 - name: Astrobiology Camp
   categorie: Internat
   img: "/assets/images/astrobiologie.png"
