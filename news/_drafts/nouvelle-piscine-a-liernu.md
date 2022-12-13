@@ -12,7 +12,7 @@ infos:
   date: 
   teaser: ''
 description: 'Nouvelle piscine à Liernu ! '
-image: ''
+image: "/assets/images/nouveau-1200-x-630-px.png"
 
 ---
 ## Nouvelle piscine à Liernu !
