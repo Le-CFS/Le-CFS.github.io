@@ -7,7 +7,7 @@ tags:
 - cours adultes
 - CFS
 title: 'Nouvelle piscine à Liernu ! '
-banner: "/assets/images/liernu.jpg"
+banner: "/assets/images/liernu.png"
 infos:
   date: 
   teaser: ''
