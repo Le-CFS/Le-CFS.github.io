@@ -3118,7 +3118,7 @@ stages:
   categorie: Activités fun
   img: "/assets/images/stages-enfants-fun-aventure-500x500-min.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -3126,33 +3126,27 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
-    description: '<p>Votre enfant a entre <strong>8 et 14 ans </strong>? Il souhaite
-      essayer un stage varié et fun ? Ce stage Fun Aventure est pour lui ! Il vous
-      propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p
-      class="MsoNormal"><strong><em>Programme : </em></strong><em>New Games/Arrow
-      Game/Space Fun Game (Fort Boyard &amp; Laser Game)/Karting/Koezio</em></p><ul><li><p><strong><em>Arrow
-      game :</em></strong><em> différents jeux ludiques avec des arcs à flèches sont
-      proposés comme des prises de château, courses de lapin, jeux de rôle avec des
-      épées, chevaliers et mages (l''arrow game se pratique également avec des flèches
-      avec un bout en mousse et des masques de paintball).</em></p></li><li><p><strong><em>New
-      games :</em></strong><em> différentes activités fun sont proposées sur la journée
-      telles que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</em></p></li><li><p><strong><em>Excursion
-      à Space Fun Game d''Etterbeek</em></strong><em> : activités de type Fort Boyard
-      et 2 parties de laser game indoor.</em></p></li><li><p><strong><em>Karting </em></strong><em>:
-      session de karting au Brussels Kart Expo</em></p></li><li><p><strong><em>Excursion
-      à Koezio au Docks Bruxsel</em></strong> : <em>le centre propose des jeux de
-      collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser
-      par exemple des épreuves de rapidité, de culture générale, et de l''accrobranche.
-      Taille minimum: 1,40 m</em></p></li></ul><p class="MsoNormal">Ce stage pourrait
-      être complété par d''autres activités en extérieur comme des jeux dans les bois,
-      une chasse à l''homme, un cache-cache 21, ou encore un stratégo géant.</p><p
-      class="MsoNormal"><strong>ATTENTION :</strong> le programme peut changer les
-      semaines plus courtes.</p>'
-    infos:
-    - alias: Nos partenaires prennent toutes les mesures d’hygiène et sanitaires concernant
-        le Covid-19.
-      info_line: Nos partenaires prennent toutes les mesures d’hygiène et sanitaires
-        concernant le Covid-19.
+    description: "<p>Votre enfant a entre <strong>8 et 14 ans ?</strong> Il souhaite
+      essayer un stage <strong>varié et fun ? </strong>Ce stage<strong> Fun Aventure</strong>
+      est pour lui ! Il vous propose un<strong> programme alléchant</strong>, avec
+      chaque jour <strong>une activité ludique différente</strong>.</p><p><strong>Programme
+      :</strong> New Games, Arrow Game, Koézio, Réalité Virtuelle, Space Fun Game</p><ul><li><p><strong>New
+      games :</strong> différentes activités fun sont proposées sur la journée telles
+      que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.<br></p></li><li><p><strong>Arrow
+      game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés
+      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
+      chevaliers et mages (l'arrow game se pratique également avec des flèches avec
+      un bout en mousse et des masques de paintball).</p></li><li><p><strong>Excursion
+      à Koezio au Docks Bruxsel</strong> : le centre propose des jeux de collaboration
+      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
+      épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum:
+      1,40 m</p></li><li><p><strong>Réalité Virtuelle</strong> : activités de réalité
+      virtuelle pour une expérience inoubliable !</p></li><li><p><strong>Excursion
+      à Space Fun Game d'Etterbeek</strong> : activités de type Fort Boyard et 2 parties
+      de team game.</p></li></ul><p>Ce stage pourrait être complété par d'autres activités
+      en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache
+      21, ou encore un stratégo géant.</p>"
+    infos: []
 - name: Nature & Loisirs
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stage-enfant-nature-et-loisirs-500x500.jpg"
