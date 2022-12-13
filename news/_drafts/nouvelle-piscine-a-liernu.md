@@ -23,7 +23,7 @@ image: ''
 
 _📍 Rue du gros Chêne, 78 • 5310 Liernu_
 
-**COURS DE NATATION POUR BEBE • ENFANT • ADO**
+**COURS NATATION BEBE • ENFANT • ADO**
 
 _Le CFS, plus de **40 ans d'expérience** dans l'apprentissage de la natation !_
 
@@ -40,7 +40,7 @@ _Pssst... Nous organisons également des **anniversaires piscine** tous les dima
 {% include utils/button.html  
 lien='' couleur="info" autre_page=true texte="Je m'inscris" %}
 
-**SEANCES SPORTIVES DANS L'EAU POUR ADULTES**
+**AQUA FITNESS COLLECTIF ADULTES**
 
 _Viens te défouler entre amis en musique et dans la bonne humeur !_
 
