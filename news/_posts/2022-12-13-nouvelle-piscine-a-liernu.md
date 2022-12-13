@@ -55,7 +55,7 @@ lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categori
 
 **Bénéficiez de 15% de Réduction pour les habitants de la commune d'Eghezée (5310) 🥳**
 
-👉 Renseignements & Inscriptions :
+👉 Renseignements :
 
 📞 010/22.73.96
 
