@@ -38,7 +38,7 @@ _Nombre de places **limité**. Moniteurs **brevetés**._
 _Pssst... Nous organisons également des **anniversaires piscine** tous les dimanches._
 
 {% include utils/button.html  
-lien='' couleur="info" autre_page=true texte="Je m'inscris" %}
+lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5&Province=Namur&_ga=2.124252493.613605539.1670837200-1649094147.1650885735' couleur="info" autre_page=true texte="Je m'inscris" %}
 
 **AQUA FITNESS COLLECTIF ADULTES**
 
@@ -51,7 +51,7 @@ _Viens te défouler entre amis en musique et dans la bonne humeur !_
 _Tous les jours de la semaine, matin, midi & soir._
 
 {% include utils/button.html  
-lien='' couleur="info" autre_page=true texte="Je m'inscris" %}
+lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=3&Province=Namur&_ga=2.124252493.613605539.1670837200-1649094147.1650885735' couleur="info" autre_page=true texte="Je m'inscris" %}
 
 **Bénéficiez de 15% de Réduction pour les habitants de la commune d'Eghezée (5310) 🥳**
 
