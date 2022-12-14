@@ -9,7 +9,7 @@ description: Ecole Saint-Michel
 type_page: ecoles
 activite_parascolaire: true
 activite_garderie: false
-activite_pedagogique: false
+activite_pedagogique: true
 bulle: ''
 activite_stage: true
 
