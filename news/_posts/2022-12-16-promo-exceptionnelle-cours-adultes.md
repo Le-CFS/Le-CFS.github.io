@@ -11,7 +11,7 @@ banner: "/assets/images/offre-exceptionnelle-30-reduction.png"
 infos:
   date: 
   teaser: ''
-description: ''
+description: Promo exceptionnelle Cours Adultes !
 image: "/assets/images/offre-exceptionnelle-30-reduction-1200-x-630-px.png"
 
 ---

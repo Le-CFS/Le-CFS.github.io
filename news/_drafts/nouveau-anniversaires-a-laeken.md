@@ -22,3 +22,6 @@ image: ''
 📍Lycée Marie Assumpta _•_ Avenue Wannecouter 76, 1020 Laeken
 
 Tous les samedis de 13h à 16h ou de 15h30 à 18h30
+
+{% include utils/button.html  
+lien='https://www.lecfs.be/anniversaires/' couleur="info" autre_page=true texte="Plus d'informations" %}
