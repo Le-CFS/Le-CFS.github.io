@@ -14,7 +14,7 @@ infos:
   date: 
   teaser: ''
 description: ''
-image: ''
+image: "/assets/images/nouveau-1200-x-630-px-1.png"
 
 ---
 ## NOUVEAU ! 🎉
