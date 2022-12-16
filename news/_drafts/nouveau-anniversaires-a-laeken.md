@@ -20,3 +20,5 @@ image: ''
 ### Venez découvrir nos anniversaires à Laeken 🎂🎁
 
 📍Lycée Marie Assumpta _•_ Avenue Wannecouter 76, 1020 Laeken
+
+Tous les samedis de 13h à 16h ou de 15h30 à 18h30
