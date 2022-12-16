@@ -9,7 +9,7 @@ tags:
 - sportif
 - fun
 title: Nouveau ! Anniversaires à Laeken
-banner: ''
+banner: "/assets/images/nouveau-1200-x-630-px-1.png"
 infos:
   date: 
   teaser: ''
