@@ -32,7 +32,7 @@ image: "/assets/images/nouveau-1200-x-630-px-1.png"
 {% include utils/button.html  
 lien='https://www.lecfs.be/anniversaires/' couleur="info" autre_page=true texte="Plus d'informations" %}
 
-ℹ Renseignements & Inscriptions : 
+ℹ Renseignements & Inscriptions :
 
-📞 010/22.73.96  
+📞 02/420.53.02  
 📧 info@lecfs.be
