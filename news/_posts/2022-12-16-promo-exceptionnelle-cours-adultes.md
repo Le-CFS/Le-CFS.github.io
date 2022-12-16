@@ -7,12 +7,12 @@ tags:
 - aquabike
 - aquagym
 title: Promo exceptionnelle Cours Adultes !
-banner: ''
+banner: "/assets/images/offre-exceptionnelle-30-reduction.png"
 infos:
   date: 
   teaser: ''
 description: ''
-image: ''
+image: "/assets/images/offre-exceptionnelle-30-reduction-1200-x-630-px.png"
 
 ---
 ## Action Spéciale Noël **🎄🎁**
