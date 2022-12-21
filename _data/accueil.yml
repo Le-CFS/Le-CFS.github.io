@@ -24,9 +24,6 @@ slider:
 - titre: Activités extrascolaires 2022-2023
   src: "/assets/images/cfsextrascolaire2022-2023.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
-- titre: MAG CFS 2022
-  src: "/assets/images/mag2022.jpg"
-  href: https://www.lecfs.be/brochures/
 selection:
   nom: Sélection du CFS
   images:
