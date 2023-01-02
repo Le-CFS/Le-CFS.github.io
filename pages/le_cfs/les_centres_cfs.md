@@ -17,7 +17,7 @@ provinces:
 - name: Brabant
   banner: "/assets/images/brt-banner.jpg"
   image_annee: "/assets/images/brt_annee_graphique_22-jpg.jpg"
-  image_stages: "/assets/images/brt_stages-graphique_22.jpg"
+  image_stages: "/assets/images/brt_stages-graphique_23.jpg"
   url_annee: ''
   url_stages: ''
 - name: Liege
