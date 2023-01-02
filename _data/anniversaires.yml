@@ -50,7 +50,7 @@ anniversaires:
 - name: Psycho Découverte
   age: 3-5 ans
   img: "/assets/images/anniversaires/activites/psychodecouverte.png"
-  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem
+  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
   href: ''
   prix: 165 €
   description: 'Pour ton anniversaire, nous avons préparé un mélange de différentes
@@ -130,10 +130,10 @@ anniversaires:
   online: true
   nouveau: false
   anniversaire_une: false
-- name: Diner Parfait
+- name: Top Chef
   age: 6-12 ans
   img: "/assets/images/anniversaires/activites/dinerparfait.png"
-  lieu: Bierges / Auderghem
+  lieu: Bierges / Auderghem / Laeken
   href: ''
   prix: Merci de nous contacter
   description: Tu veux devenir un grand chef-cuistot? Invite tes amis et appelle-nous
