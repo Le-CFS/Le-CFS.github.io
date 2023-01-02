@@ -1,7 +1,7 @@
 ---
 anniversaires:
 - name: Fun & Multisports
-  online: false
+  online: true
   nouveau: true
   anniversaire_une: true
   age: 6-8 ans
@@ -70,7 +70,7 @@ anniversaires:
   img: "/assets/images/anniversaires/activites/psychodecouverte.png"
   lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
   href: ''
-  prix: 165 €
+  prix: 175 €
   description: 'Pour ton anniversaire, nous avons préparé un mélange de différentes
     activités de psychomotricité : jeux de coopération, parcours d’adresse, parcours
     d’audace, exercices de latéralité, eveil artistique.'
@@ -84,9 +84,9 @@ anniversaires:
 - name: Chasse au trésor
   age: 5 à 12 ans
   img: "/assets/images/anniversaires/activites/chasseautresor.png"
-  lieu: Bierges / Wavre / Ottignies / Rixensart / Auderghem
+  lieu: Bierges / Wavre / Ottignies / Rixensart / Auderghem / Laeken
   href: ''
-  prix: 175 €
+  prix: 185 €
   description: L’anniversaire « chasse au trésor » est un mélange de défis sportifs
     et intellectuels. Deux équipes se font face et, après chaque épreuve, ils reçoivent
     une pièce de la carte au trésor. Ils reçoivent comme récompense des bonbons cachés
@@ -151,7 +151,7 @@ anniversaires:
 - name: Top Chef
   age: 6-12 ans
   img: "/assets/images/anniversaires/activites/dinerparfait.png"
-  lieu: Bierges / Auderghem / Laeken
+  lieu: Bierges / Auderghem
   href: ''
   prix: Merci de nous contacter
   description: Tu veux devenir un grand chef-cuistot? Invite tes amis et appelle-nous
