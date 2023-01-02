@@ -1,5 +1,21 @@
 ---
 anniversaires:
+- name: Futsal
+  online: true
+  nouveau: true
+  anniversaire_une: true
+  age: 6-14 ans
+  img: "/assets/images/cfs_anniversaire_futsal.png"
+  lieu: Laeken
+  href: ''
+  prix: Merci de nous contacter
+  description: "Tu es un vrai mordu du ballon ? Viens fêter ton anniversaire avec
+    tes copains !\n\nUne activité sportive qui prévoit une alternance entre entraînements
+    et petits matchs. \n\nTon anniversaire sera abordé de manière ludique afin d'allier
+    football et plaisir."
+  infos: ''
+  bouton: ''
+  categorie: []
 - name: Fun & Multisports
   online: true
   nouveau: true
