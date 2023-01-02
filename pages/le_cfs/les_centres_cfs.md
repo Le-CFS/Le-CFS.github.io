@@ -22,7 +22,7 @@ provinces:
   url_stages: ''
 - name: Liege
   banner: "/assets/images/lie-banner.jpg"
-  image_annee: ''
+  image_annee: "/assets/images/lie_annee_graphique.jpg"
   image_stages: "/assets/images/lie-stages-graphique.jpg"
   url_annee: ''
   url_stages: ''
