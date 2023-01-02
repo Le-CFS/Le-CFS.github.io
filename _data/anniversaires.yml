@@ -17,25 +17,6 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-- name: Fun & Multisports
-  online: true
-  nouveau: true
-  anniversaire_une: true
-  age: 6-8 ans
-  img: "/assets/images/activites_parascolaires_minimultisports.jpg"
-  lieu: Auderghem - Laeken
-  href: ''
-  prix: Merci de nous contacter
-  description: |-
-    Votre enfant est fou de sports et aime découvrir de nouvelles activités ? Cet anniversaire est fait pour lui !
-
-    Il pratiquera des sports collectifs qui sera agrémenté par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot.
-
-    Anniversaire sportif et fun assurée !
-  infos: ''
-  bouton: ''
-  categorie:
-  - fun
 - name: Interactif Lü
   online: true
   nouveau: true
@@ -201,13 +182,13 @@ anniversaires:
 - name: Multisports
   age: 6-12 ans
   img: "/assets/images/anniversaires/activites/multisports.png"
-  lieu: Wavre - Rixensart - Ottignies - Walhain - Auderghem
+  lieu: Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
   href: ''
   prix: Merci de nous contacter
-  description: 'Divers jeux collectifs, au choix seront organisés lors de ton anniversaire.
-    Activités : Kin-ball, base-ball, volley, basket, badminton, ping-pong, flagfootball,
-    frisbee golf, etc. Le respect des règles et l’esprit d’équipe seront également
-    mis en place.'
+  description: |-
+    Divers jeux collectifs, au choix seront organisés lors de ton anniversaire. Activités : Kin-ball, base-ball, volley, basket, badminton, ping-pong, flagfootball, frisbee golf, etc. Le respect des règles et l’esprit d’équipe seront également mis en place.
+
+    Anniversaire sportif et fun assurée !
   infos: Réservation souhaitée 2 semaines à l’avance.
   bouton: ''
   categorie:
