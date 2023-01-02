@@ -6,7 +6,7 @@ anniversaires:
   anniversaire_une: true
   age: 6-14 ans
   img: "/assets/images/cfs_anniversaire_futsal.png"
-  lieu: Laeken
+  lieu: Auderghem - Laeken
   href: ''
   prix: Merci de nous contacter
   description: "Tu es un vrai mordu du ballon ? Viens fêter ton anniversaire avec
@@ -23,7 +23,7 @@ anniversaires:
   anniversaire_une: true
   age: 6-8 ans
   img: "/assets/images/activites_parascolaires_minimultisports.jpg"
-  lieu: Laeken
+  lieu: Auderghem - Laeken
   href: ''
   prix: Merci de nous contacter
   description: |-
@@ -137,7 +137,7 @@ anniversaires:
 - name: Cirque
   age: 5 à 12 ans
   img: "/assets/images/anniversaires/activites/cirque.png"
-  lieu: Bierges / Auderghem
+  lieu: Bierges / Auderghem / Laeken
   href: ''
   prix: Merci de nous contacter
   description: 'Nous te proposons une approche de diverses disciplines issues du monde
@@ -281,7 +281,7 @@ anniversaires:
 - name: Ninja Warrior
   age: 7-12 ans
   img: "/assets/images/anniversaires/activites/parcours.png"
-  lieu: Wavre - Rixensart - Ottignies - Walhain
+  lieu: Wavre - Rixensart - Ottignies - Walhain - Laeken
   href: ''
   prix: 450 €
   description: Contactez-nous pour en savoir plus
@@ -340,7 +340,7 @@ anniversaires:
 - name: Magie
   age: 8-12 ans
   img: "/assets/images/anniversaires/activites/magie.png"
-  lieu: Bierges / Wavre / Rixensart / Ottignies
+  lieu: Bierges / Wavre / Rixensart / Ottignies / Laeken
   href: ''
   prix: 350 €
   description: Grâce à un magicien qui a plusieurs tours dans son sac, les enfants
