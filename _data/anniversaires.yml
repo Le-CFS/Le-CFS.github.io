@@ -1,5 +1,23 @@
 ---
 anniversaires:
+- name: Fun & Multisports
+  online: false
+  nouveau: true
+  anniversaire_une: true
+  age: 6-8 ans
+  img: "/assets/images/activites_parascolaires_minimultisports.jpg"
+  lieu: Laeken
+  href: ''
+  prix: Merci de nous contacter
+  description: |-
+    Votre enfant est fou de sports et aime découvrir de nouvelles activités ? Cet anniversaire est fait pour lui !
+
+    Il pratiquera des sports collectifs qui sera agrémenté par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot.
+
+    Anniversaire sportif et fun assurée !
+  infos: ''
+  bouton: ''
+  categorie: []
 - name: Interactif Lü
   online: true
   nouveau: true
