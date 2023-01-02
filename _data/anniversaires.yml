@@ -15,7 +15,8 @@ anniversaires:
     football et plaisir."
   infos: ''
   bouton: ''
-  categorie: []
+  categorie:
+  - fun
 - name: Fun & Multisports
   online: true
   nouveau: true
@@ -33,7 +34,8 @@ anniversaires:
     Anniversaire sportif et fun assurée !
   infos: ''
   bouton: ''
-  categorie: []
+  categorie:
+  - fun
 - name: Interactif Lü
   online: true
   nouveau: true
