@@ -11,7 +11,7 @@ provinces:
 - name: Bruxelles
   banner: "/assets/images/bxl-banner.jpg"
   image_annee: "/assets/images/bxl_annee_graphique.JPG"
-  image_stages: "/assets/images/bxl_stages_graphique.JPG"
+  image_stages: "/assets/images/bxl_stages_graphique-1.JPG"
   url_annee: ''
   url_stages: ''
 - name: Brabant
