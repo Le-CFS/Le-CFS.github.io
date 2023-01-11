@@ -976,17 +976,15 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 7-16 ans
-    description: "<p><em>A Ottignies - Stage en collaboration avec le </em><strong><em>Club
-      Padel Events Academy</em></strong></p><p><em>A Nivelles - Stage en collaboration
-      avec </em><strong><em>Eleven By Bullpadel</em></strong></p><p>Amateur de sports
-      de raquettes ?</p><p>Ce stage propose une découverte au nouveau sport à la mode
-      : Le Padel !</p><p>Le Padel se joue avec des balles quasi similaires à celles
-      du tennis et avec une raquette spéciale, le « Palas ».</p><p>Convivial, ludique
-      et facile à pratiquer, le Padel est un condensé des points forts de tous les
-      autres sports de raquettes.</p><p>Les enfants l’adorent car il est facile à
-      apprendre, permet de jouer en équipe et de développer les qualités de main et
-      d’œil.</p><p>Amusement garanti !</p><p>Les enfants sont répartis sur place en
-      fonction de leur âge et de leur niveau.</p>"
+    description: "<p><em>Stage en collaboration avec </em><strong><em>l'école de padel
+      Padel Events Academy</em></strong></p><p>Amateur de sports de raquettes ?</p><p>Ce
+      stage propose une découverte au nouveau sport à la mode : Le Padel !</p><p>Le
+      Padel se joue avec des balles quasi similaires à celles du tennis et avec une
+      raquette spéciale, le « Palas ».</p><p>Convivial, ludique et facile à pratiquer,
+      le Padel est un condensé des points forts de tous les autres sports de raquettes.</p><p>Les
+      enfants l’adorent car il est facile à apprendre, permet de jouer en équipe et
+      de développer les qualités de main et d’œil.</p><p>Amusement garanti !</p><p>Les
+      enfants sont répartis sur place en fonction de leur âge et de leur niveau.</p>"
     infos:
     - alias: Matériel
       info_line: Le matériel est mis à disposition par notre partenaire.
