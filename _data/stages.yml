@@ -225,6 +225,20 @@ stages:
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par notre partenaire. 
+  - alias: Liège
+    ville: Liège
+    age: 4-6 ans
+    description: "<p>Vous désirez éveiller votre petit bout à un jeu de raquettes
+      ? </p><p>Ce stage est l'idéal pour initier votre enfant au tennis de manière
+      ludique, et avec du matériel adapté pour les plus petits (ballons, ballons de
+      baudruche, balles rouges et balles molles). Les enfants découvrent la raquette
+      en tant que prolongement du bras et apprennent à coordonner la vue avec le mouvement
+      de la raquette.</p><p>Cette découverte du tennis est complétée par des ateliers
+      de psychomotricité (latéralité, équilibre, éveil sensori-moteur, adresse, audace,
+      coopération, rythme, etc.) et de baby multisports.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Une petite représentation est prévue en fin de stage.
 - name: Roller & Fun
   categorie: Activités fun
   img: "/assets/images/roller.png"
@@ -9552,10 +9566,11 @@ stages:
     ville: Liège
     age: 5-12 ans
     description: "<p>Ce stage propose aux filles comme aux garçons, une initiation
-      aux sports et aux jeux collectifs (basket, foot, hand-ball, unihoc, base-ball,...).
-      De plus, les enfants iront quotidiennement à la piscine, dans le but d'améliorer
-      la technique des 4 nages (+/- 1h30 dans l'eau).</p><p>L'enfant doit obligatoirement
-      savoir nager dans le grand bassin pour participer au stage.</p>"
+      aux fun &amp; multisports (Kinball, l’ultimate frisbee, tchoukball, speedminton,
+      flag foot, baseball, poull-ball, etc.). De plus, les enfants iront quotidiennement
+      à la piscine, dans le but d'améliorer la technique des 4 nages (+/- 1h30 dans
+      l'eau).</p><p>L'enfant doit obligatoirement savoir nager dans le grand bassin
+      pour participer au stage.</p>"
     infos:
     - alias: Tenue de bain
       info_line: Dès le premier jour, prévoir un bonnet, maillot et essuie de bain.
