@@ -8407,14 +8407,15 @@ stages:
   - alias: Liège
     ville: Liège
     age: 6-12 ans
-    description: "<p>Envie de devenir une vraie danseuse ?</p><p>Durant la semaine
-      de stage, les enfants apprendront les bases de la danse modern-jazz (musique,
-      tempos, mouvements, danse en groupe).</p><p>Ils auront l'occasion de réaliser
-      des chorégraphies sur différentes musiques rythmées et actuelles. Ils apprendront
-      à coordonner leurs mouvements et à suivre le tempo des musiques.</p><p>La semaine
-      est organisée par 3 périodes de danse par jour et 3 périodes de fun &amp; multisports
-      (Kinball, l’ultimate frisbee,&nbsp;tchoukball, speedminton, flag foot, baseball,
-      poull-ball, etc.).</p>"
+    description: "<p><strong>Pour les enfants de 6 à 12 ans.</strong></p><p>Envie
+      de devenir un(e) vrai(e) danseur(se) ?</p><p>Durant la semaine de stage, les
+      enfants apprennent les bases de la danse modern-jazz (musique, tempos, mouvements,
+      danse en groupe).</p><p>Ils ont l'occasion de réaliser des chorégraphies sur
+      différentes musiques rythmées et actuelles. Ils apprennent à coordonner leurs
+      mouvements et à suivre le tempo des musiques.</p><p>La semaine est organisée
+      en 3 périodes de danse par jour et 3 périodes de fun &amp; multisports (Kinball,
+      l’ultimate frisbee, tchoukball, speedminton, flag foot, baseball, poull-ball,
+      etc.).</p>"
     infos:
     - alias: Spectacle
       info_line: Une petite présentation des chorégraphies apprises est prévue en
@@ -8515,8 +8516,9 @@ stages:
       ce stage, les enfants découvrent les plaisirs de la gymnastique par un travail
       aux 4 agrès : poutre, barres asymétriques, sol et saut.</p><p>Ils développent
       les qualités de base de cette discipline (force, souplesse, équilibre et audace)
-      à raison de 3 séances par jour.</p><p>La dernière séance de la journée est consacrée
-      à la découverte d'autres disciplines sportives.</p>"
+      à raison de 3 séances par jour.</p><p>La semaine est organisée en 3 périodes
+      de gymnastique par jour et 3 périodes de fun &amp; multisports (Kinball, l’ultimate
+      frisbee, tchoukball, speedminton, flag foot, baseball, poull-ball, etc.).</p>"
     infos:
     - alias: Tenue
       info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
