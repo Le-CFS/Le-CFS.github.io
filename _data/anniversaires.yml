@@ -118,7 +118,7 @@ anniversaires:
 - name: Cirque
   age: 5 à 12 ans
   img: "/assets/images/anniversaires/activites/cirque.png"
-  lieu: Bierges / Auderghem / Laeken
+  lieu: Bierges / Laeken
   href: ''
   prix: Merci de nous contacter
   description: 'Nous te proposons une approche de diverses disciplines issues du monde
@@ -321,7 +321,7 @@ anniversaires:
 - name: Magie
   age: 8-12 ans
   img: "/assets/images/anniversaires/activites/magie.png"
-  lieu: Bierges / Wavre / Rixensart / Ottignies / Laeken
+  lieu: Bierges / Wavre / Rixensart / Ottignies / Auderghem / Laeken
   href: ''
   prix: 350 €
   description: Grâce à un magicien qui a plusieurs tours dans son sac, les enfants
