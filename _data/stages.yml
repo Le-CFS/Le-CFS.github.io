@@ -6511,8 +6511,8 @@ stages:
       et d'appliquer différentes techniques artistiques telles que peinture, travail
       de la terre, collages, papier mâché, dessin, etc., développant ainsi leur créativité.</p><p>La
       semaine est organisée en 3 périodes de techniques artistiques par jour et 3
-      périodes de multisports (basketball, mini-foot, volley, handball, unihoc, baseball,
-      etc.).</p>"
+      périodes de fun &amp; multisports (Kinball, l’ultimate frisbee,&nbsp;tchoukball,
+      speedminton, flag foot, baseball, poull-ball, etc.).</p>"
     infos:
     - alias: Présentation
       info_line: Une petite présentation des créations est prévue en fin de stage
@@ -6537,8 +6537,8 @@ stages:
       va permettre à votre enfant de développer l’équilibre et la motricité.</p><p>Ce
       stage est à la fois ludique et sportif. Les enfants découvriront ce sport avec
       beaucoup d'amusement à travers différents obstacles.</p><p>Le reste de la journée
-      est consacré à des activités de multisports (3 périodes de roller par jour et
-      3 périodes de multisports).</p>"
+      est consacré à des activités de fun &amp; multisports (Kinball, l’ultimate frisbee,&nbsp;tchoukball,
+      speedminton, flag foot, baseball, poull-ball, etc.).</p>"
     infos:
     - alias: Equipement
       info_line: Les enfants doivent apporter leur matériel (rollers, casque, coudières,
@@ -9409,6 +9409,16 @@ stages:
       par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball,
       le speedminton ou encore le flag foot.</p><p>Semaine sportive et Fun assurée
       !</p>"
+    infos: []
+  - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Votre enfant est fou de sport et aime découvrir de nouvelles
+      activités ? Le stage Fun &amp; Multisports est fait pour lui ! </p><p>Durant
+      la semaine, il pratique différents sports collectifs.</p><p>Le stage est agrémenté
+      par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball,
+      le speedminton, le flag foot, le baseball, le poull-ball, etc.</p><p>Semaine
+      sportive et Fun assurée !</p>"
     infos: []
   activation_onglets: true
 - name: Fun Multisports & Natation
