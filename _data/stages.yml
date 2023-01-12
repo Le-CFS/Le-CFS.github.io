@@ -42,12 +42,12 @@ stages:
     ville: Liège
     age: 6-12 ans
     description: "<p>Ce stage allie la découverte de l'Anglais et la pratique d'activités
-      sportives. </p><p>Chaque journée est divisée en 2 périodes. La première propose
+      sportives.</p><p>Chaque journée est divisée en 2 périodes. La première propose
       des animations en Anglais basées sur la découverte et l'amusement. Le CFS te
       fait découvrir la langue étrangère de façon ludique.</p><p>Le stage est agrémenté
-      par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball,
-      le speedminton ou encore le flag foot.</p><p>Semaine sportive et Fun assurée
-      !</p>"
+      par des activités Fun telles que le Kinball, l’ultimate frisbee,&nbsp;le tchoukball,
+      le speedminton, le flag foot, le baseball, le poull-ball, etc.</p><p>Semaine
+      sportive et Fun assurée !</p>"
     infos: []
 - name: Astrobiology Camp
   categorie: Internat
@@ -5436,8 +5436,8 @@ stages:
       rouler à deux roues !</p><p>Une partie de la journée est consacrée à l'apprentissage
       du vélo. Les enfants apprendront à rouler sur deux roues, à réaliser des petits
       parcours d'adresse et de slalom, etc.</p><p>Le reste de la journée est consacrée
-      à des activités de multisports (basketball, mini-foot, volley, handball, unihoc,
-      baseball, etc.).</p>"
+      à des activités de fun &amp; multisports (Kinball, l’ultimate frisbee,&nbsp;tchoukball,
+      speedminton, flag foot, baseball, poull-ball, etc.).</p>"
     infos:
     - alias: Représentation
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
@@ -10587,8 +10587,8 @@ stages:
       à deux roues (obligatoire).</p><p>Une partie de la journée est consacrée au
       perfectionnement du maniement du vélo sous forme de petits parcours d'obstacles,
       initiation au code de la route, etc.</p><p>Le reste de la journée est consacré
-      à des activités de multisports (basketball, mini-foot, volley, handball, unihoc,
-      baseball, etc.).</p>"
+      à des activités de fun &amp; multisports (Kinball, l’ultimate frisbee,&nbsp;tchoukball,
+      speedminton, flag foot, baseball, poull-ball, etc.).</p>"
     infos:
     - alias: Représentation
       info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
