@@ -339,7 +339,7 @@ anniversaires:
 - name: Piscine Party
   age: 6-12 ans
   img: "/assets/images/anniversaires/activites/piscineparty.png"
-  lieu: Bierges
+  lieu: Bierges / Liernu NEW
   href: ''
   prix: Merci de nous contacter
   description: Nous organisons des jeux, des défis et des jeux libres dans la piscine.
@@ -349,5 +349,5 @@ anniversaires:
   categorie:
   - fun
   online: true
-  nouveau: false
+  nouveau: true
   anniversaire_une: false
