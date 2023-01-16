@@ -7207,6 +7207,28 @@ stages:
     - alias: Bricolage
       info_line: Les enfants rentrent chaque semaine avec un bricolage et une création
         culinaire réalisés par leurs soins.
+  - alias: Liège
+    ville: Liège
+    age: 3-5 ans
+    description: "<p>Stage idéal pour votre petit bout !</p><p>Vous cherchez un stage
+      ludique et varié pour votre enfant ?</p><p>Chaque jour, les enfants découvrent
+      une activité différente : jeux de coopération, parcours d'adresse, d'audace,
+      exercice de latéralité, éveil artistique, découverte de la nature environnante,
+      du rythme musical et découverte culinaire.</p><p>Les stages pour les plus petits
+      tendent au développement harmonieux des enfants au travers d’activités adaptées
+      à leur âge. L’enfant développe de nouvelles aptitudes tout en jouant : il apprend
+      les règles du jeu et de groupe, développe sa sociabilité et explore les différentes
+      facettes de la motricité.</p><p>Le rythme de l’enfant est respecté et une sieste
+      est prévue pour les enfants qui en ont besoin. Il y a maximum 12 enfants par
+      groupe (8 enfants pour la Pré-Psychomotricité).</p><p>Pour chaque stage, il
+      y a une base commune de psychomotricité (jeux de coopération, parcours d’adresse,
+      d’audace, exercices de latéralité) et bien sûr un apprentissage spécifique en
+      fonction du thème proposé.</p><p>Il est demandé aux parents de prévoir un sac
+      avec une tenue de rechange pour leur enfant. Pour les stages commençant à 3
+      ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut inscrire
+      votre petit bout en pré-psycho.</p><p>Les enfants rentrent chaque semaine avec
+      un bricolage et une création culinaire réalisés par leurs soins.</p>"
+    infos: []
   activation_onglets: true
 - name: Psycho Grimpette
   img: "/assets/images/stages/lespetitsbouts/psychogrimpette.png"
