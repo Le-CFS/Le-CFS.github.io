@@ -4,7 +4,7 @@ anniversaires:
   online: true
   nouveau: true
   anniversaire_une: true
-  age: 6-14 ans
+  age: 6-12 ans
   img: "/assets/images/cfs_anniversaire_futsal.png"
   lieu: Auderghem - Laeken
   href: ''
@@ -226,9 +226,9 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Arrow Game
-  age: 7-12 ans
+  age: 7-14 ans
   img: "/assets/images/anniversaires/activites/arrow.png"
-  lieu: Wavre - Rixensart - Ottignies - Walhain - Auderghem
+  lieu: Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
   href: ''
   prix: A partir de 195 €
   description: Contactez-nous pour en savoir plus.
@@ -259,10 +259,10 @@ anniversaires:
   online: true
   nouveau: false
   anniversaire_une: false
-- name: Ninja Warrior
-  age: 7-12 ans
+- name: Ninja Warriors
+  age: 7-14 ans
   img: "/assets/images/anniversaires/activites/parcours.png"
-  lieu: Wavre - Rixensart - Ottignies - Walhain - Laeken
+  lieu: Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
   href: ''
   prix: 450 €
   description: Contactez-nous pour en savoir plus
@@ -319,7 +319,7 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Magie
-  age: 8-12 ans
+  age: 7-14 ans
   img: "/assets/images/anniversaires/activites/magie.png"
   lieu: Bierges / Wavre / Rixensart / Ottignies / Auderghem / Laeken
   href: ''
