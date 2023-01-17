@@ -48,10 +48,10 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-- name: Psycho Boom
-  age: 3-5 ans
+- name: Baby Boum
+  age: 4-6 ans
   img: "/assets/images/anniversaires/activites/psychoboom.png"
-  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain
+  lieu: 'Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken '
   href: ''
   prix: 195 €
   description: 'Pour ton anniversaire, nous avons préparé un mixte de différentes
@@ -81,7 +81,7 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Chasse au trésor
-  age: 5 à 12 ans
+  age: 5 à 10 ans
   img: "/assets/images/anniversaires/activites/chasseautresor.png"
   lieu: Bierges / Wavre / Ottignies / Rixensart / Auderghem / Laeken
   href: ''
@@ -133,9 +133,9 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Danse
-  age: 4-12 ans
+  age: 6-12 ans
   img: "/assets/images/anniversaires/activites/danse.png"
-  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem
+  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
   href: ''
   prix: Merci de nous contacter
   description: Viens te déhancher sur le rythme de la musique! Nous allons apprendre
@@ -179,7 +179,7 @@ anniversaires:
   online: true
   nouveau: false
   anniversaire_une: false
-- name: Multisports
+- name: Fun & Multisports
   age: 6-12 ans
   img: "/assets/images/anniversaires/activites/multisports.png"
   lieu: Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
