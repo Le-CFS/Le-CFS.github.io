@@ -96,6 +96,8 @@ stages_enfants:
       url: "/stages/protocole/bruxelles/woluwe/"
     - title: Auderghem
       url: "/stages/protocole/bruxelles/auderghem/"
+    - title: Berchem-Sainte-Agathe
+      url: "/stages/protocole/bruxelles/berchem/"
   - title: Silos dans le Brabant
     url: "/stages/protocole/brabant/"
     online_mobile: false
@@ -110,6 +112,8 @@ stages_enfants:
       url: "/stages/protocole/brabant/bierges/"
     - title: Walhain
       url: "/stages/protocole/brabant/walhain/"
+    - title: Waterloo
+      url: "/stages/protocole/brabant/waterloo/"
   - title: Lieux de stage
     url: "/stages/lieux_de_stage/"
   - title: Garderie
