@@ -62,7 +62,8 @@ fields:
   - ottignies
   - liernu
   label: Lieux de cours
-  description: Retirer les lieux où le cours n'est pas donné.
+  description: Ajoutez les lieux où le cours est pas donné.<br>(Bierges, Liernu et/ou
+    Ottignies)
   showOnly:
     field: type_page
     value: adultes
