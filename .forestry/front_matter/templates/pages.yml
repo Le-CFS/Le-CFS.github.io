@@ -56,21 +56,13 @@ fields:
     field: type_page
     value: ecoles
 - name: lieux
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - Ottignies
-    - Liernu
-    - Bierges
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+  type: tag_list
+  default:
+  - bierges
+  - ottignies
+  - liernu
   label: Lieux de cours
-  description: Choisissez les lieux du cours
+  description: Retirer les lieux où le cours n'est pas donné.
   showOnly:
     field: type_page
     value: adultes
