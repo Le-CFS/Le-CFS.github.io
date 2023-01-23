@@ -1,0 +1,14 @@
+<!-- 
+Ajoute une petite phrase à la fin de chaque description de stage destinée à augmenter le référencement.
+-->
+{% if page.lieux.size > 0 %}
+<p>
+Ce cours a lieu
+{% for lieu in page.lieux %}
+{% assign prefixe = " à " %}
+{% assign temp_lieu = lieu | downcase %}
+{% if forloop.last %} et {{prefixe}}{{ temp_lieu | capitalize }}{% else %}{{prefixe}}{{ temp_lieu | capitalize }}{% endif %}{% endfor %}.
+</p>
+{% else %}
+<p>Ce cours n'a lieu nulle part pour le moment. Contactez le secrétariat pour en savoir plus.</p>
+{% endif %}
