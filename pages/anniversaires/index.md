@@ -6,8 +6,8 @@ image: "/assets/images/banner/anniversaires/anniversaires.png"
 permalink: "/anniversaires/"
 menu: true
 description: Viens fêter ton anniversaire à Bierges, Ottignies, Wavre, Rixensart,
-  Louvain-la-Neuve, Walhain, Orp, Auderghem ou Laeken pour vivre un moment inoubliable
-  avec tes amis et les moniteurs du CFS !
+  Louvain-la-Neuve, Walhain, Orp, Liernu, Woluwé-St-Pierre, Auderghem ou Laeken pour
+  vivre un moment inoubliable avec tes amis et les moniteurs du CFS !
 js: portfolio.js
 
 ---
