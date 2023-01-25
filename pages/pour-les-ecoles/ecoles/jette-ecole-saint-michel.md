@@ -12,6 +12,7 @@ activite_garderie: false
 activite_pedagogique: true
 bulle: ''
 activite_stage: true
+lieux: []
 
 ---
 #### **Un cadre convivial pour vos enfants !**
@@ -32,3 +33,14 @@ lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categori
 **_Nous organisons également durant les vacances scolaires des stages sportifs, fun & créatifs dans ton école !_**
 
 {% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles' couleur="info" autre_page=true texte="Je m'inscris à un stage" %}
+
+##### **Journées Pédagogiques**
+
+Le CFS organise des journées sportives au sein de l'école pour les élèves lors des journées pédagogiques.
+
+Le CFS se charge également de la garderie.
+
+{% include utils/button.html lien=['https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=8&Province=Bruxelles'](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=8&Province=Bruxelles "Saint-Michel") couleur="info"  
+autre_page=true  
+texte="Je m'inscris à une journée pédagogique"  
+%}
