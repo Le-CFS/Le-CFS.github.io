@@ -9460,38 +9460,36 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 6-8 ans
+    age: 6-12 ans
     description: "<p>Votre enfant est fou de sport et aime découvrir de nouvelles
       activités ? Le stage Fun Multisports &amp; Natation est fait pour lui ! </p><p>Les
       enfants ont l'occasion de pratiquer une heure quotidienne de jeux aquatiques,
-      le tout dans une ambiance décontractée.</p><p>La semaine de stage est également
-      agrémentée par des sports collectifs et des activités Fun telles que le Kinball,
-      l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot !</p><p>Semaine
-      sportive et Fun assurée !</p>"
+      le tout dans une ambiance décontractée. Pour les plus initiés, nos moniteurs
+      qualifiés et brevetés approfondiront les 4 nages avec un objectif en fin de
+      semaine que votre enfant puisse obtenir son brevet de 25m !</p><p>La semaine
+      de stage est également agrémentée par des sports collectifs et des activités
+      Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton
+      ou encore le flag foot !</p><p>Semaine sportive et Fun assurée !</p>"
     infos:
     - alias: Moniteur
       info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
-    - alias: Savoir nager
-      info_line: Votre enfant doit savoir nager 25m et être à l'aise dans l'eau pour
-        participer à ce stage. 
     - alias: Equipement
       info_line: Prévoir maillot, bonnet et essuie dès le 1er jour de stage.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-8 ans
+    age: 6-12 ans
     description: "<p>Votre enfant est fou de sport et aime découvrir de nouvelles
       activités ? Le stage Fun Multisports &amp; Natation est fait pour lui ! </p><p>Les
       enfants ont l'occasion de pratiquer une heure quotidienne de jeux aquatiques,
-      le tout dans une ambiance décontractée.</p><p>La semaine de stage est également
-      agrémentée par des sports collectifs et des activités Fun telles que le Kinball,
-      l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot !</p><p>Semaine
-      sportive et Fun assurée !</p>"
+      le tout dans une ambiance décontractée. Pour les plus initiés, nos moniteurs
+      qualifiés et brevetés approfondiront les 4 nages avec un objectif en fin de
+      semaine que votre enfant puisse obtenir son brevet de 25m !</p><p>La semaine
+      de stage est également agrémentée par des sports collectifs et des activités
+      Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton
+      ou encore le flag foot !</p><p>Semaine sportive et Fun assurée !</p>"
     infos:
     - alias: Moniteur
       info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
-    - alias: Savoir nager
-      info_line: Votre enfant doit savoir nager 25m et être à l'aise dans l'eau pour
-        participer à ce stage. 
     - alias: Equipement
       info_line: Prévoir maillot, bonnet et essuie dès le 1er jour de stage.
   activation_onglets: true
