@@ -1,10 +1,10 @@
 ---
 layout: post
 menu: false
-title: Payroll & HR Officer Junior
+title: Payroll & HR Officer
 online: true
 banner: "/assets/images/payroll-hr-officer-junior-slide.jpg"
-description: Le CFS recrute ! Recherche Payroll & HR Officer Junior
+description: Le CFS recrute ! Recherche Payroll & HR Officer
 image: "/assets/images/payroll-hr-officer-junior-banner.jpg"
 
 ---
