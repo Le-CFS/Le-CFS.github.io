@@ -40,7 +40,7 @@ Le CFS organise des journées sportives au sein de l'école pour les élèves lo
 
 Le CFS se charge également de la garderie.
 
-{% include utils/button.html lien=['https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=8&Province=Bruxelles'](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=8&Province=Bruxelles "Saint-Michel") couleur="info"  
+{% include utils/button.html lien="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=8&Province=Bruxelles" couleur="info"  
 autre_page=true  
 texte="Je m'inscris à une journée pédagogique"  
 %}
