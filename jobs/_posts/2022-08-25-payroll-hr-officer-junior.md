@@ -3,9 +3,9 @@ layout: post
 menu: false
 title: Payroll & HR Officer
 online: true
-banner: "/assets/images/payroll-hr-officer-junior-slide.jpg"
+banner: "/assets/images/rh_site.jpg"
 description: Le CFS recrute ! Recherche Payroll & HR Officer
-image: "/assets/images/payroll-hr-officer-junior-banner.jpg"
+image: "/assets/images/rh_facebook.jpg"
 
 ---
 #### **Le CFS Centre de Formation Sportive est à la recherche d’un(e) Employé(e) en Payroll et Ressources Humaines pour son bureau de Bierges**
