@@ -10516,7 +10516,7 @@ stages:
   stage_une: false
   location: []
   activation_onglets: true
-- name: Théâtre
+- name: Théâtre & Impro
   img: "/assets/images/stages/activitesartistiquesetloisirs/theatre.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
