@@ -478,7 +478,7 @@ stages:
     description: "<p>Votre enfant a entre <strong>7 et 9 ans </strong>? Il souhaite
       essayer un stage varié et fun ? Ce stage est fait pour lui ! Il vous propose
       un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>Programme
-      : </strong>New Games, Arrow Game, Laser Game, Fun Challenge, E-Fun</p><ul><li><p><strong>New
+      : </strong>New Games, Arrow Game, Laser Game, Fun Challenge, E-Fun, Quad, E-Moto</p><ul><li><p><strong>New
       games :</strong> différentes activités fun sont proposées sur la journée telles
       que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p><strong>Arrow
       game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés
@@ -487,8 +487,9 @@ stages:
       un bout en mousse et des masques de paintball).</p></li><li><p><strong>Laser
       Game</strong> : organisé dans le centre.</p></li><li><p><strong>Fun Challenge</strong><em>
       (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em> :
-      activités crazy light, darts, sumo, twister géant,…</p></li><li><p><strong>E-Fun
-      : </strong>segway et trottinette électrique, E-moto, Quad.</p></li></ul>"
+      activités crazy light, darts, sumo, twister géant,…</p></li><li><p><strong>Quad,
+      moto électrique, segway et trottinette électrique</strong> en partenariat avec
+      <strong>ROC Event.</strong></p></li></ul>"
     infos:
     - alias: Tenue
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
@@ -499,7 +500,7 @@ stages:
     description: "<p>Votre enfant a entre <strong>7 et 9 ans </strong>? Il souhaite
       essayer un stage varié et fun ? Ce stage est fait pour lui ! Il vous propose
       un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>Programme
-      : </strong>New Games, Arrow Game, Laser Game, Fun Challenge, E-Fun</p><ul><li><p><strong>New
+      : </strong>New Games, Arrow Game, Laser Game, Fun Challenge, E-Fun, Quad, E-Moto</p><ul><li><p><strong>New
       games :</strong> différentes activités fun sont proposées sur la journée telles
       que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p><strong>Arrow
       game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés
@@ -508,8 +509,9 @@ stages:
       un bout en mousse et des masques de paintball).</p></li><li><p><strong>Excursion
       à Space Fun Game d'Etterbeek</strong> : 3 parties de Laser Game indoor.</p></li><li><p><strong>Fun
       Challenge</strong><em> (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>
-      : activités crazy light, darts, sumo, twister géant,…</p></li><li><p><strong>E-Fun
-      : </strong>segway et trottinette électrique, E-moto, Quad.</p></li></ul>"
+      : activités crazy light, darts, sumo, twister géant,…</p></li><li><p><strong>Quad,
+      moto électrique, segway et trottinette électrique</strong> en partenariat avec
+      <strong>ROC Event.</strong></p></li></ul>"
     infos:
     - alias: Tenue
       info_line: " Prévoir une paire de bottines ainsi que des vêtements adaptés aux
