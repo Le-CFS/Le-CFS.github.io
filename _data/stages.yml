@@ -7046,7 +7046,7 @@ stages:
 - name: E Pilote Academy
   categorie: Activités fun
   img: "/assets/images/stages-enfants-fun-pilote-academy-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -9694,18 +9694,16 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-16 ans
+    age: 8-14 ans
     description: '<p>Tu es un futur pilote de F1 ? Viens t''exercer avec ce stage
       !</p><p class="MsoNormal">Il te permettra de découvrir les sensations d’un vrai
       pilote : concentration, adrénaline et amusement !</p><p class="MsoNormal"><strong>Au
-      programme</strong> : New Games, Segway, Trottinettes électriques, crazy Kart,
-      Overboard, Karting, simulateur de course playstation, Quad, Moto électrique,
-      Laser game, Fun challenge !</p><ul><li><p><strong>New games :</strong> différentes
+      programme</strong> : New Games, E-Fun, Karting, Quad, Moto électrique, Laser
+      game, Fun Challenge !</p><ul><li><p><strong>New games :</strong> différentes
       activités fun sont proposées sur la journée telles que le frisbee golf, snag
       golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p>2 demi-journées
-      <strong>E-Fun </strong>(segway et trottinette électrique, overboard, crazy kart)
-      ,</p></li><li><p>2 sessions de <strong>karting </strong>+<strong> simulateur
-      de course playstation </strong>au<strong> WIK Wavre</strong>,</p></li><li><p>1
+      <strong>E-FUN </strong>(segway et trottinette électrique, overboard, crazy kart),</p></li><li><p>2
+      sessions de <strong>karting </strong>au<strong> Karting Machelen.</strong></p></li><li><p>1
       demi-journée de <strong>Fun Challenge</strong> <em>(En collaboration avec </em><strong><em>Jag
       Events</em></strong><em>)</em> : activités crazy light, darts, sumo, twister
       géant, lancer de hâches…</p></li><li><p><strong>Journée Quad, moto électrique
