@@ -27,7 +27,7 @@ Viens te défouler dans une ambiance familiale ! 😃
 Psycho Découverte / Baby Multisports / Danse / Aventure / Football / Théâtre /...
 
 {% include utils/button.html  
-lien='[https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles")' couleur="info" autre_page=true texte="Je m'inscris à un stage" %}
+lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles' couleur="info" autre_page=true texte="Je m'inscris à un stage" %}
 
 💡**A savoir :  
 _Garderie :_**  
