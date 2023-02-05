@@ -1,11 +1,21 @@
 ---
 layout: page
 title: Pour les écoles
-banner: "/assets/images/slider-sart-messire-guillaume.jpg"
-image: "/assets/images/banner-sart-messire-guillaume.jpg"
+banner: "/assets/images/cfs_ecoles_activites_950px400px.jpg"
+image: "/assets/images/cfs_ecoles_activites_950px400px.jpg"
 permalink: "/pour-les-ecoles/"
 menu: true
 description: Pour les écoles
+lieux:
+- bierges
+- ottignies
+- liernu
+type_page: ''
+activite_garderie: false
+activite_parascolaire: false
+activite_pedagogique: false
+activite_stage: false
+bulle: ''
 
 ---
 #### **Un cadre convivial pour vos enfants !**
