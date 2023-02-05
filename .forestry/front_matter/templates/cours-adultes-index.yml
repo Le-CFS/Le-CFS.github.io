@@ -46,4 +46,7 @@ fields:
   template: seo
   label: SEO
 pages:
+- pages/cours_adultes/bierges.html
 - pages/cours_adultes/index.html
+- pages/cours_adultes/liernu.html
+- pages/cours_adultes/ottignies.html
