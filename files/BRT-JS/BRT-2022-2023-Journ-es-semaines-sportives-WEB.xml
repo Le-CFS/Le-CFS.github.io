@@ -64,4 +64,4 @@
             <element type="button" id="bttnMore" icon_width="30" icon_height="30" visible="false"/>
         </toolbar>
     </mobile>
-<outline/><labels><node pageNumber="1" title="7"/><node pageNumber="2" title="8"/></labels></FlowPaper_Zine_UIConfiguration>
+<outline/><labels/></FlowPaper_Zine_UIConfiguration>
