@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: 'Moniteur(trice) sportif(ve) : cours adultes et natation Brabant Wallon'
-online: true
+online: false
 banner: "/assets/images/job_cours_adultes.jpg"
 description: Le CFS recrute ! Moniteurs(trices) sportif(ve) Brabant Wallon
 image: "/assets/images/job_cours_adultes.jpg"
