@@ -114,6 +114,12 @@ stages_enfants:
       url: "/stages/protocole/brabant/walhain/"
     - title: Waterloo
       url: "/stages/protocole/brabant/waterloo/"
+    - title: La Hulpe
+      url: "/stages/protocole/brabant/lahulpe/"
+    - title: Orp
+      url: "/stages/protocole/brabant/orpjauche/"
+    - title: Perwez
+      url: "/stages/protocole/brabant/perwez/"
   - title: Lieux de stage
     url: "/stages/lieux_de_stage/"
   - title: Garderie

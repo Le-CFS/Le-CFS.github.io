@@ -10,6 +10,8 @@ description: Pour les écoles
 ---
 #### **Un cadre convivial pour vos enfants !**
 
+Voici tous les services proposés par le CFS dans les écoles :
+
 <table class="table table-striped mt-4 mb-4">
     <thead>
         <tr>
@@ -21,15 +23,15 @@ description: Pour les écoles
     </thead>
     <tbody>
         <tr>
-            <td><center>{% if page.activite_parascolaire %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
-            <td><center>{% if page.activite_garderie %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
-            <td><center>{% if page.activite_pedagogique %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
-            <td><center>{% if page.activite_stage %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+            <td><center><i class="fa fa-check-circle-o text-success fa-2x"></i></center></td>
+            <td><center><i class="fa fa-check-circle-o text-success fa-2x"></i></center></td>
+            <td><center><i class="fa fa-check-circle-o text-success fa-2x"></i></center></td>
+            <td><center><i class="fa fa-check-circle-o text-success fa-2x"></i></center></td>
         </tr>
     </tbody>
 </table>
 
-## Nos écoles partenaires
+### Nos écoles partenaires
 
 <div class="container">
 	<div class="team-members-tow mtb-50">
