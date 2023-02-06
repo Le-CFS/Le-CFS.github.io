@@ -14,7 +14,7 @@ Le CFS Créé en **1981**, le CFS propose des stages **sportifs** et **culturels
 
 D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et des **évènements sportifs** pour les **écoles**.
 
-#### 👉 Le CFS Centre de Formation Sportive est à la recherche d’un(e) **Moniteur(-trice) Extrascolaire à l'année**
+#### 👉 Le CFS Centre de Formation Sportive est à la recherche de **Moniteurs(-trices) Extrascolaire à l'année**
 
 ###### **FONCTION**
 
