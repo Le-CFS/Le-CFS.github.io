@@ -1,6 +1,6 @@
 ---
 layout: post
-online: true
+online: false
 title: Moniteur(-trice) de Gymnastique
 banner: "/assets/images/recrutement_gym.jpg"
 menu: false
