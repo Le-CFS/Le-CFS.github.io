@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Accueillant(e) à Waterloo
-online: true
+online: false
 banner: "/assets/images/job_accueillant-e_waterloo.jpg"
 description: Le CFS recrute ! Accueillant(e) à Waterloo
 image: "/assets/images/job_accueillant-e_waterloo.jpg"
