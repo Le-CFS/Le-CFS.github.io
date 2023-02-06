@@ -4,11 +4,11 @@ menu: false
 title: Moniteurs(trices) Extrascolaire Brabant Wallon
 online: false
 banner: ''
-description: ''
+description: Le CFS recrute ! Recherche animateurs(trices) pour ses activités extrascolaires
 image: ''
 
 ---
-Rejoins-nous !
+### Rejoins-nous !
 
 Le CFS Créé en **1981**, le CFS propose des stages **sportifs** et **culturels** pour les enfants et les jeunes de **2,5 ans à 16 ans.** Fort de son expérience, le CFS a développé une large palette d’activités qu’il propose durant l’année scolaire et les vacances sur les régions du **Brabant Wallon**, de **Bruxelles** et de **Liège**.
 
@@ -18,7 +18,7 @@ D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et
 
 ###### **FONCTION**
 
-Vous êtes animateur(trice) extrascolaire dans un centre CFS du **Brabant Wallon** le mercredi après-midi principalement et d’autres jours de la semaine.
+Vous êtes animateur(trice) extrascolaire dans un centre CFS du **Brabant Wallon** le mercredi après-midi principalement et d’autres jours de la semaine (activités sportives, psychomotricité, artistes, fun, etc.).
 
 ###### **TÂCHES**
 
