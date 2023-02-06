@@ -2,10 +2,10 @@
 layout: post
 menu: false
 title: Moniteurs(trices) Extrascolaire Bruxelles
-online: false
-banner: ''
+online: true
+banner: "/assets/images/moniteur-bruxelles.png"
 description: Le CFS recrute ! Recherche animateurs(trices) pour ses activités extrascolaires
-image: ''
+image: "/assets/images/moniteur-bruxelles.png"
 
 ---
 ### Rejoins-nous !
@@ -18,7 +18,7 @@ D’autre part, le CFS organise des **cours collectifs** pour les **adultes** et
 
 ###### **FONCTION**
 
-Vous êtes animateur(trice) extrascolaire dans un centre CFS de **Bruxelles** le mercredi après-midi principalement et d’autres jours de la semaine (activités sportives, psychomotricité, artistes, fun, etc.).
+Vous êtes animateur(trice) extrascolaire dans un centre CFS de **Bruxelles** le mercredi après-midi principalement et d’autres jours de la semaine (activités sportives, psychomotricité, artiste, fun, etc.).
 
 ###### **TÂCHES**
 
