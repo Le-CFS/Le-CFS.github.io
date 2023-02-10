@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Payroll & HR Officer
-online: true
+online: false
 banner: "/assets/images/rh_site.jpg"
 description: Le CFS recrute ! Recherche Payroll & HR Officer
 image: "/assets/images/rh_facebook.jpg"
