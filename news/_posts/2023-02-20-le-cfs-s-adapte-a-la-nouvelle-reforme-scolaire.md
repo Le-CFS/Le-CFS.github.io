@@ -5,12 +5,12 @@ tags:
 - Stages
 - Ndls
 title: "Le CFS s'adapte à la nouvelle réforme scolaire\U0001F44D\U0001F600"
-banner: ''
+banner: "/assets/images/lecfsadapte.jpg"
 infos:
   date: 
   teaser: ''
-description: ''
-image: ''
+description: "Le CFS s'adapte à la nouvelle réforme scolaire\U0001F44D\U0001F600"
+image: "/assets/images/lecfsadapte-1.jpg"
 
 ---
 ### On s'adapte pour vos enfants 😃
