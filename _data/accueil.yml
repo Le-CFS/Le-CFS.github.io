@@ -14,7 +14,7 @@ inscription:
 slider:
 - titre: Le CFS s'adapte !
   src: "/assets/images/lecfsadapte.jpg"
-  href: ''
+  href: https://www.lecfs.be/news/2023/02/20/le-cfs-s-adapte-a-la-nouvelle-reforme-scolaire
 - titre: Stages 2023 !
   src: "/assets/images/carnaval_paques_ete.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4
