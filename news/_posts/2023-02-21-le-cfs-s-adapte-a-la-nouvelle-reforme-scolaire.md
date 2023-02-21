@@ -3,7 +3,8 @@ layout: post
 menu: cfs
 tags:
 - Stages
-- Ndls
+- réforme scolaire
+- stages néerlandophones
 title: "Le CFS s'adapte à la nouvelle réforme scolaire\U0001F44D\U0001F600"
 banner: "/assets/images/lecfsadapte.jpg"
 infos:
@@ -30,9 +31,9 @@ Pour les écoles Néerlandophones :
 _• Vacances de Printemps_ 🌸:  
 _du **03/04** au **07/04** et du **11/04** au **14/04**_  
 _• Vacances d'Eté_ ☀️ _:_  
-_du **03/07** au **07/07** et du **28/08** au **01/09**_
+A partir _du **03/07** et jusqu'au **01/09**_
 
-Pour les écoles Francophones et Néerlandophones :  
+Pour les écoles Francophones :  
 📍[_Tous nos centres_](https://www.lecfs.be/stages/lieux_de_stage/ "Nos centres CFS")  
 • Vacances de Printemps 🌸:  
 _du **02/05** au **05/05** et du **08/05** au **12/05**  
@@ -40,7 +41,7 @@ _du **02/05** au **05/05** et du **08/05** au **12/05**
 _A partir du **10/07** et jusqu'au **25/08**_
 
 {% include utils/button.html  
-lien='[https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4 "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4")' couleur="info" autre_page=true texte="Je m'inscris à un stage" %}
+lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4' couleur="info" autre_page=true texte="Je m'inscris à un stage" %}
 
 💡INFOS PRATIQUES  
 **Horaires :**  
