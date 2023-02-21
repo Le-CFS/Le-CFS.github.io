@@ -35,9 +35,9 @@ _du **03/07** au **07/07** et du **28/08** au **01/09**_
 Pour les écoles Francophones et Néerlandophones :  
 📍[_Tous nos centres_](https://www.lecfs.be/stages/lieux_de_stage/ "Nos centres CFS")  
 • Vacances de Printemps 🌸:  
-_du **02/05** au **05/05** et du 08/05 au 12/05  
+_du **02/05** au **05/05** et du **08/05** au **12/05**  
 • Vacances d'Eté_ ☀️ _:_  
-_A partir du **10/07**_
+_A partir du **10/07** et jusqu'au **25/08**_
 
 {% include utils/button.html  
 lien='[https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4 "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4")' couleur="info" autre_page=true texte="Je m'inscris à un stage" %}
