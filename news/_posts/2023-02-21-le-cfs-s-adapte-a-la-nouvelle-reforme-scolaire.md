@@ -31,7 +31,7 @@ Pour les écoles Néerlandophones :
 _• Vacances de Printemps_ 🌸:  
 _du **03/04** au **07/04** et du **11/04** au **14/04**_  
 _• Vacances d'Eté_ ☀️ _:_  
-A partir _du **03/07** et jusqu'au **01/09**_
+_A partir_ _du **03/07** et jusqu'au **01/09**_
 
 Pour les écoles Francophones :  
 📍[_Tous nos centres_](https://www.lecfs.be/stages/lieux_de_stage/ "Nos centres CFS")  
