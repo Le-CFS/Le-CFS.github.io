@@ -39,7 +39,8 @@ _du **02/05** au **05/05** et du 08/05 au 12/05
 • Vacances d'Eté_ ☀️ _:_  
 _A partir du **10/07**_
 
-[**Inscription**](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles "Inscription")
+{% include utils/button.html  
+lien='[https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4](https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles "https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Bruxelles")' couleur="info" autre_page=true texte="Je m'inscris à un stage" %}
 
 💡INFOS PRATIQUES  
 **Horaires :**  
