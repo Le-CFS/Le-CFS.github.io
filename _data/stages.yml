@@ -9703,12 +9703,15 @@ stages:
       games :</strong> différentes activités fun sont proposées sur la journée telles
       que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p>2
       demi-journées <strong>E-Fun </strong>(segway et trottinette électrique, overboard,
-      crazy kart)</p></li><li><p>2 sessions de <strong>karting </strong>+<strong>
-      simulateur de course playstation </strong>au<strong> WIK Wavre</strong></p></li><li><p><strong>Journée
+      crazy kart).</p></li><li><p>1 session de <strong>karting </strong>+<strong>
+      simulateur de course playstation </strong>au<strong> WIK Wavre.</strong></p></li><li><p><strong>Journée
       Quad, moto électrique et laser game </strong>en partenariat avec <strong>ROC
       Event.</strong></p></li></ul><p><strong>Le CFS se donne le droit d'annuler le
       stage d'un enfant qui ne respecterait pas les différentes règles de sécurité.</strong></p>"
     infos:
+    - alias: Age & Taille
+      info_line: Les enfants doivent obligatoirement avoir 8 ans accomplis et mesurer
+        au minimum 1m30 pour participer à l'activité de karting. 
     - alias: Tenue
       info_line: Prévoir une tenue adaptée au activités en extérieur.
     - alias: Transports
@@ -9719,17 +9722,21 @@ stages:
     description: '<p>Tu es un futur pilote de F1 ? Viens t''exercer avec ce stage
       !</p><p class="MsoNormal">Il te permettra de découvrir les sensations d’un vrai
       pilote : concentration, adrénaline et amusement !</p><p class="MsoNormal"><strong>Au
-      programme</strong> : New Games, E-Fun, Karting, Quad, Moto électrique, Laser
-      game !</p><ul><li><p><strong>New games :</strong> différentes activités fun
-      sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball,
-      kinball, flag foot, ball bouncer.</p></li><li><p>2 demi-journées <strong>E-Fun
-      </strong>(segway et trottinette électrique, overboard, crazy kart),</p></li><li><p>2
-      sessions de <strong>karting </strong>au<strong> Karting Machelen.</strong></p></li><li><p><strong>Journée
+      programme</strong> : New Games, E-Fun, Karting, simulateur de course playstation,
+      Quad, Moto électrique, Laser game !</p><ul><li><p><strong>New games :</strong>
+      différentes activités fun sont proposées sur la journée telles que le frisbee
+      golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p>2
+      demi-journées <strong>E-Fun </strong>(segway et trottinette électrique, overboard,
+      crazy kart).</p></li><li><p>1 session de <strong>karting </strong>+<strong>
+      simulateur de course playstation </strong>au<strong> WIK Wavre.</strong></p></li><li><p><strong>Journée
       Quad, moto électrique et Laser game</strong> en partenariat avec <strong>ROC
       Event.</strong></p></li></ul><p class="MsoNormal"><strong>Le CFS se donne le
       droit d''annuler le stage d''un enfant qui ne respecterait pas les différentes
       règles de sécurité.</strong></p>'
     infos:
+    - alias: Age & Taille
+      info_line: Les enfants doivent obligatoirement avoir 8 ans accomplis et mesurer
+        au minimum 1m30 pour participer à l'activité de karting. 
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée au activités en extérieur.
     - alias: Transports
