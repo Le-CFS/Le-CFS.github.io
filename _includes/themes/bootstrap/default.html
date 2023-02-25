@@ -53,5 +53,21 @@
 </script>
 <!-- /GetButton.io widget -->
 
+<script>
+  window.addEventListener('load', function() {
+    jQuery('a:contains("Inscription")').click(function() {
+      gtag('event', 'inscription_button');
+    });
+
+    jQuery('[href*="wa.me"]').one('click', function() {
+      gtag('event', 'whatsapp_chat');
+    });
+
+    jQuery('[href*="/contact"]').one('click', function() {
+      gtag('event', 'contact_click');
+    });
+  });
+</script>
+
   </body>
 </html>
