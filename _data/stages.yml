@@ -9357,8 +9357,10 @@ stages:
       de manière ludique afin d'allier football et plaisir.</p><p>La journée est répartie
       en 3 périodes de football et une période de multisports.</p>"
     infos:
+    - alias: Walhain
+      info_line: 'Walhain : Garderie gratuite à partir de 8h30 et jusque 16h30.'
     - alias: Pas de garderie à la Hulpe
-      info_line: Stage de 08h30 à 16h30
+      info_line: 'La Hulpe : Stage de 08h30 à 16h30'
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-14 ans
