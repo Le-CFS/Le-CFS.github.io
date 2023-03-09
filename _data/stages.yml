@@ -6463,9 +6463,9 @@ stages:
       détente et de plaisir, le Judo est une discipline basée sur l’échange et la
       progression. L’apprentissage se fait de manière progressive en fonction des
       aptitudes de l'enfant, ce qui permet à chacun d’évoluer à son rythme.</p><p>Chaque
-      journée de stage est divisée en deux parties. Pendant 3h les enfants pratiquent
-      du judo. L'autre partie de la journée, les enfants participent à des activités
-      Fun &amp; multisports.</p><p><strong><em>A Rixensart, stage en collaboration
+      journée de stage est divisée en deux parties. Durant la matinée, les enfants
+      participent à des activités Fun &amp; multisports. L'après-midi est consacrée
+      à la pratique du judo.</p><p><strong><em>A Rixensart, stage en collaboration
       avec Marc Charlier et le Judo Club Genval.</em></strong></p>"
     infos:
     - alias: Demi-journée
@@ -6719,7 +6719,7 @@ stages:
     - info_line: Prévoir des vêtements adaptés pour les activités en extérieur.
       alias: Tenue adaptée
   activation_onglets: true
-- name: Plongée - Journée complète
+- name: Plongée & Multisports
   categorie: Activités sportives
   img: "/assets/images/plongee.png"
   online: true
