@@ -6735,12 +6735,14 @@ stages:
       jeux aquatiques sont également au programme.</p><p>Le reste de la journée est
       consacré à du multisports (sports individuels et collectifs).</p><p>Les enfants
       doivent savoir nager 100 m.</p>"
-    infos: []
+    infos:
+    - alias: Demi journée
+      info_line: Stage également disponible en demi-journée, 100% plongée
   activation_onglets: true
 - name: Plongée - Demi-journée
   categorie: Activités sportives
   img: "/assets/images/plongee.png"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
