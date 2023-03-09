@@ -2287,7 +2287,7 @@ stages:
       sur simple demande. Le budget est soumis à l'appréciation des parents et est
       principalement dédié aux souvenirs et au shopping.</p>"
     infos: []
-- name: Judo
+- name: 'Judo '
   categorie: Internat
   img: "/assets/images/stage-enfant-judo-500x500.jpg"
   online: true
@@ -6445,7 +6445,7 @@ stages:
     - alias: Transports
       info_line: Les transports sont assurés par le CFS. 
   activation_onglets: true
-- name: Judo
+- name: Judo & Multisports
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-judo-500x500.jpg"
   online: true
@@ -6467,7 +6467,9 @@ stages:
       du judo. L'autre partie de la journée, les enfants participent à des activités
       Fun &amp; multisports.</p><p><strong><em>A Rixensart, stage en collaboration
       avec Marc Charlier et le Judo Club Genval.</em></strong></p>"
-    infos: []
+    infos:
+    - alias: Demi-journée
+      info_line: Stage également disponible en demi-journée, 100% judo
   activation_onglets: true
 - name: Escalade & VTT
   categorie: Découvertes sportives et culturelles
