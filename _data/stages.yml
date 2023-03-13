@@ -7346,8 +7346,8 @@ stages:
   img: "/assets/images/stage-enfant-psycho-natation-500x500.jpg"
   inscription: ''
   categorie: Les petits bouts
-  online: true
-  nouveau: true
+  online: false
+  nouveau: false
   stage_une: false
   location:
   - alias: Bruxelles
