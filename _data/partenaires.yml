@@ -1,5 +1,12 @@
 ---
 liste:
+- name: YourTenniSchool
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/457-logosite-1.png"
+  href: https://yourtennischool.be/home3.asp?ClubID=457&LG=FR
+  bouton: ''
+  couleur_bouton: ''
 - name: Royal Tennis Club La Raquette
   categorie: partenaires pédagogiques
   online: true
