@@ -168,7 +168,7 @@ stages:
         disposition. Vous pouvez bien sûr apporter votre propre matériel.
 - name: Tennis
   categorie: Activités sportives
-  img: "/assets/images/tennis.png"
+  img: "/assets/images/tennis-ytsw.png"
   online: true
   nouveau: true
   stage_une: false
