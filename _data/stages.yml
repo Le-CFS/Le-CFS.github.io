@@ -178,23 +178,28 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p><em>Stage en collaboration avec </em><strong><em>YourTenniSchool
-      Wavre</em></strong></p><p>Votre enfant veut découvrir les joies d'un sport de
-      raquettes ?</p><p>Ce stage de tennis associe l'apprentissage du geste technique
+    description: '<p><em>Stage en collaboration avec </em><strong><em>YourTenniSchool
+      Wavre</em></strong></p><p>Votre enfant veut découvrir les joies d''un sport
+      de raquettes ? </p><p>Ce stage de tennis associe l''apprentissage du geste technique
       au plaisir du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine,
       les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,…)
       afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire ou
       en adversaire.</p><p>Des groupes sont formés en fonction des âges et des niveaux
       : balles molles, mids ou dures (max. 8 enfants/groupe).</p><p>Un tournoi amical
-      est organisé en fin de semaine.</p><p>Le stage est complété par des activités
-      multisports et des sports collectifs.</p>"
+      est organisé en fin de semaine.</p><p>Découvrez les activités données par notre
+      partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p><p>Chaque
+      journée de stage est divisée en deux parties. Durant la matinée, les enfants
+      rejoignent un stage du centre. L''après-midi est consacrée à la pratique du
+      tennis.</p>'
     infos:
     - alias: Matériel
-      info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
-        disposition. Vous pouvez bien sûr apporter votre propre matériel.
+      info_line: 'Tout le matériel de tennis est fourni par notre partenaire. '
+    - alias: Repas chaud
+      info_line: Repas chaud possible en option de l'inscription (semaine complète
+        obligatoire et inscription possible uniquement avant la semaine de stage).
 - name: Baby Tennis
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/baby-tennis-multi.png"
+  img: "/assets/images/sans-titre-18.png"
   online: true
   nouveau: true
   stage_une: false
@@ -204,24 +209,23 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 5-7 ans
-    description: "<p><em>Stage en collaboration avec </em><strong><em>YourTenniSchool
-      Wavre</em></strong></p><p>Vous désirez éveiller votre petit bout à un jeu de
-      raquette ?</p><p>Ce stage est l'idéal pour initier les enfants au tennis par
-      différents jeux leur permettant d'en acquérir les bases. Ils découvrent la raquette
-      en tant que prolongement du bras et apprennent à coordonner la vue avec le mouvement
-      de la raquette.</p><p>Nos petits tennisman apprennent, grâce à la 2D, le coup
-      droit, le revers, et toutes leurs particularités : prises, placement, jeux de
-      jambes, direction,… La manipulation de la balle au sol, permet de contrôler
-      le mouvement de la raquette et de la balle, et de faciliter leur apprentissage.
-      Ils peuvent ensuite s’essayer à la 3D où l’apprentissage du rebond de la balle
-      est essentiel pour un sport tel que le tennis. La volée et le service sont également
-      vus. Les exercices permettent à l'enfant de lire la trajectoire de leur balle
-      et d'anticiper ses rebonds.</p><p>Tous ces exercices sont proposés avec du matériel
-      adapté : ballons, ballons de baudruche, balles rouges et balles molles.</p><p>Chaque
-      journée de stage comporte trois périodes de tennis et une période de découverte
-      d’un multisports en extérieur. Des activités comme du baseball, unihoc, ball
-      bouncer, etc. sont favorisées car elles permettent aux enfants d'utiliser à
-      nouveau du matériel qui est le prolongement de leur main.</p>"
+    description: "<p>Vous désirez éveiller votre petit bout à un jeu de raquette ?</p><p>Ce
+      stage est l'idéal pour initier les enfants au tennis par différents jeux leur
+      permettant d'en acquérir les bases. Ils découvrent la raquette en tant que prolongement
+      du bras et apprennent à coordonner la vue avec le mouvement de la raquette.</p><p>Nos
+      petits tennisman apprennent, grâce à la 2D, le coup droit, le revers, et toutes
+      leurs particularités : prises, placement, jeux de jambes, direction,… La manipulation
+      de la balle au sol, permet de contrôler le mouvement de la raquette et de la
+      balle, et de faciliter leur apprentissage. Ils peuvent ensuite s’essayer à la
+      3D où l’apprentissage du rebond de la balle est essentiel pour un sport tel
+      que le tennis. La volée et le service sont également vus. Les exercices permettent
+      à l'enfant de lire la trajectoire de leur balle et d'anticiper ses rebonds.</p><p>Tous
+      ces exercices sont proposés avec du matériel adapté : ballons, ballons de baudruche,
+      balles rouges et balles molles.</p><p>Chaque journée de stage comporte trois
+      périodes de tennis et une période de découverte d’un multisports en extérieur.
+      Des activités comme du baseball, unihoc, ball bouncer, etc. sont favorisées
+      car elles permettent aux enfants d'utiliser à nouveau du matériel qui est le
+      prolongement de leur main.</p>"
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par notre partenaire. 
