@@ -31,11 +31,11 @@ categories:
 stages:
 - name: Mini-Tennis & Aqua
   categorie: Découvertes sportives et culturelles
-  img: ''
+  img: "/assets/images/tennis-aqua.png"
   online: true
   nouveau: true
   stage_une: false
-  activation_onglets: false
+  activation_onglets: true
   inscription: ''
   location:
   - alias: Brabant Wallon
@@ -239,7 +239,7 @@ stages:
         obligatoire et inscription possible uniquement avant la semaine de stage).
 - name: Mini-Tennis & Multisports
   categorie: Découvertes sportives et culturelles
-  img: "/assets/images/sans-titre-18.png"
+  img: "/assets/images/tennis-multisports.png"
   online: true
   nouveau: true
   stage_une: false
