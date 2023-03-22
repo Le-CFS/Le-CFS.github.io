@@ -8941,22 +8941,22 @@ stages:
       info_line: La taille MINIMALE est d'1m40
     - alias: Déplacements
       info_line: Les déplacements en transports en commun sont assurés par le CFS.
+    - alias: Midi
+      info_line: Pour la journée au Paintball Bruxelles, les enfants reçoivent un
+        pain saucisse à midi.
     description: "<p>Une superbe semaine pour vos ados !! Activités fun garanties
-      !</p><p><strong>PROGRAMME : </strong>New Games, Koezio, Virtual Room, Go Ventura,
-      Bowling &amp; Q-Zar</p><ul><li><p><strong>New games </strong>: différentes activités
-      fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball,
-      kinball, flag foot.</p></li><li><p><strong>Excursion à Koezio au Docks Bruxsel
-      :</strong> le centre propose des jeux de collaboration et de cohésion par équipe.
-      Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de
-      culture générale, et de l'accrobranche.</p></li><li><p><strong>Virtual Room
-      :</strong> activités de réalité virtuelle pour une expérience inoubliable !</p></li><li><p><strong>Go
+      !</p><p><strong>PROGRAMME : </strong>New Games, Koezio, Go Ventura, Paintball</p><ul><li><p><strong>New
+      games </strong>: différentes activités fun sont proposées sur la journée telles
+      que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
+      à Koezio au Docks Bruxsel :</strong> le centre propose des jeux de collaboration
+      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
+      épreuves de rapidité, de culture générale, et de l'accrobranche.</p></li><li><p><strong>Go
       Ventura :</strong> le parc permet d'entrer dans la peau d'aventuriers et de
       participer à différents challenges : cohésion d'équipe, stratégie et coopération
       sont au rendez-vous ! La journée se compose comme suit : ½ journée avec des
-      épreuves Koh Lanta et ½ journée de Paintball.</p></li><li><p><strong>Bowling
-      </strong>en collaboration avec le <strong>Crosly Bowling &amp; Q-Zar : </strong>laser
-      game où deux équipes s'affrontent dans un labyrinthe afin de conquérir la base
-      de leurs adversaires.</p></li></ul>"
+      épreuves Koh Lanta et ½ journée de Paintball.</p></li><li><p><strong>Paintball
+      </strong>: au Paintball Bruxelles avec au programme : laser games, paintball
+      &amp; tir à l'arc.</p></li></ul>"
   activation_onglets: true
 - name: Fun Paintball & VTT
   img: "/assets/images/stages/activitesfun/funpaintballetvtt.png"
