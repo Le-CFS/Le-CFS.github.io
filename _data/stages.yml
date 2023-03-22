@@ -29,6 +29,15 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Tennis & Fun
+  categorie: Les petits bouts
+  img: ''
+  online: true
+  nouveau: false
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location: []
 - name: Mini-Tennis & Vélo
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/tennis-velo.png"
