@@ -29,6 +29,49 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Mini-Tennis & Vélo
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/tennis-velo.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 4-7 ans
+    description: '<p><em>Stage en collaboration avec </em><strong><em>YourTenniSchool
+      Wavre</em></strong></p><p>Vous désirez éveiller votre petit bout à un jeu de
+      raquette ? </p><p>Ce stage est l''idéal pour initier les enfants au tennis par
+      différents jeux leur permettant d''en acquérir les bases. Ils découvrent la
+      raquette en tant que prolongement du bras et apprennent à coordonner la vue
+      avec le mouvement de la raquette.</p><p>Nos petits tennisman apprennent, grâce
+      à la 2D, le coup droit, le revers, et toutes leurs particularités : prises,
+      placement, jeux de jambes, direction,… La manipulation de la balle au sol, permet
+      de contrôler le mouvement de la raquette et de la balle, et de faciliter leur
+      apprentissage. Ils peuvent ensuite s’essayer à la 3D où l’apprentissage du rebond
+      de la balle est essentiel pour un sport tel que le tennis. La volée et le service
+      sont également vus. Les exercices permettent à l''enfant de lire la trajectoire
+      de leur balle et d''anticiper ses rebonds.</p><p>Tous ces exercices sont proposés
+      avec du matériel adapté : ballons, ballons de baudruche, balles rouges et balles
+      molles.</p><p>Découvrez les activités données par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez
+      ici</a>.</p><p>Chaque journée de stage est divisée en deux parties. Durant la
+      matinée, les enfants s''initient au tennis. L''après-midi est consacrée à l''apprentissage
+      de la conduite à vélo : apprendre à rouler sur deux roues, réaliser de petits
+      parcours d''adresse, apprentissage du code de la route et des règles élémentaires
+      de sécurité.</p>'
+    infos:
+    - alias: Matériel
+      info_line: 'Tout le matériel de tennis est fourni par notre partenaire. '
+    - alias: Equipement
+      info_line: L'enfant doit venir avec son vélo en bon état et son casque. Les
+        enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
+    - alias: Tenue
+      info_line: 'Prévoir une tenue adaptée pour les activités en extérieur. '
+    - alias: Repas chaud
+      info_line: Repas chaud possible en option de l'inscription (semaine complète
+        obligatoire et inscription possible uniquement avant la semaine de stage).
 - name: Mini-Tennis & Aqua
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/tennis-aqua.png"
