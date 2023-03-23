@@ -755,7 +755,7 @@ stages:
 - name: Fun Aventure, Accrobranche & E-pilote
   categorie: Internat
   img: "/assets/images/stoumont.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1280,7 +1280,7 @@ stages:
 - name: Fun Sport
   categorie: Internat
   img: "/assets/images/fun-multisport.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -4028,7 +4028,7 @@ stages:
 - name: Football
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-football-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -5075,7 +5075,7 @@ stages:
 - name: Full Activity
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-full-activity-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -6356,7 +6356,7 @@ stages:
 - name: Football Academy
   categorie: Internat
   img: "/assets/images/internat-foot.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -10077,7 +10077,7 @@ stages:
   img: "/assets/images/stages/activitessportives/footcamp.jpg"
   inscription: ''
   categorie: Internat
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
