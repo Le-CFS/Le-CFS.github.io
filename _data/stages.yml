@@ -661,7 +661,7 @@ stages:
 - name: Jeux Vidéo & Sports
   categorie: Internat
   img: "/assets/images/jeux-video.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -684,7 +684,7 @@ stages:
 - name: Fun Sports Nautic
   categorie: Internat
   img: "/assets/images/sport-nautic.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -731,7 +731,7 @@ stages:
 - name: Fun Sports Karting
   categorie: Internat
   img: "/assets/images/karting.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1244,7 +1244,7 @@ stages:
 - name: H2O Kids
   categorie: Internat
   img: "/assets/images/internat-eau.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2342,7 +2342,7 @@ stages:
 - name: Karaté
   categorie: Internat
   img: "/assets/images/boutonsactivites/parascolaires/karate.png"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -2400,7 +2400,7 @@ stages:
 - name: 'Judo '
   categorie: Internat
   img: "/assets/images/stage-enfant-judo-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -2969,7 +2969,7 @@ stages:
 - name: Jeux Aventure et Découverte Géocatching
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-jumanji-et-geocatching-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
