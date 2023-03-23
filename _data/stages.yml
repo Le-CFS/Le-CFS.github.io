@@ -632,7 +632,7 @@ stages:
 - name: Basket "Marc Deheneffe"
   categorie: Internat
   img: "/assets/images/basket.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1459,7 +1459,7 @@ stages:
 - name: Back Stage
   categorie: Internat
   img: "/assets/images/back-stage-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1496,7 +1496,7 @@ stages:
 - name: Aqualand
   categorie: Internat
   img: "/assets/images/aqua-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1924,7 +1924,7 @@ stages:
 - name: A vos Crayons
   categorie: Internat
   img: "/assets/images/dessin-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2242,7 +2242,7 @@ stages:
 - name: 'A vos Etriers '
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-equitation-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2923,7 +2923,7 @@ stages:
 - name: Aventurier Photographe
   categorie: Internat
   img: "/assets/images/stage-enfant-fun-ado-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -3043,7 +3043,7 @@ stages:
 - name: Art Attack
   categorie: Internat
   img: "/assets/images/activites_parascolaires_multisports_creativite.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -9208,7 +9208,7 @@ stages:
   img: "/assets/images/stage-enfant-aventure-camp-500x500.jpg"
   inscription: ''
   categorie: Internat
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
