@@ -1760,7 +1760,7 @@ stages:
 - name: Les Artistes de Rues
   categorie: Internat
   img: "/assets/images/artiste-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1843,7 +1843,7 @@ stages:
 - name: Koh Lanta - Expérience Ultime
   categorie: Internat
   img: "/assets/images/koh-lanta-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2123,7 +2123,7 @@ stages:
 - name: Le Triangle des Bermudes
   categorie: Internat
   img: "/assets/images/internat-bermude.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2163,7 +2163,7 @@ stages:
 - name: Koh Lanta, L'Immersion
   categorie: Internat
   img: "/assets/images/koh-lanta-2-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -3080,7 +3080,7 @@ stages:
 - name: La Passion du Cheval
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-equitation-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -3121,7 +3121,7 @@ stages:
 - name: La Cabane du Pays Imaginaire
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-cabane-aventurier-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
