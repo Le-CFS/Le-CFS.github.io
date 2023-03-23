@@ -1531,7 +1531,7 @@ stages:
 - name: VTT & Pêche
   categorie: Internat
   img: "/assets/images/peche-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1568,7 +1568,7 @@ stages:
 - name: Tireur d'Elite
   categorie: Internat
   img: "/assets/images/tireur-elite-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1648,7 +1648,7 @@ stages:
 - name: Univers de la Caricature - Dessin et BD
   categorie: Internat
   img: "/assets/images/bd-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1961,7 +1961,7 @@ stages:
 - name: Tous en Selle
   categorie: Internat
   img: "/assets/images/equitation-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1999,7 +1999,7 @@ stages:
 - name: Spirit - L'Etalon des Plaines
   categorie: Internat
   img: "/assets/images/sans-titre.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2041,7 +2041,7 @@ stages:
 - name: Mon Cheval et Moi
   categorie: Internat
   img: "/assets/images/equitation-2-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2082,7 +2082,7 @@ stages:
 - name: Mission Camouflage
   categorie: Internat
   img: "/assets/images/mission-camouflage.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2457,7 +2457,7 @@ stages:
 - name: Tennis de Table
   categorie: Internat
   img: "/assets/images/stages/activitessportives/pingpong.png"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -2840,7 +2840,7 @@ stages:
 - name: Terre Ferme
   categorie: Internat
   img: "/assets/images/stage-enfant-nature-et-loisirs-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -2881,7 +2881,7 @@ stages:
 - name: Mission Commando - L'Instinct de Survie
   categorie: Internat
   img: "/assets/images/stage-enfant-mini-explorateurs-500x500.png"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -3853,7 +3853,7 @@ stages:
     infos: []
 - name: Sports Nautiques
   categorie: Internat
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: Italie
@@ -3906,7 +3906,7 @@ stages:
   inscription: ''
 - name: Vacances Ados
   categorie: Internat
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: Italie
@@ -3964,7 +3964,7 @@ stages:
 - name: Multisports
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-multisports-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -4303,7 +4303,7 @@ stages:
 - name: Sports Nautiques
   categorie: Internat
   img: "/assets/images/anniversaires/activites/nautifun.png"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -4416,7 +4416,7 @@ stages:
 - name: Néerlandais
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-neerlandais-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -4531,7 +4531,7 @@ stages:
 - name: Tennis & Padel
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-tennis-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -5264,7 +5264,7 @@ stages:
 - name: Vacances Ados
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-vacances-ados-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -5318,7 +5318,7 @@ stages:
 - name: Multisports
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-multisports-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -9233,7 +9233,7 @@ stages:
   img: "/assets/images/stage-enfant-nauti-camp-500x500.jpg"
   inscription: ''
   categorie: Internat
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -10110,7 +10110,7 @@ stages:
   img: "/assets/images/stage-enfant-internat-tennis-500x500.jpg"
   inscription: ''
   categorie: Internat
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
