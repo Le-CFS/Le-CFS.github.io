@@ -1116,7 +1116,7 @@ stages:
 - name: Cinéma - Court Métrage
   categorie: Internat
   img: "/assets/images/cinema.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1185,7 +1185,7 @@ stages:
 - name: Capsules Vidéos
   categorie: Internat
   img: "/assets/images/internat-cinema.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1316,7 +1316,7 @@ stages:
 - name: Escape Game Harry Potter
   categorie: Internat
   img: "/assets/images/escape-game.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1353,7 +1353,7 @@ stages:
 - name: Escalade - En Apesanteur
   categorie: Internat
   img: "/assets/images/escalade.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1389,7 +1389,7 @@ stages:
 - name: Cuisine - Voyage Gustatif
   categorie: Internat
   img: "/assets/images/cuisine.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1424,7 +1424,7 @@ stages:
 - name: Cirque et Cabriole
   categorie: Internat
   img: "/assets/images/cirque.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1886,7 +1886,7 @@ stages:
 - name: Escape Game - Jumanji
   categorie: Internat
   img: "/assets/images/escape-game-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2202,7 +2202,7 @@ stages:
 - name: Cluedo Nature & Géocatching
   categorie: Internat
   img: "/assets/images/geocatching.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -3005,7 +3005,7 @@ stages:
 - name: Détective Privé & Grands Jeux Indoor
   categorie: Internat
   img: "/assets/images/stages/activitesfun/detective.png"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -4208,8 +4208,8 @@ stages:
 - name: Equitation
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-equitation-500x500.jpg"
-  online: false
-  nouveau: true
+  online: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -4356,7 +4356,7 @@ stages:
 - name: Equitation
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-bdk-equitation-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -4472,7 +4472,7 @@ stages:
 - name: 'Basketball '
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-basketball-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -5201,7 +5201,7 @@ stages:
 - name: 'Basketball '
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-basketball-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -10275,7 +10275,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/comediemusicale.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
