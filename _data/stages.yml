@@ -1608,7 +1608,7 @@ stages:
 - name: Ma Cabane Magique
   categorie: Internat
   img: "/assets/images/cabane-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1684,7 +1684,7 @@ stages:
 - name: Les Explorateurs - Géocatching
   categorie: Internat
   img: "/assets/images/explorateurs-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1722,7 +1722,7 @@ stages:
 - name: Les Experts de Marbehan - Grand Jeu Indoor
   categorie: Internat
   img: "/assets/images/expert-internat.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -2283,7 +2283,7 @@ stages:
 - name: Mini-Foot
   categorie: Internat
   img: "/assets/images/stages/activitessportives/minifoot.png"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -2508,7 +2508,7 @@ stages:
 - name: Mini-Foot
   categorie: Internat
   img: "/assets/images/activites_parascolaires_mini_foot.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
