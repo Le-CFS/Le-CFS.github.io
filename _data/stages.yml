@@ -4253,7 +4253,7 @@ stages:
 - name: Zeekamp
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-zeekamp-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
