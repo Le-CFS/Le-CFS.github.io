@@ -13,7 +13,7 @@ inscription:
   texte_mobile: Inscription
 slider:
 - titre: Le CFS s'adapte !
-  src: "/assets/images/lecfsadapte.jpg"
+  src: "/assets/images/cfs_stage_ndls.jpg"
   href: https://www.lecfs.be/news/2023/02/21/le-cfs-s-adapte-a-la-nouvelle-reforme-scolaire
 - titre: Stages 2023 !
   src: "/assets/images/slider_paques_ete_23.jpg"
