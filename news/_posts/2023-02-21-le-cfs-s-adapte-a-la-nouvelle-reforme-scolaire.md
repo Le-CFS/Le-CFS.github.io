@@ -6,12 +6,12 @@ tags:
 - réforme scolaire
 - stages néerlandophones
 title: "Le CFS s'adapte à la nouvelle réforme scolaire\U0001F44D\U0001F600"
-banner: "/assets/images/lecfsadapte.jpg"
+banner: "/assets/images/cfs_stages_ndls_news.jpg"
 infos:
   date: 
   teaser: ''
 description: "Le CFS s'adapte à la nouvelle réforme scolaire\U0001F44D\U0001F600"
-image: "/assets/images/lecfsadapte-1.jpg"
+image: "/assets/images/cfs_stages_ndls_news_rs.jpg"
 
 ---
 ### On s'adapte pour vos enfants 😃
