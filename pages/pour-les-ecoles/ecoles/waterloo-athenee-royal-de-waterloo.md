@@ -58,11 +58,11 @@ Nous avons également créé une nouvelle adresse spécifique pour les garderies
 
 **Station :**
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQWXluOTUD5OmmnNffUjMFkB3mZqcpBL7L3bjjrDjtwDRA?e=0nh6C8"Projet d'accueil Station" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQWXluOTUD5OmmnNffUjMFkB3mZqcpBL7L3bjjrDjtwDRA?e=0nh6C8' couleur="info" autre_page=true texte="Projet d'accueil Station" %}
 
 **Mésanges :**
 
-{% include utils/button.html lien=https://cfsport.sharepoint.com/:b:/s/external-documents/EYPsLQ0_mdtOhU4YyQvL9GcB08c1JopFuM6nv-p_X4YfdQ?e=oKlYPI"Projet d'accueil Mésanges" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYPsLQ0_mdtOhU4YyQvL9GcB08c1JopFuM6nv-p_X4YfdQ?e=oKlYPI' couleur="info" autre_page=true texte="Projet d'accueil Mésanges" %}
 
 ***
 
