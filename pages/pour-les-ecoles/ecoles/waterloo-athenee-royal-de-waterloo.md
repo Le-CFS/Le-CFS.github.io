@@ -46,7 +46,7 @@ texte="Mon dépliant 2022-2023"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EY-sCoTtqw1Dv7IOn5eOINsBUVaeeJOVkQB0hQjqnMUmyg?e=KFXEah"Les Petits Gardons Athénée Royal de Waterloo" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EY-sCoTtqw1Dv7IOn5eOINsBUVaeeJOVkQB0hQjqnMUmyg?e=cnlUTn' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Royal de Waterloo" %}
 
 Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 
