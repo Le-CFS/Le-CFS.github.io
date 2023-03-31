@@ -52,6 +52,20 @@ Nous avons également créé une nouvelle adresse spécifique pour les garderies
 
 ***
 
+##### **Projet d'accueil**
+
+**_Notre équipe au service du bien-être de chacun_**
+
+**Station :**
+
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQWXluOTUD5OmmnNffUjMFkB3mZqcpBL7L3bjjrDjtwDRA?e=0nh6C8"Projet d'accueil Station" %}
+
+**Mésanges :**
+
+{% include utils/button.html lien=https://cfsport.sharepoint.com/:b:/s/external-documents/EYPsLQ0_mdtOhU4YyQvL9GcB08c1JopFuM6nv-p_X4YfdQ?e=oKlYPI"Projet d'accueil Mésanges" %}
+
+***
+
 ##### **Journées Pédagogiques**
 
 Le CFS organise des journées sportives au sein de l'école pour les élèves lors des journées pédagogiques.
