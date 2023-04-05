@@ -1,7 +1,7 @@
 ---
 layout: post
 menu: false
-title: L'avenir - L’asymétrie des vacances scolaires
+title: "\U0001F4DD L'avenir - L’asymétrie des vacances scolaires"
 online: true
 banner: "/assets/images/avenir.jpg"
 description: "Le CFS s'adapte à la nouvelle réforme scolaire \U0001F44D"
