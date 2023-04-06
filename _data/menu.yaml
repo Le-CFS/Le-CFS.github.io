@@ -78,8 +78,6 @@ stages_enfants:
   - title: Un stage pour tous
     url: "/stages/activites/"
     title_mobile: Catalogue des stages
-  - title: Organisation générale
-    url: "/stages/protocole/general/"
   - title: Silos à Bruxelles
     url: "/stages/protocole/bruxelles/"
     online_mobile: false
@@ -183,7 +181,7 @@ cours_adultes:
   title_mobile: Liste des cours
   online_mobile: true
   sousmenu:
-  - menu_list: "adultes"
+  - menu_list: adultes
     title: adultes
     url: adultes
   - title: En savoir plus
@@ -205,7 +203,7 @@ pour_les_ecoles:
   url: "/pour-les-ecoles/"
   online_mobile: true
   sousmenu:
-  - menu_list: "ecoles"
+  - menu_list: ecoles
     title: ecoles
     url: ecoles
 brochures:
