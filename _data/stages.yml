@@ -9388,15 +9388,23 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
-    description: '<p>Equipe jaune ou équipe rouge ?</p><p>Viens vivre une semaine
+    description: "<p>Equipe jaune ou équipe rouge ?</p><p>Viens vivre une semaine
       dans la peau des aventuriers de Koh Lanta : composition des tribus, épreuves
-      en binôme et par équipe (avec les mythiques course d''orientation et épreuve
+      en binôme et par équipe (avec les mythiques course d'orientation et épreuve
       des poteaux !), fabrication de campement, et dégustation d’insectes pour les
-      plus courageux.</p><p>Egalement au programme de la semaine : une journée au
-      <strong>"Sortilège", </strong>une excursion chez <strong>Go-Ventura </strong>(½
-      journée consacrée à des épreuves Koh Lanta et ½ journée de Paintball),<strong>
-      Arrow Game</strong>, et<strong> New Games.</strong></p><p><em>Fair-play et esprit
-      de coopération sont requis pour ce stage.</em></p>'
+      plus courageux.</p><p>Egalement au programme de la semaine :</p><ul><li><p><strong>New
+      games :</strong> différentes activités fun sont proposées sur la journée telles
+      que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p><strong>Arrow
+      game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés
+      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
+      chevaliers et mages (l'arrow game se pratique également avec des flèches avec
+      un bout en mousse et des masques de paintball).</p></li><li><p>Une excursion
+      chez <strong>Go-Ventura : </strong>½ journée consacrée à des épreuves Koh Lanta
+      et ½ journée de Paintball.</p></li><li><p><strong>Laser Game</strong> : en collaboration
+      avec Big C.</p></li><li><p><strong>Prison Island </strong>: en collaboration
+      avec Bic C : relevez un maximum de défis dans une expérience immersive total
+      et des décors réalistes !</p></li></ul><p><em>Fair-play et esprit de coopération
+      sont requis pour ce stage.</em></p>"
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir des vêtements adaptés pour les activités en extérieur.
