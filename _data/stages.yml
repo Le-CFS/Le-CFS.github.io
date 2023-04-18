@@ -9269,26 +9269,24 @@ stages:
     ville: Bruxelles
     age: 12-16 ans
     infos:
-    - alias: Koézio
-      info_line: La taille MINIMALE est d'1m40
     - alias: Déplacements
       info_line: Les déplacements en transports en commun sont assurés par le CFS.
     - alias: Midi
       info_line: Pour la journée au Paintball Bruxelles, les enfants reçoivent un
         pain saucisse à midi.
     description: "<p>Une superbe semaine pour vos ados !! Activités fun garanties
-      !</p><p><strong>PROGRAMME : </strong>New Games, Koezio, Go Ventura, Paintball</p><ul><li><p><strong>New
-      games </strong>: différentes activités fun sont proposées sur la journée telles
-      que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Excursion
-      à Koezio au Docks Bruxsel :</strong> le centre propose des jeux de collaboration
-      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
-      épreuves de rapidité, de culture générale, et de l'accrobranche.</p></li><li><p><strong>Go
-      Ventura :</strong> le parc permet d'entrer dans la peau d'aventuriers et de
-      participer à différents challenges : cohésion d'équipe, stratégie et coopération
-      sont au rendez-vous ! La journée se compose comme suit : ½ journée avec des
-      épreuves Koh Lanta et ½ journée de Paintball.</p></li><li><p><strong>Paintball
-      </strong>: au Paintball Bruxelles avec au programme : laser games, paintball
-      &amp; tir à l'arc.</p></li></ul>"
+      !</p><p><strong>PROGRAMME : </strong>New Games, Go Ventura, Paintball, Laser
+      Game, Prison Island</p><ul><li><p><strong>New games </strong>: différentes activités
+      fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball,
+      kinball, flag foot.</p></li><li><p><strong>Go Ventura :</strong> le parc permet
+      d'entrer dans la peau d'aventuriers et de participer à différents challenges
+      : cohésion d'équipe, stratégie et coopération sont au rendez-vous ! La journée
+      se compose comme suit : ½ journée avec des épreuves Koh Lanta et ½ journée de
+      Paintball.</p></li><li><p><strong>Paintball </strong>: au Paintball Bruxelles
+      avec au programme : laser games, paintball &amp; tir à l'arc.</p></li><li><p><strong>Laser
+      Game</strong> : en collaboration avec Big C.</p></li><li><p><strong>Prison Island
+      </strong>: en collaboration avec Bic C : relevez un maximum de défis dans une
+      expérience immersive total et des décors réalistes !</p></li></ul>"
   activation_onglets: true
 - name: Fun Paintball & VTT
   img: "/assets/images/stages/activitesfun/funpaintballetvtt.png"
