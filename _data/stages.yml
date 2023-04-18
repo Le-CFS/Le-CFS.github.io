@@ -9258,7 +9258,7 @@ stages:
       info_line: Les déplacements en transports en commun sont assurés par le CFS.
   activation_onglets: true
 - name: Fun Ados
-  img: "/assets/images/stages/activitesfun/evasion.png"
+  img: "/assets/images/fun-ado-laser-game.png"
   inscription: ''
   categorie: Activités fun
   online: true
