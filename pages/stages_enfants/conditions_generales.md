@@ -41,7 +41,7 @@ Pour le remboursement d’un stage, vous devez téléphoner au secrétariat au p
 
 Le CFS se réserve le droit d’annuler un stage si le nombre d’enfants inscrits n’est pas suffisant. Nous vous préviendrons par email ou par téléphone, au plus tard, une semaine avant le début du stage. Nous vous proposerons, dès lors, une solution de remplacement. Si aucun changement n’est possible, l’intégralité du montant perçu vous sera remboursée.
 
-Le CFS se réserve le droit de mettre fin à une activité d’un enfant dont le comportement constitue une entrave au bon déroulement du Stage des autres enfants.
+Le CFS se réserve le droit de mettre fin à une activité d’un enfant dont le comportement constitue une entrave au bon déroulement du stage des autres enfants.
 
 ## Payement
 
@@ -55,13 +55,13 @@ Les stages se déroulent du lundi au vendredi de 9h à 16h avec 4 périodes d’
 
 Le Client doit prévoir le repas de midi, des collations et boissons en suffisance ainsi que des vêtements et des chaussures de sport (prendre des vêtements adaptés en cas de mauvais temps).
 
-Si un Stage nécessite un déplacement (excursion, natation, équitation, etc.), celui-ci sera organisé par le CFS via des véhicules comme des bus, des camionnettes ou des voitures ou en transports en commun (train, métro, etc.).
+Si un stage nécessite un déplacement (excursion, natation, équitation, etc.), celui-ci sera organisé par le CFS via des véhicules comme des bus, des camionnettes, des voitures ou en transports en commun (train, métro, etc.).
 
 Une garderie est organisée le matin dès 8h00 et le soir jusqu’à 18h00 avec gratuité de la garderie de 08h45 à 9h00 et de 16h00 à 16h15. Le forfait garderie est de 5 € (matin), 10 € (soir) ou de 12 € (matin et soir). Possibilité de prendre à la carte : 1€ par ½ heure entamée.
 
 Les parents s’engagent à respecter ces horaires et seront particulièrement attentifs à ne pas dépasser l’heure de la garderie du soir.
 
-Une autorisation signée du(des) parent(s) est indispensable si l'enfant rentre seul ou avec une tierce personne à l’issue des journées du Stage. Les autorisations de sortie sont téléchargeables sur notre site ou disponible à l'accueil du 1er jour.
+Une autorisation signée du(des) parent(s) est indispensable si l'enfant rentre seul ou avec une tierce personne à l’issue des journées du stage. Les autorisations de sortie sont téléchargeables sur notre site ou disponible à l'accueil du 1er jour.
 
 Dans chaque centre, un responsable est à votre disposition pendant le stage pour entendre vos remarques ou vos souhaits. N’hésitez pas à le contacter !
 
