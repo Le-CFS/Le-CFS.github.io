@@ -117,6 +117,5 @@ Brabant 010/22.73.96 – Bruxelles 02/420.53.02 – Liège 085/31.22.46
 
 #### Horaires du secrétariat (du lundi au vendredi) :
 
-* D'octobre à mai : de 9h00 à 12h30 et de 13h30 à 18h00
-* De juin à Septembre : de 8h00 à 18h00 (sans interruption)
-* Pendant les périodes de stages et semaines qui précèdent : de 8h00 à 18h00 (sans interruption)
+* Durant l'année : de 9h00 à 12h30 et de 13h30 à 18h00 (les mercredis de 9h00 à 18h00 sans interruption)
+* Pendant les périodes de stages : de 8h00 à 18h00 (sans interruption)
