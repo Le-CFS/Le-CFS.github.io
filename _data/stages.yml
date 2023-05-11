@@ -686,7 +686,7 @@ stages:
 - name: Mini Bolide
   categorie: Activités fun
   img: "/assets/images/mini-bolide.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: true
@@ -834,7 +834,7 @@ stages:
 - name: VTT
   categorie: Activités sportives
   img: "/assets/images/vtt-orp.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1250,7 +1250,7 @@ stages:
 - name: Speed 4 Fun
   categorie: Activités fun
   img: "/assets/images/speed4fun.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -3465,7 +3465,7 @@ stages:
 - name: Parkour Evolution
   categorie: Activités sportives
   img: "/assets/images/activites_parascolaires_cfs_parkour.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: true
@@ -3674,7 +3674,7 @@ stages:
 - name: Immersion Anglais
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stage-enfant-immersion-anglais-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -3696,7 +3696,7 @@ stages:
 - name: Futsal Road to World Cup 2022
   categorie: Activités sportives
   img: "/assets/images/stage_enfant_footballworldcup22.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -3759,7 +3759,7 @@ stages:
 - name: Tamtam'usique
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stage-enfant-musique-multisports-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -3847,7 +3847,7 @@ stages:
       info_line: ''
 - name: Koh Lanta Survivor
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: true
   img: "/assets/images/stages-enfants-kohlanta-survivor-500x500.jpg"
   stage_une: false
@@ -7078,7 +7078,7 @@ stages:
 - name: Sciences & Technologies
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stages/decouvertesportiveetculturelle/babysavant.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -7115,7 +7115,7 @@ stages:
 - name: Quad & Laser
   categorie: Activités fun
   img: "/assets/images/anniversaires/activites/quad.png"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -7263,7 +7263,7 @@ stages:
 - name: Karting
   categorie: Activités fun
   img: "/assets/images/stage-enfant-karting-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -7419,7 +7419,7 @@ stages:
 - name: Baby Multisports & Poney
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-baby-multi-et-poney-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -8674,7 +8674,7 @@ stages:
   img: "/assets/images/stages/decouvertesportiveetculturelle/lanta.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -9059,31 +9059,30 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Il souhaite
-      un stage varié et fun ? Ce stage phare du CFS est fait pour lui ! Un stage alléchant
-      qui propose chaque jour une activité ludique et privilégie les activités en
-      extérieur.</p><p><strong>Exemples d'excursions : </strong>Laser Game, Arrow
-      Game, Parc Aventure, Aqualibi, New Games, Fun Game.</p><ul><li><p><strong>Arrow
-      game</strong> : différents jeux ludiques avec des arcs à flèches sont proposés
-      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
-      chevaliers et mages (l'arrow game se pratique également avec des flèches avec
-      un bout en mousse et des masques de paintball).</p></li><li><p><strong>Excursion
-      au Parc Aventure de Wavre</strong> : le parc propose des activités d'accrobranche
-      dans les bois.</p></li><li><p><strong>Excursion à Aqualibi</strong> : Parc d'attractions
-      aquatique : des toboggans qui plairont à tous, une piscine à vague pour un moment
-      de fun inoubliable, une rivière surprenantes parfois tranquille, parfois carrément
-      féroce et bien d'autres plaisirs aquatiques t'attendent !</p></li><li><p><strong>New
-      games</strong> : différentes activités fun sont proposées sur la journée telles
-      que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Fun
-      Game</strong><em> (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>
-      : activités crazy light, darts, sumo, twister géant,…(1/2 journée)</p></li></ul><p>Ce
-      stage peut également être complété par d'autres activités en extérieur comme
-      des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un
-      stratégo géant. Si la météo n'est pas clémente, les activités se feront en intérieur
-      dans les centres sportifs.</p><p><strong><em>ATTENTION : </em></strong><em>le
-      programme varie en fonction des périodes de l'année et des jours d'ouverture
-      de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous
-      au descriptif de stage lors de l'inscription.</em></p>"
+    description: "<p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Ce stage phare du CFS est fait pour lui ! Un stage alléchant qui propose chaque jour une activité ludique et privilégie les activités en extérieur.</p>
+                  <p><strong>PROGRAMME :</strong>
+                    Laser Game, Arrow Game, Parc Aventure, Fun Game, New Games, Journée Koh Lanta
+                  </p>
+                  <ul>
+                    <li>
+                      <p><strong>Arrow game</strong> : différents jeux ludiques avec des arcs à flèches sont proposés comme des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique également avec des flèches avec un bout en mousse et des masques de paintball).</p>
+                    </li>
+                    <li>
+                      <p><strong>Excursion au Parc Aventure de Wavre</strong> : le parc propose des activités d'accrobranche dans les bois.</p>
+                    </li>
+                    <li>
+                      <p><strong>Fun Game</strong><em> (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>: activités crazy light, darts, sumo, twister géant,…(1/2 journée)</p>
+                    </li>
+                    <li>
+                      <p><strong>New games</strong> : différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p>
+                    </li>
+                    <li>
+                      <p><strong>Journée Koh Lanta</strong> : composition des tribus, épreuves en binôme et par équipe (avec les mythiques course d'orientation et épreuve des poteaux!), fabrication de campement, et dégustation d’insectes pour les plus courageux.</p>
+                    </li>
+                  </ul>
+                  <p>Ce stage peut également être complété par d'autres activités en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un stratégo géant. Si la météo n'est pas clémente, les activités se feront en intérieur dans les centres sportifs.</p>
+                  <p><strong><em>ATTENTION : </em></strong><em>le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>
+                "
     infos:
     - alias: Vêtement extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
@@ -9099,26 +9098,16 @@ stages:
     age: 8-12 ans
     description: "<p>Votre enfant a entre <strong>8 et 12 ans </strong>? Il souhaite
       essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous
-      propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>Exemples
-      d'excursions  : </strong>New Games, Arrow Game, Space Fun Game (Fort Boyard
-      &amp; Laser Game), Laser Game extérieur, Parc Aventure, Aqualibi.</p><ul><li><p><strong>New
-      games :</strong> différentes activités fun sont proposées sur la journée telles
-      que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li><li><p><strong>Arrow
-      game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés
-      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
-      chevaliers et majes (l'arrow game se pratique également avec des flèches avec
-      un bout en mousse et des masques de paintball).</p></li><li><p><strong>Excursion
-      à Space Fun Game d'Etterbeek</strong> : activités de type Fort Boyard et 2 parties
-      de laser game indoor.</p></li><li><p><strong>Laser game :</strong> organisé
-      en extérieur.</p></li><li><p><strong>Excursion au Parc Aventure de Wavre</strong>
-      : le parc propose des activités d'accrobranche dans les bois.</p></li><li><p><strong>Excursion
-      à Aqualibi</strong> : Parc d'attractions aquatique : des toboggans qui plairont
-      à tous, une piscine à vague pour un moment de fun inoubliable, une rivière surprenantes
-      parfois tranquille, parfois carrément féroce et bien d'autres plaisirs aquatiques
-      t'attendent !</p></li></ul><p>Ce stage pourrait être complété par d'autres activités
-      en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache
-      21, ou encore un stratégo géant. Si la météo n'est pas clémente, les activités
-      se feront en intérieur dans les centres sportifs.</p><p><strong><em>ATTENTION
+      propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>PROGRAMME  : </strong>New Games, Arrow Game, Laser Game extérieur, Space Fun Game (Fort Boyard & Laser Game), Parc Aventure de Wavre, Journée Koh Lanta</p>
+      <ul>
+      <li><p><strong>New games :</strong> différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li>
+      <li><p><strong>Arrow game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés comme des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique également avec des flèches avec un bout en mousse et des masques de paintball).</p></li>
+      <li><p><strong>Laser game :</strong> organisé en extérieur en collaboration avec <strong>Koala Crazy Game</strong>.</p></li>
+      <li><p><strong>Excursion à Space Fun Game d'Etterbeek</strong> : activités de type Fort Boyard et 2 parties de laser game indoor.</p></li>
+      <li><p><strong>Excursion au Parc Aventure de Wavre</strong> : le parc propose des activités d'accrobranche dans les bois.</p></li>
+      <li><p><strong>Journée Koh Lanta</strong> : composition des tribus, épreuves en binôme et par équipe (avec les mythiques course d'orientation et épreuve des poteaux!), fabrication de campement, et dégustation d’insectes pour les plus courageux.</p></li>
+      </ul>
+      <p>Ce stage pourrait être complété par d'autres activités en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un stratégo géant. Si la météo n'est pas clémente, les activités se feront en intérieur dans les centres sportifs.</p><p><strong><em>ATTENTION
       :</em></strong><em> le programme varie en fonction des périodes de l'année et
       des jours d'ouverture de nos différents partenaires. Pour le programme réel
       d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>"
@@ -9363,7 +9352,7 @@ stages:
   img: "/assets/images/stages/activitesfun/lanta.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -9594,7 +9583,7 @@ stages:
   img: "/assets/images/stages/activitessportives/aquafun.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9836,7 +9825,7 @@ stages:
   img: "/assets/images/stage_enfant_footballworldcup22.jpg"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:

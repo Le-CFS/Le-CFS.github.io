@@ -13,7 +13,7 @@ inscription:
   texte_mobile: Inscription
 slider:
 - titre: Stages 2023 !
-  src: "/assets/images/slider_paques_ete_23.jpg"
+  src: "/assets/images/CFS_ete_23.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4
 - titre: Piscine Liernu
   src: "/assets/images/liernu.png"
