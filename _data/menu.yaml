@@ -196,7 +196,7 @@ anniversaires:
     url: "/anniversaires/reservation/"
   - title: EVG
     url: "/anniversaires/evg/"
-  - title: Anniversaires
+  - title: Brochures
     url: "/brochures/anniversaires/"
   - title: En savoir plus
     url: "/anniversaires/en_savoir_plus/"
