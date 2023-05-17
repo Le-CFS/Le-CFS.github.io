@@ -6,8 +6,8 @@ cfs:
   sousmenu:
   - title: News
     url: "/cfs/news/"
-  - title: Presse
-    url: "/cfs/presse/"
+  - title: Carte Membre
+    url: "/cfs/carte-membre/"
   - title: Réductions
     url: "/cfs/reductions/"
   - title: Questions fréquentes
@@ -69,6 +69,8 @@ cfs:
       url: "/cfs/les_centres_cfs/wsp"
   - title: Partenaires
     url: "/cfs/partenaires/"
+  - title: Presse
+    url: "/cfs/presse/"
 stages_enfants:
   titre: Stages enfants
   url: "/stages/"
