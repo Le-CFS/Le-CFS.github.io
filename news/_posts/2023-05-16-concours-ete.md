@@ -28,9 +28,9 @@ Prêt.e ? 🍀 Comment participer ?
 
 ⚠ Attention :
 
-Une seule participation par compte
-Stages au choix hors partenaires
-Ce bon cadeau sera nominatif et ne pourra être ni échangé ni utilisé pour une autre période que l’été
+* Une seule participation par compte
+* Stages au choix hors partenaires
+* Ce bon cadeau sera nominatif et ne pourra être ni échangé ni utilisé pour une autre période que l’été
 
 Tirage au sort des 2 gagnants vendredi 16 juin 🥳
 
