@@ -6,8 +6,8 @@ cfs:
   sousmenu:
   - title: News
     url: "/cfs/news/"
-  - title: Carte Membre
-    url: "/cfs/carte-membre/"
+#   - title: Carte Membre
+#     url: "/cfs/carte-membre/"
   - title: Réductions
     url: "/cfs/reductions/"
   - title: Questions fréquentes
