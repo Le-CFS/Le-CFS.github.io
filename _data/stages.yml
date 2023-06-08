@@ -7376,7 +7376,7 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 7-16 ans
+    age: 7-14 ans
     description: "<p><em>Stage en partenariat avec </em>le<strong><em> Manège de La
       Motte</em></strong></p><p>Ce stage est une pleine participation à la vie du
       manège : soins et pansage des chevaux, nettoyage des box, balades et jeux à
@@ -7387,8 +7387,7 @@ stages:
       </strong>Français/Néerlandais.</p>"
     infos:
     - alias: Tenue adaptée
-      info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
-        large) et des bottes.
+      info_line: Se munir d'une bombe ou d'un casque de vélo dès le premier jour de stage.
     - alias: Garderie
       info_line: 'Garderie : Inscription sur place. Accueil à partir de 8h et jusque
         16h30. Pas de garderie prévue le soir !'
@@ -8261,8 +8260,7 @@ stages:
       selle les poney avant de les monter.</p><p>Stage <strong>bilingue </strong>Français/Néerlandais.</p>"
     infos:
     - alias: Tenue adaptée
-      info_line: Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue
-        large) et des bottes.
+      info_line: Se munir d'une bombe ou d'un casque de vélo dès le premier jour de stage.
     - alias: Matériel
       info_line: Le manège met à disposition tout le matériel adéquat pour les petits
         cavaliers.
