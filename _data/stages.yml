@@ -11104,5 +11104,98 @@ stages:
       info_line: Les enfants restent avec le même moniteur et ont leur propre local
         toute la semaine.
   activation_onglets: true
+- name: Mini-Hockey & Multisports
+  img: "/assets/images/lara-mini-hockey-et-multisports.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
+                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant. </p>
+                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
+                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi est consacrée à la découverte d'une activité multisports. Des activités comme du baseball, unihoc, ball bouncer, etc. sont favorisées car elles permettent aux enfants d'utiliser à nouveau du matériel qui est le prolongement de leur main.</p>
+                  "
+  activation_onglets: false
+- name: Mini-Hockey & Vélo
+  img: "/assets/images/lara-mini-hockey-et-velo.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
+                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.  </p>
+                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
+                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi est consacrée à l'apprentissage de la conduite à vélo : apprendre à rouler sur deux roues, réaliser de petits parcours d'adresse, apprentissage du code de la route et des règles élémentaires de sécurité.</p>
+                  "
+    infos:
+    - alias: info
+      info_line: "L'enfant doit venir avec son vélo en bon état et son casque. Les enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo."
+    - alias: tenue
+      info_line: "Prévoir une tenue adaptée pour les activités en extérieur."
+  activation_onglets: false
+- name: Mini-Hockey & Aqua
+  img: "/assets/images/lara-mini-hockey-et-aqua.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
+                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.  </p>
+                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
+                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi est consacrée à l'apprentissage des bases de la natation par le biais d'activités ludiques (voyage sur une frite ou une planche, mettre la tête sous l'eau, etc.), le tout dans une ambiance décontractée !</p>
+                  "
+    infos:
+    - alias: info
+      info_line: "Dès le 1er jour, prévoir maillot, essuie et bonnet."
+  activation_onglets: false
+- name: Hockey
+  img: "/assets/images/lara-hockey.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
+                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.  </p>
+                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
+                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi les enfants rejoignent un stage du centre.</p>
+                  "
+  activation_onglets: false
+- name: Hockey & Fun
+  img: "/assets/images/lara-hockey-et-fun.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
+                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant. </p>
+                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
+                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi les enfants découvrent des activités fun : Kinball, ultimate frisbee, tchoukball, speedminton, flag foot, etc.</p>
+                  "
+  activation_onglets: false
 activites: []
 GLOBAL_activation_onglets: true
