@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Lara Hockey Club
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/lara-hockey-club.png"
+  href: https://larahc.be/
+  bouton: ''
+  couleur_bouton: ''
 - name: YourTenniSchool
   categorie: partenaires pédagogiques
   online: true
