@@ -15,12 +15,12 @@ slider:
 - titre: Stages 2023 !
   src: "/assets/images/slide_ete_23.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4
+- titre: Activités extrascolaires 2023-2024
+  src: "/assets/images/extrascolaires_23_24.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
 - titre: Piscine Liernu
   src: "/assets/images/liernu.png"
   href: ''
-- titre: Activités extrascolaires 2022-2023
-  src: "/assets/images/cfs_extrascolaire2021-2022.jpg"
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
 selection:
   nom: Sélection du CFS
   images:
