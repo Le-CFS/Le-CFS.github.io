@@ -11107,7 +11107,7 @@ stages:
 - name: Mini-Hockey & Multisports
   img: "/assets/images/lara-mini-hockey-et-multisports.png"
   inscription: ''
-  categorie: Activités sportives
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
@@ -11124,7 +11124,7 @@ stages:
 - name: Mini-Hockey & Vélo
   img: "/assets/images/lara-mini-hockey-et-velo.png"
   inscription: ''
-  categorie: Activités sportives
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
@@ -11146,7 +11146,7 @@ stages:
 - name: Mini-Hockey & Aqua
   img: "/assets/images/lara-mini-hockey-et-aqua.png"
   inscription: ''
-  categorie: Activités sportives
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
