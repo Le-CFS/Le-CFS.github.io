@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Mokko Padel Club
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/mokko.png"
+  href: https://www.mokkopadelproject.be/
+  bouton: ''
+  couleur_bouton: ''
 - name: Lara Hockey Club
   categorie: partenaires pédagogiques
   online: true
