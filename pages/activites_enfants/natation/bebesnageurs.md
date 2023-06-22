@@ -31,4 +31,4 @@ _Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription
 Bierges - Le Provincial
 
 📍 **Namur**  
-Liernu _(Eghezée)_ - **NOUVEAU !** A partir de **Janvier 2023**
+Liernu _(Eghezée)_ - Piscine de Liernu : *Rue du Gros Chêne 78 • 5310 Eghezée*
