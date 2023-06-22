@@ -31,4 +31,4 @@ Ottignies - Collège du Christ-Roi
 Ottignies - Athénée Royal Paul Delvaux
 
 📍 **Namur**  
-Liernu _(Eghezée)_ - **NOUVEAU !** A partir de **Janvier 2023**
+Liernu _(Eghezée)_ - Piscine de Liernu : *Rue du Gros Chêne 78 • 5310 Eghezée*
