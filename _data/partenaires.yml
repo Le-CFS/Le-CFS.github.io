@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Mbo Mpenza
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/mcc-logo.jpg"
+  href: "https://mbompenza.be/mbo-mpenza-challenge/a-propos"
+  bouton: ''
+  couleur_bouton: ''
 - name: Mokko Padel Club
   categorie: partenaires pédagogiques
   online: true

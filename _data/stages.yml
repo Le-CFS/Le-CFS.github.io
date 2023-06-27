@@ -11224,5 +11224,27 @@ stages:
   infos:
     - alias: Matériel
       info_line: "Le matériel est mis à disposition par notre partenaire."
+- name: Football - En collaboration avec Mbo Mpenza
+  img: "/assets/images/foot-mpenza.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-18 ans
+    description: "<p>Votre enfant est un vrai mordu du ballon ? Notre stage de football est l'idéal pour lui ! </p>
+                  <p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p>
+                  <p>Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle. </p>
+                  <p>Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.</p>
+                  <p>La journée est répartie en 3 périodes de football et une période de multisports.</p>
+                  <p>En complément du stage, les équipes de Mbo Mpenza vont rassembler les jeunes issus de différents horizons et aux parcours divers afin de promouvoir l'inclusion, l'esprit d'équipe et le dépassement de soi. Les enfants participeront <b>chaque jour à des ateliers de minimum 1h sur la discrimination via des jeux footballistiques</b>. L’expérience des six dernières années sur le terrain a conduit Mbo à développer sa propre méthode novatrice pour lutter contre toute forme de discrimination. Cette méthode repose sur trois piliers essentiels : la sensibilisation, la formation et l’action. Ces trois piliers sont interdépendants et se complètent pour susciter un changement auprès des jeunes participants.</p>
+                  "
+  activation_onglets: false
+  infos:
+    - alias: Matériel
+      info_line: "Le matériel est mis à disposition par notre partenaire."
 activites: []
 GLOBAL_activation_onglets: true
