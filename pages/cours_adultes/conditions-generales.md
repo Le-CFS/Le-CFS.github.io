@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conditions générales
-permalink: /activites/cours_adultes/conditions-generales/
+permalink: /cours_adultes/conditions-generales/
 menu: activites
 ---
 
