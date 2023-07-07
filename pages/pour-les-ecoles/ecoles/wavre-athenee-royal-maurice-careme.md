@@ -34,7 +34,7 @@ texte="Je m'inscris à une activité parascolaire"
 {% include utils/button.html  
 lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ER3JCSpPcBxItJmAGBpH93IBYCo5L0oFWJ5cgqmvMhnVBQ?e=cqFR3A' couleur="info"  
 autre_page=true  
-texte="Mon dépliant 2022-2023"  
+texte="Mon dépliant 2023-2024"  
 %}
 
 ***
