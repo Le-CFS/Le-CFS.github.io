@@ -1,18 +1,15 @@
 ---
 layout: page
 title: Conditions générales
-banner: "/assets/images/banner/infospratiques/conditionsgenerales.png"
-image: "/assets/images/banner/infospratiques/conditionsgenerales.png"
-permalink: "/stages/conditions_generales/"
-menu: true
-description: Les informations officielles et conditions générales pour la participation
-  aux stages du CFS.
-
+permalink: /activites/conditions-generales/
+menu: activites
 ---
+
 ### Article 1. Modalités d’inscription
 #### Article 1.1. Inscription
-En validant l’inscription à l’un de nos stages, vous adhérez aux conditions générales du CFS.
-Les inscriptions aux stages se font :
+En validant l’inscription à l’une de nos activités, vous adhérez aux conditions générales du
+CFS.
+Les inscriptions aux activités se font :
 - Par le site internet (www.lecfs.be) avec votre espace MyCFS
 - Par mail (info@lecfs.be)
 - Par téléphone (010/22.73.96 Brabant Wallon – 02/420.53.02 Bruxelles – 085/31.22.46
@@ -20,22 +17,18 @@ Liège)
 
 Après chaque inscription, un mail de confirmation est automatiquement envoyé. Si vous ne
 recevez pas ce mail, veuillez prendre contact avec le secrétariat.
-Les inscriptions en cours de semaine de stage sont possibles tant que des places sont encore
-disponibles en activité. Au tel cas, le prix de la cotisation est revu au prorata (pour les stages
-comprenant des excursions, le tarif est recalculé en fonction des excursions restantes).
-#### Article 1.2. Réductions
-Les réductions sont accordées aux enfants habitant sous le même toit. Il y a trois périodes de
-réduction : Toussaint et Noël, Carnaval et Pâques, Eté.
-Attention, les différentes périodes ne sont pas cumulables.
-Une fois la période sélectionnée, additionnez le nombre de stages auxquels vos enfants
-participent pendant cette période :
-Nombre de stages Réductions
-3 stages 15 € => sur le 3ème stage<br>
-4 stages 20 € => sur le 4ème stage<br>
-5 stages 30 € => sur le 5ème stage<br>
-6 stages 40 € => sur le 6ème stage<br>
-7 stages 50 € => sur le 7ème stage<br>
-8 stages + 10 € par stage supplémentaire
+Les inscriptions en cours d’année sont possibles tant que des places sont encore disponibles en
+activité. Au tel cas, le prix de la cotisation est revu au prorata des séances devant encore avoir
+lieu jusqu’à la fin de la période de l’activité.
+#### Article 1.2. Séance d’essai
+Chaque enfant a droit à une seule séance d’essai gratuite en activité et ce, uniquement au
+mois de septembre. L’inscription est cependant obligatoire au préalable pour participer à cet
+essai. L’annulation se fera sans frais si l’essai n’est pas concluant et si le secrétariat a été
+informé du souhait de ne pas poursuivre l’activité.
+#### Article 1.3. Réductions
+À partir de la seconde inscription à une activité pour un même enfant ou un autre membre vivant
+sous le même toit, une réduction de 10€ est accordée (excepté pour les activités academy :
+natation, tennis, robotique, gym academy, judo, mini-foot academy).
 ### Article 2. Conditions de participation
 #### Article 2.1. Droits et devoirs des enfants
 Les enfants sont accueillis dans un environnement adapté et sécurisé. Chaque enfant doit
@@ -50,42 +43,32 @@ tolérance, d’entraide et de solidarité au sein du groupe. Le CFS insiste sur
 politesse, de fair-play et de savoir-vivre.
 L’usage du téléphone est proscrit durant les activités, ainsi que la détention de cigarettes ou de
 boissons alcoolisées.
-Le CFS se réserve le droit de mettre fin au stage d’un enfant dont le comportement constitue une
-entrave au bon déroulement de l’activité des autres enfants. Le non-respect des règles
+Le CFS se réserve le droit de mettre fin à l’activité d’un enfant dont le comportement constitue
+une entrave au bon déroulement de l’activité des autres enfants. Le non-respect des règles
 énumérées ci-dessous entraînera, après avertissement auprès des parents/titulaires, un renvoi
 immédiat du stagiaire sans recours ni remboursement.
-#### Article 2.2. Horaires
-Les stages se déroulent du lundi au vendredi de 9h à 16h avec 4 périodes d’activité.
-Une garderie est organisée le matin dès 8h00 et le soir jusqu’à 18h00 avec gratuité de la
-garderie de 08h45 à 9h00 et de 16h00 à 16h15 (sauf exceptions précisées pour certains stages
-avec nos partenaires). Le forfait garderie est de 5 € (matin), 10 € (soir) ou de 12 € (matin et soir)
-pour 5 jours de stages. Le forfait est de 4 € (matin), 8 € (soir) ou de 10 € (matin et soir) pour 4
-jours de stages. Il est également possible de prendre une garderie à la carte : 1€ par ½ heure
-entamée.
-Les parents s’engagent à respecter scrupuleusement ces horaires et seront particulièrement
-attentifs à ne pas dépasser l’heure de la garderie du soir.
-Une autorisation signée du(des) parent(s) est indispensable si l’enfant rentre seul ou avec une
-tierce personne à l’issue des journées de stage.
-#### Article 2.3. Equipement et repas
-Chaque enfant doit être muni d’une tenue de sport adaptée à son activité, ainsi que d’un repas
-de midi, des collations et d’une bouteille d’eau en quantité suffisante.
+#### Article 2.2. Ponctualité
+Les parents sont priés d'être ponctuels et d'éviter tout retard tant au début du cours qu'à la fin.
+Nous vous demandons de respecter scrupuleusement les horaires. Le CFS ne sera plus
+responsable de votre enfant après l’heure de fin d’activité indiquée dans votre email de
+confirmation.
+Si votre enfant peut quitter seul son activité, vous devrez obligatoirement le mentionner dans son
+inscription via l’option « Mon enfant peut quitter seul son activité ».
+#### Article 2.3. Equipement
+Chaque enfant doit être muni d’une tenue de sport adaptée à son activité, ainsi que d’une
+collation et bouteille d’eau en quantité suffisante.
 En cas d’intempéries, les activités données en extérieur seront maintenues (sauf cas
 exceptionnels). Chaque enfant devra être équipé d’une tenue adaptée aux conditions
 climatiques ainsi que d’une tenue de rechange.
-#### Article 2.4. Déplacements
-Certains stages nécessitent un déplacement (excursion, natation, équitation, etc.). Celui-ci sera
-organisé par le CFS via des véhicules comme des bus, des camionnettes, des voitures ou en
-transports en commun (train, métro, etc.).
-#### Article 2.5. Age
+#### Article 2.4. Age
 Nous recommandons de respecter les limites d’âge - minimum et maximum - définies pour
-chacune des activités.
+chacune des activités. Si un enfant est inscrit dans un groupe qui n’est pas adapté à son âge,
+nous nous donnons le droit de le basculer vers une autre activité.
 Mais chaque enfant grandit à son propre rythme. Tous les enfants de 4 ans, par exemple, n’ont
 pas la même « maturité » physique et physiologique. Pour tout cas particulier, n’hésitez pas à
 contacter notre secrétariat.
-Le CFS se réserve le droit de changer de stage un enfant qui n’aurait pas l’âge adapté pour
-poursuivre les activités avec son groupe.
 L’enfant et son bien-être restent au centre de nos préoccupations.
-#### Article 2.6. Handicap et propreté
+#### Article 2.5. Handicap et propreté
 Enfants porteurs d’handicap : le centre de vacances accepte des enfants de type 1 (retard
 mental léger) et type 3 (troubles du comportement) au cas par cas. Pour cela, merci de
 téléphoner au secrétariat afin d'en discuter avec notre équipe. Nous nous réservons le droit de
@@ -93,10 +76,10 @@ ne pas inscrire l'enfant si nous ne sommes pas en mesure de nous en occuper et d
 dans les meilleures conditions. En raison des infrastructures inadaptées, nous ne sommes pas
 en mesure d’accepter des enfants porteurs d'un handicap moteur.
 Pédiculose (présence de poux sur la tête) et maladies contagieuses : les enfants porteurs
-de poux ou de maladies contagieuses seront écartés. Ils pourront réintégrer le stage après
+de poux ou de maladies contagieuses seront écartés. Ils pourront réintégrer les cours après
 accord de la direction et/ou accord médical.
 Propreté des plus petits : le CFS se réserve le droit de refuser l’inscription d’un enfant qui n’est
-pas propre (sauf pour les stages de pré-psychomotricité).
+pas propre.
 ### Article 3. Paiement
 #### Article 3.1. Tarif
 Les prix affichés sur le site www.lecfs.be sont indiqués en euros, toutes taxes comprises. Le
@@ -106,10 +89,16 @@ pédagogique, l’assurance (le risque de dommage occasionné aux lunettes n’e
 couvert), le matériel, les locaux et les éventuels transports selon l'activité choisie.
 Nous vous invitons à payer le montant total de votre inscription par virement bancaire dès
 réception du mail de confirmation avec la communication structurée adéquate.
-#### Article 3.2. Exclusion
-Le CFS se réserve le droit de ne pas accepter un enfant qui ne serait pas en règle de paiement
-pour son stage.
-#### Article 3.3. Chèques Sport & Culture
+Pour les inscriptions en cours d’année, le paiement devra être fait pour la première séance.
+#### Article 3.2. Rappels de paiement
+En cas de non-paiement, tant les frais de rappel que les frais de mise en demeure adressés à
+l’usager ou à son tuteur, pour motif de non-paiement de l’activité ou du cours, seront portés à
+charge de ceux-ci. Ils seront augmentés d’un forfait de 15 € pour frais administratifs.
+#### Article 3.3. Exclusion
+Le CFS se réserve le droit de ne plus accepter un enfant qui ne serait pas en règle de paiement
+pour une activité antérieure ou si l'activité en cours n'a pas été due à l'échéance reprise dans
+l'email de confirmation.
+#### Article 3.4. Chèques Sport & Culture
 Nous acceptons les chèques Sport & Culture des sociétés Edenred et Sodexo sous format
 papier. Nous acceptons également les chèques Sport & Culture Sodexo sous format
 électronique. Comment effectuer votre paiement ? Déplacez-vous dans nos bureaux à l’adresse
@@ -117,24 +106,26 @@ suivante : Rue Provinciale 225 – 1301 Bierges (nos bureaux se situent en face 
 contactez-nous par téléphone.
 ### Article 4. Politique d’Annulation
 #### Article 4.1. Annulation et absence en cas de maladie
-Il est possible d’annuler votre inscription par téléphone ou par mail tant que la semaine de stage
-n’a pas encore débuté. Aucun frais de dossier ne vous sera demandé, et le montant du stage
-vous sera totalement remboursé tant que vous nous prévenez 7 jours ouvrables avant le 1er jour
-de stage.
-Passé ce délai, nous n’acceptons plus de remboursement. Un bon à valoir vous sera accordé
-moins 20€ de frais de dossier.
-Il ne sera plus possible d’annuler votre inscription une fois la semaine de stage entamée.
-En cas de maladie, un certificat médical doit être envoyé par mail (info@lecfs.be) ou remis en
-main propre au coordinateur présent sur place. Lorsque le stage a déjà débuté, vous devez
-prévenir le secrétariat au plus tard le premier jour d’absence. Sauf cas exceptionnel, le
-remboursement ne sera accordé qu’à partir d’une absence de trois jours (certificat médical à
-l’appui). Une somme de 20€ sera retenue pour les frais de dossier.
-Toute autre absence en cours de stage ne sera pas remboursée.
+Le CFS accorde un délai de 7 jours après la séance d’essai pour annuler une inscription. Une
+fois ce délai écoulé, il ne sera plus possible d’annuler votre inscription. Notre secrétariat reste
+néanmoins à votre disposition pour toute demande spécifique.
+En cas d’interruption de l’activité de votre enfant en cours d’année, l’intégralité du montant payé
+reste dû au CFS, sauf présentation d’un certificat médical prouvant l’incapacité de votre enfant à
+suivre l’activité.
+Ce certificat médical devra être envoyé au secrétariat par mail (info@lecfs.be). Un bon à valoir
+pourra être octroyé au prorata des séances manquées moins la somme de 15 euros, retenue en
+paiement des frais administratifs supportés par le CFS. Aucun remboursement ne sera octroyé.
+Aucun bon à valoir, remboursement ou rattrapage ne sera possible pour tout autre absence.
 #### Article 4.2. Annulation de la part du CFS
-Le CFS se réserve le droit d’annuler un stage si le nombre d’enfants inscrits n’est pas suffisant.
-Nous vous préviendrons par email ou par téléphone, au plus tard une semaine avant le début du
-stage. Nous vous proposerons, dès lors, une solution de remplacement. Si aucun changement
-n’est possible, l’intégralité du montant perçu vous sera remboursée.
+Le CFS se réserve le droit d’annuler totalement une activité si le nombre d’enfants inscrits n’est
+pas suffisant. Nous vous proposerons, dès lors, une solution de remplacement. Si aucun
+changement n’est possible, l’intégralité du montant perçu vous sera remboursée.
+L’absence d’un moniteur pour une séance justifie le changement de moniteur sans devoir en
+informer préalablement les inscrits.
+Aucun remboursement ou bon à valoir ne sera octroyé pour une annulation en cas de force
+majeure (catastrophe naturelle, inondations, pandémie, etc.).
+En cas d’annulation d’une séance par le CFS, une séance de récupération ou une solution
+alternative vous sera proposée.
 ### Article 5. Fiche santé
 Il est OBLIGATOIRE de compléter une fiche santé pour chaque enfant inscrit à l’une de nos
 activités. Depuis le 1er juillet 2020, plus de papier ! Pour des raisons sanitaires et pratiques,
@@ -163,12 +154,10 @@ Le CFS décline toute responsabilité en cas de perte, de vol ou de détériorat
 enfant est tenu responsable de ses effets personnels. Ce type d’incident peut être couvert par
 votre assurance familiale. Ne laissez aucun objet de valeur à vos enfants. En aucun cas, le CFS
 ne pourra être tenu pour responsable de tels actes.
-Il est possible de récupérer un objet perdu dans votre centre jusqu’au dernier jour de la période
-de stage (vendredi 18h). Passé ce délai, tous les objets seront donnés à des œuvres caritatives.
 ### Article 7. Attestations
 #### Article 7.1. Attestations fiscales
 Les attestations fiscales sont établies selon les années civiles. Celles-ci sont disponibles à la fin
-de chaque stage sur votre espace MyCFS dans l’onglet financier > attestations > attestations
+de chaque activité sur votre espace MyCFS dans l’onglet financier > attestations > attestations
 fiscales.
 Ces attestations ne sont disponibles que pour les enfants de moins de 14 ans.
 Les parents sont tenus de compléter les registres nationaux de leur(s) enfant(s) ainsi que de

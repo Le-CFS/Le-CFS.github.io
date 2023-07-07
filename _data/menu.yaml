@@ -154,6 +154,8 @@ activites:
       url: "/activites/ecole_de_natation/psycho_aqua/"
     - title: Cours collectifs
       url: "/activites/ecole_de_natation/cours_collectifs/"
+    - title: Conditions générales
+      url: "/activites/ecole_de_natation/conditions-generales/"
   - title: CFS Academy
     url: "/activites/cfs_academy/"
     title_mobile: CFS Academy
@@ -177,6 +179,8 @@ activites:
       url: "/activites/cfs_academy/parkour_pro/"
     - title: Football Academy
       url: "/activites/cfs_academy/football_academy/"
+  - title: Conditions générales
+    url: "/activites/conditions-generales/"
 cours_adultes:
   titre: Cours adultes
   url: "/cours_adultes/"
@@ -188,6 +192,8 @@ cours_adultes:
     url: adultes
   - title: En savoir plus
     url: "/cours_adultes/en_savoir_plus/"
+  - title: Conditions générales
+    url: "/cours_adultes/conditions-generales/"
 anniversaires:
   titre: Anniversaires
   url: "/anniversaires/"
