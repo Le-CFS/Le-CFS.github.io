@@ -28,7 +28,7 @@ C'est avec plaisir que le CFS vous propose pour la 11ème année une activités 
 
 {% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EeCiQkdYYZBEraW8VeN7yVEBn46ZgKTy-tXfHKtUSdWP8w?e=ZxDegB' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
+{% include utils/button.html lien='/files/ottignies-athenee-royal-paul-delvaux-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
 
 ***
 

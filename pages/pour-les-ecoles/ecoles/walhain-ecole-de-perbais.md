@@ -32,3 +32,5 @@ Il nous semblait important de scinder ces activités organisées dans l’école
 un meilleur suivi sur le terrain et en dehors. Nous distinguons donc les garderies/études surveillées des activités parascolaires qui nécessitent une inscription à l’année avec une présence obligatoire (théâtre, psychomotricité, etc...). 
 
 Un coordinateur, Nicolas, est présent sur place pour assurer la gestion au quotidien et restera votre référent. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : garderie@lespetitsgardons.be.
+
+{% include utils/button.html lien='/files/walhain-ecole-perbais-centre-tourinnes-2023-2024-v1' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}

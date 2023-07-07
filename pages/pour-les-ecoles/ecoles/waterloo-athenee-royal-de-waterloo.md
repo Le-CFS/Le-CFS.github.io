@@ -32,11 +32,7 @@ autre_page=true
 texte="Je m'inscris à une activité parascolaire"  
 %}
 
-{% include utils/button.html  
-lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EaS06nZX_2pKo3ImtsA4wd4B2xLG4o5_QvlxuaBk9IIKFw?e=6P1ik8' couleur="info"  
-autre_page=true  
-texte="Mon dépliant 2023-2024"  
-%}
+{% include utils/button.html lien='waterloo-athenee-royal-2023-2024-v1' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
 
 ***
 

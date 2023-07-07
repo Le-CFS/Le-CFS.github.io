@@ -22,7 +22,9 @@ C’est avec plaisir que le CFS vous propose des activités sportives et culture
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Bruxelles' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EeTB9ZQXFqJHiUkOvFzRHlMBpAoDhAWizKTLrNMCH3850Q?e=MPercD' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
+{% include utils/button.html lien='/files/wemelle-maternelle-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024 - Maternelles" %}
+
+{% include utils/button.html lien='/files/wemelle-primaire-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024 - Primaires" %}
 
 ***
 
