@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Ecole La Petite Source
+  categorie: Partenaires écoles
+  online: true
+  logo: "/assets/images/logo-grez-doiceau-la-petite-source.png"
+  href: "http://lapetitesource.be/"
+  bouton: ''
+  couleur_bouton: ''
 - name: Mbo Mpenza
   categorie: partenaires pédagogiques
   online: true

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Grez-Doiceau – Ecole La Petite Source
-banner: "/assets/images/slider-rix-ecole-du-centre.jpg"
-image: "/assets/images/banner-rix-ecole-du-centre.jpg"
+banner: "/assets/images/banner-grez-doiceau-petite-source.jpg"
+image: "/assets/images/banner-grez-doiceau-petite-source.jpg"
 permalink: "/pour-les-ecoles/ecoles/grez-doiceau-la-petite-source/"
 menu: true
 description: Grez-Doiceau – Ecole La Petite Source

@@ -19,7 +19,7 @@ Un cadre convivial pour vos enfants !
 
 Chers Parents, 
 
-Cette année 2021-2022 se termine et nous préparons activement la rentrée 2022-2023. 
+Cette année 2022-2023 se termine et nous préparons activement la rentrée 2023-2024. 
 Nous souhaitions éclaircir certains points organisationnels pour débuter une nouvelle année scolaire de façon pro-active. 
 
 Organisation du CFS
