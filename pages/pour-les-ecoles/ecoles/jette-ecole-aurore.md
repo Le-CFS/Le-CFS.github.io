@@ -24,7 +24,7 @@ lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categori
 
 👉 Sélectionnez votre école dans le menu déroulant **_« Ecole »_**
 
-{% include utils/button.html lien='/files/jette-ecole-aurore-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
+{% include utils/button.html lien='/files/jette-aurore-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
 
 {% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQpX78-BwchHvihpjuk1onkB3t2-bR1-JM9pwJAKFtoOUQ?e=P2vN56' couleur="info" autre_page=true texte="Projet pédagogique" %}
 

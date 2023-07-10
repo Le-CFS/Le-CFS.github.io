@@ -17,9 +17,9 @@ bulle: ''
 
 Chers Parents,
 
-C’est avec plaisir que le CFS vous propose des activités sportives et culturelles le lundi, mardi et jeudi après-midi en collaboration avec l’Ecole du Centre à Rixensart.
+C’est avec plaisir que le CFS vous propose des activités sportives et culturelles en collaboration avec l’Ecole La Petite Source de Grez-Doiceau.
 
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='/files/grez-doiceau-providence-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
+{% include utils/button.html lien='/files/grez-petite-source-2023-2024-v2/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}

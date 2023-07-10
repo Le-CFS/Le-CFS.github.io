@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rosière - Ecole Communale
+title: Rosières - Ecole Communale
 banner: "/assets/images/slider-rosieres.jpg"
 image: "/assets/images/banner-rosieres.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Communale-Rosières/"
