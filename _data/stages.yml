@@ -347,21 +347,23 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 8-14 ans
-    description: '<p><em>Stage en collaboration avec </em><strong><em>YourTenniSchool
-      Wavre</em></strong></p><p>Votre enfant veut découvrir les joies d''un sport
-      de raquettes ?</p><p>Dans cette catégorie, les enfants découvriront la tactique
-      et la technique du jeu de base des coups principaux (service, retour, coup droit,
-      revers, volées, smash).</p><p>Un programme évolutif est mis en place tout au
-      long de la semaine.</p><p>En fonction des niveaux de chacun, les moniteurs adapteront
-      la taille des terrains, des raquettes et des balles pour favoriser la réussite
-      de l’échange.</p><p>Découvrez les activités données par notre partenaire : <a
-      href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p><p>Chaque
-      journée de stage est divisée en deux parties. Durant la matinée, les enfants
-      découvrent des activités fun : Kinball, ultimate frisbee, tchoukball, speedminton,
-      flag foot, etc. L''après-midi est consacrée à la pratique du tennis.</p>'
+    description: '<p><em>Stage en collaboration avec&nbsp;<strong>YourTenniSchool Wavre</strong></em></p>
+
+<p>Votre enfant veut d&eacute;couvrir les joies d&#39;un sport de&nbsp;raquettes ?&nbsp;<img alt="laugh" src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png" title="laugh" /></p>
+
+<p>Dans cette cat&eacute;gorie, les enfants d&eacute;couvriront avec rigueur&nbsp;la tactique et la technique du jeu de base des coups principaux (service, retour, coup droit, revers, vol&eacute;es, smash).</p>
+
+<p>Un programme &eacute;volutif est mis en place tout au long de la semaine.</p>
+
+<p>En fonction des niveaux de chacun, les moniteurs adapteront la taille des terrains, des raquettes et des balles pour favoriser la r&eacute;ussite de l&rsquo;&eacute;change. </p>
+
+<p>D&eacute;couvrez les activit&eacute;s donn&eacute;es par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants rejoignent un stage du centre. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; la pratique du tennis.</p>
+'
     infos:
     - alias: Matériel
-      info_line: 'Tout le matériel de tennis est fourni par notre partenaire. '
+      info_line: 'Tout le matériel de tennis est fourni par notre partenaire.'
     - alias: Repas chaud
       info_line: Repas chaud possible en option de l'inscription (semaine complète
         obligatoire et inscription possible uniquement avant la semaine de stage).
@@ -377,27 +379,22 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 4-7 ans
-    description: '<p><em>Stage en collaboration avec </em><strong><em>YourTenniSchool
-      Wavre</em></strong></p><p>Vous désirez éveiller votre petit bout à un jeu de
-      raquette ?</p><p>Cette catégorie du mini-tennis est découpée en 3 niveaux :
-      le niveau blanc, bleu et rouge. Chaque niveau comprend plusieurs objectifs d’apprentissage.</p><p><strong>Le
-      niveau blanc</strong> : Les enfants seront plongés dans leurs monde imaginaire.
-      Les jeux seront présentés sous forme d’histoires, de comptes et imagés pour
-      que les enfants s’y sentent bien. Ils se familiariseront avec la raquette et
-      la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds,
-      notion du temps et de la perception des trajectoires de la balle.</p><p><strong>Le
-      niveau bleu</strong> : Les enfants apprendront également les premières notions
-      des règles du jeu et tactiques de base en faisant rouler un ballon au sol (être
-      précis, régulier, changer la direction de la balle).</p><p><strong>Le niveau
-      rouge</strong> : Les enfants découvriront la tactique du jeu avec le rebond
-      de la balle. Les enfants y apprendront à servir, à retourner, à utiliser les
-      trajectoires et à marquer des points grâce aux volées.</p><p>Découvrez les activités
-      données par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez
-      ici</a>.</p><p>Chaque journée de stage est divisée en deux parties. Durant la
-      matinée, les enfants s''initient au tennis. L''après-midi est consacrée à l''apprentissage
-      de la conduite à vélo : apprendre à rouler sur deux roues, réaliser de petits
-      parcours d''adresse, apprentissage du code de la route et des règles élémentaires
-      de sécurité.</p>'
+    description: '<p><em>Stage en collaboration avec&nbsp;<strong>YourTenniSchool Wavre</strong></em></p>
+
+<p>Vous d&eacute;sirez &eacute;veiller votre petit bout &agrave; un jeu de raquette ?&nbsp;<img alt="laugh" src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png" title="laugh" /></p>
+
+<p>Cette cat&eacute;gorie du mini-tennis est d&eacute;coup&eacute;e en 3 niveaux : le niveau blanc, bleu et rouge.&nbsp;Chaque niveau comprend plusieurs objectifs d&rsquo;apprentissage.</p>
+
+<p><strong>Le niveau blanc</strong>&nbsp;: Les enfants seront plong&eacute;s dans leurs monde imaginaire. Les jeux seront pr&eacute;sent&eacute;s sous forme d&rsquo;histoires, de comptes et imag&eacute;s pour que les enfants s&rsquo;y sentent bien.&nbsp;Ils se familiariseront avec la raquette et la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds, notion du temps et de la perception des trajectoires de la balle.</p>
+
+<p><strong>Le niveau bleu</strong>&nbsp;: Les enfants apprendront &eacute;galement les premi&egrave;res notions des r&egrave;gles du jeu et tactiques de base en faisant rouler un ballon au sol (&ecirc;tre pr&eacute;cis, r&eacute;gulier, changer la direction de la balle).</p>
+
+<p><strong>Le niveau rouge</strong>&nbsp;: Les enfants d&eacute;couvriront la tactique du jeu avec le rebond de la balle. Les enfants y apprendront &agrave; servir, &agrave; retourner, &agrave; utiliser les trajectoires et &agrave; marquer des points gr&acirc;ce aux vol&eacute;es.</p>
+
+<p>D&eacute;couvrez les activit&eacute;s donn&eacute;es par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient avec rigueur&nbsp;au tennis. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; l&#39;apprentissage de la conduite &agrave; v&eacute;lo : apprendre &agrave; rouler sur deux roues, r&eacute;aliser de petits parcours d&#39;adresse, apprentissage du code de la route et des r&egrave;gles &eacute;l&eacute;mentaires de s&eacute;curit&eacute;.</p>
+'
     infos:
     - alias: Matériel
       info_line: 'Tout le matériel de tennis est fourni par notre partenaire. '
@@ -421,27 +418,21 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-7 ans
-    description: '<p><em>Stage en collaboration avec </em><strong><em>YourTenniSchool
-      Wavre</em></strong></p><p>Vous désirez éveiller votre petit bout à un jeu de
-      raquette ?</p><p>Cette catégorie du mini-tennis est découpée en 3 niveaux :
-      le niveau blanc, bleu et rouge. Chaque niveau comprend plusieurs objectifs d’apprentissage.</p><p><strong>Le
-      niveau blanc</strong> : Les enfants seront plongés dans leurs monde imaginaire.
-      Les jeux seront présentés sous forme d’histoires, de comptes et imagés pour
-      que les enfants s’y sentent bien. Ils se familiariseront avec la raquette et
-      la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds,
-      notion du temps et de la perception des trajectoires de la balle.</p><p><strong>Le
-      niveau bleu</strong> : Les enfants apprendront également les premières notions
-      des règles du jeu et tactiques de base en faisant rouler un ballon au sol (être
-      précis, régulier, changer la direction de la balle).</p><p><strong>Le niveau
-      rouge</strong> : Les enfants découvriront la tactique du jeu avec le rebond
-      de la balle. Les enfants y apprendront à servir, à retourner, à utiliser les
-      trajectoires et à marquer des points grâce aux volées.</p><p>Découvrez les activités
-      données par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez
-      ici</a>.</p><p>Chaque journée de stage est divisée en deux parties. Durant la
-      matinée, les enfants s''initient au tennis. L''après-midi est consacrée à l''apprentissage
-      des bases de la natation par le biais d''activités ludiques (voyage sur une
-      frite ou une planche, mettre la tête sous l''eau, etc.), le tout dans une ambiance
-      décontractée !</p>'
+    description: '<p><em>Stage en collaboration avec&nbsp;<strong>YourTenniSchool Wavre</strong></em></p>
+
+<p>Vous d&eacute;sirez &eacute;veiller votre petit bout &agrave; un jeu de raquette ?&nbsp;<img alt="laugh" src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png" title="laugh" /></p>
+
+<p>Cette cat&eacute;gorie du mini-tennis est d&eacute;coup&eacute;e en 3 niveaux : le niveau blanc, bleu et rouge.&nbsp;Chaque niveau comprend plusieurs objectifs d&rsquo;apprentissage.</p>
+
+<p><strong>Le niveau blanc</strong>Les enfants seront plong&eacute;s dans leurs monde imaginaire. Les jeux seront pr&eacute;sent&eacute;s sous forme d&rsquo;histoires, de comptes et imag&eacute;s pour que les enfants s&rsquo;y sentent bien.&nbsp;&nbsp; Ils se familiariseront avec la raquette et la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds, notion du temps et de la perception des trajectoires de la balle. </p>
+
+<p><strong>Le niveau bleu</strong>Les enfants apprendront &eacute;galement les premi&egrave;res notions des r&egrave;gles du jeu et tactiques de base en faisant rouler un ballon au sol (&ecirc;tre pr&eacute;cis, r&eacute;gulier, changer la direction de la balle).</p>
+
+<p><strong>Le niveau rouge</strong>Les enfants d&eacute;couvriront la tactique du jeu avec le rebond de la balle. Les enfants y apprendront &agrave; servir, &agrave; retourner, &agrave; utiliser les trajectoires et &agrave; marquer des points gr&acirc;ce aux vol&eacute;es.</p>
+
+<p>D&eacute;couvrez les activit&eacute;s donn&eacute;es par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient avec rigueur au tennis. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; l&#39;apprentissage des bases de la natation par le biais d&#39;activit&eacute;s ludiques (voyage sur une frite ou une planche, mettre la t&ecirc;te sous l&#39;eau, etc.), le tout dans une ambiance d&eacute;contract&eacute;e !</p>'
     infos:
     - alias: Matériel
       info_line: 'Tout le matériel de tennis est fourni par notre partenaire. '
@@ -599,18 +590,20 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 8-14 ans
-    description: '<p><em>Stage en collaboration avec </em><strong><em>YourTenniSchool
-      Wavre</em></strong></p><p>Votre enfant veut découvrir les joies d''un sport
-      de raquettes ?</p><p>Dans cette catégorie, les enfants découvriront la tactique
-      et la technique du jeu de base des coups principaux (service, retour, coup droit,
-      revers, volées, smash).</p><p>Un programme évolutif est mis en place tout au
-      long de la semaine.</p><p>En fonction des niveaux de chacun, les moniteurs adapteront
-      la taille des terrains, des raquettes et des balles pour favoriser la réussite
-      de l’échange.</p><p>Découvrez les activités données par notre partenaire : <a
-      href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p><p>Chaque
-      journée de stage est divisée en deux parties. Durant la matinée, les enfants
-      rejoignent un stage du centre. L''après-midi est consacrée à la pratique du
-      tennis.</p>'
+    description: '<p><em>Stage en collaboration avec&nbsp;<strong>YourTenniSchool Wavre</strong></em></p>
+
+<p>Votre enfant veut d&eacute;couvrir les joies d&#39;un sport de&nbsp;raquettes ?&nbsp;<img alt="laugh" src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png" title="laugh" /></p>
+
+<p>Dans cette cat&eacute;gorie, les enfants d&eacute;couvriront avec rigueur&nbsp;la tactique et la technique du jeu de base des coups principaux (service, retour, coup droit, revers, vol&eacute;es, smash).</p>
+
+<p>Un programme &eacute;volutif est mis en place tout au long de la semaine.</p>
+
+<p>En fonction des niveaux de chacun, les moniteurs adapteront la taille des terrains, des raquettes et des balles pour favoriser la r&eacute;ussite de l&rsquo;&eacute;change. </p>
+
+<p>D&eacute;couvrez les activit&eacute;s donn&eacute;es par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants rejoignent un stage du centre. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; la pratique du tennis.</p>
+'
     infos:
     - alias: Matériel
       info_line: 'Tout le matériel de tennis est fourni par notre partenaire. '
@@ -629,27 +622,22 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 4-7 ans
-    description: '<p><em>Stage en collaboration avec </em><strong><em>YourTenniSchool
-      Wavre</em></strong></p><p>Vous désirez éveiller votre petit bout à un jeu de
-      raquette ?</p><p>Cette catégorie du mini-tennis est découpée en 3 niveaux :
-      le niveau blanc, bleu et rouge. Chaque niveau comprend plusieurs objectifs d’apprentissage.</p><p><strong>Le
-      niveau blanc</strong> : Les enfants seront plongés dans leurs monde imaginaire.
-      Les jeux seront présentés sous forme d’histoires, de comptes et imagés pour
-      que les enfants s’y sentent bien. Ils se familiariseront avec la raquette et
-      la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds,
-      notion du temps et de la perception des trajectoires de la balle.</p><p><strong>Le
-      niveau bleu</strong> : Les enfants apprendront également les premières notions
-      des règles du jeu et tactiques de base en faisant rouler un ballon au sol (être
-      précis, régulier, changer la direction de la balle).</p><p><strong>Le niveau
-      rouge</strong> : Les enfants découvriront la tactique du jeu avec le rebond
-      de la balle. Les enfants y apprendront à servir, à retourner, à utiliser les
-      trajectoires et à marquer des points grâce aux volées.</p><p>Découvrez les activités
-      données par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez
-      ici</a>.</p><p>Chaque journée de stage est divisée en deux parties. Durant la
-      matinée, les enfants s''initient au tennis. L''après-midi est consacrée à la
-      découverte d''une activité multisports. Des activités comme du baseball, unihoc,
-      ball bouncer, etc. sont favorisées car elles permettent aux enfants d''utiliser
-      à nouveau du matériel qui est le prolongement de leur main.</p>'
+    description: '<p><em>Stage en collaboration avec&nbsp;<strong>YourTenniSchool Wavre</strong></em></p>
+
+<p>Vous d&eacute;sirez &eacute;veiller votre petit bout &agrave; un jeu de raquette ?&nbsp;<img alt="laugh" src="https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/teeth_smile.png" title="laugh" /></p>
+
+<p>Cette cat&eacute;gorie du mini-tennis est d&eacute;coup&eacute;e en 3 niveaux : le niveau blanc, bleu et rouge.&nbsp;Chaque niveau comprend plusieurs objectifs d&rsquo;apprentissage.</p>
+
+<p><strong>Le niveau blanc</strong>&nbsp;: Les enfants seront plong&eacute;s dans leurs monde imaginaire. Les jeux seront pr&eacute;sent&eacute;s sous forme d&rsquo;histoires, de comptes et imag&eacute;s pour que les enfants s&rsquo;y sentent bien.&nbsp;&nbsp; Ils se familiariseront avec la raquette et la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds, notion du temps et de la perception des trajectoires de la balle.</p>
+
+<p><strong>Le niveau bleu</strong>&nbsp;: Les enfants apprendront &eacute;galement les premi&egrave;res notions des r&egrave;gles du jeu et tactiques de base en faisant rouler un ballon au sol (&ecirc;tre pr&eacute;cis, r&eacute;gulier, changer la direction de la balle).</p>
+
+<p><strong>Le niveau rouge</strong>&nbsp;: Les enfants d&eacute;couvriront la tactique du jeu avec le rebond de la balle. Les enfants y apprendront &agrave; servir, &agrave; retourner, &agrave; utiliser les trajectoires et &agrave; marquer des points gr&acirc;ce aux vol&eacute;es.</p>
+
+<p>D&eacute;couvrez les activit&eacute;s donn&eacute;es par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient avec rigueur&nbsp;au tennis. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; la d&eacute;couverte d&#39;une activit&eacute; multisports.&nbsp;Des activit&eacute;s&nbsp;comme du baseball, unihoc, ball bouncer, etc. sont favoris&eacute;es car elles permettent aux&nbsp;enfants d&#39;utiliser &agrave; nouveau du mat&eacute;riel qui est le prolongement de leur main.</p>
+'
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par notre partenaire. 
@@ -11118,11 +11106,13 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 5-7 ans
-    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
-                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant. </p>
-                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
-                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi est consacrée à la découverte d'une activité multisports. Des activités comme du baseball, unihoc, ball bouncer, etc. sont favorisées car elles permettent aux enfants d'utiliser à nouveau du matériel qui est le prolongement de leur main.</p>
-                  "
+    description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
+
+<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
+
+<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient&nbsp;avec rigueur au hockey. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; la d&eacute;couverte d&#39;une activit&eacute; multisports.&nbsp;Des activit&eacute;s&nbsp;comme du baseball, unihoc, ball bouncer, etc. sont favoris&eacute;es car elles permettent aux&nbsp;enfants d&#39;utiliser &agrave; nouveau du mat&eacute;riel qui est le prolongement de leur main.</p>"
   activation_onglets: false
 - name: Mini-Hockey & Vélo
   img: "/assets/images/lara-mini-hockey-et-velo.png"
@@ -11135,11 +11125,14 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 5-7 ans
-    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
-                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.  </p>
-                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
-                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi est consacrée à l'apprentissage de la conduite à vélo : apprendre à rouler sur deux roues, réaliser de petits parcours d'adresse, apprentissage du code de la route et des règles élémentaires de sécurité.</p>
-                  "
+    description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
+
+<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
+
+<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient&nbsp;avec rigueur au hockey. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; l&#39;apprentissage de la conduite &agrave; v&eacute;lo : apprendre &agrave; rouler sur deux roues, r&eacute;aliser de petits parcours d&#39;adresse, apprentissage du code de la route et des r&egrave;gles &eacute;l&eacute;mentaires de s&eacute;curit&eacute;.</p>
+"
     infos:
     - alias: info
       info_line: "L'enfant doit venir avec son vélo en bon état et son casque. Les enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo."
@@ -11157,11 +11150,16 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 5-7 ans
-    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
-                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.  </p>
-                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
-                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi est consacrée à l'apprentissage des bases de la natation par le biais d'activités ludiques (voyage sur une frite ou une planche, mettre la tête sous l'eau, etc.), le tout dans une ambiance décontractée !</p>
-                  "
+    description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
+
+<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
+
+<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient&nbsp;avec rigueur au hockey. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; l&#39;apprentissage des bases de la natation par le biais d&#39;activit&eacute;s ludiques (voyage sur une frite ou une planche, mettre la t&ecirc;te sous l&#39;eau, etc.), le tout dans une ambiance d&eacute;contract&eacute;e !</p>
+
+<p><strong><img alt='enlightened' src='https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png' title='enlightened' />&nbsp;D&egrave;s le 1<sup>er</sup> jour, pr&eacute;voir maillot, essuie et bonnet.</strong><br />
+&nbsp;</p>"
     infos:
     - alias: info
       info_line: "Dès le 1er jour, prévoir maillot, essuie et bonnet."
@@ -11178,10 +11176,12 @@ stages:
     ville: Brabant Wallon
     age: 8-14 ans
     description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
-                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.  </p>
-                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
-                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi les enfants rejoignent un stage du centre.</p>
-                  "
+
+<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
+
+<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient avec rigueur au hockey. L&#39;apr&egrave;s-midi les enfants rejoignent un stage du centre.</p>"
   activation_onglets: false
 - name: Hockey & Fun
   img: "/assets/images/lara-hockey-et-fun.png"
@@ -11194,11 +11194,13 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
-                  <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant. </p>
-                  <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s’amuser et à se surpasser ensemble.</p>
-                  <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient au hockey. L'après-midi les enfants découvrent des activités fun : Kinball, ultimate frisbee, tchoukball, speedminton, flag foot, etc.</p>
-                  "
+    description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
+
+<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
+
+<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
+
+<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient&nbsp;avec rigueur au hockey. L&#39;apr&egrave;s-midi les enfants d&eacute;couvrent des activit&eacute;s fun :&nbsp;Kinball, ultimate frisbee, tchoukball, speedminton, flag foot, etc.</p>"
   activation_onglets: false
 - name: Full Padel
   img: "/assets/images/full-padel-mokko.png"
