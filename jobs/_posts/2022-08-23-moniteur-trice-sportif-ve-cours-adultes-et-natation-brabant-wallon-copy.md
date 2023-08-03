@@ -26,4 +26,4 @@ Le matin et le soir sur Waterloo.
 Plusieurs plages horaires à combler _(à discuter ensemble en fonction de vos disponibilités et le type de contrat souhaité)._  
 **Durée :** 1 année académique _(renouvelé chaque année)_  
 **Possibilité de statut ALE**  
-📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:morgane@lecfs.be)
+📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:candidature@lecfs.be)

@@ -52,4 +52,4 @@ o Vous êtes flexible au niveau des horaires et disponible durant le weekend ;
 
 Contrat **CDI à durée indéterminée.  
 Commencement prévu ASAP.**  
-📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:morgane@lecfs.be)
+📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:candidature@lecfs.be)

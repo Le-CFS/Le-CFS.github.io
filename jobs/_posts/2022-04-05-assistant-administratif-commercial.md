@@ -54,4 +54,4 @@ o Une expérience probante dans un Customer Service est un atout non négligeabl
 
 Le CFS vous propose un contrat à durée déterminé de 6 mois à temps plein (mi-avril mi-octobre) au sein d’une organisation en pleine expansion.
 
-**CV et lettre de motivation** à envoyer pour le **13 avril 2022** au plus tard à candidature@lecfs.be.
+**CV et lettre de motivation** à envoyer pour le **13 avril 2022** au plus tard à [candidature@lecfs.be](mailto:candidature@lecfs.be).

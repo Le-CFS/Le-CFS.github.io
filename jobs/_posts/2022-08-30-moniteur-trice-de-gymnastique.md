@@ -51,4 +51,4 @@ o Vous êtes flexible au niveau des horaires et disponible durant le weekend
 ###### **OFFRE**
 
 A définir  
-📩 Envoyez votre CV à candidature@lecfs.be
+📩 Envoyez votre CV à [candidature@lecfs.be](mailto:candidature@lecfs.be)

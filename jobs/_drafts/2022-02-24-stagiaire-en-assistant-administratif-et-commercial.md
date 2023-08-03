@@ -54,4 +54,4 @@ o Une expérience probante dans un Customer Service est un atout non négligeabl
 
 Le CFS vous propose un stage à **durée déterminé de 6 mois à temps plein** _(début mars à début septembre)_ au sein d’une organisation en pleine expansion.
 
-📩 _CV et lettre de motivation à envoyer pour **le 28 février 2022 au plus tard** à_ [_morgane@lecfs.be_](mailto:morgane@lecfs.be)_._
+📩 _CV et lettre de motivation à envoyer pour **le 28 février 2022 au plus tard** à_ [_candidature@lecfs.be_](mailto:candidature@lecfs.be)_._

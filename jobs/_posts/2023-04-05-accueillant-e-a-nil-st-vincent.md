@@ -22,4 +22,4 @@ image: "/assets/images/cfs_recrute_accueillant-e-_extrascolaire_nil.jpg"
 
 **Bénévolat réénuméré** à **temps partiel** pour le lundi, mardi, jeudi, vendredi de **16h à 17h/30**  
 **Durée :** A partir d'aujourd'hui (prolongation possible) : **engagement immédiat**  
-📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:morgane@lecfs.be)
+📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:candidature@lecfs.be)

@@ -63,4 +63,4 @@ o Une ambiance familiale, jeune et dynamique ;
 
 o Une asbl en constante croissance avec des perspectives d'évolution dans la fonction.
 
-📩 Envoyez votre CV à candidature@lecfs.be
+📩 Envoyez votre CV à [candidature@lecfs.be](mailto:candidature@lecfs.be)

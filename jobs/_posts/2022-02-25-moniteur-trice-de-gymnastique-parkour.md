@@ -55,4 +55,4 @@ Contrat CDD à durée déterminée jusque fin août (prolongeable en CDI).
 Contrat **CDD à durée déterminée** jusque fin août _(**prolongeable en CDI**)_  
 OU  
 **Convention bénévole** (horaires variables) **+ contrat article 17** pour les semaines de stages _(carnaval, Pâques, été 2022)_.  
-📩 Envoyez votre CV à [morgane@lecfs.be](mailto:morgane@lecfs.be)
+📩 Envoyez votre CV à [candidature@lecfs.be](mailto:candidature@lecfs.be)

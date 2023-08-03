@@ -63,4 +63,4 @@ o Une ambiance familiale, jeune et dynamique ;
 o Une asbl en constante croissance avec des perspectives d'évolution dans la fonction.
 
   
-📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:morgane@lecfs.be)
+📩 Envoyez votre **CV** et votre **lettre de motivation** à [candidature@lecfs.be](mailto:candidature@lecfs.be)
