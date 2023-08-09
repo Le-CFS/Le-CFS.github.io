@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Arc en Ciel CTTT
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/arc-en-ciel-ctt.jpg"
+  href: "https://arcencielctt.kalisport.com/"
+  bouton: ''
+  couleur_bouton: ''
 - name: Ecole La Petite Source
   categorie: Partenaires écoles
   online: true
