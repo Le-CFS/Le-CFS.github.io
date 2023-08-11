@@ -21,8 +21,11 @@ slider:
 - titre: Ecole de natation 2023-2024
   src: "/assets/images/banner-ecole-de-natation-2023-2024.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
-- titre: Piscine Liernu
-  src: "/assets/images/slide-cours-adultes-2023.jpg"
+- titre: Cours adultes 2023
+  src: "/assets/images/slider-cours-adultes-2023-2024.jpg"
+  href: ''
+- titre: Stages Toussaint 2023
+  src: "/assets/images/slider-stages-toussaint-2023.jpg"
   href: ''
 selection:
   nom: Sélection du CFS
