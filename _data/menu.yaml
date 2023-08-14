@@ -222,8 +222,6 @@ brochures:
   title_mobile: Brochures
   online_mobile: false
   sousmenu:
-  - title: MAG et activités
-    url: "/brochures/stages/"
   - title: Anniversaires
     url: "/brochures/anniversaires/"
   - title: Journées sportives
