@@ -34,15 +34,11 @@ C'est avec plaisir que le CFS vous propose pour la 11ème année une activités 
 
 ##### **Garderies - LES PETITS GARDONS**
 
-**_Surveillance des temps de midi • Activités libres animées • Etudes surveillées_**
+**_Activités libres animées • Etudes surveillées_**
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ERC1MnYVDjlJgsUtwMPJ6JUBWXIQhXydV4-4QDe1WPZvFw?e=2FjIaV'
-couleur="info"
-autre_page=true
-texte="Les Petits Gardons ARO"
-%}
+{% include utils/button.html lien='/files/garderie-ottignies-aro-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Les Petits Gardons ARO" %}
 
 Un coordinateur, Nicolas, est présent sur place pour assurer la gestion au quotidien et restera votre référent. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 

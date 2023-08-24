@@ -7,6 +7,13 @@ liste:
   href: "https://arcencielctt.kalisport.com/"
   bouton: ''
   couleur_bouton: ''
+- name: Collège Saint-Etienne
+  categorie: Partenaires écoles
+  online: true
+  logo: "/assets/images/cse-college-saint-etienne.png"
+  href: "https://cste.be/"
+  bouton: ''
+  couleur_bouton: ''
 - name: Ecole La Petite Source
   categorie: Partenaires écoles
   online: true

@@ -41,7 +41,7 @@ texte="Je m'inscris à une activité parascolaire"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EXn1ks1kIxFPjCKrIQh-jKcBVIUWtXfIDufPpvAZYrwDtw?e=W6UfKC' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
+{% include utils/button.html lien='/files/garderie-wavre-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
 
 Une coordinatrice, Patricia, est présente sur place pour assurer la gestion au quotidien et restera votre référente. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 
