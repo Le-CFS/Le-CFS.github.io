@@ -29,9 +29,3 @@ lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categori
 {% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQpX78-BwchHvihpjuk1onkB3t2-bR1-JM9pwJAKFtoOUQ?e=P2vN56' couleur="info" autre_page=true texte="Projet pédagogique" %}
 
 💡Nous acceptons les chèques sports pour les habitants de la commune jettoise
-
-[Cliquez ici](https://jette.irisnet.be/fr/pdf/sport/demande-cheque-sport-2022-2023.pdf "Formulaire de demande") pour télécharger le formulaire de demande
-
-Vous pouvez également obtenir le formulaire en version papier à La Maison communale.
-
-**_Attention_** _: DATE LIMITE le **30 NOVEMBRE 2022** pour introduire votre formulaire !_
