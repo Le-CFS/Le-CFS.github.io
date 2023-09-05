@@ -26,9 +26,7 @@ mois de septembre. L’inscription est cependant obligatoire au préalable pour 
 essai. L’annulation se fera sans frais si l’essai n’est pas concluant et si le secrétariat a été
 informé du souhait de ne pas poursuivre l’activité.
 #### Article 1.3. Réductions
-À partir de la seconde inscription à une activité pour un même enfant ou un autre membre vivant
-sous le même toit, une réduction de 10€ est accordée (excepté pour les activités academy :
-natation, tennis, robotique, gym academy, judo, mini-foot academy).
+À partir de la seconde inscription à une activité pour un même enfant ou un autre membre vivant sous le même toit, une réduction de 10€ est accordée (excepté pour les activités academy: natation, tennis, robotique, gym academy, judo, mini-foot academy. Excepté également pour les activités socio-culturelles en collaboration avec la commune de Jette).
 ### Article 2. Conditions de participation
 #### Article 2.1. Droits et devoirs des enfants
 Les enfants sont accueillis dans un environnement adapté et sécurisé. Chaque enfant doit
