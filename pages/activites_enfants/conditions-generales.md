@@ -104,16 +104,7 @@ suivante : Rue Provinciale 225 – 1301 Bierges (nos bureaux se situent en face 
 contactez-nous par téléphone.
 ### Article 4. Politique d’Annulation
 #### Article 4.1. Annulation et absence en cas de maladie
-Le CFS accorde un délai de 7 jours après la séance d’essai pour annuler une inscription. Une
-fois ce délai écoulé, il ne sera plus possible d’annuler votre inscription. Notre secrétariat reste
-néanmoins à votre disposition pour toute demande spécifique.
-En cas d’interruption de l’activité de votre enfant en cours d’année, l’intégralité du montant payé
-reste dû au CFS, sauf présentation d’un certificat médical prouvant l’incapacité de votre enfant à
-suivre l’activité.
-Ce certificat médical devra être envoyé au secrétariat par mail (info@lecfs.be). Un bon à valoir
-pourra être octroyé au prorata des séances manquées moins la somme de 15 euros, retenue en
-paiement des frais administratifs supportés par le CFS. Aucun remboursement ne sera octroyé.
-Aucun bon à valoir, remboursement ou rattrapage ne sera possible pour tout autre absence.
+Le CFS accorde un délai de 7 jours après la séance d’essai pour annuler une inscription. Une fois ce délai écoulé, il ne sera plus possible d’annuler votre inscription. Notre secrétariat reste néanmoins à votre disposition pour toute demande spécifique. En cas d’interruption de l’activité de votre enfant en cours d’année, l’intégralité de la cotisation reste dûe au CFS, sauf présentation d’un certificat médical prouvant l’incapacité de votre enfant à suivre l’activité. Ce certificat médical devra être envoyé au secrétariat par mail (info@lecfs.be). Un bon à valoir pourra être octroyé au prorata des séances manquées moins la somme de 15 euros, retenue en paiement des frais administratifs supportés par le CFS. Aucun remboursement ne sera octroyé. Aucun bon à valoir, remboursement ou rattrapage ne sera possible pour tout autre absence.
 #### Article 4.2. Annulation de la part du CFS
 Le CFS se réserve le droit d’annuler totalement une activité si le nombre d’enfants inscrits n’est
 pas suffisant. Nous vous proposerons, dès lors, une solution de remplacement. Si aucun

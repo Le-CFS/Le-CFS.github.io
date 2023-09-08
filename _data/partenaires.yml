@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Les écuries au gré du Ruisseau
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/logo-partenaire-ecuries-du-gre-du-ruisseau.png"
+  href: "https://les-ecuries-au-gre-du-ruisseau.be/"
+  bouton: ''
+  couleur_bouton: ''
 - name: Arc en Ciel CTTT
   categorie: Partenaires pédagogiques
   online: true

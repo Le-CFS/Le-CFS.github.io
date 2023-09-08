@@ -77,22 +77,7 @@ suivante : Rue Provinciale 225 – 1301 Bierges (nos bureaux se situent en face 
 contactez-nous par téléphone.
 ### Article 4. Politique d’Annulation
 #### Article 4.1. Annulation et absences
-A dater du premier cours de votre abonnement, il ne sera plus possible d’annuler votre
-inscription et la cotisation sera considérée comme due. Notre secrétariat reste néanmoins à
-votre disposition pour toute demande spécifique.
-En cas d’interruption de votre activité en cours d’année, l’intégralité du montant payé reste dû au
-CFS.
-En cas d’absence à une séance, cette dernière sera récupérable si vous prévenez de votre
-absence au moins 24h avant le début du cours (via votre espace MyCFS ou via le secrétariat).
-Passé ce délai, votre cours ne sera pas récupérable (exception pour un certificat médical). En
-cas de maladie, un certificat médical devra être envoyé par mail au secrétariat (info@lecfs.be).
-Chaque absence excusée par un certificat ou prévenue 24h en avance pourra être récupérée, et
-ce, uniquement sur le trimestre au cours duquel la séance a été manquée pour les abonnements
-trimestriels, ou n’importe quand dans l’année pour les abonnements annuels.
-Sauf cas exceptionnels, en dehors de ces périodes, vos tickets de récupération ne seront ni
-remboursés, ni reportés.
-Les récupérations peuvent se faire dans n’importe quel cours adulte proposé par le CFS (en
-salle ou en piscine).
+A dater du premier cours de votre abonnement, il ne sera plus possible d’annuler votre inscription et la cotisation sera considérée comme due. Notre secrétariat reste néanmoins à votre disposition pour toute demande spécifique. En cas d’interruption de votre activité en cours d’année, l’intégralité de la cotisation reste dûe au CFS. En cas d’absence à une séance, cette dernière sera récupérable si vous prévenez de votre absence au moins 24h avant le début du cours (via votre espace MyCFS ou via le secrétariat). Passé ce délai, votre cours ne sera pas récupérable (exception pour un certificat médical). En cas de maladie, un certificat médical devra être envoyé par mail au secrétariat (info@lecfs.be). Chaque absence excusée par un certificat ou prévenue 24h en avance pourra être récupérée, et ce, uniquement sur le semestre au cours duquel la séance a été manquée pour les abonnements semestriels, ou n’importe quand dans l’année pour les abonnements annuels. Sauf cas exceptionnels, en dehors de ces périodes, vos tickets de récupération ne seront ni remboursés, ni reportés. Les récupérations peuvent se faire dans n’importe quel cours adulte proposé par le CFS (en salle ou en piscine).
 #### Article 4.2. Annulation de la part du CFS
 Le CFS se réserve le droit d’annuler totalement une activité si le nombre de participants n’est
 pas suffisant.

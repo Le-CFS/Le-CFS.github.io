@@ -102,18 +102,7 @@ suivante : Rue Provinciale 225 – 1301 Bierges (nos bureaux se situent en face 
 contactez-nous par téléphone.
 ### Article 4. Politique d’Annulation
 #### Article 4.1. Annulation et absence en cas de maladie
-A dater du premier cours de natation, il ne sera plus possible d’annuler votre inscription et la
-cotisation sera considérée comme due. Notre secrétariat reste néanmoins à votre disposition
-pour toute demande spécifique.
-En cas d’interruption de l’activité de votre enfant en cours d’année, l’intégralité du montant payé
-reste dû au CFS, sauf présentation d’un certificat médical prouvant l’incapacité de votre enfant à
-suivre l’activité.
-Uniquement pour les cours particuliers et bébés nageurs : en cas de maladie, un certificat
-médical devra être envoyé par mail au secrétariat (info@lecfs.be). Chaque absence excusée par
-un certificat pourra être récupérée, et ce, uniquement sur le trimestre au cours duquel la séance
-a été manquée. Si l’enfant ne sait pas récupérer sa séance au cours du trimestre, un bon à valoir
-pourra être octroyé. Aucun remboursement ne sera possible.
-Aucun bon à valoir, remboursement ou rattrapage ne sera possible pour tout autre absence.
+A dater du premier cours de natation, il ne sera plus possible d’annuler votre inscription et la cotisation sera considérée comme due. Notre secrétariat reste néanmoins à votre disposition pour toute demande spécifique. En cas d’interruption de l’activité de votre enfant en cours d’année, l’intégralité de la cotisation reste dûe au CFS, sauf présentation d’un certificat médical prouvant l’incapacité de votre enfant à suivre l’activité. Uniquement pour les cours particuliers et bébés nageurs : en cas de maladie, un certificat médical devra être envoyé par mail au secrétariat (info@lecfs.be). Chaque absence excusée par un certificat pourra être récupérée, et ce, uniquement sur le semestre au cours duquel la séance a été manquée. Si l’enfant ne sait pas récupérer sa séance au cours du semestre, un bon à valoir pourra être octroyé. Aucun remboursement ne sera possible. Aucun bon à valoir, remboursement ou rattrapage ne sera possible pour tout autre absence.
 #### Article 4.2. Annulation de la part du CFS
 Le CFS se réserve le droit d’annuler totalement une activité si le nombre d’enfants inscrits n’est
 pas suffisant. Nous vous proposerons, dès lors, une solution de remplacement. Si aucun
