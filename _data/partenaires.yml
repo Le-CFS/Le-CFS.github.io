@@ -366,7 +366,7 @@ liste:
   couleur_bouton: ''
 - name: Futsal Jette
   categorie: partenaires pédagogiques
-  logo: "/assets/images/partenaires/futsaljette.png"
+  logo: "/assets/images/futsal-jette.jpg"
   href: https://www.futsaljette.be/
   online: true
   bouton: Site Web
