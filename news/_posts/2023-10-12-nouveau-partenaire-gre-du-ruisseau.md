@@ -1,7 +1,7 @@
 ---
 layout: post
 menu: cfs
-title: Stages Toussaint & Noël en ligne !
+title: Nouveau partenaire de stage – Les écuries au gré du Ruisseau
 infos:
   date: 0023-08-11
   teaser: ""
@@ -17,7 +17,7 @@ seo:
     - toussaint
     - noel
   type: article
-  description: Stages Toussaint & Noël en ligne !
+  description: Nouveau partenaire de stage – Les écuries au gré du Ruisseau
   img: '/assets/images/fb-ecurie-gre.jpg'
 banner: '/assets/images/fb-ecurie-gre.jpg'
 
