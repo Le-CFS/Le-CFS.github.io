@@ -11294,5 +11294,27 @@ stages:
       info_line: "Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue large) et des bottes."
     - alias: Manège
       info_line: "Le manège met à disposition tout le matériel adéquat ainsi que des bombes pour les petits cavaliers."
+- name: Tennis de Table
+  img: "/assets/images/ctt-tennis-de-table.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-25 ans
+    description: "<p><i>Stage en collaboration avec <b>LCTT Limal-Wavre</b></i></p>
+                  <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
+                  <p>Ce stage propose une découverte et/ou un perfectionnement au tennis de table. Les enfants apprennent à manier la raquette : coups droits, services, revers, et déplacements autour de la table.</p>
+                  <p>Le stage est complété par des activités de multisports.</p>
+                  "
+  activation_onglets: false
+  infos:
+    - alias: Matériel
+      info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
+    - alias: Garderie
+      info_line: "Garderie uniquement de 08h30 à 09h00 et de 16h00 à 17h00. Tarif compris dans les frais d'inscription."
 activites: []
 GLOBAL_activation_onglets: true

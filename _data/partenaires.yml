@@ -7,6 +7,13 @@ liste:
   href: "https://les-ecuries-au-gre-du-ruisseau.be/"
   bouton: ''
   couleur_bouton: ''
+- name: CTT Limal-Wavre
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/ctt-limal-wavre.jpg"
+  href: "https://www.cttliwa.be/default"
+  bouton: ''
+  couleur_bouton: ''
 - name: Arc en Ciel CTTT
   categorie: Partenaires pédagogiques
   online: true
