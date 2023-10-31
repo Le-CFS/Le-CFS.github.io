@@ -11228,10 +11228,10 @@ stages:
                   <p>Amusement garanti !</p>
                   <p>Les enfants sont répartis sur place en fonction de leur âge et de leur niveau.</p>
                   "
+    infos:
+      - alias: Matériel
+        info_line: "Le matériel est mis à disposition par notre partenaire."
   activation_onglets: false
-  infos:
-    - alias: Matériel
-      info_line: "Le matériel est mis à disposition par notre partenaire."
 - name: Football - En collaboration avec Mbo Mpenza
   img: "/assets/images/foot-mpenza.png"
   inscription: ''
@@ -11250,10 +11250,10 @@ stages:
                   <p>La journée est répartie en 3 périodes de football et une période de multisports.</p>
                   <p>En complément du stage, les équipes de Mbo Mpenza vont rassembler les jeunes issus de différents horizons et aux parcours divers afin de promouvoir l'inclusion, l'esprit d'équipe et le dépassement de soi. Les enfants participeront <b>chaque jour à des ateliers de minimum 1h sur la discrimination via des jeux footballistiques</b>. L’expérience des six dernières années sur le terrain a conduit Mbo à développer sa propre méthode novatrice pour lutter contre toute forme de discrimination. Cette méthode repose sur trois piliers essentiels : la sensibilisation, la formation et l’action. Ces trois piliers sont interdépendants et se complètent pour susciter un changement auprès des jeunes participants.</p>
                   "
+    infos:
+      - alias: Matériel
+        info_line: "Le matériel est mis à disposition par notre partenaire."
   activation_onglets: false
-  infos:
-    - alias: Matériel
-      info_line: "Le matériel est mis à disposition par notre partenaire."
 - name: Tennis de Table
   img: "/assets/images/tennis-de-table-arc-en-ciel.png"
   inscription: ''
@@ -11269,10 +11269,10 @@ stages:
                   <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
                   <p>Ce stage propose une découverte et/ou un perfectionnement au tennis de table. Les enfants apprennent à manier la raquette : coups droits, services, revers, et déplacements autour de la table.</p>
                   "
+    infos:
+      - alias: Matériel
+        info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
   activation_onglets: false
-  infos:
-    - alias: Matériel
-      info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
 - name: Petite ferme & Cavalier en Herbe
   img: "/assets/images/stage-enfant-ecuries-gre.png"
   inscription: ''
@@ -11288,12 +11288,12 @@ stages:
                   <p>Viens découvrir les animaux de la petite ferme, en prendre soin et jouer à des jeux variés avec tes amis, en profitant de la présence des animaux et des bienfaits de la nature.</p>
                   <p>Si tu le souhaites, tu peux apprendre à monter à poney/cheval tout en t'amusant. Les jeux de piste seront à l'honneur.</p>
                   "
+    infos:
+      - alias: Matériel
+        info_line: "Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue large) et des bottes."
+      - alias: Manège
+        info_line: "Le manège met à disposition tout le matériel adéquat ainsi que des bombes pour les petits cavaliers."
   activation_onglets: false
-  infos:
-    - alias: Matériel
-      info_line: "Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue large) et des bottes."
-    - alias: Manège
-      info_line: "Le manège met à disposition tout le matériel adéquat ainsi que des bombes pour les petits cavaliers."
 - name: Tennis de Table
   img: "/assets/images/ctt-tennis-de-table.png"
   inscription: ''
@@ -11305,16 +11305,16 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-25 ans
-    description: "<p><i>Stage en collaboration avec <b>LCTT Limal-Wavre</b></i></p>
+    description: "<p><i>Stage en collaboration avec <b>CTT Limal-Wavre</b></i></p>
                   <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
                   <p>Ce stage propose une découverte et/ou un perfectionnement au tennis de table. Les enfants apprennent à manier la raquette : coups droits, services, revers, et déplacements autour de la table.</p>
                   <p>Le stage est complété par des activités de multisports.</p>
                   "
+    infos:
+      - alias: Matériel
+        info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
+      - alias: Garderie
+        info_line: "Garderie uniquement de 08h30 à 09h00 et de 16h00 à 17h00. Tarif compris dans les frais d'inscription."
   activation_onglets: false
-  infos:
-    - alias: Matériel
-      info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
-    - alias: Garderie
-      info_line: "Garderie uniquement de 08h30 à 09h00 et de 16h00 à 17h00. Tarif compris dans les frais d'inscription."
 activites: []
 GLOBAL_activation_onglets: true
