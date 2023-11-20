@@ -11316,5 +11316,56 @@ stages:
       - alias: Garderie
         info_line: "Garderie uniquement de 08h30 à 09h00 et de 16h00 à 17h00. Tarif compris dans les frais d'inscription."
   activation_onglets: false
+- name: Soutien Scolaire & Multisports
+  img: "/assets/images/stage-soutien-scolaire-multisports.png"
+  inscription: ''
+  categorie: Activités artistiques et loisirs
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: "<p><i>Stage en collaboration avec  <b>My Success asbl</b></i></p>
+                  <p>Ce stage propose des cours de remise à niveau pour les enfants (de la 1ère à la 6ème primaire) nécessitant d’un soutien scolaire.</p>
+                  <p>Toutes les matières suivantes peuvent être abordées : math, français, sciences (bio, physique, chimie), néerlandais, anglais et méthodologie.</p>
+                  <p>Concernant le choix des matières lors du stage, il n'y a pas de nombre limite.</p>
+                  <p>Chaque après-midi, le stage est agrémenté par des activités multisports telles que le baseball, le unihoc, le ball bouncer, etc.</p>
+                  "
+    infos:
+      - alias: Rang
+        info_line: "Un rang est organisé chaque jour jusqu'au Collège Notre-Dame de Basse-Wavre."
+      - alias: Enseignants
+        info_line: "Les cours de soutien scolaires sont donnés par des enseignants diplômés."
+      - alias: Partenaire
+        info_line: "Notre partenaire est joignable par téléphone pour toute question relative au soutien scolaire : 0493/15.28.93."
+  activation_onglets: false
+- name: Soutien Scolaire & Fun
+  img: "/assets/images/stage-soutien-scolaire-fun.png"
+  inscription: ''
+  categorie: Activités artistiques et loisirs
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 6-12 ans
+    description: "<p><i>Stage en collaboration avec  <b>My Success asbl</b></i></p>
+                  <p>Ce stage propose des cours de remise à niveau pour les enfants (de la 1ère à la 6ème secondaire) nécessitant d’un soutien scolaire.</p>
+                  <p>Toutes les matières suivantes peuvent être abordées : math, français, sciences (bio, physique, chimie), néerlandais, anglais et méthodologie.</p>
+                  <p>Concernant le choix des matières lors du stage, les élèves du secondaire peuvent choisir <b>deux matières différentes</b> par semaine de stage.</p>
+                  <p>Chaque après-midi, le stage est agrémenté par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot.</p>
+                  "
+    infos:
+      - alias: Rang
+        info_line: "Un rang est organisé chaque jour jusqu'au Collège Notre-Dame de Basse-Wavre."
+      - alias: Enseignants
+        info_line: "Les cours de soutien scolaires sont donnés par des enseignants diplômés."
+      - alias: Partenaire
+        info_line: "Notre partenaire est joignable par téléphone pour toute question relative au soutien scolaire : 0493/15.28.93."
+  activation_onglets: false
+
 activites: []
 GLOBAL_activation_onglets: true
