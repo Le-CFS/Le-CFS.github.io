@@ -11351,7 +11351,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-12 ans
+    age: 12-16 ans
     description: "<p><i>Stage en collaboration avec  <b>My Success asbl</b></i></p>
                   <p>Ce stage propose des cours de remise à niveau pour les enfants (de la 1ère à la 6ème secondaire) nécessitant d’un soutien scolaire.</p>
                   <p>Toutes les matières suivantes peuvent être abordées : math, français, sciences (bio, physique, chimie), néerlandais, anglais et méthodologie.</p>
@@ -11366,6 +11366,44 @@ stages:
       - alias: Partenaire
         info_line: "Notre partenaire est joignable par téléphone pour toute question relative au soutien scolaire : 0493/15.28.93."
   activation_onglets: false
+- name: Festifoot
+  img: "/assets/images/festifoot-rw-limal.png"
+  inscription: ''
+  categorie: Découvertes sportives et culturelles
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-6 ans
+    description: "<p><i>Stage en collaboration avec <b>R.W. Limal</b></i></p>
+                  <p>Votre enfant est un vrai mordu du ballon ? Notre stage festifoot est l'idéal pour lui !</p>
+                  <p>50% du temps de festifoot c'est principalement des 2 contre 2, les 50% autres, ce sont des ateliers footballistiques adaptés à leurs âges.</p>
+                  <p>La journée est répartie en 3 périodes de festifoot et une période de multisports.</p>
+                  "
+    infos:
+  activation_onglets: false
+- name: Football
+  img: "/assets/images/football-rw-limal.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-14 ans
+    description: "<p><i>Stage en collaboration avec <b>R.W. Limal</b></i></p>
+                  <p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p>
+                  <p>Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle. </p>
+                  <p>Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.</p>
+                  <p>La journée est répartie en 3 périodes de football et une période de multisports.</p>
+                  "
+    infos:
+  activation_onglets: false
+
 
 activites: []
 GLOBAL_activation_onglets: true

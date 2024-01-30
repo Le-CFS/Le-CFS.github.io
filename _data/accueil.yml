@@ -12,8 +12,8 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: Stages de Carnaval
-  src: "/assets/images/slider-231204.png"
+- titre: Stages de Carnaval, Pâques, Été
+  src: "/assets/images/slider-c-p-e-2024.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4
 - titre: Activités extrascolaires 2023-2024
   src: "/assets/images/sliderextra.jpg"

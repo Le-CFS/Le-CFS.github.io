@@ -1,5 +1,12 @@
 ---
 liste:
+- name: R.W. Limal  
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/logo-rw-limal.jpg"
+  href: "https://www.facebook.com/RoyalWavreLimal/?locale=fr_FR"
+  bouton: ''
+  couleur_bouton: ''
 - name: My Success
   categorie: Partenaires pédagogiques
   online: true
