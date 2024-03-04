@@ -562,7 +562,7 @@ liste:
   couleur_bouton: ''
 - name: Bic c
   categorie: 'partenaires de stages'
-  logo: "/assets/images/partenaire-bigc.png"
+  logo: "/assets/images/partenaire-bigc.jpg"
   href: https://www.big-c.be/
   online: true
   bouton: Site Web
@@ -590,7 +590,7 @@ liste:
   couleur_bouton: ''
 - name: Go Ventura
   categorie: 'partenaires de stages'
-  logo: "/assets/images/partenaire-go-ventura-rvb-shadow-alpha.jpg"
+  logo: "/assets/images/partenaire-go-ventura-rvb-shadow-alpha.png"
   href: https://go-ventura.be/accueil-wavre/
   online: true
   bouton: Site Web
