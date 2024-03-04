@@ -9168,7 +9168,7 @@ stages:
                       <p><strong>New Games</strong> : différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p>
                     </li>
                     <li>
-                      <p><strong>E-Fun : </strong>segway, trottinette électrique, overboard, crazy kart en partenariat avec <b>ROC Event</b>.</p>
+                      <p><strong>E-Fun : </strong>segway, trottinette électrique, overboard, crazy kart en partenariat avec <strong>ROC Event</strong>.</p>
                     </li>
                     <li>
                       <p><strong>Excursion à Walibi</strong> : Parc d'attractions où tu partageras de vraies sensations ! La célèbre rivière sauvage, la Radja River, le terrifiant train de la mine, le Calamity mine et bien d'autres sensation fun garantie t'attendent !</p>
@@ -9177,7 +9177,7 @@ stages:
                       <p><strong>Excursion à Koezio à Docks Bruxsel</strong> : le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum: 1,40 m.</p>
                     </li>
                     <li>
-                      <p><b>Journée Quad, moto électrique et Laser game</b> en partenariat avec <b>ROC Event</b>.</p>
+                      <p><strong>Journée Quad, moto électrique et Laser game</strong> en partenariat avec <strong>ROC Event</strong>.</p>
                     </li>
                     <li>
                       <p><strong>Laser Game & Prison Island : </strong>en collaboration avec Bic C : relevez un maximum de défis dans une expérience immersive total et des décors réalistes !.</p>
@@ -11181,7 +11181,7 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p><i>Stage en collaboration avec <b>Lara Hockey Club</b></i></p>
+    description: "<p><i>Stage en collaboration avec <strong>Lara Hockey Club</strong></i></p>
 
 <p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
 
@@ -11219,7 +11219,7 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 7-18 ans
-    description: "<p><i>Stage en collaboration avec <b>Mokko Padel Club</b></i></p>
+    description: "<p><i>Stage en collaboration avec <strong>Mokko Padel Club</strong></i></p>
                   <p>Amateur de sports de raquettes ?</p>
                   <p>Ce stage propose une découverte au nouveau sport à la mode : Le Padel !</p>
                   <p>Le Padel se joue avec des balles quasi similaires à celles du tennis et avec une raquette spéciale, le « Palas ».</p>
@@ -11248,7 +11248,7 @@ stages:
                   <p>Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle. </p>
                   <p>Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.</p>
                   <p>La journée est répartie en 3 périodes de football et une période de multisports.</p>
-                  <p>En complément du stage, les équipes de Mbo Mpenza vont rassembler les jeunes issus de différents horizons et aux parcours divers afin de promouvoir l'inclusion, l'esprit d'équipe et le dépassement de soi. Les enfants participeront <b>chaque jour à des ateliers de minimum 1h sur la discrimination via des jeux footballistiques</b>. L’expérience des six dernières années sur le terrain a conduit Mbo à développer sa propre méthode novatrice pour lutter contre toute forme de discrimination. Cette méthode repose sur trois piliers essentiels : la sensibilisation, la formation et l’action. Ces trois piliers sont interdépendants et se complètent pour susciter un changement auprès des jeunes participants.</p>
+                  <p>En complément du stage, les équipes de Mbo Mpenza vont rassembler les jeunes issus de différents horizons et aux parcours divers afin de promouvoir l'inclusion, l'esprit d'équipe et le dépassement de soi. Les enfants participeront <strong>chaque jour à des ateliers de minimum 1h sur la discrimination via des jeux footballistiques</strong>. L’expérience des six dernières années sur le terrain a conduit Mbo à développer sa propre méthode novatrice pour lutter contre toute forme de discrimination. Cette méthode repose sur trois piliers essentiels : la sensibilisation, la formation et l’action. Ces trois piliers sont interdépendants et se complètent pour susciter un changement auprès des jeunes participants.</p>
                   "
     infos:
       - alias: Matériel
@@ -11265,7 +11265,7 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-18 ans
-    description: "<p><i>Stage en collaboration avec <b>Arc En Ciel CTT</b></i></p>
+    description: "<p><i>Stage en collaboration avec <strong>Arc En Ciel CTT</strong></i></p>
                   <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
                   <p>Ce stage propose une découverte et/ou un perfectionnement au tennis de table. Les enfants apprennent à manier la raquette : coups droits, services, revers, et déplacements autour de la table.</p>
                   "
@@ -11284,7 +11284,7 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-18 ans
-    description: "<p><i>Stage en collaboration avec <b>Les écuries au gré du Ruisseau</b> à Grez-Doiceau.</i></p>
+    description: "<p><i>Stage en collaboration avec <strong>Les écuries au gré du Ruisseau</strong> à Grez-Doiceau.</i></p>
                   <p>Viens découvrir les animaux de la petite ferme, en prendre soin et jouer à des jeux variés avec tes amis, en profitant de la présence des animaux et des bienfaits de la nature.</p>
                   <p>Si tu le souhaites, tu peux apprendre à monter à poney/cheval tout en t'amusant. Les jeux de piste seront à l'honneur.</p>
                   "
@@ -11305,7 +11305,7 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-25 ans
-    description: "<p><i>Stage en collaboration avec <b>CTT Limal-Wavre</b></i></p>
+    description: "<p><i>Stage en collaboration avec <strong>CTT Limal-Wavre</strong></i></p>
                   <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
                   <p>Ce stage propose une découverte et/ou un perfectionnement au tennis de table. Les enfants apprennent à manier la raquette : coups droits, services, revers, et déplacements autour de la table.</p>
                   <p>Le stage est complété par des activités de multisports.</p>
@@ -11327,7 +11327,7 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-12 ans
-    description: "<p><i>Stage en collaboration avec  <b>My Success asbl</b></i></p>
+    description: "<p><i>Stage en collaboration avec  <strong>My Success asbl</strong></i></p>
                   <p>Ce stage propose des cours de remise à niveau pour les enfants (de la 1ère à la 6ème primaire) nécessitant d’un soutien scolaire.</p>
                   <p>Toutes les matières suivantes peuvent être abordées : math, français, sciences (bio, physique, chimie), néerlandais, anglais et méthodologie.</p>
                   <p>Concernant le choix des matières lors du stage, il n'y a pas de nombre limite.</p>
@@ -11352,10 +11352,10 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 12-16 ans
-    description: "<p><i>Stage en collaboration avec  <b>My Success asbl</b></i></p>
+    description: "<p><i>Stage en collaboration avec  <strong>My Success asbl</strong></i></p>
                   <p>Ce stage propose des cours de remise à niveau pour les enfants (de la 1ère à la 6ème secondaire) nécessitant d’un soutien scolaire.</p>
                   <p>Toutes les matières suivantes peuvent être abordées : math, français, sciences (bio, physique, chimie), néerlandais, anglais et méthodologie.</p>
-                  <p>Concernant le choix des matières lors du stage, les élèves du secondaire peuvent choisir <b>deux matières différentes</b> par semaine de stage.</p>
+                  <p>Concernant le choix des matières lors du stage, les élèves du secondaire peuvent choisir <strong>deux matières différentes</strong> par semaine de stage.</p>
                   <p>Chaque après-midi, le stage est agrémenté par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot.</p>
                   "
     infos:
@@ -11377,7 +11377,7 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 5-6 ans
-    description: "<p><i>Stage en collaboration avec <b>R.W. Limal</b></i></p>
+    description: "<p><i>Stage en collaboration avec <strong>R.W. Limal</strong></i></p>
                   <p>Votre enfant est un vrai mordu du ballon ? Notre stage festifoot est l'idéal pour lui !</p>
                   <p>50% du temps de festifoot c'est principalement des 2 contre 2, les 50% autres, ce sont des ateliers footballistiques adaptés à leurs âges.</p>
                   <p>La journée est répartie en 3 périodes de festifoot et une période de multisports.</p>
@@ -11395,13 +11395,59 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 7-14 ans
-    description: "<p><i>Stage en collaboration avec <b>R.W. Limal</b></i></p>
+    description: "<p><i>Stage en collaboration avec <strong>R.W. Limal</strong></i></p>
                   <p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p>
                   <p>Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle. </p>
                   <p>Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.</p>
                   <p>La journée est répartie en 3 périodes de football et une période de multisports.</p>
                   "
     infos:
+  activation_onglets: false
+- name: Tennis de Table
+  img: "/assets/images/stage-tennis-de-table-ctt-alpa.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6 - 18 ans
+    description: "<p><i>Stage en collaboration avec <strong>CTT ALPA Schaerbeek</strong></i></p>
+                  <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
+                  <p>Ce stage propose une découverte et/ou un perfectionnement au tennis de table. Les enfants apprennent à manier la raquette : coups droits, services, revers, et déplacements autour de la table.</p>
+                  "
+    infos:
+      - alias: materiel
+        info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
+      - alias: garderie
+        info_line: "Garderie : inscription sur place. Pas de garderie le matin, accueil à partir de 08h30. Le soir la garderie est disponible jusque 17h00."
+  activation_onglets: false
+- name: Fun BMX/Pumptrack
+  img: "/assets/images/stage-fun-bmx-pumptrack.png"
+  inscription: ''
+  categorie: Activités fun
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6 - 18 ans
+    description: "<p><i>Stage en collaboration avec <strong>Ride Your Future</strong></i></p>
+                  <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
+                  <p>Votre enfant est un vrai biker à la recherche de FUN et d’adrénaline ? Il n’aura pas le temps de s’ennuyer avec ce stage ! </p>
+                  <p>Chaque jour, les enfants pratiquent du VTT durant toute la matinée chez notre partenaire « Ride Your Future » où les enfants pourront s’essayer au VTT et au Pumptrack.</p>
+                  <p>L’après-midi, la journée est complétée par des activités <strong>New Games</strong>, du <strong>Laser Game</strong> ou de l'<strong>Arrow Game</strong>.</p>
+                  "
+    infos:
+      - alias: tenue
+        info_line: "Prévoir une tenue adaptée pour les activités en extérieur. Prévoir également une tenue de rechange en fonction de la météo. "
+      - alias: equipement
+        info_line: "La mise à disposition des VTT et des casques est comprise dans le prix du stage."
+      - alias: navettes
+        info_line: "Les déplacements en transport en commun sont assurés par nos soins."
   activation_onglets: false
 
 

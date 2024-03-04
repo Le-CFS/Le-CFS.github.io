@@ -92,14 +92,14 @@ liste:
   bouton: ''
   couleur_bouton: ''
 - name: CTT Tourinnes asbl
-  categorie: Partenaires de stages
+  categorie: Partenaires pédagogiques
   online: true
   logo: "/assets/images/ctttourinnes_asbl.png"
   href: https://ctttourinnes.be/
   bouton: ''
   couleur_bouton: ''
 - name: R.F.C. ORP Noduwez
-  categorie: Partenaires de stages
+  categorie: Partenaires pédagogiques
   online: true
   logo: "/assets/images/logo_partenaire_orp.jpg"
   href: https://rfcorpnoduwez.be/
@@ -141,7 +141,7 @@ liste:
   bouton: Site web
   couleur_bouton: ''
 - name: 'Manège « L’écurie Barré » '
-  categorie: Partenaires de stages
+  categorie: Partenaires pédagogiques
   online: true
   logo: "/assets/images/ecurie-barre.jpg"
   href: ''
@@ -536,6 +536,62 @@ liste:
   categorie: ''
   logo: "/assets/images/partenaires/ranchgege.jpg"
   href: https://ranchdegege.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Trixxo
+  categorie: "Partenaires d'entreprises"
+  logo: "/assets/images/partenaire-trixxo.png"
+  href: https://www.trixxo.be/fr/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Ride Your Future
+  categorie: 'partenaire pédagogiques'
+  logo: "/assets/images/partenaire-ride-your-future.jpg"
+  href: https://rideyourfuture.org/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: CTT Alpa Schaerbeek
+  categorie: 'partenaire pédagogiques'
+  logo: "/assets/images/partenaire-ctt-alpa.jpg"
+  href: https://cttroyalalpa.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Bic c
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-bigc.png"
+  href: https://www.big-c.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Jag Event
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-jag-event.jpg"
+  href: https://jagevents.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Space Fun Game
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-fun-games.png"
+  href: https://www.spacefungame.com/space-fun-games-brussels-2/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Stone Age
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-stone-age.png"
+  href: https://stone-age.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Go Ventura
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-go-ventura-rvb-shadow-alpha.jpg"
+  href: https://go-ventura.be/accueil-wavre/
   online: true
   bouton: Site Web
   couleur_bouton: ''
