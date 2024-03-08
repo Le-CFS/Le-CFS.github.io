@@ -260,7 +260,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-croatie-vacances-ados-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -444,7 +444,7 @@ stages:
 - name: Fun & Multisports et Langues
   categorie: Activités artistiques et loisirs
   img: "/assets/images/multi-langue.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: true
@@ -465,7 +465,7 @@ stages:
   categorie: Internat
   img: "/assets/images/astrobiologie.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -538,7 +538,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/cyclocross.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: true
   inscription: ''
@@ -718,11 +718,11 @@ stages:
     - alias: Navettes
       info_line: Certaines activités demandent un déplacement en navette assuré par
         nos soins.
-- name: Festi Foot
+- name: FestiFoot
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/festi-foot.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: true
   inscription: ''
@@ -1072,7 +1072,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-equitation-ecuriebarre-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -1121,7 +1121,7 @@ stages:
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/festifoot-orp.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -1141,7 +1141,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/foot-orp.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -1164,7 +1164,7 @@ stages:
   categorie: Activités fun
   img: "/assets/images/crazy-fun.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -1190,7 +1190,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/beach-soccer-stage.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -1262,7 +1262,7 @@ stages:
 - name: Beach Soccer
   categorie: Activités sportives
   img: "/assets/images/stage-beach-soccer.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1282,7 +1282,7 @@ stages:
 - name: Beach Fun Game
   categorie: Activités fun
   img: "/assets/images/beach-volley.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -1306,7 +1306,7 @@ stages:
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/festifoot-hulpe.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -3636,7 +3636,7 @@ stages:
 - name: Beach Soccer & Fun Game
   categorie: Activités sportives
   img: "/assets/images/stages-enfants-beach-soccer-et-fun-game-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -3699,8 +3699,8 @@ stages:
 - name: Baby Artiste
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-baby-artiste-500x500.jpg"
-  online: true
-  nouveau: true
+  online: false
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -3930,7 +3930,7 @@ stages:
 - name: Football perfectionnement
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-football-perfectionnement-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -3951,7 +3951,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-fun-foot-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -5904,7 +5904,7 @@ stages:
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-cirque-momes-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6259,7 +6259,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-drone-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6299,7 +6299,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-astronomie-junior-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6331,7 +6331,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-astronomie-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6373,7 +6373,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-astronaute-space-langues-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6423,7 +6423,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-astronaute-junior-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6453,7 +6453,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-astronaute-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6746,7 +6746,7 @@ stages:
       stage ! Tout au long de la semaine, tu apprendras à travailler les 4 agrès :
       poutre, barres asymétriques, sol et sauts.</p><p>Le stage est encadré par des
       coachs de gym de la Courtoise. Les gymnastes sont réparties selon leur âge et
-      leur niveau.</p><p><strong><em>Stage uniquement réservé aux filles.</em></strong></p>"
+      leur niveau.</p>"
     infos:
     - alias: Garderie
       info_line: 'Garderie : accueil à partir de 8h30 et jusque 16h30. '
@@ -7446,7 +7446,7 @@ stages:
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-baby-danse-et-bijoux-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -8026,13 +8026,30 @@ stages:
     - alias: Apporter son propre vélo
       info_line: L'enfant doit venir avec son vélo en bon état et son casque. Les
         enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
+  - alias: Liège
+    ville: Liège
+    age: 4-6 ans
+    description: "<p>Vous souhaitez que votre petit bout apprenne à rouler à vélo
+      comme les grands ? Cette étape réservée aux enfants ne sachant pas rouler à
+      vélo sur 2 roues est l'idéal pour lui !</p><p>Il propose quotidiennement une
+      demi-journée consacrée à l'apprentissage de la conduite à vélo&nbsp;: apprendre
+      à rouler sur deux roues, réaliser de petits parcours d'adresse, apprentissage
+      du code de la route et des règles élémentaires de sécurité.</p><p>Le reste de
+      la journée est consacré aux activités de multisports comme la baby danse, le
+      baby foot ou la baby gym.</p>"
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur. 
+    - alias: Apporter son propre vélo
+      info_line: L'enfant doit venir avec son vélo en bon état et son casque. Les
+        enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
   activation_onglets: true
 - name: Astucieux
   img: "/assets/images/stages/decouvertesportiveetculturelle/astucieux.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
-  nouveau: true
+  online: false
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
@@ -8055,8 +8072,8 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
+  - alias: Bruxelles
+    ville: Bruxelles
     age: 4-6 ans
     description: "<p>Votre petit bout adore se trémousser dès que vous allumez la
       musique ? <br>Ce stage d'initiation à la danse est parfait pour lui ! </p><p>Ce
@@ -8073,7 +8090,7 @@ stages:
   img: "/assets/images/stage-enfant-baby-foot-500x500.jpg"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -8160,13 +8177,23 @@ stages:
       et la vie en groupe.</p><p>Votre enfant découvrira un large panel d'activités
       fun et ludiques.</p>"
     infos: []
+  - alias: Brabant
+    ville: Brabant
+    age: 4-6 ans
+    description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
+      découvrir de nouvelles activités ? </p><p>Voici un stage qui ravira votre enfant
+      !</p><p>Par un premier contact avec le sport et les jeux collectifs, votre enfant
+      développera les différentes facettes de la motricité, le respect des règles
+      et la vie en groupe.</p><p>Votre enfant découvrira un large panel d'activités
+      fun et ludiques.</p>"
+    infos: []
   activation_onglets: true
 - name: Baby Multisports & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultietnat.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant
@@ -8332,7 +8359,7 @@ stages:
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Bruxelles
@@ -8505,7 +8532,7 @@ stages:
   categorie: Activités fun
   img: "/assets/images/stage-enfant-drone-laser-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -8793,7 +8820,7 @@ stages:
   img: "/assets/images/stages/danseetgymnastique/danceforyou.png"
   inscription: ''
   categorie: Danse et Gymnastique
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9041,30 +9068,30 @@ stages:
     age: 8-12 ans
     description: "<p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Ce stage phare du CFS est fait pour lui ! Un stage alléchant qui propose chaque jour une activité ludique et privilégie les activités en extérieur.</p>
                   <p><strong>PROGRAMME :</strong>
-                    Laser Game, Arrow Game, Parc Aventure, Fun Game, New Games, Journée Koh Lanta
+                    New Games, Laser Game, Parc Aventure, Arrow Game, Fun Challenge, BBQ & jeux dans les bois, Patinoire.
                   </p>
                   <ul>
                     <li>
-                      <p><strong>Laser Game</strong> : organisé dans le centre.</p>
+                      <p><strong>New games</strong> : différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p>
+                    </li>
+                      <p><strong>Laser Game</strong> : organisé dans le centre. La journée est complétée par des activités crazy light et des jeux en bois. </p>
+                    <li>
+                      <p><strong>Excursion au Parc Aventure de Wavre</strong> : le parc propose des activités d'accrobranche dans les bois.</p>
                     </li>
                     <li>
                       <p><strong>Arrow game</strong> : différents jeux ludiques avec des arcs à flèches sont proposés comme des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique également avec des flèches avec un bout en mousse et des masques de paintball).</p>
                     </li>
                     <li>
-                      <p><strong>Excursion au Parc Aventure de Wavre</strong> : le parc propose des activités d'accrobranche dans les bois.</p>
+                      <p><strong>Fun Challenge</strong><em> (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>: parcours d'obstacle, crazy light, hyppo glouton, arrow game, etc.</p>
                     </li>
                     <li>
-                      <p><strong>Fun Game</strong><em> (En collaboration avec </em><strong><em>Jag Events</em></strong><em>)</em>: activités crazy light, darts, sumo, twister géant,…(1/2 journée)</p>
+                      <p><strong>Jeux dans les bois</strong>: stratégo, capture de drapeau, jeu de piste..</p>
                     </li>
                     <li>
-                      <p><strong>New games</strong> : différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p>
-                    </li>
-                    <li>
-                      <p><strong>Journée Koh Lanta</strong> : composition des tribus, épreuves en binôme et par équipe (avec les mythiques course d'orientation et épreuve des poteaux!), fabrication de campement, et dégustation d’insectes pour les plus courageux.</p>
+                      <p><strong>Patinoire</strong>: au Posséidon.</p>
                     </li>
                   </ul>
-                  <p>Ce stage peut également être complété par d'autres activités en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un stratégo géant. Si la météo n'est pas clémente, les activités se feront en intérieur dans les centres sportifs.</p>
-                  <p><strong><em>ATTENTION : </em></strong><em>le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>
+                  <p><strong><em>ATTENTION:</strong>le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>
                 "
     infos:
     - alias: Vêtement extérieur
@@ -9079,21 +9106,30 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
-    description: "<p>Votre enfant a entre <strong>8 et 12 ans </strong>? Il souhaite
-      essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous
-      propose un programme alléchant, avec chaque jour une activité ludique différente.</p><p><strong>PROGRAMME  : </strong>New Games, Arrow Game, Laser Game extérieur, Space Fun Game (Fort Boyard & Laser Game), Parc Aventure de Wavre, Journée Koh Lanta</p>
+    description: "
+      <p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Il souhaite essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous propose un programme alléchant, avec chaque jour une activité ludique différente.</p>
+      <p><strong>PROGRAMME  : </strong>New Games, Arrow Game, Laser Game extérieur, Space Fun Game (Fort Boyard & Laser Game), Parc Aventure de Wavre, Patinoire.</p>
       <ul>
-      <li><p><strong>New games :</strong> différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p></li>
-      <li><p><strong>Arrow game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés comme des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique également avec des flèches avec un bout en mousse et des masques de paintball).</p></li>
-      <li><p><strong>Laser game :</strong> organisé en extérieur en collaboration avec <strong>Koala Crazy Game</strong>.</p></li>
-      <li><p><strong>Excursion à Space Fun Game d'Etterbeek</strong> : activités de type Fort Boyard et 2 parties de laser game indoor.</p></li>
-      <li><p><strong>Excursion au Parc Aventure de Wavre</strong> : le parc propose des activités d'accrobranche dans les bois.</p></li>
-      <li><p><strong>Journée Koh Lanta</strong> : composition des tribus, épreuves en binôme et par équipe (avec les mythiques course d'orientation et épreuve des poteaux!), fabrication de campement, et dégustation d’insectes pour les plus courageux.</p></li>
+      <li>
+        <p><strong>New games :</strong> différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.</p>
+        </li>
+      <li>
+        <p><strong>Arrow game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés comme des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique également avec des flèches avec un bout en mousse et des masques de paintball).</p>
+      </li>
+      <li>
+        <p><strong>Laser game :</strong> organisé en extérieur en collaboration avec <strong>Koala Crazy Game</strong>.</p>
+      </li>
+      <li>
+        <p><strong>Excursion à Space Fun Game d'Etterbeek</strong> : activités de type Fort Boyard et 2 parties de laser game indoor.</p>
+      </li>
+      <li>
+        <p><strong>Excursion au Parc Aventure de Wavre</strong> : le parc propose des activités d'accrobranche dans les bois.</p>
+      </li>
+      <li>
+        <p><strong>Patinoire</strong>: au Posséidon</p>
+      </li>
       </ul>
-      <p>Ce stage pourrait être complété par d'autres activités en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache 21, ou encore un stratégo géant. Si la météo n'est pas clémente, les activités se feront en intérieur dans les centres sportifs.</p><p><strong><em>ATTENTION
-      :</em></strong><em> le programme varie en fonction des périodes de l'année et
-      des jours d'ouverture de nos différents partenaires. Pour le programme réel
-      d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>"
+      <p><strong><em>ATTENTION:</em></strong><em> le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>"
     infos:
     - alias: Vêtements extérieur
       info_line: Prévoir une paire de bottines ainsi que des vêtements adaptés aux
@@ -9161,31 +9197,32 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 10-16 ans
-    description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS! Un super programme et une activité différente et FUN chaque jour !</p>
-                  <p><strong>PROGRAMME: </strong>New Games, E-Fun, Walibi, Koezio, Quad, Laser Game & Prison Island, Aqualibi</p>
+    description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !</p>
+                  <p><strong>PROGRAMME: </strong>New Games, Aqualibi, Walibi, Patinoire, Koézio, Quad & Laser Game, BBQ et jeux dans les bois.</p>
                   <ul>
                     <li>
-                      <p><strong>New Games</strong> : différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p>
+                      <p><strong>New Games</strong>: différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p>
                     </li>
                     <li>
-                      <p><strong>E-Fun : </strong>segway, trottinette électrique, overboard, crazy kart en partenariat avec <strong>ROC Event</strong>.</p>
+                      <p><strong>Aqualibi: </strong>Parc d'attractions aquatique : des toboggans qui plairont à tous, une piscine à vague pour un moment de fun inoubliable, une rivière surprenante parfois tranquille, parfois carrément féroce et bien d'autres plaisirs aquatiques t'attendent !</p>
                     </li>
                     <li>
-                      <p><strong>Excursion à Walibi</strong> : Parc d'attractions où tu partageras de vraies sensations ! La célèbre rivière sauvage, la Radja River, le terrifiant train de la mine, le Calamity mine et bien d'autres sensation fun garantie t'attendent !</p>
+                      <p><strong>Excursion à Walibi</strong>: Parc d'attractions où tu partageras de vraies sensations ! La célèbre rivière sauvage, la Radja River, le terrifiant train de la mine, le Calamity mine et bien d'autres sensation fun garantie t'attendent !</p>
                     </li>
                     <li>
-                      <p><strong>Excursion à Koezio à Docks Bruxsel</strong> : le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum: 1,40 m.</p>
+                      <p><strong>Patinoire:</strong> au Posséidon.</p>
                     </li>
                     <li>
-                      <p><strong>Journée Quad, moto électrique et Laser game</strong> en partenariat avec <strong>ROC Event</strong>.</p>
+                      <p><strong>Excursion à Koezio à Docks Bruxsel</strong>: le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum: 1,40 m.</p>
                     </li>
                     <li>
-                      <p><strong>Laser Game & Prison Island : </strong>en collaboration avec Bic C : relevez un maximum de défis dans une expérience immersive total et des décors réalistes !.</p>
+                      <p><strong>Journée Quad et Laser game</strong> en partenariat avec <strong>ROC Event</strong>.</p>
                     </li>
                     <li>
-                      <p><strong>Excursion à Aqualibi : </strong>Parc d'attractions aquatique : des toboggans qui plairont à tous, une piscine à vague pour un moment de fun inoubliable, une rivière surprenante parfois tranquille, parfois carrément féroce et bien d'autres plaisirs aquatiques t'attendent !</p>
+                      <p><strong>Jeux dans les bois:</strong> stratégo, capture de drapeau, jeu de piste.</p>
                     </li>
-                  </ul>"
+                  </ul>
+                  <p><strong><em>ATTENTION:</em></strong><em> le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>"
     infos:
     - alias: Koezio
       info_line: 'Taille minimum pour Koezio : 1m40'
@@ -9197,28 +9234,35 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 10-16 ans
-    description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS
-      ! Un super programme ! Une activité différente chaque jour !</p><p><strong>Exemples
-      d'excursions </strong>: New Games, Profondeville, Walibi, Quad &amp; Laser,
-      Space Fun Game, Koézio, Aqualibi</p><ul><li><p><strong>New games </strong>:
-      différentes activités fun sont proposées sur la journée telles que le frisbee
-      golf, snag golf, spikeball, kinball, flag foot.</p></li><li><p><strong>Profondeville
-      : </strong>Activités aquatiques. (bouées tractées et paddle)</p></li><li><p><strong>Excursion
-      à Walibi </strong>: Parc d'attractions où tu partageras de vraies sensations
-      ! La célèbre rivière sauvage, la Radja River, le terrifiant train de la mine,
-      le Calamity mine et bien d'autres sensation fun garantie t'attendent !</p></li><li><p><strong>Journée
-      Quad et Laser game</strong> en partenariat avec <strong>ROC Event.</strong></p></li><li><p><strong>Excursion
-      à Space Fun Game d'Etterbeek</strong> : 3 parties de Laser Game indoor.</p></li><li><p><strong>Excursion
-      à Koezio au Docks Bruxsel</strong> : le centre propose des jeux de collaboration
-      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
-      épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum:
-      1,40 m</p></li><li><p><strong>Excursion à Aqualibi : </strong>Parc d'attractions
-      aquatique : des toboggans qui plairont à tous, une piscine à vague pour un moment
-      de fun inoubliable, une rivière surprenantes parfois tranquille, parfois carrément
-      féroce et bien d'autres plaisirs aquatiques t'attendent !</p></li></ul><p><strong><em>ATTENTION
-      :</em></strong><em> le programme varie en fonction des périodes de l'année et
-      des jours d'ouverture de nos différents partenaires. Pour le programme réel
-      d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>"
+    description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !</p>
+    <p><strong>PROGRAMME: </strong>New Games, Aqualibi, Walibi, Laser game & Prison Island, Koézio, Quad, Karting, Profondeville.</p>
+    <ul>
+      <li>
+        <p><strong>New games </strong>: différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p>
+      </li>
+      <li>
+        <p><strong>Excursion à Aqualibi:</strong> Parc d'attractions aquatique : des toboggans qui plairont à tous, une piscine à vague pour un moment de fun inoubliable, une rivière surprenante parfois tranquille, parfois carrément féroce et bien d'autres plaisirs aquatiques t'attendent !</p>
+      </li>
+      <li>
+        <p><strong>Excursion à Walibi </strong>: Parc d'attractions où tu partageras de vraies sensations ! La célèbre rivière sauvage, la Radja River, le terrifiant train de la mine, le Calamity mine et bien d'autres sensation fun garantie t'attendent !</p>
+      </li>
+      <li>
+        <p><strong>Laser Game & Prison Island </strong> en partenariat avec <strong>Big C</strong>: relevez un maximum de défis dans une expérience immersive totale et des décors réalistes !</p>
+      </li>
+      <li>
+        <p><strong>Excursion à Koezio au Docks Bruxsel</strong> : le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum: 1,40 m</p>
+      </li>
+      <li>
+        <p><strong>Journée Quad </strong> en partenariat avec <strong>ROC Event.</strong></p>
+      </li>
+      <li>
+        <p><strong>Karting</strong> : au Grand Bigard.</p>
+      </li>
+      <li>
+        <p><strong>Profondeville : </strong>Activités aquatiques. (bouées tractées et paddle)</p>
+      </li>
+    </ul>
+    <p><strong><em>ATTENTION :</em></strong><em> le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>"
     infos:
     - alias: Koezio
       info_line: 'Taille minimum pour Koezio : 1m40'
@@ -9232,7 +9276,7 @@ stages:
   img: "/assets/images/fun-ado-laser-game.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -9586,7 +9630,7 @@ stages:
   img: "/assets/images/stages/activitessportives/badminton.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9839,11 +9883,21 @@ stages:
   inscription: ''
   categorie: Activités sportives
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Bruxelles
     ville: Bruxelles
+    age: 6-8 ans
+    description: "<p>Votre enfant est fou de sports et aime découvrir de nouvelles
+      activités ? Le stage Fun &amp; Multisports est fait pour lui !</p><p>Durant
+      cette semaine, il pratiquera des sports collectifs.</p><p>Le stage est agrémenté
+      par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball,
+      le speedminton ou encore le flag foot.</p><p>Semaine sportive et Fun assurée
+      !</p>"
+    infos: []
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
     age: 6-8 ans
     description: "<p>Votre enfant est fou de sports et aime découvrir de nouvelles
       activités ? Le stage Fun &amp; Multisports est fait pour lui !</p><p>Durant
@@ -9868,7 +9922,7 @@ stages:
   inscription: ''
   categorie: Activités sportives
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant
@@ -10688,6 +10742,13 @@ stages:
     infos:
     - info_line: Il ne faut donc prévoir à manger pour votre enfant que le vendredi.
       alias: Repas
+  - alias: Liège
+    ville: Liège
+    age: 7-14 ans
+    description: "<p>Votre enfant à l'âme d'un futur cuisinier ?</p>
+    <p>Durant le stage, les jeunes cuisiniers touchent à tous les domaines ayant trait au métier de chef-cuistot. Ils préparent différentes recettes et se chargent également de la remise en ordre des cuisines.</p>
+    <p>Le dernier jour, les enfants retournent avec leur carnet de recettes, élaboré durant la semaine de stage.</p>
+    <p>Les 3 heures de cuisine sont complétées par 3 heures de fun & multisports (Kinball, l’ultimate frisbee, tchoukball, speedminton, flag foot, baseball, poull-ball, etc.).</p>"
   activation_onglets: true
 - name: Immersion Anglais - Interlingua
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersionanglais.png"
@@ -11213,7 +11274,7 @@ stages:
   inscription: ''
   categorie: Activités sportives
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
@@ -11236,7 +11297,7 @@ stages:
   img: "/assets/images/foot-mpenza.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
