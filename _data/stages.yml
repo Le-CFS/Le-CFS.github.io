@@ -9233,7 +9233,7 @@ stages:
       info_line: Les navettes sont assurées par le CFS.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 10-16 ans
+    age: 10-18 ans
     description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !</p>
     <p><strong>PROGRAMME: </strong>New Games, Aqualibi, Walibi, Laser game & Prison Island, Koézio, Quad, Karting, Profondeville.</p>
     <ul>
@@ -9271,7 +9271,7 @@ stages:
         (Aqualibi, Barrage de l'Eau d'Heure et Profondeville).
     - alias: Déplacements
       info_line: Les déplacements en transports en commun sont assurés par le CFS.
-  activation_onglets: false
+  activation_onglets: true
 - name: Fun Ados
   img: "/assets/images/fun-ado-laser-game.png"
   inscription: ''
