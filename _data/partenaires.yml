@@ -9,7 +9,7 @@ liste:
   couleur_bouton: ''
 - name: My Success
   categorie: Partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/logo-my-success.png"
   href: "https://www.mysuccess.be/"
   bouton: ''

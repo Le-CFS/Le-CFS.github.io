@@ -11381,7 +11381,7 @@ stages:
   img: "/assets/images/stage-soutien-scolaire-multisports.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -11406,7 +11406,7 @@ stages:
   img: "/assets/images/stage-soutien-scolaire-fun.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
