@@ -7,6 +7,13 @@ liste:
   href: "https://www.facebook.com/RoyalWavreLimal/?locale=fr_FR"
   bouton: ''
   couleur_bouton: ''
+- name: ILPlatform
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/partenaire-ilplatform.png"
+  href: "https://www.ilplatform.be/"
+  bouton: ''
+  couleur_bouton: ''
 - name: My Success
   categorie: Partenaires pédagogiques
   online: false

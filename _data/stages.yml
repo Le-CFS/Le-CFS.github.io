@@ -33,7 +33,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-vacances-jeunes-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -102,7 +102,7 @@ stages:
   categorie: Internat
   img: "/assets/images/3.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -177,7 +177,7 @@ stages:
   categorie: Internat
   img: "/assets/images/1.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -339,7 +339,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/tennis-fun.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: true
   inscription: ''
@@ -371,7 +371,7 @@ stages:
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/tennis-velo.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: true
   inscription: ''
@@ -410,7 +410,7 @@ stages:
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/tennis-aqua.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: true
   inscription: ''
@@ -501,7 +501,7 @@ stages:
   categorie: Internat
   img: "/assets/images/telecom.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -582,7 +582,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/tennis-ytsw.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: true
   inscription: ''
@@ -614,7 +614,7 @@ stages:
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/tennis-multisports.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: true
   inscription: ''
@@ -647,7 +647,7 @@ stages:
 - name: Roller & Fun
   categorie: Activités fun
   img: "/assets/images/roller.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: true
@@ -801,7 +801,7 @@ stages:
 - name: Tennis & Anglais
   categorie: Activités sportives
   img: "/assets/images/tennis-anglais.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -844,7 +844,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/tennis-padel.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -872,7 +872,7 @@ stages:
   categorie: Activités fun
   img: "/assets/images/anniversaires/activites/arrow.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: true
   inscription: ''
@@ -1101,7 +1101,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/tennis-de-table.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -1334,7 +1334,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/fun-padel.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -1360,7 +1360,7 @@ stages:
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/psycho-padel.png"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
@@ -3587,7 +3587,7 @@ stages:
 - name: Nature & Loisirs
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stage-enfant-nature-et-loisirs-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -3613,7 +3613,7 @@ stages:
 - name: Mini-Explorateurs
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-mini-explorateurs-500x500.png"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -4903,7 +4903,7 @@ stages:
 - name: Meilleur pâtissier
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stage-enfant-meilleur-patissier-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   activation_onglets: false
@@ -5982,7 +5982,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-vol-a-voile-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6023,7 +6023,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-satellite-niveau-2-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6064,7 +6064,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-satellite-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6105,7 +6105,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-rocket-niveau-2-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6144,7 +6144,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-rocket-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6186,7 +6186,7 @@ stages:
   categorie: Internat
   img: "/assets/images/stage-enfant-robotique-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6229,7 +6229,7 @@ stages:
 - name: Modélisation 3D
   categorie: Internat
   img: "/assets/images/stage-enfant-3d-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -6740,7 +6740,7 @@ stages:
   categorie: Danse et Gymnastique
   img: "/assets/images/stage-enfant-gym-pour-tous-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6878,7 +6878,7 @@ stages:
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-judo-500x500.jpg"
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   inscription: ''
   location:
@@ -6899,6 +6899,17 @@ stages:
     infos:
     - alias: Demi-journée
       info_line: Stage également disponible en demi-journée, 100% judo
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-12 ans
+    description: "
+                  <p>Véritable sport éducatif, le Judo permet à chacun de devenir plus adroit, plus souple, plus fort mais aussi d’apprendre à respecter des règles, découvrir l’entraide, évaluer ses forces et ses faiblesses pour progresser. </p>
+                  <p>Le Judo est un sport pour tous qui procure un véritable équilibre. Activité de détente et de plaisir, le Judo est une discipline basée sur l’échange et la progression. L’apprentissage se fait de manière progressive en fonction des aptitudes de l'enfant, ce qui permet à chacun d’évoluer à son rythme.</p>
+                  <p>Chaque journée de stage est divisée en deux parties. La matinée est consacrée à la pratique du Judo. L'après-midi, les enfants participent à des activités Fun & multisports.</p>
+                 "
+    infos:
+    - alias: kimono
+      info_line: "Le CFS met à disposition gratuitement un kimono pour chaque enfant tout au long de la semaine. Il est également possible de commander un kimono CFS pour un tarif de 20€ afin de repartir avec en fin de semaine."
   activation_onglets: true
 - name: Escalade & VTT
   categorie: Découvertes sportives et culturelles
@@ -7190,7 +7201,7 @@ stages:
 - name: Multisports
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-baby-multisports-500x500.jpg"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
@@ -7212,7 +7223,7 @@ stages:
 - name: Mini-Tennis
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-mini-tennis-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   inscription: ''
@@ -7838,7 +7849,7 @@ stages:
   img: "/assets/images/stages/lespetitsbouts/psychonature.png"
   inscription: ''
   categorie: Les petits bouts
-  online: true
+  online: false
   nouveau: true
   stage_une: false
   location:
@@ -7898,7 +7909,7 @@ stages:
   inscription: ''
   categorie: Les petits bouts
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Bruxelles
@@ -8186,6 +8197,16 @@ stages:
     infos: []
   - alias: Brabant
     ville: Brabant
+    age: 4-6 ans
+    description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
+      découvrir de nouvelles activités ? </p><p>Voici un stage qui ravira votre enfant
+      !</p><p>Par un premier contact avec le sport et les jeux collectifs, votre enfant
+      développera les différentes facettes de la motricité, le respect des règles
+      et la vie en groupe.</p><p>Votre enfant découvrira un large panel d'activités
+      fun et ludiques.</p>"
+    infos: []
+  - alias: Liège
+    ville: Liège
     age: 4-6 ans
     description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
       découvrir de nouvelles activités ? </p><p>Voici un stage qui ravira votre enfant
@@ -8799,7 +8820,7 @@ stages:
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Bruxelles
@@ -8904,25 +8925,6 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 6-12 ans
-    description: "<p>Votre enfant désire allier danse et gymnastique ? Voilà un stage
-      qui lui plaira !</p><p>Par le biais de la musique et l'utilisation de ballons,
-      cerceaux, rubans, cordes et massues, votre enfant développera le rythme, l'adresse,
-      la dextérité, et apprendra différentes chorégraphies.</p><p>Ce stage propose
-      une maîtrise individuelle (technique corporelle, sauts, pivots, équilibre, souplesse
-      musculaire et articulaire, technique des engins : lancers, réceptions et échanges),
-      une maîtrise collective (courses combinées, occupation de l'espace, relation
-      entre gymnastes), et une maîtrise du rythme (écoute musicale, synchronisme musique/mouvement,
-      approche chorégraphique, et improvisation).</p>"
-    infos:
-    - alias: Spectacle
-      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
-        avec le Covid).
-    - alias: Tenue adaptée
-      info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
-        gym.
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-12 ans
@@ -9167,7 +9169,7 @@ stages:
   img: "/assets/images/stages/activitesfun/bmx.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -9987,6 +9989,19 @@ stages:
     infos:
     - alias: Partenariat
       info_line: A Jette : Stage en partenariat avec Futsal Jette
+  - alias: Liège
+    ville: Liège
+    age: 6-14 ans
+    description: "
+                  <p>Votre enfant est un vrai mordu du ballon ? Notre stage de futsal est l'idéal pour lui ! </p>
+                  <p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p>
+                  <p>Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle. </p>
+                  <p>Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.</p>
+                  <p>La journée est répartie en 3 périodes de football et 3 périodes de fun & multisports (Kinball, l’ultimate frisbee, tchoukball, speedminton, flag foot, baseball, poull-ball, etc.).</p>
+                 "
+    infos:
+    - alias: Partenariat
+      info_line: A Jette : Stage en partenariat avec Futsal Jette
   activation_onglets: true
 - name: Futsal Euro 2021
   img: "/assets/images/stage-enfant-futsal-euro-2021-500x500.jpg"
@@ -10016,7 +10031,7 @@ stages:
   inscription: ''
   categorie: Activités sportives
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Bruxelles
@@ -10043,7 +10058,7 @@ stages:
   img: "/assets/images/stages/activitessportives/minifoot.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -10160,7 +10175,7 @@ stages:
   img: "/assets/images/stages/activitessportives/piloteacademy.png"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -10798,7 +10813,7 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -10919,7 +10934,7 @@ stages:
   inscription: ''
   categorie: Activités artistiques et loisirs
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - ville: Brabant Wallon
@@ -10944,28 +10959,6 @@ stages:
       notre piscine chauffée (prévoyez votre sac de piscine).</em></p>"
     infos: []
     alias: Brabant Wallon
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 8 - 14 ans
-    description: "<p><strong>Votre enfant est fou de création et de programmation
-      ?</strong></p><p>Ce stage allie les deux : les nouvelles <strong>technologies</strong>
-      et<strong> l’informatique</strong>.</p><p>Afin de donner aux enfants de nouvelles
-      clefs de réussite, nous allons via 5 sessions d’exercices développer des processus
-      de réflexion pour formuler des problèmes et leur(s) solution(s) <em>(création
-      de robots en lego, programmation de robots et présentation du travail effectué).</em></p><p><strong>Pourquoi
-      apprendre à programmer ?</strong></p><ul><li><p>Parce qu’apprendre à coder développe
-      de nombreuses autres compétences: la capacité d’abstraction et de résolution
-      de problème, la pensée logique, les mathématiques, le vocabulaire, etc.</p></li><li><p>Parce
-      nous vivons dans un monde éminemment technologique et qu’il est aussi essentiel
-      d’en maîtriser les notions que de savoir lire, écrire ou compter.</p></li><li><p>Pour
-      que les enfants sachent surfer sur le tsunami technologique sans en être de
-      simples consommateurs.</p></li><li><p>Parce que c’est ludique, et que les enfants
-      manifestent un intérêt naturel pour ces domaines.</p></li><li><p>Parce que la
-      technologie fait pleinement partie de la culture générale du XXIème siècle.</p></li><li><p>Parce
-      que les connaissances apprises dès les premières années sont solidement acquises.</p></li></ul><p><em>Le
-      stage est complété par d'autres activités récréatives dans les infrastructures
-      sportives du centre.</em></p>"
-    infos: []
   activation_onglets: true
 - name: Tennis & Anglais
   img: "/assets/images/stages/activitesartistiquesetloisirs/tennisanglaisneerlandais.png"
@@ -11028,19 +11021,6 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 8-14 ans
-    description: "<p>Tu veux évoluer au sein d'une troupe de théâtre ? Alors rejoins
-      nous !</p><p>Durant ce stage, les enfants élaborent une mise en scène et créent
-      des personnages et des décors. Encadrés par des artistes du monde théâtral,
-      ils travaillent de façon ludique afin de développer leurs capacités mnésiques.
-      En jouant, ils apprendront également à exprimer leurs sentiments par des mouvements.</p><p>Les
-      enfants s'initient également à des exercices d'improvisation.</p>"
-    infos:
-    - alias: Représentation
-      info_line: Petite représentation en fin de stage (selon les possibilités avec
-        le covid).
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
@@ -11083,7 +11063,7 @@ stages:
   img: "/assets/images/stage-enfant-new-games-500x500.jpg"
   inscription: ''
   categorie: Activités fun
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   location:
@@ -11174,12 +11154,12 @@ stages:
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 5-7 ans
+    age: 4-7 ans
     description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
 
 <p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
@@ -11193,12 +11173,12 @@ stages:
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 5-7 ans
+    age: 4-7 ans
     description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
 
 <p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
@@ -11218,12 +11198,12 @@ stages:
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 5-7 ans
+    age: 4-7 ans
     description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
 
 <p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
@@ -11238,12 +11218,12 @@ stages:
     - alias: info
       info_line: "Dès le 1er jour, prévoir maillot, essuie et bonnet."
   activation_onglets: false
-- name: Hockey
+- name: Hockey & Multisports
   img: "/assets/images/lara-hockey.png"
   inscription: ''
   categorie: Activités sportives
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
@@ -11262,7 +11242,7 @@ stages:
   inscription: ''
   categorie: Activités sportives
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
@@ -11346,7 +11326,7 @@ stages:
   inscription: ''
   categorie: Activités sportives
   online: true
-  nouveau: true
+  nouveau: false
   stage_une: false
   location:
   - alias: Brabant Wallon
@@ -11481,7 +11461,7 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6 - 18 ans
+    age: 6-18 ans
     description: "<p><i>Stage en collaboration avec <strong>CTT ALPA Schaerbeek</strong></i></p>
                   <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
                   <p>Ce stage propose une découverte et/ou un perfectionnement au tennis de table. Les enfants apprennent à manier la raquette : coups droits, services, revers, et déplacements autour de la table.</p>
@@ -11502,7 +11482,7 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6 - 18 ans
+    age: 6-18 ans
     description: "<p><i>Stage en collaboration avec <strong>Ride Your Future</strong></i></p>
                   <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
                   <p>Votre enfant est un vrai biker à la recherche de FUN et d’adrénaline ? Il n’aura pas le temps de s’ennuyer avec ce stage ! </p>
@@ -11517,7 +11497,160 @@ stages:
       - alias: navettes
         info_line: "Les déplacements en transport en commun sont assurés par nos soins."
   activation_onglets: false
-
+- name: Ninja Warrior
+  img: "/assets/images/stage-ninja-warrior.jpg"
+  inscription: ''
+  categorie: Activités fun
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-12 ans
+    description:  "
+                    <p>Un nouveau stage FUN à découvrir au CFS ! Des activités différentes tous les jours pour une semaine de stage inoubliable ! </p>
+                    <p><strong>PROGRAMME</strong> : Koh-Lanta, Fun Challenge, Escalade, Fun Games, Jeux dans les bois.</p>
+                    <ul>
+                    <li><strong>Koh-Lanta</strong> : une journée dans la peau des aventuriers de Koh Lanta : composition des tribus, épreuves en binôme et par équipe, fabrication de campement, et dégustation d’insectes pour les plus courageux. </li>
+                    <li><strong>Fun Chalenge</strong> : 2 ½ journées <i>(En collaboration avec <strong>Jag Events</strong>)</i> : structure gonflable, activités crazy light, darts, sumo, twister géant.</li>
+                    <li><strong>Escalade</strong> : ½ journée d'initiation à l'escalade.</li>
+                    <li><strong>Fun Games</strong> : DBL, poull ball, dodgeball, sport de combat,...</li>
+                    <li><strong>Jeux dans les bois</strong> : stratégo, capture de drapeau, jeu de piste.</li>
+                    </ul>
+                    <p>Pour les enfants inscrits à <u>Walhain</u> et <u>Perwez</u>, le programme est différent : Koh-Lanta, Go Jump, Fun Games, Jeux dans les bois.</p>
+                    <ul>
+                    <li><strong>Go Jump de Gembloux</strong> : laser game, golf et bowling (navette assurée par le CFS).</li>
+                    </ul>
+                  "
+    infos:
+      - alias: materiel
+        info_line: "Prévoir une paire de bottines ainsi que des vêtements adaptés aux activités d’extérieur et d'intérieur."
+  activation_onglets: false
+- name: Culturotop
+  img: "/assets/images/stage-culturepop.png"
+  inscription: ''
+  categorie: artistiques
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: "
+                  <p>Votre enfant est un passionné de culture et a une fibre scientifique ? Ce stage est fait pour lui !</p>
+                  <p>Différentes sorties sont prévues tout au long de la semaine : visite du musée des sciences naturelles, visite du planétarium de Bruxelles, visite du musée du chocolat et excursion inoubliable au Technopolis.</p>
+                  <p>Le stage est complété par des activités de multisports.</p>
+                  <p>Stage idéal pour les amoureux de culture !</p>
+                  "
+    infos:
+      - alias: navette
+        info_line: "Les navettes sont assurées par le CFS (transports en commun)."
+  activation_onglets: false
+- name: Stage spécial Euro 2024
+  img: "/assets/images/stage-euro-2024.png"
+  inscription: ''
+  categorie: Activités fun
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 7-16 ans
+    description: "
+                  <p><strong>Tournois organisés en fin de semaine entre tous les stages football du CFS ! </strong></p>
+                  <p><strong>Remise de médailles en fin de match </strong></p>
+                  <p>Votre enfant est un vrai mordu du ballon ? Notre stage 'Football Euro 2024' est l'idéal pour lui !</p>
+                  <p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p>
+                  <p>Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle.</p>
+                  <p>Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.</p>
+                  <p>La journée est répartie en 3 périodes de football et une période de multisports.</p>
+                  "
+    infos:
+      - alias: navette
+        info_line: "La navette du vendredi pour se rendre au tournoi est organisée par le CFS (transports en commun). "
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-16 ans
+    description: "
+                  <p><strong>Tournois organisés en fin de semaine entre tous les stages football du CFS ! </strong></p>
+                  <p><strong>Remise de médailles en fin de match </strong></p>
+                  <p>Votre enfant est un vrai mordu du ballon ? Notre stage 'Football Euro 2024' est l'idéal pour lui !</p>
+                  <p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p>
+                  <p>Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle.</p>
+                  <p>Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.</p>
+                  <p>La journée est répartie en 3 périodes de football et une période de multisports.</p>
+                  "
+    infos:
+      - alias: navette
+        info_line: "La navette du vendredi pour se rendre au tournoi est organisée par le CFS (transports en commun). "
+  activation_onglets: false
+- name: Ludic’Gym
+  img: "/assets/images/stage-ludic-gym.png"
+  inscription: ''
+  categorie: Découvertes sportives et culturelles
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 4-6 ans
+    description: "
+                  <p><i>Stage en collaboration avec <strong>TEMPLATE_COLLABORATION</strong></i></p>
+                  <p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir la gymnastique ? Ce stage est fait pour lui ! </p>
+                  <p>Découverte et initiation à la gymnastique pour les plus jeunes par des parcours d'équilibre, d'audace et des premières notions de gymnastique sportive (faire un cumulet, sauter dans des cerceaux, grimper sur un espalier, marcher sur une poutre, etc.).</p>
+                  <p>La baby gym est l'idéal pour permettre à l’enfant d’améliorer son développement psychomoteur et de développer son agilité.</p>
+                  <p>Le stage est complété par de la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace et multisports).</p>
+                  "
+    infos:
+      - alias: vetements
+        info_line: "Pas de vêtements amples pour ce stage et prévoir des sandales de gym."
+  activation_onglets: false
+- name: Codage & Multisports
+  img: "/assets/images/stage-codage-multisports.png"
+  inscription: ''
+  categorie: Activités artistiques
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 7-14 ans
+    description: "
+                  <p><i>Stage en collaboration avec <strong>ILPlatform</strong></i></p>
+                  <p>Tu es intéressé par l'informatique ? Et tu veux savoir comment fonctionne un ordinateur et comment le programmer ?</p>
+                  <p>Alors ce stage est fait pour toi ! A travers des projets intéressants et perspicaces, nous explorons ensemble les bases de la programmation, de la création de sites web, de l'automatisation ou de la programmation de puces. Pour atteindre ces objectifs, nous explorons également l'environnement de programmation SCRATCH, et l'utilisation de Python et Micro:Bits.</p>
+                  <p>Rejoins-nous pour une semaine remplie d'activités amusantes et divertissantes ! La semaine s'adresse aussi bien aux débutants qu'aux programmeurs avancés. Le programme change d'une semaine à l'autre.</p>
+                  <p>Ce stage a pour but de développer les compétences logiques, analytiques, algorithmiques et la pensée critique des enfants tout en enseignant les principes de base de la programmation. Les outils et les méthodes employés sont très innovants et spécialement développés pour permettre aux plus jeunes d'apprendre à programmer.</p>
+                  <p>La partie programmation/codage est donnée par notre partenaire ILPlatform en demi-journée. Les autres demi-journées sont consacrées aux activités multisports et fun.</p>
+                  "
+    infos:
+      - alias: remarque
+        info_line: "Tout le matériel nécessaire est fourni sur place."
+  activation_onglets: false
+- name: TEMPLATE_NAME
+  img: "/assets/images/TEMPLATE_IMAGE"
+  inscription: ''
+  categorie: Activités fun
+  online: false
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: TEMPLATE_CITY
+    ville: TEMPLATE_CITY
+    age: 7-12 ans
+    description: "
+                  <p><i>Stage en collaboration avec <strong>TEMPLATE_COLLABORATION</strong></i></p>
+                  <p>TEMPLATE_PARAGRAPH</p>
+                  "
+    infos:
+      - alias: TEMPLATE_INFO
+        info_line: "TEMPLATE_COMPLEMENT_INFO"
+  activation_onglets: false
 
 activites: []
 GLOBAL_activation_onglets: true

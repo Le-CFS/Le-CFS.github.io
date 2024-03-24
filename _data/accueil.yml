@@ -110,13 +110,13 @@ une:
     nouveau: non
     infos: ''
     description: |-
-      Votre enfant a besoin de se défouler ? Il adore le sport et aime découvrir de nouvelles activités ? 
+      Votre enfant a besoin de se défouler ? Il adore le sport et aime découvrir de nouvelles activités ? 
 
       Voici un stage qui le ravira !
 
       Par un premier contact avec le sport et les jeux collectifs, votre petit bout développera les différentes facettes de la motricité, le respect des règles et la vie en groupe.
 
-      Votre enfant découvrira un large panel d'activités fun et ludiques. 
+      Votre enfant découvrira un large panel d'activités fun et ludiques. 
     lieu: Brabant et Bruxelles
     age: 4-6 ans
   - name: Futsal
@@ -126,12 +126,12 @@ une:
     nouveau: non
     infos: ''
     description: |-
-      Votre enfant est un vrai mordu du ballon ? Notre stage de futsal est l'idéal pour lui ! 
+      Votre enfant est un vrai mordu du ballon ? Notre stage de futsal est l'idéal pour lui ! 
       Ce stage prévoit une alternance entre entraînements et petits matchs.
-      Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle. 
+      Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle. 
       Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.
-      La journée est répartie en 3 périodes de football et une période de multisports. 
-      A Jette : Stage en partenariat avec FUTSAL JETTE
+      La journée est répartie en 3 périodes de football et une période de multisports. 
+      A Jette : Stage en partenariat avec FUTSAL JETTE
     lieu: Bruxelles
     age: 6-14 ans
   - name: Aventure
@@ -142,11 +142,12 @@ une:
     infos: Prévoir une paire de bottines ainsi que des vêtements adaptés aux activités
       d’extérieur et d'intérieur. Certaines activités demandent un déplacement en
       navette assuré par nos soins.
-    description: |-
-      Votre enfant a entre 8 et 12 ans ? Il souhaite essayer un stage varié et fun ? Ce stage phare du CFS est pour lui ! Il vous propose un programme alléchant, avec chaque jour une activité ludique différente.
-
-      Programme Bruxelles : New Games, Arrow Game, Space Fun Game (Fort Boyard & Laser Game), Laser Game extérieur, Patinoire.
-      Programme Brabant : New Games, Laser Game, Arrow Game, Patinoire, Fun Game.
+    description: "
+                  <p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Ce stage phare du CFS est fait pour lui ! Un stage alléchant qui propose chaque jour une activité ludique et privilégie les activités en extérieur.</p>
+                  <p><strong>PROGRAMME Brabant</strong> : New Games, Laser Game, Parc Aventure, Arrow Game, Fun Challenge, BBQ & jeux dans les bois, Patinoire.</p>
+                  <p><strong>PROGRAMME Bruxelles</strong> : New Games, Arrow Game, Laser Game extérieur, Space Fun Game (Fort Boyard & Laser Game), Parc Aventure de Wavre, Patinoire.</p>
+                  <p><strong>ATTENTION</strong> : le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</p>
+                 "
     lieu: Brabant et Bruxelles
     age: 8-12 ans
   - name: Astronaut Camp
@@ -156,9 +157,9 @@ une:
     nouveau: non
     infos: Stage en partenariat avec l'Euro Space Center
     description: |-
-      Parce qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage une aventure galactique ! 
+      Parce qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage une aventure galactique ! 
 
-      Lors de ce camp, les stagiaires auront l'occasion d’expérimenter les vraies sensations vécues par un astronaute : simulation d'une marche sur la lune, reproduction de situations de désorientation et de vertige à l’intérieur d’un vaisseau qui n’est plus maîtrisé, test de ta résistance à la force de gravité dans une centrifugeuse spatiale, simulation de réparations sur un satellite avec le ressenti d’impesanteur (sur une structure métallique de 8 m de haut x 10 m de long !), exercices de communication entre une équipe terrestre et une équipe spatiale, découverte de la planète rouge à bord de votre vaisseau.
+      Lors de ce camp, les stagiaires auront l'occasion d’expérimenter les vraies sensations vécues par un astronaute : simulation d'une marche sur la lune, reproduction de situations de désorientation et de vertige à l’intérieur d’un vaisseau qui n’est plus maîtrisé, test de ta résistance à la force de gravité dans une centrifugeuse spatiale, simulation de réparations sur un satellite avec le ressenti d’impesanteur (sur une structure métallique de 8 m de haut x 10 m de long !), exercices de communication entre une équipe terrestre et une équipe spatiale, découverte de la planète rouge à bord de votre vaisseau.
 
       Après avoir été briefés sur la navette américaine, son fonctionnement et les phases d’une mission, les stagiaires auront la chance de participer à la simulation d’une mission spatiale en conditions réelles.
 
