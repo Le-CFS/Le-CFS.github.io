@@ -11530,7 +11530,7 @@ stages:
 - name: Culturotop
   img: "/assets/images/stage-culturepop.png"
   inscription: ''
-  categorie: artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: true
   stage_une: false
@@ -11612,7 +11612,7 @@ stages:
 - name: Codage & Multisports
   img: "/assets/images/stage-codage-multisports.png"
   inscription: ''
-  categorie: Activités artistiques
+  categorie: Activités artistiques et loisirs
   online: true
   nouveau: true
   stage_une: false
