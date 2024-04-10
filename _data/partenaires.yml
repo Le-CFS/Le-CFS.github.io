@@ -21,6 +21,13 @@ liste:
   href: "https://www.mysuccess.be/"
   bouton: ''
   couleur_bouton: ''
+- name: Vietamine
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/logo-vitamine.jpg"
+  href: "https://www.vietamine.be/home3.asp?ClubID=543&LG=FR"
+  bouton: ''
+  couleur_bouton: ''
 - name: Les écuries au gré du Ruisseau
   categorie: Partenaires pédagogiques
   online: true

@@ -11479,6 +11479,79 @@ stages:
       - alias: navettes
         info_line: "Les déplacements en transport en commun sont assurés par nos soins."
   activation_onglets: false
+- name: Tennis
+  img: "/assets/images/stage-tennis-2024.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-16 ans
+    description: "<p><i>Stage en collaboration avec <strong>Vietamine</strong></i></p>
+                  <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
+                  <p>Ce stage de tennis associe l'apprentissage du geste technique au plaisir du jeu dans une ambiance familiale.</p>
+                  <p>Tout au long de la semaine, les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,…) afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire ou en adversaire.</p>
+                  <p>Des groupes sont formés en fonction des âges et des niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p>
+                  <p>Un tournoi amical est organisé en fin de semaine.</p>
+                  "
+    infos:
+      - alias: tenue
+        info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
+      - alias: equipement
+        info_line: "Garderies (gratuites) : de 08h00 à 09h00 et de 16h00 à 17h30."
+  activation_onglets: false
+- name: Mini-Tennis
+  img: "/assets/images/stage-mini-tennis-2024.png"
+  inscription: ''
+  categorie: Découvertes sportives et culturelles
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 3-6 ans
+    description: "<p><i>Stage en collaboration avec <strong>Vietamine</strong></i></p>
+                  <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
+                  <p>Ce stage de tennis associe l'apprentissage du geste technique au plaisir du jeu dans une ambiance familiale.</p>
+                  <p>Tout au long de la semaine, les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,…) afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire ou en adversaire.</p>
+                  <p>Des groupes sont formés en fonction des âges et des niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p>
+                  <p>Un tournoi amical est organisé en fin de semaine.</p>
+                  "
+    infos:
+      - alias: tenue
+        info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
+      - alias: equipement
+        info_line: "Garderies (gratuites) : de 08h00 à 09h00 et de 16h00 à 17h30."
+  activation_onglets: false
+- name: Tennis & Multisports
+  img: "/assets/images/stage-tennis-multisport-2024.png"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 3-6 ans
+    description: "<p><i>Stage en collaboration avec <strong>Vietamine</strong></i></p>
+                  <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
+                  <p>Ce stage de tennis associe l'apprentissage du geste technique au plaisir du jeu dans une ambiance familiale.</p>
+                  <p>Tout au long de la semaine, les enfants apprennent les bases du tennis (prises, placement, jeux de jambes,…) afin de pouvoir réaliser un maximum d’échanges que ce soit en partenaire ou en adversaire.</p>
+                  <p>Des groupes sont formés en fonction des âges et des niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p>
+                  <p>Un tournoi amical est organisé en fin de semaine.</p>
+                  <p>Chaque journée de stage est divisée en deux parties : une partie est consacrée à la pratique du tennis et l'autre aux activités multisports.</p>
+                  "
+    infos:
+      - alias: tenue
+        info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
+      - alias: equipement
+        info_line: "Garderies (gratuites) : de 08h00 à 09h00 et de 16h00 à 17h30."
+  activation_onglets: false
 - name: Ninja Warrior
   img: "/assets/images/stage-ninja-warrior.jpg"
   inscription: ''
