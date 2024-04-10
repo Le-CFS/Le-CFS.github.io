@@ -16,7 +16,7 @@ seo:
 
 Créé en **1981**, le CFS propose des stages **sportifs** et **culturels** pour les enfants et les jeunes de **2,5 ans à 16 ans**. Fort de son expérience, le CFS a développé une large palette d’activités qu’il propose durant l’année scolaire et les vacances sur les régions du **Brabant Wallon**, de **Bruxelles** et de **Liège**. D’autre part, le CFS organise des cours collectifs pour les **adultes** et des **évènements sportifs** pour les **écoles**.
 
-### 👉 Le CFS - Centre de Formation Sportive asbl est à la recherche d’un(e) Animateur(-trice) de piscine à Bierges.
+### 👉 Le CFS - Centre de Formation Sportive asbl est à la recherche d’un(e) stagiaire Assistant(-e) Administratif(-tive) & Commercial(-e) pour travailler dans son bureau de Bierges, dans le Brabant Wallon.
 
 ##### Fonction
 * Gestion des appels entrants/sortants ;
