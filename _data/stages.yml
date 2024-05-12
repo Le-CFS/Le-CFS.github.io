@@ -5869,9 +5869,8 @@ stages:
       à des activités de fun &amp; multisports (Kinball, l’ultimate frisbee,&nbsp;tchoukball,
       speedminton, flag foot, baseball, poull-ball, etc.).</p>"
     infos:
-    - alias: Représentation
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le covid). 
+    - alias: spectacle
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00. 
     - alias: Equipement
       info_line: L'enfant doit venir avec son vélo et son casque.
   activation_onglets: true
@@ -5929,8 +5928,7 @@ stages:
       de découvertes, de rires et de bons souvenirs !</p>"
     infos:
     - alias: Représentation
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le covid). 
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Psycho Bricolage
   categorie: Les petits bouts
@@ -5971,8 +5969,7 @@ stages:
       être propres pour pouvoir participer à ce stage.</p>"
     infos:
     - alias: 'Représentation '
-      info_line: Une petite présentation des créations est prévue en fin de stage
-        (selon les possibilités avec le covid). 
+      info_line: Une petite présentation des créations est prévue en fin de stage. 
     - alias: Tablier
       info_line: L'enfant doit apporter son tablier.
     - alias: Tenue de rechange
@@ -6957,9 +6954,8 @@ stages:
       périodes de fun &amp; multisports (Kinball, l’ultimate frisbee,&nbsp;tchoukball,
       speedminton, flag foot, baseball, poull-ball, etc.).</p>"
     infos:
-    - alias: Présentation
-      info_line: Une petite présentation des créations est prévue en fin de stage
-        (selon les possibilités avec le covid). 
+    - alias: spectacle
+      info_line: Petite présentation des création est prévue le dernier jour du stage vers 15h00.
     - alias: Matériel
       info_line: Les enfants apporteront un vieux tablier ainsi qu'un plumier avec
         colle, ciseaux et latte.
@@ -6986,6 +6982,8 @@ stages:
     - alias: Equipement
       info_line: Les enfants doivent apporter leur matériel (rollers, casque, coudières,
         protège poignets et genouillères).
+    - alias: spectacle
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Psycho Cuisine
   categorie: Les petits bouts
@@ -7005,7 +7003,7 @@ stages:
       aux enfants : latéralité, équilibre, éveil sensori-moteur, adresse, audace,
       coopération, rythme, etc.</p><p>Une période de repos est prévue après le temps
       de midi.</p><p>Une petite représentation/dégustation est prévue en fin de stage
-      (selon les possibilités avec le covid).</p><p>Les enfants doivent obligatoirement
+    .</p><p>Les enfants doivent obligatoirement
       être propres pour pouvoir participer à ce stage. L'enfant doit apporter son
       tablier. Prévoir une tenue de rechange.</p>"
     infos: []
@@ -7022,8 +7020,7 @@ stages:
       ce stage.</p>"
     infos:
     - alias: Représentation
-      info_line: Une petite représentation/dégustation est prévue en fin de stage
-        (selon les possibilités avec le covid). 
+      info_line: Une petite représentation/dégustation est prévue en fin de stage. 
     - alias: Tablier
       info_line: L'enfant doit apporter son tablier.
     - alias: Tenue de rechange
@@ -7052,8 +7049,7 @@ stages:
       basketball, crosse canadienne, ball bouncer, ou encore baseball.</p>"
     infos:
     - alias: Défilé
-      info_line: Un défilé sera organisé en fin de semaine pour montrer les créations
-        (selon les possibilités avec le covid).
+      info_line: Un défilé sera organisé en fin de semaine pour montrer les créations.
   activation_onglets: true
 - name: Secourisme
   categorie: Activités artistiques et loisirs
@@ -7217,8 +7213,7 @@ stages:
       garçons qu'aux filles !</p>"
     infos:
     - alias: Spectacle
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le Covid).
+      info_line: Une petite représentation est prévue en fin de stage.
   activation_onglets: true
 - name: Mini-Tennis
   categorie: Activités sportives
@@ -7483,7 +7478,7 @@ stages:
     - alias: Matériel
       info_line: Matériel fourni par le CFS.
     - info_line: Un spectacle et une exposition des bijoux sont prévus en fin de stage
-        (entre 15h et 16h selon les possibilités avec le covid).
+        (entre 15h et 16h).
       alias: Spectacle
   activation_onglets: true
 - name: E Pilote Academy
@@ -7678,7 +7673,9 @@ stages:
       ans (PSYCHO) : les enfants doivent être propres. Le cas échéant, il faut inscrire
       votre petit bout en pré-psycho.</p><p>Les enfants rentrent chaque semaine avec
       un bricolage et une création culinaire réalisés par leurs soins.</p>"
-    infos: []
+    infos:
+    - alias: spectacle
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Psycho Grimpette
   img: "/assets/images/stages/lespetitsbouts/psychogrimpette.png"
@@ -8046,7 +8043,7 @@ stages:
         enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
   - alias: Liège
     ville: Liège
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Vous souhaitez que votre petit bout apprenne à rouler à vélo
       comme les grands ? Cette étape réservée aux enfants ne sachant pas rouler à
       vélo sur 2 roues est l'idéal pour lui !</p><p>Il propose quotidiennement une
@@ -8059,8 +8056,9 @@ stages:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur. 
     - alias: Apporter son propre vélo
-      info_line: L'enfant doit venir avec son vélo en bon état et son casque. Les
-        enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
+      info_line: L'enfant doit venir avec son vélo en bon état et son casque. Les enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo.
+    - alias: représentation
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Astucieux
   img: "/assets/images/stages/decouvertesportiveetculturelle/astucieux.png"
@@ -8101,8 +8099,7 @@ stages:
       par des activités artistiques (bricolage, confection de bijoux,...) et de multisports.</p>"
     infos:
     - alias: Spectacle
-      info_line: Un petit spectacle est prévu à la fin de la semaine (en fonction
-        des possibilités covid).
+      info_line: Un petit spectacle est prévu à la fin de la semaine.
   activation_onglets: true
 - name: Baby Foot
   img: "/assets/images/stage-enfant-baby-foot-500x500.jpg"
@@ -8160,8 +8157,7 @@ stages:
       la psychomotricité (jeux de coopérations, parcours d'adresse, d'audace et multisports).</p>"
     infos:
     - alias: Spectacle
-      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
-        Covid).
+      info_line: Un petit spectacle est prévu en fin de semaine.
     - alias: Tenue adaptée
       info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
         gym.
@@ -8214,7 +8210,9 @@ stages:
       développera les différentes facettes de la motricité, le respect des règles
       et la vie en groupe.</p><p>Votre enfant découvrira un large panel d'activités
       fun et ludiques.</p>"
-    infos: []
+    infos:
+    - alias: représentation
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Baby Multisports & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultietnat.png"
@@ -8378,9 +8376,8 @@ stages:
       éveil sensori-moteur, adresse, audace, coopération, rythme, etc.) et de multisports
       (basketball, mini-foot, volley, handball, unihoc, baseball, etc.).</p>"
     infos:
-    - alias: Représentation
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le covid). 
+    - alias: représentation
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Baby Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirquemomes.png"
@@ -8393,7 +8390,7 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: "<p><em>Stage en collaboration avec </em><strong><em>Circomodo</em></strong></p><p>Tu
+    description: "<p>Tu
       es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu découvriras les arts
       du cirque à travers différents jeux : jonglage, équilibre, pyramide humaine,
       monocycle,...</p><p>La circomotricité, alliant la psychomotricité avec les techniques
@@ -8404,7 +8401,7 @@ stages:
       des demandes des enfants.</p>"
     infos:
     - alias: Spectacle
-      info_line: Spectacle en fin de semaine (selon les possibilités avec le covid).
+      info_line: Spectacle en fin de semaine.
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
@@ -8422,8 +8419,7 @@ stages:
       la plaine du collège à Wavre.</p>"
     infos:
     - alias: Spectacle
-      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
-        avec le covid).
+      info_line: Un petit spectacle est prévu en fin de semaine.
   activation_onglets: true
 - name: Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirque.png"
@@ -8447,8 +8443,7 @@ stages:
       et dans la plaine du collège à Wavre.</p>"
     infos:
     - alias: Spectacle
-      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
-        avec le covid).
+      info_line: Un petit spectacle est prévu en fin de semaine.
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
@@ -8463,22 +8458,19 @@ stages:
       des demandes des enfants.</p>"
     infos:
     - alias: Spectacle
-      info_line: Spectacle en fin de semaine (selon les possibilités avec le covid).
+      info_line: Spectacle en fin de semaine.
   - alias: Liège
     ville: Liège
     age: 8-12 ans
-    description: "<p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p><p>Tu
-      découvriras les arts du cirque à travers différents jeux : jonglerie (foulards,
-      diabolos, assiettes chinoises, balles, quilles, anneaux et bâton du diable),
-      équilibre (monocycles, échasses, mini rouleau, rola-bola et bidon), acrobatie
-      (bases d'acrobaties fixes).</p><p>Les 3 heures de cirque sont complétées par
-      3 périodes de fun &amp; multisports (Kinball, l’ultimate frisbee,&nbsp;tchoukball,
-      speedminton, flag foot, baseball, poull-ball, etc.).</p><p>Une semaine pleine
-      de découvertes, de rires et de bons souvenirs !</p>"
+    description: "
+    <p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p>
+    <p>Tu découvriras les arts du cirque à travers différents jeux : jonglerie (foulards, diabolos, assiettes chinoises, balles, quilles, anneaux et bâton du diable), équilibre (monocycles, échasses, mini rouleau, rola-bola et bidon), acrobatie (bases d'acrobaties fixes).</p>
+    <p>Les 3 heures de cirque sont complétées par 3 périodes de fun & multisports (Kinball, l’ultimate frisbee, tchoukball, speedminton, flag foot, baseball, poull-ball, etc.).</p>
+    <p>Une semaine pleine de découvertes, de rires et de bons souvenirs !</p>
+      "
     infos:
     - alias: Représentation
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le covid). 
+      info_line: Une petite représentation est prévue en fin de stage. 
   activation_onglets: true
 - name: Découverte Sportive
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
@@ -8863,8 +8855,7 @@ stages:
       de danse pour participer au stage Dance For You.</p>"
     infos:
     - alias: Spectacle
-      info_line: Un spectacle est prévu en fin de stage (selon les possibilités avec
-        le Covid).
+      info_line: Un spectacle est prévu en fin de stage.
   activation_onglets: true
 - name: Danse
   img: "/assets/images/stages/danseetgymnastique/danse.png"
@@ -8885,8 +8876,7 @@ stages:
       et à suivre le tempo des musiques.</p>"
     infos:
     - alias: Spectacle
-      info_line: Un petit spectacle est prévu à la fin de la semaine (selon les possibilités
-        avec le Covid).
+      info_line: Un petit spectacle est prévu à la fin de la semaine.
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-12 ans
@@ -8898,8 +8888,7 @@ stages:
       et à suivre le tempo des musiques.</p>"
     infos:
     - alias: Spectacle
-      info_line: Un petit spectacle est prévu à la fin de la semaine (selon les possibilités
-        avec le Covid).
+      info_line: Un petit spectacle est prévu à la fin de la semaine.
   - alias: Liège
     ville: Liège
     age: 6-12 ans
@@ -8914,8 +8903,7 @@ stages:
       etc.).</p>"
     infos:
     - alias: Spectacle
-      info_line: Une petite présentation des chorégraphies apprises est prévue en
-        fin de stage (selon les possibilités avec le covid). 
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: GRS
   img: "/assets/images/stages/danseetgymnastique/grs.png"
@@ -8939,8 +8927,7 @@ stages:
       approche chorégraphique, et improvisation).</p>"
     infos:
     - alias: Spectacle
-      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
-        avec le Covid).
+      info_line: Un petit spectacle est prévu en fin de semaine.
     - alias: Tenue adaptée
       info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
         gym.
@@ -8984,8 +8971,7 @@ stages:
       info_line: Pas de vêtements amples pour ce stage et prévoir des sandales de
         gym.
     - alias: Spectacle
-      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
-        avec le Covid).
+      info_line: Un petit spectacle est prévu en fin de semaine.
   - alias: Liège
     ville: Liège
     age: 6-12 ans
@@ -9043,8 +9029,7 @@ stages:
       ou encore baseball.</p>"
     infos:
     - alias: Spectacle
-      info_line: Une petite représentation est prévue en fin de semaine (selon les
-        possibilités avec le Covid).
+      info_line: Une petite représentation est prévue en fin de semaine.
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 9-16 ans
@@ -9061,8 +9046,7 @@ stages:
       canadienne, ball bouncer, ou encore baseball.</p>"
     infos:
     - alias: Spectacle
-      info_line: Une petite représentation est prévue en fin de semaine (selon les
-        possibilités avec le Covid).
+      info_line: Une petite représentation est prévue en fin de semaine.
   activation_onglets: true
 - name: Aventure
   img: "/assets/images/stages/activitesfun/aventure.png"
@@ -9164,6 +9148,8 @@ stages:
       info_line: Les enfants doivent prévoir leur VTT, un casque, un gilet fluo, une
         chambre à air de rechange ainsi qu'un cadenas dès le premier jour de stage
         (nous déclinons toute responsabilité en cas de vol).
+    - alias: représentation
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Pro BMX
   img: "/assets/images/stages/activitesfun/bmx.png"
@@ -9541,6 +9527,8 @@ stages:
       info_line: Les Ados doivent emporter leur VTT, un gilet fluo, un casque, un
         cadenas ainsi qu'une chambre à air de rechange (nous déclinons toute responsabilité
         en cas de vol).
+    - alias: spectacle
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Aventure Camp
   img: "/assets/images/stage-enfant-aventure-camp-500x500.jpg"
@@ -9828,8 +9816,7 @@ stages:
       flag foot, baseball, poull-ball, etc.).</p>"
     infos:
     - alias: Représentation
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le covid). 
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
     - alias: Equipement
       info_line: 'Se munir de 2 paires de chaussures (de baskets ou de foot) : une pour
         l''intérieur et l''autre pour l''extérieur.'
@@ -9906,7 +9893,9 @@ stages:
       par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball,
       le speedminton, le flag foot, le baseball, le poull-ball, etc.</p><p>Semaine
       sportive et Fun assurée !</p>"
-    infos: []
+    infos:
+    - alias: spectacle
+    - info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Fun Multisports & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/funmultietnat.png"
@@ -9982,8 +9971,8 @@ stages:
                   <p>La journée est répartie en 3 périodes de football et 3 périodes de fun & multisports (Kinball, l’ultimate frisbee, tchoukball, speedminton, flag foot, baseball, poull-ball, etc.).</p>
                  "
     infos:
-    - alias: Partenariat
-      info_line: A Jette : Stage en partenariat avec Futsal Jette
+    - alias: Spectacle
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Futsal Euro 2021
   img: "/assets/images/stage-enfant-futsal-euro-2021-500x500.jpg"
@@ -10599,8 +10588,7 @@ stages:
       à Ottignies, et dans la plaine du collège à Wavre</em>.</p>"
     infos:
     - alias: Spectacle
-      info_line: Un petit spectacle est prévu en fin de semaine (selon les possibilités
-        avec le Covid).
+      info_line: Un petit spectacle est prévu en fin de semaine.
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
@@ -10615,7 +10603,7 @@ stages:
       des demandes des enfants.</p>"
     infos:
     - alias: Spectacle
-      info_line: Spectacle en fin de semaine (selon les possibilités avec le Covid).
+      info_line: Spectacle en fin de semaine.
   - alias: Liège
     ville: Liège
     age: 8-12 ans
@@ -10629,8 +10617,7 @@ stages:
       de rires et de bons souvenirs !</p>"
     infos:
     - alias: Spectacle
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le covid). 
+      info_line: Une petite représentation est prévue en fin de stage. 
   activation_onglets: true
 - name: Comédie Musicale
   img: "/assets/images/stages/activitesartistiquesetloisirs/comediemusicale.png"
@@ -10662,7 +10649,7 @@ stages:
       info_line: Il sera demandé aux enfants d'apporter un costume en fonction du
         thème de la pièce de théâtre.
     - alias: Spectacle
-      info_line: Spectacle en fin de semaine (selon les possibilités avec le Covid)
+      info_line: Spectacle en fin de semaine
         !
   activation_onglets: true
 - name: Débrouillard
@@ -10750,9 +10737,12 @@ stages:
     ville: Liège
     age: 7-14 ans
     description: "<p>Votre enfant à l'âme d'un futur cuisinier ?</p>
-    <p>Durant le stage, les jeunes cuisiniers touchent à tous les domaines ayant trait au métier de chef-cuistot. Ils préparent différentes recettes et se chargent également de la remise en ordre des cuisines.</p>
-    <p>Le dernier jour, les enfants retournent avec leur carnet de recettes, élaboré durant la semaine de stage.</p>
-    <p>Les 3 heures de cuisine sont complétées par 3 heures de fun & multisports (Kinball, l’ultimate frisbee, tchoukball, speedminton, flag foot, baseball, poull-ball, etc.).</p>"
+          <p>Durant le stage, les jeunes cuisiniers touchent à tous les domaines ayant trait au métier de chef-cuistot. Ils préparent différentes recettes et se chargent également de la remise en ordre des cuisines.</p>
+          <p>Le dernier jour, les enfants retournent avec leur carnet de recettes, élaboré durant la semaine de stage.</p>
+          <p>Les 3 heures de cuisine sont complétées par 3 heures de fun & multisports (Kinball, l’ultimate frisbee, tchoukball, speedminton, flag foot, baseball, poull-ball, etc.).</p>"
+    infos:
+    - alias: spectacle
+      info_line: Petite dégustation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
 - name: Immersion Anglais - Interlingua
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersionanglais.png"
@@ -10857,8 +10847,7 @@ stages:
       pack de magie en fin de stage !</p>"
     infos:
     - alias: Spectacle
-      info_line: Un petit spectacle de magie et de cirque prévu en fin de semaine
-        (selon les possibilités avec le Covid).
+      info_line: Un petit spectacle de magie et de cirque prévu en fin de semaine.
   activation_onglets: true
 - name: Magie & Fun
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
@@ -10886,7 +10875,7 @@ stages:
       info_line: " Prévoir une tenue adaptée pour les activités fun en extérieur."
     - alias: Spectacle
       info_line: Une petite démonstration de quelques tours appris est prévue en fin
-        de semaine (selon les possibilités avec le Covid).
+        de semaine.
   activation_onglets: true
 - name: Magie Pro
   img: "/assets/images/stages/activitesartistiquesetloisirs/magietfun.png"
@@ -10909,7 +10898,7 @@ stages:
     infos:
     - alias: Spectacle
       info_line: Une petite démonstration de quelques tours appris est prévue en fin
-        de semaine (selon les possibilités avec le Covid).
+        de semaine.
   activation_onglets: true
 - name: Robotique
   img: "/assets/images/stages/activitesartistiquesetloisirs/robotique.png"
@@ -11014,8 +11003,7 @@ stages:
       enfants s'initient également à des exercices d'improvisation.</p>"
     infos:
     - alias: Représentation
-      info_line: Petite représentation en fin de stage (selon les possibilités avec
-        le covid).
+      info_line: Petite représentation en fin de stage.
   activation_onglets: true
 - name: Vidéo Reportage
   img: "/assets/images/stages/activitesartistiquesetloisirs/videoreportage.png"
@@ -11061,10 +11049,9 @@ stages:
       mini-foot, volley, handball, unihoc, baseball, etc.).</p>"
     infos:
     - alias: Représentation
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le covid). 
+      info_line: Une petite représentation est prévue en fin de stage. 
   activation_onglets: true
-- name: Vélo-Evolution
+- name: Vélo Evolution
   img: "/assets/images/stage-enfant-velo-evolution-500x500.jpg"
   inscription: ''
   categorie: Activités sportives
@@ -11083,9 +11070,8 @@ stages:
       à des activités de fun &amp; multisports (Kinball, l’ultimate frisbee,&nbsp;tchoukball,
       speedminton, flag foot, baseball, poull-ball, etc.).</p>"
     infos:
-    - alias: Représentation
-      info_line: Une petite représentation est prévue en fin de stage (selon les possibilités
-        avec le covid). 
+    - alias: spectacle
+      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
     - alias: Equipement
       info_line: L'enfant doit apporter son vélo, son casque, un cadenas ainsi qu'une
         chambre à air de réserve (nous déclinons toute responsabilité en cas de vol). 
@@ -11564,18 +11550,18 @@ stages:
     ville: Brabant Wallon
     age: 7-12 ans
     description:  "
-                    <p>Un nouveau stage FUN à découvrir au CFS ! Des activités différentes tous les jours pour une semaine de stage inoubliable ! </p>
+                    <p>Un nouveau stage FUN à découvrir au CFS ! Des activités différentes tous les jours pour une semaine de stage inoubliable !</p>
                     <p><strong>PROGRAMME</strong> : Koh-Lanta, Fun Challenge, Escalade, Fun Games, Jeux dans les bois.</p>
                     <ul>
-                    <li><strong>Koh-Lanta</strong> : une journée dans la peau des aventuriers de Koh Lanta : composition des tribus, épreuves en binôme et par équipe, fabrication de campement, et dégustation d’insectes pour les plus courageux. </li>
+                    <li><strong>Koh-Lanta</strong> : une journée dans la peau des aventuriers de Koh Lanta : composition des tribus, épreuves en binôme et par équipe, fabrication de campement, et dégustation d’insectes pour les plus courageux.</li>
                     <li><strong>Fun Chalenge</strong> : 2 ½ journées <i>(En collaboration avec <strong>Jag Events</strong>)</i> : structure gonflable, activités crazy light, darts, sumo, twister géant.</li>
                     <li><strong>Escalade</strong> : ½ journée d'initiation à l'escalade.</li>
                     <li><strong>Fun Games</strong> : DBL, poull ball, dodgeball, sport de combat,...</li>
                     <li><strong>Jeux dans les bois</strong> : stratégo, capture de drapeau, jeu de piste.</li>
                     </ul>
-                    <p>Pour les enfants inscrits à <u>Walhain</u> et <u>Perwez</u>, le programme est différent : Koh-Lanta, Go Jump, Fun Games, Jeux dans les bois.</p>
+                    <p>Pour les enfants inscrits à <u>Walhain</u> et <u>Perwez</u>, le programme est différent : Koh-Lanta, MI12, Fun Games, Jeux dans les bois.</p>
                     <ul>
-                    <li><strong>Go Jump de Gembloux</strong> : laser game, golf et bowling (navette assurée par le CFS).</li>
+                    <li><strong>MI12 de Gembloux</strong> : laser game, golf et bowling (navette assurée par le CFS).</li>
                     </ul>
                   "
     infos:
@@ -11654,7 +11640,6 @@ stages:
     ville: Liège
     age: 4-6 ans
     description: "
-                  <p><i>Stage en collaboration avec <strong>TEMPLATE_COLLABORATION</strong></i></p>
                   <p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir la gymnastique ? Ce stage est fait pour lui ! </p>
                   <p>Découverte et initiation à la gymnastique pour les plus jeunes par des parcours d'équilibre, d'audace et des premières notions de gymnastique sportive (faire un cumulet, sauter dans des cerceaux, grimper sur un espalier, marcher sur une poutre, etc.).</p>
                   <p>La baby gym est l'idéal pour permettre à l’enfant d’améliorer son développement psychomoteur et de développer son agilité.</p>
@@ -11663,6 +11648,8 @@ stages:
     infos:
       - alias: vetements
         info_line: "Pas de vêtements amples pour ce stage et prévoir des sandales de gym."
+      - alias: spectacle
+        info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: false
 - name: Codage & Multisports
   img: "/assets/images/stage-codage-multisports.png"

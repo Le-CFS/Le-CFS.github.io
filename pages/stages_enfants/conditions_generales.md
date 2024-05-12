@@ -24,11 +24,7 @@ Les inscriptions en cours de semaine de stage sont possibles tant que des places
 disponibles en activité. Au tel cas, le prix de la cotisation est revu au prorata (pour les stages
 comprenant des excursions, le tarif est recalculé en fonction des excursions restantes).
 #### Article 1.2. Réductions
-Les réductions sont accordées aux enfants habitant sous le même toit. Il y a trois périodes de
-réduction : Toussaint et Noël, Carnaval et Pâques, Eté.
-Attention, les différentes périodes ne sont pas cumulables.
-Une fois la période sélectionnée, additionnez le nombre de stages auxquels vos enfants
-participent pendant cette période :
+Les réductions sont accordées aux enfants habitant sous le même toit. Il y a trois périodes de réduction : Toussaint et Noël, Carnaval et Pâques, Eté. Attention, les différentes périodes ne sont pas cumulables. Une fois la période sélectionnée, additionnez le nombre de stages auxquels vos enfants participent pendant cette période :
 Nombre de stages Réductions
 3 stages 15 € => sur le 3ème stage<br>
 4 stages 20 € => sur le 4ème stage<br>
@@ -36,6 +32,16 @@ Nombre de stages Réductions
 6 stages 40 € => sur le 6ème stage<br>
 7 stages 50 € => sur le 7ème stage<br>
 8 stages + 10 € par stage supplémentaire
+
+##### Pour les inscriptions sur la Province de Liège
+Une réduction de 5 € est accordée à partir du 2ème stage effectué durant nos stages, par un même enfant ou un enfant de la même famille.
+
+Une réduction de 15 € est accordée sur chaque stage pour les enfants habitant l’entité de Villers-le-Bouillet, sans réduction pour le 2ème stage.
+
+Une réduction de 10 € est accordée sur chaque stage pour les enfants habitant l’entité d’Amay, sans réduction pour le 2ème stage.
+
+Pour le stage X-TREM se déroulant à **Villers-le-Bouillet**, une réduction de 15€ est accordée, pour les habitants de l'entité de **Villers** et de l'entité de **Verlaine**, sans réduction pour le 2ème stage.
+
 ### Article 2. Conditions de participation
 #### Article 2.1. Droits et devoirs des enfants
 Les enfants sont accueillis dans un environnement adapté et sécurisé. Chaque enfant doit
