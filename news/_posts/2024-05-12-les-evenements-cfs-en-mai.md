@@ -10,8 +10,8 @@ seo:
   keywords:
   type: article
   description: Les évènements du CFS en mai
-  img: '/assets/images/2024-04-09-events-cfs.png'
-banner: '/assets/images/2024-04-09-events-cfs.png'
+  img: '/assets/images/news-20240513.png'
+banner: '/assets/images/news-20240513.png'
 
 ---
 
