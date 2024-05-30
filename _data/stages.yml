@@ -1326,10 +1326,7 @@ stages:
       Notre stage festifoot est l'idéal pour lui ! </p><p>50% du temps de festifoot
       c'est principalement des 2 contre 2, les 50% autres, ce sont des ateliers footballistiques
       adaptés à leurs âges.</p>"
-    infos:
-    - alias: Repas
-      info_line: Le repas chaud, la collation et les boissons sont compris dans le
-        prix.
+    infos: []
 - name: Fun Padel
   categorie: Activités sportives
   img: "/assets/images/fun-padel.png"
@@ -3968,9 +3965,7 @@ stages:
     age: 7-14 ans
     description: "<p><strong>Walhain - </strong><em>En collaboration avec le </em><strong><em>FC
       Walhain</em></strong></p><p><strong>La Hulpe -<em> </em></strong><em>En collaboration
-      avec le </em><strong><em>Royal La Hulpe Sporting Club<br></em></strong><em>Uniquement
-      à la Hulpe :</em><strong><em> </em></strong><em>L</em>e <em>repas chaud, collation,
-      gouter + boissons, compris dans le prix.</em></p><p>Votre enfant est un vrai
+      avec le </em><strong><em>Royal La Hulpe Sporting Club<br></em></strong></em></p><p>Votre enfant est un vrai
       mordu du ballon ? Notre stage de football est l'idéal pour lui !</p><p>Ce stage
       prévoit une alternance entre entraînements et petits matchs.</p><p>Les enfants
       s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des
@@ -9778,9 +9773,7 @@ stages:
     age: 6-14 ans
     description: "<p><strong>Walhain - </strong><em>En collaboration avec </em><strong><em>FC
       Walhain</em></strong></p><p><strong>La Hulpe -<em> </em></strong><em>En collaboration
-      avec le </em><strong><em>Royal La Hulpe Sporting Club<br></em></strong><em>Uniquement
-      à la Hulpe :</em><strong><em> </em></strong><em>L</em>e <em>repas chaud, collation,
-      gouter + boissons, compris dans le prix.</em></p><p>Votre enfant est un vrai
+      avec le </em><strong><em>Royal La Hulpe Sporting Club<br></em></strong></p><p>Votre enfant est un vrai
       mordu du ballon ? Notre stage de football est l'idéal pour lui !</p><p>Ce stage
       prévoit une alternance entre entraînements et petits matchs.</p><p>Les enfants
       s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des

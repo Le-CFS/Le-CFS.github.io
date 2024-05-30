@@ -80,46 +80,46 @@ stages_enfants:
   - title: Un stage pour tous
     url: "/stages/activites/"
     title_mobile: Catalogue des stages
-  - title: Silos à Bruxelles
-    url: "/stages/protocole/bruxelles/"
-    online_mobile: false
-    sousmenu:
-    - title: Jette
-      url: "/stages/protocole/bruxelles/jette/"
-    - title: Laeken
-      url: "/stages/protocole/bruxelles/laeken/"
-    - title: Wemmel
-      url: "/stages/protocole/bruxelles/wemmel/"
-    - title: Uccle
-      url: "/stages/protocole/bruxelles/uccle/"
-    - title: Woluwé
-      url: "/stages/protocole/bruxelles/woluwe/"
-    - title: Auderghem
-      url: "/stages/protocole/bruxelles/auderghem/"
-    - title: Berchem-Sainte-Agathe
-      url: "/stages/protocole/bruxelles/berchem/"
-  - title: Silos dans le Brabant
-    url: "/stages/protocole/brabant/"
-    online_mobile: false
-    sousmenu:
-    - title: Wavre
-      url: "/stages/protocole/brabant/wavre/"
-    - title: Ottignies
-      url: "/stages/protocole/brabant/ottignies/"
-    - title: Rixensart
-      url: "/stages/protocole/brabant/rixensart/"
-    - title: Bierges
-      url: "/stages/protocole/brabant/bierges/"
-    - title: Walhain
-      url: "/stages/protocole/brabant/walhain/"
-    - title: Waterloo
-      url: "/stages/protocole/brabant/waterloo/"
-    - title: La Hulpe
-      url: "/stages/protocole/brabant/lahulpe/"
-    - title: Orp
-      url: "/stages/protocole/brabant/orpjauche/"
-    - title: Perwez
-      url: "/stages/protocole/brabant/perwez/"
+  # - title: Silos à Bruxelles
+  #   url: "/stages/protocole/bruxelles/"
+  #   online_mobile: false
+  #   sousmenu:
+  #   - title: Jette
+  #     url: "/stages/protocole/bruxelles/jette/"
+  #   - title: Laeken
+  #     url: "/stages/protocole/bruxelles/laeken/"
+  #   - title: Wemmel
+  #     url: "/stages/protocole/bruxelles/wemmel/"
+  #   - title: Uccle
+  #     url: "/stages/protocole/bruxelles/uccle/"
+  #   - title: Woluwé
+  #     url: "/stages/protocole/bruxelles/woluwe/"
+  #   - title: Auderghem
+  #     url: "/stages/protocole/bruxelles/auderghem/"
+  #   - title: Berchem-Sainte-Agathe
+  #     url: "/stages/protocole/bruxelles/berchem/"
+  # - title: Silos dans le Brabant
+  #   url: "/stages/protocole/brabant/"
+  #   online_mobile: false
+  #   sousmenu:
+  #   - title: Wavre
+  #     url: "/stages/protocole/brabant/wavre/"
+  #   - title: Ottignies
+  #     url: "/stages/protocole/brabant/ottignies/"
+  #   - title: Rixensart
+  #     url: "/stages/protocole/brabant/rixensart/"
+  #   - title: Bierges
+  #     url: "/stages/protocole/brabant/bierges/"
+  #   - title: Walhain
+  #     url: "/stages/protocole/brabant/walhain/"
+  #   - title: Waterloo
+  #     url: "/stages/protocole/brabant/waterloo/"
+  #   - title: La Hulpe
+  #     url: "/stages/protocole/brabant/lahulpe/"
+  #   - title: Orp
+  #     url: "/stages/protocole/brabant/orpjauche/"
+  #   - title: Perwez
+  #     url: "/stages/protocole/brabant/perwez/"
   - title: Lieux de stage
     url: "/stages/lieux_de_stage/"
   - title: Garderie
