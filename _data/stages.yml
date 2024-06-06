@@ -534,7 +534,7 @@ stages:
       info_line: 'Externat : repas et collation fournis par l''Euro Space Center.
         Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite
         mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.'
-- name: Cyclocross
+- name: Cyclocross & Foot 
   categorie: Activités sportives
   img: "/assets/images/cyclocross.png"
   online: true
@@ -11282,7 +11282,7 @@ stages:
       - alias: Matériel
         info_line: "Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel."
   activation_onglets: false
-- name: Petite ferme & Cavalier en Herbe
+- name: Petite Ferme & Approche Ethologique du Cheval
   img: "/assets/images/stage-enfant-ecuries-gre.png"
   inscription: ''
   categorie: Activités sportives
@@ -11292,10 +11292,11 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-18 ans
+    age: 5-9 ans
     description: "<p><i>Stage en collaboration avec <strong>Les écuries au gré du Ruisseau</strong> à Grez-Doiceau.</i></p>
-                  <p>Viens découvrir les animaux de la petite ferme, en prendre soin et jouer à des jeux variés avec tes amis, en profitant de la présence des animaux et des bienfaits de la nature.</p>
-                  <p>Si tu le souhaites, tu peux apprendre à monter à poney/cheval tout en t'amusant. Les jeux de piste seront à l'honneur.</p>
+                  <p>Viens découvrir les animaux de la petite ferme ainsi que la nature qui nous entoure !
+Durant la semaine de stage, les enfants sont en contact des animaux : ils apprennent à en prendre soin en les nourrissant, et les brossant et les nettoyant. Les enfants découvrent une approche éthologique du cheval avec des séances d’initiation à l'équitation.
+Des jeux et promenades dans la nature sont organisés, dans un environnement familial où l’entraide et la coopération sont encouragées.</p>
                   "
     infos:
       - alias: Matériel
