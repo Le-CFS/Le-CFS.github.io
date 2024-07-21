@@ -3490,7 +3490,8 @@ stages:
       initié).</em></p><p>Des groupes sont formés en fonction des âges et des niveaux
       : balles molles, mids ou dures (max. 8 enfants/groupe).</p><p>Un tournoi amical
       sera organisé en fin de semaine.</p><p>La journée est divisée en 3 périodes
-      de tennis et 1 période de multisports.</p>"
+      de tennis et 1 période de multisports.</p>
+      <p><strong>Garderie</strong> : Inscription sur place ! Garderie gratuite de 08h00 à 09h00 et de 16h00 à 17h00. Garderie payante de 17h00 à 17h30 (5€). Pas de garderie après 17h30.</p>"
     infos:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
@@ -3516,7 +3517,9 @@ stages:
       au long de la semaine, les enfants apprennent les bases du tennis (prises, placement,
       jeux de jambes,…) afin de pouvoir réaliser un maximum d’échanges que ce soit
       en partenaire ou en adversaire.</p><p>Des groupes sont formés en fonction des
-      âges et des niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p>"
+      âges et des niveaux : balles molles, mids ou dures (max. 8 enfants/groupe).</p>
+            <p><strong>Garderie</strong> : Inscription sur place ! Garderie gratuite de 08h00 à 09h00 et de 16h00 à 17h00. Garderie payante de 17h00 à 17h30 (5€). Pas de garderie après 17h30.</p>
+      "
     infos:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
@@ -3544,7 +3547,9 @@ stages:
       du rebond de la balle est essentiel pour un sport tel que le tennis. La volée
       et le service sont également vus.</p><p>Et tout cela avec du matériel adapté
       : ballons, ballons de baudruche, balles rouges et balles molles.</p><p>Une période
-      de la journée est consacrée à la découverte d’un multisport.</p>"
+      de la journée est consacrée à la découverte d’un multisport.</p>
+      <p><strong>Garderie</strong> : Inscription sur place ! Garderie gratuite de 08h00 à 09h00 et de 16h00 à 17h00. Garderie payante de 17h00 à 17h30 (5€). Pas de garderie après 17h30.</p>"
+
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par notre partenaire.
@@ -10352,7 +10357,7 @@ stages:
         seront navettés soit vers Ottignies, soit vers Wavre.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-14 ans
+    age: 8-12 ans
     description: "<p>Votre enfant veut découvrir les joies d'un sport de raquettes
       ?</p><p>Ce stage de tennis associe l'apprentissage du geste technique au plaisir
       du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine, les enfants
