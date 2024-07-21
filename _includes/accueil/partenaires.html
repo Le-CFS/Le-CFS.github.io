@@ -1,0 +1,19 @@
+<div id="img/slider-carousel">
+  <div class="container">
+    <div class="sub-title text-center">
+      <span>Partenaires</span>
+    </div>
+    <div id="image-carousel-mobile" class="owl-carousel">
+      {% for partenaire in site.data.partenaires.liste %}
+        {% if partenaire.online == "" or partenaire.online == nil or partenaire.online == false %}
+        {% else %}
+        <div class="item"><a href="{{ partenaire.href }}" target="_blank"> <img src="{{ partenaire.logo }}" loading="lazy" class="img-fluid" alt="{{ partenaire.name }}"></a></div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+      
+<div class="d-flex justify-content-center mb-3">
+  <a href="/cfs/partenaires" class="btn btn-info-filled">Voir nos partenaires</a>
+</div>

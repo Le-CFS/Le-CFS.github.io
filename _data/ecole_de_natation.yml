@@ -1,0 +1,38 @@
+---
+provinces:
+- nom: Brabant Wallon
+  online: true
+  cours:
+  - online: true
+    titre: Bébés nageurs
+    src: "/assets/images/boutonsactivites/ecoledenatation/natbebesnageurs.png"
+    href: "/activites/ecole_de_natation/bebes_nageurs"
+    bouton: Plus d'info
+  - online: true
+    titre: Cours particuliers
+    src: "/assets/images/boutonsactivites/ecoledenatation/sitecoursparticuliers.png"
+    href: "/activites/ecole_de_natation/cours_particuliers"
+    bouton: Plus d'info
+  - online: true
+    titre: Cours de transition
+    src: "/assets/images/boutonsactivites/ecoledenatation/coursdetransition.png"
+    href: "/activites/ecole_de_natation/cours_transition"
+    bouton: Plus d'info
+  - online: true
+    titre: Mini Club
+    src: "/assets/images/boutonsactivites/ecoledenatation/natminiclub.png"
+    href: "/activites/ecole_de_natation/mini_club"
+    bouton: Plus d'info
+- nom: Bruxelles
+  online: true
+  cours:
+  - online: true
+    titre: Psycho Aqua
+    src: "/assets/images/boutonsactivites/ecoledenatation/sitepsychoaqua.png"
+    href: "/activites/ecole_de_natation/psycho_aqua"
+    bouton: Plus d'info
+  - online: true
+    titre: Cours collectifs
+    src: "/assets/images/boutonsactivites/ecoledenatation/courscollectifs.png"
+    href: "/activites/ecole_de_natation/cours_collectifs"
+    bouton: Plus d'info

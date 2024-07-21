@@ -1,0 +1,66 @@
+---
+layout: page
+title: Cours Adultes Liernu
+permalink: "/cours_adultes/liernu/"
+menu: true
+description: Le CFS propose des cours collectifs pour adultes dans une ambiance conviviale
+  au sein du centre sportif du CFS "Le Provincial" situé à Bierges (Wavre) et à la
+  *piscine de l'ARO situé à Ottignies.
+banner: ''
+image: ''
+slogan: Gardez la forme !
+horaires: "/assets/images/programme-liernu.jpg"
+
+---
+<div class="row">
+<div class="col-md-12 text-center" style="font-size: 24px; margin-bottom: 20px;"><strong>{{ page.slogan }}</strong></div>
+<div class="col-md-4" style="margin-bottom: 20px;">
+	<a href="/cours_adultes/bierges/" class="btn btn-info-filled btn-block">Bierges</a>
+</div>
+<div class="col-md-4" style="margin-bottom: 20px;">
+	<a href="/cours_adultes/ottignies/" class="btn btn-info-filled btn-block">Ottignies</a>
+</div>
+<div class="col-md-4" style="margin-bottom: 20px;">
+	<a href="/cours_adultes/liernu/" class="btn btn-info-filled btn-block">Liernu</a>
+</div>
+</div>
+<div class="d-flex justify-content-center">
+<div style="margin-bottom: 20px;">
+	<a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=3&Province=Namur" class="btn btn-info-filled" target="_blank">Inscription cours adultes</a>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+	  <div class="panel-group">
+	    <div class="panel">
+	      <div class="panel-heading" style="background: #4da5e2 !important;">
+	        <a class="panel-title collapsed" data-toggle="collapse" href="#panel1">Horaires des cours</a>
+	      </div>
+	      <div id="panel1" class="panel-collapse collapse">
+	        <div class="panel-body text-gray">
+	          <img src="{{ page.horaires }}" style="width: 100%;">
+	        </div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+</div>
+
+<div class="container">
+     <div class="team-members-tow mtb-50">
+		<div class="row">
+			{% for page in site.pages %}
+				{% assign temp_lieux = page.lieux | downcase %}
+				{% if page.type_page == "adultes" and temp_lieux contains "liernu" %}
+					{% if page.published == false %}
+					{% else %}
+					<div class="col-xs-6 col-md-3">
+							{% include coleen/bulle.html src=page.bulle titre=page.title href=page.permalink bouton="Plus d'info" %}
+					</div>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+		</div>
+	</div>
+</div>

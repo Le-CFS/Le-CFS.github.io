@@ -1,0 +1,17 @@
+<!-- Selection du CFS -->
+{% assign bulles = site.data.accueil.selection %}
+<div class="container">
+  <div class="team-members-tow mtb-50">
+    <div class="sub-title text-center">
+      <span>{{ bulles.nom }}</span>
+    </div>
+    <div class="row">
+      {% for item in bulles.images limit:4 %}
+      <div class="col-xs-6 col-md-3">
+        {% include coleen/bulle.html titre=item.titre titre_overlay=item.titre_overlay offline=false bouton=item.bouton autre_page=item.autre_page src=item.src href=item.href loading='lazy' %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- Fin de la sélection du CFS -->

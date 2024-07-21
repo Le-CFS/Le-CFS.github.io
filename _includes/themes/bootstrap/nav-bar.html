@@ -1,0 +1,260 @@
+<style>
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #F8F8F8;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 20px;
+  text-align:left;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 8px;
+  text-decoration: none;
+  font-size: 14px;
+  color: #444;
+  display: block;
+  transition: 0.3s;
+
+}
+
+.sidenav .closebtn {
+  float: right;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+  padding-top: 25px;
+}
+
+.nav-link-menu[data-toggle].collapsed:after {
+    float: right;
+    content: " ▼";
+}
+.nav-link-menu[data-toggle]:not(.collapsed):after {
+    float: right;
+    content: " ▲";
+}
+
+.nav-link-toggle:not(.collapsed) {
+    color: #4da5e2;
+    font-weight: bold;
+}
+
+.btn-top {
+  margin-top: 2px;
+  width: 48%;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+@media (min-width: 768px) {
+  .navbar-toggleable-sm .navbar-nav .nav-link {
+      padding-left: 0;
+  }
+}
+
+.menu-principal {
+  list-style: none;
+}
+
+</style>
+
+{% assign mycfs = site.data.accueil.mycfs %}
+{% assign inscription = site.data.accueil.inscription %}
+{% assign menu_principal = site.data.menu %}
+
+<!-- 
+    VERSION ORDINATEUR
+-->
+<!--  Boutons inscription et mycfs -->
+<div class="desktop top-menu top-menu-inverse">
+      <div class="row">
+        <div class="col-md-4 offset-md-2">
+          <a href="{{ mycfs.href }}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;" {% if mycfs.autre_page %}target="_blank"{% endif %}><i class="{{ mycfs.icone }}"></i> {{ mycfs.texte_ordi }}</a>
+        </div>
+        <div class="col-md-4">
+          <a href="{{ inscription.href }}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;" {% if inscription.autre_page %}target="_blank"{% endif %}><i class="{{ inscription.icone }}"></i> {{ inscription.texte_ordi }}</a>
+        </div>
+      </div>
+</div>
+
+<!-- Menu principal -->
+<div class="desktop">
+<nav class="navbar navbar-toggleable-sm navbar-light bg-default">
+  <div class="container" style="width: 1400px;">
+    <a class="navbar-brand" href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="navbar-collapse justify-content-center">
+      <ul class="navbar-nav">
+        {% for section in menu_principal %}
+        <li class="nav-item">
+            <a class="nav-link" href='{{ section[1]["url"] }}'>{{ section[1]["titre"] }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>
+</div>
+
+<!-- 
+    VERSION MOBILE
+-->
+
+<div class="mobile">
+<div class="top-menu-inverse fixed-top">
+  <div class="row">
+    <div class="col-xs-2">
+      <button class="navbar-toggler" onclick="openNav()" style="margin-left: 10px;"><i class="fa fa-bars"></i></button>
+    </div>
+    <div class="col-xs-7">
+      <a href="{{ mycfs.href }}" class="btn btn-info-filled btn-top" {% if mycfs.autre_page %}target="_blank"{% endif %} style="color: #fff !important;"><i class="fa fa-user"></i> {{ mycfs.texte_mobile }}</a>
+      <a href="{{ inscription.href }}" class="btn btn-info-filled btn-top" {% if inscription.autre_page %}target="_blank"{% endif %} style="color: #fff !important;"><i class="{{ inscription.icone }}"></i> {{ inscription.texte_mobile }}</a>
+    </div>
+    <div class="col-xs-3 text-center">
+      <a href="/"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt="" style="width: 60%; padding: 1px;"></a>
+    </div>
+    
+  </div>
+</div>
+</div>
+
+<div class="mobile top-menu-inverse fixed-bottom">
+  <div class="row">
+    <div class="col-xs-6 text-center" style="padding-top: 7px;">
+      <a href="tel:+3210227396"><i class="fa fa-phone"></i> +32 (0)10227396</a>
+    </div>
+    <div class="col-xs-4 text-center" style="padding-top: 7px;">
+      <a href="mailto:info@lecfs.be"><i class="fa fa-envelope" ></i> info@lecfs.be</a>
+    </div>
+    <div class="col-xs-2 text-center">
+      <a href="#top"><i class="fa fa-arrow-circle-up" style="font-size: 30px; padding-top: 1px;"></i></a>
+    </div>
+  </div>
+</div>
+
+<div id="mySidenav" class="sidenav" id="sidebar">
+  <a href="javascript:void(0)" class="closebtn"  onclick="closeNav()"><i class="fa fa-times"></i></a>
+  <ul class="flex-column flex-nowrap overflow-hidden" style="padding-top: 35px; padding-bottom: 55px;">
+    <!-- Compteur pour pouvoir gérer les id du menu1 -->
+    {% assign menu1_index = 1 %}
+    <!-- menu1 = menu principal -->
+    {% for menu1 in menu_principal %}
+    <!-- Si le menu principal a un sous menu -->
+    {% if menu1[1]["sousmenu"] %}
+    <li class="nav-item menu-principal">
+        <a class="nav-link nav-link-toggle collapsed nav-link-menu" href="#submenu{{menu1_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}"> {{ menu1[1]["titre"] }}</a>
+        <div class="collapse" id="submenu{{menu1_index}}" aria-expanded="false">
+            <ul class="flex-column pl-2 nav">
+              <!-- 
+                  Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal
+                  Mais parfois elle n'est pas indispensable en version mobile
+              -->
+              {% unless menu1[1]["online_mobile"] == false %}
+              <li class="nav-item"><b><a class="nav-link" href='{{ menu1[1]["url"] }}' style="padding-left: 16px;"> {{ menu1[1]["title_mobile"] }}</a></b></li>
+              {% endunless %}
+              <!-- Compteur pour pouvoir gérer les id du menu2 -->
+              {% assign menu2_index = 1 %}
+              {% for menu2 in menu1[1]["sousmenu"] %}
+              {% if menu2.menu_list == "adultes" %}
+                {% for page_list in site.pages %}
+                  {% if page_list.type_page == "adultes" %}
+                      {% if page_list.published == false %}
+                      {% else %}
+                      <li class="nav-item"><a class="nav-link" href="{{ page_list.url }}" style="padding-left: 16px;">{{ page_list.title }}</a></li>
+                      {% endif %}
+                  {% endif %}
+                {% endfor %}
+              {% elsif menu2.menu_list == "ecoles" %}
+                {% for page_list in site.pages %}
+                  {% if page_list.type_page == "ecoles" %}
+                      {% if page_list.published == false %}
+                      {% else %}
+                      <li class="nav-item"><a class="nav-link" href="{{ page_list.url }}" style="padding-left: 16px;">{{ page_list.title }}</a></li>
+                      {% endif %}
+                  {% endif %}
+                {% endfor %}
+              {% else %}
+                <!-- Si le menu 2 a un sous menu -->
+                  {% if menu2.sousmenu %}
+                  <li class="nav-item">
+                      <a class="nav-link nav-link-toggle collapsed nav-link-menu" href="#submenu{{menu1_index}}sub{{menu2_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}" style="padding-left: 16px;"> {% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a>
+                      <div class="collapse" id="submenu{{menu1_index}}sub{{menu2_index}}" aria-expanded="false">
+                          <ul class="flex-column nav pl-4">
+                            <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
+                            {% unless menu2.online_mobile == false %}
+                              <li class="nav-item"><b><a class="nav-link" href="{{ menu2.url }}" style="padding-left: 16px;">{% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a></b></li>
+                            {% endunless %}
+
+                            {% assign menu3_index = 1 %}
+                            {% for menu3 in menu2.sousmenu %}
+                              <!-- Si le menu 3 a un sous menu -->
+                              {% if menu3.sousmenu %}
+                                <li class="nav-item">
+                                  <a class="nav-link nav-link-toggle collapsed nav-link-menu" href="#submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" data-toggle="collapse" data-target="#submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" style="padding-left: 16px;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
+                                  <div class="collapse" id="submenu{{menu1_index}}sub{{menu2_index}}sub{{menu3_index}}" aria-expanded="false">
+                                    <ul class="flex-column nav pl-4">
+                                      <!-- Comme les menus n'ont pas de menu déroulant, on doit afficher la page du menu principal-->
+                                      {% unless menu3.online_mobile == false %}
+                                        <li class="nav-item"><b><a class="nav-link" href="{{ menu3.url }}" style="padding-left: 16px;">{% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a></b></li>
+                                      {% endunless %}
+                                      {% for menu4 in menu3.sousmenu %}
+                                        <li class="nav-item">
+                                          <a class="nav-link" href="{{ menu4.url }}" style="padding-left: 16px !important;"> {% if menu4.title_mobile %}{{ menu4.title_mobile }}{% else %}{{ menu4.title }}{% endif %}</a>
+                                        </li>
+                                      {% endfor %}
+                                    </ul>
+                                  </div>
+                                </li>
+                              {% else %}
+                                {% unless menu3.online_mobile == false %}
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ menu3.url }}" style="padding-left: 16px !important;"> {% if menu3.title_mobile %}{{ menu3.title_mobile }}{% else %}{{ menu3.title }}{% endif %}</a>
+                                </li>
+                                {% endunless %}
+                              {% endif %}
+                              {% assign menu3_index = menu3_index | plus: 1 %}
+                            {% endfor %}
+                          </ul>
+                      </div>
+                  </li>
+                  {% else %}
+                    {% unless menu2.online_mobile == false %}
+                      <li class="nav-item"><a class="nav-link" href="{{ menu2.url }}" style="padding-left: 16px;">{% if menu2.title_mobile %}{{ menu2.title_mobile }}{% else %}{{ menu2.title }}{% endif %}</a></li>
+                    {% endunless %}
+                  {% endif %}
+                {% endif %}
+                {% assign menu2_index = menu2_index | plus: 1 %}
+              {% endfor %}
+            </ul>
+        </div>
+    </li>
+    {% else %}
+      {% unless menu1[1]["online_mobile"] == false %} <!-- Si le menu principal doit être affiché en version mobile -->
+        <li class="nav-item menu-principal"><a class="nav-link" href='{{ menu1[1]["url"] }}'> {{ menu1[1]["titre"] }}</a></li>
+      {% endunless %}
+    {% endif %}
+    {% assign menu1_index = menu1_index | plus: 1 %}
+    {% endfor %}
+  </ul>
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "80%";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>

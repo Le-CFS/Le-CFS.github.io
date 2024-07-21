@@ -1,0 +1,250 @@
+---
+cfs:
+  titre: Le CFS
+  url: "/cfs/"
+  title_mobile: Qu'est ce que le CFS ?
+  sousmenu:
+  - title: News
+    url: "/cfs/news/"
+#   - title: Carte Membre
+#     url: "/cfs/carte-membre/"
+  - title: Réductions
+    url: "/cfs/reductions/"
+  - title: Questions fréquentes
+    url: "/cfs/questions_frequentes/"
+  - title: Les centres CFS
+    url: "/cfs/les_centres_cfs/"
+    title_mobile: Liste des centres
+    online_mobile: false
+    sousmenu:
+    - title: Amay
+      url: "/cfs/les_centres_cfs/amay"
+    - title: Asse
+      url: "/cfs/les_centres_cfs/asse"
+    - title: Auderghem
+      url: "/cfs/les_centres_cfs/auderghem"
+    - title: Awans
+      url: "/cfs/les_centres_cfs/awans"
+    - title: Beauvechain
+      url: "/cfs/les_centres_cfs/beauvechain"
+    - title: Bierges
+      url: "/cfs/les_centres_cfs/bierges"
+    - title: Bierges Horse's Corner
+      title_mobile: Horse's Corner
+      url: "/cfs/les_centres_cfs/bierges_horses_corner"
+    - title: Court-Saint-Étienne
+      title_mobile: Court-St-Étienne
+      url: "/cfs/les_centres_cfs/cse"
+    - title: Dion Valmont
+      url: "/cfs/les_centres_cfs/dion_valmont"
+    - title: Huy
+      url: "/cfs/les_centres_cfs/huy"
+    - title: Jette
+      url: "/cfs/les_centres_cfs/jette"
+    - title: Laeken
+      url: "/cfs/les_centres_cfs/laeken"
+    - title: Ottignies
+      url: "/cfs/les_centres_cfs/ottignies"
+    - title: Rixensart
+      url: "/cfs/les_centres_cfs/rixensart"
+    - title: Schaerbeek
+      url: "/cfs/les_centres_cfs/schaerbeek"
+    - title: Uccle
+      url: "/cfs/les_centres_cfs/uccle"
+    - title: Verlaine
+      url: "/cfs/les_centres_cfs/verlaine"
+    - title: Villers-le-Bouillet
+      url: "/cfs/les_centres_cfs/vlb"
+    - title: Walhain
+      url: "/cfs/les_centres_cfs/walhain"
+    - title: Wavre
+      url: "/cfs/les_centres_cfs/wavre"
+    - title: Wemmel
+      url: "/cfs/les_centres_cfs/wemmel"
+    - title: Woluwé-Saint-Lambert
+      title_mobile: Woluwé-St-Lambert
+      url: "/cfs/les_centres_cfs/wsl"
+    - title: Woluwé-Saint-Pierre
+      title_mobile: Woluwé-St-Pierre
+      url: "/cfs/les_centres_cfs/wsp"
+  - title: Partenaires
+    url: "/cfs/partenaires/"
+  - title: Presse
+    url: "/cfs/presse/"
+stages_enfants:
+  titre: Stages enfants
+  url: "/stages/"
+  title_mobile: Réservation
+  online_mobile: true
+  sousmenu:
+  - title: Un stage pour tous
+    url: "/stages/activites/"
+    title_mobile: Catalogue des stages
+  # - title: Silos à Bruxelles
+  #   url: "/stages/protocole/bruxelles/"
+  #   online_mobile: false
+  #   sousmenu:
+  #   - title: Jette
+  #     url: "/stages/protocole/bruxelles/jette/"
+  #   - title: Laeken
+  #     url: "/stages/protocole/bruxelles/laeken/"
+  #   - title: Wemmel
+  #     url: "/stages/protocole/bruxelles/wemmel/"
+  #   - title: Uccle
+  #     url: "/stages/protocole/bruxelles/uccle/"
+  #   - title: Woluwé
+  #     url: "/stages/protocole/bruxelles/woluwe/"
+  #   - title: Auderghem
+  #     url: "/stages/protocole/bruxelles/auderghem/"
+  #   - title: Berchem-Sainte-Agathe
+  #     url: "/stages/protocole/bruxelles/berchem/"
+  # - title: Silos dans le Brabant
+  #   url: "/stages/protocole/brabant/"
+  #   online_mobile: false
+  #   sousmenu:
+  #   - title: Wavre
+  #     url: "/stages/protocole/brabant/wavre/"
+  #   - title: Ottignies
+  #     url: "/stages/protocole/brabant/ottignies/"
+  #   - title: Rixensart
+  #     url: "/stages/protocole/brabant/rixensart/"
+  #   - title: Bierges
+  #     url: "/stages/protocole/brabant/bierges/"
+  #   - title: Walhain
+  #     url: "/stages/protocole/brabant/walhain/"
+  #   - title: Waterloo
+  #     url: "/stages/protocole/brabant/waterloo/"
+  #   - title: La Hulpe
+  #     url: "/stages/protocole/brabant/lahulpe/"
+  #   - title: Orp
+  #     url: "/stages/protocole/brabant/orpjauche/"
+  #   - title: Perwez
+  #     url: "/stages/protocole/brabant/perwez/"
+  - title: Lieux de stage
+    url: "/stages/lieux_de_stage/"
+  - title: Garderie
+    url: "/stages/garderie/"
+  - title: Réductions
+    url: "/cfs/reductions/"
+  - title: Conditions générales
+    url: "/stages/conditions_generales/"
+activites:
+  titre: Activités enfants
+  url: "/activites/"
+  title_mobile: Informations générales
+  online_mobile: true
+  sousmenu:
+  - title: Extrascolaire pour tous
+    url: "/activites/extrascolaire/"
+    title_mobile: Catalogue extrascolaire
+  - title: École de natation
+    url: "/activites/ecole_de_natation/"
+    title_mobile: École de Natation
+    online_mobile: false
+    sousmenu:
+    - title: Bébés nageurs
+      url: "/activites/ecole_de_natation/bebes_nageurs/"
+    - title: Cours particuliers
+      url: "/activites/ecole_de_natation/cours_particuliers/"
+    - title: Cours de transition
+      url: "/activites/ecole_de_natation/cours_transition/"
+    - title: Mini-club
+      url: "/activites/ecole_de_natation/mini_club/"
+    - title: Psycho-aqua
+      url: "/activites/ecole_de_natation/psycho_aqua/"
+    - title: Cours collectifs
+      url: "/activites/ecole_de_natation/cours_collectifs/"
+    - title: Conditions générales
+      url: "/activites/ecole_de_natation/conditions-generales/"
+  - title: CFS Academy
+    url: "/activites/cfs_academy/"
+    title_mobile: CFS Academy
+    online_mobile: false
+    sousmenu:
+    - title: Mini-foot Academy
+      url: "/activites/cfs_academy/mini_foot_academy/"
+    - title: École de natation
+      url: "/activites/ecole_de_natation/"
+    - title: Tennis Academy
+      url: "/activites/cfs_academy/tennis_academy/"
+    - title: Judo Academy
+      url: "/activites/cfs_academy/judo_academy/"
+    - title: Robotique Academy
+      url: "/activites/cfs_academy/robotique_academy/"
+    - title: Danse Academy
+      url: "/activites/cfs_academy/danse_academy/"
+    - title: Gym Academy
+      url: "/activites/cfs_academy/gym_academy"
+    - title: Parkour Pro
+      url: "/activites/cfs_academy/parkour_pro/"
+    - title: Football Academy
+      url: "/activites/cfs_academy/football_academy/"
+  - title: Conditions générales
+    url: "/activites/conditions-generales/"
+cours_adultes:
+  titre: Cours adultes
+  url: "/cours_adultes/"
+  title_mobile: Liste des cours
+  online_mobile: true
+  sousmenu:
+  - menu_list: adultes
+    title: adultes
+    url: adultes
+  - title: En savoir plus
+    url: "/cours_adultes/en_savoir_plus/"
+  - title: Conditions générales
+    url: "/cours_adultes/conditions-generales/"
+anniversaires:
+  titre: Anniversaires
+  url: "/anniversaires/"
+  title_mobile: Liste des activités
+  online_mobile: true
+  sousmenu:
+  - title: Réservation
+    url: "/anniversaires/reservation/"
+  - title: EVG
+    url: "/anniversaires/evg/"
+  - title: Brochures
+    url: "/brochures/anniversaires/"
+  - title: En savoir plus
+    url: "/anniversaires/en_savoir_plus/"
+pour_les_ecoles:
+  titre: Pour les écoles
+  url: "/pour-les-ecoles/"
+  online_mobile: true
+  sousmenu:
+  - menu_list: ecoles
+    title: ecoles
+    url: ecoles
+brochures:
+  titre: Brochures
+  url: "/brochures/"
+  title_mobile: Brochures
+  online_mobile: false
+  sousmenu:
+  - title: Anniversaires
+    url: "/brochures/anniversaires/"
+  - title: Journées sportives
+    url: "/brochures/journees_sportives/"
+jobs:
+  titre: JOBS
+  url: "/jobs/"
+  title_mobile: JOBS
+  online_mobile: true
+journees_sportives:
+  titre: Journées sportives
+  url: "/journees-sportives/"
+  title_mobile: Journées sportives
+  online_mobile: true
+  sousmenu:
+  - title: Mounier
+    url: "/journees-sportives/mounier/"
+  - title: Blocry
+    url: "/journees-sportives/blocry/"
+  - title: Dans ton école
+    url: "/journees-sportives/dans-ton-ecole/"
+contact:
+  titre: Contact
+  url: "/contact/"
+  title_mobile: contact
+  online_mobile: true

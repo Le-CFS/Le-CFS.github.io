@@ -1,0 +1,79 @@
+<!-- Pour afficher les images uniquement lors du défilement de la page -->
+{% if forloop.index > 6 %}
+{% assign loading = 'lazy' %}
+{% else %}
+{% assign loading = 'eager' %}
+{% endif %}
+
+<!-- {% capture categories %}
+{% for cat in activite.categorie %}{{ cat }} {% endfor %}
+{% endcapture %} -->
+
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mix">
+  <a data-toggle="modal" data-target="#{{activite.name | replace: ' ', '_' | replace: '&', 'et' }}_{{ forloop.index }}">
+    <div class="card-2">
+      <div class="image">
+        <img src="{{ BASE_PATH }}{{ activite.img }}" class="img-fluid" loading="{{ loading }}">
+      </div>
+      <div class="card-block">
+        <h3 class="card-title" style="height: 40px;">{{ activite.name }}</h3>
+        <div class="meta">
+          {% if activite.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+          {{activite.age_debut}} à {{activite.age_fin}}
+        </div>
+        <div class="description">
+          <center><span class="label label-pill label-info-filled">Plus d'info</span></center>
+        </div>
+      </div>
+      <!--
+      {% for ecole in activite.ecoles %}
+      <div class="extra">
+        <span>
+          <i class="fa fa-map-marker"> {{ ecole.name }}</i>
+        </span>
+      </div>
+      {% endfor %}
+      -->
+    </div>
+  </a>
+</div>
+
+<div class="modal fade" id="{{activite.name | replace: ' ', '_' | replace: '&', 'et' }}_{{ forloop.index }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="card-2">
+      <div class="image">
+        <img src="{{ BASE_PATH }}{{ activite.img }}" class="img-fluid">
+      </div>
+      <div class="card-block">
+        <h3 class="card-title">{{ activite.name }}</h3>
+        <div class="meta">
+          {% if activite.nouveau %}<span class="badge badge-success" style="float: right;">NOUVEAU</span>{% endif %}
+          {{activite.age_debut}} à {{activite.age_fin}}<br/>
+          {{ activite.infos }}
+        </div>
+        <div class="description">
+          {{ activite.description }}
+        </div>
+      </div>
+      {% for ecole in activite.ecoles %}
+      <div class="extra">
+        <span>
+          <i class="fa fa-map-marker"> {{ ecole.name }}</i>
+        </span>
+      </div>
+      {% endfor %}
+    </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border-radius: 5px;">Autre activité</button>
+        <a class="btn btn-info-filled" href="
+          {% if page.url contains 'parascolaire' %}
+            https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2
+          {% else %}
+            /activites/reservation/
+          {% endif %}
+          " target="_blank">Réservation</a>
+      </div>
+    </div>
+  </div>
+</div>

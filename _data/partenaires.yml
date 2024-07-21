@@ -1,0 +1,611 @@
+---
+liste:
+- name: R.W. Limal  
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/logo-rw-limal.jpg"
+  href: "https://www.facebook.com/RoyalWavreLimal/?locale=fr_FR"
+  bouton: ''
+  couleur_bouton: ''
+- name: ILPlatform
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/partenaire-ilplatform.png"
+  href: "https://www.ilplatform.be/"
+  bouton: ''
+  couleur_bouton: ''
+- name: My Success
+  categorie: Partenaires pédagogiques
+  online: false
+  logo: "/assets/images/logo-my-success.png"
+  href: "https://www.mysuccess.be/"
+  bouton: ''
+  couleur_bouton: ''
+- name: Vietamine
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/logo-vitamine.jpg"
+  href: "https://www.vietamine.be/home3.asp?ClubID=543&LG=FR"
+  bouton: ''
+  couleur_bouton: ''
+- name: Les écuries au gré du Ruisseau
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/logo-partenaire-ecuries-du-gre-du-ruisseau.png"
+  href: "https://les-ecuries-au-gre-du-ruisseau.be/"
+  bouton: ''
+  couleur_bouton: ''
+- name: CTT Limal-Wavre
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/ctt-limal-wavre.jpg"
+  href: "https://www.cttliwa.be/default"
+  bouton: ''
+  couleur_bouton: ''
+- name: Arc en Ciel CTTT
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/arc-en-ciel-ctt.jpg"
+  href: "https://arcencielctt.kalisport.com/"
+  bouton: ''
+  couleur_bouton: ''
+- name: Collège Saint-Etienne
+  categorie: Partenaires écoles
+  online: true
+  logo: "/assets/images/cse-college-saint-etienne.png"
+  href: "https://cste.be/"
+  bouton: ''
+  couleur_bouton: ''
+- name: Ecole La Petite Source
+  categorie: Partenaires écoles
+  online: true
+  logo: "/assets/images/logo-grez-doiceau-la-petite-source.png"
+  href: "http://lapetitesource.be/"
+  bouton: ''
+  couleur_bouton: ''
+- name: Mbo Mpenza
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/mcc-logo.jpg"
+  href: "https://mbompenza.be/mbo-mpenza-challenge/a-propos"
+  bouton: ''
+  couleur_bouton: ''
+- name: Mokko Padel Club
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/mokko.png"
+  href: https://www.mokkopadelproject.be/
+  bouton: ''
+  couleur_bouton: ''
+- name: Lara Hockey Club
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/lara-hockey-club.png"
+  href: https://larahc.be/
+  bouton: ''
+  couleur_bouton: ''
+- name: YourTenniSchool
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/457-logosite-1.png"
+  href: https://yourtennischool.be/home3.asp?ClubID=457&LG=FR
+  bouton: ''
+  couleur_bouton: ''
+- name: Royal Tennis Club La Raquette
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/rtclr_new_logo.jpg"
+  href: https://laraquette.eu/
+  bouton: ''
+  couleur_bouton: ''
+- name: Tennis Padel Club l'Abbaye
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/tennisclublabbaye.jpg"
+  href: https://tcabbaye.wordpress.com/
+  bouton: ''
+  couleur_bouton: ''
+- name: CTT Tourinnes asbl
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/ctttourinnes_asbl.png"
+  href: https://ctttourinnes.be/
+  bouton: ''
+  couleur_bouton: ''
+- name: R.F.C. ORP Noduwez
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/logo_partenaire_orp.jpg"
+  href: https://rfcorpnoduwez.be/
+  bouton: ''
+  couleur_bouton: ''
+- name: Padel Events Academy
+  categorie: Partenaires de stages
+  online: false
+  logo: "/assets/images/padel-events.png"
+  href: https://padeleventsacademy.be/
+  bouton: ''
+  couleur_bouton: ''
+- name: Speed 4 Fun
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/speed4fun-1.jpg"
+  href: https://www.speed4fun.be/
+  bouton: ''
+  couleur_bouton: ''
+- name: Jag Events
+  categorie: Partenaires de stages
+  online: false
+  logo: "/assets/images/jagevents.png"
+  href: ''
+  bouton: ''
+  couleur_bouton: ''
+- name: Lamogoya
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/lamogoya.jpg"
+  href: http://www.lamogoya.com/
+  bouton: Site web
+  couleur_bouton: ''
+- name: BDK Stages
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/partenaires_stages_bdk.png"
+  href: https://www.bdkstages.be/
+  bouton: Site web
+  couleur_bouton: ''
+- name: 'Manège « L’écurie Barré » '
+  categorie: Partenaires pédagogiques
+  online: true
+  logo: "/assets/images/ecurie-barre.jpg"
+  href: ''
+  bouton: ''
+  couleur_bouton: ''
+- name: Interlingua
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/interlingua.jpg"
+  href: https://www.interlingua-asbl.be/
+  bouton: Site web
+  couleur_bouton: ''
+- name: LSA Perwez Beach Soccer
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/lsa.jpg"
+  href: https://www.facebook.com/LSA-Perwez-Beach-Soccer-357436874880026/
+  bouton: Site web
+  couleur_bouton: ''
+- name: Newteam Beach Soccer Brussels
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/new-team-beach-soccer.png"
+  href: https://www.facebook.com/newteambeachsoccer/
+  bouton: ''
+  couleur_bouton: ''
+- name: Royal La Hulpe Sporting Club
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/rlhsc-football-lahulpe.png"
+  href: https://www.rlhsc.be/
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Royal Laeken Tennis Club
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/royalaekentennisclub.png"
+  href: http://www.rltc.be/
+  bouton: Site Web
+  couleur_bouton: ''
+- name: FC Walhain
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/logo_partenaire_fcwalhain.jpg"
+  href: https://www.fc-walhain.be/
+  bouton: Site web
+  couleur_bouton: ''
+- name: Ecole Aurore Jette
+  categorie: Partenaires écoles
+  online: true
+  logo: "/assets/images/ecoleaurorejette.png"
+  href: https://www.ecole-aurore.be/
+  bouton: Site Web
+  couleur_bouton: ''
+- name: 'Ritter Klub '
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/ritterklub.png"
+  href: https://ritterklub.be/
+  bouton: Site web
+  couleur_bouton: ''
+- name: Dance 4U
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/4udance.jpg"
+  href: ''
+  bouton: ''
+  couleur_bouton: ''
+- name: Roc Events asbl
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/roceventsasbl.png"
+  href: https://new.rocevents.be/
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Koala Crazy Games
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/koalacrazygames.png"
+  href: https://www.koalacrazygames.be/
+  bouton: Site Web
+  couleur_bouton: ''
+- name: ACE Tennis Academy asbl
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/acetennis.png"
+  href: http://www.acetennis.be/home3.asp?ClubID=120&LG=FR
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Royal Laeken Tennis Club
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/royalaekentennisclub.png"
+  href: http://www.rltc.be/
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Padel Events asbl
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/padeleventsasbl.png"
+  href: https://padeleventsacademy.be/
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Horses Club Manège la Motte
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/horsesclub_manegelamotte.png"
+  href: https://www.facebook.com/Man%C3%A8ge-la-Motte-1497169900295644
+  bouton: Site Web
+  couleur_bouton: ''
+- name: RW WALHAIN
+  categorie: partenaires pédagogiques
+  online: true
+  logo: "/assets/images/rwalhain.png"
+  href: http://www.rw-walhain.be/
+  bouton: Site Web
+  couleur_bouton: ''
+- name: 4U Danse
+  categorie: partenaires pédagogiques
+  logo: ''
+  href: ''
+  online: false
+  bouton: ''
+  couleur_bouton: ''
+- name: Euro Space Center
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/partenaires/eurospacecenter.png"
+  href: https://www.eurospacecenter.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Asbl ADSL
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/partenaires/ADSL.jpg"
+  href: https://www.adslstages.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Pairi Daiza
+  categorie: Partenaires de stages
+  logo: "/assets/images/partenaires/pairidaiza.png"
+  href: https://www.pairidaiza.eu/
+  online: false
+  bouton: Site Web
+  couleur_bouton: ''
+- name: AJP Events
+  categorie: Partenaires de stages
+  logo: "/assets/images/partenaires/ajpevents.png"
+  href: http://www.ajpevents.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Daddy Kate
+  categorie: Partenaires d'entreprises
+  logo: "/assets/images/partenaires/daddykate.png"
+  href: https://www.daddykate.be/fr/
+  online: false
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Brussel Monkeys Climbing
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/brusselmonkeysclimbing.png"
+  href: https://www.brusselsmonkeysclimbing.com/
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Gym Club La Courtoise
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/lacourtoise.png"
+  href: http://www.gymclub-lacourtoise.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Koezio
+  categorie: Partenaires de stages
+  logo: "/assets/images/partenaires/koezio.png"
+  href: https://koezio.co/befr
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Nostalgie
+  categorie: Partenaires d'entreprises
+  logo: "/assets/images/partenaires/nostalgie.png"
+  href: https://www.nostalgie.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: BNP Paribas Fortis
+  categorie: Partenaires d'entreprises
+  logo: "/assets/images/partenaires/bnp.png"
+  href: https://www.bnpparibasfortis.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Athénée Royal de Rixensart
+  categorie: Partenaires écoles
+  logo: "/assets/images/partenaires/atheneerix.png"
+  href: http://arrix.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Ecole Sart-Messire-Guillaume
+  categorie: Partenaires écoles
+  logo: "/assets/images/partenaires/ecolecommunale_sartmessireguillaume.png"
+  href: https://www.ec-sart.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Ecole Communale de Rosières
+  categorie: Partenaires écoles
+  logo: "/assets/images/partenaires/ecolecommunalerosieres.png"
+  href: http://www.ecolederosieres.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Ecole Communale Fondamentale de Walhain
+  categorie: Partenaires écoles
+  logo: "/assets/images/ecolecommunalefondamentaledewalhain.png"
+  href: https://www.walhain.be/ma-commune/education/enseignement-communal
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Ecole Communale Francophone de Wemmel
+  categorie: Partenaires écoles
+  logo: "/assets/images/partenaires/ecolefrancophonewemmel.png"
+  href: https://ecfwemmel.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Ecole Notre-Dame de Mousty
+  categorie: Partenaires écoles
+  logo: "/assets/images/partenaires/ecolenotredame_cerouxmousty.png"
+  href: http://ecolenotredamecerouxmousty.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: EPST Plongée
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/partenaires/epst_plongee.png"
+  href: http://www.epst.be/www/index.php?option=com_content&task=view&id=3&Itemid=1
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Futsal Jette
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/futsal-jette.jpg"
+  href: https://www.futsaljette.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Horse's Corner à Bierges
+  categorie: Partenaires pédagogiques
+  logo: "/assets/images/partenaires/horsescorner.png"
+  href: http://horsescorner.be/index.html
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Ecole Le Bon-Départ
+  categorie: Partenaires écoles
+  logo: "/assets/images/partenaires/lebondepart_nil.png"
+  href: http://www.ecoledenil.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: The New Lambermont Tennis School
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/lta.jpg"
+  href: https://tennisclub.rtclambermont.be/ecole-de-tennis/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Mini-Excel Wavre
+  categorie: Partenaires pédagogiques
+  logo: "/assets/images/partenaires/miniexcel.png"
+  href: https://www.wavre.be/football-en-salle/mini-excel-wavre-limal
+  online: false
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Max Extrême
+  categorie: Partenaires pédagogiques
+  logo: "/assets/images/partenaires/mxt.png"
+  href: http://www.max-extreme.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: ONE
+  categorie: Partenaires écoles
+  logo: "/assets/images/partenaires/one.png"
+  href: http://www.centres-de-vacances.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Orange
+  categorie: Partenaires d'entreprises
+  logo: "/assets/images/partenaires/orange.png"
+  href: https://www.orange.be/fr
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Athénée Royal Paul Delvaux
+  categorie: Partenaires écoles
+  logo: "/assets/images/partenaires/pauldelvaux.png"
+  href: http://www.arolln.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Royal RB Bowl
+  categorie: Partenaires de stages
+  logo: "/assets/images/partenaires/rbbowl.png"
+  href: https://www.royalbowl.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Tempo Gym
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/partenaires/tempogym.png"
+  href: http://www.tempogymjette.be/
+  online: false
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Walibi
+  categorie: Partenaires de stages
+  logo: "/assets/images/partenaires/walibi.png"
+  href: https://www.walibi.be/fr
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: WIK
+  categorie: Partenaires de stages
+  logo: "/assets/images/partenaires/wik.png"
+  href: https://www.wik-karting.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Jump XL
+  categorie: Partenaires de stages
+  logo: "/assets/images/partenaires/jumpxl.png"
+  href: https://jump-xl.com/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Aventure Parc
+  categorie: Partenaires de stages
+  logo: "/assets/images/partenaires/aventureparc.png"
+  href: https://www.aventureparc.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Judo Club Genval
+  categorie: Partenaires pédagogiques
+  logo: "/assets/images/partenaires/judoclub.png"
+  href: http://homeusers.brutele.be/judoclub.genval/lescours.htm
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Bellicon
+  categorie: ''
+  logo: "/assets/images/partenaires/bellicon.png"
+  href: https://www.bellicon.com/int_fr
+  online: false
+  bouton: Site Web
+  couleur_bouton: ''
+- name: SET-JET Fleur Bleue
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/partenaires/tennisdetable.png"
+  href: https://www.rsjfb.net/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: My Lab
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/partenaires/photoargentique.png"
+  href: https://www.myriamandries.be/
+  online: false
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Krav Maga Bruxelles
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/partenaires/kravmaga.png"
+  href: https://www.kravmagabruxelles.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Adsl
+  categorie: Partenaires de stages
+  logo: "/assets/images/partenaires/adsl.png"
+  href: https://www.adslstages.be/
+  online: false
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Ranch de gégé
+  categorie: ''
+  logo: "/assets/images/partenaires/ranchgege.jpg"
+  href: https://ranchdegege.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Trixxo
+  categorie: "Partenaires d'entreprises"
+  logo: "/assets/images/partenaire-trixxo.png"
+  href: https://www.trixxo.be/fr/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Ride Your Future
+  categorie: 'partenaire pédagogiques'
+  logo: "/assets/images/partenaire-ride-your-future.jpg"
+  href: https://rideyourfuture.org/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: CTT Alpa Schaerbeek
+  categorie: 'partenaire pédagogiques'
+  logo: "/assets/images/partenaire-ctt-alpa.jpg"
+  href: https://cttroyalalpa.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Bic c
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-bigc.jpg"
+  href: https://www.big-c.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Jag Event
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-jag-event.jpg"
+  href: https://jagevents.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Space Fun Game
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-fun-games.png"
+  href: https://www.spacefungame.com/space-fun-games-brussels-2/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Stone Age
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-stone-age.png"
+  href: https://stone-age.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Go Ventura
+  categorie: 'partenaires de stages'
+  logo: "/assets/images/partenaire-go-ventura-rvb-shadow-alpha.png"
+  href: https://go-ventura.be/accueil-wavre/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''

@@ -1,0 +1,216 @@
+---
+mycfs:
+  href: https://www12.iclub.be/myiclub.asp?ClubID=559&LG=FR
+  icone: fa fa-sign-in
+  autre_page: oui
+  texte_ordi: Se connecter - My CFS
+  texte_mobile: My CFS
+inscription:
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4
+  icone: fa fa-edit
+  autre_page: oui
+  texte_ordi: Inscription rapide
+  texte_mobile: Inscription
+slider:
+- titre: Stages , Été
+  src: "/assets/images/slider-20240513.png"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4
+- titre: Activités extrascolaires 2024-2025
+  src: "/assets/images/20240606-slider.png"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
+- titre: Natation
+  src: "/assets/images/slidernatation.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
+- titre: Cours adultes 2023
+  src: "/assets/images/slider-cours-adultes-2023-2024.jpg"
+  href: ''
+selection:
+  nom: Sélection du CFS
+  images:
+  - titre: Extrascolaire
+    titre_img: Extrascolaire
+    titre_overlay: Extrascolaire
+    src: "/assets/images/activites-extrascolaires-liege-nouveau-250x250.jpg"
+    href: https://www.lecfs.be/activites/extrascolaire/
+    autre_page: oui
+    bouton: Inscription
+    couleur_bouton: ''
+  - titre: Stages enfants
+    titre_img: Stages enfants
+    titre_overlay: Stages enfants
+    src: "/assets/images/stages-enfants-une-ete-500x500.jpg"
+    href: "/stages/"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Anniversaires
+    titre_img: Anniversaires
+    titre_overlay: Anniversaires
+    src: "/assets/images/anniversaires.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Cours adultes
+    titre_img: Cours adultes
+    titre_overlay: Cours adultes
+    src: "/assets/images/cours-adultes-300x300.jpg"
+    href: https://www.lecfs.be/cours_adultes/
+    autre_page: oui
+    bouton: Inscriptions
+    couleur_bouton: ''
+  - titre: Ecole de Natation
+    titre_img: Ecole de Natation
+    titre_overlay: Ecole de Natation
+    src: "/assets/images/boutonsactivites/ecoledenatation.png"
+    href: https://www.lecfs.be/activites/ecole_de_natation/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Interactif Lü
+    titre_img: Interactif Lü
+    titre_overlay: Interactif Lü
+    src: "/assets/images/cfs_interactif_lu.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: oui
+    bouton: Inscription
+    couleur_bouton: ''
+  - titre: Protocole de sécurité
+    titre_img: Protocole de sécurité
+    titre_overlay: Protocole de sécurité
+    src: "/assets/images/protocolestages.jpg"
+    href: "/stages/protocole/"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Parascolaires
+    titre_img: Parascolaires
+    titre_overlay: Parascolaires
+    src: "/assets/images/anniversaires.jpg"
+    href: "/activites/"
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Anniversaires
+    titre_img: Anniversaires
+    titre_overlay: Anniversaires
+    src: "/assets/images/anniversaires.jpg"
+    href: https://www.lecfs.be/anniversaires/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+slogan: Le CFS, créateur de souvenirs depuis 1981.
+une:
+  nom: Stages à la Une
+  images:
+  - name: Baby Multisports
+    titre_overlay: Baby Multisports
+    img: "/assets/images/boutonsiteweb2.jpg"
+    bouton: Plus d'info
+    nouveau: non
+    infos: ''
+    description: |-
+      Votre enfant a besoin de se défouler ? Il adore le sport et aime découvrir de nouvelles activités ? 
+
+      Voici un stage qui le ravira !
+
+      Par un premier contact avec le sport et les jeux collectifs, votre petit bout développera les différentes facettes de la motricité, le respect des règles et la vie en groupe.
+
+      Votre enfant découvrira un large panel d'activités fun et ludiques. 
+    lieu: Brabant et Bruxelles
+    age: 4-6 ans
+  - name: Futsal
+    titre_overlay: Futsal
+    img: "/assets/images/boutonsiteweb3.jpg"
+    bouton: Plus d'info
+    nouveau: non
+    infos: ''
+    description: |-
+      Votre enfant est un vrai mordu du ballon ? Notre stage de futsal est l'idéal pour lui ! 
+      Ce stage prévoit une alternance entre entraînements et petits matchs.
+      Les enfants s'exercent aux techniques de ballon et de jeu : apprentissage du dribble, des frappes, des passes et du contrôle de balle. 
+      Chaque entraînement est abordé de manière ludique afin d'allier football et plaisir.
+      La journée est répartie en 3 périodes de football et une période de multisports. 
+      A Jette : Stage en partenariat avec FUTSAL JETTE
+    lieu: Bruxelles
+    age: 6-14 ans
+  - name: Aventure
+    titre_overlay: Aventure
+    img: "/assets/images/boutonsiteweb4.jpg"
+    bouton: Plus d'info
+    nouveau: non
+    infos: Prévoir une paire de bottines ainsi que des vêtements adaptés aux activités
+      d’extérieur et d'intérieur. Certaines activités demandent un déplacement en
+      navette assuré par nos soins.
+    description: "
+                  <p>Votre enfant a entre <strong>8 et 12 ans</strong> ? Ce stage phare du CFS est fait pour lui ! Un stage alléchant qui propose chaque jour une activité ludique et privilégie les activités en extérieur.</p>
+                  <p><strong>PROGRAMME Brabant</strong> : New Games, Laser Game, Parc Aventure, Arrow Game, Fun Challenge, BBQ & jeux dans les bois, Patinoire.</p>
+                  <p><strong>PROGRAMME Bruxelles</strong> : New Games, Arrow Game, Laser Game extérieur, Space Fun Game (Fort Boyard & Laser Game), Parc Aventure de Wavre, Patinoire.</p>
+                  <p><strong>ATTENTION</strong> : le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</p>
+                 "
+    lieu: Brabant et Bruxelles
+    age: 8-12 ans
+  - name: Astronaut Camp
+    titre_overlay: Astronaut Camp
+    img: "/assets/images/boutonsiteweb1.jpg"
+    bouton: Plus d'infos
+    nouveau: non
+    infos: Stage en partenariat avec l'Euro Space Center
+    description: |-
+      Parce qu'il n'y a pas d'âge pour devenir astronaute, viens découvrir avec ce stage une aventure galactique ! 
+
+      Lors de ce camp, les stagiaires auront l'occasion d’expérimenter les vraies sensations vécues par un astronaute : simulation d'une marche sur la lune, reproduction de situations de désorientation et de vertige à l’intérieur d’un vaisseau qui n’est plus maîtrisé, test de ta résistance à la force de gravité dans une centrifugeuse spatiale, simulation de réparations sur un satellite avec le ressenti d’impesanteur (sur une structure métallique de 8 m de haut x 10 m de long !), exercices de communication entre une équipe terrestre et une équipe spatiale, découverte de la planète rouge à bord de votre vaisseau.
+
+      Après avoir été briefés sur la navette américaine, son fonctionnement et les phases d’une mission, les stagiaires auront la chance de participer à la simulation d’une mission spatiale en conditions réelles.
+
+      Les stagiaires participeront également à la construction et au lancement de fusées à eau et/ou de microfusées. Ils découvriront l’histoire de l’astronomie et apprendront à observer le ciel. Ils feront des expériences sur le vide et l’absence de pression. Un brief sur le fonctionnement d’un satellite de télécommunication est également prévu au programme. Les stagiaires devront parvenir à connecter entre eux les divers éléments qui composent la plateforme d’un satellite de communication.
+
+      Durant cette semaine de stage, les enfants feront aussi une visite du Space Tour, ils seront exposés à la vie quotidienne dans l’espace, ils en apprendront davantage sur les différentes planètes, ainsi que le système solaire, et ils feront diverses expériences et mises en situation.
+
+      Enfin, pour compléter cette semaine riche en découvertes, les stagiaires seront également initiés aux drones.
+
+      Remise d'un diplôme en fin de stage.
+
+      Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation, et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi à 16h30.
+
+      Externat : repas et collation fournis par l'Euro Space Center. Stage se déroulant du lundi au vendredi de 9h à 16h. Une garderie (gratuite mais sur inscription) est prévue de 8h30 à 9h et de 16h à 17h.
+    lieu: Transinne
+    age: 9-18 ans
+banner:
+  src: "/assets/images/slider/accueil/anniversaire.png"
+  titre: Je réserve mon anniversaire
+activites:
+  nom: Nos activités
+  images:
+  - titre: Activités extrascolaires
+    titre_img: Activités extrascolaires
+    titre_overlay: Activités extrascolaires
+    src: "/assets/images/boutonsactivites/extrascolaires.png"
+    href: "/activites/extrascolaire/"
+    autre_page: ''
+    bouton: Inscription
+    couleur_bouton: ''
+  - titre: Pour les écoles
+    titre_img: Pour les écoles
+    titre_overlay: Pour les écoles
+    src: "/assets/images/pourlesecoles.jpg"
+    href: https://www.lecfs.be/pour-les-ecoles/ecoles/royal-paul-delvaux/
+    autre_page: ''
+    bouton: Plus d'info
+    couleur_bouton: ''
+  - titre: Ecole de natation
+    titre_img: Ecole de natation
+    titre_overlay: Ecole de natation
+    src: "/assets/images/ecole_de_natation.jpg"
+    href: https://www.lecfs.be/activites/ecole_de_natation/
+    autre_page: ''
+    bouton: Inscription
+    couleur_bouton: ''
+  - titre: Cours adultes
+    titre_img: Cours adultes
+    titre_overlay: Cours adultes
+    src: "/assets/images/boutonscoursadultes/coursadultes.png"
+    href: "/cours_adultes"
+    autre_page: ''
+    bouton: Inscription
+    couleur_bouton: ''

@@ -1,0 +1,25 @@
+{% for centre in site.data.centres_cfs.centres %}
+	{% if centre.online %}
+		{% if centre.centre == page.title %}
+			<div class="row">
+				<div class="col-md-12">
+					📍 {{ centre.name }} - {{ centre.adresse }}<br>
+				</div>
+				{% if centre.img %}
+				{% assign list = centre.img %}
+				{% for image in centre.img limit:3 %}
+				<div class="col-md-6">
+					<img src="/assets/images/centrescfs/{{ image }}"></img>
+				</div>
+				{% endfor %}
+				{% endif %}
+				{% if centre.carte %}
+				<div class="col-md-12">
+					{{ centre.carte }}
+				</div>
+				{% endif %}
+			</div>
+		{% endif %}
+	{% endif %}
+	<div class="desktop mb-60"></div>
+{% endfor %}

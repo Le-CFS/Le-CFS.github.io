@@ -1,0 +1,41 @@
+{% assign slider = site.data.accueil.slider %}
+
+<div id="sliders">
+  <div class="full-width">
+    <div id="light-slider" class="carousel slide">
+      <div id="carousel-area">
+        <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            {% for slide in slider %}
+              {% if slide.src == "" or slide.src == nil %}
+              {% else %}
+                <li data-target="#carousel-slider" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %} loading="{% if forloop.first %}eager{% else %}lazy{% endif %}"></li>
+              {% endif %}
+            {% endfor %}
+          </ol>
+          <div class="carousel-inner" role="listbox">
+            {% for slide in slider %}
+              {% if slide.src == "" or slide.src == nil %}
+              {% else %}
+                <div class="carousel-item{% if forloop.first %} active{% endif %}">
+                  <a href="{{ slide.href }}" target="_blank"><img src="{{ BASE_PATH }}{{slide.src}}" class="img-fluid" alt="{{ slide.titre }}" loading="lazy"></a>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        {% if slider[1].src == "" or slider[1].src == nil %}
+        {% else %}
+          <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
+            <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Précédent</span>
+          </a>
+          <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
+            <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Suivant</span>
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

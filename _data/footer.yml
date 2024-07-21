@@ -1,0 +1,21 @@
+---
+background_color: "#475268"
+col_1:
+  nom: Nous contacter
+  bouton_texte: Nous contacter
+  bouton_url: "/contact"
+  description: Créée en 1981 par des licenciés en Éducation Physique, l'association
+    CFS - Centre de Formation Sportive asbl propose des stages sportifs et culturels
+    pour les enfants et les jeunes de 0 à 18 ans.
+col_2:
+  nom: Instagram
+  src: "/assets/images/Instagram.jpg"
+  alt: Le CFS ASBL - page Instagram
+col_3:
+  nom: Facebook
+  src: "/assets/images/facebook.jpg"
+  alt: Le CFS ASBL - page Facebook
+logo:
+  nom: LOGO
+  alt: Le CFS ASBL
+  src: "/assets/images/logocfs.jpg"

@@ -1,0 +1,91 @@
+{% assign menu = site.data.menu %}
+
+{% capture pageurl %}{{ page.url }}{% endcapture %}
+
+{% if pageurl contains '/cfs/' %}
+{% assign menu_principal = menu['cfs'] %}
+
+{% elsif pageurl contains '/news/' %}
+{% assign menu_principal = menu['cfs'] %}
+
+<!-- Pour éviter que la page brochures/stages passe avec le menu stages -->
+{% elsif pageurl contains '/brochures/stages/' %}
+{% assign menu_principal = menu['brochures'] %}
+
+{% elsif pageurl contains '/stages/' %}
+{% assign menu_principal = menu['stages_enfants'] %}
+
+{% elsif pageurl contains '/activites/' %}
+{% assign menu_principal = menu['activites'] %}
+
+{% elsif pageurl contains '/cours_adultes/' %}
+{% assign menu_principal = menu['cours_adultes'] %}
+
+<!-- Pour éviter que la page brochures/anniversaires passe avec le menu anniversaires -->
+{% elsif pageurl contains '/brochures/anniversaires/' %}
+{% assign menu_principal = menu['brochures'] %}
+
+{% elsif pageurl contains '/anniversaires/' %}
+{% assign menu_principal = menu['anniversaires'] %}
+
+{% elsif pageurl contains '/pour-les-ecoles/' %}
+{% assign menu_principal = menu['pour_les_ecoles'] %}
+
+{% elsif pageurl contains '/journees-sportives/' %}
+{% assign menu_principal = menu['journees_sportives'] %}
+
+{% elsif pageurl contains '/brochures/' %}
+{% assign menu_principal = menu['brochures'] %}
+
+{% endif %}
+
+<div class="blog-block categories-sidebar-widget">
+
+    <h4>
+        <a href="{{ menu_principal.url }}">{{ menu_principal.titre }}</a>
+    </h4>
+
+    {% for menu1 in menu_principal.sousmenu %}
+        {% if menu1.menu_list == "adultes" %}
+            {% for page_list in site.pages %}
+                {% if page_list.type_page == "adultes" %}
+                    {% if page_list.published == false %}
+                    {% else %}
+                    <div class="post-category">
+                        <a href="{{ page_list.url }}">{{ page_list.title }}</a>
+                    </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        {% elsif menu1.menu_list == "ecoles" %}
+            {% for page_list in site.pages %}
+                {% if page_list.type_page == "ecoles" %}
+                    {% if page_list.published == false %}
+                    {% else %}
+                    <div class="post-category">
+                        <a href="{{ page_list.url }}">{{ page_list.title }}</a>
+                    </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        {% else %}
+            <div class="post-category">
+                <a href="{{ menu1.url }}">{{ menu1.title }}</a>
+            </div>
+            {% if page.url contains menu1.url %}
+                {% for menu2 in menu1.sousmenu %}
+                    <div class="post-category" style="border-bottom: 0px !important; padding-left: 35px !important;">
+                        <a href="{{menu2.url}}">{{ menu2.title}}</a>
+                    </div>
+                    {% for menu3 in menu2.sousmenu %}
+                        <div class="post-category" style="border-bottom: 0px !important; padding-left: 70px !important;">
+                            <a href="{{menu3.url}}">{{ menu3.title}}</a>
+                        </div>
+                    {% endfor %}
+                {% endfor %}
+            {% endif %}
+        {% endif %}
+
+    {% endfor %}
+
+</div>

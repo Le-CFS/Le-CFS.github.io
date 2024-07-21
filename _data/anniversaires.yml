@@ -1,0 +1,353 @@
+---
+anniversaires:
+- name: Futsal
+  online: true
+  nouveau: true
+  anniversaire_une: true
+  age: 6-12 ans
+  img: "/assets/images/cfs_anniversaire_futsal.png"
+  lieu: Auderghem - Laeken
+  href: ''
+  prix: Merci de nous contacter
+  description: "Tu es un vrai mordu du ballon ? Viens fêter ton anniversaire avec
+    tes copains !\n\nUne activité sportive qui prévoit une alternance entre entraînements
+    et petits matchs. \n\nTon anniversaire sera abordé de manière ludique afin d'allier
+    football et plaisir."
+  infos: ''
+  bouton: ''
+  categorie:
+  - fun
+- name: Interactif Lü
+  online: true
+  nouveau: true
+  anniversaire_une: true
+  age: 5-16 ans
+  img: "/assets/images/cfs_anniversaires_lu_lln.jpg"
+  lieu: Louvain-la-Neuve
+  href: ''
+  prix: 225€
+  description: L'aire de jeu interactive LÜ est un dispositif ludique et interactif
+    permettant d’associer le sport et la réflexion à travers des jeux mais aussi des
+    situations pédagogiques multidisciplinaires.
+  infos: Le forfait est établi pour 12 enfants. 1 boisson par enfant comprise dans
+    le prix. Les jeux sont adaptés selon les âges.
+  bouton: ''
+  categorie:
+  - fun
+- name: Robotique
+  online: false
+  nouveau: true
+  anniversaire_une: true
+  age: 7-12 ans
+  img: "/assets/images/stages/stagesalaune_robotique.png"
+  lieu: Bierges
+  href: ''
+  prix: 245€
+  description: ''
+  infos: Le forfait est établi pour 12 enfants.
+  bouton: ''
+  categorie:
+  - fun
+- name: Baby Boum
+  age: 4-6 ans
+  img: "/assets/images/anniversaires/activites/psychoboom.png"
+  lieu: 'Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken '
+  href: ''
+  prix: 195 €
+  description: 'Pour ton anniversaire, nous avons préparé un mixte de différentes
+    activités de psychomotricité en musique : jeux de coopération, parcours d’adresse,
+    parcours d’audace, exercices de latéralité, éveil artistique.'
+  infos: Réservation souhaitée 2 semaines à l’avance.
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Psycho Découverte
+  age: 3-4 ans
+  img: "/assets/images/anniversaires/activites/psychodecouverte.png"
+  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
+  href: ''
+  prix: 175 €
+  description: 'Pour ton anniversaire, nous avons préparé un mélange de différentes
+    activités de psychomotricité : jeux de coopération, parcours d’adresse, parcours
+    d’audace, exercices de latéralité, eveil artistique.'
+  infos: Réservation souhaitée 2 semaines à l’avance.
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Chasse au trésor
+  age: 5 à 10 ans
+  img: "/assets/images/anniversaires/activites/chasseautresor.png"
+  lieu: Bierges / Wavre / Ottignies / Rixensart / Auderghem / Laeken
+  href: ''
+  prix: 185 €
+  description: L’anniversaire « chasse au trésor » est un mélange de défis sportifs
+    et intellectuels. Deux équipes se font face et, après chaque épreuve, ils reçoivent
+    une pièce de la carte au trésor. Ils reçoivent comme récompense des bonbons cachés
+    dans une boîte à trésor.
+  infos: Uniquement apd 13h00 – Sur Ottignies apd 14h00
+  bouton: ''
+  categorie:
+  - domicile
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: true
+- name: BMX-Skate-Trottinette
+  age: 10-16 ans
+  img: "/assets/images/anniversaires/activites/bmxskatetrot.png"
+  lieu: A domicile ou au Skate Park
+  href: ''
+  prix: 450€
+  description: Des sports extrêmes pour ton anniversaire ! Nous prévoyons une initiation
+    et un perfectionnement au Skate, au BMX ou à la Trottinette. Nous allons t’apprendre
+    de nouvelles figures dans une ambiance propre à ces sports extrêmes. Tes amis
+    et toi seront encadrés par des professionnels dans leur domaine.
+  infos: Réservation souhaitée 2 semaines à l’avance.
+  bouton: ''
+  categorie:
+  - domicile
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Cirque
+  age: 5 à 12 ans
+  img: "/assets/images/anniversaires/activites/cirque.png"
+  lieu: Bierges
+  href: ''
+  prix: Merci de nous contacter
+  description: 'Nous te proposons une approche de diverses disciplines issues du monde
+    du cirque : équilibre (câbles – échasses – monocycle), acrobatie (pyramides –
+    trampoline-trapèze), jonglerie (foulards – balles – quilles), adresse (diabolos
+    – bâtons du diable). Une petite présentation à la fin des 2 heures est possible.'
+  infos: Uniquement à partir de 15h30.
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Danse
+  age: 6-12 ans
+  img: "/assets/images/anniversaires/activites/danse.png"
+  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
+  href: ''
+  prix: Merci de nous contacter
+  description: Viens te déhancher sur le rythme de la musique! Nous allons apprendre
+    les bases de la danse (musique, tempos, mouvements et danse en groupe).
+  infos: Réservation souhaitée 2 semaines à l’avance.
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Top Chef
+  age: 8-14 ans
+  img: "/assets/images/anniversaires/activites/dinerparfait.png"
+  lieu: Bierges / Auderghem / Laeken
+  href: ''
+  prix: Merci de nous contacter
+  description: Tu veux devenir un grand chef-cuistot? Invite tes amis et appelle-nous
+    vite! Lors de ton anniversaire, nous allons préparer ton propre gâteau avec l’aide
+    de tes amis. A la fin de l’activité, tes amis et toi allez déguster le gâteau.
+  infos: Une allergie, une préférence pour le goût? Contactez-nous!
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: true
+- name: Football
+  age: 4-12 ans
+  img: "/assets/images/anniversaires/activites/foot.png"
+  lieu: Wavre - Rixensart - Ottignies - Walhain
+  href: ''
+  prix: 165 €
+  description: Une activité sportive qui prévoit une alternance entre entraînements
+    et petits matchs. Ton anniversaire sera abordé de manière ludique afin d’allier
+    football et plaisir (techniques de ballon et jeux).
+  infos: Réservation souhaitée 2 semaines à l’avance.
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Fun & Multisports
+  age: 6-12 ans
+  img: "/assets/images/anniversaires/activites/multisports.png"
+  lieu: Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
+  href: ''
+  prix: Merci de nous contacter
+  description: |-
+    Divers jeux collectifs, au choix seront organisés lors de ton anniversaire. Activités : Kin-ball, base-ball, volley, basket, badminton, ping-pong, flagfootball, frisbee golf, etc. Le respect des règles et l’esprit d’équipe seront également mis en place.
+
+    Anniversaire sportif et fun assurée !
+  infos: Réservation souhaitée 2 semaines à l’avance.
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Princesse & Pirate
+  age: 4-12 ans
+  img: "/assets/images/anniversaires/activites/princessesetpirates.png"
+  lieu: Bierges / Wavre / Rixensart / Ottignies / Walhain
+  href: ''
+  prix: 175 €
+  description: Nous t’organisons une chasse au trésor sur le thème des princesses
+    et pirates.
+  infos: Uniquement à partir de 15h30 - Petite recommandation sur Bierges
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Théâtre
+  age: 6 +
+  img: "/assets/images/anniversaires/activites/theatre.png"
+  lieu: Auderghem / Wavre
+  href: ''
+  prix: 175 €
+  description: Contactez-nous pour en savoir plus.
+  infos: ''
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Arrow Game
+  age: 7-14 ans
+  img: "/assets/images/anniversaires/activites/arrow.png"
+  lieu: Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
+  href: ''
+  prix: A partir de 195 €
+  description: Contactez-nous pour en savoir plus.
+  infos: ''
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Laser Game
+  age: 7-12 ans
+  img: "/assets/images/anniversaires/activites/funlaser.png"
+  lieu: Wavre - Rixensart - Walhain
+  href: ''
+  prix: 300 €
+  description: 'Une activité fun outdoor, dans les bois, à effectuer entre amis! Une
+    activité à la fois sportive, ludique, stratégique et divertissante dans laquelle
+    plusieurs joueurs ou unités s’affrontent. Nous organisons l’anniversaire en plusieurs
+    étapes : Découverte et fonctionnement des lasers, consignes de sécurité, création
+    des équipes, déroulement de l’activité (jeux variés). Tout au long de l’anniversaire,
+    nous mettons en place des jeux variés et ludiques.'
+  infos: ''
+  bouton: ''
+  categorie:
+  - domicile
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Ninja Warriors
+  age: 7-14 ans
+  img: "/assets/images/anniversaires/activites/parcours.png"
+  lieu: Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
+  href: ''
+  prix: 450 €
+  description: Contactez-nous pour en savoir plus
+  infos: Réservation souhaitée 2 semaines à l’avance.
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Quad
+  age: 6-14 ans
+  img: "/assets/images/anniversaires/activites/quad.png"
+  lieu: Wavre
+  href: ''
+  prix: 300 €
+  description: Quad, trottinette électrique, overboard, cuistax, motos électriques.
+    En cas de mauvais temps, l’activité ne pourra être maintenue.
+  infos: 25€/enfant supplémentaire
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: true
+- name: Swiss Jump
+  age: 6-12 ans
+  img: "/assets/images/anniversaires/activites/swissjump.png"
+  lieu: Bierges
+  href: ''
+  prix: 200 €
+  description: 'Lors de ton anniversaire, tu découvres avec tes amis le Swiss Jump
+    (mini trampoline individuel). Au programme: jeux, chorégraphies et défis. Tout
+    cela en musique!'
+  infos: Maximum 11 enfants.
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Bubble Soccer
+  age: 8-12 ans
+  img: "/assets/images/anniversaires/activites/bubble.png"
+  lieu: Wavre - Rixensart - Ottignies - Walhain
+  href: ''
+  prix: 275 €
+  description: Contactez-nous pour en savoir plus.
+  infos: ''
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Magie
+  age: 7-14 ans
+  img: "/assets/images/anniversaires/activites/magie.png"
+  lieu: Bierges / Wavre / Rixensart / Ottignies / Auderghem / Laeken
+  href: ''
+  prix: 350 €
+  description: Grâce à un magicien qui a plusieurs tours dans son sac, les enfants
+    découvrent le monde de l’illusion et de la manipulation. Les enfants apprendront
+    certains tours. Un petit spectacle d’une heure est prévu dans l’organisation de
+    l’anniversaire.
+  infos: Vous pouvez nous contacter en cas de demande particulière.
+  bouton: ''
+  categorie:
+  - domicile
+  - fun
+  online: true
+  nouveau: false
+  anniversaire_une: false
+- name: Piscine Party
+  age: 6-12 ans
+  img: "/assets/images/anniversaires/activites/piscineparty.png"
+  lieu: Bierges / Liernu NEW
+  href: ''
+  prix: Merci de nous contacter
+  description: Nous organisons des jeux, des défis et des jeux libres dans la piscine.
+  infos: Les enfants doivent être à l’aise dans l’eau, ils doivent pouvoir mettre
+    leur tête dans l’eau.
+  bouton: ''
+  categorie:
+  - fun
+  online: true
+  nouveau: true
+  anniversaire_une: false

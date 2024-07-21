@@ -1,0 +1,46 @@
+---
+layout: page
+title: Nos partenaires de stage
+permalink: "/stages/nos_partenaires_de_stage/"
+menu: true
+description: Nos partenaires de stage collaborent à l'organisation d'une semaine de
+  stage afin de vous proposer des programmes variés et alléchants !
+banner: ''
+image: ''
+
+---
+Nos partenaires de stage collaborent à l'organisation d'une semaine de stage afin de vous proposer des programmes variés et alléchants !
+
+<div class="container">
+	<div class="team-members-tow mtb-50">
+		<div class="row">
+		
+		{% for partenaire in site.data.partenaires.liste %}
+		{% if partenaire.online and partenaire.categorie contains 'stages' %}
+		<!-- Team Item Starts -->
+		<div class="col-sm-6 col-md-4">
+
+			<a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" style="color: #fff !important;">
+			  <figure>
+			    <img src="{{ partenaire.logo }}" alt="" style="border-radius: 5%;">
+			    <div class="image-overlay bulle3">
+			      <div class="overlay-text text-center">
+			        <div class="info-text">
+			          <strong>{% if partenaire.titre_overlay%}{{ partenaire.titre_overlay }}{% else %}{{ partenaire.name }}{% endif %}</strong>
+			        </div>
+			        <a href="{% if partenaire.href %}{{ partenaire.href }}{% else %}https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559{% endif %}" target="_blank" class="btn btn-block btn-{% if partenaire.couleur_bouton %}{{ partenaire.couleur_bouton}}{% else %}info{% endif %}-filled" style="margin-top: 15px; color: #fff !important;">
+			            <i class="fa fa-edit"></i> {% if partenaire.bouton %} {{ partenaire.bouton }}{% else %} Inscription{% endif %}
+			        </a>
+			      </div>
+			    </div>
+			  </figure>
+			</a>
+
+        </div>
+		<!-- Team Item Ends -->
+		{% endif %}
+		{% endfor %}
+		
+		</div>
+	</div>
+</div>

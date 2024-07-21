@@ -1,0 +1,62 @@
+---
+layout: page
+title: Contact
+banner: ''
+permalink: "/contact/"
+description: Besoin de nous contacter pour un renseignement ou pour vous inscrire
+  à nos activités et stages ? Retrouvez ici les informations de contact.
+menu: false
+image: ''
+
+---
+<div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h4 class="contact-info-title">Contactez nous</h4>
+            <div class="contact-info">
+              <address>
+                <i class="fa fa-map-marker icons cyan-color contact-info-icon"></i>{{ site.data.GLOBAL.adresse_ligne_1 }}<br/>
+                <i class="fa fa-map-marker icons cyan-color contact-info-icon" style="color: transparent;"></i>{{ site.data.GLOBAL.adresse_ligne_2 }}
+              </address>
+              <div class="tel-info">
+                {% for province in site.data.GLOBAL.provinces %}
+                  <a href="tel:{{ province.tel_a_composer }}">
+                    <div class="row">
+                      <div class="col-md-5 col-xs-5"><i class="fa fa-phone icons cyan-color contact-info-icon"></i>{{ province.nom }} :</div><div class="col-md-7 col-xs-7">{{ province.tel_a_afficher }}</div>
+                    </div>
+                  </a>
+                {% endfor %}
+              </div>
+              <div class="row">
+                <div class="col-md-5 col-xs-5"><a href="mailto:{{ site.data.GLOBAL.email }}"><i class="fa fa-envelope-o icons cyan-color contact-info-icon"></i>{{ site.data.GLOBAL.email }}</a></div>
+                <div class="col-md-7 col-xs-7"><a href="/"><i class="fa fa-tablet icons cyan-color contact-info-icon"></i>{{ site.data.GLOBAL.site }}</a></div>
+              </div>
+              <ul class="social-links">
+                <li>
+                  <a href="{{ site.data.GLOBAL.facebook }}" class="fa fa-facebook"></a>
+                </li>
+                <li>
+                  <a href="{{ site.data.GLOBAL.instagram }}" class="fa fa-instagram"></a>
+                </li>
+              </ul>
+            </div><br/><br/>
+            <h4 class="contact-info-title">Horaires du secretariat</h4>
+            <div class="contact-info">
+              <strong>D'octobre à mai :</strong> de 9h00 à 12h30 et de 13h30 à 18h00<br/>
+              <strong>En juin :</strong> de 8h00 à 18h00<br/>
+              <strong>En septembre :</strong> de 09h00 à 18h00<br/>
+              <strong>Pendant les périodes de stages :</strong> de 8h00 à 18h00
+            </div><br/><br/>
+            <h4 class="contact-info-title">Attestation fiscale</h4>
+            <div class="contact-info">
+              En cas de perte, il faut nous faire parvenir une demande soit par mail sur notre adresse <strong>info@lecfs.be</strong>, soit par courrier postal.
+              <br/><br/>
+              S'il s'agit d'un courrier postal, votre demande doit-être accompagnée d'<strong>une enveloppe pré-timbrée</strong>.
+            </div>
+          </div>
+          <div class="col-md-6">
+            <iframe width="640px" height= "920px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=mA9X194_hE2fdzqh2Pd-5NykdwhM8jBNvOhWrg5IAOBUNlFSUFZaME0xMFpPSFdGVlVWMzRUS1A0Ni4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+          </div>
+
+        </div>
+      </div>

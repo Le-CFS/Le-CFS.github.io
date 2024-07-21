@@ -1,0 +1,49 @@
+<div id="content">
+  <div class="row">
+    <div class="col-xs-1 col-md-2"></div>
+    <div class="col-md-8 col-xs-10">
+
+      <div class="row">
+        {% if page.menu %}
+          <div class="desktop col-md-3">
+            
+              {% include menus/menu_left.html %}
+            
+          </div>
+        {% endif %}
+
+        <div class="col-md-{% if page.menu %}9{% else %}12{% endif %}">
+          {% if page.banner == nil or page.banner == '' %}
+          {% else %}
+            <center>
+              <img src="{{ BASE_PATH }}{{ page.banner }}" alt="{{ page.title }}" style="width: 90%; border-radius: 10px;"></img>
+            </center>
+            <div class="desktop mb-60"></div>
+            <span class="mobile" style="padding-bottom: 20px;"></span>
+          {% endif %}
+          {% if page.type_page == "ecoles" %}
+          <table class="table table-striped mt-4 mb-4">
+            <thead>
+              <tr>
+                <th scope="col" style="width:25%"><center>Activités parascolaires</center></th>
+                <th scope="col" style="width:25%"><center>Garderies</center></th>
+                <th scope="col" style="width:25%"><center>Journées pédagogiques</center></th>
+                <th scope="col" style="width:25%"><center>Stages</center></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                  <td><center>{% if page.activite_parascolaire %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+                  <td><center>{% if page.activite_garderie %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+                  <td><center>{% if page.activite_pedagogique %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+                  <td><center>{% if page.activite_stage %}<i class="fa fa-check-circle-o text-success fa-2x"></i>{% else %}<i class="fa fa-times-circle-o text-danger fa-2x"></i>{% endif %}</center></td>
+              </tr>
+            </tbody>
+          </table>
+          {% endif %}
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

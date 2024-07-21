@@ -1,0 +1,54 @@
+---
+layout: page
+title: Catalogue des stages
+permalink: "/stages/activites/"
+menu: true
+description: L' ASBL CFS vous offre un large choix de stage pour enfants de 2 à 16ans
+  dans le Brabant wallon, à Bruxelles et à Liège.
+banner: ''
+image: ''
+js: portfolio.js
+
+---
+{% include annonces/stages.html %}
+
+<p>Ci-dessous tous les stages que nous vous proposons.<br>
+Vous pouvez sélectionner une catégorie pour peaufiner votre recherche.</p>
+
+{% assign liste_stages = site.data.stages.stages | sort: "name" %}
+{% assign liste_stages = liste_stages | where: "online", true %}
+
+<div id="content">
+    <section id="portfolio" class="section">
+         <div class="row" style="display:inline;">
+            <div class="col-md-12">
+              	<div class="controls text-center wow fadeInUpQuick" data-wow-delay=".6s">
+	                <a class="filter active btn-stage btn-stage-all btn btn-common col-md-12 btn-block" data-filter="all">
+	                  Tous les stages 
+	                </a>
+
+	                <!-- La liste des catégories est disponible dans le fichier _data/stages.yml -->
+
+	                {% for categorie in site.data.stages.categories %}
+	                {% assign new_list = liste_stages | where: "categorie", categorie.name %}
+	                {% if new_list.size > 0 %}
+	                <a class="filter btn-stage {{ categorie.btn }} btn btn-common col-md-6 col-lg-4 col-xl-3" data-filter=".{{ categorie.filtre }}">
+	                {{ categorie.official_name }}
+	                </a>
+	                {% endif %}
+	                {% endfor %}
+              	</div>
+            </div>
+            
+            <div id="portfolio" class="row wow fadeInUpQuick" data-wow-delay="0.8s">
+				
+				{% for stage in liste_stages %}
+
+						{% include coleen/liste_cartes.html %}
+
+				{% endfor %}
+
+        	</div>
+        </div>
+	</section>
+</div>

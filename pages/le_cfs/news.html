@@ -1,0 +1,44 @@
+---
+layout: page
+title: News
+banner: "/assets/images/banner/activites_et_infos/news.jpg"
+permalink: "/cfs/news/"
+menu: true
+description: Parcourez les dernières actualités liées à l'ASBL CFS, à ses stages et
+  à ses activités.
+image: ''
+
+---
+{% for post in site.categories.news %}
+	<div class="blog-block post-content-area">
+	    {% if post.img %}	  
+        <!-- #TODO -->
+	    {% endif %}	  
+      <div class="blog-post">
+        
+        <div class="row">
+          <div class="col-md-8">
+            <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+	          <p>{{ post.infos.teaser }}</p>
+          </div>
+          <div class="col-md-4">
+            {% if post.author %}
+              <!-- #TODO -->
+            {% endif %}
+          </div>
+        </div>
+        
+
+        <div class="row">
+          <div class="col-md-6">
+            <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-block btn-info-filled" style="margin-top: 15px; color: #fff !important;">Continuer la lecture <i class="fa fa-arrow-circle-o-right icons"></i></a>
+          </div>
+          <div class="col-md-6">
+            <p class="text-right" style="padding-top: 25px;">{{ post.date | date: "%d/%m/%Y" }}</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+	<div class="mb-60"></div>
+{% endfor %}

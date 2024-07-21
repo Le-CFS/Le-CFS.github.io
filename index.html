@@ -1,0 +1,39 @@
+---
+layout: index
+title: BIENVENUE AU CFS
+index: index 
+js: sliders.js
+image: /assets/images/logo.png
+---
+
+{% include accueil/slider.html %}
+
+<div class="mb-60"></div>
+
+{% include accueil/news.html %}
+
+{% include accueil/jobs.html %}
+
+<div class="mb-60"></div>
+
+{% include accueil/selection.html %}
+
+<div class="desktop mb-60"></div>
+
+<div class="massage-box alert-info text-center" style="padding-left: 20px;">
+	<strong>{{ site.data.accueil.slogan }}</strong>
+</div>
+
+<div class="desktop mb-60"></div>
+
+{% include accueil/une.html %}
+
+<div>
+  <a href="/anniversaires">
+    <img src="{{ BASE_PATH }}{{ site.data.accueil.banner.src }}" alt="{{ site.data.accueil.banner.titre }}" loading="lazy">
+  </a>
+</div>
+
+{% include accueil/activites.html %}
+
+{% include accueil/partenaires.html %}

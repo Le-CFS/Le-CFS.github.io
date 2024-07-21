@@ -1,0 +1,608 @@
+---
+activites:
+- name: Taekwendo
+  categorie: Activités sportives
+  img: "/assets/images/cfs_activites_parascolaires_taekwendo.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Street Dance
+  categorie: Danse et Gymnastique
+  img: "/assets/images/activites_parascolaires_cfs_streetdance.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Nature
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_nature.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Chorale
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_chorale.jpg"
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Baby Théâtre
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/activites_parascolaires_babytheatre.jpg"
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Baby Musique
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/activites_parascolaires_babymusique.jpg"
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Baby Danse
+  categorie: Danse et Gymnastique
+  img: "/assets/images/activites_parascolaires_babydanse.jpg"
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Baby Artistique
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/activites_parascolaires_babyartiste.jpg"
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Artiste
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_artiste.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Anglais
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_anglais.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+- name: Théâtre
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_cfs_theatre.jpg"
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Uccle - Ecole Notre-Dame Wolvenberg (Notre-Dame)
+    province: Bruxelles
+  - name: Auderghem - Institut St-Julien Parnasse
+    province: Bruxelles
+- name: Théâtre
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_theatre.jpg"
+  age_debut: P3
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: "/assets/images/activites_cfs_parascolaires__psychomotricite_.jpg"
+  age_debut: Acc
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Auderghem - Institut St-Julien Parnasse
+    province: Bruxelles
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
+- name: Multi & Créativité
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_multisports_creativite.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
+- name: Gymnastique
+  categorie: Danse et Gymnastique
+  img: "/assets/images/activites_parascolaires_gym.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
+- name: Multisports
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_multisports.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Auderghem - Institut St-Julien
+    province: Bruxelles
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
+  - name: Wemmel - Ecole Communale Francophone primaire
+    province: Bruxelles
+- name: Mini-Foot
+  categorie: Activités sportives
+  img: "/assets/images/cfs_activites_parascolaires_mini_foot.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone primaire
+    province: Bruxelles
+- name: Hip-Hop
+  categorie: Danse et Gymnastique
+  img: "/assets/images/activites_parascolaires_streetdance.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Uccle - Ecole Notre-Dame Wolvenberg (Notre-Dame)
+    province: Bruxelles
+  - name: Wemmel - Ecole Communale Francophone primaire
+    province: Bruxelles
+- name: GRS
+  categorie: Danse et Gymnastique
+  img: "/assets/images/activites_parascolaires_grs.jpg"
+  age_debut: P3
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone primaire
+    province: Bruxelles
+- name: Fun & Multisports
+  categorie: Activités fun
+  img: "/assets/images/activites_parascolaires_fun_multisports.jpg"
+  age_debut: P3
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone primaire
+    province: Bruxelles
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: "/assets/images/activites_cfs_parascolaires__cfs_psychomot.jpg"
+  age_debut: M1
+  age_fin: M2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone maternelle
+    province: Bruxelles
+- name: Mini-multisports
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/activites_parascolaires_minimultisports.jpg"
+  age_debut: M2
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Jette - Ecole Aurore
+    province: Bruxelles
+  - name: Wemmel - Ecole Communale Francophone maternelle
+    province: Bruxelles
+- name: Hip-Hop
+  categorie: Danse et Gymnastique
+  img: "/assets/images/activites_parascolaires_hiphop.jpg"
+  age_debut: M2
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone maternelle
+    province: Bruxelles
+- name: Baby Tennis & Multisports
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/activites_parascolaires_babytennis_multisports.jpg"
+  age_debut: M3
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wemmel - Ecole Communale Francophone maternelle
+    province: Bruxelles
+- name: Karaté
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_karate.jpg"
+  age_debut: H1
+  age_fin: H6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
+- name: Ecole des devoirs
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_ecole_des_devoirs.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Erpent - Collège Notre-Dame de la Paix
+    province: Namur
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Parkour
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_parkour.jpg"
+  age_debut: P3
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: LLN - Ecole des Bruyères
+    province: Brabant Wallon
+- name: Football
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_football.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Court-St-Etienne - Ecole de Sart-Messire-Guillaume
+    province: Brabant Wallon
+- name: Multisports
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_multisports_cfs.jpg"
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rosières - Ecole Communale de Rosières
+    province: Brabant Wallon
+- name: Danse
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_danse.jpg"
+  age_debut: M2
+  age_fin: P3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rosières - Ecole Communale de Rosières
+    province: Brabant Wallon
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: "/assets/images/activites_cfs_parascolaires__psychomot_cfs.jpg"
+  age_debut: M1
+  age_fin: M3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Nil - Ecole Le Bon Départ
+    province: Brabant Wallon
+- name: Découverte Sportive
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/activites_parascolaires_decouvertes_sportive.jpg"
+  age_debut: M3
+  age_fin: P3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Nil - Ecole Le Bon Départ
+    province: Brabant Wallon
+- name: Danse
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_danse_cfs.jpg"
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Nil - Ecole Le Bon Départ
+    province: Brabant Wallon
+- name: Circomotricité
+  categorie: Les petits bouts
+  img: "/assets/images/activites_parascolaires_circomotricite.jpg"
+  age_debut: M2
+  age_fin: P2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Nil - Ecole Le Bon Départ
+    province: Brabant Wallon
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: "/assets/images/activites_parascolaires_cfs_psychomotricite.jpg"
+  age_debut: M2
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Walhain - Ecole de Tourinnes
+    province: Brabant Wallon
+- name: Circomotricité
+  categorie: Les petits bouts
+  img: "/assets/images/activites_parascolaires_cfs_circomotricite.jpg"
+  age_debut: M2
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Walhain - Ecole de Tourinnes
+    province: Brabant Wallon
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: "/assets/images/activites_cfs_parascolaires__psychomotricite.jpg"
+  age_debut: M2
+  age_fin: P2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
+- name: Parkour
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_cfs_parkour.jpg"
+  age_debut: P4
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
+- name: Hip-Hop
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_hiphop_cfs.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
+- name: Découverte Sportive
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/activites_parascolaires_decouvertesportive.jpg"
+  age_debut: P1
+  age_fin: P4
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
+- name: Codage
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_codage.jpg"
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
+- name: Baby Gym
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/activites_parascolaires_babygym.jpg"
+  age_debut: M2
+  age_fin: P2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: "/assets/images/activites_cfs_parascolaires__psychomot.jpg"
+  age_debut: Acc
+  age_fin: M2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
+- name: Karaté
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_karate_cfs.jpg"
+  age_debut: M3
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
+- name: Fun
+  categorie: Activités fun
+  img: "/assets/images/activites_parascolaires_fun.jpg"
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
+- name: Capoeira
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_capoeira.jpg"
+  age_debut: P2
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
+- name: Anglais
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_cfs_anglais.jpg"
+  age_debut: M1
+  age_fin: M2
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Wavre - Athénée Royal Maurice Carême
+    province: Brabant Wallon
+- name: Théâtre
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_theatre_cfs.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Théâtre Humanité
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_theatre_humanite.jpg"
+  age_debut: H1
+  age_fin: H3
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Psycho Art
+  categorie: Les petits bouts
+  img: "/assets/images/activites_parascolaires_psychoart.jpg"
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Psychomotricité
+  categorie: Les petits bouts
+  img: "/assets/images/activites_parascolaires_psychomotricite.jpg"
+  age_debut: M1
+  age_fin: P1
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rosières - Ecole Communale de Rosières
+    province: Brabant Wallon
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Natation
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_natation.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Mini-Foot
+  categorie: Activités sportives
+  img: "/assets/images/cfs_activites_parascolaires_minifoot.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: 'Ottignies - Athénée Royal Paul Delvaux '
+    province: Brabant Wallon
+- name: Gymnastique
+  categorie: Les petits bouts
+  img: "/assets/images/activites_parascolaires_gymnastique.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Rixensart - Athénée Royal de Rixensart
+    province: Brabant Wallon
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Danse
+  categorie: Activités sportives
+  img: "/assets/images/activites_cfs_parascolaires_danse.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Jette - Ecole St-Michel
+    province: Bruxelles
+  - name: Auderghem - Institut St-Julien Parnasse
+    province: Bruxelles
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Badminton
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_badminton.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Aqua Fun
+  categorie: Activités sportives
+  img: "/assets/images/activites_parascolaires_aquafun.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
+- name: Anglais
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/activites_parascolaires_cours_anglais.jpg"
+  age_debut: P1
+  age_fin: P6
+  online: true
+  nouveau: false
+  ecoles:
+  - name: Ottignies - Athénée Royal Paul Delvaux
+    province: Brabant Wallon
