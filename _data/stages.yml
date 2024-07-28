@@ -8243,16 +8243,13 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 4-6 ans
-    description: "<p><strong>Et 1,2,3 PLOUF !</strong></p><p>1er pas dans l'eau ?</p><p>Ce
-      stage apprend à votre enfant les bases de la natation par le biais d'activités
-      ludiques (voyage sur une frite ou une planche, mettre la tête sous l'eau, etc.),
-      le tout dans une ambiance décontractée !</p><p>Les enfants ont l'occasion de
-      faire connaissance avec les joies de la piscine, du petit bassin et de la pataugeoire
-      via une heure quotidienne d'accoutumance à l'eau. Pour les plus initiés, nos
-      moniteurs qualifiés et brevetés approfondiront les 4 nages avec un objectif
-      en fin de semaine que votre enfant soit autonome dans l'eau.</p><p>L'après-midi,
-      ils s'initient à différentes activités de multisports et des jeux collectifs
-      ou de coopération.</p>"
+    description: "<p><strong>Et 1,2,3 PLOUF !</strong></p>
+      <p>1er pas dans l'eau ?</p>
+      <p>
+        Ce stage apprend à votre enfant les bases de la natation par le biais d'activités ludiques (voyage sur une frite ou une planche, mettre la tête sous l'eau, etc.), le tout dans une ambiance décontractée !
+      </p>
+      <p>Les enfants ont l'occasion de faire connaissance avec les joies de la piscine, du petit bassin et de la pataugeoire via une heure quotidienne d'accoutumance à l'eau. En fonction des acquis de chaque enfant, ils tenteront de décrocher les brevets officiels 'caneton' ou 'pingouin' délivrés par la Fédération Francophone Belge de Natation.</p>
+      "
     infos:
     - alias: Moniteurs
       info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
@@ -9864,13 +9861,21 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-8 ans
-    description: "<p>Votre enfant est fou de sports et aime découvrir de nouvelles
-      activités ? Le stage Fun &amp; Multisports est fait pour lui !</p><p>Durant
-      cette semaine, il pratiquera des sports collectifs.</p><p>Le stage est agrémenté
-      par des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball,
-      le speedminton ou encore le flag foot.</p><p>Semaine sportive et Fun assurée
-      !</p>"
+    age: 7-10 ans
+    description: "
+      <p>
+        Votre enfant est fou de sport et aime découvrir de nouvelles activités ? Le stage Fun Multisports & Natation est fait pour lui ! 
+      </p>
+      <p>
+        Les enfants ont l'occasion de pratiquer une heure quotidienne de cours de natation et de jeux aquatiques, le tout dans une ambiance décontractée. Nos moniteurs qualifiés et brevetés approfondiront les 4 nages pour tenter de décrocher l'un des brevets officiels délivrés par la Fédération Francophone Belge de Natation, du brevet du Dauphin (25m) aux brevets longues distances, en fonction des acquis de chacun.
+      </p>
+      <p>
+        La semaine de stage est également agrémentée par des sports collectifs et des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot ! 
+      </p>
+      <p>
+        Semaine sportive et Fun assurée ! 
+      </p>
+      "
     infos: []
   - alias: Brabant Wallon
     ville: Brabant Wallon
