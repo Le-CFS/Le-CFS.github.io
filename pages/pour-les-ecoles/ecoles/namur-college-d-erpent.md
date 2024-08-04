@@ -14,7 +14,10 @@ bulle: ''
 activite_stage: false
 
 ---
+
 #### **Un cadre convivial pour vos enfants !**
+
+Chers parents, grands-parents, accompagnants,
 
 Voici les services proposés par le CFS en collaboration avec l'Asbl ADSL Stages aux élèves du Collège d'Erpent :
 
@@ -38,7 +41,7 @@ texte="Je m'inscris à une activité parascolaire"
 {% include utils/button.html  
 lien='/files/erpent-2023-2024-v2.pdf' couleur="info"  
 autre_page=true  
-texte="Mon dépliant 2023-2024"  
+texte="Mon dépliant 2024-2025"  
 %}
 
 ##### **Journées Pédagogiques**
@@ -60,3 +63,13 @@ texte="Je m'inscris à une journée pédagogique"
 autre_page=true  
 texte="Je m'inscris à un stage"  
 %}
+
+##### **Garderies - LES PETITS GARDONS**
+
+**_Activités libres animées • Etudes surveillées_**
+
+Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
+
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ESL4c0ZaSpBHjGsm5KY02MIBMzUjDJ3Q_bsDZJBsFfTPXw?e=0EtKlc' couleur="info" autre_page=true texte="Les Petits Gardons ARO" %}
+
+***

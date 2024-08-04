@@ -10,21 +10,22 @@ type_page: ecoles
 activite_parascolaire: true
 activite_garderie: false
 activite_pedagogique: false
+activite_stage: true
 bulle: ''
 
 ---
 #### **Un cadre convivial pour vos enfants !**
 
-Chers Parents,
+Chers parents, grands-parents, accompagnants, 
 
 C’est avec plaisir que le CFS vous propose des activités sportives et culturelles du lundi au vendredi après-midi en collaboration avec l’Ecole Communale Francophone Maternelle et Primaire.
 
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Bruxelles' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='/files/wemelle-maternelle-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024 - Maternelles" %}
+{% include utils/button.html lien='/files/wemelle-maternelle-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2024-2025 - Maternelles" %}
 
-{% include utils/button.html lien='/files/wemelle-primaire-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024 - Primaires" %}
+{% include utils/button.html lien='/files/wemelle-primaire-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2024-2025 - Primaires" %}
 
 ***
 

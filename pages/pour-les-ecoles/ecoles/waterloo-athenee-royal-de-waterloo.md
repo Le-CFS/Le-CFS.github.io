@@ -17,6 +17,8 @@ lieux: []
 ---
 #### **Un cadre convivial pour vos enfants !**
 
+Chers parents, grands-parents, accompagnants, 
+
 Voici les services proposés par le CFS aux élèves de l'Athénée de l’Athénée Royal de Waterloo :
 
 ***
@@ -32,7 +34,7 @@ autre_page=true
 texte="Je m'inscris à une activité parascolaire"  
 %}
 
-{% include utils/button.html lien='/files/parascolaire-waterloo-athenee-royal-2023-2024-v2.pdf' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EXuB_Rcz34xPoqOrYX7aJDwB9R2Zo2Bhzz9SyiPLqtW-VQ?e=ReAULn' couleur="info" autre_page=true texte="Mon dépliant 2024-2025" %}
 
 ***
 
@@ -42,7 +44,7 @@ texte="Je m'inscris à une activité parascolaire"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='/files/garderie-waterloo-arw-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Royal de Waterloo" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYDemXI6OiRPpAwluSl_hbUBmk2vsst9bgCr8yj2P1_6AA?e=MZPaDu' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Royal de Waterloo" %}
 
 Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 

@@ -16,6 +16,8 @@ activite_stage: true
 ---
 #### **Un cadre convivial pour vos enfants !**
 
+Chers parents, grands-parents, accompagnants,
+
 Voici les services proposés par le CFS aux élèves de l'ARO :
 
 ***
@@ -28,7 +30,7 @@ C'est avec plaisir que le CFS vous propose pour la 11ème année une activités 
 
 {% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='/files/ottignies-athenee-royal-paul-delvaux-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EUWK4EZCxuFJmHt7lTGNyuQBK-qVJtOD3KAC3X3_y8QVtA?e=CwyDB5' couleur="info" autre_page=true texte="Mon dépliant 2024-2025" %}
 
 ***
 
@@ -38,7 +40,7 @@ C'est avec plaisir que le CFS vous propose pour la 11ème année une activités 
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='/files/garderie-ottignies-aro-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Les Petits Gardons ARO" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EUr4ZcOujBVLnZpf-oQSVAQBY-6CnWZ-WRSu_Eu3AxF8fg?e=m0dQdN' couleur="info" autre_page=true texte="Les Petits Gardons ARO" %}
 
 Un coordinateur, Nicolas, est présent sur place pour assurer la gestion au quotidien et restera votre référent. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 

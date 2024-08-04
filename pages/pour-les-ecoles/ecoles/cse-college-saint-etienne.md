@@ -23,4 +23,4 @@ lien=' https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categor
 
 👉 Sélectionnez votre école dans le menu déroulant **_« Ecole »_**
 
-{% include utils/button.html lien='/files/parascolaire-cse-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Mon dépliant 2023-2024" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ERYlKqer8nVDrbMpvfjFOCgBuP6LD72LMMRSyBxQGS_s5A?e=rJfjKn' couleur="info" autre_page=true texte="Mon dépliant 2024-2025" %}
