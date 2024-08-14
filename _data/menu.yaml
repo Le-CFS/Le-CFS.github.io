@@ -29,9 +29,6 @@ cfs:
       url: "/cfs/les_centres_cfs/beauvechain"
     - title: Bierges
       url: "/cfs/les_centres_cfs/bierges"
-    - title: Bierges Horse's Corner
-      title_mobile: Horse's Corner
-      url: "/cfs/les_centres_cfs/bierges_horses_corner"
     - title: Court-Saint-Étienne
       title_mobile: Court-St-Étienne
       url: "/cfs/les_centres_cfs/cse"

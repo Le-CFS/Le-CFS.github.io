@@ -17,7 +17,7 @@ Le CFS propose des activités sportives ou culturelles qui débutent au mois de 
 
 Chaque enfant a le droit à une séance d’essai avant de s’engager de manière définitive.
 
-On peut s’inscrire en cours d’année en fonction des places disponibles (le prix est alors calculé au prorata des séances restantes) et des activités.
+Les inscriptions peuvent toujours être effectuées en cours d’année en fonction des places disponibles (le prix est alors calculé au prorata des séances restantes) et des activités.
 
 Nous appliquons pour nos activités [le protocole général des stages](/stages/protocole/general/) qui a fait ses preuves cet été.
 

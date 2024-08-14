@@ -8,13 +8,14 @@ menu: activites
 avantages:
 - Accès aux entrainements spécifiques à la Courtoise - Court-St-Etienne . 1 entrainement
   offert, réduction pour les autres
-- Carte 10 séances disponibles pour vos cours supplémentaires
-- Possibilité de commander votre tunique gymnique lors de l'inscription (en option)
 - Affiliation à la Fédération Francophone de Gymnastique (en option)
 - Groupes réduits (max. 10). Pour un apprentissage de qualité
 - 'Gym Pro : L''enfant doit maitriser toutes les bases de la gymnastique aux 4 agrès.
   Le moniteur se réserve le droit de changer de niveau un enfant qui n''aurait pas
   les acquis nécessaires.'
+- 2 séances par semaine minimum ou plus selon votre choix 
+- 1 compétition en interne en fin d’année 
+- Cette formule permet d’insister sur la technique et la propreté des mouvements du gymnique 
 link: ''
 description: Profitez des nombreux avantages de l'activité extrascolaire Gym Academy
   de l'ASBL CFS en vous affiliant au programme CFS Academy.

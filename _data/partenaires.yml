@@ -25,7 +25,7 @@ liste:
   categorie: Partenaires pédagogiques
   online: true
   logo: "/assets/images/logo-vitamine.jpg"
-  href: "https://www.vietamine.be/home3.asp?ClubID=543&LG=FR"
+  href: "https://vietamine.be/home3.asp?ClubID=543&LG=FR"
   bouton: ''
   couleur_bouton: ''
 - name: Les écuries au gré du Ruisseau
@@ -88,7 +88,7 @@ liste:
   categorie: partenaires pédagogiques
   online: true
   logo: "/assets/images/457-logosite-1.png"
-  href: https://yourtennischool.be/home3.asp?ClubID=457&LG=FR
+  href: https://www.yourtennischool.be/home3.asp?ClubID=457&LG=FR
   bouton: ''
   couleur_bouton: ''
 - name: Royal Tennis Club La Raquette
@@ -158,8 +158,8 @@ liste:
   categorie: Partenaires pédagogiques
   online: true
   logo: "/assets/images/ecurie-barre.jpg"
-  href: ''
-  bouton: ''
+  href: 'https://www.facebook.com/ecuriebarrelonzee/?locale=fr_FR '
+  bouton: 'Site web'
   couleur_bouton: ''
 - name: Interlingua
   categorie: partenaires pédagogiques

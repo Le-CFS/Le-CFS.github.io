@@ -51,7 +51,6 @@ Il est possible de s’inscrire en cours d’année en fonction des places dispo
 Le CFS propose des **activités sportives** ou **culturelles** qui débutent au mois de septembre et se déroulent tout au long de l’année scolaire.
 Nous organisons également des **activités parascolaires** uniquement pour les **élèves de l'école**.
 
-La plus ancienne **école de natation** du Brabant vous propose des cours particuliers, des cours de bébés nageurs, des cours collectifs, et un mini-club pour les plus aguerris.
-Vous trouverez également des **cours de natation** tous les mercredis à Jette à partir de 3 ans.
+La plus ancienne école de natation du Brabant Wallon vous propose des cours de bébés nageurs, des cours particuliers et collectifs, des cours d’aqua fun et aqua sirène et un mini club pour les plus aguerris. A Bruxelles, des cours de psycho aqua, des cours collectifs et un mini club vous sont proposés.
 
 Pour les plus aguerris, le CFS vous propose maintenant une formule **Academy** avec certains avantages dans différentes disciplines.
