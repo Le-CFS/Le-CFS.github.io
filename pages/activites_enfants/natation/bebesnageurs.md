@@ -28,7 +28,7 @@ Les parents doivent accompagner leur bébé dans l'eau durant toute la séance. 
 _Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser._
 
 📍 **Brabant Wallon**  
-Bierges - Le Provincial
+* Bierges – Piscine by CFS : Rue Provinciale 225, 1301 Bierges 
 
 📍 **Namur**  
-Liernu _(Eghezée)_ - Piscine de Liernu : *Rue du Gros Chêne 78 • 5310 Eghezée*
+* Liernu _(Eghezée)_ - Piscine de Liernu : *Rue du Gros Chêne 78 • 5310 Eghezée*

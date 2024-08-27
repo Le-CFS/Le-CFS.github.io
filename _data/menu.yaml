@@ -143,8 +143,12 @@ activites:
       url: "/activites/ecole_de_natation/bebes_nageurs/"
     - title: Cours particuliers
       url: "/activites/ecole_de_natation/cours_particuliers/"
-    - title: Cours de transition
-      url: "/activites/ecole_de_natation/cours_transition/"
+    - title: Aqua fun
+      url: "/activites/ecole_de_natation/aqua-fun/"
+    - title: Aqua Sirène
+      url: "/activites/ecole_de_natation/aqua-sirene/"
+    - title: Cours parents enfants
+      url: "/activites/ecole_de_natation/cours-parents-enfants/"
     - title: Mini-club
       url: "/activites/ecole_de_natation/mini_club/"
     - title: Psycho-aqua

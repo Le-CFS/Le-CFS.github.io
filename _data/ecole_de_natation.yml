@@ -14,14 +14,29 @@ provinces:
     href: "/activites/ecole_de_natation/cours_particuliers"
     bouton: Plus d'info
   - online: true
-    titre: Cours de transition
-    src: "/assets/images/boutonsactivites/ecoledenatation/coursdetransition.png"
-    href: "/activites/ecole_de_natation/cours_transition"
+    titre: Cours collectifs
+    src: "/assets/images/boutonsactivites/ecoledenatation/courscollectifs.png"
+    href: "/activites/ecole_de_natation/cours_collectifs"
+    bouton: Plus d'info
+  - online: true
+    titre: Aqua Fun
+    src: "/assets/new-images/aqua fun.png"
+    href: "/activites/ecole_de_natation/aqua-fun/"
+    bouton: Plus d'info
+  - online: true
+    titre: Aqua Sirène
+    src: "/assets/new-images/aqua sirene.png"
+    href: "/activites/ecole_de_natation/aqua-sirene/"
     bouton: Plus d'info
   - online: true
     titre: Mini Club
     src: "/assets/images/boutonsactivites/ecoledenatation/natminiclub.png"
     href: "/activites/ecole_de_natation/mini_club"
+    bouton: Plus d'info
+  - online: true
+    titre: Cours parents enfants
+    src: "/assets/new-images/c parentsenfants.png"
+    href: "/activites/ecole_de_natation/cours-parents-enfants/"
     bouton: Plus d'info
 - nom: Bruxelles
   online: true
@@ -35,4 +50,9 @@ provinces:
     titre: Cours collectifs
     src: "/assets/images/boutonsactivites/ecoledenatation/courscollectifs.png"
     href: "/activites/ecole_de_natation/cours_collectifs"
+    bouton: Plus d'info
+  - online: true
+    titre: Mini Club
+    src: "/assets/images/boutonsactivites/ecoledenatation/natminiclub.png"
+    href: "/activites/ecole_de_natation/mini_club"
     bouton: Plus d'info

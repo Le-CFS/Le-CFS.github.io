@@ -15,7 +15,14 @@ menu: activites
 
 <span style="font-size:20px">Psycho Aqua</span> <span style="font-size:16px">(3 à 5 ans)</span>
 
-Des sances d'accoutumance à l'eau réservées aux débutants entre 3,5 ans et 5 ans. Les séances de Psycho-Aqua se déroulent à raison de 3/4 d'heure par semaine, tout au long de l'année scolaire le mercredi après-midi.
+Les enfants découvrent des bases de la natation dans la petite profondeur : 
+
+* Accoutumance à l'eau. 
+* Apprendre à flotter et à nager à l'aide d'une planche/frite. 
+* Apprendre à mettre la tête sous l'eau. 
+* Passage des brevets canetons et pingouins en fin de cycle.  
 
 📍 **Bruxelles**  
-Jette - Collège Saint-Pierre
+Jette - Collège Saint-Pierre : Boulevard de Smet de Nayer 229, 1090 Jette <br>
+Neder-over-Heembeek - Piscine Neder : Rue de Lombartzyde, 1120 Neder-Over-Heembeek <br>
+WSPI - SportCity : Avenue Salomé 2, 1150 Woluwe-Saint-Pierre 

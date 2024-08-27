@@ -26,9 +26,9 @@ Un apprentissage individuel durant lequel l'élève profite pleinement de la rel
 Horaires disponibles : le choix de l'horaire se fait au moment de l'inscription. Pour visualiser les horaires disponibles, vous pouvez commencer une inscription sans la finaliser.
 
 📍 **Brabant Wallon**  
-Bierges - Le Provincial  
-Ottignies - Collège du Christ-Roi  
-Ottignies - Athénée Royal Paul Delvaux
+Bierges – Piscine by CFS : Rue Provinciale 225, 1301 Bierges <br>
+Ottignies - Collège du Christ-Roi : Rue de Renivaux 25, 1340 Ottignies <br>
+Ottignies - Athénée Royal Paul Delvaux : Avenue des Villas 14, 1340 Ottignies 
 
 📍 **Namur**  
 Liernu _(Eghezée)_ - Piscine de Liernu : *Rue du Gros Chêne 78 • 5310 Eghezée*

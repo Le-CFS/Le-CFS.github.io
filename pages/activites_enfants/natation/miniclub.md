@@ -28,5 +28,5 @@ Le mini-club est divisé en 2 niveaux afin de faire progresser tous les enfants 
 La plus ancienne école de natation du Brabant Wallon (depuis 1981) - Passage de brevets en fin de cycle.
 
 📍 **Brabant Wallon**  
-Ottignies - Collège du Christ-Roi  
-Ottignies - Athénée Royal Paul Delvaux
+* Ottignies : Collège du Christ-Roi : Rue de Renivaux 25, 1340 Ottignies 
+* Ottignies : Athénée Royal Paul Delvaux : Avenue des Villas 14, 1340 Ottignies 
