@@ -6904,9 +6904,7 @@ stages:
                   <p>Le Judo est un sport pour tous qui procure un véritable équilibre. Activité de détente et de plaisir, le Judo est une discipline basée sur l’échange et la progression. L’apprentissage se fait de manière progressive en fonction des aptitudes de l'enfant, ce qui permet à chacun d’évoluer à son rythme.</p>
                   <p>Chaque journée de stage est divisée en deux parties. La matinée est consacrée à la pratique du Judo. L'après-midi, les enfants participent à des activités Fun & multisports.</p>
                  "
-    infos:
-    - alias: kimono
-      info_line: "Le CFS met à disposition gratuitement un kimono pour chaque enfant tout au long de la semaine. Il est également possible de commander un kimono CFS pour un tarif de 20€ afin de repartir avec en fin de semaine."
+    infos: []
   activation_onglets: true
 - name: Escalade & VTT
   categorie: Découvertes sportives et culturelles
@@ -8560,7 +8558,7 @@ stages:
       un ? Ce stage est fait pour toi.</p><p>Nous t'avons concocté un programme <strong>varié</strong>,
       <strong>fun</strong> et <strong>ludique</strong>.</p><p>Une partie de la journée
       sera consacrée à la découverte et à la <strong>manipulation de drones</strong>,
-      aussi bien <strong>aquatiques </strong>que<strong> terrestres</strong> et <strong>aériens</strong>.
+      aussi bien terrestres</strong> et <strong>aériens</strong>.
       Tu seras accompagné par un télépilote professionnel diplômé.</p><p>Tu apprendras
       à piloter une multitude d’appareils dans différentes situations, exercices et
       concours, et tu pourras même participer à tes premières courses de drones.</p><p>L'autre
