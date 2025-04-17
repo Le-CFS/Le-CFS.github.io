@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: "Animateur(-trice) Sportif(-ve) : Ecole de natation et cours adulte à Bierges"
-online: true
+online: false
 banner: "/assets/images/2024-04-09-animateur-natation.jpg"
 description: "Animateur(-trice) Sportif(-ve) : Ecole de natation et cours adulte à Bierges"
 image: "/assets/images/2024-04-09-animateur-natation.jpg"
