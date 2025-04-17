@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: "Stage rémunéré Assistant Administratif & Commercial"
-online: true
+online: false
 banner: "/assets/images/2024-04-09-assistant.jpg"
 description: "Stage rémunéré Assistant Administratif & Commercial"
 image: "/assets/images/2024-04-09-assistant.jpg"
