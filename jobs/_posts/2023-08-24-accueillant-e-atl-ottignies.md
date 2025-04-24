@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Accueillant(e) ATL à Ottignies.
-online: true
+online: false
 banner: "/assets/images/banner-ottignies-atl.jpg"
 description: Le CFS recrute ! Accueillant(e) ATL à Ottignies.
 image: "/assets/images/banner-ottignies-atl.jpg"

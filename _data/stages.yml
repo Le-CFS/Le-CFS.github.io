@@ -11467,6 +11467,24 @@ Des jeux et promenades dans la nature sont organisés, dans un environnement fam
       - alias: navettes
         info_line: "Les déplacements en transport en commun sont assurés par nos soins."
   activation_onglets: false
+- name: Découverte Anglais
+  img: "/assets/images/stage-enfant-apprenti-velo-500x500.jpg"
+  inscription: ''
+  categorie: Activités sportives
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 4-6 ans
+    description: "<p><i>Stage en collaboration avec <strong>EcoleDeLangues</strong></i></p>
+                  <p>Ce stage propose une immersion complète en anglais pour les enfants avides de découvertes !</p>
+                  <p>Chaque matin, les enfants découvrent l'anglais à travers un nouveau thème, stimulant et amusant. Au programme : des ateliers ludiques pour découvrir ou renforcer les bases de l'anglais à travers des jeux, des chansons et des activités interactives. Apprendre l'anglais devient un véritable plaisir !</p>
+                  <p>L'après-midi, place à l'action et au dépassement de soi avec une variété de jeux sportifs encadrés également en anglais par des animateurs dynamiques et passionnés : basket-ball, football, athlétisme, jeux de raquettes...</p>
+                  <p>Toutes les occasions sont bonnes pour se dépenser, s'amuser et développer son esprit d'équipe !</p>
+                  "
+  activation_onglets: false
 - name: Tennis
   img: "/assets/images/stage-tennis-2024.png"
   inscription: ''
