@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Accueillant(e) extrascolaire à Nil-Saint-Vincent.
-online: true
+online: false
 banner: "/assets/images/cfs_recrute_accueillant-e-_extrascolaire_nil.jpg"
 description: Le CFS recrute ! Accueillant(e) extrascolaire à Nil-Saint-Vincent.
 image: "/assets/images/cfs_recrute_accueillant-e-_extrascolaire_nil.jpg"

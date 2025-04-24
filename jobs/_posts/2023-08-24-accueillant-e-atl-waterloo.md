@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Accueillant(e) ATL à Waterloo.
-online: true
+online: false
 banner: "/assets/images/banner-waterloo-atl.jpg"
 description: Le CFS recrute ! Accueillant(e) ATL à Waterloo.
 image: "/assets/images/banner-waterloo-atl.jpg"
