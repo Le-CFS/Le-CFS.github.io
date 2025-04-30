@@ -14,11 +14,11 @@ liste:
   href: "https://www.ilplatform.be/"
   bouton: ''
   couleur_bouton: ''
-- name: My Success
+- name: EcoleDeLangues.be
   categorie: Partenaires pédagogiques
-  online: false
+  online: true
   logo: "/assets/images/logo-my-success.png"
-  href: "https://www.mysuccess.be/"
+  href: "https://ecoledelangues.be/fr/"
   bouton: ''
   couleur_bouton: ''
 - name: Vietamine
