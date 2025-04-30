@@ -17,7 +17,7 @@ liste:
 - name: EcoleDeLangues.be
   categorie: Partenaires pédagogiques
   online: true
-  logo: "/assets/images/logoecolelanguess.png"
+  logo: "/assets/images/logoecolelangues.png"
   href: "https://ecoledelangues.be/fr/"
   bouton: ''
   couleur_bouton: ''
