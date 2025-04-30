@@ -3665,25 +3665,22 @@ stages:
 - name: Immersion Anglais
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stage-enfant-immersion-anglais-500x500.jpg"
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   activation_onglets: false
   inscription: ''
   location:
   - alias: Immersion anglais
-    ville: Bruxelles
-    age: 8-14 ans
-    description: "<p>Do you want to learn English ? \U0001F600</p><p>Ce stage d'immersion
-      propose un apprentissage de l'anglais au travers d'activités pédagogiques diverses
-      et ludiques : cours théoriques, jeux, sports, visites culturelles.</p><p>L'ensemble
-      des activités proposées se déroule en anglais.</p><p>Les formateurs sont soucieux
-      d'un apprentissage amusant et performant, respectueux des capacités de chaque
-      enfant.</p><p>Une sortie culturelle et ludique est prévue un jour de la semaine
-      de stage (ex : aller voir un film au cinéma).</p>"
-    infos:
-    - alias: Transports
-      info_line: Les transports sont assurés par le CFS.
+    ville: Brabant Wallon
+    age: 7-12 ans
+    description: "<p><i>Stage en collaboration avec <strong>EcoleDeLangues</strong></i></p>
+                  <p>Ce stage propose une immersion complète en anglais pour les enfants avides de découvertes !</p>
+                  <p>Chaque matin, les enfants découvrent l'anglais à travers un nouveau thème, stimulant et amusant. Au programme : des ateliers ludiques pour découvrir ou renforcer les bases de l'anglais à travers des jeux, des chansons et des activités interactives. Apprendre l'anglais devient un véritable plaisir !</p>
+                  <p>L'après-midi, place à l'action et au dépassement de soi avec une variété de jeux sportifs encadrés également en anglais par des animateurs dynamiques et passionnés : basket-ball, football, athlétisme, jeux de raquettes...</p>
+                  <p>Toutes les occasions sont bonnes pour se dépenser, s'amuser et développer son esprit d'équipe !</p>
+                  "
+    infos: []
 - name: Futsal Road to World Cup 2022
   categorie: Activités sportives
   img: "/assets/images/stage_enfant_footballworldcup22.jpg"
@@ -10786,23 +10783,20 @@ stages:
   img: "/assets/images/stages/activitesartistiquesetloisirs/immersioneerlandais.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 8-14 ans
-    description: "<p><strong><em>Wil je Nederlands leren ? </em></strong></p><p>Ce
-      stage d'immersion propose un apprentissage du néerlandais au travers d'activités
-      pédagogiques diverses et ludiques : cours théoriques, jeux, sports, visites
-      culturelles.</p><p>L'ensemble des activités proposées se déroule en néerlandais.</p><p>Les
-      formateurs sont soucieux d'un apprentissage amusant et performant, respectueux
-      des capacités de chaque enfant.</p><p>Une sortie culturelle et ludique est prévue
-      un jour de la semaine de stage (ex : aller voir un film au cinéma).</p>"
-    infos:
-    - alias: Transports
-      info_line: Les transports sont assurés par le CFS.
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 7-12 ans
+    description: "<p><i>Stage en collaboration avec <strong>EcoleDeLangues</strong></i></p>
+                  <p>Ce stage propose une immersion complète en anglais pour les enfants avides de découvertes !</p>
+                  <p>Chaque matin, les enfants découvrent l'anglais à travers un nouveau thème, stimulant et amusant. Au programme : des ateliers ludiques pour découvrir ou renforcer les bases de l'anglais à travers des jeux, des chansons et des activités interactives. Apprendre l'anglais devient un véritable plaisir !</p>
+                  <p>L'après-midi, place à l'action et au dépassement de soi avec une variété de jeux sportifs encadrés également en anglais par des animateurs dynamiques et passionnés : basket-ball, football, athlétisme, jeux de raquettes...</p>
+                  <p>Toutes les occasions sont bonnes pour se dépenser, s'amuser et développer son esprit d'équipe !</p>
+                  "
+    infos: []
   activation_onglets: true
 - name: Ma déco
   img: "/assets/images/stages/activitesartistiquesetloisirs/madeco.png"
@@ -11470,7 +11464,7 @@ Des jeux et promenades dans la nature sont organisés, dans un environnement fam
 - name: Découverte Anglais
   img: "/assets/images/stage-enfant-apprenti-velo-500x500.jpg"
   inscription: ''
-  categorie: Activités sportives
+  categorie: Découvertes sportives et culturelles
   online: true
   nouveau: true
   stage_une: false
