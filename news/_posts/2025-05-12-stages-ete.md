@@ -10,8 +10,8 @@ seo:
   keywords:
   type: article
   description: Stages été
-  img: '/assets/images/news-20240523.png'
-banner: '/assets/images/news-20240523.png'
+  img: '/assets/images/banner-ete-2.png'
+banner: '/assets/images/banner-ete-2.png'
 
 ---
 
