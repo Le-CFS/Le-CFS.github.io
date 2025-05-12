@@ -3,7 +3,7 @@ layout: post
 menu: cfs
 title: Stages été
 infos:
-  date: 0024-05-23
+  date: 0025-05-12
   teaser: ""
 tags:
 seo:
