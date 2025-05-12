@@ -15,9 +15,8 @@ banner: '/assets/images/news-20240523.png'
 
 ---
 
-Le soleil arrive … et les stages d’été aussi ! 🤩
-
-Découvrez nos stages sportifs, fun & culturels. Il y en a pour tous les goûts ! ✨
+L'été approche… et nos stages aussi ! ☀️
+Des activités sportives, fun et culturelles vous attendent. Il y en a pour tous les styles !
 
 <div class="d-flex justify-content-center mb-3">
   <a href="https://www.lecfs.be/stages/" class="btn btn-info-filled " style="color: #fff !important;">Je réserve mon stage !</a>
@@ -25,11 +24,11 @@ Découvrez nos stages sportifs, fun & culturels. Il y en a pour tous les goûts 
 
 📆Dates :
 
-Du 08 juillet au 23 août
+Du 07 juillet au 22 août
 
 Mais également pendant les vacances néerlandophones :
 
-Du 1er juillet au 05 juillet et du 26 au 30 août
+Du 1er juillet au 04 juillet et du 25 au 29 août
 
 🕒Horaires :
 
@@ -41,7 +40,10 @@ Une garderie est organisée dès 08h00 et jusque 18h00
 
 💥Quelques idées de stages :
 
-Apprenti Vélo, Aventure, Koh Lanta, Danse, Gymnastique, Baby Gym, Culturotop, Football Euro 2024, Ninja Warriors, Judo, Artiste, Cirque, Tennis de Table, Mini Tennis, Top Chef, Psycho Créa, Psycho Découverte, Equitation, Drones & Lasers et des centaines d’autres à découvrir !
+Atelier Créatif, Aventure, Codage, Sports Raquettes, Danse, Psycho Découverte, Equitation,
+Escalade, Football, Evasion, Gymnastique, Judo, Kids Fun, Initiation Vélo, Mini Cirque, Top
+Chef, Cosmétique &amp; Pâtisserie, Psycho Créa, Vidéo Reportage, Bande Dessinée, Quad,
+Sports Passion, et beaucoup d’autres à découvrir !
 
 👶Groupes d’âge : de 2,5 à 18 ans
 
