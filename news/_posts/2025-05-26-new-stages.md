@@ -1,26 +1,39 @@
 ---
 layout: post
 menu: cfs
-title: Stages été
+title: Stages été - Nouveautés
 infos:
-  date: 0025-05-12
+  date: 0025-05-26
   teaser: ""
 tags:
 seo:
   keywords:
   type: article
   description: Stages été
-  img: '/assets/images/banner-ete-2.png'
-banner: '/assets/images/banner-ete-2.png'
+  img: '/assets/images/banner-nouveautes.png'
+banner: '/assets/images/banner-nouveautes.png'
 
 ---
 
-L'été approche… et nos stages aussi ! ☀️
-Des activités sportives, fun et culturelles vous attendent. Il y en a pour tous les styles !
+Toujours à la recherche du stage qui te correspond ? Découvre toutes nos nouveautés pour ces vacances d’été 🥰
 
 <div class="d-flex justify-content-center mb-3">
   <a href="https://www.lecfs.be/stages/" class="btn btn-info-filled " style="color: #fff !important;">Je réserve mon stage !</a>
 </div>
+
+✨Au programme : 
+• Mini Pâtissier, de 5 à 7 ans 🧁
+• Meilleur Pâtissier, de 8 à 12 ans 🎂
+• Mini Savant, de 5 à 7 ans 🧪
+• Mini Padel – En collaboration avec Royal Laeken Tennis Club, de 5 à 7 ans 🥍
+• Mission Découverte, de 6 à 8 ans 💦
+• Multi Créa, de 5 à 8 ans 🎨
+• Quad – En collaboration avec Roc Events, de 4 à 16 ans 💥
+• Sports Passion, de 8 à 12 ans 🏸
+• Arts Martiaux, de 8 à 14 ans 🥋
+• Journée à Profondeville, de 8 à 16 ans 🛟
+• Cosmétique & Pâtisserie, de 8 à 14 ans 🍰
+
 
 📆Dates :
 
@@ -38,14 +51,6 @@ Une garderie est organisée dès 08h00 et jusque 18h00
 
 📍Bruxelles – Brabant Wallon – Liège
 
-💥Quelques idées de stages :
-
-Atelier Créatif, Aventure, Codage, Sports Raquettes, Danse, Psycho Découverte, Equitation,
-Escalade, Football, Evasion, Gymnastique, Judo, Kids Fun, Initiation Vélo, Mini Cirque, Top
-Chef, Cosmétique &amp; Pâtisserie, Psycho Créa, Vidéo Reportage, Bande Dessinée, Quad,
-Sports Passion, et beaucoup d’autres à découvrir !
-
-👶Groupes d’âge : de 2,5 à 18 ans
 
 ℹ️ 𝙄𝙣𝙛𝙤𝙨 𝙚𝙩 𝙍𝙚́𝙨𝙚𝙧𝙫𝙖𝙩𝙞𝙤𝙣𝙨 :<br>
 📞 010/22.73.96<br>
