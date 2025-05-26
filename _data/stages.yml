@@ -927,58 +927,50 @@ s&nbsp;amuser à apprendre !</p><p>Des intempéries ? Pas de soucis ! Nos 3 ter
     - alias: Navette
       info_line: Certaines activités demandent un déplacement en navette assuré par
         nos soins.
-- name: Basket "Marc Deheneffe"
-  categorie: Internat
-  img: "/assets/images/basket.png"
-  online: false
+- name: Mini Basket 
+  categorie: Activités sportives
+  img: "/assets/images/basket-mini.png"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
   inscription: ''
   location:
-  - alias: Malonne
-    ville: Malonne
-    age: 11-18 ans
-    description: '<p><em>En collaboration avec l''</em><strong><em>ADSL</em></strong></p><p>Perfectionnement
-      en formule de stage internat pour joueurs ayant au moins un an de pratique du
-      basketball en club ! Nouvelle formule de stage "THE BEST 5".<br><br>Nous vous
-      proposons un stage de perfectionnement sous la direction de coaches expérimentés
-      dans l''apprentissage du basketball chez les jeunes !</p><p>Différents thèmes
-      sont proposés avec un degré de difficulté correspondant à l''âge des joueurs
-      et des joueuses. Citons quelques exemples : techniques de shoot, technique de
-      course, mouvements sans ballon, astuces défensives, maniement de ballon... Les
-      ressources sont énormes ! Le tout, chapeauté par un directeur de camp (Head
-      Coach) et l''ex-joueur international namurois <strong>MARC DEHENEFFE</strong>.<br><br>L''objectif
-      de notre équipe de coachs : permettre à chaque joueur et joueuse d''élever son
-      niveau de jeu !</p>'
+  - alias: Bravant
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: '<p><em>En collaboration avec le </em><strong><em>Basket Club Dylois Wavre</em></strong></p>
+    <p>Votre enfant veut découvrir l’univers dynamique du basket ? </p>
+    <p>Ce stage de basket allie apprentissage des fondamentaux et plaisir du jeu dans une
+ambiance conviviale et encadrée.</p>
+<p>Tout au long de la semaine, les enfants s’initient ou se perfectionnent aux techniques
+de dribble, de passe, de tir et de placement sur le terrain. L’accent est mis sur le jeu
+collectif, la coordination et la compréhension des règles.</p>'
     infos:
-    - alias: accueil
-      info_line: Accueil des stagiaires dimanche soir à 19h.
-    - alias: cadeau
-      info_line: Cadeaux pour chaque participant 
-- name: Jeux Vidéo & Sports
-  categorie: Internat
-  img: "/assets/images/jeux-video.png"
-  online: false
+    - alias: Garderie
+      info_line: Inscription sur place ! Garderie payante de 08h15 à 09h00 et de 16h00 à 17h00 (5€). Pas de garderie après 17h.
+- name: Basket
+  categorie: Activités sportives
+  img: "/assets/images/basket-wavre.png"
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
   inscription: ''
   location:
-  - alias: Godinne
-    ville: Godinne
-    age: 11-14 ans
-    description: "<p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p><p>Du
-      jeu mais aussi du sport ! Nouveau ! Console Nintendo SWITCH + nouveau jeux et
-      Battles Royales! Xbox 1, kinect, WII, Playstation 4, WII U… Aventure, sport,
-      rock… tournois individuels et par groupe, jeux projetés sur grand écran + Battles
-      ... Le tout dans une super ambiance !</p><p>Côté sports : sports en salle et
-      extérieur, frisbee, badminton, piscine détente, base-ball…</p>"
-    infos:
-    - alias: Accueil
-      info_line: Accueil des stagiaires le dimanche soir à 19h.
-    - alias: matériel
-      info_line: Venir avec son VTT + casque obligatoire.
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p><em>En collaboration avec le </em><strong><em>Basket Club Dylois Wavre</em></strong></p>
+    <p>Votre enfant veut découvrir l’univers dynamique du basket ? </p>
+    <p>Ce stage de basket allie apprentissage des fondamentaux et plaisir du jeu dans une
+ambiance conviviale et encadrée.</p>
+<p>Tout au long de la semaine, les enfants s’initient ou se perfectionnent aux techniques
+de dribble, de passe, de tir et de placement sur le terrain. L’accent est mis sur le jeu
+collectif, la coordination et la compréhension des règles.</p>"
+  infos:
+    - alias: Garderie
+      info_line: Inscription sur place ! Garderie payante de 08h15 à 09h00 et de 16h00 à 17h00 (5€). Pas de garderie après 17h.
 - name: Fun Sports Nautic
   categorie: Internat
   img: "/assets/images/sport-nautic.png"
