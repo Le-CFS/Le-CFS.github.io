@@ -63,13 +63,6 @@ liste:
   href: "http://lapetitesource.be/"
   bouton: ''
   couleur_bouton: ''
-- name: Mbo Mpenza
-  categorie: partenaires pédagogiques
-  online: false
-  logo: "/assets/images/mcc-logo.jpg"
-  href: "https://mbompenza.be/mbo-mpenza-challenge/a-propos"
-  bouton: ''
-  couleur_bouton: ''
 - name: Mokko Padel Club
   categorie: partenaires pédagogiques
   online: false
@@ -238,18 +231,11 @@ liste:
   href: https://www.koalacrazygames.be/
   bouton: Site Web
   couleur_bouton: ''
-- name: ACE Tennis Academy asbl
-  categorie: partenaires pédagogiques
-  online: false
-  logo: "/assets/images/acetennis.png"
-  href: http://www.acetennis.be/home3.asp?ClubID=120&LG=FR
-  bouton: Site Web
-  couleur_bouton: ''
-- name: Royal Laeken Tennis Club
-  categorie: partenaires pédagogiques
+- name: Ice Skating Posseidon
+  categorie: Partenaires de stages
   online: true
-  logo: "/assets/images/royalaekentennisclub.png"
-  href: http://www.rltc.be/
+  logo: "/assets/images/logo-default.jpg"
+  href: https://fr.tripadvisor.be/Attraction_Review-g1136495-d5524042-Reviews-Ice_Skating_Poseidon-Woluwe_Saint_Lambert_Brussels.html
   bouton: Site Web
   couleur_bouton: ''
 - name: Padel Events asbl
@@ -392,13 +378,6 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: EPST Plongée
-  categorie: partenaires pédagogiques
-  logo: "/assets/images/partenaires/epst_plongee.png"
-  href: http://www.epst.be/www/index.php?option=com_content&task=view&id=3&Itemid=1
-  online: false
-  bouton: Site Web
-  couleur_bouton: ''
 - name: Futsal Jette
   categorie: partenaires pédagogiques
   logo: "/assets/images/futsal-jette.jpg"
@@ -427,11 +406,11 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: Mini-Excel Wavre
+- name: Basket Club Dylois Wavre
   categorie: Partenaires pédagogiques
-  logo: "/assets/images/partenaires/miniexcel.png"
-  href: https://www.wavre.be/football-en-salle/mini-excel-wavre-limal
-  online: false
+  logo: "/assets/images/basket-club-dylois.png"
+  href: https://tst.basketclubs.be/dyloiswavre/
+  online: true
   bouton: Site Web
   couleur_bouton: ''
 - name: Max Extrême
@@ -462,18 +441,18 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: Royal RB Bowl
+- name: BW Event
   categorie: Partenaires de stages
-  logo: "/assets/images/partenaires/rbbowl.png"
-  href: https://www.royalbowl.be/
-  online: false
+  logo: "/assets/images/bw-events.png"
+  href: https://your-events.be/
+  online: true
   bouton: Site Web
   couleur_bouton: ''
 - name: Tempo Gym
   categorie: partenaires pédagogiques
-  logo: "/assets/images/partenaires/tempogym.png"
+  logo: "/assets/images/tempo-gym.png"
   href: http://www.tempogymjette.be/
-  online: True
+  online: true
   bouton: Site Web
   couleur_bouton: ''
 - name: Walibi
@@ -490,11 +469,11 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: Jump XL
+- name: Aqualibi
   categorie: Partenaires de stages
-  logo: "/assets/images/partenaires/jumpxl.png"
-  href: https://jump-xl.com/
-  online: false
+  logo: "/assets/images/aqualibi.png"
+  href: https://www.walibi.be/aqualibi/fr
+  online: true
   bouton: Site Web
   couleur_bouton: ''
 - name: Aventure Parc
@@ -511,32 +490,32 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: Bellicon
-  categorie: ''
-  logo: "/assets/images/partenaires/bellicon.png"
-  href: https://www.bellicon.com/int_fr
-  online: false
-  bouton: Site Web
-  couleur_bouton: ''
-- name: SET-JET Fleur Bleue
-  categorie: partenaires pédagogiques
-  logo: "/assets/images/partenaires/tennisdetable.png"
-  href: https://www.rsjfb.net/
+- name: MI 12 - Fun center
+  categorie: Partenaires de stages
+  logo: "/assets/images/mi12.png"
+  href: https://mi12funcenter.be/
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: My Lab
-  categorie: partenaires pédagogiques
-  logo: "/assets/images/partenaires/photoargentique.png"
-  href: https://www.myriamandries.be/
+- name: SET-JET Fleur Bleue
+  categorie: Ice Skating Posseidon
+  logo: "/assets/images/partenaires/tennisdetable.png"
+  href: https://www.rsjfb.net/
   online: false
   bouton: Site Web
   couleur_bouton: ''
-- name: Krav Maga Bruxelles
+- name: Be Tennis School
   categorie: partenaires pédagogiques
-  logo: "/assets/images/partenaires/kravmaga.png"
-  href: https://www.kravmagabruxelles.be/
-  online: false
+  logo: "/assets/images/bts-bxl.png"
+  href: https://www.brusselstennisschool.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
+- name: Castle Club
+  categorie: partenaires pédagogiques
+  logo: "/assets/images/castle-club.png"
+  href: https://castleclub.be/
+  online: true
   bouton: Site Web
   couleur_bouton: ''
 - name: Adsl
@@ -553,11 +532,11 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: Trixxo
+- name: SPRB (Service Public Régional de Bruxelles)
   categorie: "Partenaires d'entreprises"
-  logo: "/assets/images/partenaire-trixxo.png"
-  href: https://www.trixxo.be/fr/
-  online: false
+  logo: "/assets/images/sprb.jpg"
+  href: https://servicepublic.brussels/
+  online: true
   bouton: Site Web
   couleur_bouton: ''
 - name: Ride Your Future
