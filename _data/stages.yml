@@ -581,7 +581,7 @@ s&nbsp;amuser à apprendre !</p><p>Des intempéries ? Pas de soucis ! Nos 3 ter
       info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
         disposition. Vous pouvez bien sûr apporter votre propre matériel.
     - alias: Garderie
-      info_line: Inscription sur place ! Garderie de 08h00 à 09h00 et de 16h00 à 17h30 (12,5€).
+      info_line: Inscription sur place ! Garderie de 08h00 à 09h00 et de 16h00 à 17h30 (12,5€).
 - name: Tennis 
   categorie: Activités sportives
   img: "/assets/images/tennis-ytsw.png"
