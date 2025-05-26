@@ -450,7 +450,7 @@ liste:
   couleur_bouton: ''
 - name: Tempo Gym
   categorie: partenaires pédagogiques
-  logo: "/assets/images/tempo-gym.png"
+  logo: "/assets/images/tempo-gym.jpg"
   href: http://www.tempogymjette.be/
   online: true
   bouton: Site Web
@@ -518,9 +518,9 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: Adsl
+- name: Adsl Stages
   categorie: Partenaires de stages
-  logo: "/assets/images/partenaires/adsl.png"
+  logo: "/assets/images/adsl-acces.png"
   href: https://www.adslstages.be/
   online: false
   bouton: Site Web
