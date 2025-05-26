@@ -275,7 +275,7 @@ liste:
   couleur_bouton: ''
 - name: ADSL Stages
   categorie: partenaires pédagogiques
-  logo: "/assets/images/adsl-access.png"
+  logo: "/assets/images/adsl-acces.png"
   href: https://www.adslstages.be/
   online: true
   bouton: Site Web
