@@ -2,7 +2,7 @@
 liste:
 - name: R.W. Limal  
   categorie: Partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/logo-rw-limal.jpg"
   href: "https://www.facebook.com/RoyalWavreLimal/?locale=fr_FR"
   bouton: ''
@@ -65,14 +65,14 @@ liste:
   couleur_bouton: ''
 - name: Mbo Mpenza
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/mcc-logo.jpg"
   href: "https://mbompenza.be/mbo-mpenza-challenge/a-propos"
   bouton: ''
   couleur_bouton: ''
 - name: Mokko Padel Club
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/mokko.png"
   href: https://www.mokkopadelproject.be/
   bouton: ''
@@ -100,7 +100,7 @@ liste:
   couleur_bouton: ''
 - name: Tennis Padel Club l'Abbaye
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/tennisclublabbaye.jpg"
   href: https://tcabbaye.wordpress.com/
   bouton: ''
@@ -128,7 +128,7 @@ liste:
   couleur_bouton: ''
 - name: Speed 4 Fun
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/speed4fun-1.jpg"
   href: https://www.speed4fun.be/
   bouton: ''
@@ -142,7 +142,7 @@ liste:
   couleur_bouton: ''
 - name: Lamogoya
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/lamogoya.jpg"
   href: http://www.lamogoya.com/
   bouton: Site web
@@ -170,14 +170,14 @@ liste:
   couleur_bouton: ''
 - name: LSA Perwez Beach Soccer
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/lsa.jpg"
   href: https://www.facebook.com/LSA-Perwez-Beach-Soccer-357436874880026/
   bouton: Site web
   couleur_bouton: ''
 - name: Newteam Beach Soccer Brussels
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/new-team-beach-soccer.png"
   href: https://www.facebook.com/newteambeachsoccer/
   bouton: ''
@@ -198,7 +198,7 @@ liste:
   couleur_bouton: ''
 - name: FC Walhain
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/logo_partenaire_fcwalhain.jpg"
   href: https://www.fc-walhain.be/
   bouton: Site web
@@ -212,7 +212,7 @@ liste:
   couleur_bouton: ''
 - name: 'Ritter Klub '
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/ritterklub.png"
   href: https://ritterklub.be/
   bouton: Site web
@@ -240,7 +240,7 @@ liste:
   couleur_bouton: ''
 - name: ACE Tennis Academy asbl
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/acetennis.png"
   href: http://www.acetennis.be/home3.asp?ClubID=120&LG=FR
   bouton: Site Web
@@ -254,7 +254,7 @@ liste:
   couleur_bouton: ''
 - name: Padel Events asbl
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/padeleventsasbl.png"
   href: https://padeleventsacademy.be/
   bouton: Site Web
@@ -268,7 +268,7 @@ liste:
   couleur_bouton: ''
 - name: RW WALHAIN
   categorie: partenaires pédagogiques
-  online: true
+  online: false
   logo: "/assets/images/rwalhain.png"
   href: http://www.rw-walhain.be/
   bouton: Site Web
@@ -317,7 +317,7 @@ liste:
   couleur_bouton: ''
 - name: Brussel Monkeys Climbing
   categorie: Partenaires de stages
-  online: true
+  online: false
   logo: "/assets/images/brusselmonkeysclimbing.png"
   href: https://www.brusselsmonkeysclimbing.com/
   bouton: Site Web
@@ -396,7 +396,7 @@ liste:
   categorie: partenaires pédagogiques
   logo: "/assets/images/partenaires/epst_plongee.png"
   href: http://www.epst.be/www/index.php?option=com_content&task=view&id=3&Itemid=1
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Futsal Jette
@@ -466,14 +466,14 @@ liste:
   categorie: Partenaires de stages
   logo: "/assets/images/partenaires/rbbowl.png"
   href: https://www.royalbowl.be/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Tempo Gym
   categorie: partenaires pédagogiques
   logo: "/assets/images/partenaires/tempogym.png"
   href: http://www.tempogymjette.be/
-  online: false
+  online: True
   bouton: Site Web
   couleur_bouton: ''
 - name: Walibi
@@ -494,7 +494,7 @@ liste:
   categorie: Partenaires de stages
   logo: "/assets/images/partenaires/jumpxl.png"
   href: https://jump-xl.com/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Aventure Parc
@@ -536,7 +536,7 @@ liste:
   categorie: partenaires pédagogiques
   logo: "/assets/images/partenaires/kravmaga.png"
   href: https://www.kravmagabruxelles.be/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Adsl
@@ -557,7 +557,7 @@ liste:
   categorie: "Partenaires d'entreprises"
   logo: "/assets/images/partenaire-trixxo.png"
   href: https://www.trixxo.be/fr/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Ride Your Future
@@ -606,6 +606,6 @@ liste:
   categorie: 'partenaires de stages'
   logo: "/assets/images/partenaire-go-ventura-rvb-shadow-alpha.png"
   href: https://go-ventura.be/accueil-wavre/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
