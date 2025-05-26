@@ -573,23 +573,16 @@ stages:
      <p>Votre enfant veut découvrir les joies du tennis ?</p>
      <p>Il est déjà joueur et veut progresser en s&nbsp;amusant pendant les vacances ?</p> 
      <p>Notre stage de tennis associe l'apprentissage du geste technique au plaisir du jeu
-dans une ambiance familiale et le cadre exceptionnel du Royal Charles-Quint à
-Ganshoren.</p>
-<p>Nos professeurs et animateurs appuient leur pédagogie sur les méthodes d&nbsp;enseignement de la fédération belge de tennis et sur son fondement essentiel,
-s&nbsp;amuser à apprendre !
-</p>
-
- <p>Des intempéries ? Pas de soucis ! Nos 3 terrains Indoor peuvent accueillir votre
-enfant en cas de mauvais temps.
+dans une ambiance familiale et le cadre exceptionnel du Royal Charles-Quint àGanshoren.</p><p>Nos professeurs et animateurs appuient leur pédagogie sur les méthodes d&nbsp;enseignement de la fédération belge de tennis et sur son fondement essentiel,
+s&nbsp;amuser à apprendre !</p><p>Des intempéries ? Pas de soucis ! Nos 3 terrains Indoor peuvent accueillir votre enfant en cas de mauvais temps.
 </p>"
     infos:
     - alias: Matériel
       info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
         disposition. Vous pouvez bien sûr apporter votre propre matériel.
     - alias: Garderie
-      info_line: : Inscription sur place ! Garderie de 08h00 à 09h00 et de 16h00 à 17h30
-(12,5€).
-- name: Tennis
+      info_line: Inscription sur place ! Garderie de 08h00 à 09h00 et de 16h00 à 17h30 (12,5€).
+- name: Tennis 
   categorie: Activités sportives
   img: "/assets/images/tennis-ytsw.png"
   online: true
