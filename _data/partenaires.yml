@@ -518,13 +518,6 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: Adsl Stages
-  categorie: Partenaires de stages
-  logo: "/assets/images/adsl-acces.png"
-  href: https://www.adslstages.be/
-  online: false
-  bouton: Site Web
-  couleur_bouton: ''
 - name: Ranch de gégé
   categorie: ''
   logo: "/assets/images/partenaires/ranchgege.jpg"
