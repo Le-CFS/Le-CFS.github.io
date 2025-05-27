@@ -33,6 +33,9 @@ Nombre de stages Réductions
 7 stages 50 € => sur le 7ème stage<br>
 8 stages + 10 € par stage supplémentaire
 
+##### Pour les inscriptions sur sur la Commune de Jette
+Les enfants domiciliés à Jette bénéficient d'une réduction de 4€/jour pour les stages effectués dans leur commune.
+
 ##### Pour les inscriptions sur la Province de Liège
 Une réduction de 5 € est accordée à partir du 2ème stage effectué durant nos stages, par un même enfant ou un enfant de la même famille.
 
