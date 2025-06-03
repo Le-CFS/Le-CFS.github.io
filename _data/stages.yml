@@ -559,7 +559,7 @@ stages:
       info_line: Garderie de 8h à 17h, comprise dans les frais d'inscription.
 - name: Tennis BeTennis
   categorie: Activités sportives
-  img: "/assets/images/tennis-bts.png"
+  img: "/assets/images/betennis-2.png"
   online: true
   nouveau: true
   stage_une: false
