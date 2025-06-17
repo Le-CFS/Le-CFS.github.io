@@ -15,9 +15,9 @@ seo:
 ### Rejoins-nous !
 
 Créé en 1982, le CFS propose des stages sportifs et culturels pour les enfants et les jeunes de 2,5 ans à 16 ans. Fort de son expérience, le CFS a développé une large palette d’activités qu’il propose durant l’année scolaire et les vacances sur les régions du Brabant Wallon, de Bruxelles et de Liège. Par ailleurs, le CFS organise également des anniversaires et des évènements pour les écoles, les entreprises et les communes. Finalement, le CFS propose des cours sportifs pour les adultes.
-
+<br>
 ### 👉 Le CFS - Centre de Formation Sportive recherche activement un(e) Animateur(-trice) Sportif(-ve) passionné(e) et compétent(e) pour rejoindre son équipe dynamique dans le Brabant. Rejoignez-nous pour inspirer et guider la prochaine génération d'athlètes en herbe !
-
+<br><br>
 ##### Fonction
 * Concevoir et animer des activités sportives stimulantes et éducatives pour les enfants :
   * Sessions extrascolaires et parascolaires ;
