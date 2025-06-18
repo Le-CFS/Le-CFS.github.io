@@ -548,7 +548,7 @@ activites:
 - name: Mini Multisports
   categorie: Découvertes sportives et culturelles
   img: ''
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
