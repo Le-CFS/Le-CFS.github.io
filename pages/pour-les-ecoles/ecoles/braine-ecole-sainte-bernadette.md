@@ -37,7 +37,7 @@ Activités libres animées • Etudes surveillées <br>
 Les Petits Gardons est la nouvelle section du CFS qui s’occupe, sous la tutelle de l’ONE, de la gestion des garderies de l’école et du suivi administratif & financier avec les parents d’élèves.
 
 <br>
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ERalH3acaNFNhuv8ejLD6U4BlHldecUng3_Krxgou2Q-pw?e=bOFxzZ' couleur="info" autre_page=true texte="Dossier Petits gardons" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EdGNlmo156tKoRAI9zKKMJQBoq-x_uXFIX89BjQtvnNKVQ?e=3fwUQ9' couleur="info" autre_page=true texte="Dossier Petits gardons" %}
 
 <br>
 Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : garderie@lespetitsgardons.be
