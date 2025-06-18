@@ -33,7 +33,7 @@ autre_page=true
 texte="Je m'inscris à une activité parascolaire"  
 %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EX-VTgeQ4JJNhk-7LVJWTuoBkReiKpje50bw5BGWHqRiow?e=9vqgbD' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYJQhSEUiEZGjT1PuN3lT1UBf9zQCQGf3dYk_dVHin__RA?e=y7F8Um' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
 
 ***
 
@@ -43,7 +43,7 @@ texte="Je m'inscris à une activité parascolaire"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYT19VrJEwNMjvRrh6EZVg4BQXOf4Qt8T1MKsVV7mXQTUA?e=br6nJs' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/Eds9ayp4srNMnHIlPIk32cQB539mmahpJSgaNcRKA6Ql9A?e=y3j0fI' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
 
 Une coordinatrice, Patricia, est présente sur place pour assurer la gestion au quotidien et restera votre référente. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 
