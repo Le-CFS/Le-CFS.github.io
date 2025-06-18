@@ -38,8 +38,7 @@ autre_page=true
 texte="Je m'inscris à une activité parascolaire"  
 %}
 
-{% include utils/button.html  
-lien='/files/erpent-2023-2024-v2.pdf' couleur="info"  
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EVxVzdSwbEtKuMz7RrErYy8BQFjfaAx_l1FXU62weUf1QQ?e=WTGZBg' couleur="info"  
 autre_page=true  
 texte="Mon dépliant 2025-2026"  
 %}
