@@ -34,9 +34,9 @@ texte="Je m'inscris à une activité parascolaire"
 %}
 
 {% include utils/button.html  
-lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQS5htglaI5KpSyLp2I0cVQBS2MMw15rPlecCUvsvHXqBw?e=IucIGr' couleur="info"  
+lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYF0XbvhmftEsZuMQNOaw_EBIN9NC2AQyGvUcCfK4sqTqg?e=jsi5fn' couleur="info"  
 autre_page=true  
-texte="Mon dépliant 2024-2025"  
+texte="Mon dépliant 2025-2026"  
 %}
 
 ***
@@ -47,6 +47,6 @@ texte="Mon dépliant 2024-2025"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EcGwsZbfwklFvW3UvG-7olABhEZFbDUboRlAl2oEWbUS2Q?e=3MdsQq' couleur="info" autre_page=true texte="Les Petits Gardons Ecole Le Bon Départ" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EVM3AH0XDnpPoag5CosrurkBE31yFPnQ-aJhUhLNS3pkTQ?e=gbCFfL' couleur="info" autre_page=true texte="Les Petits Gardons Ecole Le Bon Départ" %}
 
 Une coordinatrice, Brigitte, est présente sur place pour assurer la gestion au quotidien et restera votre référente. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
