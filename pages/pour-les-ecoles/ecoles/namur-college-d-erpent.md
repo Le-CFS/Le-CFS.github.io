@@ -69,6 +69,6 @@ texte="Je m'inscris à un stage"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ESL4c0ZaSpBHjGsm5KY02MIBMzUjDJ3Q_bsDZJBsFfTPXw?e=0EtKlc' couleur="info" autre_page=true texte="Les Petits Gardons ARO" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EVxVzdSwbEtKuMz7RrErYy8BQFjfaAx_l1FXU62weUf1QQ?e=gascsP' couleur="info" autre_page=true texte="Les Petits Gardons" %}
 
 ***
