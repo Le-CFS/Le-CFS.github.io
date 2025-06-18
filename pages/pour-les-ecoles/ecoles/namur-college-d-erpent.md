@@ -41,7 +41,7 @@ texte="Je m'inscris à une activité parascolaire"
 {% include utils/button.html  
 lien='/files/erpent-2023-2024-v2.pdf' couleur="info"  
 autre_page=true  
-texte="Mon dépliant 2024-2025"  
+texte="Mon dépliant 2025-2026"  
 %}
 
 ##### **Journées Pédagogiques**
