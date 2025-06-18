@@ -11,7 +11,7 @@ activite_parascolaire: true
 activite_garderie: true
 activite_pedagogique: true
 bulle: ''
-activite_stage: true
+activite_stage: false
 
 ---
 #### **Un cadre convivial pour vos enfants !**
