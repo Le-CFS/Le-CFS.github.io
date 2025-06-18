@@ -23,9 +23,9 @@ C’est avec plaisir que le CFS vous propose des activités sportives et culture
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Bruxelles' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/r/sites/external-documents/Documents%20partages/Activit%C3%A9s%20parascolaires/2025-2026/BXL/Jette%20-%20Ecole%20Clart%C3%A9.pdf?csf=1&web=1&e=9uIXxY' couleur="info" autre_page=true texte="Mon dépliant 2025-2026 - Maternelles" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ESBku6SV42VBh1OOduwHcPQB0gigSUcZYJ2rliXVFCkHCQ?e=PI5xe9' couleur="info" autre_page=true texte="Mon dépliant 2025-2026 - Maternelles" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/r/sites/external-documents/Documents%20partages/Activit%C3%A9s%20parascolaires/2025-2026/BXL/Jette%20-%20Ecole%20Clart%C3%A9.pdf?csf=1&web=1&e=9uIXxY' couleur="info" autre_page=true texte="Mon dépliant 2025-2026 - Primaires" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EfyGFL7Ry5xHhAKhGJv_g5UBysQxbA9PKb6dUE9wYf7ZeA?e=9OQrli' couleur="info" autre_page=true texte="Mon dépliant 2025-2026 - Primaires" %}
 
 ***
 
