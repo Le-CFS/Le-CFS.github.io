@@ -53,7 +53,7 @@ activites:
     ville: Bruxelles
     centres:
     - JETTE - Salle Omnisport
-    age: 8-16 ans
+    age: 7-14 ans
     description: "<p>Le cheerleading, originaire des Etats-Unis, est une discipline
       mélangeant différentes activités physiques ainsi que des chorégraphies : chants,
       acrobaties ou éléments gymniques (<em>tumbling</em>), sauts (<em>jumps</em>),
@@ -444,7 +444,7 @@ activites:
     ville: Brabant Wallon
     centres:
     - WAVRE - Collège Notre-Dame de Basse-Wavre
-    age: 5-9 ans
+    age: 6-9 ans
     description: "<p>Découverte de l'escalade. Par cette initiation, l’enfant travaille
       des facettes spécifiques de la motricité telles que l’ascension et l’équilibre.
       Il développe des facteurs essentiels comme l’audace, la maîtrise de soi et la
@@ -496,7 +496,7 @@ activites:
     - OTTIGNIES - Centre sportif des Coquerées
     - WALHAIN - École de Tourinnes
     - RIXENSART - Complexe Sportif
-    age: 3-5 ans
+    age: 2-5 ans
     description: "<p>Au programme: parcours d'agilité et d'audace, développement des
       notions sensori-motrices (latéralité, équilibre...), jeux de coopération (parachute),
       exercice de rythmique. Plein de chouettes activités pour le développement de
@@ -548,7 +548,7 @@ activites:
 - name: Mini Multisports
   categorie: Découvertes sportives et culturelles
   img: ''
-  online: false
+  online: true
   nouveau: false
   inscription: ''
   location:
@@ -610,7 +610,7 @@ activites:
     ville: Bruxelles
     centres:
     - JETTE - Salle Omnisport
-    age: 3-6 ans
+    age: 3-4 ans
     description: "<p>Séances de psychomotricité. Développement des capacités d'audace
       et d'équilibre. Au programme: parcours d'agilité et d'audace, développement
       des notions sensori-motrices (latéralité, équilibre...), jeux de coopération
@@ -618,7 +618,7 @@ activites:
       de vos enfants.</p>"
     infos: []
   nouveau: false
-- name: Baby Danse
+- name: Mini Danse
   img: "/assets/images/boutonsactivites/extrascolaires/babydanse.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -629,7 +629,7 @@ activites:
     centres:
     - WAVRE - Collège Notre-Dame de Basse-Wavre
     - RIXENSART - Complexe Sportif
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Votre enfant souhaite devenir un danseur ?</p><p>Ce cours permet
       aux enfants d’acquérir les bases du mouvement et de développer leur expression
       corporelle. </p><p>Initiation au rythme à travers l'apprentissage de différentes
@@ -642,13 +642,13 @@ activites:
     centres:
     - JETTE - Salle Omnisport
     - WSLA - Centre Sportif de la Woluwe
-    age: 3-6 ans
+    age: 4-6 ans
     description: "<p>Initiation au rythme à travers des chorégraphies adaptées.</p>"
     infos:
     - alias: Spectacle
       info_line: Un spectacle est prévu en fin d'année
   nouveau: false
-- name: Baby Multisports
+- name: Mini Multisports
   img: "/assets/images/boutonsactivites/extrascolaires/babymultisports.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -748,7 +748,7 @@ activites:
     ville: Brabant Wallon
     centres:
     - WAVRE - Centre Sportif de Wavre
-    age: 6-18 ans
+    age: 6-16 ans
     description: "<p>Découverte de l’une des danses les plus en vogue en ce moment
       ; le hip-hop. Connu pour ses chorégraphies bien énergiques, le hip-hop apprendra
       à vos enfants à bouger au rythme de la musique tout en laissant ses mouvements
@@ -798,7 +798,7 @@ activites:
       seront développés dans une ambiance dynamique et ludique. Enfin, les élèves
       pourront montrer leurs progrès à l'occasion d'un spectacle organisé en fin d'année.</p>"
     infos: []
-    age: 6-14 ans
+    age: 7-14 ans
   nouveau: false
 - name: Gymnastique
   img: "/assets/images/boutonsactivites/extrascolaires/gymnastique.png"
@@ -815,7 +815,7 @@ activites:
     - OTTIGNIES - Centre Sportif des Coquerées
     - COURT-ST-ETIENNE - La Courtoise
     - PERWEZ - Centre Sportif de Perwez
-    age: 6-14 ans
+    age: 6-16 ans
     description: "<p>Quelque soit le niveau de votre enfant, qu'elle soit pour le
       loisir ou une ambition compétitive, nous avons mis en place des cours d'initiation
       ou de perfectionnement selon le niveau et l'envie de votre enfant à la gymnastique
@@ -861,7 +861,7 @@ activites:
     - WAVRE - Collège Notre-Dame de Basse-Wavre
     - COURT-ST-ETIENNE - La Courtoise
     - RIXENSART -  Complexe Sportif
-    age: A partir de 6 ans
+    age: 6-16 ans
     description: "<p>Ouvert aux jeunes qui désirent se perfectionner à la gymnastique
       sportive. Sol, sauts, poutre, barres asymétriques... Ce cours se donne dans
       un groupe restreint.</p>"
@@ -935,7 +935,7 @@ activites:
     ville: Bruxelles
     centres:
     - JETTE - Salle Omnisport
-    age: 6-14 ans
+    age: 6-12 ans
     description: "<p>Par cette initiation, l'enfant travaille des facettes spécifiques
       de la motricité telles que l'ascension et l'équilibre. Il développe des facteurs
       essentiels comme l'audace, la maîtrise de soi et la gestion du vertige. Les
@@ -1029,7 +1029,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/minifoot.png"
   inscription: ''
   categorie: Activités sportives
-  online: false
+  online: true
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
@@ -1045,7 +1045,7 @@ activites:
     centres:
     - WSLA - Centre Sportif de la Woluwe
     - WEMMEL - Hall des Sports
-    age: 5-16 ans
+    age: 7-14 ans
     description: "<p>Entrainement de mini-football pour les footballeurs débutants
       et plus confirmés avec au programme: technique, tactique et petits matches.
       Les enfants sont regroupés par âge et par niveau.</p>"
@@ -1095,7 +1095,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/minifoot.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: Brabant Wallon
@@ -1141,7 +1141,7 @@ activites:
     ville: Bruxelles
     centres:
     - JETTE - Complexe sportif du Heymbosch
-    age: 6-12 ans
+    age: 7-16 ans
     description: "<p>Entrainement de football pour les plus jeunes avec au programme:
       technique, tactique et petits matchs. Les enfants sont regroupés par âge et
       par niveau.</p>"
@@ -1174,7 +1174,7 @@ activites:
     ville: Bruxelles
     centres:
     - LAEKEN - Tennis du Primerose
-    age: 6-14 ans
+    age: 6-12 ans
     description: "<p>Enseignement exclusivement en anglais, donné par des professeurs
       diplômés et bien dynamiques, avec un matériel didactique adapté aux enfants
       et adolescents. Le 1er cours (gratuit) permettra de vérifier le niveau linguistique
@@ -1191,7 +1191,7 @@ activites:
     ville: Bruxelles
     centres:
     - LAEKEN - Tennis du Primerose
-    age: 8-14 ans
+    age: 6-12 ans
     description: "<p>Enseignement exclusivement en néerlandais, donné par des professeurs
       diplômés et bien dynamiques, avec un matériel didactique adapté aux enfants
       et adolescents. Le 1er cours (gratuit) permettra de vérifier le niveau linguistique
@@ -1286,7 +1286,7 @@ activites:
     - WAVRE - Collège Notre Dame de Basse Wavre
     - OTTIGNIES - Centre Sportif des Coquerées
     - Perwez - Centre Sportif
-    age: A partir de 8 ans
+    age: 8 à 16 ans
     description: "<p>Perfectionnement pour les passionnés de la pratique du VTT. Trip
       dans les bois, parcours de la région ! Le jeune doit avoir son propre VTT, un
       casque et une chambre à air de rechange</p><p>Le planning pourra être adapté
