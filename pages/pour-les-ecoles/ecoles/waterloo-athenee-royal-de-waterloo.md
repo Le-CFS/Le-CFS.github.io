@@ -34,7 +34,7 @@ autre_page=true
 texte="Je m'inscris à une activité parascolaire"  
 %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EXuB_Rcz34xPoqOrYX7aJDwB9R2Zo2Bhzz9SyiPLqtW-VQ?e=ReAULn' couleur="info" autre_page=true texte="Mon dépliant 2024-2025" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQzRGHFIULhCngf1o9CTssABBfeQ9GKe9jw2pNH3xCAM6w?e=T5e4k3' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
 
 ***
 
@@ -44,7 +44,7 @@ texte="Je m'inscris à une activité parascolaire"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYDemXI6OiRPpAwluSl_hbUBmk2vsst9bgCr8yj2P1_6AA?e=MZPaDu' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Royal de Waterloo" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYT19VrJEwNMjvRrh6EZVg4BQXOf4Qt8T1MKsVV7mXQTUA?e=br6nJs' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Royal de Waterloo" %}
 
 Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 
