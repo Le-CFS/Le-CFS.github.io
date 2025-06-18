@@ -1,26 +1,26 @@
 ---
 layout: page
 title: Braine-l’Alleud – Ecole Vallée Bailly
-banner: "/assets/images/banner-grez-doiceau-petite-source.jpg"
-image: "/assets/images/banner-grez-doiceau-petite-source.jpg"
-permalink: "/pour-les-ecoles/ecoles/braine-l-alleud-ecole-sainte-bernadette/"
+banner: "/assets/images/vallee-bailly-2025.png"
+image: "/assets/images/vallee-bailly-2025.png"
+permalink: "/pour-les-ecoles/ecoles/braine-vallee-bailly/"
 menu: true
 description: Braine-l’Alleud – Ecole Vallée Bailly
 type_page: ecoles
-activite_parascolaire: true
+activite_parascolaire: false
 activite_garderie: true
-activite_pedagogique: true
-activite_stage: true
+activite_pedagogique: false
+activite_stage: false
 bulle: ''
 
 ---
 #### **Un cadre convivial pour vos enfants !**
 
-Chers parents, grands-parents, accompagnants, 
+<strong>Garderies - LES PETITS GARDONS</strong>
 
-C’est avec plaisir que le CFS vous propose des activités sportives et culturelles en collaboration avec l’Ecole La Petite Source de Grez-Doiceau.
+Activités libres animées • Etudes surveillées
 
-{% include utils/button.html  
-lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
+Les Petits Gardons est la nouvelle section du CFS qui s’occupe, sous la tutelle de l’ONE, de la gestion des garderies de l’école et du suivi administratif & financier avec les parents d’élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ETe_LTsCqoBOhHKb7pirDBkBFY8oR0dRkm7IMEa95g1ouw?e=A93Yl1' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
+
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EdftjxagBiVFs_4s8IyW4jIBbJKfdaHP9pyP4OlPnr7ORA?e=1drQiR' couleur="info" autre_page=true texte="Les Petits Gardons à l’école Vallée Bailly" %}
