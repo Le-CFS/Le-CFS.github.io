@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Braine-l’Alleud – Ecole Sainte-Bernadette
-banner: "/assets/images/banner-grez-doiceau-petite-source.jpg"
-image: "/assets/images/banner-grez-doiceau-petite-source.jpg"
+banner: "/assets/images/ste-bernadette-2025.png"
+image: "/assets/images/ste-bernadette-2025.png"
 permalink: "/pour-les-ecoles/ecoles/braine-l-alleud-ecole-sainte-bernadette/"
 menu: true
 description: Braine-l’Alleud – Ecole Sainte-Bernadette
