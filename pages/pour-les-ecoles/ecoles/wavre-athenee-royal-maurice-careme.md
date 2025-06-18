@@ -28,12 +28,12 @@ Voici les services proposés par le CFS aux élèves de l'Athénée de Maurice C
 
 C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec l’Athénée.
 
-{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info"  
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYJQhSEUiEZGjT1PuN3lT1UBf9zQCQGf3dYk_dVHin__RA?e=q4aT4J' couleur="info"  
 autre_page=true  
 texte="Je m'inscris à une activité parascolaire"  
 %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EX-VTgeQ4JJNhk-7LVJWTuoBkReiKpje50bw5BGWHqRiow?e=9vqgbD' couleur="info" autre_page=true texte="Mon dépliant 2024-2025" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EX-VTgeQ4JJNhk-7LVJWTuoBkReiKpje50bw5BGWHqRiow?e=9vqgbD' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
 
 ***
 
@@ -43,7 +43,7 @@ texte="Je m'inscris à une activité parascolaire"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EfRS_HPdSDhInNLrTGWhxp0BGFVQLEKp7gF7w6-UqYZD8g?e=34MhKf' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYT19VrJEwNMjvRrh6EZVg4BQXOf4Qt8T1MKsVV7mXQTUA?e=br6nJs' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
 
 Une coordinatrice, Patricia, est présente sur place pour assurer la gestion au quotidien et restera votre référente. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 
