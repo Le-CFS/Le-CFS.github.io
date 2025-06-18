@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Walhain - Ecoles Communales
+title: Perwez – Ecole de Thorembais-les-Béguines
 banner: "/assets/images/slider-walhain.jpg"
 image: "/assets/images/banner-walhain.jpg"
-permalink: "/pour-les-ecoles/ecoles/Ecoles-communales/"
+permalink: "/pour-les-ecoles/ecoles/Ecoles-thorembais-les-beguines/" 
 menu: true
-description: Walhain - Ecoles Communales
+description: Perwez – Ecole de Thorembais-les-Béguines
 type_page: ecoles
 activite_parascolaire: true
-activite_garderie: false
-activite_pedagogique: false
+activite_garderie: true
+activite_pedagogique: true
+activite_stages: true
 bulle: ''
 
 ---
@@ -22,4 +23,4 @@ C’est avec plaisir que le CFS vous propose des activités sportives et culture
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQ9Qzzg2U9dJr3EwCh4ZPucBYSYfaFKssopla_q6JeHg8w?e=KO6SoN' couleur="info" autre_page=true texte="Mon dépliant 2024-2025" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYBbDfX7JZlEtsi_WQUBT-gBR6gyeRpr5B6idtv-NGHLlQ?e=2lLjSk' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
