@@ -2,7 +2,7 @@
 layout: page
 title: Court-Saint-Etienne - Collège Saint-Etienne
 permalink: "/pour-les-ecoles/ecoles/college-saint-etienne/"
-menu: true
+menu: false
 description: Collège Saint Etienne
 type_page: ecoles
 activite_parascolaire: true
