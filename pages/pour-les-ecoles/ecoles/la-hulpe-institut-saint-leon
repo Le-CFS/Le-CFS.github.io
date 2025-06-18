@@ -1,34 +1,43 @@
 ---
 layout: page
 title: La Hulpe – Institut Saint-Léon
-banner: "/assets/images/test-image-banner.jpg"
-image: "/assets/images/test-image.jpg"
-permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
+banner: "/assets/images/st-leon-2025.pngg"
+image: "/assets/images/st-leon-2025.png"
+permalink: "/pour-les-ecoles/ecoles/la-hulpe-cole-saint-leon/"
 menu: true
 description: La Hulpe – Institut Saint-Léon
 type_page: ecoles
 activite_parascolaire: true
-activite_garderie: true
+activite_garderie: false
 activite_pedagogique: true
 activite_stages: true
 bulle: ''
 
 
 ---
-#### **Un cadre convivial pour vos enfants !**
+<strong>Activités Parascolaires</strong>
 
-Chers parents, grands-parents, accompagnants, 
+Activités sportives, fun, créatives • Ecoles des devoirs
 
-Cette année 2022-2023 se termine et nous préparons activement la rentrée 2023-2024. 
-Nous souhaitions éclaircir certains points organisationnels pour débuter une nouvelle année scolaire de façon pro-active. 
+C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec l’Institut Saint-Léon. 
 
-Organisation du CFS
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant&_ga=2.134014154.516758843.1750066353-909983389.1745826110' couleur="info" autre_page=true texte="Je m’inscris à une activité parascolaire" %}
 
-Une nouvelle section en interne a vu le jour au sein du CFS Asbl, pour s’occuper pleinement, 
-sous la tutelle de l’O.N.E., de la gestion des garderies et du suivi administratif & financier. 
-Cette dernière sera reconnue sous l’appellation : « Les petits Gardons ». 
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EdnLhXwG9fBKke-hNeTF7YcB9XdplwqUfDub2im1N9_zMA?e=6zJUtA' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
 
-Il nous semblait important de scinder ces activités organisées dans l’école pour y apporter 
-un meilleur suivi sur le terrain et en dehors. Nous distinguons donc les garderies/études surveillées des activités parascolaires qui nécessitent une inscription à l’année avec une présence obligatoire (théâtre, psychomotricité, etc...). 
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EdnLhXwG9fBKke-hNeTF7YcB9XdplwqUfDub2im1N9_zMA?e=uAnwW2' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
+<strong>Journées Pédagogiques</strong>
+
+Le CFS organise des journées sportives au sein de l’école pour les élèves lors des journées pédagogiques.
+
+Le CFS se charge également de la garderie.
+
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=8&Province=Brabant&_ga=2.239783751.516758843.1750066353-909983389.1745826110' couleur="info" autre_page=true texte="Je m’inscris à une journée pédagogique" %}
+
+
+<strong>Stages</strong>
+
+<strong>Nous organisons également durant les vacances scolaires des stages sportifs, fun & créatifs dans ton école !</strong>
+
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Province=Brabant&_ga=2.176794721.516758843.1750066353-909983389.1745826110' couleur="info" autre_page=true texte="Je m’inscris à un stage" %}
+
