@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Walhain - Ecole de Tourinne
+title: La Hulpe – Institut Saint-Léon
 banner: "/assets/images/test-image-banner.jpg"
 image: "/assets/images/test-image.jpg"
 permalink: "/pour-les-ecoles/ecoles/Ecole-Saint-Michel/"
 menu: true
-description: Ecole Royal Paul Delvaux
+description: La Hulpe – Institut Saint-Léon
 type_page: ecoles
 activite_parascolaire: true
 activite_garderie: true
 activite_pedagogique: true
+activite_stages: true
 bulle: ''
-published: false
+
 
 ---
 #### **Un cadre convivial pour vos enfants !**
@@ -30,6 +31,4 @@ Cette dernière sera reconnue sous l’appellation : « Les petits Gardons�
 Il nous semblait important de scinder ces activités organisées dans l’école pour y apporter 
 un meilleur suivi sur le terrain et en dehors. Nous distinguons donc les garderies/études surveillées des activités parascolaires qui nécessitent une inscription à l’année avec une présence obligatoire (théâtre, psychomotricité, etc...). 
 
-Un coordinateur, Nicolas, est présent sur place pour assurer la gestion au quotidien et restera votre référent. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : garderie@lespetitsgardons.be.
-
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQ9Qzzg2U9dJr3EwCh4ZPucBYSYfaFKssopla_q6JeHg8w?e=KO6SoN' couleur="info" autre_page=true texte="Mon dépliant 2024-2025" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EdnLhXwG9fBKke-hNeTF7YcB9XdplwqUfDub2im1N9_zMA?e=uAnwW2' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
