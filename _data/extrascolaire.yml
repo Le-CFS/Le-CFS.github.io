@@ -29,7 +29,7 @@ activites:
 - name: Festifoot Academy
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-baby-foot-500x500.jpg"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -67,7 +67,7 @@ activites:
 - name: Koh Lanta
   categorie: Activités fun
   img: "/assets/images/stages/activitesfun/lanta.png"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -102,7 +102,7 @@ activites:
 - name: Baby Foot
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/cfs_activites_parascolaires_mini_foot.jpg"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -118,7 +118,7 @@ activites:
 - name: Gym Academy
   categorie: Danse et Gymnastique
   img: "/assets/images/activites_parascolaires_gymnastique.jpg"
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -141,7 +141,7 @@ activites:
 - name: VTT - Cyclo Cross
   categorie: Activités sportives
   img: "/assets/images/cyclo-cross.png"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -164,7 +164,7 @@ activites:
 - name: Gym Spécial Garçons
   categorie: Danse et Gymnastique
   img: "/assets/images/gym-garcons.png"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -183,7 +183,7 @@ activites:
 - name: Initiation GRS/Acrogym/Danse
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/grs.png"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -203,7 +203,7 @@ activites:
 - name: Trottinette freestyle
   categorie: Activités fun
   img: "/assets/images/activites-extrascolaires-trott-300x300.jpg"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -220,7 +220,7 @@ activites:
 - name: Skate
   categorie: Activités fun
   img: "/assets/images/activites-extrascolaires-skate-300x300.jpg"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -236,7 +236,7 @@ activites:
 - name: Parkour Pro
   categorie: Activités sportives
   img: "/assets/images/activites_parascolaires_cfs_parkour.jpg"
-  online: true
+  online: false
   nouveau: true
   inscription: ''
   location:
@@ -276,7 +276,7 @@ activites:
 - name: Aqua Fun
   categorie: Activités sportives
   img: "/assets/images/activites-extrascolaires-aqua-fun-300x300.jpg"
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -313,7 +313,7 @@ activites:
 - name: Robotique
   categorie: Activités artistiques et loisirs
   img: "/assets/images/stages/stagesalaune_robotique.png"
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -387,7 +387,7 @@ activites:
 - name: Aqua & Sport
   categorie: Activités sportives
   img: "/assets/images/stages/decouvertesportiveetculturelle/funmultietnat.png"
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -408,7 +408,7 @@ activites:
 - name: Danse
   categorie: Danse et Gymnastique
   img: "/assets/images/stages/danseetgymnastique/danse.png"
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -467,7 +467,7 @@ activites:
 - name: Aqua & Gymnastique
   categorie: Danse et Gymnastique
   img: "/assets/images/stages/activitessportives/aquafun.png"
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -677,7 +677,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/babygym.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
-  online: true
+  online: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
@@ -720,7 +720,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/dansejazz.png"
   inscription: ''
   categorie: Danse et Gymnastique
-  online: true
+  online: false
   location:
   - alias: Bruxelles
     ville: Bruxelles
@@ -1029,7 +1029,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/minifoot.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
@@ -1202,7 +1202,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/cirque.png"
   inscription: ''
   categorie: Les petits bouts
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: Brabant Wallon
@@ -1247,7 +1247,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/raquettes.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: Brabant Wallon
