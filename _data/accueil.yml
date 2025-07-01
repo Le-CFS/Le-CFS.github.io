@@ -21,8 +21,8 @@ slider:
 - titre: Natation
   src: "/assets/images/slidernatation.jpg"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
-- titre: Cours adultes 2023
-  src: "/assets/images/slider-cours-adultes-2023-2024.jpg"
+- titre: Cours adultes 2025
+  src: "/assets/images/cours-adultes-2025.jpg"
   href: '/cours_adultes/'
 selection:
   nom: Sélection du CFS
