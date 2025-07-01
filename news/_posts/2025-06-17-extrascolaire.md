@@ -4,7 +4,7 @@ menu: cfs
 title: Prépare ta rentrée !
 infos:
   date: 0025-06-17
-  teaser: ""
+  teaser: "Dès le 1er septembre, retrouve des activités extrascolaires sportives et culturelles"
 tags:
 seo:
   keywords:
