@@ -26,7 +26,7 @@ seo:
 <br>également **les temps de midi (les mercredis de 12h00 à 18h00).
 
 
-<br><br>**Durée :** A partir du 25/08/2025 jusqu’au 04/07/2026.<br>
+<br>**Durée :** A partir du 25/08/2025 jusqu’au 04/07/2026.<br>
 
 <br>**Lieu:** 
 
@@ -39,6 +39,7 @@ seo:
 - Lycée Français à Uccle <br>
 - Institut Notre Dame - des Agaves – Itterbeek <br>
 - Collège de Court Saint Etienne (uniquement le mercredi) <br>
+- Collège Notre Dame de la Paix à Erpent
 
 <br>
 📩 Envoyez votre **CV** et votre **lettre de motivation** à [cyril@lecfs.be](mailto:cyril@lecfs.be)
