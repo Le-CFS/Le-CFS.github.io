@@ -22,8 +22,11 @@ seo:
 
 ###### **OFFRE**
 
-**Bénévolat réénuméré** à **temps partiel** du lundi au vendredi, le matin de **07h00 à 08h15** et le soir de **15h30 à 18h30** également **les temps de midi (les mercredis de 12h00 à 18h00).
-**Durée :** A partir du 25/08/2025 jusqu’au 04/07/2026.<br>
+**Bénévolat réénuméré** à **temps partiel** du lundi au vendredi, le matin de **07h00 à 08h15** et le soir de **15h30 à 18h30** 
+<br>également **les temps de midi (les mercredis de 12h00 à 18h00).
+
+
+<br><br>**Durée :** A partir du 25/08/2025 jusqu’au 04/07/2026.<br>
 
 <br>**Lieu:** 
 
