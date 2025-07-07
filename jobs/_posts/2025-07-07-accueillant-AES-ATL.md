@@ -7,8 +7,7 @@ banner: "/assets/images/banner-waterloo-atl.jpg"
 description: Le CFS recrute ! Accueillant(e) AES-ATL Petits Gardons
 image: "/assets/images/banner-waterloo-atl.jpg"
 seo:
-  type: article
-  Recrutement Accueillant AES-ATL Petits Gardons
+  Recrutement Accueillant AES ATL Petits Gardons
   img: '/assets/images/seo-waterloo-atl.jpg'
 
 ---
