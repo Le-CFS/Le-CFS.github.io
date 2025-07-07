@@ -1,14 +1,14 @@
 ---
 layout: post
 menu: false
-title: Accueillant(e) AES/ATL.
+title: Accueillant(e) AES-ATL.
 online: true
 banner: "/assets/images/banner-waterloo-atl.jpg"
-description: Le CFS recrute ! Accueillant(e) AES/ATL Petits Gardons
+description: Le CFS recrute ! Accueillant(e) AES-ATL Petits Gardons
 image: "/assets/images/banner-waterloo-atl.jpg"
 seo:
   type: article
-  Recrutement Accueillant AES/ATL Petits Gardons
+  Recrutement Accueillant AES-ATL Petits Gardons
   img: '/assets/images/seo-waterloo-atl.jpg'
 
 ---
