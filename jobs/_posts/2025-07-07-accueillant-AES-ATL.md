@@ -1,20 +1,20 @@
 ---
 layout: post
 menu: false
-title: Accueillant(e) ATL à Waterloo.
-online: false
+title: Accueillant(e) AES/ATL.
+online: true
 banner: "/assets/images/banner-waterloo-atl.jpg"
-description: Le CFS recrute ! Accueillant(e) ATL à Waterloo.
+description: Le CFS recrute ! Accueillant(e) AES/ATL Petits Gardons
 image: "/assets/images/banner-waterloo-atl.jpg"
 seo:
   type: article
-  description: Le CFS recrute ! Accueillant(e) ATL à Waterloo.
+  Recrutement Accueillant AES/ATL Petits Gardons
   img: '/assets/images/seo-waterloo-atl.jpg'
 
 ---
 ### Rejoins-nous !
 
-#### 👉 Le **CFS** Centre de Formation Sportive recrute un(e) **accueillant(e)** ATL à Waterloo.
+#### 👉 Recrutement Accueillant AES/ATL Petits Gardons.
 
 ###### FONCTION
 
