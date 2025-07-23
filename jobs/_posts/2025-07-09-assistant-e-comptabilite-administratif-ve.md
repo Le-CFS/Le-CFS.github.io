@@ -3,13 +3,13 @@ layout: post
 menu: false
 title: "Assistant-e Comptabilité & Administratif-ve !"
 online: true
-banner: "/assets/images/2024-04-09-assistant.jpg"
+banner: "/assets/images/2025-07-23-assistant.jpg"
 description: "Assistant-e Comptabilité & Administratif-ve !"
-image: "/assets/images/2024-04-09-assistant.jpg"
+image: "/assets/images/2025-07-23-assistant.jpg"
 seo:
   type: article
   description: "Assistant-e Comptabilité & Administratif-ve !"
-  img: '/assets/images/2024-04-09-assistant.jpg'
+  img: '/assets/images/2025-07-23-assistant.jpg'
 
 ---
 ### 📣 Le CFS recrute  !
