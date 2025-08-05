@@ -20,7 +20,7 @@ Les inscriptions en cours d’année sont possibles tant que des places sont enc
 activité. Au tel cas, le prix de la cotisation est revu au prorata des séances devant encore avoir
 lieu jusqu’à la fin de la période de l’activité.
 #### Article 1.2. Séance d’essai
-Le CFS propose des séances d’essai au tarif de 15€. Réservez d’abord votre carte essai,
+Le CFS propose des séances d’essai au tarif de 17,50€. Réservez d’abord votre carte essai,
 effectuez votre paiement, et réservez ensuite la séance de votre choix.
 #### Article 1.3. Réductions
 À partir de la seconde inscription à un de nos cours adultes, une réduction de 20% est
