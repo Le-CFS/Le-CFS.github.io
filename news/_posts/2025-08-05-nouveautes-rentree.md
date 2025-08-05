@@ -48,15 +48,14 @@ De nouveaux cours pour adultes vous sont proposés :
 - Hiit
 - Taf Booster
 - Cardio Danc
+<br>
 
+<a href="https://www.lecfs.be/" class="btn btn-info-filled m-4" style="color: #fff !important;"><strong>Je réserve mon activité !</strong></a>
 
-<div class="d-flex justify-content-center mb-3">
-  <a href="https://www.lecfs.be/" class="btn btn-info-filled m-4" style="color: #fff !important;"><strong>Je réserve mon activité !</strong></a>
-
-<br><br>
+<br>
 📍 Bruxelles – Brabant Wallon – Liège
 
-
+<br>
 
 ℹ️ 𝙄𝙣𝙛𝙤𝙨 𝙚𝙩 𝙍𝙚́𝙨𝙚𝙧𝙫𝙖𝙩𝙞𝙤𝙣𝙨 :<br>
 📞 010/22.73.96<br>
@@ -64,5 +63,5 @@ De nouveaux cours pour adultes vous sont proposés :
 💻 www.lecfs.be<br>
 <br>
 Nous suivre sur les réseaux sociaux:
-<div class="d-flex justify-content-center mb-3">
+<br>
   <a href="https://www.facebook.com/CFSasbl" class="btn btn-info-filled m-4" style="color: #fff !important;">Notre page Facebook</a>
