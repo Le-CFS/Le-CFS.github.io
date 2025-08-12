@@ -15,11 +15,12 @@ banner: '/assets/images/recrutement-extra-25-26.png'
 
 ---
 
-Rejoins-nous ! 😎
+<strong>Rejoins-nous ! 😎</strong>
 
 Créé en 1982, le CFS propose des stages sportifs et culturels pour les enfants et les jeunes de 2,5 ans à 18 ans. Fort de son expérience, le CFS a développé une large palette d’activités para et extrascolaires qu’il propose durant l’année scolaire ainsi que des activités durant les vacances sur les régions du Brabant Wallon, de Bruxelles, de Liège et de Namur. D’autre part, le CFS organise également des anniversaires et des évènements sportifs pour les écoles, les entreprises, les communes ou encore la population en général.
 
 Le CFS - Centre de Formation Sportive asbl est à la recherche de moniteur.trice.s pour ses activités extrascolaires dans le Brabant Wallon.
+
 
 
 📍<strong> Grez-Doiceau </strong>
@@ -29,7 +30,7 @@ Le CFS - Centre de Formation Sportive asbl est à la recherche de moniteur.trice
 - 1 Multisports : Jeudi 16h15 – 17h45
   
 
-📍 <strong>Grez-Doiceau </strong>
+📍 <strong>Wavre </strong>
 
 - 1 Karaté : Mardi 17h00 – 18h00
 - 1 Fun : Mardi 15h30 – 16h30
@@ -70,11 +71,11 @@ Le CFS - Centre de Formation Sportive asbl est à la recherche de moniteur.trice
 
 📍<strong> Ottignies </strong>
 
-2 Football : Mercredi 14h00 – 16h00
-1 Gymnastique : Mercredi 14h00 – 16h00
-1 Ludic’Gym : Mercredi 14h00 – 16h00
-1 Mini Multisports : Mercredi 14h00 – 16h00
-1 Ludic’Gym : Vendredi 17h00 – 18h30
+- 2 Football : Mercredi 14h00 – 16h00
+- 1 Gymnastique : Mercredi 14h00 – 16h00
+- 1 Ludic’Gym : Mercredi 14h00 – 16h00
+- 1 Mini Multisports : Mercredi 14h00 – 16h00
+- 1 Ludic’Gym : Vendredi 17h00 – 18h30
 
 
 📍<strong> Rixensart </strong>
@@ -107,12 +108,12 @@ Le CFS - Centre de Formation Sportive asbl est à la recherche de moniteur.trice
 
 - 1 Football : Mercredi 16h00 – 17h30
 
-
+<br>
 
 <strong>Tu es intéressé.e ? Merci de nous contacter à l’adresse mail suivante </strong>
 📧 gaelle@lecfs.be <br>
 💻 www.lecfs.be<br>
 <br>
 
-À bientôt<br><br>
+À bientôt<br>
 L’Equipe du CFS
