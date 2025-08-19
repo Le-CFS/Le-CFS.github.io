@@ -12,12 +12,15 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: Stages été
-  src: "/assets/images/slider-ete-2025-2.png"
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
 - titre: Extrascolaire 2025
   src: "/assets/images/slider-extra-2025-2.png"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
+- titre: Stages Automne/Hiver
+  src: "/assets/images/slider-automne-hiver.png"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=4
+- titre: Fit Time
+  src: "/assets/images/fit-time-slider.png"
+  href: https://www.lecfs.be/cours_adultes/
 - titre: Natation
   src: "/assets/images/slidernatation-2.png"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=6
