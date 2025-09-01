@@ -38,7 +38,7 @@ autre_page=true
 texte="Je m'inscris à une activité parascolaire"  
 %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EZfx-vFlTsBFr6iZ7e0fSuABDpT8EeBLSvH4_FFzV522kQ?e=HNBYGu' couleur="info"  
+{% include utils/button.html lien='https://cfsport.sharepoint.com/sites/external-documents/Documents%20partages/Forms/AllItems.aspx?id=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FLes%20Petits%20Gardons%2FPG%20Namur%20%2D%20Coll%C3%A8ge%20d%27Erpent%2Epdf&parent=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FLes%20Petits%20Gardons&p=true&ga=1' couleur="info"  
 autre_page=true  
 texte="Mon dépliant 2025-2026"  
 %}
