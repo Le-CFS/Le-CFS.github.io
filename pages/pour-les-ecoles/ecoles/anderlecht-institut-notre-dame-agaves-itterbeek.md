@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Braine-l’Alleud – Ecole Sainte-Bernadette
+title: Anderlecht – Institut Notre-Dame
 banner: "/assets/images/ste-bernadette-2025.png"
 image: "/assets/images/ste-bernadette-2025.png"
 permalink: "/pour-les-ecoles/ecoles/anderlecht-institut-notre-dame-agaves-itterbeek/"
 menu: true
-description: Braine-l’Alleud – Ecole Sainte-Bernadette
+description: Anderlecht –  l’Institut Notre-Dame 
 type_page: ecoles
 activite_parascolaire: true
 activite_garderie: true
