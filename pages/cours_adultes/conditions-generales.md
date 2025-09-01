@@ -25,11 +25,10 @@ effectuez votre paiement, et réservez ensuite la séance de votre choix.
 #### Article 1.3. Réductions
 À partir de la seconde inscription à un de nos cours adultes, une réduction de 20% est
 accordée, sur demande, et ce sur l’abonnement le moins cher.
-#### Article 1.4. Réinscriptions pour les cours semestriels/annuels
-Vous êtes prioritaire pour vous réinscrire à votre cours à chaque nouveau semestre/nouvelle
-année de cours. Vers la fin du semestre/année en cours, vous recevrez un email pour vous
-réinscrire à votre activité avec un délai de réinscription. Passé ce délai, vous perdrez votre
-priorité sur votre place.
+#### Article 1.4. Réinscriptions pour les cours trimestriels
+Vous êtes prioritaire pour vous réinscrire à votre cours à chaque nouveau trimestre.
+Vers la fin du trimestre en cours, notre responsable d’activité s’occupera des demandes de réinscription directement sur votre lieu d’activité.
+Passé ce délai de réinscription, votre enfant perdra sa place prioritaire.
 ### Article 2. Conditions de participation
 #### Article 2.1. Droits et devoirs des membres
 Le CFS s’engage à accueillir ses membres dans un environnement adapté et sécurisé.
@@ -77,7 +76,7 @@ suivante : Rue Provinciale 225 – 1301 Bierges (nos bureaux se situent en face 
 contactez-nous par téléphone.
 ### Article 4. Politique d’Annulation
 #### Article 4.1. Annulation et absences
-A dater du premier cours de votre abonnement, il ne sera plus possible d’annuler votre inscription et la cotisation sera considérée comme due. Notre secrétariat reste néanmoins à votre disposition pour toute demande spécifique. En cas d’interruption de votre activité en cours d’année, l’intégralité de la cotisation reste dûe au CFS. En cas d’absence à une séance, cette dernière sera récupérable si vous prévenez de votre absence au moins 24h avant le début du cours (via votre espace MyCFS ou via le secrétariat). Passé ce délai, votre cours ne sera pas récupérable (exception pour un certificat médical). En cas de maladie, un certificat médical devra être envoyé par mail au secrétariat (info@lecfs.be). Chaque absence excusée par un certificat ou prévenue 24h en avance pourra être récupérée, et ce, uniquement sur le semestre au cours duquel la séance a été manquée pour les abonnements semestriels, ou n’importe quand dans l’année pour les abonnements annuels. Sauf cas exceptionnels, en dehors de ces périodes, vos tickets de récupération ne seront ni remboursés, ni reportés. Les récupérations peuvent se faire dans n’importe quel cours adulte proposé par le CFS (en salle ou en piscine).
+A dater du premier cours de votre abonnement, il ne sera plus possible d’annuler votre inscription et la cotisation sera considérée comme due. Notre secrétariat reste néanmoins à votre disposition pour toute demande spécifique. En cas d’interruption de votre activité en cours d’année, l’intégralité de la cotisation reste dûe au CFS. En cas d’absence à une séance, cette dernière sera récupérable si vous prévenez de votre absence au moins 24h avant le début du cours (via votre espace MyCFS ou via le secrétariat). Passé ce délai, votre cours ne sera pas récupérable (exception pour un certificat médical). En cas de maladie, un certificat médical devra être envoyé par mail au secrétariat (info@lecfs.be). Chaque absence excusée par un certificat ou prévenue 24h en avance pourra être récupérée, et ce, uniquement sur le trimestre au cours duquel la séance a été manquée.  Si l’enfant ne sait pas récupérer sa séance au cours du trimestre, un bon à valoir pourra être octroyé. Aucun remboursement ne sera possible. Aucun bon à valoir, remboursement ou rattrapage ne sera possible pour tout autre absence.
 #### Article 4.2. Annulation de la part du CFS
 Le CFS se réserve le droit d’annuler totalement une activité si le nombre de participants n’est
 pas suffisant.
