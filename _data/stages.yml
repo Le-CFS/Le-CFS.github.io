@@ -11458,7 +11458,7 @@ Des jeux et promenades dans la nature sont organisés, dans un environnement fam
         info_line: "Les déplacements en transport en commun sont assurés par nos soins."
   activation_onglets: false
 - name: Découverte Anglais
-  img: "/assets/images/stage-enfant-apprenti-velo-500x500.jpg"
+  img: "/assets/images/decouverte-anglais.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
   online: true
