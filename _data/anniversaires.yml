@@ -61,7 +61,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Psycho Découverte
@@ -112,7 +112,7 @@ anniversaires:
   bouton: ''
   categorie:
   - domicile
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Cirque
@@ -160,7 +160,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: true
 - name: Football
@@ -193,7 +193,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Princesse & Pirate
@@ -222,7 +222,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Arrow Game
@@ -236,7 +236,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Laser Game
@@ -256,7 +256,7 @@ anniversaires:
   categorie:
   - domicile
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Ninja Warriors
@@ -270,7 +270,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Quad
@@ -285,7 +285,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: true
 - name: Swiss Jump
@@ -301,7 +301,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Bubble Soccer
@@ -315,7 +315,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Magie
@@ -333,7 +333,7 @@ anniversaires:
   categorie:
   - domicile
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Piscine Party
