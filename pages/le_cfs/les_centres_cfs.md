@@ -10,14 +10,14 @@ intro: Vous trouverez certainement un centre <strong>CFS</strong> proche de chez
 provinces:
 - name: Bruxelles
   banner: "/assets/images/bxl-banner.jpg"
-  image_annee: "/assets/new-images/durant l annee - bxl.png"
-  image_stages: "/assets/new-images/durant les stages - bxl.png"
+  image_annee: "/assets/images/BXL-a-l-annee.png"
+  image_stages: "/assets/images/BXL-stages.png"
   url_annee: ''
   url_stages: ''
 - name: Brabant
   banner: "/assets/images/brt-banner.jpg"
-  image_annee: "/assets/new-images/durant l annee - brt.png"
-  image_stages: "/assets/new-images/durant les stages - brt.png"
+  image_annee: "/assets/images/BRT-a-l-annee.png"
+  image_stages: "/assets/images/BRT-stages.png"
   url_annee: ''
   url_stages: ''
 - name: Liege
