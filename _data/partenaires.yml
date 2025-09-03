@@ -401,7 +401,7 @@ liste:
   couleur_bouton: ''
 - name: The New Lambermont Tennis School
   categorie: partenaires pédagogiques
-  logo: "/assets/images/lta.jpg"
+  logo: "/assets/images/BXL-LAMBERMONT.jpg"
   href: https://tennisclub.rtclambermont.be/ecole-de-tennis/
   online: true
   bouton: Site Web
