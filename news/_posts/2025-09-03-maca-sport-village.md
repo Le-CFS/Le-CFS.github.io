@@ -15,7 +15,7 @@ seo:
   type: article
   description: NOUVEAU Macasport Village !
   img: '/assets/images/banner-maca.png'
-banner: '/assets/images/benner-maca.png'
+banner: '/assets/images/banner-maca.png'
 
 ---
 <strong>NOUVEAU Macasport Village !</strong>
