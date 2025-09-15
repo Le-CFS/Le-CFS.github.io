@@ -15,7 +15,7 @@ cours:
   src: "/assets/images/boutonsactivites/cfsacademy/tennisacademy.png"
   href: "/activites/cfs_academy/tennis_academy"
   bouton: Plus d'info
-- online: true
+- online: false
   titre: Judo Academy
   src: "/assets/images/boutonsactivites/cfsacademy/judoacademy.png"
   href: "/activites/cfs_academy/judo_academy"
@@ -25,7 +25,7 @@ cours:
   src: "/assets/images/boutonsactivites/cfsacademy/robotiqueacademy.png"
   href: "/activites/cfs_academy/robotique_academy"
   bouton: Plus d'info
-- online: true
+- online: false
   titre: Danse Academy
   src: "/assets/images/boutonsactivites/cfsacademy/danseacademy.png"
   href: "/activites/cfs_academy/danse_academy"
@@ -45,7 +45,7 @@ cours:
   src: "/assets/images/activites-extrascolairs-enfants-cfs-parcours-pro-500x500-1.jpg"
   href: "/activites/cfs_academy/parkour_pro"
   bouton: Plus d'info
-- online: true
+- online: false
   titre: Football Academy
   src: "/assets/images/activites-extrascolaires-enfants-cfs-football-academy-500x500.png"
   href: "/activites/cfs_academy/football_academy"
