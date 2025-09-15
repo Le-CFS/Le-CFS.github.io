@@ -166,18 +166,12 @@ activites:
       url: "/activites/cfs_academy/mini_foot_academy/"
     - title: École de natation
       url: "/activites/ecole_de_natation/"
-    - title: Tennis Academy
-      url: "/activites/cfs_academy/tennis_academy/"
     - title: Judo Academy
       url: "/activites/cfs_academy/judo_academy/"
-    - title: Robotique Academy
-      url: "/activites/cfs_academy/robotique_academy/"
     - title: Danse Academy
       url: "/activites/cfs_academy/danse_academy/"
     - title: Gym Academy
       url: "/activites/cfs_academy/gym_academy"
-    - title: Parkour Pro
-      url: "/activites/cfs_academy/parkour_pro/"
     - title: Football Academy
       url: "/activites/cfs_academy/football_academy/"
   - title: Conditions générales
