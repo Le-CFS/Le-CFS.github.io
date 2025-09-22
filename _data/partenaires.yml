@@ -1,10 +1,10 @@
 ---
 liste:
-- name: R.W. Limal  
+- name: Be Life Rescue Training  
   categorie: Partenaires pédagogiques
-  online: false
-  logo: "/assets/images/logo-rw-limal.jpg"
-  href: "https://www.facebook.com/RoyalWavreLimal/?locale=fr_FR"
+  online: true
+  logo: "/assets/images/BeLife.png"
+  href: "https://www.beliferescuetraining.be/"
   bouton: ''
   couleur_bouton: ''
 - name: ILPlatform
