@@ -9,19 +9,7 @@ banner: ''
 image: ''
 
 ---
-« Le CFS propose des activités sportives ou culturelles qui débutent au mois de septembre et se déroulent tout au long de l’année scolaire. Nous organisons également des activités parascolaires uniquement pour les élèves de l’école.
 
- 
-
-La plus ancienne école de natation du Brabant Wallon vous propose des cours de Bébés Nageurs, des Cours Particuliers et Collectifs, des cours d’Aqua Sirène et un Mini Club pour les plus aguerris. A Bruxelles, des cours de Psycho Aqua, des Cours Collectifs et un Mini Club vous sont proposés.
-
-
-
-Pour les plus aguerris, le CFS vous propose maintenant une formule Academy avec certains avantages dans différentes disciplines. »
-
-Les activités débutent au mois de septembre et se déroulent tout au long de l’année scolaire.
-
-Il est possible de s’inscrire en cours d’année en fonction des places disponibles (le prix est alors calculé au prorata des séances restantes).
 <div class="col-md-12 text-center" style="font-size: 24px; margin-bottom: 20px;"><b>Trouvez une activité pour votre enfant.</b></div>
 
 <!-- NE PAS MODIFIER EN DESSOUS DE CETTE LIGNE -->
@@ -56,9 +44,14 @@ Il est possible de s’inscrire en cours d’année en fonction des places dispo
 
 <!-- NE PAS MODIFIER AU DESSUS DE CETTE LIGNE -->
 
-Le CFS propose des **activités sportives** ou **culturelles** qui débutent au mois de septembre et se déroulent tout au long de l’année scolaire.
-Nous organisons également des **activités parascolaires** uniquement pour les **élèves de l'école**.
+« Le CFS propose <strong>des activités sportives ou culturelles</strong> qui débutent au mois de septembre et se déroulent tout au long de l’année scolaire.
+<br>Nous organisons également <strong>des activités parascolaires</strong> uniquement<strong> pour les élèves de l’école.</strong>
 
-La plus ancienne école de natation du Brabant Wallon vous propose des cours de bébés nageurs, des cours particuliers et collectifs, des cours d’aqua fun et aqua sirène et un mini club pour les plus aguerris. A Bruxelles, des cours de psycho aqua, des cours collectifs et un mini club vous sont proposés.
+ 
 
-Pour les plus aguerris, le CFS vous propose maintenant une formule **Academy** avec certains avantages dans différentes disciplines.
+La plus ancienne école de natation du Brabant Wallon vous propose des cours de Bébés Nageurs, des Cours Particuliers et Collectifs, des cours d’Aqua Sirène et un Mini Club pour les plus aguerris. 
+<br>A Bruxelles, des cours de Psycho Aqua, des Cours Collectifs et un Mini Club vous sont proposés.
+
+ 
+
+Pour les plus aguerris, le CFS vous propose maintenant une formule Academy avec certains avantages dans différentes disciplines. »
