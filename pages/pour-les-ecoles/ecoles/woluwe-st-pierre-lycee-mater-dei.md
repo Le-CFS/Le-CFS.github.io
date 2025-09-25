@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Woluwe-Saint-Pierre - Lycée Mater Dei
-banner: "/assets/images/lycee-lm.png"
-image: "/assets/images/lycee-lm.png"
+banner: "/assets/images/lycee-md.png"
+image: "/assets/images/lycee-md.png"
 menu: true
 description: Woluwe-Saint-Pierre - Lycée Mater Dei
 type_page: ecoles
