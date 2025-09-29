@@ -1,5 +1,12 @@
 ---
 liste:
+- name: Riwa 
+  categorie: Partenaires de stages
+  online: true
+  logo: "/assets/images/riwa.png"
+  href: "https://www.riwa.be/"
+  bouton: ''
+  couleur_bouton: ''
 - name: Be Life Rescue Training  
   categorie: Partenaires pédagogiques
   online: true
