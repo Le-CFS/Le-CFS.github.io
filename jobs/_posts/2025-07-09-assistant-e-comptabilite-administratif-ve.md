@@ -3,13 +3,13 @@ layout: post
 menu: false
 title: "Assistant·e Administratif·ve & Suivi de Gestion !"
 online: true
-banner: "/assets/images/2025-07-23-assistant.jpg"
+banner: "/assets/images/2025-07-23-assistant-2.png"
 description: "Assistant·e Administratif·ve & Suivi de Gestion !"
-image: "/assets/images/2025-07-23-assistant.jpg"
+image: "/assets/images/2025-07-23-assistant-2.png"
 seo:
   type: article
   description: "Assistant·e Administratif·ve & Suivi de Gestion"
-  img: '/assets/images/2025-07-23-assistant.jpg'
+  img: '/assets/images/2025-07-23-assistant-2.png'
 
 ---
 ### 📣 Le CFS recrute  !
