@@ -9,6 +9,7 @@ menu: activites
 #### Article 1.1. Inscription
 En validant l’inscription à l’une de nos activités, vous adhérez aux conditions générales du
 CFS.
+
 Les inscriptions aux activités se font :
 - Par le site internet (www.lecfs.be) avec votre espace MyCFS
 - Par mail (info@lecfs.be)
@@ -19,8 +20,9 @@ recevez pas ce mail, veuillez prendre contact avec le secrétariat.
 Les inscriptions en cours d’année sont possibles tant que des places sont encore disponibles en
 activité. Au tel cas, le prix de la cotisation est revu au prorata des séances devant encore avoir
 lieu jusqu’à la fin de la période de l’activité.
+
 #### Article 1.2. Séance d’essai
-Le CFS propose des séances d’essai au tarif de 17,50€. Réservez d’abord votre carte essai,
+Le CFS propose des séances d’essai au tarif de 15,00€. Réservez d’abord votre carte essai,
 effectuez votre paiement, et réservez ensuite la séance de votre choix.
 #### Article 1.3. Réductions
 À partir de la seconde inscription à un de nos cours adultes, une réduction de 20% est
@@ -29,6 +31,7 @@ accordée, sur demande, et ce sur l’abonnement le moins cher.
 Vous êtes prioritaire pour vous réinscrire à votre cours à chaque nouveau trimestre.
 Vers la fin du trimestre en cours, notre responsable d’activité s’occupera des demandes de réinscription directement sur votre lieu d’activité.
 Passé ce délai de réinscription, votre enfant perdra sa place prioritaire.
+
 ### Article 2. Conditions de participation
 #### Article 2.1. Droits et devoirs des membres
 Le CFS s’engage à accueillir ses membres dans un environnement adapté et sécurisé.
@@ -48,6 +51,7 @@ votre disposition des chaussures aquatiques si nécessaire.
 #### Article 2.4. Age
 Nos différents cours adultes sont accessibles dès l’âge de 18 ans et conviennent parfaitement
 pour les personnes plus âgées.
+
 ### Article 3. Paiement
 #### Article 3.1. Tarif
 Les prix affichés sur le site www.lecfs.be sont indiqués en euros, toutes taxes comprises. Le
@@ -76,19 +80,28 @@ suivante : Rue Provinciale 225 – 1301 Bierges (nos bureaux se situent en face 
 contactez-nous par téléphone.
 ### Article 4. Politique d’Annulation
 #### Article 4.1. Annulation et absences
-A dater du premier cours de votre abonnement, il ne sera plus possible d’annuler votre inscription et la cotisation sera considérée comme due. Notre secrétariat reste néanmoins à votre disposition pour toute demande spécifique. En cas d’interruption de votre activité en cours d’année, l’intégralité de la cotisation reste dûe au CFS. En cas d’absence à une séance, cette dernière sera récupérable si vous prévenez de votre absence au moins 24h avant le début du cours (via votre espace MyCFS ou via le secrétariat). Passé ce délai, votre cours ne sera pas récupérable (exception pour un certificat médical). En cas de maladie, un certificat médical devra être envoyé par mail au secrétariat (info@lecfs.be). Chaque absence excusée par un certificat ou prévenue 24h en avance pourra être récupérée, et ce, uniquement sur le trimestre au cours duquel la séance a été manquée.  Si l’enfant ne sait pas récupérer sa séance au cours du trimestre, un bon à valoir pourra être octroyé. Aucun remboursement ne sera possible. Aucun bon à valoir, remboursement ou rattrapage ne sera possible pour tout autre absence.
+A dater du premier cours de votre abonnement, il ne sera plus possible d’annuler votre inscription et la cotisation sera considérée comme due. Notre secrétariat reste néanmoins à votre disposition pour toute demande spécifique.  
+
+En cas d’interruption de votre activité en cours d’année, l’intégralité de la cotisation reste dûe au CFS. 
+
+En cas d’absence à une séance, cette dernière sera récupérable si vous prévenez de votre absence au moins 24h avant le début du cours (via votre espace MyCFS ou via le secrétariat). Passé ce délai, votre cours ne sera pas récupérable (exception pour un certificat médical). En cas de maladie, un certificat médical devra être envoyé par mail au secrétariat (info@lecfs.be).  
+
+Chaque absence excusée par un certificat ou prévenue 24h en avance pourra être récupérée, et ce, uniquement sur le trimestre au cours duquel la séance a été manquée pour les abonnements trimestriels, ou n’importe quand dans l’année pour les abonnements annuels. 
+
+Sauf cas exceptionnels, en dehors de ces périodes, vos tickets de récupération ne seront ni remboursés, ni reportés.  
+
+Les récupérations peuvent se faire dans n’importe quel cours adulte proposé par le CFS (en salle ou en piscine). 
+
 #### Article 4.2. Annulation de la part du CFS
-Le CFS se réserve le droit d’annuler totalement une activité si le nombre de participants n’est
-pas suffisant.
-Durant l’année, pour qu’une séance puisse être maintenue, il faut au minimum 6 personnes en
-soirée/cours et minimum 5 en journée. Nous vous proposerons, dès lors, une séance de
-récupération.
-Certaines séances pourraient, en revanche, être ajoutées ou modifiées en cours d’année si la
-demande le justifie.
-L’absence d’un moniteur pour une séance justifie le changement de moniteur sans devoir en
-informer préalablement les inscrits.
-Aucun remboursement ou bon à valoir ne sera octroyé pour une annulation en cas de force
-majeure (catastrophe naturelle, inondations, pandémie, etc.).
+Le CFS se réserve le droit d’annuler totalement une activité si le nombre de participants n’est pas suffisant. 
+
+Durant l’année, pour qu’une séance puisse être maintenue, il faut au minimum 6 personnes en soirée/cours et minimum 5 en journée. Nous vous proposerons, dès lors, une séance de récupération.  
+
+Certaines séances pourraient, en revanche, être ajoutées ou modifiées en cours d’année si la demande le justifie.  
+
+L’absence d’un moniteur pour une séance justifie le changement de moniteur sans devoir en informer préalablement les inscrits. 
+
+Aucun remboursement ou bon à valoir ne sera octroyé pour une annulation en cas de force majeure (catastrophe naturelle, inondations, pandémie, etc.). 
 ### Article 5. Fiche santé
 Il est OBLIGATOIRE de compléter une fiche santé pour chaque membre inscrit à l’une de nos
 activités. Depuis le 1er juillet 2020, plus de papier ! Pour des raisons sanitaires et pratiques,
