@@ -83,5 +83,5 @@ Vous collaborez également avec l’expert-comptable.<br><br>
 <strong>Intéressé·e ?</strong> <br>
 📩 Envoyez votre **CV** et votre **lettre de motivation** à [celine@lecfs.be](mailto:celine@lecfs.be)
 
-Clôture des candidatures : 24/10/202
+Clôture des candidatures : 30/11/2025
 
