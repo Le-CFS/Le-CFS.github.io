@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: "Assistant·e Administratif·ve & Suivi de Gestion !"
-online: true
+online: false
 banner: "/assets/images/2025-07-23-assistant-2.png"
 description: "Assistant·e Administratif·ve & Suivi de Gestion !"
 image: "/assets/images/2025-07-23-assistant-2.png"
