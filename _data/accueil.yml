@@ -13,11 +13,11 @@ inscription:
   texte_mobile: Inscription
 slider:
 - titre: Stages Hiver 
-  src: "/assets/images/slider-hiver-2025.png"
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
+  src: "/assets/images/slider-hiver-2025-2.jpg"
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
 - titre: Stages Détente 2026
   src: "/assets/images/slider-detente-2026.png"
-  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=2
+  href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
 - titre: Fit Time
   src: "/assets/images/fit-time-slider.png"
   href: https://www.lecfs.be/cours_adultes/
