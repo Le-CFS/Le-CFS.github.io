@@ -9,7 +9,7 @@ periode:
     bruxelles:
       online: true
       name: Stages Détente Bruxelles
-      image: "/assets/images/detente-bxl-2026.png"
+      image: "/assets/images/dtente-bxl-2026.png"
       link: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1&Province=Bruxelles
       non_clickable: false
     brabant:
@@ -29,19 +29,19 @@ periode:
     bruxelles:
       online: true
       name: Stages Printemps Bruxelles
-      image: "/assets/images/stages-enfants-paques-bruxelles-500x500.jpg"
+      image: "/assets/images/printemps-bxl-2026.png"
       link: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1&Province=Bruxelles
       non_clickable: false
     brabant:
       online: true
       name: Stages Printemps Brabant
-      image: "/assets/images/stages-enfants-paques-brabant-500x500.jpg"
+      image: "/assets/images/printemps-brt-2026.png"
       link: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1&Province=Brabant
       non_clickable: false
     liege:
       online: true
       name: Stages Printemps Liège
-      image: "/assets/images/stages-enfants-paques-liege-500x500.jpg"
+      image: "/assets/images/printemps-lie-2026.png"
       link: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1&Province=Liege
       non_clickable: false
   ete:
@@ -144,7 +144,7 @@ periode:
       link: ''
 type: article
 description: Le CFS organise des stages dans le Brabant-wallon, à Bruxelles et à Liège
-  durant les vacances de Toussaint, Noël, Carnaval, Pâques et les celles d'été.
+  durant les vacances de Toussaint, Noël, Détente, Printemps et les celles d'été.
 banner: ''
 image: ''
 
@@ -219,7 +219,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
           {% capture image %}{{ page.periode.carnaval.brabant.image }}{% endcapture %}
           {% capture link %}{{ page.periode.carnaval.brabant.link }}{% endcapture %}
           {% assign offline = page.periode.carnaval.brabant.non_clickable %}
-          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Carnaval Brabant" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Détente Brabant" href=link autre_page="oui" bouton="Inscription" offline=offline %}
         {% endif %}
       </div>
 	    
@@ -229,7 +229,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
           {% capture image %}{{ page.periode.carnaval.bruxelles.image }}{% endcapture %}
           {% capture link %}{{ page.periode.carnaval.bruxelles.link }}{% endcapture %}
           {% assign offline = page.periode.carnaval.bruxelles.non_clickable %}
-          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Carnaval Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Détente Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
               </div>
 {% endif %}
 	    
@@ -238,7 +238,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
           {% capture image %}{{ page.periode.carnaval.liege.image }}{% endcapture %}
           {% capture link %}{{ page.periode.carnaval.liege.link }}{% endcapture %}
           {% assign offline = page.periode.carnaval.liege.non_clickable %}
-          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Carnaval Liège" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Détente Liège" href=link autre_page="oui" bouton="Inscription" offline=offline %}
               </div>
 {% endif %}
 	            {% if page.periode.carnaval.internat.online %}
@@ -266,7 +266,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
           {% capture link %}{{ page.periode.paques.brabant.link }}{% endcapture %}
           {% assign offline = page.periode.paques.brabant.non_clickable %}
 
-          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Pâques Brabant" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Printemps Brabant" href=link autre_page="oui" bouton="Inscription" offline=offline %}
               </div>
 {% endif %}
 	    
@@ -275,7 +275,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
           {% capture image %}{{ page.periode.paques.bruxelles.image }}{% endcapture %}
           {% capture link %}{{ page.periode.paques.bruxelles.link }}{% endcapture %}
           {% assign offline = page.periode.paques.bruxelles.non_clickable %}
-          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Pâques Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Printemps Bruxelles" href=link autre_page="oui" bouton="Inscription" offline=offline %}
               </div>
 {% endif %}
         {% if page.periode.paques.liege.online %}
@@ -284,7 +284,7 @@ Le CFS organise, pendant les vacances scolaires, des activités du lundi au vend
           {% capture image %}{{ page.periode.paques.liege.image }}{% endcapture %}
           {% capture link %}{{ page.periode.paques.liege.link }}{% endcapture %}
           {% assign offline = page.periode.paques.liege.non_clickable %}
-          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Pâques Liège" href=link autre_page="oui" bouton="Inscription" offline=offline %}
+          {% include coleen/bulle.html src=image alt="Stages enfants" titre="Printemps Liège" href=link autre_page="oui" bouton="Inscription" offline=offline %}
               </div>
 {% endif %}
         {% if page.periode.paques.internat.online %}
