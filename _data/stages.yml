@@ -657,40 +657,33 @@ s&nbsp;amuser à apprendre !</p><p>Des intempéries ? Pas de soucis ! Nos 3 ter
   activation_onglets: true
   inscription: ''
   location:
-  - alias: Brabant 
-    ville: Brabant Wallon
-    age: 8-14 ans
-    description: "<p>P'tits Chefs recherchés pour les stages de cuisine !
-Enfilez votre tablier et préparez-vous pour une semaine pleine de plaisir culinaire !
-Cet été, nos stages de cuisine se déroulent en collaboration avec Delhaize, pour une expérience encore plus gourmande, ludique et éducative !
-Durant le stage, vos minis héros apprennent à préparer les plats les plus savoureux.
+    - alias: Brabant
+      ville: Brabant Wallon
+      age: 8-14 ans
+      description: "
+        <p>P'tits Chefs recherchés pour les stages de cuisine ! Enfilez votre tablier et préparez-vous pour une semaine pleine de plaisir culinaire ! Cet été, nos stages de cuisine se déroulent en collaboration avec Delhaize, pour une expérience encore plus gourmande, ludique et éducative ! Durant le stage, vos minis héros apprennent à préparer les plats les plus savoureux.</p>
+        <p>Les repas préparés sont dégustés ensemble chaque midi. Les enfants participent également à la remise en ordre de la cuisine, afin d’apprendre les bases de l’organisation et de l’hygiène en cuisine.</p>
+        <p>Le dernier jour, un buffet-dégustation est préparé avec fierté pour les parents, afin de partager le fruit de leur travail.</p>
+        "
+      infos:
+        - alias: A prévoir
+          info_line: Il ne faut donc pas prévoir à manger pour votre enfant que le vendredi.
+        - alias: Cadeau !
+          info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.
+    - alias: Bruxelles
+      ville: Bruxelles
+      age: 8-14 ans
+      description: "
+        <p>P'tits Chefs recherchés pour les stages de cuisine ! Enfilez votre tablier et préparez-vous pour une semaine pleine de plaisir culinaire ! Cet été, nos stages de cuisine se déroulent en collaboration avec Delhaize, pour une expérience encore plus gourmande, ludique et éducative ! Durant le stage, vos minis héros apprennent à préparer les plats les plus savoureux.</p>
+        <p>Les repas préparés sont dégustés ensemble chaque midi. Les enfants participent également à la remise en ordre de la cuisine, afin d’apprendre les bases de l’organisation et de l’hygiène en cuisine.</p>
+        <p>Le dernier jour, un buffet-dégustation est préparé avec fierté pour les parents, afin de partager le fruit de leur travail.</p>
+        "
+      infos:
+        - alias: A prévoir
+          info_line: Il ne faut donc pas prévoir à manger pour votre enfant que le vendredi.
+        - alias: Cadeau !
+          info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.
 
-<p>Les repas préparés sont dégustés ensemble chaque midi. Les enfants participent également à la remise en ordre de la cuisine, afin d’apprendre les bases de l’organisation et de l’hygiène en cuisine.</p>
-
-<p>Le dernier jour, un buffet-dégustation est préparé avec fierté pour les parents, afin de partager le fruit de leur travail.<p>"
-</p>"
-    infos:
-    - alias: A prévoir 
-      info_line: Il ne faut donc pas prévoir à manger pour votre enfant que le vendredi.
-    - alias: Cadeau !
-      info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.
-  - alias: Bruxelles 
-    ville: Bruxelles
-    age: 8-14 ans
-    description: "<p>P'tits Chefs recherchés pour les stages de cuisine !
-Enfilez votre tablier et préparez-vous pour une semaine pleine de plaisir culinaire !
-Cet été, nos stages de cuisine se déroulent en collaboration avec Delhaize, pour une expérience encore plus gourmande, ludique et éducative !
-Durant le stage, vos minis héros apprennent à préparer les plats les plus savoureux.
-
-<p>Les repas préparés sont dégustés ensemble chaque midi. Les enfants participent également à la remise en ordre de la cuisine, afin d’apprendre les bases de l’organisation et de l’hygiène en cuisine.</p>
-
-<p>Le dernier jour, un buffet-dégustation est préparé avec fierté pour les parents, afin de partager le fruit de leur travail.<p>"
-</p>"
-    infos:
-    - alias: A prévoir 
-      info_line: Il ne faut donc pas prévoir à manger pour votre enfant que le vendredi.
-    - alias: Cadeau !
-      info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.
 - name: Meilleur Pâtissier – Avec les P’tits Lions de Delhaize
   categorie: Activités artistiques et loisirs
   img: "/assets/images/meilleur-patissier-delhaize.png"
@@ -700,38 +693,30 @@ Durant le stage, vos minis héros apprennent à préparer les plats les plus sav
   activation_onglets: true
   inscription: ''
   location:
-  - alias: Brabant 
-    ville: Brabant Wallon
-    age: 8-12 ans
-    description: "<p>P'tits Chefs recherchés pour les stages de cuisine !
-
-<p>Enfilez votre tablier et préparez-vous pour une semaine pleine de plaisir culinaire !</p>
-
-<p>Cet été, nos stages de cuisine se déroulent en collaboration avec Delhaize, pour une expérience encore plus gourmande, ludique et éducative !</p>
-
-<p>Chaque jour, les enfants mettent la main à la pâte pour réaliser une multitude de recettes savoureuses et faciles à reproduire à la maison. Pâtisseries, desserts, gâteaux : il y en a pour tous les goûts !</p>
-
-<p>Les jeunes pâtissiers exploreront différentes techniques culinaires tout en enrichissant un livre de recettes illustrées qu'ils pourront fièrement partager avec famille et amis.</p>
-
-    infos:
-     - alias: Cadeau !
-     info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.      
-  - alias: Bruxelles 
-    ville: Bruxelles
-    age: 8-12 ans
-    description: "<p>P'tits Chefs recherchés pour les stages de cuisine !
-
-<p>Enfilez votre tablier et préparez-vous pour une semaine pleine de plaisir culinaire !</p>
-
-<p>Cet été, nos stages de cuisine se déroulent en collaboration avec Delhaize, pour une expérience encore plus gourmande, ludique et éducative !</p>
-
-<p>Chaque jour, les enfants mettent la main à la pâte pour réaliser une multitude de recettes savoureuses et faciles à reproduire à la maison. Pâtisseries, desserts, gâteaux : il y en a pour tous les goûts !</p>
-
-<p>Les jeunes pâtissiers exploreront différentes techniques culinaires tout en enrichissant un livre de recettes illustrées qu'ils pourront fièrement partager avec famille et amis.</p>
-
-    infos:
-     - alias: Cadeau !
-     info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.           
+    - alias: Brabant
+      ville: Brabant Wallon
+      age: 8-12 ans
+      description: "
+        <p>P'tits Chefs recherchés pour les stages de cuisine ! Enfilez votre tablier et préparez-vous pour une semaine pleine de plaisir culinaire !</p>
+        <p>Cet été, nos stages de cuisine se déroulent en collaboration avec Delhaize, pour une expérience encore plus gourmande, ludique et éducative !</p>
+        <p>Chaque jour, les enfants mettent la main à la pâte pour réaliser une multitude de recettes savoureuses et faciles à reproduire à la maison. Pâtisseries, desserts, gâteaux : il y en a pour tous les goûts !</p>
+        <p>Les jeunes pâtissiers exploreront différentes techniques culinaires tout en enrichissant un livre de recettes illustrées qu'ils pourront fièrement partager avec famille et amis.</p>
+        "
+      infos:
+        - alias: Cadeau !
+          info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.
+    - alias: Bruxelles
+      ville: Bruxelles
+      age: 8-12 ans
+      description: "
+        <p>P'tits Chefs recherchés pour les stages de cuisine ! Enfilez votre tablier et préparez-vous pour une semaine pleine de plaisir culinaire !</p>
+        <p>Cet été, nos stages de cuisine se déroulent en collaboration avec Delhaize, pour une expérience encore plus gourmande, ludique et éducative !</p>
+        <p>Chaque jour, les enfants mettent la main à la pâte pour réaliser une multitude de recettes savoureuses et faciles à reproduire à la maison. Pâtisseries, desserts, gâteaux : il y en a pour tous les goûts !</p>
+        <p>Les jeunes pâtissiers exploreront différentes techniques culinaires tout en enrichissant un livre de recettes illustrées qu'ils pourront fièrement partager avec famille et amis.</p>
+        "
+      infos:
+        - alias: Cadeau !
+          info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.          
 - name: Mini Bolide
   categorie: Activités fun
   img: "/assets/images/mini-bolide.png"
