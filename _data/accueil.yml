@@ -12,12 +12,12 @@ inscription:
   texte_ordi: Inscription rapide
   texte_mobile: Inscription
 slider:
-- titre: Une collaboration avec Delhaize
-  src: "/assets/images/slider-delahaize-2026.jpg"
-  href: https://www.delhaize.be/fr/petit-lion/summercamps
-- titre: Stages Détente 2026
-  src: "/assets/images/slider-detente-2026.png"
+- titre: Stages Détente-Printemps-Eté-2026
+  src: "/assets/images/slider-2026.png"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&Groupe=1
+- titre: Une collaboration avec Delhaize
+  src: "/assets/images/slider-delhaize-2026.jpg"
+  href: https://www.delhaize.be/fr/petit-lion/summercamp
 - titre: Fit Time
   src: "/assets/images/fit-time-slider.png"
   href: https://www.lecfs.be/cours_adultes/
