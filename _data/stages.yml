@@ -22,7 +22,7 @@ categories:
   btn: btn-stage-sportives
 - name: Activités artistiques et loisirs
   filtre: artistiques
-  official_name: Artistiques et Loisirs
+  official_name: Artistiques, Loisirs et Cuisine
   btn: btn-stage-artistiques
 - name: Internat
   filtre: internat
