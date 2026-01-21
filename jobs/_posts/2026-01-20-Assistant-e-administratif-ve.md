@@ -1,7 +1,7 @@
 ---
 layout: post
 online: true
-title: Coordinateur(-trice) & Animateur(-trice) Sportif(ve)
+title: Assistant(e) Administratif(ve)
 banner: "/assets/images/assistant-ad.png"
 menu: false
 description: Le CFS recrute ! Assistant·e Administratif·ve
