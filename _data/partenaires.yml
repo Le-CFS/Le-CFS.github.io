@@ -91,11 +91,11 @@ liste:
   href: https://www.yourtennischool.be/home3.asp?ClubID=457&LG=FR
   bouton: ''
   couleur_bouton: ''
-- name: Royal Tennis Club La Raquette
+- name: Pulse Padel Limal
   categorie: partenaires pédagogiques
   online: true
-  logo: "/assets/images/rtclr_new_logo.jpg"
-  href: https://laraquette.eu/
+  logo: "/assets/images/pulse-padel-logo.png"
+  href: https://macasportvillage.be/
   bouton: ''
   couleur_bouton: ''
 - name: Tennis Padel Club l'Abbaye
@@ -410,14 +410,14 @@ liste:
   categorie: partenaires pédagogiques
   logo: "/assets/images/BXL-LAMBERMONT.jpg"
   href: https://tennisclub.rtclambermont.be/ecole-de-tennis/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Basket Club Dylois Wavre
   categorie: Partenaires pédagogiques
   logo: "/assets/images/basket-club-dylois.png"
   href: https://tst.basketclubs.be/dyloiswavre/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: Max Extrême
@@ -499,8 +499,8 @@ liste:
   couleur_bouton: ''
 - name: MI 12 - Fun center
   categorie: Partenaires de stages
-  logo: "/assets/images/mi12.png"
-  href: https://mi12funcenter.be/
+  logo: "/assets/images/fun-galaxy-logo.png"
+  href: https://fungalaxy.be/
   online: true
   bouton: Site Web
   couleur_bouton: ''
@@ -543,7 +543,7 @@ liste:
   categorie: 'partenaire pédagogiques'
   logo: "/assets/images/partenaire-ride-your-future.jpg"
   href: https://rideyourfuture.org/
-  online: true
+  online: false
   bouton: Site Web
   couleur_bouton: ''
 - name: CTT Alpa Schaerbeek
@@ -581,10 +581,10 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
-- name: Go Ventura
+- name: Goolfy
   categorie: 'partenaires de stages'
-  logo: "/assets/images/partenaire-go-ventura-rvb-shadow-alpha.png"
-  href: https://go-ventura.be/accueil-wavre/
-  online: false
+  logo: "/assets/images/goolfy-logo.png"
+  href: https://www.facebook.com/p/Goolfy-Namur-100057699662004/?locale=fr_FR
+  online: true
   bouton: Site Web
   couleur_bouton: ''
