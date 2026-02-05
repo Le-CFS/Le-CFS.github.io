@@ -57,7 +57,7 @@ horaires: "/assets/images/limal-horaire.png"
 		<div class="row">
 			{% for page in site.pages %}
 				{% assign temp_lieux = page.lieux | downcase %}
-				{% if page.type_page == "adultes" and temp_lieux contains "liernu" %}
+				{% if page.type_page == "adultes" and temp_lieux contains "limal" %}
 					{% if page.published == false %}
 					{% else %}
 					<div class="col-xs-6 col-md-3">
