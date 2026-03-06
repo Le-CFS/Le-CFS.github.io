@@ -22,7 +22,7 @@ centres:
         centre: "Anderlecht"
         adresse: "Avenue d’Itterbeek 232 • 1070 Anderlecht"
         img: 
-            
+            - "centresportif_wavre_2.jpg"
         carte: 
         stage: 
         online: oui
@@ -31,7 +31,7 @@ centres:
         centre: "Anderlecht"
         adresse: "Rue des Grives 51 • 1070 Anderlecht" 
         img: 
-            
+            - "centresportif_wavre_2.jpg"
         carte: 
         stage: 
         online: oui
