@@ -17,23 +17,17 @@ cfs:
     title_mobile: Liste des centres
     online_mobile: false
     sousmenu:
-    - title: Amay
-      url: "/cfs/les_centres_cfs/amay"
-    - title: Asse
-      url: "/cfs/les_centres_cfs/asse"
+    - title: Anderlecht
+      url: "/cfs/les_centres_cfs/anderlecht"
     - title: Auderghem
       url: "/cfs/les_centres_cfs/auderghem"
     - title: Awans
       url: "/cfs/les_centres_cfs/awans"
-    - title: Beauvechain
-      url: "/cfs/les_centres_cfs/beauvechain"
     - title: Bierges
       url: "/cfs/les_centres_cfs/bierges"
     - title: Court-Saint-Étienne
       title_mobile: Court-St-Étienne
       url: "/cfs/les_centres_cfs/cse"
-    - title: Dion Valmont
-      url: "/cfs/les_centres_cfs/dion_valmont"
     - title: Huy
       url: "/cfs/les_centres_cfs/huy"
     - title: Jette
