@@ -17,6 +17,24 @@ centres:
         carte: 
         stage: 
         online: oui
+     -
+        name: "Institut Notre-Dame – Agaves/Itterbeek"
+        centre: "Anderlecht"
+        adresse: "Avenue d’Itterbeek 232 • 1070 Anderlecht"
+        img: 
+            
+        carte: 
+        stage: 
+        online: oui
+        -
+        name: "Complexe Sportif du Ceria"
+        centre: "Anderlecht"
+        adresse: "Rue des Grives 51 • 1070 Anderlecht" 
+        img: 
+            
+        carte: 
+        stage: 
+        online: oui
     -
         name: "Collège Notre-Dame de Basse-Wavre"
         centre: "Wavre"
@@ -124,7 +142,7 @@ centres:
             - "bomaco_asse.jpg"
         carte: 
         stage: 
-        online: oui
+        online: non
     -
         name: "Ecole Jacques Brel"
         centre: "Jette"
