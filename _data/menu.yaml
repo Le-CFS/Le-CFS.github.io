@@ -17,8 +17,6 @@ cfs:
     title_mobile: Liste des centres
     online_mobile: false
     sousmenu:
-    - title: Anderlecht
-      url: "/cfs/les_centres_cfs/anderlecht"
     - title: Auderghem
       url: "/cfs/les_centres_cfs/auderghem"
     - title: Awans
