@@ -3577,7 +3577,7 @@ collectif, la coordination et la compréhension des règles.</p>"
 - name: Fun Aventure
   categorie: Activités fun
   img: "/assets/images/stages-enfants-fun-aventure-500x500-min.jpg"
-  online: false
+  online: true
   nouveau: false
   stage_une: false
   activation_onglets: false
@@ -3636,7 +3636,7 @@ collectif, la coordination et la compréhension des règles.</p>"
 - name: Mini-Explorateurs
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-mini-explorateurs-500x500.png"
-  online: false
+  online: true
   nouveau: true
   stage_une: false
   activation_onglets: false
