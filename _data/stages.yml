@@ -923,7 +923,7 @@ s&nbsp;amuser à apprendre !</p><p>Des intempéries ? Pas de soucis ! Nos 3 ter
   activation_onglets: true
   inscription: ''
   location:
-   - alias: Bruxelles
+  - alias: Bruxelles
     ville: Bruxelles
     age: 7-10 ans
     description: "
@@ -938,21 +938,20 @@ s&nbsp;amuser à apprendre !</p><p>Des intempéries ? Pas de soucis ! Nos 3 ter
           <p><strong>Arrow game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés comme des prises de château, courses de lapin, jeux de rôle avec des épées, chevaliers et mages (l'arrow game se pratique également avec des flèches avec un bout en mousse et des masques de paintball).</p>
         </li>
         <li>
-          <p><strong>Laser Game</strong> : en collaboration avec <strong>Big C</strong>.</p></li>
+          <p><strong>Laser Game</strong> : en collaboration avec <strong>Big C</strong>.</p>
+        </li>
         <li>
           <p><strong>E-Fun :</strong>activités fun variables (segway, trottinette électrique, overboard, crazy kart, etc.) en partenariat avec ROC Event.</p>
         </li>
         <li>
-          <p><strong>Bowling  :</strong> en collaboration avec <strong>Big C</strong>.</strong></p>
+          <p><strong>Bowling :</strong> en collaboration avec <strong>Big C</strong>.</p>
         </li>
       </ul>"
     infos:
-    - alias: Tenue
-      info_line: " Prévoir une paire de bottines ainsi que des vêtements adaptés aux
-        activités d’extérieur et d'intérieur."
-    - alias: Navette
-      info_line: Certaines activités demandent un déplacement en navette assuré par
-        nos soins.
+      - alias: Tenue
+        info_line: "Prévoir une paire de bottines ainsi que des vêtements adaptés aux activités d’extérieur et d'intérieur."
+      - alias: Navette
+        info_line: Certaines activités demandent un déplacement en navette assuré par nos soins.
 - name: Mini Basket 
   categorie: Activités sportives
   img: "/assets/images/basket-mini.png"
