@@ -6,6 +6,7 @@ banner: "/assets/images/coordinateur-bxl.png"
 menu: false
 description: Le CFS recrute ! Coordinateur.trice sur Bruxelles
 image: "/assets/images/coordinateur-bxl.png"
+published: false
 
 ---
 ### **Rejoins-nous !**
