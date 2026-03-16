@@ -6,6 +6,7 @@ banner: "/assets/images/assistant-ad.png"
 menu: false
 description: Le CFS recrute ! Assistant·e Administratif·ve
 image: ''
+published: false
 
 ---
 ### Votre mission !
