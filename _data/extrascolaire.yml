@@ -1128,25 +1128,22 @@ activites:
   inscription: ''
   categorie: Activités sportives
   online: true
+  nouveau: false
   location:
   - alias: Bruxelles
     ville: Bruxelles
     centres:
     - JETTE - Complexe sportif du Heymbosch
     age: 7-16 ans
-    description: "<p>Entrainement de football pour les plus jeunes avec au programme:
-      technique, tactique et petits matchs. Les enfants sont regroupés par âge et
-      par niveau.</p>"
+    description: "<p>Entrainement de football pour les plus jeunes avec au programme: technique, tactique et petits matchs. Les enfants sont regroupés par âge et par niveau.</p>"
     infos: []
-  nouveau: false
   - alias: Brabant Wallon
     ville: Brabant Wallon
     centres:
-    - LA HULPE – Royal La Hulpe Sporting Club 
+    - LA HULPE – Royal La Hulpe Sporting Club
     age: 7-12 ans
     description: "<p>Entrainement de football pour les plus jeunes avec au programme: technique, tactique et petits matchs. Les enfants sont regroupés par âge et par niveau.</p>"
     infos: []
-  nouveau: false
 - name: Football - Gardien de but
   img: "/assets/images/boutonsactivites/extrascolaires/footballgardiendebut.png"
   inscription: ''
