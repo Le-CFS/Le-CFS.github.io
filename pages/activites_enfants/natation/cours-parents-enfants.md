@@ -7,6 +7,7 @@ permalink: "/activites/ecole_de_natation/cours-parents-enfants/"
 menu: activites
 description: Découvrez l'école de natation du CFS ! Ce cours de transition conviendra
   parfaitement pour préparer vos enfants à participer au mini-club du CFS.
+Published : false 
 
 ---
 {% include annonces/activites.html %}
