@@ -7471,7 +7471,7 @@ collectif, la coordination et la compréhension des règles.</p>"
       par des activités de multisports.</p>"
     infos: []
   activation_onglets: true
-- name: Baby Danse & Bijoux
+- name: Mini Danse & Bijoux
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stage-enfant-baby-danse-et-bijoux-500x500.jpg"
   online: true
@@ -7481,7 +7481,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Tu désires allier sport et créativité ?</p><p>Ce stage offre
       une initiation au rythme à travers l'apprentissage de différentes chorégraphies
       adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du
@@ -8015,7 +8015,7 @@ collectif, la coordination et la compréhension des règles.</p>"
     - alias: Amener son propre vélo
       info_line: L'enfant doit venir avec son vélo/draisienne en bon état et son casque.
   activation_onglets: true
-- name: Apprenti Vélo
+- name: Initiation Vélo
   img: "/assets/images/stage-enfant-apprenti-velo-500x500.jpg"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -8025,7 +8025,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 4-6 ans
+    age: 4-7 ans
     description: "<p>Vous souhaitez que votre petit bout apprenne à rouler à vélo
       comme les grands ? Ce stage réservé aux enfants ne sachant pas rouler à vélo
       sur 2 roues est l'idéal pour lui !</p><p>Il propose quotidiennement une demi-journée
@@ -8042,7 +8042,7 @@ collectif, la coordination et la compréhension des règles.</p>"
       info_line: Prévoir une tenue adaptée pour les activités en extérieur. 
   - alias: Bruxelles
     ville: Bruxelles
-    age: 4-6 ans
+    age: 4-7 ans
     description: "<p>Vous souhaitez que votre petit bout apprenne à rouler à vélo
       comme les grands ? Cette étape réservée aux enfants ne sachant pas rouler à
       vélo sur 2 roues est l'idéal pour lui !</p><p>Il propose quotidiennement une
@@ -8096,7 +8096,7 @@ collectif, la coordination et la compréhension des règles.</p>"
     - alias: Tenue adaptée
       info_line: Prévoir une tenue adaptée pour les activités en extérieur.
   activation_onglets: true
-- name: Baby Danse
+- name: Mini Danse
   img: "/assets/images/stages/decouvertesportiveetculturelle/babydansetgym.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -8106,7 +8106,20 @@ collectif, la coordination et la compréhension des règles.</p>"
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 4-6 ans
+    age: 5-7 ans
+    description: "<p>Votre petit bout adore se trémousser dès que vous allumez la
+      musique ? <br>Ce stage d'initiation à la danse est parfait pour lui ! </p><p>Ce
+      stage offre une initiation au rythme à travers l'apprentissage de différentes
+      chorégraphies adaptées aux plus petits. Il va permettre aux enfants d'acquérir
+      les bases du mouvement sur des musiques actuelles.</p><p>Le stage est complété
+      par des activités artistiques (bricolage, confection de bijoux,...) et de multisports.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Un petit spectacle est prévu à la fin de la semaine.
+  activation_onglets: true
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    age: 5-7 ans
     description: "<p>Votre petit bout adore se trémousser dès que vous allumez la
       musique ? <br>Ce stage d'initiation à la danse est parfait pour lui ! </p><p>Ce
       stage offre une initiation au rythme à travers l'apprentissage de différentes
@@ -8152,7 +8165,7 @@ collectif, la coordination et la compréhension des règles.</p>"
       d'audace et multisports).</p>"
     infos: []
   activation_onglets: true
-- name: Baby Gym
+- name: Mini Gym
   img: "/assets/images/stages/decouvertesportiveetculturelle/babygym.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -8162,7 +8175,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir
       la gymnastique ? Ce stage est fait pour lui ! </p><p>Découverte et initiation
       à la gymnastique pour les plus jeunes par des parcours d'équilibre, d'audace
@@ -8179,7 +8192,7 @@ collectif, la coordination et la compréhension des règles.</p>"
         gym.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Rouler, ramper, grimper, sauter ! Votre enfant souhaite découvrir
       la gymnastique ? Ce stage est fait pour lui !</p><p>Découverte et initiation
       à la gymnastique pour les plus jeunes par des parcours d'équilibre, d'audace
@@ -8189,7 +8202,7 @@ collectif, la coordination et la compréhension des règles.</p>"
       fin de semaine pour les parents !</p>"
     infos: []
   activation_onglets: true
-- name: Baby Multisports
+- name: Mini Multisports
   img: "/assets/images/stage-enfant-baby-multisports-500x500.jpg"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -8199,7 +8212,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
       découvrir de nouvelles activités ? </p><p>Voici un stage qui ravira votre enfant
       !</p><p>Par un premier contact avec le sport et les jeux collectifs, votre enfant
@@ -8209,7 +8222,7 @@ collectif, la coordination et la compréhension des règles.</p>"
     infos: []
   - alias: Brabant
     ville: Brabant
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
       découvrir de nouvelles activités ? </p><p>Voici un stage qui ravira votre enfant
       !</p><p>Par un premier contact avec le sport et les jeux collectifs, votre enfant
@@ -8219,7 +8232,7 @@ collectif, la coordination et la compréhension des règles.</p>"
     infos: []
   - alias: Liège
     ville: Liège
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
       découvrir de nouvelles activités ? </p><p>Voici un stage qui ravira votre enfant
       !</p><p>Par un premier contact avec le sport et les jeux collectifs, votre enfant
@@ -8230,7 +8243,7 @@ collectif, la coordination et la compréhension des règles.</p>"
     - alias: représentation
       info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
   activation_onglets: true
-- name: Baby Multisports & Natation
+- name: Mini Multisports & Natation
   img: "/assets/images/stages/decouvertesportiveetculturelle/babymultietnat.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -8240,7 +8253,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p><strong>Et 1,2,3 PLOUF !</strong></p><p>1er pas dans l'eau ?</p><p>Ce
       stage apprend à votre enfant les bases de la natation par le biais d'activités
       ludiques (voyage sur une frite ou une planche, mettre la tête sous l'eau, etc.),
@@ -8258,7 +8271,7 @@ collectif, la coordination et la compréhension des règles.</p>"
       info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p><strong>Et 1,2,3 PLOUF !</strong></p>
       <p>1er pas dans l'eau ?</p>
       <p>
@@ -8272,7 +8285,7 @@ collectif, la coordination et la compréhension des règles.</p>"
     - alias: Equipement
       info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
   activation_onglets: true
-- name: Baby Poney
+- name: Mini Poney
   img: "/assets/images/stages/decouvertesportiveetculturelle/babyponey.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -8283,8 +8296,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p><em>Stage en collaboration avec le </em><strong><em>Horse's Corner</em></strong><em>
-      de Bierges</em></p><p>Ce stage est une pleine participation à la vie du manège
+    description: "<p><em>Stage en collaboration avec le </em><strong><em>Les manèges Horse's Corner et La Motte</em></strong></p><p>Ce stage est une pleine participation à la vie du manège
       : soins et pansage des poneys, nettoyage des box, balades et jeux à poney, voltige
       pour améliorer la motricité de l'enfant, initiation aux bases de l'équitation
       adaptée à l'âge de l'enfant et apprentissage de la théorie équestre de manière
@@ -8322,7 +8334,7 @@ collectif, la coordination et la compréhension des règles.</p>"
       info_line: 'Garderie : inscription sur place. Accueil à partir de 8h et jusque
         16h30. Pas de garderie prévue le soir !'
   activation_onglets: true
-- name: Baby Tennis
+- name: Mini Tennis
   img: "/assets/images/stages/decouvertesportiveetculturelle/babytennis.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -8330,33 +8342,9 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 4-6 ans
-    description: "<p>Vous désirez éveiller votre petit bout à un jeu de raquette ?</p><p>Ce
-      stage est l'idéal pour <strong>initier les enfants au tennis</strong> par différents
-      jeux leur permettant d'en acquérir les bases. Ils découvrent la raquette en
-      tant que prolongement du bras et apprennent à coordonner la vue avec le mouvement
-      de la raquette.</p><p>Nos petits tennisman apprennent, grâce à la 2D, le coup
-      droit, le revers, et toutes leurs particularités : prises, placement, jeux de
-      jambes, direction… La manipulation de la balle au sol, permet de contrôler le
-      mouvement de la raquette et de la balle, et de faciliter leur apprentissage.
-      Ils peuvent ensuite s’essayer à la 3D où l’apprentissage du rebond de la balle
-      est essentiel pour un sport tel que le tennis. La volée et le service sont alors
-      également vus. <br>Les exercices permettent à l'enfant de lire la trajectoire
-      de leur balle et d'anticiper ses rebonds.</p><p>Tous ces exercices sont proposés
-      avec du <strong>matériel adapté</strong> : ballons, ballons de baudruche, balles
-      rouges et balles molles.</p><p>Chaque journée de stage comporte <strong>trois
-      périodes de tennis</strong> et une <strong>période de découverte d’un multisports</strong>
-      en extérieur. Des activités comme du baseball, unihoc, ball bouncer, etc. sont
-      favorisées car elles permettent aux enfants d'utiliser à nouveau du matériel
-      qui est le prolongement de leur main.</p>"
-    infos:
-    - alias: Matériel
-      info_line: Tout le matériel de tennis est fourni par le CFS. 
   - alias: Bruxelles
     ville: Bruxelles
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Vous désirez éveiller votre petit bout à un jeu de raquette ?</p><p>Ce
       stage est l'idéal pour <strong>initier les enfants au tennis </strong>par différents
       jeux leur permettant d'en acquérir les bases. Ils découvrent la raquette en
@@ -8376,23 +8364,7 @@ collectif, la coordination et la compréhension des règles.</p>"
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par notre partenaire. 
-  - alias: Liège
-    ville: Liège
-    age: 4-6 ans
-    description: "<p>Vous désirez éveiller votre petit bout à un jeu de raquettes
-      ?</p><p>Ce stage est l'idéal pour <strong>initier votre enfant au tennis</strong>
-      de manière ludique, et avec du <strong>matériel adapté</strong> pour les plus
-      petits (ballons, ballons de baudruche, balles rouges et balles molles). Les
-      enfants découvrent la raquette en tant que prolongement du bras et apprennent
-      à coordonner la vue avec le mouvement de la raquette.</p><p>Cette découverte
-      du tennis est complétée par des ateliers de psychomotricité (latéralité, équilibre,
-      éveil sensori-moteur, adresse, audace, coopération, rythme, etc.) et de multisports
-      (basketball, mini-foot, volley, handball, unihoc, baseball, etc.).</p>"
-    infos:
-    - alias: représentation
-      info_line: Petite représentation prévue le dernier jour du stage vers 15h00.
-  activation_onglets: true
-- name: Baby Cirque
+- name: Mini Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirquemomes.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -8402,7 +8374,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Tu
       es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu découvriras les arts
       du cirque à travers différents jeux : jonglage, équilibre, pyramide humaine,
@@ -8417,7 +8389,7 @@ collectif, la coordination et la compréhension des règles.</p>"
       info_line: Spectacle en fin de semaine.
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Tu es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu
       découvriras les arts du cirque au travers différents jeux d'intérieur : jonglage,
       équilibre, pyramide humaine,...</p><p>La circomotricité, alliant la psychomotricité
@@ -8434,6 +8406,25 @@ collectif, la coordination et la compréhension des règles.</p>"
     - alias: Spectacle
       info_line: Un petit spectacle est prévu en fin de semaine.
   activation_onglets: true
+ - alias: Liège
+    ville: Liège
+    age: 5-7 ans
+    description: "<p>Tu es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu
+      découvriras les arts du cirque au travers différents jeux d'intérieur : jonglage,
+      équilibre, pyramide humaine,...</p><p>La circomotricité, alliant la psychomotricité
+      avec les techniques du cirque, permet à l'enfant d'évoluer et se développer.
+      En apprenant à manier des objets, ainsi qu'à maîtriser son corps, il pourra
+      pratiquer adresse et équilibre.</p><p>Chaque journée de stage comporte trois
+      périodes de cirque et une période de jeux en extérieur où les enfants auront
+      la chance de découvrir différents jeux collectifs : unihoc, basketball, crosse
+      canadienne, ball bouncer, ou encore baseball. Le moniteur choisit les activités
+      en fonction des demandes des enfants. Les jeux sont organisés sur le terrain
+      de foot à Rixensart, sur le terrain de foot ou de tennis à Ottignies, et dans
+      la plaine du collège à Wavre.</p>"
+    infos:
+    - alias: Spectacle
+      info_line: Un petit spectacle est prévu en fin de semaine.
+  activation_onglets: true  
 - name: Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirque.png"
   inscription: ''
@@ -10524,7 +10515,7 @@ collectif, la coordination et la compréhension des règles.</p>"
       La journée est composée de 3h de sciences et 3h de sport.</p>"
     infos: []
   activation_onglets: true
-- name: Artiste
+- name: Atelier Créatif
   img: "/assets/images/stages/activitesartistiquesetloisirs/artiste.png"
   inscription: ''
   categorie: Activités artistiques et loisirs
@@ -10541,10 +10532,10 @@ collectif, la coordination et la compréhension des règles.</p>"
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.
-    age: 6-12 ans
+    age: 8-14 ans
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-12 ans
+    age: 8-14 ans
     description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
       sa créativité ? Ce stage est fait pour lui ! </p><p>Il apprendra, tout en s'amusant,
       quelques techniques d'art plastique : modelage, collage, dessin, peinture, etc.</p><p>Votre
@@ -10552,6 +10543,16 @@ collectif, la coordination et la compréhension des règles.</p>"
     infos:
     - alias: Tenue adaptée
       info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.
+    - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
+      sa créativité ? Ce stage est fait pour lui ! </p><p>Il apprendra, tout en s'amusant,
+      quelques techniques d'art plastique : modelage, collage, dessin, peinture, etc.</p><p>Votre
+      enfant ramènera toutes ses œuvres à la maison !</p>"
+    infos:
+    - alias: Tenue adaptée
+      info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.  
   activation_onglets: true
 - name: Bande Dessinée
   img: "/assets/images/stages/activitesartistiquesetloisirs/bd.png"
