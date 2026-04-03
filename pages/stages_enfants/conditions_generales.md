@@ -37,13 +37,12 @@ Nombre de stages Réductions
 Les enfants domiciliés à Jette bénéficient d'une réduction de 4€/jour pour les stages effectués dans leur commune.
 
 ##### Pour les inscriptions sur la Province de Liège
-Une réduction de 5 € est accordée à partir du 2ème stage effectué durant nos stages, par un même enfant ou un enfant de la même famille.
+Une réduction de 5 € est accordée à partir du 2ème stage effectué durant nos stages, par un même enfant ou un enfant de la même famille. 
 
-Une réduction de 15 € est accordée sur chaque stage pour les enfants habitant l’entité de Villers-le-Bouillet, sans réduction pour le 2ème stage.
+Une réduction de 15 € est accordée sur chaque stage pour les enfants habitant l’entité de Villers-le-Bouillet, sans réduction pour le 2ème stage. 
 
 Une réduction de 10 € est accordée sur chaque stage pour les enfants habitant l’entité d’Amay, sans réduction pour le 2ème stage.
 
-Pour le stage X-TREM se déroulant à **Villers-le-Bouillet**, une réduction de 15€ est accordée, pour les habitants de l'entité de **Villers** et de l'entité de **Verlaine**, sans réduction pour le 2ème stage.
 
 ### Article 2. Conditions de participation
 #### Article 2.1. Droits et devoirs des enfants
