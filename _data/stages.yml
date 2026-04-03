@@ -598,26 +598,26 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 8-14 ans
-    description: '<p><em>Stage en collaboration avec&nbsp;<strong>YourTenniSchool Wavre</strong></em></p>
+    description: |
+      <p><em>Stage en collaboration avec <strong>YourTenniSchool Wavre</strong></em></p>
 
-<p>Votre enfant veut d&eacute;couvrir les joies d&#39;un sport de&nbsp;raquettes ?</p>
+      <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
 
-<p>Dans cette cat&eacute;gorie, les enfants d&eacute;couvriront avec rigueur&nbsp;la tactique et la technique du jeu de base des coups principaux (service, retour, coup droit, revers, vol&eacute;es, smash).</p>
+      <p>Dans cette catégorie, les enfants découvriront avec rigueur la tactique et la technique du jeu de base des coups principaux (service, retour, coup droit, revers, volées, smash).</p>
 
-<p>Un programme &eacute;volutif est mis en place tout au long de la semaine.</p>
+      <p>Un programme évolutif est mis en place tout au long de la semaine.</p>
 
-<p>En fonction des niveaux de chacun, les moniteurs adapteront la taille des terrains, des raquettes et des balles pour favoriser la r&eacute;ussite de l&rsquo;&eacute;change. </p>
+      <p>En fonction des niveaux de chacun, les moniteurs adapteront la taille des terrains, des raquettes et des balles pour favoriser la réussite de l’échange.</p>
 
-<p>D&eacute;couvrez les activit&eacute;s donn&eacute;es par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
+      <p>Découvrez les activités données par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
 
-<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants rejoignent un stage du centre. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; la pratique du tennis.</p>
-'
+      <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants rejoignent un stage du centre. L'après-midi est consacrée à la pratique du tennis.</p>
     infos:
     - alias: Matériel
-      info_line: 'Tout le matériel de tennis est fourni par notre partenaire. '
+      info_line: Tout le matériel de tennis est fourni par notre partenaire.
     - alias: Repas chaud
-      info_line: Repas chaud possible en option de l'inscription (semaine complète
-        obligatoire et inscription possible uniquement avant la semaine de stage).
+      info_line: Repas chaud possible en option de l'inscription (semaine complète obligatoire et inscription possible uniquement avant la semaine de stage).
+
 - name: Mini-Tennis & Multisports
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/tennis-multisports.png"
@@ -630,28 +630,27 @@ stages:
   - alias: Brabant
     ville: Brabant Wallon
     age: 4-7 ans
-    description: '<p><em>Stage en collaboration avec&nbsp;<strong>YourTenniSchool Wavre</strong></em></p>
+    description: |
+      <p><em>Stage en collaboration avec <strong>YourTenniSchool Wavre</strong></em></p>
 
-<p>Vous d&eacute;sirez &eacute;veiller votre petit bout &agrave; un jeu de raquette ?</p>
+      <p>Vous désirez éveiller votre petit bout à un jeu de raquette ?</p>
 
-<p>Cette cat&eacute;gorie du mini-tennis est d&eacute;coup&eacute;e en 3 niveaux : le niveau blanc, bleu et rouge.&nbsp;Chaque niveau comprend plusieurs objectifs d&rsquo;apprentissage.</p>
+      <p>Cette catégorie du mini-tennis est découpée en 3 niveaux : le niveau blanc, bleu et rouge. Chaque niveau comprend plusieurs objectifs d’apprentissage.</p>
 
-<p><strong>Le niveau blanc</strong>&nbsp;: Les enfants seront plong&eacute;s dans leurs monde imaginaire. Les jeux seront pr&eacute;sent&eacute;s sous forme d&rsquo;histoires, de comptes et imag&eacute;s pour que les enfants s&rsquo;y sentent bien.&nbsp;&nbsp; Ils se familiariseront avec la raquette et la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds, notion du temps et de la perception des trajectoires de la balle.</p>
+      <p><strong>Le niveau blanc</strong> : Les enfants seront plongés dans leur monde imaginaire. Les jeux seront présentés sous forme d’histoires, de contes et imagés pour que les enfants s’y sentent bien. Ils se familiariseront avec la raquette et la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds, notion du temps et de la perception des trajectoires de la balle.</p>
 
-<p><strong>Le niveau bleu</strong>&nbsp;: Les enfants apprendront &eacute;galement les premi&egrave;res notions des r&egrave;gles du jeu et tactiques de base en faisant rouler un ballon au sol (&ecirc;tre pr&eacute;cis, r&eacute;gulier, changer la direction de la balle).</p>
+      <p><strong>Le niveau bleu</strong> : Les enfants apprendront également les premières notions des règles du jeu et tactiques de base en faisant rouler un ballon au sol (être précis, régulier, changer la direction de la balle).</p>
 
-<p><strong>Le niveau rouge</strong>&nbsp;: Les enfants d&eacute;couvriront la tactique du jeu avec le rebond de la balle. Les enfants y apprendront &agrave; servir, &agrave; retourner, &agrave; utiliser les trajectoires et &agrave; marquer des points gr&acirc;ce aux vol&eacute;es.</p>
+      <p><strong>Le niveau rouge</strong> : Les enfants découvriront la tactique du jeu avec le rebond de la balle. Les enfants y apprendront à servir, à retourner, à utiliser les trajectoires et à marquer des points grâce aux volées.</p>
 
-<p>D&eacute;couvrez les activit&eacute;s donn&eacute;es par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
+      <p>Découvrez les activités données par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
 
-<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient avec rigueur&nbsp;au tennis. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; la d&eacute;couverte d&#39;une activit&eacute; multisports.&nbsp;Des activit&eacute;s&nbsp;comme du baseball, unihoc, ball bouncer, etc. sont favoris&eacute;es car elles permettent aux&nbsp;enfants d&#39;utiliser &agrave; nouveau du mat&eacute;riel qui est le prolongement de leur main.</p>
-'
+      <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient avec rigueur au tennis. L'après-midi est consacrée à la découverte d'une activité multisports. Des activités comme du baseball, unihoc, ball bouncer, etc. sont favorisées car elles permettent aux enfants d'utiliser à nouveau du matériel qui est le prolongement de leur main.</p>
     infos:
     - alias: Matériel
-      info_line: Tout le matériel de tennis est fourni par notre partenaire. 
+      info_line: Tout le matériel de tennis est fourni par notre partenaire.
     - alias: Repas chaud
-      info_line: Repas chaud possible en option de l'inscription (semaine complète
-        obligatoire et inscription possible uniquement avant la semaine de stage).
+      info_line: Repas chaud possible en option de l'inscription (semaine complète obligatoire et inscription possible uniquement avant la semaine de stage).
 - name: Top Chef – Avec les P’tits Lions de Delhaize
   categorie: Activités artistiques et loisirs
   img: "/assets/images/top-chef-delhaize.png"
@@ -965,19 +964,18 @@ stages:
   activation_onglets: false
   inscription: ''
   location:
-  - alias: Bravant
+  - alias: Brabant
     ville: Brabant Wallon
     age: 5-7 ans
-    description: '<p><em>En collaboration avec le </em><strong><em>Basket Club Dylois Wavre</em></strong></p>
-    <p>Votre enfant veut découvrir l’univers dynamique du basket ? </p>
-    <p>Ce stage de basket allie apprentissage des fondamentaux et plaisir du jeu dans une
-ambiance conviviale et encadrée.</p>
-<p>Tout au long de la semaine, les enfants s’initient ou se perfectionnent aux techniques
-de dribble, de passe, de tir et de placement sur le terrain. L’accent est mis sur le jeu
-collectif, la coordination et la compréhension des règles.</p>'
+    description: |
+      <p><em>En collaboration avec le </em><strong><em>Basket Club Dylois Wavre</em></strong></p>
+      <p>Votre enfant veut découvrir l’univers dynamique du basket ?</p>
+      <p>Ce stage de basket allie apprentissage des fondamentaux et plaisir du jeu dans une ambiance conviviale et encadrée.</p>
+      <p>Tout au long de la semaine, les enfants s’initient ou se perfectionnent aux techniques de dribble, de passe, de tir et de placement sur le terrain. L’accent est mis sur le jeu collectif, la coordination et la compréhension des règles.</p>
     infos:
     - alias: Garderie
-      info_line: Inscription sur place ! Garderie payante de 08h15 à 09h00 et de 16h00 à 17h00 (5€). Pas de garderie après 17h.
+      info_line: Inscription sur place ! Garderie payante de 08h15 à 09h00 et de 16h00 à 17h00 (5€). Pas de garderie après 17h.
+
 - name: Basket
   categorie: Activités sportives
   img: "/assets/images/basket-wavre.png"
@@ -990,16 +988,15 @@ collectif, la coordination et la compréhension des règles.</p>'
   - alias: Brabant
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p><em>En collaboration avec le </em><strong><em>Basket Club Dylois Wavre</em></strong></p>
-    <p>Votre enfant veut découvrir l’univers dynamique du basket ? </p>
-    <p>Ce stage de basket allie apprentissage des fondamentaux et plaisir du jeu dans une
-ambiance conviviale et encadrée.</p>
-<p>Tout au long de la semaine, les enfants s’initient ou se perfectionnent aux techniques
-de dribble, de passe, de tir et de placement sur le terrain. L’accent est mis sur le jeu
-collectif, la coordination et la compréhension des règles.</p>"
-  infos:
+    description: |
+      <p><em>En collaboration avec le </em><strong><em>Basket Club Dylois Wavre</em></strong></p>
+      <p>Votre enfant veut découvrir l’univers dynamique du basket ?</p>
+      <p>Ce stage de basket allie apprentissage des fondamentaux et plaisir du jeu dans une ambiance conviviale et encadrée.</p>
+      <p>Tout au long de la semaine, les enfants s’initient ou se perfectionnent aux techniques de dribble, de passe, de tir et de placement sur le terrain. L’accent est mis sur le jeu collectif, la coordination et la compréhension des règles.</p>
+    infos:
     - alias: Garderie
-      info_line: Inscription sur place ! Garderie payante de 08h15 à 09h00 et de 16h00 à 17h00 (5€). Pas de garderie après 17h.
+      info_line: Inscription sur place ! Garderie payante de 08h15 à 09h00 et de 16h00 à 17h00 (5€). Pas de garderie après 17h.
+
 - name: Fun Sports Nautic
   categorie: Internat
   img: "/assets/images/sport-nautic.png"
@@ -1012,15 +1009,15 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Godinne
     ville: Godinne
     age: 10-15 ans
-    description: "<p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p><p>Plein
-      succès pour ce Stage d'été rafraîchissant !</p><p>Paddle, Piscine détente, jeux
-      en piscine, Vtt balade et technique, kayak de mer, Bouée tractée par un zodiac,
-      sports détente en extérieur...</p><p>Un cocktail d’activités loisirs en pleine
-      nature !</p>"
+    description: |
+      <p><em>En collaboration avec l'</em><strong><em>ADSL</em></strong></p>
+      <p>Plein succès pour ce Stage d'été rafraîchissant !</p>
+      <p>Paddle, Piscine détente, jeux en piscine, VTT balade et technique, kayak de mer, Bouée tractée par un zodiac, sports détente en extérieur...</p>
+      <p>Un cocktail d’activités loisirs en pleine nature !</p>
     infos:
     - alias: Accueil
       info_line: Accueil des stagiaires le dimanche soir à 19h.
-    - alias: matériel
+    - alias: Matériel
       info_line: Venir avec son VTT + casque obligatoire - location limitée possible.
 - name: Comédie Musicale
   categorie: Internat
@@ -7016,35 +7013,32 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Brabant
     ville: Brabant Wallon
     age: 3-4 ans
-    description: "<p><strong>NOUVEAU </strong>!</p><p>Votre enfant à l'âme d'un futur
-      cuisinier ?</p><p>Durant le stage, nos petits chefs participeront à la préparation
-      de quelques recettes culinaires de base. L'autre partie de la journée, des exercices
-      et jeux basés sur les différents axes de la psychomotricité seront proposés
-      aux enfants : latéralité, équilibre, éveil sensori-moteur, adresse, audace,
-      coopération, rythme, etc.</p><p>Une période de repos est prévue après le temps
-      de midi.</p><p>Une petite représentation/dégustation est prévue en fin de stage
-    .</p><p>Les enfants doivent obligatoirement
-      être propres pour pouvoir participer à ce stage. L'enfant doit apporter son
-      tablier. Prévoir une tenue de rechange.</p>"
+    description: |
+      <p><strong>NOUVEAU </strong>!</p>
+      <p>Votre enfant a l'âme d'un futur cuisinier ?</p>
+      <p>Durant le stage, nos petits chefs participeront à la préparation de quelques recettes culinaires de base. L'autre partie de la journée, des exercices et jeux basés sur les différents axes de la psychomotricité seront proposés aux enfants : latéralité, équilibre, éveil sensori-moteur, adresse, audace, coopération, rythme, etc.</p>
+      <p>Une période de repos est prévue après le temps de midi.</p>
+      <p>Une petite représentation/dégustation est prévue en fin de stage.</p>
+      <p>Les enfants doivent obligatoirement être propres pour pouvoir participer à ce stage. L'enfant doit apporter son tablier. Prévoir une tenue de rechange.</p>
     infos: []
+
   - alias: Liège
     ville: Liège
     age: 3-5 ans
-    description: "<p>Votre enfant à l'âme d'un futur cuisinier ?</p><p>Durant le stage,
-      nos petits chefs participeront à la préparation de quelques recettes culinaires
-      de base.</p><p>L'autre partie de la journée, des exercices et jeux basés sur
-      les différents axes de la psychomotricité seront proposés aux enfants : latéralité,
-      équilibre, éveil sensori-moteur, adresse, audace, coopération, rythme, etc.</p><p>Une
-      période de repos est prévue après le temps de midi.</p><p><strong>Attention</strong>
-      : Les enfants doivent obligatoirement être propres pour pouvoir participer à
-      ce stage.</p>"
+    description: |
+      <p>Votre enfant a l'âme d'un futur cuisinier ?</p>
+      <p>Durant le stage, nos petits chefs participeront à la préparation de quelques recettes culinaires de base.</p>
+      <p>L'autre partie de la journée, des exercices et jeux basés sur les différents axes de la psychomotricité seront proposés aux enfants : latéralité, équilibre, éveil sensori-moteur, adresse, audace, coopération, rythme, etc.</p>
+      <p>Une période de repos est prévue après le temps de midi.</p>
+      <p><strong>Attention</strong> : Les enfants doivent obligatoirement être propres pour pouvoir participer à ce stage.</p>
     infos:
     - alias: Représentation
-      info_line: Une petite représentation/dégustation est prévue en fin de stage. 
+      info_line: Une petite représentation/dégustation est prévue en fin de stage.
     - alias: Tablier
       info_line: L'enfant doit apporter son tablier.
     - alias: Tenue de rechange
       info_line: Prévoir une tenue de rechange.
+
   activation_onglets: true
 - name: Stylisme
   categorie: Activités artistiques et loisirs
@@ -8364,56 +8358,43 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Bruxelles
     ville: Bruxelles
     age: 5-7 ans
-    description: "<p>Tu
-      es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu découvriras les arts
-      du cirque à travers différents jeux : jonglage, équilibre, pyramide humaine,
-      monocycle,...</p><p>La circomotricité, alliant la psychomotricité avec les techniques
-      du cirque, permet à l'enfant d'évoluer et se développer. En apprenant à manier
-      des objets, ainsi qu'à maîtriser son corps, il pourra pratiquer adresse et équilibre.</p><p>Chaque
-      journée de stage comporte trois périodes de cirque et une période de multisports
-      ou de jeux collectifs en intérieur. Le moniteur choisit les activités en fonction
-      des demandes des enfants.</p>"
+    description: |
+      <p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p>
+      <p>Tu découvriras les arts du cirque à travers différents jeux : jonglage, équilibre, pyramide humaine, monocycle,...</p>
+      <p>La circomotricité, alliant la psychomotricité avec les techniques du cirque, permet à l'enfant d'évoluer et se développer. En apprenant à manier des objets, ainsi qu'à maîtriser son corps, il pourra pratiquer adresse et équilibre.</p>
+      <p>Chaque journée de stage comporte trois périodes de cirque et une période de multisports ou de jeux collectifs en intérieur. Le moniteur choisit les activités en fonction des demandes des enfants.</p>
     infos:
     - alias: Spectacle
       info_line: Spectacle en fin de semaine.
+
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 5-7 ans
-    description: "<p>Tu es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu
-      découvriras les arts du cirque au travers différents jeux d'intérieur : jonglage,
-      équilibre, pyramide humaine,...</p><p>La circomotricité, alliant la psychomotricité
-      avec les techniques du cirque, permet à l'enfant d'évoluer et se développer.
-      En apprenant à manier des objets, ainsi qu'à maîtriser son corps, il pourra
-      pratiquer adresse et équilibre.</p><p>Chaque journée de stage comporte trois
-      périodes de cirque et une période de jeux en extérieur où les enfants auront
-      la chance de découvrir différents jeux collectifs : unihoc, basketball, crosse
-      canadienne, ball bouncer, ou encore baseball. Le moniteur choisit les activités
-      en fonction des demandes des enfants. Les jeux sont organisés sur le terrain
-      de foot à Rixensart, sur le terrain de foot ou de tennis à Ottignies, et dans
-      la plaine du collège à Wavre.</p>"
+    description: |
+      <p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p>
+      <p>Tu découvriras les arts du cirque au travers différents jeux d'intérieur : jonglage, équilibre, pyramide humaine,...</p>
+      <p>La circomotricité, alliant la psychomotricité avec les techniques du cirque, permet à l'enfant d'évoluer et se développer. En apprenant à manier des objets, ainsi qu'à maîtriser son corps, il pourra pratiquer adresse et équilibre.</p>
+      <p>Chaque journée de stage comporte trois périodes de cirque et une période de jeux en extérieur où les enfants auront la chance de découvrir différents jeux collectifs : unihoc, basketball, crosse canadienne, ball bouncer, ou encore baseball.</p>
+      <p>Les jeux sont organisés sur le terrain de foot à Rixensart, sur le terrain de foot ou de tennis à Ottignies, et dans la plaine du collège à Wavre.</p>
     infos:
     - alias: Spectacle
       info_line: Un petit spectacle est prévu en fin de semaine.
-  activation_onglets: true
- - alias: Liège
+
+  - alias: Liège
     ville: Liège
     age: 5-7 ans
-    description: "<p>Tu es un vrai petit clown ? Ce stage t'es destiné !</p><p>Tu
-      découvriras les arts du cirque au travers différents jeux d'intérieur : jonglage,
-      équilibre, pyramide humaine,...</p><p>La circomotricité, alliant la psychomotricité
-      avec les techniques du cirque, permet à l'enfant d'évoluer et se développer.
-      En apprenant à manier des objets, ainsi qu'à maîtriser son corps, il pourra
-      pratiquer adresse et équilibre.</p><p>Chaque journée de stage comporte trois
-      périodes de cirque et une période de jeux en extérieur où les enfants auront
-      la chance de découvrir différents jeux collectifs : unihoc, basketball, crosse
-      canadienne, ball bouncer, ou encore baseball. Le moniteur choisit les activités
-      en fonction des demandes des enfants. Les jeux sont organisés sur le terrain
-      de foot à Rixensart, sur le terrain de foot ou de tennis à Ottignies, et dans
-      la plaine du collège à Wavre.</p>"
+    description: |
+      <p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p>
+      <p>Tu découvriras les arts du cirque au travers différents jeux d'intérieur : jonglage, équilibre, pyramide humaine,...</p>
+      <p>La circomotricité, alliant la psychomotricité avec les techniques du cirque, permet à l'enfant d'évoluer et se développer.</p>
+      <p>Chaque journée de stage comporte trois périodes de cirque et une période de jeux en extérieur avec des activités comme unihoc, basketball, crosse canadienne ou baseball.</p>
     infos:
     - alias: Spectacle
       info_line: Un petit spectacle est prévu en fin de semaine.
-  activation_onglets: true  
+
+  activation_onglets: true
+
+
 - name: Cirque
   img: "/assets/images/stages/decouvertesportiveetculturelle/cirque.png"
   inscription: ''
@@ -8425,45 +8406,38 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-8 ans
-    description: "<p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p><p>Tu
-      découvriras les <strong>arts du cirque</strong> à travers différents jeux d'intérieur
-      : jonglage, équilibre, pyramide humaine,...</p><p>Chaque journée de stage comporte
-      trois périodes de cirque et une période de jeux en extérieur où les enfants
-      auront la chance de découvrir différents jeux collectifs : unihoc, basketball,
-      crosse canadienne, ball bouncer, ou encore baseball. Le moniteur choisit les
-      activités en fonction des demandes des enfants. Les jeux sont organisés sur
-      le terrain de foot à Rixensart, sur le terrain de foot ou de tennis à Ottignies,
-      et dans la plaine du collège à Wavre.</p>"
+    description: |
+      <p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p>
+      <p>Tu découvriras les <strong>arts du cirque</strong> à travers différents jeux d'intérieur : jonglage, équilibre, pyramide humaine,...</p>
+      <p>Chaque journée de stage comporte trois périodes de cirque et une période de jeux en extérieur avec différents jeux collectifs.</p>
     infos:
     - alias: Spectacle
       info_line: Un petit spectacle est prévu en fin de semaine.
+
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-8 ans
-    description: "<p><em>Stage en collaboration avec </em><strong><em>Circomodo</em></strong></p><p>Tu
-      es un vrai petit clown ? Ce stage t'est destiné !</p><p>Tu découvriras les <strong>arts
-      du cirque</strong> à travers différents jeux : jonglage, équilibre, pyramide
-      humaine,...</p><p>La circomotricité, alliant la psychomotricité avec les techniques
-      du cirque, permet à l'enfant d'évoluer et se développer. En apprenant à manier
-      des objets, ainsi qu'à maîtriser son corps, il pourra pratiquer adresse et équilibre.</p><p>Chaque
-      journée de stage comporte trois périodes de cirque et une période de multisports
-      ou de jeux collectifs en intérieur. Le moniteur choisit les activités en fonction
-      des demandes des enfants.</p>"
+    description: |
+      <p><em>Stage en collaboration avec </em><strong><em>Circomodo</em></strong></p>
+      <p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p>
+      <p>Tu découvriras les <strong>arts du cirque</strong> à travers différents jeux : jonglage, équilibre, pyramide humaine,...</p>
+      <p>La circomotricité permet à l'enfant d'évoluer et se développer.</p>
     infos:
     - alias: Spectacle
       info_line: Spectacle en fin de semaine.
+
   - alias: Liège
     ville: Liège
     age: 8-12 ans
-    description: "
-    <p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p>
-    <p>Tu découvriras les arts du cirque à travers différents jeux : jonglerie (foulards, diabolos, assiettes chinoises, balles, quilles, anneaux et bâton du diable), équilibre (monocycles, échasses, mini rouleau, rola-bola et bidon), acrobatie (bases d'acrobaties fixes).</p>
-    <p>Les 3 heures de cirque sont complétées par 3 périodes de fun & multisports (Kinball, l’ultimate frisbee, tchoukball, speedminton, flag foot, baseball, poull-ball, etc.).</p>
-    <p>Une semaine pleine de découvertes, de rires et de bons souvenirs !</p>
-      "
+    description: |
+      <p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p>
+      <p>Tu découvriras les arts du cirque à travers différents jeux : jonglerie, équilibre et acrobaties.</p>
+      <p>Les 3 heures de cirque sont complétées par 3 périodes de fun & multisports.</p>
+      <p>Une semaine pleine de découvertes, de rires et de bons souvenirs !</p>
     infos:
     - alias: Représentation
-      info_line: Une petite représentation est prévue en fin de stage. 
+      info_line: Une petite représentation est prévue en fin de stage.
+
   activation_onglets: true
 - name: Découverte Sportive
   img: "/assets/images/stages/decouvertesportiveetculturelle/decsportive.png"
@@ -8476,14 +8450,11 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-6 ans
-    description: "<p>Votre enfant a besoin de se défouler ? Il adore le sport et aime
-      découvrir de nouvelles activités ? </p><p>Nous proposons durant cette semaine,
-      des jeux collectifs, par lesquels votre enfant développera différentes facettes
-      de la motricité, le respect des règles et la vie en groupe. Les activités en
-      extérieur sont privilégiées tout au long de la semaine : les enfants participerons
-      à différents jeux tels que le unihoc, la crosse canadienne, les sports raquettes,
-      le frisbee golf, le basketball, ou encore des jeux de cohésion.</p><p>Des activités
-      multisports qui raviront votre enfant !</p>"
+    description: |
+      <p>Votre enfant a besoin de se défouler ? Il adore le sport et aime découvrir de nouvelles activités ?</p>
+      <p>Nous proposons durant cette semaine des jeux collectifs, par lesquels votre enfant développera différentes facettes de la motricité, le respect des règles et la vie en groupe.</p>
+      <p>Les activités en extérieur sont privilégiées tout au long de la semaine : les enfants participeront à différents jeux tels que le unihoc, la crosse canadienne, les sports de raquettes, le frisbee golf, le basketball ou encore des jeux de cohésion.</p>
+      <p>Des activités multisports qui raviront votre enfant !</p>
     infos: []
   activation_onglets: true
 - name: Découverte Sportive & Natation
@@ -9182,84 +9153,57 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 10-16 ans
-    description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !</p>
-                  <p><strong>PROGRAMME: </strong>New Games, Aqualibi, Walibi, Patinoire, Koézio, Quad & Laser Game, BBQ et jeux dans les bois.</p>
-                  <ul>
-                    <li>
-                      <p><strong>New Games</strong>: différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p>
-                    </li>
-                    <li>
-                      <p><strong>Aqualibi: </strong>Parc d'attractions aquatique : des toboggans qui plairont à tous, une piscine à vague pour un moment de fun inoubliable, une rivière surprenante parfois tranquille, parfois carrément féroce et bien d'autres plaisirs aquatiques t'attendent !</p>
-                    </li>
-                    <li>
-                      <p><strong>Excursion à Walibi</strong>: Parc d'attractions où tu partageras de vraies sensations ! La célèbre rivière sauvage, la Radja River, le terrifiant train de la mine, le Calamity mine et bien d'autres sensation fun garantie t'attendent !</p>
-                    </li>
-                    <li>
-                      <p><strong>Patinoire:</strong> au Posséidon.</p>
-                    </li>
-                    <li>
-                      <p><strong>Excursion à Koezio à Docks Bruxsel</strong>: le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum: 1,40 m.</p>
-                    </li>
-                    <li>
-                      <p><strong>Journée Quad et Laser game</strong> en partenariat avec <strong>ROC Event</strong>.</p>
-                    </li>
-                    <li>
-                      <p><strong>Jeux dans les bois:</strong> stratégo, capture de drapeau, jeu de piste.</p>
-                    </li>
-                  </ul>
-                  <p><strong><em>ATTENTION:</em></strong><em> le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>"
-    infos:
-    - alias: Koezio
-      info_line: 'Taille minimum pour Koezio : 1m40'
-    - alias: Tenue de bain
-      info_line: Prévoir son maillot et un essuie pour les activités avec de l'eau
-        (Aqualibi, Barrage de l'Eau d'Heure et Profondeville).
-    - alias: Navettes
-      info_line: Les navettes sont assurées par le CFS.
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 10-18 ans
-    description: "<p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !</p>
-    <p><strong>PROGRAMME: </strong>New Games, Aqualibi, Walibi, Laser game & Prison Island, Koézio, Quad, Karting, Profondeville.</p>
-    <ul>
-      <li>
-        <p><strong>New games </strong>: différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p>
-      </li>
-      <li>
-        <p><strong>Excursion à Aqualibi:</strong> Parc d'attractions aquatique : des toboggans qui plairont à tous, une piscine à vague pour un moment de fun inoubliable, une rivière surprenante parfois tranquille, parfois carrément féroce et bien d'autres plaisirs aquatiques t'attendent !</p>
-      </li>
-      <li>
-        <p><strong>Excursion à Walibi </strong>: Parc d'attractions où tu partageras de vraies sensations ! La célèbre rivière sauvage, la Radja River, le terrifiant train de la mine, le Calamity mine et bien d'autres sensation fun garantie t'attendent !</p>
-      </li>
-      <li>
-        <p><strong>Laser Game & Prison Island </strong> en partenariat avec <strong>Big C</strong>: relevez un maximum de défis dans une expérience immersive totale et des décors réalistes !</p>
-      </li>
-      <li>
-        <p><strong>Excursion à Koezio au Docks Bruxsel</strong> : le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum: 1,40 m</p>
-      </li>
-      <li>
-        <p><strong>Journée Quad </strong> en partenariat avec <strong>ROC Event.</strong></p>
-      </li>
-      <li>
-        <p><strong>Karting</strong> : au Grand Bigard.</p>
-      </li>
-      <li>
-        <p><strong>Profondeville : </strong>Activités aquatiques. (bouées tractées et paddle)</p>
-      </li>
-    </ul>
-    <p><strong><em>ATTENTION :</em></strong><em> le programme varie en fonction des périodes de l'année et des jours d'ouverture de nos différents partenaires. Pour le programme réel d'une semaine, référez-vous au descriptif de stage lors de l'inscription.</em></p>"
-    infos:
-    - alias: Koezio
-      info_line: 'Taille minimum pour Koezio : 1m40'
-    - alias: Tenue de bain
-      info_line: Prévoir son maillot et un essuie pour les activités avec de l'eau
-        (Aqualibi, Barrage de l'Eau d'Heure et Profondeville).
-    - alias: Déplacements
-      info_line: Les déplacements en transports en commun sont assurés par le CFS.
+    - alias: Brabant Wallon
+      ville: Brabant Wallon
+      age: 10-16 ans
+      description: |
+        <p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS ! Un super programme ! Une activité différente chaque jour !</p>
+        <p><strong>PROGRAMME: </strong>New Games, Aqualibi, Walibi, Patinoire, Koézio, Quad & Laser Game, BBQ et jeux dans les bois.</p>
+        <ul>
+          <li><p><strong>New Games</strong>: frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li>
+          <li><p><strong>Aqualibi:</strong> parc aquatique avec toboggans, piscine à vagues et rivière.</p></li>
+          <li><p><strong>Walibi:</strong> parc d'attractions avec sensations fortes.</p></li>
+          <li><p><strong>Patinoire:</strong> au Posséidon.</p></li>
+          <li><p><strong>Koezio:</strong> défis d’équipe et accrobranche (min 1,40 m).</p></li>
+          <li><p><strong>Quad & Laser Game</strong> avec ROC Event.</p></li>
+          <li><p><strong>Jeux dans les bois:</strong> stratégo, capture de drapeau, jeu de piste.</p></li>
+        </ul>
+        <p><em>Le programme varie selon les périodes et disponibilités des partenaires.</em></p>
+      infos:
+        - alias: Koezio
+          info_line: Taille minimum pour Koezio 1m40
+        - alias: Tenue de bain
+          info_line: Prévoir maillot et essuie pour les activités aquatiques.
+        - alias: Navettes
+          info_line: Les navettes sont assurées par le CFS.
+
+    - alias: Bruxelles
+      ville: Bruxelles
+      age: 10-18 ans
+      description: |
+        <p>Envie d'une semaine hyper fun ? Viens à ce stage phare du CFS !</p>
+        <p><strong>PROGRAMME:</strong> New Games, Aqualibi, Walibi, Laser Game & Prison Island, Koézio, Quad, Karting, Profondeville.</p>
+        <ul>
+          <li><p><strong>New Games</strong>: activités fun comme frisbee golf, spikeball, kinball.</p></li>
+          <li><p><strong>Aqualibi:</strong> parc aquatique.</p></li>
+          <li><p><strong>Walibi:</strong> parc d’attractions.</p></li>
+          <li><p><strong>Laser Game & Prison Island:</strong> défis immersifs.</p></li>
+          <li><p><strong>Koezio:</strong> défis d’équipe (min 1,40 m).</p></li>
+          <li><p><strong>Quad:</strong> avec ROC Event.</p></li>
+          <li><p><strong>Karting:</strong> à Grand-Bigard.</p></li>
+          <li><p><strong>Profondeville:</strong> activités aquatiques.</p></li>
+        </ul>
+        <p><em>Le programme varie selon les périodes et disponibilités.</em></p>
+      infos:
+        - alias: Koezio
+          info_line: Taille minimum pour Koezio 1m40
+        - alias: Tenue de bain
+          info_line: Prévoir maillot et essuie pour les activités aquatiques.
+        - alias: Déplacements
+          info_line: Les déplacements en transports en commun sont assurés par le CFS.
+
   activation_onglets: true
+
 - name: Fun Ados
   img: "/assets/images/fun-ado-laser-game.png"
   inscription: ''
@@ -9268,23 +9212,25 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: true
   stage_une: false
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 12-16 ans
-    infos:
-    - alias: Déplacements
-      info_line: Les déplacements en transports en commun sont assurés par le CFS.
-    - alias: Midi
-      info_line: Pour la journée au Paintball Bruxelles, les enfants reçoivent un
-        pain saucisse à midi.
-    description: "<p>Une superbe semaine pour vos ados !! Activités fun garanties
-      !</p><p><strong>PROGRAMME : </strong>New Games, Go Ventura, Koezio, Laser Game, Prison Island</p>
-      <ul><li><p><strong>New games </strong>: différentes activités fun sont proposées sur la journée telles que le frisbee golf, snag golf, spikeball, kinball, flag foot.</p></li>
-      <li><p><strong>Go Ventura :</strong> le parc permet d'entrer dans la peau d'aventuriers et de participer à différents challenges : cohésion d'équipe, stratégie et coopération sont au rendez-vous ! La journée se compose comme suit : ½ journée avec des épreuves Koh Lanta et ½ journée de Paintball.</p></li>
-      <li><p><strong>Excursion à Koezio à Docks Bruxsel </strong>:  le centre propose des jeux de collaboration et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum : 1,40 m.</p></li>
-      <li><p><strong>Laser Game</strong> : en collaboration avec Big C.</p></li>
-      <li><p><strong>Prison Island</strong>: en collaboration avec Bic C : relevez un maximum de défis dans une expérience immersive total et des décors réalistes !</p></li>
-      </ul>"
+    - alias: Bruxelles
+      ville: Bruxelles
+      age: 12-16 ans
+      description: |
+        <p>Une superbe semaine pour vos ados ! Activités fun garanties !</p>
+        <p><strong>PROGRAMME :</strong> New Games, Go Ventura, Koezio, Laser Game, Prison Island</p>
+        <ul>
+          <li><p><strong>New Games</strong>: frisbee golf, spikeball, kinball, flag foot.</p></li>
+          <li><p><strong>Go Ventura:</strong> challenges + paintball.</p></li>
+          <li><p><strong>Koezio:</strong> défis d’équipe (min 1,40 m).</p></li>
+          <li><p><strong>Laser Game</strong></p></li>
+          <li><p><strong>Prison Island:</strong> défis immersifs.</p></li>
+        </ul>
+      infos:
+        - alias: Déplacements
+          info_line: Les déplacements en transports en commun sont assurés par le CFS.
+        - alias: Midi
+          info_line: Pain saucisse prévu pour la journée paintball.
+
   activation_onglets: true
 - name: Fun Paintball & VTT
   img: "/assets/images/stages/activitesfun/funpaintballetvtt.png"
@@ -10465,6 +10411,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   stage_une: false
   location: []
   activation_onglets: true
+
 - name: Tennis
   img: "/assets/images/stage-enfant-internat-tennis-500x500.jpg"
   inscription: ''
@@ -10476,18 +10423,19 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Espagne
     ville: Espagne
     age: 12-17 ans
-    description: "<p>Activités : Découverte de Platja d’Aro et selfie tour, Tennis
-      matin et en soirée (sauf jour de l’excursion à Barcelone et jour N°8 du retour),
-      activités de plage, sports de plage et bains de mer, journée découverte de Barcelone
-      et Pool Party offertes.</p><p>Deux sorties sont proposées moyennant un supplément
-      :</p><ul><li><p>Aquapark - 35€ (le dernier jour)</p></li><li><p>Slider aqua
-      - 25€ (durant la semaine)</p></li></ul>"
+    description: |
+      <p>Activités : découverte de Platja d’Aro, tennis matin et soir (sauf excursions), plage, sports et bains de mer.</p>
+      <p>Excursion à Barcelone et Pool Party incluses.</p>
+      <p>Options :</p>
+      <ul>
+        <li>Aquapark - 35€</li>
+        <li>Slider aqua - 25€</li>
+      </ul>
     infos:
     - alias: Détails
-      info_line: Voyage en car de luxe au départ de Bruxelles, Namur et Habay-la-Neuve.
-        Logement en pension complète à l’Hôtel Platja Park (4 étoiles), possédant
-        une piscine extérieure, et situé à Platja d’Aro (Costa Brava) en Espagne.
+      info_line: Voyage en car, pension complète à l’Hôtel Platja Park (4★) à Platja d’Aro.
   activation_onglets: false
+
 - name: Apprenti Savant
   img: "/assets/images/stages/activitesartistiquesetloisirs/apprentisavant.png"
   inscription: ''
@@ -10499,11 +10447,12 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
-    description: "<p>Lors de ce stage, nos petits scientifiques vont découvrir par
-      des petites expériences physiques, chimiques et biologiques le monde des sciences.
-      La journée est composée de 3h de sciences et 3h de sport.</p>"
+    description: |
+      <p>Découverte des sciences via des expériences physiques, chimiques et biologiques.</p>
+      <p>La journée comprend 3h de sciences et 3h de sport.</p>
     infos: []
   activation_onglets: true
+
 - name: Atelier Créatif
   img: "/assets/images/stages/activitesartistiquesetloisirs/artiste.png"
   inscription: ''
@@ -10514,35 +10463,39 @@ collectif, la coordination et la compréhension des règles.</p>"
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
-      sa créativité ? Ce stage est fait pour lui ! </p><p>Il apprendra, tout en s'amusant,
-      quelques techniques d'art plastique : modelage, collage, dessin, peinture, etc.</p><p>Votre
-      enfant ramènera toutes ses œuvres à la maison !</p>"
+    age: 8-14 ans
+    description: |
+      <p>Votre enfant a une âme d'artiste ? Ce stage est fait pour lui !</p>
+      <p>Découverte de techniques : modelage, collage, dessin, peinture.</p>
+      <p>Les œuvres sont ramenées à la maison.</p>
     infos:
     - alias: Tenue adaptée
-      info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.
-    age: 8-14 ans
+      info_line: Prévoir une tenue pouvant être salie.
+
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-14 ans
-    description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
-      sa créativité ? Ce stage est fait pour lui ! </p><p>Il apprendra, tout en s'amusant,
-      quelques techniques d'art plastique : modelage, collage, dessin, peinture, etc.</p><p>Votre
-      enfant ramènera toutes ses œuvres à la maison !</p>"
+    description: |
+      <p>Votre enfant a une âme d'artiste ? Ce stage est fait pour lui !</p>
+      <p>Découverte de techniques : modelage, collage, dessin, peinture.</p>
+      <p>Les œuvres sont ramenées à la maison.</p>
     infos:
     - alias: Tenue adaptée
-      info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.
-    - alias: Liège
+      info_line: Prévoir une tenue pouvant être salie.
+
+  - alias: Liège
     ville: Liège
     age: 6-12 ans
-    description: "<p>Votre enfant a une âme d'artiste ? Vous souhaitez qu'il développe
-      sa créativité ? Ce stage est fait pour lui ! </p><p>Il apprendra, tout en s'amusant,
-      quelques techniques d'art plastique : modelage, collage, dessin, peinture, etc.</p><p>Votre
-      enfant ramènera toutes ses œuvres à la maison !</p>"
+    description: |
+      <p>Votre enfant a une âme d'artiste ? Ce stage est fait pour lui !</p>
+      <p>Découverte de techniques : modelage, collage, dessin, peinture.</p>
+      <p>Les œuvres sont ramenées à la maison.</p>
     infos:
     - alias: Tenue adaptée
-      info_line: Prévoir une tenue qui peut être salie pour les activités de peinture.  
+      info_line: Prévoir une tenue pouvant être salie.
+
   activation_onglets: true
+
 - name: Bande Dessinée
   img: "/assets/images/stages/activitesartistiquesetloisirs/bd.png"
   inscription: ''
@@ -10554,17 +10507,14 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-14 ans
-    description: "<p>Futur Hergé ? Ce stage est fait pour votre enfant !</p><p>Il
-      apprendra à créer des planches de BD : construction d'un scénario, ébauche,
-      croquis,...</p><p>Votre enfant aura la possibilité de développer sa créativité
-      au travers du dessin. Il apprendra les notions de création de scénario et de
-      personnage, de storyboard, et de phylactère.</p><p>Durant la semaine de stages,
-      les enfants aborderont également des sujets sur l'histoire de la bande dessinée.</p>"
+    description: |
+      <p>Apprentissage de la création de BD : scénario, croquis, storyboard.</p>
+      <p>Découverte de l’histoire de la bande dessinée.</p>
     infos:
     - alias: Matériel
-      info_line: Se munir d'une latte, de crayons, d'un taille-crayon, d'une gomme
-        et d'un chiffon.
+      info_line: Apporter latte, crayons, gomme et taille-crayon.
   activation_onglets: true
+
 - name: Bricoleur & Sport
   img: "/assets/images/stages/activitesartistiquesetloisirs/bricoleur.png"
   inscription: ''
@@ -10576,15 +10526,12 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p>Tu aimes utiliser la visseuse ou la foreuse de papa ? Ce stage
-      est fait pour toi ! </p><p>Durant la journée, tu manipuleras différents outils
-      (clous, vices, perceuse) pour construire un jeu en bois. Tu pourras ensuite
-      le décorer à ta façon.</p><p>Les enfants pourront évidemment ramener leur jeu
-      en bois à la maison à la fin du stage !</p><p>La journée est complétée par des
-      activités de multisports en extérieur : sports ballons, raquettes, crosse canadienne,
-      unihoc, ball bouncer, etc.</p>"
+    description: |
+      <p>Construction d’un jeu en bois avec différents outils.</p>
+      <p>Décoration et activités multisports en extérieur.</p>
     infos: []
   activation_onglets: true
+
 - name: Cirque
   img: "/assets/images/stages/activitesartistiquesetloisirs/cirque.png"
   inscription: ''
@@ -10596,47 +10543,33 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Brabant
     ville: Brabant Wallon
     age: 6-8 ans
-    description: "<p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p><p>Tu
-      découvriras les <strong>arts du cirque</strong> à travers différents jeux d'intérieur
-      : jonglage, équilibre, pyramide humaine,...</p><p>Chaque journée de stage comporte
-      trois périodes de cirque et une période de jeux en extérieur où les enfants
-      auront la chance de découvrir différents jeux collectifs : <em>unihoc, basketball,
-      crosse canadienne, ball bouncer, ou encore baseball</em>. Le moniteur choisit
-      les activités en fonction des demandes des enfants. <br><br><em>Les jeux sont
-      organisés sur le terrain de foot à Rixensart, sur le terrain de foot ou de tennis
-      à Ottignies, et dans la plaine du collège à Wavre</em>.</p>"
-    infos:
-    - alias: Spectacle
-      info_line: Un petit spectacle est prévu en fin de semaine.
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 6-8 ans
-    description: "<p><em>Stage en collaboration avec </em><strong><em>Circomodo</em></strong></p><p>Tu
-      es un vrai petit clown ? Ce stage t'est destiné !</p><p>Tu découvriras les <strong>arts
-      du cirque</strong> à travers différents jeux : jonglage, équilibre, pyramide
-      humaine,...</p><p>La circomotricité, alliant la psychomotricité avec les techniques
-      du cirque, permet à l'enfant d'évoluer et se développer. En apprenant à manier
-      des objets, ainsi qu'à maîtriser son corps, il pourra pratiquer adresse et équilibre.</p><p>Chaque
-      journée de stage comporte trois périodes de cirque et une période de multisports
-      ou de jeux collectifs en intérieur. Le moniteur choisit les activités en fonction
-      des demandes des enfants.</p>"
+    description: |
+      <p>Découverte des arts du cirque : jonglage, équilibre, acrobaties.</p>
+      <p>Jeux collectifs en extérieur.</p>
     infos:
     - alias: Spectacle
       info_line: Spectacle en fin de semaine.
+
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 6-8 ans
+    description: |
+      <p>Stage en collaboration avec Circomodo.</p>
+      <p>Cirque + multisports en intérieur.</p>
+    infos:
+    - alias: Spectacle
+      info_line: Spectacle en fin de semaine.
+
   - alias: Liège
     ville: Liège
     age: 8-12 ans
-    description: "<p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p><p>Tu
-      découvriras les <strong>arts du cirque</strong> à travers différents jeux :
-      jonglerie (foulards, diabolos, assiettes chinoises, balles, quilles, anneaux
-      et bâton du diable), équilibre (monocycles, échasses, mini rouleau, rola-bola
-      et bidon), acrobatie (bases d'acrobaties fixes).</p><p>Les 3 heures de cirque
-      sont complétées par 3 périodes de multisports (basketball, mini-foot, volley,
-      handball, unihoc, baseball, etc.).</p><p>Une semaine pleine de découvertes,
-      de rires et de bons souvenirs !</p>"
+    description: |
+      <p>Cirque + multisports.</p>
+      <p>Jonglerie, équilibre et acrobaties.</p>
     infos:
     - alias: Spectacle
-      info_line: Une petite représentation est prévue en fin de stage. 
+      info_line: Représentation en fin de stage.
+
   activation_onglets: true
 - name: Comédie Musicale
   img: "/assets/images/stages/activitesartistiquesetloisirs/comediemusicale.png"
@@ -11141,16 +11074,17 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 4-7 ans
-    description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
+    - alias: Brabant Wallon
+      ville: Brabant Wallon
+      age: 4-7 ans
+      description: |
+        <p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
 
-<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
+        <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.</p>
 
-<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
+        <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s'amuser et à se surpasser ensemble.</p>
 
-<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient&nbsp;avec rigueur au hockey. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; la d&eacute;couverte d&#39;une activit&eacute; multisports.&nbsp;Des activit&eacute;s&nbsp;comme du baseball, unihoc, ball bouncer, etc. sont favoris&eacute;es car elles permettent aux&nbsp;enfants d&#39;utiliser &agrave; nouveau du mat&eacute;riel qui est le prolongement de leur main.</p>"
+        <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient avec rigueur au hockey. L'après-midi est consacrée à la découverte d'une activité multisports. Des activités comme du baseball, unihoc, ball bouncer, etc., sont favorisées car elles permettent aux enfants d'utiliser à nouveau du matériel qui est le prolongement de leur main.</p>
   activation_onglets: false
 - name: Mini-Hockey & Vélo
   img: "/assets/images/lara-mini-hockey-et-velo.png"
@@ -11160,22 +11094,22 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 4-7 ans
-    description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
+    - alias: Brabant Wallon
+      ville: Brabant Wallon
+      age: 4-7 ans
+      description: |
+        <p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
 
-<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
+        <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.</p>
 
-<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
+        <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s'amuser et à se surpasser ensemble.</p>
 
-<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient&nbsp;avec rigueur au hockey. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; l&#39;apprentissage de la conduite &agrave; v&eacute;lo : apprendre &agrave; rouler sur deux roues, r&eacute;aliser de petits parcours d&#39;adresse, apprentissage du code de la route et des r&egrave;gles &eacute;l&eacute;mentaires de s&eacute;curit&eacute;.</p>
-"
-    infos:
-    - alias: info
-      info_line: "L'enfant doit venir avec son vélo en bon état et son casque. Les enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo."
-    - alias: tenue
-      info_line: "Prévoir une tenue adaptée pour les activités en extérieur."
+        <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient avec rigueur au hockey. L'après-midi est consacrée à l'apprentissage de la conduite à vélo : apprendre à rouler sur deux roues, réaliser de petits parcours d'adresse, apprentissage du code de la route et des règles élémentaires de sécurité.</p>
+      infos:
+        - alias: info
+          info_line: "L'enfant doit venir avec son vélo en bon état et son casque. Les enfants peuvent avoir les 4 petites roues stabilisatrices sur leur vélo."
+        - alias: tenue
+          info_line: "Prévoir une tenue adaptée pour les activités en extérieur."
   activation_onglets: false
 - name: Mini-Hockey & Aqua
   img: "/assets/images/lara-mini-hockey-et-aqua.png"
@@ -11185,23 +11119,24 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 4-7 ans
-    description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
+    - alias: Brabant Wallon
+      ville: Brabant Wallon
+      age: 4-7 ans
+      description: |
+        <p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
 
-<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
+        <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.</p>
 
-<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
+        <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s'amuser et à se surpasser ensemble.</p>
 
-<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient&nbsp;avec rigueur au hockey. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; l&#39;apprentissage des bases de la natation par le biais d&#39;activit&eacute;s ludiques (voyage sur une frite ou une planche, mettre la t&ecirc;te sous l&#39;eau, etc.), le tout dans une ambiance d&eacute;contract&eacute;e !</p>
+        <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient avec rigueur au hockey. L'après-midi est consacrée à l'apprentissage des bases de la natation par le biais d'activités ludiques (voyage sur une frite ou une planche, mettre la tête sous l'eau, etc.), le tout dans une ambiance décontractée !</p>
 
-<p><strong><img alt='enlightened' src='https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png' title='enlightened' />&nbsp;D&egrave;s le 1<sup>er</sup> jour, pr&eacute;voir maillot, essuie et bonnet.</strong><br />
-&nbsp;</p>"
-    infos:
-    - alias: info
-      info_line: "Dès le 1er jour, prévoir maillot, essuie et bonnet."
+        <p><strong><img alt='enlightened' src='https://www12.iclub.be/ck/ckeditor/plugins/smiley/images/lightbulb.png' title='enlightened' /> Dès le 1<sup>er</sup> jour, prévoir maillot, essuie et bonnet.</strong></p>
+      infos:
+        - alias: info
+          info_line: "Dès le 1er jour, prévoir maillot, essuie et bonnet."
   activation_onglets: false
+
 - name: Hockey & Multisports
   img: "/assets/images/lara-hockey.png"
   inscription: ''
@@ -11210,16 +11145,17 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 8-14 ans
-    description: "<p><i>Stage en collaboration avec <strong>Lara Hockey Club</strong></i></p>
+    - alias: Brabant Wallon
+      ville: Brabant Wallon
+      age: 8-14 ans
+      description: |
+        <p><i>Stage en collaboration avec <strong>Lara Hockey Club</strong></i></p>
 
-<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
+        <p>Ce stage est destiné aux jeunes non-initiés ou passionnés de hockey et de sports en général désireux de découvrir ou d’améliorer leurs compétences tout en s'amusant.</p>
 
-<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
+        <p>Au cours de ce stage, les enfants auront l'occasion de participer à des séances d'entraînement ludiques, intenses et variées, encadrées par des entraîneurs enthousiastes. Grâce à un programme passionnant et stimulant, les jeunes pourront développer habiletés techniques, endurance, coordination et esprit d'équipe. Ils apprendront à travailler avec d'autres joueurs, à partager des conseils et des stratégies, à s'amuser et à se surpasser ensemble.</p>
 
-<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient avec rigueur au hockey. L&#39;apr&egrave;s-midi les enfants rejoignent un stage du centre.</p>"
+        <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient avec rigueur au hockey. L'après-midi les enfants rejoignent un stage du centre.</p>
   activation_onglets: false
 - name: Hockey & Fun
   img: "/assets/images/lara-hockey-et-fun.png"
@@ -11232,13 +11168,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 8-12 ans
-    description: "<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p>
-
-<p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p>
-
-<p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p>
-
-<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient&nbsp;avec rigueur au hockey. L&#39;apr&egrave;s-midi les enfants d&eacute;couvrent des activit&eacute;s fun :&nbsp;Kinball, ultimate frisbee, tchoukball, speedminton, flag foot, etc.</p>"
+    description: '<p><em>Stage en collaboration avec <strong>Lara Hockey Club</strong></em></p><p>Ce stage est destin&eacute; aux jeunes non-initi&eacute;s ou passionn&eacute;s de hockey et de sports en g&eacute;n&eacute;ral d&eacute;sireux de d&eacute;couvrir ou d&rsquo;am&eacute;liorer leurs comp&eacute;tences tout en s&#39;amusant. &nbsp;</p><p>Au cours de ce stage, les enfants auront l&#39;occasion de participer &agrave; des s&eacute;ances d&#39;entra&icirc;nement ludiques, intenses et vari&eacute;es, encadr&eacute;es par des entra&icirc;neurs enthousiastes. Gr&acirc;ce &agrave; un programme passionnant et stimulant, les jeunes pourront&nbsp;d&eacute;velopper habilet&eacute;s techniques, endurance, coordination et esprit d&#39;&eacute;quipe. Ils apprendront&nbsp;&agrave; travailler avec d&#39;autres joueurs, &agrave; partager des conseils et des strat&eacute;gies, &agrave; s&rsquo;amuser et &agrave; se surpasser ensemble.</p><p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient&nbsp;avec rigueur au hockey. L&#39;apr&egrave;s-midi les enfants d&eacute;couvrent des activit&eacute;s fun :&nbsp;Kinball, ultimate frisbee, tchoukball, speedminton, flag foot, etc.</p>'
   activation_onglets: false
 - name: Full Padel
   img: "/assets/images/full-padel-mokko.png"
@@ -11316,11 +11246,7 @@ collectif, la coordination et la compréhension des règles.</p>"
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 5-9 ans
-    description: "<p><i>Stage en collaboration avec <strong>Les écuries au gré du Ruisseau</strong> à Grez-Doiceau.</i></p>
-                  <p>Viens découvrir les animaux de la petite ferme ainsi que la nature qui nous entoure !
-Durant la semaine de stage, les enfants sont en contact des animaux : ils apprennent à en prendre soin en les nourrissant, et les brossant et les nettoyant. Les enfants découvrent une approche éthologique du cheval avec des séances d’initiation à l'équitation.
-Des jeux et promenades dans la nature sont organisés, dans un environnement familial où l’entraide et la coopération sont encouragées.</p>
-                  "
+    description: "<p><i>Stage en collaboration avec <strong>Les écuries au gré du Ruisseau</strong> à Grez-Doiceau.</i></p><p>Viens découvrir les animaux de la petite ferme ainsi que la nature qui nous entoure ! Durant la semaine de stage, les enfants sont en contact des animaux : ils apprennent à en prendre soin en les nourrissant, et les brossant et les nettoyant. Les enfants découvrent une approche éthologique du cheval avec des séances d’initiation à l'équitation. Des jeux et promenades dans la nature sont organisés, dans un environnement familial où l’entraide et la coopération sont encouragées.</p>"
     infos:
       - alias: Matériel
         info_line: "Prévoir une tenue adaptée pour l'équitation (pas de jeans et de tenue large) et des bottes."
