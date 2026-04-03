@@ -558,7 +558,7 @@ stages:
     infos:
     - alias: Garderie
       info_line: Garderie de 8h à 17h, comprise dans les frais d'inscription.
-- name: Tennis BeTennis
+- name: Tennis
   categorie: Activités sportives
   img: "/assets/images/betennis-2.png"
   online: true
@@ -618,7 +618,7 @@ stages:
     - alias: Repas chaud
       info_line: Repas chaud possible en option de l'inscription (semaine complète obligatoire et inscription possible uniquement avant la semaine de stage).
 
-- name: Mini-Tennis & Multisports
+- name: Mini-Tennis
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/tennis-multisports.png"
   online: true
@@ -673,6 +673,19 @@ stages:
           info_line: Il ne faut donc pas prévoir à manger pour votre enfant que le vendredi.
         - alias: Cadeau !
           info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.
+    - alias: Liège
+      ville: Liège
+      age: 7-14 ans
+      description: "
+        <p>P'tits Chefs recherchés pour les stages de cuisine ! Enfilez votre tablier et préparez-vous pour une semaine pleine de plaisir culinaire ! Cet été, nos stages de cuisine se déroulent en collaboration avec Delhaize, pour une expérience encore plus gourmande, ludique et éducative ! Durant le stage, vos minis héros apprennent à préparer les plats les plus savoureux.</p>
+        <p>Les repas préparés sont dégustés ensemble chaque midi. Les enfants participent également à la remise en ordre de la cuisine, afin d’apprendre les bases de l’organisation et de l’hygiène en cuisine.</p>
+        <p>Le dernier jour, un buffet-dégustation est préparé avec fierté pour les parents, afin de partager le fruit de leur travail.</p>
+        "
+      infos:
+        - alias: A prévoir
+          info_line: Il ne faut donc pas prévoir à manger pour votre enfant que le vendredi.
+        - alias: Cadeau !
+          info_line: En début de stage, chaque enfant reçoit un pack Delhaize brandé comprenant un tablier et une toque, un livre de cuisine, & un goodie bag surprise.      
     - alias: Bruxelles
       ville: Bruxelles
       age: 8-14 ans
@@ -815,7 +828,7 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 3-4 ans
+    age: 3-5 ans
     description: "<p>Vous désirez <strong>éveiller la créativité</strong> de votre
       petit bout ? Le stage Psycho Créa lui permettra de stimuler son imagination
       et ses sens !</p><p>Ce stage propose un éveil artistique pour les plus petits
@@ -832,7 +845,7 @@ stages:
       info_line: L'enfant doit apporter son tablier et une tenue de rechange
   - alias: Bruxelles
     ville: Bruxelles
-    age: 3-4 ans
+    age: 3-5 ans
     description: "<p>Vous désirez <strong>éveiller la créativité</strong> de votre
       petit bout ? Le stage Psycho Créa lui permettra de stimuler son imagination
       et ses sens !</p><p>Ce stage propose un éveil artistique pour les plus petits
@@ -3986,7 +3999,7 @@ stages:
   location:
   - alias: Walhain
     ville: Brabant Wallon
-    age: 7-14 ans
+    age: 6-14 ans
     description: "<p><strong>Walhain - </strong><em>En collaboration avec le </em><strong><em>FC
       Walhain</em></strong></p><p><strong>La Hulpe -<em> </em></strong><em>En collaboration
       avec le </em><strong><em>Royal La Hulpe Sporting Club<br></em></strong></em></p><p>Votre enfant est un vrai
@@ -6732,7 +6745,7 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 8-14 ans
+    age: 6-12 ans
     description: "<p>Un bel équilibre entre les sports raquettes et le VTT. Variété
       et plaisir garantis !</p><p>Ce stage propose une découverte des cinq sports
       de raquettes, à savoir le tennis, le badminton, le tennis de table, le paddle
@@ -6762,7 +6775,7 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 7-17 ans
+    age: 7-16 ans
     description: "<p><em>Stage en collaboration avec le </em><strong><em>Gym Club
       La Courtoise</em></strong></p><p>Tu es entre 7 et 17 ans et les pirouettes n'ont
       plus de secret pour toi ?</p><p>Si tu es motivée, n'hésite pas à rejoindre ce
@@ -7062,6 +7075,23 @@ stages:
       où les enfants auront la chance de découvrir un jeu collectif différent : unihoc,
       basketball, crosse canadienne, ball bouncer, ou encore baseball.</p>"
     infos:
+  - alias: Défilé
+      info_line: Un défilé sera organisé en fin de semaine pour montrer les créations.
+  activation_onglets: true
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: "<p>Ce stage est destiné aux fashionistas qui désirent créer leurs
+      propres vêtements et les customiser à la mode de leur choix !</p><p>Les enfants
+      apprennent à utiliser une machine à coudre, à manier le fil et l'aiguille, et
+      à créer et utiliser un patron. Ce stage est l'idéal pour faire ressortir l'<strong>esprit
+      créatif</strong> de votre enfant, ainsi qu'aiguiser son <strong>attrait pour
+      la mode et les vêtements</strong>.</p><p>Les enfants pourront repartir en fin
+      de stage avec leur création : jupe, short, pantalon, etc.</p><p>Chaque journée
+      de stage comporte trois périodes de stylisme et une période de jeux en extérieur
+      où les enfants auront la chance de découvrir un jeu collectif différent : unihoc,
+      basketball, crosse canadienne, ball bouncer, ou encore baseball.</p>"
+    infos:
     - alias: Défilé
       info_line: Un défilé sera organisé en fin de semaine pour montrer les créations.
   activation_onglets: true
@@ -7331,7 +7361,7 @@ stages:
   location:
   - alias: Hip Hop
     ville: Brabant Wallon
-    age: 9-16 ans
+    age: 8-16 ans
     description: "<p>Envie de bouger ?</p><p>Venez vous initier ou vous perfectionner
       aux danses de rue !</p><p>Il faudra beaucoup d'énergie pour effectuer des phases
       chorégraphiques debout mais aussi des figures acrobatiques au sol.</p>"
@@ -7607,7 +7637,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 3-4 ans
+    age: 3-5 ans
     description: "<p>Stage idéal pour votre petit bout !</p><p>Vous cherchez un stage
       ludique et varié pour votre enfant ?</p><p>Chaque jour, les enfants découvrent
       une activité différente : jeux de coopération, parcours d'adresse, d'audace,
@@ -7636,7 +7666,7 @@ stages:
         culinaire réalisés par leurs soins.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 3-4 ans
+    age: 3-5 ans
     description: "<p>Stage idéal pour votre petit bout !</p><p>Vous cherchez un stage
       ludique et varié pour votre enfant ?</p><p>Chaque jour, les enfants découvrent
       une activité différente : jeux de coopération, parcours d'adresse, d'audace,
@@ -7698,7 +7728,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 3-4 ans
+    age: 3-5 ans
     infos:
     - alias: Tenue de rechange
       info_line: Il est demandé aux parents de prévoir un sac avec une tenue de rechange
@@ -7752,7 +7782,7 @@ stages:
     - alias: Tenue de rechange
       info_line: 'Il est demandé aux parents de prévoir un sac avec une tenue de rechange
         pour leur enfant. '
-    age: 3-4 ans
+    age: 3-5 ans
   activation_onglets: true
 - name: Psycho Aqua
   img: "/assets/images/stage-enfant-psycho-aqua-500x500.jpg"
@@ -7764,7 +7794,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 3-4 ans
+    age: 3-5 ans
     description: "<p><strong>Et 1,2,3 PLOUF !</strong></p><p>1er pas dans l'eau ?</p><p>Ce
       stage permet à votre enfant de s’accoutumer à l’eau par le biais d'activités
       ludiques (Passer sous un pont, ramasser des anneaux, apprendre à mettre la tête
@@ -7922,7 +7952,7 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 3-4 ans
+    age: 3-5 ans
     description: "<p>Vous cherchez un premier stage pour votre petit bout ?</p><p>Ce
       stage propose une séance d'initiation à des sports collectifs, de coopération
       et jeux ludiques chaque jour afin de développer chez l’enfant des facettes essentielles
@@ -8416,7 +8446,7 @@ stages:
 
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-8 ans
+    age: 8-12 ans
     description: |
       <p><em>Stage en collaboration avec </em><strong><em>Circomodo</em></strong></p>
       <p>Tu es un vrai petit clown ? Ce stage t'est destiné !</p>
@@ -8553,7 +8583,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 5-8 ans
+    age: 5-7 ans
     infos:
     - alias: Mur d'escalade
       info_line: Les activités d'escalade se font sur le mur d'escalade dans le centre
@@ -8574,7 +8604,7 @@ stages:
       foot, ou encore le ball bouncer.</p>"
   - alias: Bruxelles
     ville: Bruxelles
-    age: 5-8 ans
+    age: 5-7 ans
     description: "<p>Votre enfant souhaite vivre une première expérience à la verticale
       ? </p><p>Ce stage prévoit 3 heures journalières d'apprentissage des techniques
       de base d'escalade sur mur ainsi que les consignes de sécurité s'y rapportant.
@@ -8698,7 +8728,7 @@ stages:
     - alias: Tenue adaptée
       info_line: Prévoir des vêtements adaptés pour l'extérieur.
   activation_onglets: true
-- name: Princesse & Pirate
+- name: Princesses & Pirates
   img: "/assets/images/stages/decouvertesportiveetculturelle/princessesetpirates.png"
   inscription: ''
   categorie: Découvertes sportives et culturelles
@@ -8708,7 +8738,7 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Tu aimes entrer dans la peau de tes personnages préférés et te
       déguiser comme eux ?</p><p>Laisse place à ton imaginaire, ta créativité et apporte
       ton meilleur costume pour découvrir le monde des princesses &amp; pirates !</p><p>Ce
@@ -8725,7 +8755,7 @@ stages:
       info_line: Prévoir une tenue adaptée en cas de bricolages et peintures.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 4-6 ans
+    age: 5-7 ans
     description: "<p>Tu aimes entrer dans la peau de tes personnages préférés et te
       déguiser comme eux ? </p><p>Laisse place à ton imaginaire, ta créativité et
       apporte ton meilleur costume pour découvrir le monde des princesses &amp; pirates
@@ -8831,7 +8861,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-12 ans
+    age: 6-14 ans
     description: "<p>Envie de devenir une vraie danseuse ?</p><p>Ce stage prévoit
       une initiation et/ou un perfectionnement de la danse moderne Jazz &amp; Hip-Hop
       (musique, tempos, mouvements, danse en groupe).</p><p>Durant la semaine de stage,
@@ -8843,7 +8873,7 @@ stages:
       info_line: Un petit spectacle est prévu à la fin de la semaine.
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-12 ans
+    age: 8-14 ans
     description: "<p>Envie de devenir une vraie danseuse ?</p><p>Ce stage prévoit
       une initiation et/ou un perfectionnement de la danse moderne Jazz &amp; Hip-Hop
       (musique, tempos, mouvements, danse en groupe).</p><p>Durant la semaine de stage,
@@ -8906,7 +8936,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-14 ans
+    age: 7-16 ans
     description: "<p>Votre enfant souhaite s'initier à la gymnastique ? </p><p>Durant
       ce stage, les enfants vont découvrir les plaisirs de la gymnastique par un travail
       aux 4 agrès : poutre, barres asymétriques, sol et sauts..</p><p>Ils développeront
@@ -8922,7 +8952,7 @@ stages:
         nécessairement porter de maillot de gym, mais si tu en as un, il est le bienvenu).
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-14 ans
+    age: 7-16 ans
     description: "<p><em>Stage en partenariat avec </em><strong><em>Royal Tempo Gym</em></strong></p><p>Votre
       enfant souhaite s'initier à la gymnastique ? </p><p>Durant ce stage, les enfants
       vont découvrir les plaisirs de la gymnastique par un travail aux 4 agrès : poutre,
@@ -9339,7 +9369,7 @@ stages:
     - alias: Transports
       info_line: Les transports sont assurés par le CFS.
   activation_onglets: true
-- name: Pro Skate
+- name: Skate Pro
   img: "/assets/images/stages/activitesfun/skatepro.png"
   inscription: ''
   categorie: Activités fun
@@ -9349,7 +9379,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 10-16 ans
+    age: 8-16 ans
     description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong><em>
       (plus de 20 ans d'expérience dans l'apprentissage de skateboard, BMX et Trottinette
       Freestyle)</em></p><p>Ce stage prévoit un perfectionnement au skate. lls vont
@@ -9379,7 +9409,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 10-16 ans
+    age: 8-16 ans
     description: "<p><em>Stage en partenariat avec</em><strong><em> Max Extrême</em></strong><em>
       (plus de 20 ans d'expérience dans l'apprentissage de skateboard, BMX et Trottinette
       Freestyle)</em></p><p>Ce stage prévoit un perfectionnement à la trottinette
@@ -9430,7 +9460,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 10-16 ans
+    age: 8-14 ans
     description: '<p>Une superbe semaine pour vos pré-ados et ados à la recherche
       de sensation et d’activités fun!</p><p><strong>Au programme</strong> : New Games, Arrow Game, Paintball, Karting, simulateur de course playstation, Fun Challenge !</p>
       <ul><li><p><strong>New games :</strong> différentes activités fun sont
@@ -9690,18 +9720,6 @@ stages:
     - alias: Moniteurs
       info_line: Les activités d'escalade sont assurées par des moniteurs possédant
         le CATAGSAE.
-  - alias: Liège
-    ville: Liège
-    age: 7-12 ans
-    description: "<p>Durant ce stage, les enfants ont l'occasion de prendre un peu
-      de hauteur en s'adonnant aux joies de l'escalade.</p><p>Au programme : <strong>3
-      heures </strong>quotidiennes <em>d'escalade</em> sur un mur en salle complétées
-      par <strong>3 heures</strong> de <em>multisports.</em></p>"
-    infos:
-    - alias: Déplacement
-      info_line: Pour l'activité escalade à Huy, les enfants se rendent à pieds avec
-        leur moniteur au Point-Forme de Huy (10 minutes de marche).
-  activation_onglets: true
 - name: Football
   img: "/assets/images/stages/activitessportives/football.png"
   inscription: ''
@@ -9811,24 +9829,6 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 7-10 ans
-    description: "
-      <p>
-        Votre enfant est fou de sport et aime découvrir de nouvelles activités ? Le stage Fun Multisports & Natation est fait pour lui ! 
-      </p>
-      <p>
-        Les enfants ont l'occasion de pratiquer une heure quotidienne de cours de natation et de jeux aquatiques, le tout dans une ambiance décontractée. Nos moniteurs qualifiés et brevetés approfondiront les 4 nages pour tenter de décrocher l'un des brevets officiels délivrés par la Fédération Francophone Belge de Natation, du brevet du Dauphin (25m) aux brevets longues distances, en fonction des acquis de chacun.
-      </p>
-      <p>
-        La semaine de stage est également agrémentée par des sports collectifs et des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot ! 
-      </p>
-      <p>
-        Semaine sportive et Fun assurée ! 
-      </p>
-      "
-    infos: []
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 6-8 ans
@@ -9862,24 +9862,25 @@ stages:
   location:
   - alias: Brabant
     ville: Brabant Wallon
-    age: 6-12 ans
-    description: "<p>Votre enfant est fou de sport et aime découvrir de nouvelles
-      activités ? Le stage Fun Multisports &amp; Natation est fait pour lui ! </p><p>Les
-      enfants ont l'occasion de pratiquer une heure quotidienne de jeux aquatiques,
-      le tout dans une ambiance décontractée. Pour les plus initiés, nos moniteurs
-      qualifiés et brevetés approfondiront les 4 nages avec un objectif en fin de
-      semaine que votre enfant puisse obtenir son brevet de 25m !</p><p>La semaine
-      de stage est également agrémentée par des sports collectifs et des activités
-      Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton
-      ou encore le flag foot !</p><p>Semaine sportive et Fun assurée !</p>"
+    age: 8-12 ans
+    description: "<p>Les enfants ont l'occasion de pratiquer une heure quotidienne de jeux aquatiques, le tout dans une ambiance décontractée. La semaine de stage est également agrémentée par des sports collectifs et des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot ! </p>"
     infos:
     - alias: Moniteur
       info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
     - alias: Equipement
       info_line: Prévoir maillot, bonnet et essuie dès le 1er jour de stage.
+  - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Les enfants ont l'occasion de pratiquer une heure quotidienne de jeux aquatiques, le tout dans une ambiance décontractée. La semaine de stage est également agrémentée par des sports collectifs et des activités Fun telles que le Kinball, l’ultimate frisbee, le tchoukball, le speedminton ou encore le flag foot ! </p>"
+    infos:
+    - alias: Moniteur
+      info_line: 'En piscine : 1 moniteur pour 8 enfants maximum.'
+    - alias: Equipement
+      info_line: Prévoir maillot, bonnet et essuie dès le 1er jour de stage.    
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-12 ans
+    age: 8-12 ans
     description: "<p>Votre enfant est fou de sport et aime découvrir de nouvelles
       activités ? Le stage Fun Multisports &amp; Natation est fait pour lui ! </p><p>Les
       enfants ont l'occasion de pratiquer une heure quotidienne de jeux aquatiques,
@@ -9905,7 +9906,7 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-14 ans
+    age: 8-14 ans
     description: "<p>Votre enfant est un vrai mordu du ballon ? Notre stage de futsal
       est l'idéal pour lui ! </p><p>Ce stage prévoit une alternance entre entraînements
       et petits matchs.</p><p>Les enfants s'exercent aux techniques de ballon et de
@@ -9917,7 +9918,7 @@ stages:
       info_line: A Jette : Stage en partenariat avec Futsal Jette
   - alias: Liège
     ville: Liège
-    age: 6-14 ans
+    age: 6-12 ans
     description: "
                   <p>Votre enfant est un vrai mordu du ballon ? Notre stage de futsal est l'idéal pour lui ! </p>
                   <p>Ce stage prévoit une alternance entre entraînements et petits matchs.</p>
@@ -10292,26 +10293,6 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 8-14 ans
-    description: "<p>Votre enfant veut découvrir les joies d'un sport de raquettes
-      ?</p><p>Ce stage de tennis associe l'apprentissage du geste technique au plaisir
-      du jeu dans une ambiance familiale.</p><p>Tout au long de la semaine, les enfants
-      apprennent les bases du tennis (prises, placement, jeux de jambes,…) afin de
-      pouvoir réaliser un maximum d’échanges que ce soit en partenaire ou en adversaire.</p><p>Des
-      groupes seront formés en fonction des âges et des niveaux : balles molles, mids
-      ou dures (max. 8 enfants/groupe).</p><p>Un tournoi amical sera organisé en fin
-      de semaine.</p><p>La journée est divisée en 3 périodes de tennis et 1 période
-      de multisports.</p><ul><li><p>Hélécine : stage en collaboration avec <strong><em>Tennis
-      Padel Club l'Abbaye</em></strong></p></li></ul>"
-    infos:
-    - alias: Matériel
-      info_line: Si vous ne possédez pas de raquette, le CFS en met à votre disposition.
-        Vous pouvez bien sûr apporter votre propre matériel.
-    - alias: Horaires
-      info_line: Nous demandons une présence au Centre Sportif pour 8h30 car les enfants
-        seront navettés soit vers Ottignies, soit vers Wavre.
   - alias: Bruxelles
     ville: Bruxelles
     age: 8-12 ans
@@ -10704,22 +10685,9 @@ stages:
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant
-    ville: Brabant Wallon
-    age: 6-12 ans
-    description: "<p><em>En collaboration avec Interlingua</em></p><p><strong><em>Do
-      you want to learn English ?</em></strong></p><p>La moitié de la journée se fera
-      en totale immersion grâce à notre <strong>partenaire Interlingua</strong> qui
-      propose un apprentissage de l'anglais au travers d'activités pédagogiques diverses
-      et ludiques<em> (jeux de rôle, expression orale, chansons, jeux divers et activités
-      artistiques et culinaires)</em>. Les formateurs sont soucieux d'un apprentissage
-      amusant et performant, respectueux des capacités de chaque enfant.</p><p>L’autre
-      moitié de journée sera en français et sera consacrée à la découverte d’activités
-      multisports et funs.</p>"
-    infos: []
   - alias: Bruxelles
     ville: Bruxelles
-    age: 6-12 ans
+    age: 8-14 ans
     description: "<p><em>En collaboration avec Interlingua</em></p><p><strong><em>Do
       you want to learn English ?</em></strong></p><p>La moitié de la journée se fera
       en totale immersion grâce à notre <strong>partenaire Interlingua</strong> qui
@@ -11263,7 +11231,7 @@ stages:
   location:
   - alias: Brabant Wallon
     ville: Brabant Wallon
-    age: 6-25 ans
+    age: 8-25 ans
     description: "<p><i>Stage en collaboration avec <strong>CTT Limal-Wavre</strong></i></p>
                   <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
                   <p>Ce stage propose une découverte et/ou un perfectionnement au tennis de table. Les enfants apprennent à manier la raquette : coups droits, services, revers, et déplacements autour de la table.</p>
@@ -11484,7 +11452,7 @@ stages:
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 3-6 ans
+    age: 6-16 ans
     description: "<p><i>Stage en collaboration avec <strong>Vietamine</strong></i></p>
                   <p>Votre enfant veut découvrir les joies d'un sport de raquettes ?</p>
                   <p>Ce stage de tennis associe l'apprentissage du geste technique au plaisir du jeu dans une ambiance familiale.</p>
