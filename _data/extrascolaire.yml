@@ -861,6 +861,13 @@ activites:
     - COURT-ST-ETIENNE - La Courtoise
     - OTTIGNIES – Athénée Royal Paul Delvaux
     age: 6-16 ans
+    description: "<p>Ouvert aux jeunes qui désirent se perfectionner à la gymnastique sportive. Sol, sauts, poutre, barres asymétriques... Ce cours se donne dans un groupe restreint.</p>"
+    infos: []
+  - alias: Liège
+    ville: Liège
+    centres:
+    - HUY – Ecole de l’Agriculture 
+    age: 6-14 ans
     description: "<p>Ouvert aux jeunes qui désirent se perfectionner à la gymnastique
       sportive. Sol, sauts, poutre, barres asymétriques... Ce cours se donne dans
       un groupe restreint.</p>"
@@ -1130,6 +1137,14 @@ activites:
     description: "<p>Entrainement de football pour les plus jeunes avec au programme:
       technique, tactique et petits matchs. Les enfants sont regroupés par âge et
       par niveau.</p>"
+    infos: []
+  nouveau: false
+  - alias: Brabant Wallon
+    ville: Brabant Wallon
+    centres:
+    - LA HULPE – Royal La Hulpe Sporting Club 
+    age: 7-12 ans
+    description: "<p>Entrainement de football pour les plus jeunes avec au programme: technique, tactique et petits matchs. Les enfants sont regroupés par âge et par niveau.</p>"
     infos: []
   nouveau: false
 - name: Football - Gardien de but
