@@ -7479,23 +7479,20 @@ collectif, la coordination et la compréhension des règles.</p>"
   stage_une: false
   inscription: ''
   location:
-  - alias: Brabant
-    ville: Brabant Wallon
-    age: 5-7 ans
-    description: "<p>Tu désires allier sport et créativité ?</p><p>Ce stage offre
-      une initiation au rythme à travers l'apprentissage de différentes chorégraphies
-      adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du
-      mouvement.</p><p>Les enfants auront également l'occasion de participer des activités
-      de création de magnifiques bijoux : bracelets, colliers,...</p><p>Les enfants
-      pourront évidemment repartir avec leur confection en fin de stage !</p><p>Chaque
-      journée de stage est complétée par la découverte et l'apprentissage de différents
-      sports/jeux.</p>"
-    infos:
-    - alias: Matériel
-      info_line: Matériel fourni par le CFS.
-    - info_line: Un spectacle et une exposition des bijoux sont prévus en fin de stage
-        (entre 15h et 16h).
-      alias: Spectacle
+    - alias: Brabant
+      ville: Brabant Wallon
+      age: 5-7 ans
+      description: |
+        <p>Tu désires allier sport et créativité ?</p>
+        <p>Ce stage offre une initiation au rythme à travers l'apprentissage de différentes chorégraphies adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du mouvement.</p>
+        <p>Les enfants auront également l'occasion de participer à des activités de création de magnifiques bijoux : bracelets, colliers,...</p>
+        <p>Les enfants pourront évidemment repartir avec leur confection en fin de stage !</p>
+        <p>Chaque journée de stage est complétée par la découverte et l'apprentissage de différents sports/jeux.</p>
+      infos:
+        - alias: Matériel
+          info_line: Matériel fourni par le CFS.
+        - alias: Spectacle
+          info_line: Un spectacle et une exposition des bijoux sont prévus en fin de stage (entre 15h et 16h).
   activation_onglets: true
 - name: E Pilote Academy
   categorie: Activités fun
