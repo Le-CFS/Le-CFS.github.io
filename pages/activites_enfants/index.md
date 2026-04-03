@@ -44,14 +44,7 @@ image: ''
 
 <!-- NE PAS MODIFIER AU DESSUS DE CETTE LIGNE -->
 
-« Le CFS propose <strong>des activités sportives ou culturelles</strong> qui débutent au mois de septembre et se déroulent tout au long de l’année scolaire.
-<br>Nous organisons également <strong>des activités parascolaires</strong> uniquement<strong> pour les élèves de l’école.</strong>
+« Le CFS propose chaque année un large choix d’activités sportives et culturelles qui débutent en septembre et accompagnent les enfants tout au long de l’année scolaire. Nous organisons également des activités parascolaires, exclusivement réservées aux élèves de l’école. 
 
- 
-
-La plus ancienne école de natation du Brabant Wallon vous propose des cours de Bébés Nageurs, des Cours Particuliers et Collectifs, des cours d’Aqua Sirène et un Mini Club pour les plus aguerris. 
-<br>A Bruxelles, des cours de Psycho Aqua, des Cours Collectifs et un Mini Club vous sont proposés.
-
- 
-
-Pour les plus aguerris, le CFS vous propose maintenant une formule Academy avec certains avantages dans différentes disciplines. »
+Notre école de natation, la plus ancienne du Brabant Wallon, offre un panel complet de cours : Bébés Nageurs, cours particuliers et collectifs, Aqua Sirène, ainsi qu’un Mini Club destiné aux nageurs les plus expérimentés. 
+À Bruxelles, nous proposons également des séances de Psycho Aqua, des cours collectifs et un Mini Club. »
