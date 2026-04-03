@@ -9838,20 +9838,22 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: true
   stage_une: false
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 5-7 ans
-    description: '<p><strong><em>Stage en collaboration avec Cap Sciences</em></strong></p>
-      <p>Offrez à votre enfant un stage plein de découvertes !</p>
-<p>Pendant la semaine, il pourra relever des défis amusants, réaliser des expériences scientifiques, tout en explorant le monde fascinant des sciences.</p>
-<p>Les activités de sciences, c'est le stage de vacances "intelligent" qui permet d'apprendre tout en s'amusant.</p>
-<p>Chaque stage plonge les enfants dans un univers unique et stimulant : chaque semaine, un thème différent est proposé pour renouveler le plaisir et l’émerveillement (graine de génie, savants fous, les p'tits curieux, etc.).</p>
-<p>Entre deux expériences, place à l’action ! Les enfants participent à des activités multisports variées, pour se dépenser, jouer en équipe et découvrir de nouvelles disciplines dans une ambiance dynamique et conviviale.</p>
-<p>Le tout se déroule dans une ambiance ludique, bienveillante et encadrée par des animateurs spécialisé et passionnés, pour apprendre tout en s’amusant et bouger sans s’ennuyer !</p>'
-    infos:
-    - alias: Partenariat
-      info_line: 'Stage en partenariat avec Cap Sciences'
+    - alias: Bruxelles
+      ville: Bruxelles
+      age: 5-7 ans
+      description: |
+        <p><strong><em>Stage en collaboration avec Cap Sciences</em></strong></p>
+        <p>Offrez à votre enfant un stage plein de découvertes !</p>
+        <p>Pendant la semaine, il pourra relever des défis amusants, réaliser des expériences scientifiques, tout en explorant le monde fascinant des sciences.</p>
+        <p>Les activités de sciences, c'est le stage de vacances "intelligent" qui permet d'apprendre tout en s'amusant.</p>
+        <p>Chaque stage plonge les enfants dans un univers unique et stimulant : chaque semaine, un thème différent est proposé pour renouveler le plaisir et l’émerveillement (graine de génie, savants fous, les p'tits curieux, etc.).</p>
+        <p>Entre deux expériences, place à l’action ! Les enfants participent à des activités multisports variées, pour se dépenser, jouer en équipe et découvrir de nouvelles disciplines dans une ambiance dynamique et conviviale.</p>
+        <p>Le tout se déroule dans une ambiance ludique, bienveillante et encadrée par des animateurs spécialisé et passionnés, pour apprendre tout en s’amusant et bouger sans s’ennuyer !</p>
+      infos:
+        - alias: Partenariat
+          info_line: "Stage en partenariat avec Cap Sciences"
   activation_onglets: true
+
 - name: Sciences & Multisports
   img: "/assets/images/sciences-multi.png"
   inscription: ''
@@ -9860,19 +9862,20 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: true
   stage_une: false
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 8-12 ans
-    description: '<p><strong><em>Stage en collaboration avec Cap Sciences</em></strong></p>
-      <p>Offrez à votre enfant un stage plein de découvertes !</p>
-<p>Pendant la semaine, il pourra relever des défis amusants, réaliser des expériences scientifiques, tout en explorant le monde fascinant des sciences.</p>
-<p>Les activités de sciences, c'est le stage de vacances "intelligent" qui permet d'apprendre tout en s'amusant.</p>
-<p>Chaque stage plonge les enfants dans un univers unique et stimulant : chaque semaine, un thème différent est proposé pour renouveler le plaisir et l’émerveillement (les arsouilles du labo, magi-sciences, les chercheurs de l'impossible, etc.).</p>
-<p>Entre deux expériences, place à l’action ! Les enfants participent à des activités multisports variées, pour se dépenser, jouer en équipe et découvrir de nouvelles disciplines dans une ambiance dynamique et conviviale.</p>
-<p>Le tout se déroule dans une ambiance ludique, bienveillante et encadrée par des animateurs spécialisé et passionnés, pour apprendre tout en s’amusant et bouger sans s’ennuyer !</p>'
-    infos:
-    - alias: Partenariat
-      info_line: 'Stage en partenariat avec Cap Sciences'
+    - alias: Bruxelles
+      ville: Bruxelles
+      age: 8-12 ans
+      description: |
+        <p><strong><em>Stage en collaboration avec Cap Sciences</em></strong></p>
+        <p>Offrez à votre enfant un stage plein de découvertes !</p>
+        <p>Pendant la semaine, il pourra relever des défis amusants, réaliser des expériences scientifiques, tout en explorant le monde fascinant des sciences.</p>
+        <p>Les activités de sciences, c'est le stage de vacances "intelligent" qui permet d'apprendre tout en s'amusant.</p>
+        <p>Chaque stage plonge les enfants dans un univers unique et stimulant : chaque semaine, un thème différent est proposé pour renouveler le plaisir et l’émerveillement (les arsouilles du labo, magi-sciences, les chercheurs de l'impossible, etc.).</p>
+        <p>Entre deux expériences, place à l’action ! Les enfants participent à des activités multisports variées, pour se dépenser, jouer en équipe et découvrir de nouvelles disciplines dans une ambiance dynamique et conviviale.</p>
+        <p>Le tout se déroule dans une ambiance ludique, bienveillante et encadrée par des animateurs spécialisé et passionnés, pour apprendre tout en s’amusant et bouger sans s’ennuyer !</p>
+      infos:
+        - alias: Partenariat
+          info_line: "Stage en partenariat avec Cap Sciences"
   activation_onglets: true  
 - name: Fun & Multisports
   img: "/assets/images/stages/activitessportives/funetmulti.png"
