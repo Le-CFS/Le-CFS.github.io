@@ -8084,18 +8084,15 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: false
   stage_une: false
   location:
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 6-8 ans
-    description: "<p>Votre enfant veut être un vrai petit débrouillard ? Ce stage
-      est fait pour lui ! </p><p>Au programme : réparation d'un vélo (changer un pneu,
-      refaire la chaîne), apprentissage des techniques de noeuds, lecture d'une carte,
-      course d'orientation, jeux de piste,...</p><p>Ce stage est l'idéal pour apprendre
-      à se débrouiller seul et gagner en autonomie !</p>"
-    infos:
-    - alias: Tenue adaptée
-      info_line: Prévoir une tenue adaptée pour les activités en extérieur.
+    - alias: Brabant Wallon
+      ville: Brabant Wallon
+      age: 6-8 ans
+      description: "<p>Votre enfant veut être un vrai petit débrouillard ? Ce stage est fait pour lui ! </p><p>Au programme : réparation d'un vélo (changer un pneu, refaire la chaîne), apprentissage des techniques de noeuds, lecture d'une carte, course d'orientation, jeux de piste,...</p><p>Ce stage est l'idéal pour apprendre à se débrouiller seul et gagner en autonomie !</p>"
+      infos:
+        - alias: Tenue adaptée
+          info_line: Prévoir une tenue adaptée pour les activités en extérieur.
   activation_onglets: true
+
 - name: Mini Danse
   img: "/assets/images/stages/decouvertesportiveetculturelle/babydansetgym.png"
   inscription: ''
@@ -8104,31 +8101,22 @@ collectif, la coordination et la compréhension des règles.</p>"
   nouveau: false
   stage_une: false
   location:
-  - alias: Bruxelles
-    ville: Bruxelles
-    age: 5-7 ans
-    description: "<p>Votre petit bout adore se trémousser dès que vous allumez la
-      musique ? <br>Ce stage d'initiation à la danse est parfait pour lui ! </p><p>Ce
-      stage offre une initiation au rythme à travers l'apprentissage de différentes
-      chorégraphies adaptées aux plus petits. Il va permettre aux enfants d'acquérir
-      les bases du mouvement sur des musiques actuelles.</p><p>Le stage est complété
-      par des activités artistiques (bricolage, confection de bijoux,...) et de multisports.</p>"
-    infos:
-    - alias: Spectacle
-      info_line: Un petit spectacle est prévu à la fin de la semaine.
-  activation_onglets: true
-  - alias: Brabant Wallon
-    ville: Brabant Wallon
-    age: 5-7 ans
-    description: "<p>Votre petit bout adore se trémousser dès que vous allumez la
-      musique ? <br>Ce stage d'initiation à la danse est parfait pour lui ! </p><p>Ce
-      stage offre une initiation au rythme à travers l'apprentissage de différentes
-      chorégraphies adaptées aux plus petits. Il va permettre aux enfants d'acquérir
-      les bases du mouvement sur des musiques actuelles.</p><p>Le stage est complété
-      par des activités artistiques (bricolage, confection de bijoux,...) et de multisports.</p>"
-    infos:
-    - alias: Spectacle
-      info_line: Un petit spectacle est prévu à la fin de la semaine.
+    - alias: Bruxelles
+      ville: Bruxelles
+      age: 5-7 ans
+      description: "<p>Votre petit bout adore se trémousser dès que vous allumez la musique ? <br>Ce stage d'initiation à la danse est parfait pour lui ! </p><p>Ce stage offre une initiation au rythme à travers l'apprentissage de différentes chorégraphies adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du mouvement sur des musiques actuelles.</p><p>Le stage est complété par des activités artistiques (bricolage, confection de bijoux,...) et de multisports.</p>"
+      infos:
+        - alias: Spectacle
+          info_line: Un petit spectacle est prévu à la fin de la semaine.
+
+    - alias: Brabant Wallon   # ✅ BIEN placé dans location
+      ville: Brabant Wallon
+      age: 5-7 ans
+      description: "<p>Votre petit bout adore se trémousser dès que vous allumez la musique ? <br>Ce stage d'initiation à la danse est parfait pour lui ! </p><p>Ce stage offre une initiation au rythme à travers l'apprentissage de différentes chorégraphies adaptées aux plus petits. Il va permettre aux enfants d'acquérir les bases du mouvement sur des musiques actuelles.</p><p>Le stage est complété par des activités artistiques (bricolage, confection de bijoux,...) et de multisports.</p>"
+      infos:
+        - alias: Spectacle
+          info_line: Un petit spectacle est prévu à la fin de la semaine.
+
   activation_onglets: true
 - name: Baby Foot
   img: "/assets/images/stage-enfant-baby-foot-500x500.jpg"
