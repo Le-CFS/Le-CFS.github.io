@@ -418,29 +418,30 @@ stages:
   - alias: Brabant Wallon
     ville: Brabant Wallon
     age: 4-7 ans
-    description: '<p><em>Stage en collaboration avec&nbsp;<strong>YourTenniSchool Wavre</strong></em></p>
+    description: |
+      <p><em>Stage en collaboration avec <strong>YourTenniSchool Wavre</strong></em></p>
 
-<p>Vous d&eacute;sirez &eacute;veiller votre petit bout &agrave; un jeu de raquette ?</p>
+      <p>Vous désirez éveiller votre petit bout à un jeu de raquette ?</p>
 
-<p>Cette cat&eacute;gorie du mini-tennis est d&eacute;coup&eacute;e en 3 niveaux : le niveau blanc, bleu et rouge.&nbsp;Chaque niveau comprend plusieurs objectifs d&rsquo;apprentissage.</p>
+      <p>Cette catégorie du mini-tennis est découpée en 3 niveaux : le niveau blanc, bleu et rouge. Chaque niveau comprend plusieurs objectifs d’apprentissage.</p>
 
-<p><strong>Le niveau blanc</strong>Les enfants seront plong&eacute;s dans leurs monde imaginaire. Les jeux seront pr&eacute;sent&eacute;s sous forme d&rsquo;histoires, de comptes et imag&eacute;s pour que les enfants s&rsquo;y sentent bien.&nbsp;&nbsp; Ils se familiariseront avec la raquette et la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds, notion du temps et de la perception des trajectoires de la balle. </p>
+      <p><strong>Le niveau blanc</strong> Les enfants seront plongés dans leur monde imaginaire. Les jeux seront présentés sous forme d’histoires, de contes et imagés pour que les enfants s’y sentent bien. Ils se familiariseront avec la raquette et la balle et y apprendront les notions de gauche/droite, coordination des yeux/mains/pieds, notion du temps et de la perception des trajectoires de la balle.</p>
 
-<p><strong>Le niveau bleu</strong>Les enfants apprendront &eacute;galement les premi&egrave;res notions des r&egrave;gles du jeu et tactiques de base en faisant rouler un ballon au sol (&ecirc;tre pr&eacute;cis, r&eacute;gulier, changer la direction de la balle).</p>
+      <p><strong>Le niveau bleu</strong> Les enfants apprendront également les premières notions des règles du jeu et tactiques de base en faisant rouler un ballon au sol (être précis, régulier, changer la direction de la balle).</p>
 
-<p><strong>Le niveau rouge</strong>Les enfants d&eacute;couvriront la tactique du jeu avec le rebond de la balle. Les enfants y apprendront &agrave; servir, &agrave; retourner, &agrave; utiliser les trajectoires et &agrave; marquer des points gr&acirc;ce aux vol&eacute;es.</p>
+      <p><strong>Le niveau rouge</strong> Les enfants découvriront la tactique du jeu avec le rebond de la balle. Les enfants y apprendront à servir, à retourner, à utiliser les trajectoires et à marquer des points grâce aux volées.</p>
 
-<p>D&eacute;couvrez les activit&eacute;s donn&eacute;es par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
+      <p>Découvrez les activités données par notre partenaire : <a href="https://www.youtube.com/watch?v=-4ggXAEv-tQ">cliquez ici</a>.</p>
 
-<p>Chaque journ&eacute;e de stage est divis&eacute;e en deux parties. Durant la matin&eacute;e, les enfants s&#39;initient avec rigueur au tennis. L&#39;apr&egrave;s-midi est consacr&eacute;e &agrave; l&#39;apprentissage des bases de la natation par le biais d&#39;activit&eacute;s ludiques (voyage sur une frite ou une planche, mettre la t&ecirc;te sous l&#39;eau, etc.), le tout dans une ambiance d&eacute;contract&eacute;e !</p>'
+      <p>Chaque journée de stage est divisée en deux parties. Durant la matinée, les enfants s'initient avec rigueur au tennis. L'après-midi est consacrée à l'apprentissage des bases de la natation par le biais d'activités ludiques (voyage sur une frite ou une planche, mettre la tête sous l'eau, etc.), le tout dans une ambiance décontractée !</p>
     infos:
     - alias: Matériel
-      info_line: 'Tout le matériel de tennis est fourni par notre partenaire. '
+      info_line: Tout le matériel de tennis est fourni par notre partenaire.
     - alias: Equipement
       info_line: Dès le 1er jour, prévoir maillot, essuie et bonnet.
     - alias: Repas chaud
-      info_line: Repas chaud possible en option de l'inscription (semaine complète
-        obligatoire et inscription possible uniquement avant la semaine de stage).
+      info_line: >
+        Repas chaud possible en option de l'inscription (semaine complète obligatoire et inscription possible uniquement avant la semaine de stage).
 - name: Fun & Multisports et Langues
   categorie: Activités artistiques et loisirs
   img: "/assets/images/multi-langue.png"
@@ -569,19 +570,22 @@ stages:
   - alias: Bruxelles
     ville: Bruxelles
     age: 6-18 ans
-    description: "<p><em>Stage en collaboration avec </em><strong><em>Be Tennis School</em></strong></p>
-     <p>Votre enfant veut découvrir les joies du tennis ?</p>
-     <p>Il est déjà joueur et veut progresser en s&nbsp;amusant pendant les vacances ?</p> 
-     <p>Notre stage de tennis associe l'apprentissage du geste technique au plaisir du jeu
-dans une ambiance familiale et le cadre exceptionnel du Royal Charles-Quint àGanshoren.</p><p>Nos professeurs et animateurs appuient leur pédagogie sur les méthodes d&nbsp;enseignement de la fédération belge de tennis et sur son fondement essentiel,
-s&nbsp;amuser à apprendre !</p><p>Des intempéries ? Pas de soucis ! Nos 3 terrains Indoor peuvent accueillir votre enfant en cas de mauvais temps.
-</p>"
+    description: |
+      <p><em>Stage en collaboration avec </em><strong><em>Be Tennis School</em></strong></p>
+      <p>Votre enfant veut découvrir les joies du tennis ?</p>
+      <p>Il est déjà joueur et veut progresser en s'amusant pendant les vacances ?</p>
+      <p>Notre stage de tennis associe l'apprentissage du geste technique au plaisir du jeu
+      dans une ambiance familiale et le cadre exceptionnel du Royal Charles-Quint à Ganshoren.</p>
+      <p>Nos professeurs et animateurs appuient leur pédagogie sur les méthodes d'enseignement de la fédération belge de tennis et sur son fondement essentiel,
+      s'amuser à apprendre !</p>
+      <p>Des intempéries ? Pas de soucis ! Nos 3 terrains Indoor peuvent accueillir votre enfant en cas de mauvais temps.</p>
     infos:
     - alias: Matériel
-      info_line: Si vous ne possédez pas de raquette, notre partenaire en met à votre
-        disposition. Vous pouvez bien sûr apporter votre propre matériel.
+      info_line: >
+        Si vous ne possédez pas de raquette, notre partenaire en met à votre disposition. Vous pouvez bien sûr apporter votre propre matériel.
     - alias: Garderie
-      info_line: Inscription sur place ! Garderie de 08h00 à 09h00 et de 16h00 à 17h30 (12,5€).
+      info_line: >
+        Inscription sur place ! Garderie de 08h00 à 09h00 et de 16h00 à 17h30 (12,5€).
 - name: Tennis 
   categorie: Activités sportives
   img: "/assets/images/tennis-ytsw.png"
