@@ -9830,41 +9830,50 @@ collectif, la coordination et la compréhension des règles.</p>"
       info_line: 'Se munir de 2 paires de chaussures (de baskets ou de foot) : une pour
         l''intérieur et l''autre pour l''extérieur.'
   activation_onglets: true
-- name: Football Road to World Cup 2022
-  img: "/assets/images/stage_enfant_footballworldcup22.jpg"
+- name: Mini Sciences & Multisports
+  img: "/assets/images/mini-sciences-multi.png"
   inscription: ''
-  categorie: Activités sportives
-  online: false
+  categorie: Découvertes Sportives & Culturelles
+  online: true
   nouveau: true
   stage_une: false
   location:
-  - alias: Brabant
-    ville: Brabant Wallon
-    age: 5-16 ans
-    description: '<p><strong><em>Stage spécial Road to World Cup 2022 : tournois organisés
-      en fin de semaine</em></strong></p><p>Votre enfant est un vrai mordu du ballon
-      ? Notre stage "Football Road to World Cup 2022" est l''idéal pour lui !</p><p>Ce
-      stage prévoit une alternance entre entraînements et petits matchs.</p><p>Les
-      enfants s''exercent aux techniques de ballon et de jeu : apprentissage du dribble,
-      des frappes, des passes et du contrôle de balle.</p><p>Chaque entraînement est
-      abordé de manière ludique afin d''allier football et plaisir.</p><p>La journée
-      est répartie en 3 périodes de football et une période de multisports.</p>'
-    infos: []
   - alias: Bruxelles
     ville: Bruxelles
-    age: 5-16 ans
-    description: '<p><strong><em>Stage spécial Road to World Cup 2022 : tournois organisés
-      en fin de semaine</em></strong></p><p>Votre enfant est un vrai mordu du ballon
-      ? Notre stage "Football Road to World Cup 2022" est l''idéal pour lui !</p><p>Ce
-      stage prévoit une alternance entre entraînements et petits matchs.</p><p>Les
-      enfants s''exercent aux techniques de ballon et de jeu : apprentissage du dribble,
-      des frappes, des passes et du contrôle de balle.</p><p>Chaque entraînement est
-      abordé de manière ludique afin d''allier football et plaisir.</p><p>La journée
-      est répartie en 3 périodes de football et une période de multisports.</p>'
+    age: 5-7 ans
+    description: '<p><strong><em>Stage en collaboration avec Cap Sciences</em></strong></p>
+      <p>Offrez à votre enfant un stage plein de découvertes !</p>
+<p>Pendant la semaine, il pourra relever des défis amusants, réaliser des expériences scientifiques, tout en explorant le monde fascinant des sciences.</p>
+<p>Les activités de sciences, c'est le stage de vacances "intelligent" qui permet d'apprendre tout en s'amusant.</p>
+<p>Chaque stage plonge les enfants dans un univers unique et stimulant : chaque semaine, un thème différent est proposé pour renouveler le plaisir et l’émerveillement (graine de génie, savants fous, les p'tits curieux, etc.).</p>
+<p>Entre deux expériences, place à l’action ! Les enfants participent à des activités multisports variées, pour se dépenser, jouer en équipe et découvrir de nouvelles disciplines dans une ambiance dynamique et conviviale.</p>
+<p>Le tout se déroule dans une ambiance ludique, bienveillante et encadrée par des animateurs spécialisé et passionnés, pour apprendre tout en s’amusant et bouger sans s’ennuyer !</p>'
     infos:
     - alias: Partenariat
-      info_line: 'A Jette : Stage en partenariat avec Futsal Jette'
+      info_line: 'Stage en partenariat avec Cap Sciences'
   activation_onglets: true
+- name: Sciences & Multisports
+  img: "/assets/images/sciences-multi.png"
+  inscription: ''
+  categorie: artistiques & loisirs
+  online: true
+  nouveau: true
+  stage_une: false
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: '<p><strong><em>Stage en collaboration avec Cap Sciences</em></strong></p>
+      <p>Offrez à votre enfant un stage plein de découvertes !</p>
+<p>Pendant la semaine, il pourra relever des défis amusants, réaliser des expériences scientifiques, tout en explorant le monde fascinant des sciences.</p>
+<p>Les activités de sciences, c'est le stage de vacances "intelligent" qui permet d'apprendre tout en s'amusant.</p>
+<p>Chaque stage plonge les enfants dans un univers unique et stimulant : chaque semaine, un thème différent est proposé pour renouveler le plaisir et l’émerveillement (les arsouilles du labo, magi-sciences, les chercheurs de l'impossible, etc.).</p>
+<p>Entre deux expériences, place à l’action ! Les enfants participent à des activités multisports variées, pour se dépenser, jouer en équipe et découvrir de nouvelles disciplines dans une ambiance dynamique et conviviale.</p>
+<p>Le tout se déroule dans une ambiance ludique, bienveillante et encadrée par des animateurs spécialisé et passionnés, pour apprendre tout en s’amusant et bouger sans s’ennuyer !</p>'
+    infos:
+    - alias: Partenariat
+      info_line: 'Stage en partenariat avec Cap Sciences'
+  activation_onglets: true  
 - name: Fun & Multisports
   img: "/assets/images/stages/activitessportives/funetmulti.png"
   inscription: ''
