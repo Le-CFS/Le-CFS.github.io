@@ -70,11 +70,11 @@ liste:
   href: "http://lapetitesource.be/"
   bouton: ''
   couleur_bouton: ''
-- name: Mokko Padel Club
+- name: Cap Sciences
   categorie: partenaires pédagogiques
-  online: false
-  logo: "/assets/images/mokko.png"
-  href: https://www.mokkopadelproject.be/
+  online: true
+  logo: "/assets/images/logo-capsciences-hd.png"
+  href: https://www.capsciences.be/
   bouton: ''
   couleur_bouton: ''
 - name: Lara Hockey Club
