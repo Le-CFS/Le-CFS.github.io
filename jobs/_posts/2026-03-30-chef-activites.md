@@ -29,57 +29,57 @@ Vous assurez la gestion globale, organisationnelle et qualitative des cours FitT
 <strong>Responsabilités principales</strong>
 
 ##### 1. Coordination pédagogique et organisation
-· Assurer la coordination générale des cours
-· Animation des cours adultes
-· Élaborer et planifier les grilles horaires (année scolaire et vacances)
-· Gérer les groupes, les effectifs et les compteurs
-· Organiser les changements de groupes et d’horaires
-· Gérer les annulations et les remplacements, ainsi que la communication associée
-· Produire et maintenir à jour les listings
-· Traiter les plaintes et assurer le suivi des réinscriptions
+· Assurer la coordination générale des cours <br>
+· Animation des cours adultes <br>
+· Élaborer et planifier les grilles horaires (année scolaire et vacances) <br>
+· Gérer les groupes, les effectifs et les compteurs <br>
+· Organiser les changements de groupes et d’horaires <br>
+· Gérer les annulations et les remplacements, ainsi que la communication associée <br>
+· Produire et maintenir à jour les listings <br>
+· Traiter les plaintes et assurer le suivi des réinscriptions<br>
 · Relation clientèle et suivi administratif : rappel de payement, réinscription, gestion des plaintes, etc.
 
 ##### 2. Gestion des équipes
-· Encadrer et superviser les moniteurs
-· Gérer les présences quotidiennes et organiser les remplacements
-· Assurer le suivi des remplaçant·e·s
-· Établir les rapports mensuels de présence
-· Assurer la présence et le suivi des encadrants adulte
+· Encadrer et superviser les moniteurs<br>
+· Gérer les présences quotidiennes et organiser les remplacements<br>
+· Assurer le suivi des remplaçant·e·s<br>
+· Établir les rapports mensuels de présence<br>
+· Assurer la présence et le suivi des encadrants adulte<br>
 
 ###### 3. Qualité et suivi pédagogique
-· Garantir le respect des standards pédagogiques et du label qualité
-· Assurer un contrôle qualité continu des activités
-· Signer et suivre les contrats via les outils internes (ex : iClub)
-· Veiller à la cohérence et à la qualité des contenus pédagogiques
+· Garantir le respect des standards pédagogiques et du label qualité<br>
+· Assurer un contrôle qualité continu des activités<br>
+· Signer et suivre les contrats via les outils internes (ex : iClub)<br>
+· Veiller à la cohérence et à la qualité des contenus pédagogiques<br>
 
 ###### 4. Communication et matériel
-· Promotion des activités Fit Time (flyer, évent, contenu pour le marketing)
-· Communication avec les départements interne : HR, communication et service clientèle
-· Gestion du matériel : entretien & réassort
+· Promotion des activités Fit Time (flyer, évent, contenu pour le marketing)<br>
+· Communication avec les départements interne : HR, communication et service clientèle<br>
+· Gestion du matériel : entretien & réassort<br>
 
 ###### Profil recherché
-· Vous êtes titulaire d'un diplôme (ou en dernière année d'étude) d’éducation physique, de kinésithérapie ou justifier d’une expérience équivalente à la fonction;
-· Vous êtes titulaire d'un BBSA, BSSA (Brevet Supérieur de Sauvetage Aquatique) ou tout équivalent ;
-· Vous êtes flexible au niveau des horaires et disponible en soirée (horaire à déterminer)
-· Vous êtes capable de transmettre votre savoir-faire ainsi que votre expérience aux clients ;
-· Capacité d’organisation et de coordination ;
-· Sens du service et du contact client ;
-· Concernant les cours d'aqua bike et aquagym, vous êtes un coach dynamique, endurant, souriant et motivé, à l'écoute de votre groupe ;
-· Vous avez de la rigueur dans votre travail.
+· Vous êtes titulaire d'un diplôme (ou en dernière année d'étude) d’éducation physique, de kinésithérapie ou justifier d’une expérience équivalente à la fonction;<br>
+· Vous êtes titulaire d'un BBSA, BSSA (Brevet Supérieur de Sauvetage Aquatique) ou tout équivalent ;<br>
+· Vous êtes flexible au niveau des horaires et disponible en soirée (horaire à déterminer)<br>
+· Vous êtes capable de transmettre votre savoir-faire ainsi que votre expérience aux clients ;<br>
+· Capacité d’organisation et de coordination ;<br>
+· Sens du service et du contact client ;<br>
+· Concernant les cours d'aqua bike et aquagym, vous êtes un coach dynamique, endurant, souriant et motivé, à l'écoute de votre groupe ;<br>
+· Vous avez de la rigueur dans votre travail.<br>
 · Vous êtes disponible immédiatement
 
 ###### Ce que nous offrons
-· Un CDD de 25h/semaine du 27/04 au 21/08 avec une possibilité de CDI avec davantage d’heures ensuite.
-· Un environnement de travail humain, stimulant et bienveillant
-· Une fonction variée avec des responsabilités concrètes
-· Une équipe motivée et bienveillante
-· Une rémunération adaptée à votre profil et votre expérience
-· Des horaires flexibles et un équilibre vie pro/perso respecté
-· Un simple et double pécule de vacances
-· Une indemnité kilométrique
+· Un CDD de 25h/semaine du 27/04 au 21/08 avec une possibilité de CDI avec davantage d’heures ensuite.<br>
+· Un environnement de travail humain, stimulant et bienveillant<br>
+· Une fonction variée avec des responsabilités concrètes<br>
+· Une équipe motivée et bienveillante<br>
+· Une rémunération adaptée à votre profil et votre expérience<br>
+· Des horaires flexibles et un équilibre vie pro/perso respecté<br>
+· Un simple et double pécule de vacances<br>
+· Une indemnité kilométrique<br>
 
 
 ###### Intéressé ?
 
-📩 Envoyez votre **CV** et votre **lettre de motivation** à [celine@lecfs.be](mailto:cceline@lecfs.be)
-Clôture des candidatures : 07/04/2026
+📩 Envoyez votre **CV** et votre **lettre de motivation** à [celine@lecfs.be](mailto:cceline@lecfs.be)<br>
+Clôture des candidatures : 24/04/2026
