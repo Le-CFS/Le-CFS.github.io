@@ -42,8 +42,6 @@ cfs:
       url: "/cfs/les_centres_cfs/uccle"
     - title: Verlaine
       url: "/cfs/les_centres_cfs/verlaine"
-    - title: Villers-le-Bouillet
-      url: "/cfs/les_centres_cfs/vlb"
     - title: Walhain
       url: "/cfs/les_centres_cfs/walhain"
     - title: Wavre
