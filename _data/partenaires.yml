@@ -343,6 +343,13 @@ liste:
   online: true
   bouton: Site Web
   couleur_bouton: ''
+- name: Clinique St-Pierre
+  categorie: Partenaires d'entreprises
+  logo: "/assets/images/clinique-st-pierre.jpg"
+  href: https://www.cspo.be/
+  online: true
+  bouton: Site Web
+  couleur_bouton: ''
 - name: Athénée Royal de Rixensart
   categorie: Partenaires écoles
   logo: "/assets/images/partenaires/atheneerix.png"
