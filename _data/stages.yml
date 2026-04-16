@@ -7589,8 +7589,6 @@ stages:
     infos:
     - info_line: Prévoir un sac avec une tenue et un lange de rechange.
       alias: Lange
-    - info_line: Attention, il n'y a pas de garderie pour ce stage.
-      alias: Pas de garderie
     - alias: Scolarisation
       info_line: " Les enfants doivent être scolarisés pour pouvoir participer à ce
         stage."
@@ -7612,8 +7610,6 @@ stages:
     infos:
     - alias: Lange
       info_line: Prévoir un sac avec une tenue et un lange de rechange.
-    - alias: Pas de garderie
-      info_line: Attention, il n'y a pas de garderie pour ce stage.
     - alias: Scolarisation
       info_line: " Les enfants doivent être scolarisés pour pouvoir participer à ce
         stage."
