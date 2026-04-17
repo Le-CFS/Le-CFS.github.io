@@ -119,10 +119,10 @@ liste:
   href: https://rfcorpnoduwez.be/
   bouton: ''
   couleur_bouton: ''
-- name: Padel Events Academy
+- name: Ekillibre
   categorie: Partenaires de stages
-  online: false
-  logo: "/assets/images/padel-events.png"
+  online: true
+  logo: "/assets/images/ekillibre.jpg"
   href: https://padeleventsacademy.be/
   bouton: ''
   couleur_bouton: ''
