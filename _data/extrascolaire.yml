@@ -1,5 +1,126 @@
 ---
 activites:
+- name: Psycho Mouv
+  categorie: Les petits bouts
+  img: "/assets/images/psycho-mouv.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Athénée Royal Paul Delvaux
+    - PERWEZ - Centre Sportif
+    - RIXENSART - Complexe Sportif
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 2-5 ans
+    description: "<p>Votre petit bout est avide de découvertes ? En avant pour une nouvelle aventure : « Repères et mouvements » ! Chaque semaine, une facette différente de la 
+    psychomotricité sera mise à l’honneur avec un programme taillé sur mesure pour s’amuser comme des fous !</p><p>Grâce à ce programme varié, concocté par notre psychomotricienne,
+    votre enfant apprend des thèmes tels que l’équilibre, le schéma corporel, l’orientation spatiale,… le tout par le biais d’ateliers ludiques.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - ANDERLECHT - Complexe Sportif du Ceria
+    - ANDERLECHT - Institut Notre-Dame des Agaves/Itterbeek
+    - JETTE - Centre Sportif
+    age: 2-5 ans
+    description: "<p>Votre petit bout est avide de découvertes ? En avant pour une nouvelle aventure : « Repères et mouvements » ! 
+    Chaque semaine, une facette différente de la psychomotricité sera mise à l’honneur avec un programme taillé sur mesure pour s’amuser comme des fous !</p><p>Grâce à ce programme varié, 
+    concocté par notre psychomotricienne, votre enfant apprend des thèmes tels que l’équilibre, le schéma corporel, l’orientation spatiale,… le tout par le biais d’ateliers ludiques.</p>"
+    infos: []
+- name: Mini Champions
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/mini-champions.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Athénée Royal Paul Delvaux
+    - PERWEZ - Centre Sportif
+    - RIXENSART - Complexe Sportif
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 5-7 ans
+    description: "<p>Séances de multisports avec au programme : sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball, etc.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - ANDERLECHT - Complexe Sportif du Ceria
+    - ANDERLECHT - Institut Notre-Dame des Agaves/Itterbeek
+    - JETTE - Centre Sportif
+    - LAEKEN - Institut du Christ-Roi
+    age: 5-7 ans
+    description: "<p>Séances de multisports avec au programme : sports ballons, uni-hoc, frisbee, badminton, crosse canadienne, base-ball, etc.</p>"
+    infos: []
+- name: Mix Danse
+  categorie: Danse et Gymnastique
+  img: "/assets/images/mix-danse.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - OTTIGNIES - Athénée Royal Paul Delvaux
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 6-16 ans
+    description: "<p>Mix Danse, c’est bien plus qu’un simple cours de danse : c’est un espace de liberté où l’on explore différents styles, 
+    rythmes et énergies, tout en développant les piliers essentiels du mouvement dansé.</p><p>Chaque séance est une invitation à bouger autrement, à ressentir intensément et à s’amuser en dansant.</p>"
+    infos: []
+- name: Ludic’Art
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/ludic-art.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 5-8 ans
+    description: "<p>Cet atelier encourage les enfants à développer leur imagination et leur créativité. Par des créations manuelles, ils développent leur savoir-faire.</p><p>Au programme :
+    cartes amusantes, objets décoratifs ou utilitaires. Les enfants peuvent exprimer toutes leurs émotions via leurs créations.</p>"
+    infos: []
+- name: Cré’Art
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/cre-art.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 8-14 ans
+    description: "<p>Votre enfant déborde d’imagination ? Vous aimeriez qu’il développe son esprit créatif tout en s’amusant ? Cette activité est faite pour lui !</p><p>Au programme :
+    découverte et apprentissage ludique de différentes techniques d’arts plastiques comme le modelage, le collage, le dessin ou encore la peinture. Les enfants peuvent exprimer toutes leurs émotions via leurs créations.</p>"
+    infos: []
+- name: Fun Games
+  categorie: Activités fun
+  img: "/assets/images/fun-games.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 8-16 ans
+    description: "<p>L’activité Fun Games propose, tout au long de l’année, un programme varié et dynamique autour de jeux originaux et accessibles à tous.</p>
+    <p>Chaque séance est l’occasion de découvrir de nouvelles pratiques sportives et ludiques dans une ambiance conviviale et motivante.</p><p>Au fil des séances,
+    les participants s’initient à différentes disciplines telles que l’arrow game, le frisbee golf, le snag golf, le spikeball, le kinball ou encore le flag foot.</p>
+    <p>Ces activités favorisent le développement de la coordination, de l’esprit d’équipe et de la stratégie, tout en mettant l’accent sur le plaisir de jouer.</p>
+    <p>Fun, diversité et bonne humeur sont au cœur de cette activité idéale pour bouger, se dépenser et partager de bons moments tout au long de l’année.</p>"
+    infos: []
 - name: Fun & Multisports
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-baby-multisports-500x500.jpg"
