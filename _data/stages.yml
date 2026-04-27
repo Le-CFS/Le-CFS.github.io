@@ -138,7 +138,7 @@ stages:
     description: "<p>Un stage varié et fun, avec un programme alléchant : Arrow Game, Laser Game, Laser Game & Bowling, Koezio et E-Fun.</p><p>Les enfants participent à des activités ludiques, sportives et collaboratives tout au long de la semaine.</p>"
     infos:
     - alias: Koezio
-      info_line: Taille minimum requise pour l’activité Koezio : 1m40.
+      info_line: Taille minimum requise pour l’activité Koezio 1m40.
 
 - name: Fun BMX/Pumptrack
   categorie: Activités fun
