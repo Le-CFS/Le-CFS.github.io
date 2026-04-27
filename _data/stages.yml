@@ -29,6 +29,653 @@ categories:
   official_name: Formules Internat
   btn: btn-stage-internat
 stages:
+- name: Athlétisme
+  categorie: Activités sportives
+  img: "/assets/images/athletisme.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 7-12 ans
+    description: "<p>L’athlétisme, c’est courir, sauter et lancer tout en s’amusant ! À travers des jeux variés et des défis adaptés à chaque âge, les enfants découvrent les bases de ce sport complet de façon ludique et dynamique.</p><p>L’objectif est de bouger, de se dépenser et de prendre du plaisir tout en développant leur motricité, leur coordination et leur goût de l’effort.</p>"
+    infos: []
+
+- name: Arts Martiaux
+  categorie: Activités sportives
+  img: "/assets/images/artsmartiaux.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p>Vous souhaitez que votre enfant apprenne à se défendre tout en s'amusant ? Ce stage est fait pour lui.</p><p>Les enfants découvrent les arts martiaux à travers de nombreuses disciplines comme le karaté, le ju-jitsu et le judo.</p><p>L'autre moitié de la journée est consacrée à des activités de multisports et new games.</p>"
+    infos: []
+
+- name: Badminton
+  categorie: Activités sportives
+  img: "/assets/images/badminton.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p>Grâce à ce stage, tu progresses à ton rythme tout en apprenant les bonnes techniques : jonglage, déplacement, lancer, visualisation de la trajectoire du volant, etc.</p><p>Chaque jour, tu apprends les règles de base du badminton et tu développes ton fair-play en disputant des petits matchs amicaux.</p><p>Un tournoi est organisé en fin de semaine.</p>"
+    infos: []
+
+- name: Cosmétique & Pâtisserie
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/cos-patisserie.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-14 ans
+    description: "<p>Offrez à vos enfants une semaine alliant bien-être et gourmandise !</p><p>Le matin, place à la beauté et à la cosmétique : yoga, gestes beauté et fabrication de cosmétiques à ramener chez soi.</p><p>L’après-midi, place à la pâtisserie avec la réalisation de desserts simples et savoureux.</p><p>En fin de semaine, chaque enfant repart avec son propre livre de recettes.</p>"
+    infos: []
+
+- name: Découverte Néerlandais
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/decndls-ecoledelangues.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p><em>En collaboration avec <strong>EcoleDeLangues.be</strong></em></p><p>Ce stage propose une immersion complète en néerlandais pour les enfants avides de découvertes.</p><p>Chaque matin, les enfants découvrent le néerlandais à travers des jeux, chansons et activités interactives.</p><p>L’après-midi, place aux jeux sportifs également encadrés en néerlandais.</p>"
+    infos: []
+
+- name: Football Spécial Gardien
+  categorie: Activités sportives
+  img: "/assets/images/footpecialgardien-rfcorp.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-17 ans
+    description: "<p><em>Stage en partenariat avec le <strong>R.F.C. Orp Noduwez</strong></em></p><p>Tu es passionné par le poste de gardien de but et tu veux perfectionner tes compétences ? Ce stage est fait pour toi !</p><p>Le stage combine exercices spécifiques, amélioration des réflexes, placement, jeu au pied, condition physique, souplesse et analyse vidéo.</p>"
+    infos:
+    - alias: Expérience requise
+      info_line: Une expérience en tant que gardien est requise afin de garantir une progression efficace.
+    - alias: Encadrement
+      info_line: Le stage est dirigé par trois entraîneurs brevetés et expérimentés.
+
+- name: Fun Aventure
+  categorie: Activités fun
+  img: "/assets/images/funaventure.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: "<p>Un stage varié et fun, avec un programme alléchant : Arrow Game, Laser Game, Laser Game & Bowling, Koezio et E-Fun.</p><p>Les enfants participent à des activités ludiques, sportives et collaboratives tout au long de la semaine.</p>"
+    infos:
+    - alias: Koezio
+      info_line: Taille minimum requise pour l’activité Koezio : 1m40.
+
+- name: Fun BMX/Pumptrack
+  categorie: Activités fun
+  img: "/assets/images/funbmxpump.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-16 ans
+    description: "<p>Votre enfant est un vrai biker en quête de fun et d’adrénaline !</p><p>Chaque matin, les enfants s’initient au BMX sur le nouveau pumptrack de Wavre. L’après-midi, place aux New Games et à l’Arrow Game.</p>"
+    infos:
+    - alias: Equipement
+      info_line: Prévoir une tenue adaptée pour les activités en extérieur et une tenue de rechange selon la météo.
+
+- name: Journée à Profondeville
+  categorie: Activités fun
+  img: "/assets/images/journeeprofondeville.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-16 ans
+    description: "<p>Le CFS propose une journée complète d’activité à Profondeville : navigation sur la Meuse, bouée tractée, paddle, etc.</p><p>L’encadrement et les transports sont pris en charge par le CFS. Journée inoubliable et fun garanti !</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-16 ans
+    description: "<p>Le CFS propose une journée complète d’activité à Profondeville : navigation sur la Meuse, bouée tractée, paddle, etc.</p><p>L’encadrement et les transports sont pris en charge par le CFS. Journée inoubliable et fun garanti !</p>"
+    infos: []
+
+- name: Kids Tennis
+  categorie: Activités sportives
+  img: "/assets/images/kidstennis-rltc.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 3-9 ans
+    description: "<p><em>Stage en collaboration avec le <strong>Royal Tennis Club Laeken</strong></em></p><p>Ce stage initie les enfants au tennis par différents jeux leur permettant d’en acquérir les bases.</p><p>Une période de la journée est consacrée à la découverte d’un multisport.</p>"
+    infos: []
+
+- name: Meilleur Pâtissier
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/meilleurpatissier.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Découvrez le stage Meilleur Pâtissier : à vos fourneaux !</p><p>Chaque jour, les enfants réalisent une multitude de recettes savoureuses et faciles à reproduire à la maison.</p><p>Les jeunes pâtissiers explorent différentes techniques culinaires tout en enrichissant un livre de recettes illustrées.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: "<p>Découvrez le stage Meilleur Pâtissier : à vos fourneaux !</p><p>Chaque jour, les enfants réalisent une multitude de recettes savoureuses et faciles à reproduire à la maison.</p><p>Les jeunes pâtissiers explorent différentes techniques culinaires tout en enrichissant un livre de recettes illustrées.</p>"
+    infos: []
+
+- name: Meteor Camp
+  categorie: Internat
+  img: "/assets/images/missiondec.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Transinne
+    age: 10-14 ans
+    description: "<p><em>En partenariat avec <strong>Euro Space Center</strong></em></p><p>Deviens un chasseur de météorites et construis ton propre collecteur !</p><p>Grâce au planétarium, tu observes galaxies, nébuleuses, phases de la Lune et cratères. Tu construis également un collecteur de micrométéorites ainsi qu’un microscope fonctionnel.</p>"
+    infos:
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l’Euro Space Center. Stage du lundi au vendredi de 9h à 16h. Garderie gratuite sur inscription de 8h30 à 9h et de 16h à 17h.'
+
+- name: Mini Artiste
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/miniartiste.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p>Laisse place à ton imaginaire, ta créativité et apporte le costume de ton héros préféré !</p><p>Ce stage permet aux enfants d’entrer dans un monde magique : histoires féeriques, bricolages, dessins, chasses au trésor, déguisements et danses.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-7 ans
+    description: "<p>Laisse place à ton imaginaire, ta créativité et apporte le costume de ton héros préféré !</p><p>Ce stage permet aux enfants d’entrer dans un monde magique : histoires féeriques, bricolages, dessins, chasses au trésor, déguisements et danses.</p>"
+    infos: []
+
+- name: Mini Padel
+  categorie: Activités sportives
+  img: "/assets/images/minipadel-rltc.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-7 ans
+    description: "<p><em>Stage en collaboration avec le <strong>Royal Laeken Tennis Club</strong></em></p><p>Ce stage propose une initiation et une découverte du padel, sport de raquettes convivial, ludique et facile à pratiquer.</p>"
+    infos: []
+
+- name: Mini Padel
+  categorie: Activités sportives
+  img: "/assets/images/minipadel-pulsepadel.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p><em>Stage en collaboration avec <strong>Pulse Padel Academy</strong></em></p><p>Ce stage propose une initiation et une découverte du padel, sport de raquettes convivial, ludique et facile à pratiquer.</p>"
+    infos: []
+
+- name: Mini Pâtissier
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/minipatissier.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p>Premiers pas dans la cuisine !</p><p>Chaque jour, les enfants mettent la main à la pâte pour réaliser des recettes savoureuses et faciles à reproduire à la maison.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-7 ans
+    description: "<p>Premiers pas dans la cuisine !</p><p>Chaque jour, les enfants mettent la main à la pâte pour réaliser des recettes savoureuses et faciles à reproduire à la maison.</p>"
+    infos: []
+
+- name: Mini Savant
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/minisavant.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-7 ans
+    description: "<p>Lors de ce stage, nos apprentis scientifiques découvrent le monde des sciences par de petites expériences physiques, chimiques et biologiques.</p><p>La journée est composée de sciences, de sport, de jeux de coopération, de jeux collectifs et de jeux de société.</p>"
+    infos: []
+
+- name: Mini Club/Toddler
+  categorie: Les petits bouts
+  img: "/assets/images/miniclubtoddler-castleclub.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 3-5 ans
+    description: "<p><em>Stage en collaboration avec <strong>Castle Club</strong></em></p><p>Votre enfant s’accoutume à l’eau, aux jeux de raquettes et au vélo sans pédales.</p><p>L’après-midi est consacré aux activités artistiques et ludiques.</p>"
+    infos: []
+
+- name: Mini Tennis - Natation & Multisports
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/minitennis-nat-multi-castleclub.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-8 ans
+    description: "<p><em>Stage en collaboration avec <strong>Castle Club</strong></em></p><p>Ce stage initie les enfants au tennis par différents jeux leur permettant d’en acquérir les bases.</p><p>Le stage est complété par des activités multisports et de la natation.</p>"
+    infos: []
+
+- name: Mini Yoga
+  categorie: Les petits bouts
+  img: "/assets/images/miniyoga.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-7 ans
+    description: "<p>Bouger, respirer et s’amuser !</p><p>Ce stage de yoga propose une initiation ludique adaptée aux enfants : jeux, histoires, postures inspirées des animaux et de la nature, respiration et relaxation.</p>"
+    infos: []
+
+- name: Mission Découverte
+  categorie: Activités fun
+  img: "/assets/images/missiondec.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 6-8 ans
+    description: "<p>Le stage Mission Découverte propose une semaine remplie d’activités diversifiées et excitantes.</p><p>Au programme : jeux aquatiques, New Games, Koh Lanta, chasse au trésor, E-Fun et Fun Challenge.</p>"
+    infos: []
+
+- name: Mini Explorateurs
+  categorie: Les petits bouts
+  img: "/assets/images/miniexplorateurs.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p>Votre enfant a une curiosité débordante et est le futur Indiana Jones ? Ce stage est fait pour lui !</p><p>Chaque jour, les enfants participent à des activités variées : Jeux Olympiques, cirque, éveil des sens, E-Fun et Koh Lanta.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-7 ans
+    description: "<p>Votre enfant a une curiosité débordante et est le futur Indiana Jones ? Ce stage est fait pour lui !</p><p>Chaque jour, les enfants participent à des activités variées : Jeux Olympiques, cirque, éveil des sens, E-Fun et Koh Lanta.</p>"
+    infos: []
+
+- name: Mini Secourisme
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/minisecourisme-belife.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-7 ans
+    description: "<p><em>En collaboration avec <strong>Be Life Rescue Training</strong></em></p><p>Un infirmier urgentiste initie les enfants aux gestes essentiels de premiers secours : réanimation cardiaque, gestion des hémorragies, malaises et plus encore.</p><p>Chaque journée est complétée par des activités multisports.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 5-7 ans
+    description: "<p><em>En collaboration avec <strong>Be Life Rescue Training</strong></em></p><p>Un infirmier urgentiste initie les enfants aux gestes essentiels de premiers secours : réanimation cardiaque, gestion des hémorragies, malaises et plus encore.</p><p>Chaque journée est complétée par des activités multisports.</p>"
+    infos: []
+
+- name: Modélisation 3D
+  categorie: Internat
+  img: "/assets/images/missiondec.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: false
+  inscription: ''
+  location:
+  - alias: Euro Space Center
+    ville: Transinne
+    age: 12-18 ans
+    description: "<p>Lors de ce stage, les jeunes découvrent la modélisation 3D et l’impression 3D.</p><p>À l’aide d’un logiciel et d’un croquis, ils construisent une pince capable de saisir un objet, puis l’impriment, installent ses composants et valident son fonctionnement.</p>"
+    infos:
+    - alias: Diplôme
+      info_line: Remise d'un diplôme en fin de stage.
+    - alias: Internat
+      info_line: 'Internat : 5 nuitées comprenant petit-déjeuner, repas de midi, collation et repas du soir. Arrivée au stage le dimanche à 17h et départ le vendredi à 16h30.'
+    - alias: Externat
+      info_line: 'Externat : repas et collation fournis par l’Euro Space Center. Stage du lundi au vendredi de 9h à 16h. Garderie gratuite sur inscription de 8h30 à 9h et de 16h à 17h.'
+
+- name: Multi Créa
+  categorie: Activités artistiques et loisirs
+  img: "/assets/images/multicrea.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 5-8 ans
+    description: "<p>Notre stage Multi Créa combine sport et créativité.</p><p>Le matin, les enfants participent à des activités multisports. L’après-midi, place aux ateliers artistiques : peinture, dessin, modelage, bricolage et bien plus encore.</p>"
+    infos: []
+
+- name: Multisports
+  categorie: Activités sportives
+  img: "/assets/images/multisports.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Votre enfant a besoin de se défouler ? Nous proposons des jeux collectifs permettant de développer la motricité, le respect des règles et la vie en groupe.</p><p>Les enfants découvrent basketball, mini-foot, volley, sports raquettes, unihoc, crosse canadienne, kin-ball ou encore boum-ball.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: "<p>Votre enfant a besoin de se défouler ? Nous proposons des jeux collectifs permettant de développer la motricité, le respect des règles et la vie en groupe.</p><p>Les enfants découvrent basketball, mini-foot, volley, sports raquettes, unihoc, crosse canadienne, kin-ball ou encore boum-ball.</p>"
+    infos: []
+
+- name: Multi Raquettes/Sport
+  categorie: Activités sportives
+  img: "/assets/images/multiraquettessport-rltc.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-18 ans
+    description: "<p><em>Stage en collaboration avec le <strong>Royal Laeken Tennis Club</strong></em></p><p>Ce stage propose une découverte de cinq sports de raquettes : tennis, badminton, tennis de table, padel et speedminton.</p>"
+    infos: []
+
+- name: Multisports - 5 Raquettes, Fitness & Natation
+  categorie: Activités sportives
+  img: "/assets/images/multisports-5raquettes-fitness-natation.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-18 ans
+    description: "<p><em>Stage en collaboration avec <strong>Castle Club</strong></em></p><p>Les enfants découvrent différentes disciplines sportives : tennis, squash, natation, mini-foot, hockey, mini-basket et baseball.</p>"
+    infos: []
+
+- name: Padel
+  categorie: Activités sportives
+  img: "/assets/images/padel-rltc.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-18 ans
+    description: "<p><em>Stage en collaboration avec le <strong>Royal Laeken Tennis Club</strong></em></p><p>Ce stage propose une initiation, découverte ou perfectionnement au padel, sport de raquettes convivial, ludique et facile à pratiquer.</p>"
+    infos: []
+
+- name: Padel
+  categorie: Activités sportives
+  img: "/assets/images/padel-pulsepadel.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p><em>Stage en collaboration avec <strong>Pulse Padel</strong></em></p><p>Ce stage propose une initiation, découverte ou perfectionnement au padel, sport de raquettes convivial, ludique et facile à pratiquer.</p>"
+    infos: []
+
+- name: Quad
+  categorie: Activités fun
+  img: "/assets/images/quad-rocevents.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 4-16 ans
+    description: "<p><em>En partenariat avec <strong>Roc Events</strong></em></p><p>Plonge dans une aventure unique pour développer toutes les compétences d’un bon pilote de quad : circuits évolutifs, parcours de vitesse, parcours techniques, trial, randonnée, ateliers mécaniques et olympiades.</p>"
+    infos: []
+
+- name: Secourisme
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/secourisme-belife.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-16 ans
+    description: "<p><em>En collaboration avec <strong>Be Life Rescue Training</strong></em></p><p>Un infirmier urgentiste initie les enfants aux gestes essentiels de premiers secours : réanimation cardiaque, gestion des hémorragies, prévention, malaises et plus encore.</p><p>À la fin du stage, après évaluation, les enfants obtiennent le Diplôme de Secouriste.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-16 ans
+    description: "<p><em>En collaboration avec <strong>Be Life Rescue Training</strong></em></p><p>Un infirmier urgentiste initie les enfants aux gestes essentiels de premiers secours : réanimation cardiaque, gestion des hémorragies, prévention, malaises et plus encore.</p><p>À la fin du stage, après évaluation, les enfants obtiennent le Diplôme de Secouriste.</p>"
+    infos: []
+
+- name: Self Défense
+  categorie: Activités sportives
+  img: "/assets/images/selfdefense.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-14 ans
+    description: "<p>Durant ce stage, l'accent est mis sur la maîtrise de soi, le respect des règles et l’art de se défendre simplement.</p><p>Les enfants apprennent différentes techniques de défense avec les mains et les pieds. L’autre partie de la journée est consacrée aux activités fun et multisports.</p>"
+    infos: []
+
+- name: Sports Passion
+  categorie: Activités sportives
+  img: "/assets/images/sportspassion.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Avec Sports Passion, votre enfant découvre un univers riche et varié mêlant sports classiques, sports de raquettes et nouveaux sports.</p><p>Au programme : uni-hoc, kinball, ball bouncer, baseball, badminton, tennis de table, speedminton, pickleball, DBL, poull ball, cardio goal, snag golf, spikeball et parcours nerf.</p>"
+    infos: []
+
+- name: Sports Raquettes
+  categorie: Activités sportives
+  img: "/assets/images/sportsraquettes-pulsepadel.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 7-12 ans
+    description: "<p><em>Stage en collaboration avec <strong>Pulse Padel Academy</strong></em></p><p>Ce stage propose une découverte de différents sports de raquettes : padel, badminton, tennis de table, speedminton et pickleball.</p>"
+    infos: []
+
+- name: Tennis
+  categorie: Activités sportives
+  img: "/assets/images/tennis-rltc.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 10-18 ans
+    description: "<p><em>Stage en collaboration avec le <strong>Royal Laeken Tennis Club</strong></em></p><p>Ce stage associe l’apprentissage du geste technique au plaisir du jeu dans une ambiance familiale.</p><p>Les enfants apprennent les bases du tennis : prises, placement, jeux de jambes, échanges et jeu.</p>"
+    infos: []
+
+- name: Tennis, Squash, Natation & Multisports
+  categorie: Activités sportives
+  img: "/assets/images/tennis-squash-natation-multisports-castleclub.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-18 ans
+    description: "<p><em>Stage en collaboration avec <strong>Castle Club</strong></em></p><p>Les enfants pratiquent tennis, squash, natation, mini-foot, hockey, mini-basket, baseball et autres sports collectifs.</p>"
+    infos: []
+
+- name: Unihoc & Fun
+  categorie: Activités sportives
+  img: "/assets/images/unihoc-fun.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    age: 8-12 ans
+    description: "<p>Ce sport tendance, aussi appelé floorball, se rapproche du hockey.</p><p>Les enfants participent à des séances ludiques et variées pour développer technique, endurance, coordination et esprit d’équipe. Le reste du stage est complété par des activités multisports.</p>"
+    infos: []
+  - alias: Bruxelles
+    ville: Bruxelles
+    age: 8-12 ans
+    description: "<p>Ce sport tendance, aussi appelé floorball, se rapproche du hockey.</p><p>Les enfants participent à des séances ludiques et variées pour développer technique, endurance, coordination et esprit d’équipe. Le reste du stage est complété par des activités multisports.</p>"
+    infos: []
+
+- name: VTT - Fun & Multisports
+  categorie: Activités sportives
+  img: "/assets/images/vtt-aventure-by-night.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Liège
+    ville: Liège
+    age: 6-12 ans
+    description: "<p>Votre enfant est un vrai biker à la recherche de fun et d’adrénaline ?</p><p>Le premier jour est consacré à des notions théoriques, parcours d’adresse et Run & Bike. Les autres jours, les enfants pratiquent le VTT une partie de la journée.</p><p>Le restant de la journée est complété par des activités fun et multisports.</p>"
+    infos: []
 - name: Teen Summer
   categorie: Internat
   img: "/assets/images/stage-enfant-internat-espagne-vacances-jeunes-500x500.jpg"
