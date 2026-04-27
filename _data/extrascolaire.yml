@@ -90,7 +90,7 @@ activites:
     infos: []
 - name: Cré’Art
   categorie: Activités artistiques et loisirs
-  img: "/assets/images/cre-art.png"
+  img: "/assets/images/cré-art.png"
   online: true
   nouveau: true
   inscription: ''
@@ -121,6 +121,34 @@ activites:
     <p>Ces activités favorisent le développement de la coordination, de l’esprit d’équipe et de la stratégie, tout en mettant l’accent sur le plaisir de jouer.</p>
     <p>Fun, diversité et bonne humeur sont au cœur de cette activité idéale pour bouger, se dépenser et partager de bons moments tout au long de l’année.</p>"
     infos: []
+- name: Krump Dance
+  categorie: Danse et Gymnastique
+  img: "/assets/images/krump-dance.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 8-16 ans
+    description: "<p>Le Krump est un style de danse urbain puissant qui mélange ressenti intérieur, humeur du moment et mouvements inspirés du hip-hop.</p><p>Cette danse expressive permet de transformer ses émotions en mouvement et d’exprimer pleinement sa personnalité.</p><p>Aucun prérequis n’est nécessaire : viens simplement comme tu es et laisse ton corps parler !</p>"
+    infos: []
+- name: Motri Sport
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/motri-sport.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - PERWEZ - Centre Sportif
+    age: 5-8 ans
+    description: "<p>Découvrez l’activité idéale pour accompagner le développement de votre enfant ! À mi-chemin entre la psychomotricité et le multisports, cette animation permet à votre petit champion de devenir le roi des salles de sport.</p><p>Chaque semaine, notre monitrice fait découvrir aux enfants un nouvel univers sportif.</p><p>Au programme : manipulations, petits défis sportifs, apprentissage des règles et mise en pratique.</p>"
+    infos: []    
 - name: Fun & Multisports
   categorie: Activités sportives
   img: "/assets/images/stage-enfant-baby-multisports-500x500.jpg"
@@ -554,7 +582,7 @@ activites:
 - name: Escalade Découverte
   categorie: Découvertes sportives et culturelles
   img: "/assets/images/stages/decouvertesportiveetculturelle/escaladedecouverte.png"
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -603,7 +631,7 @@ activites:
 - name: Psychomotricité
   categorie: Les petits bouts
   img: "/assets/images/stages/lespetitsbouts/psychodecouverte.png"
-  online: true
+  online: false
   nouveau: false
   inscription: ''
   location:
@@ -972,7 +1000,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/gympro.png"
   inscription: ''
   categorie: Danse et Gymnastique
-  online: true
+  online: false
   nouveau: false
   location:
   - alias: Brabant Wallon
@@ -1394,7 +1422,7 @@ activites:
   img: "/assets/images/boutonsactivites/extrascolaires/vtt.png"
   inscription: ''
   categorie: Activités sportives
-  online: true
+  online: false
   nouveau: false
   location:
   - ville: Brabant Wallon
