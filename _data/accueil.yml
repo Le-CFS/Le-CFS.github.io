@@ -108,7 +108,7 @@ une:
   images:
   - name: Psycho Mouv
     titre_overlay: Psycho Mouv
-    img: "/assets/images/psychomouv.png"
+    img: "/assets/images/psycho-mouv.png"
     bouton: Plus d'info
     nouveau: oui
     infos: ''
