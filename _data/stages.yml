@@ -106,7 +106,7 @@ stages:
 
 - name: Football Spécial Gardien
   categorie: Activités sportives
-  img: "/assets/images/footpecialgardien-rfcorp.png"
+  img: "/assets/images/footspecialgardien-rfcorp.png"
   online: true
   nouveau: true
   stage_une: false
@@ -489,7 +489,7 @@ stages:
 
 - name: Multisports - 5 Raquettes, Fitness & Natation
   categorie: Activités sportives
-  img: "/assets/images/multisports-5raquettes-fitness-natation.png"
+  img: "/assets/images/multisports-5aquettes-fitness-natation.png"
   online: true
   nouveau: true
   stage_une: false
