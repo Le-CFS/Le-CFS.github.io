@@ -145,7 +145,7 @@ stages:
   img: "/assets/images/funbmxpump.png"
   online: true
   nouveau: true
-  stage_une: false
+  stage_une: true
   activation_onglets: true
   inscription: ''
   location:
@@ -197,7 +197,7 @@ stages:
   img: "/assets/images/meilleurpatissier.png"
   online: true
   nouveau: true
-  stage_une: false
+  stage_une: true
   activation_onglets: true
   inscription: ''
   location:
@@ -217,7 +217,7 @@ stages:
   img: "/assets/images/missiondec.png"
   online: true
   nouveau: true
-  stage_une: false
+  stage_une: true
   activation_onglets: false
   inscription: ''
   location:
@@ -256,7 +256,7 @@ stages:
   img: "/assets/images/minipadel-rltc.png"
   online: true
   nouveau: true
-  stage_une: false
+  stage_une: true
   activation_onglets: true
   inscription: ''
   location:
