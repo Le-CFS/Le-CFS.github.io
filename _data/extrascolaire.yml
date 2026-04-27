@@ -1,5 +1,131 @@
 ---
 activites:
+- name: Padel Initiation
+  categorie: Activités sportives
+  img: "/assets/images/padelinitiation.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - LIMAL - Macasport Village
+    age: 7-14 ans
+    description: "<p>Ce cours s’adresse aux enfants souhaitant apprendre les fondamentaux du padel dans un cadre dynamique et motivant.</p><p>À travers des ateliers techniques, tactiques et des situations de jeu, les jeunes joueurs développent leurs premières compétences : placement, coup droit, revers, service et jeu en équipe.</p>"
+    infos: []
+- name: Padel Perfectionnement
+  categorie: Activités sportives
+  img: "/assets/images/padelperfectionnement.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - LIMAL - Macasport Village
+    age: 10-16 ans
+    description: "<p>Vous pratiquez déjà le padel et souhaitez améliorer votre technique, votre stratégie de jeu et votre condition physique ?</p><p>Rejoignez notre atelier de perfectionnement, encadré par des coachs diplômés et passionnés !</p>"
+    infos: []
+- name: Gym Plus
+  categorie: Danse et Gymnastique
+  img: "/assets/images/gymplus.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - COURT-SAINT-ETIENNE - La Courtoise
+    - OTTIGNIES - Athénée Royal Paul Delvaux
+    - RIXENSART - Complexe Sportif
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 6-16 ans
+    description: "<p>Accessible à tous les niveaux, Gym Plus est fait pour les gymnastes motivés à progresser plus vite et à s’investir davantage dans leur pratique.</p><p>En fonction de son niveau à l’arrivée, chaque gymnaste est intégré au groupe correspondant à ses capacités.</p><p>Grâce à un rythme d'entraînement plus soutenu, il progresse plus rapidement dans l’apprentissage des différents niveaux de gymnastique.</p>"
+    infos: []
+- name: Futsal
+  categorie: Activités sportives
+  img: "/assets/images/futsal.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - ANDERLECHT - Complexe Sportif du Ceria
+    - LAEKEN - Lycée Maria Assumpta
+    age: 6-12 ans
+    description: "<p>Entrainement de futsal pour les plus jeunes avec au programme : techniques, tactiques et petits matchs.</p><p>Les enfants sont regroupés par âge et par niveau.</p>"
+    infos: []
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - PERWEZ - Centre Sportif
+    - RIXENSART - Complexe Sportif
+    - WAVRE - Collège Notre-Dame de Basse-Wavre
+    age: 6-14 ans
+    description: "<p>Entrainement de futsal pour les plus jeunes avec au programme : techniques, tactiques et petits matchs.</p><p>Les enfants sont regroupés par âge et par niveau.</p>"
+    infos: []
+- name: Basketball
+  categorie: Activités sportives
+  img: "/assets/images/basket.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - ANDERLECHT - Complexe Sportif du Ceria
+    - LAEKEN - Lycée Maria Assumpta
+    age: 6-14 ans
+    description: "<p>Les diverses techniques de dribble, de déplacement et de tir seront abordées tout au long de l’année.</p><p>Le jeune développera également des compétences de coopération socio-motrice à travers les matchs et formes jouées.</p>"
+    infos: []
+- name: Athlétisme
+  categorie: Activités sportives
+  img: "/assets/images/athletisme.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - LIMAL - Macasport Village
+    age: 6-14 ans
+    description: "<p>L’athlétisme, c’est courir, sauter et lancer tout en s’amusant !</p><p>Les enfants découvrent les bases de ce sport complet de façon ludique et dynamique tout en développant leur motricité et leur coordination.</p>"
+    infos: []
+- name: Athlétisme Club
+  categorie: Activités sportives
+  img: "/assets/images/athletismeclub.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Brabant Wallon
+    centres:
+    - LIMAL - Macasport Village
+    age: 7-16 ans
+    description: "<p>L’athlétisme permet de développer vitesse, endurance, coordination et force à travers des disciplines variées.</p><p>Une approche progressive adaptée à tous les niveaux favorisant le dépassement de soi et l’esprit d’équipe.</p>"
+    infos: []
+- name: Baby Danse
+  categorie: Découvertes sportives et culturelles
+  img: "/assets/images/babydanse.png"
+  online: true
+  nouveau: true
+  inscription: ''
+  location:
+  - alias: Bruxelles
+    ville: Bruxelles
+    centres:
+    - WSLA - Centre Sportif Mounier
+    age: 4-5 ans
+    description: "<p>Initiation au rythme à travers des chorégraphies adaptées.</p>"
+    infos: []
 - name: Psycho Mouv
   categorie: Les petits bouts
   img: "/assets/images/psycho-mouv.png"
