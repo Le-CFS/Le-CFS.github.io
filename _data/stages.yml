@@ -1207,7 +1207,7 @@ stages:
       info_line: Garderie de 8h à 17h, comprise dans les frais d'inscription.
 - name: Tennis
   categorie: Activités sportives
-  img: "/assets/images/betennis-2.png"
+  img: "/assets/images/bts-2.png"
   online: true
   nouveau: true
   stage_une: false
@@ -4235,38 +4235,24 @@ stages:
     infos:
     - alias: Matériel
       info_line: Tout le matériel de tennis est fourni par notre partenaire.
-- name: Fun Aventure
+- name: Créa’Sport
   categorie: Activités fun
-  img: "/assets/images/stages-enfants-fun-aventure-500x500-min.jpg"
+  img: "/assets/images/crea-sport-2.png"
   online: true
-  nouveau: false
+  nouveau: true
   stage_une: false
   activation_onglets: false
   inscription: ''
   location:
   - alias: Bruxelles
     ville: Bruxelles
-    age: 8-14 ans
-    description: "<p>Votre enfant a entre <strong>8 et 14 ans ?</strong> Il souhaite
-      essayer un stage <strong>varié et fun ? </strong>Ce stage<strong> Fun Aventure</strong>
-      est pour lui ! Il vous propose un<strong> programme alléchant</strong>, avec
-      chaque jour <strong>une activité ludique différente</strong>.</p><p><strong>Programme
-      :</strong> New Games, Arrow Game, Koézio, Réalité Virtuelle, Space Fun Game</p><ul><li><p><strong>New
-      games :</strong> différentes activités fun sont proposées sur la journée telles
-      que le frisbee golf, snag golf, spikeball, kinball, flag foot, ball bouncer.<br></p></li><li><p><strong>Arrow
-      game :</strong> différents jeux ludiques avec des arcs à flèches sont proposés
-      comme des prises de château, courses de lapin, jeux de rôle avec des épées,
-      chevaliers et mages (l'arrow game se pratique également avec des flèches avec
-      un bout en mousse et des masques de paintball).</p></li><li><p><strong>Excursion
-      à Koezio au Docks Bruxsel</strong> : le centre propose des jeux de collaboration
-      et de cohésion par équipe. Les équipes sont amenées à réaliser par exemple des
-      épreuves de rapidité, de culture générale, et de l'accrobranche. Taille minimum:
-      1,40 m</p></li><li><p><strong>Réalité Virtuelle</strong> : activités de réalité
-      virtuelle pour une expérience inoubliable !</p></li><li><p><strong>Excursion
-      à Space Fun Game d'Etterbeek</strong> : activités de type Fort Boyard et 2 parties
-      de team game.</p></li></ul><p>Ce stage pourrait être complété par d'autres activités
-      en extérieur comme des jeux dans les bois, une chasse à l'homme, un cache-cache
-      21, ou encore un stratégo géant.</p>"
+    age: 6-1 ans
+    description: "<p>Le stage Créa’Sport propose aux enfants de 6 à 12 ans une expérience ludique et enrichissante mêlant activités sportives et ateliers créatifs. 
+    Pensé pour favoriser l’épanouissement global de l’enfant, ce stage alterne moments de mouvement et temps d’expression artistique dans un cadre dynamique et bienveillant. Au programme,
+    jeux sportifs, parcours de motricité, défis d’équipe, mais aussi bricolages, dessin, peinture et activités d’expression.
+    Chaque journée est conçue pour stimuler à la fois le corps et l’imagination, tout en développant la coopération, la confiance en soi et le plaisir de découvrir. 
+    Chaque semaine de stage s’articule autour d’un thème captivant et différent.
+    ANDERLECHT – Institut Notre-Dame Agaves/Itterbeek</p>"
     infos: []
 - name: Nature & Loisirs
   categorie: Activités artistiques et loisirs
@@ -7840,7 +7826,7 @@ stages:
 - name: Plongée & Multisports
   categorie: Activités sportives
   img: "/assets/images/plongee.png"
-  online: true
+  online: false
   nouveau: false
   stage_une: false
   inscription: ''
