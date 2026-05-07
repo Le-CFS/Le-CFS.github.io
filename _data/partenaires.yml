@@ -98,11 +98,11 @@ liste:
   href: https://macasportvillage.be/
   bouton: ''
   couleur_bouton: ''
-- name: Tennis Padel Club l'Abbaye
+- name: Union Nautique de Bruxelles
   categorie: partenaires pédagogiques
-  online: false
-  logo: "/assets/images/tennisclublabbaye.jpg"
-  href: https://tcabbaye.wordpress.com/
+  online: true
+  logo: "/assets/images/unb.png"
+  href: https://aviron-unb.be/fr/
   bouton: ''
   couleur_bouton: ''
 - name: CTT Tourinnes asbl
