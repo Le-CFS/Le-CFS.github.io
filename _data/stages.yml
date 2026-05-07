@@ -74,23 +74,6 @@ stages:
     description: "<p>Grâce à ce stage, tu progresses à ton rythme tout en apprenant les bonnes techniques : jonglage, déplacement, lancer, visualisation de la trajectoire du volant, etc.</p><p>Chaque jour, tu apprends les règles de base du badminton et tu développes ton fair-play en disputant des petits matchs amicaux.</p><p>Un tournoi est organisé en fin de semaine.</p>"
     infos: []
 
-- name: Badminton
-  categorie: Activités sportives
-  img: "/assets/images/badminton.png"
-  online: true
-  nouveau: true
-  stage_une: false
-  activation_onglets: true
-  inscription: ''
-  location:
-  - alias: Brabant
-    ville: Brabant Wallon
-    age: 8-14 ans
-    description: "<p>Grâce à ce stage, tu progresses à ton rythme tout en apprenant les bonnes techniques : jonglage, déplacement, lancer, visualisation de la trajectoire du volant, etc.</p><p>Chaque jour, tu apprends les règles de base du badminton et tu développes ton fair-play en disputant des petits matchs amicaux.</p><p>Un tournoi est organisé en fin de semaine.</p>"
-    infos: []
-
-        
-
 - name: Cosmétique & Pâtisserie
   categorie: Activités artistiques et loisirs
   img: "/assets/images/cos-patisserie.png"
