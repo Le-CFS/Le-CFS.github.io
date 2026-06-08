@@ -12,6 +12,7 @@ activite_garderie: false
 activite_pedagogique: false
 bulle: ''
 activite_stage: true
+published: false
 
 ---
 #### **Un cadre convivial pour vos enfants !**
