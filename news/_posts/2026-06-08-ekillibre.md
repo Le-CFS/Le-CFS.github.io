@@ -5,7 +5,7 @@ tags:
 - Stages d'été
 - Partenariat
 - Ekillibre
-title: "Nouveau partenariat pour nos stages d'été"
+title: "NOUVEAU Service de repas pour cet été !"
 banner: "/assets/images/ekillibre.jpg"
 infos:
   date:
@@ -14,7 +14,7 @@ description: "Des repas frais, variés et équilibrés pour nos stagiaires !"
 image: "/assets/images/ekillibre.jpg"
 ---
 
-### **NOUVEAU PARTENARIAT POUR NOS STAGES D'ÉTÉ**
+### **NOUVEAU Service de repas pour cet été !**
 
 Nous sommes ravis de vous annoncer notre collaboration avec **Ekillibre – La cantine qui a du goût** !
 
