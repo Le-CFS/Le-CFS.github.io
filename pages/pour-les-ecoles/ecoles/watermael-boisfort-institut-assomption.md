@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Watermael-Boisfort – Institut de l’Assomption
-banner: "/assets/images/assomption.png"
-image: "/assets/images/assomption.png"
+banner: "/assets/images/assomption.jpg"
+image: "/assets/images/assomption.jpg"
 permalink: "/pour-les-ecoles/ecoles/Watermael-watermael-boisfort-institut-assomption/"
 menu: true
 description: Watermael-Boisfort – Institut de l’Assomption
