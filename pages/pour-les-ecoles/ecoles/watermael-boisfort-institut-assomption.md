@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Watermael-Boisfort – Institut de l’Assomption
-banner: "/assets/images/vallee-bailly-2025.png"
-image: "/assets/images/vallee-bailly-2025.png"
+banner: "/assets/images/assomption.png"
+image: "/assets/images/assomption.png"
 permalink: "/pour-les-ecoles/ecoles/Watermael-watermael-boisfort-institut-assomption/"
 menu: true
 description: Watermael-Boisfort – Institut de l’Assomption
