@@ -1,20 +1,17 @@
 ---
-
 layout: post
 menu: cfs
 tags:
-
-* Stages d'été
-* Partenariat
-* Ekillibre
-  title: "NOUVEAU Service de repas pour cet été !"
-  banner: "/assets/images/ekillibre.jpg"
-  infos:
+- Stages d'été
+- Partenariat
+- Ekillibre
+title: 'NOUVEAU Service de repas pour cet été'
+banner: "/assets/images/ekillibre.jpg"
+infos:
   date:
   teaser: ''
-  description: "Des repas frais, variés et équilibrés pour nos stagiaires !"
-  image: "/assets/images/ekillibre.jpg"
-
+description: "Des repas frais, variés et équilibrés pour nos stagiaires !"
+image: "/assets/images/ekillibre.jpg"
 ---
 
 ### **NOUVEAU Service de repas pour cet été !**
