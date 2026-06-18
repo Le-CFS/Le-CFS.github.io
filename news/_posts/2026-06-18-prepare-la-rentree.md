@@ -2,7 +2,7 @@
 
 layout: post
 menu: cfs
-title: Rentrée 2026-2027 - Inscriptions ouvertes
+title: La rentrée se prépare dès maintenant
 infos:
   date: 2026-06-18
   teaser: ""
