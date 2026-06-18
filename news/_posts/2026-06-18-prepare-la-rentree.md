@@ -16,35 +16,35 @@ banner: '/assets/images/rentree2026-2027.jpg'
 
 ---
 
-La rentrée se prépare dès maintenant ! 🎉
+## La rentrée se prépare dès maintenant ! 🎉
 
 Les inscriptions pour la rentrée sont ouvertes, pour les petits & les grands !
-
+<br>
 <div class="d-flex justify-content-center mb-3">
   <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-info-filled" style="color: #fff !important;">Je m'inscris !</a>
 </div>
 
 ## 🏊 École de natation
-
+<br>
 ### Brabant Wallon & Namur
-
+<br>
 ✨ Au programme :
 
-• Bébés Nageurs : dès 3 mois 👶💦
-• Cours Particuliers : dès 3 ans 🏊
-• Cours Collectifs : dès 4 ans 🏅
-• Mini Club : de 7 à 18 ans 🌊
-• Aqua Sirène : dès 7 ans 🧜‍♀️
-
+• Bébés Nageurs : dès 3 mois 👶💦 <br>
+• Cours Particuliers : dès 3 ans 🏊 <br>
+• Cours Collectifs : dès 4 ans 🏅 <br>
+• Mini Club : de 7 à 18 ans 🌊 <br>
+• Aqua Sirène : dès 7 ans 🧜‍♀️ <br>
+<br>
 📍 **Lieux :**
 
-• Piscine by CFS : Rue Provinciale 225, 1301 Bierges
-• Piscine du Collège du Christ-Roi : Rue de Renivaux 25, 1340 Ottignies
-• Piscine by CFS : Rue du Gros Chêne 78, 5310 Liernu
-
+• Piscine by CFS : Rue Provinciale 225, 1301 Bierges<br>
+• Piscine du Collège du Christ-Roi : Rue de Renivaux 25, 1340 Ottignies<br>
+• Piscine by CFS : Rue du Gros Chêne 78, 5310 Liernu<br>
+<br>
 ℹ️ **Abonnements :**
 
-**Bébés Nageurs**
+**Bébés Nageurs**<br>
 • Carte 10 séances
 • Abonnement trimestriel
 
@@ -53,14 +53,14 @@ Les inscriptions pour la rentrée sont ouvertes, pour les petits & les grands !
 
 **Cours Collectifs - Mini Club - Aqua Sirène**
 • Abonnement annuel
-
+<br><br>
 ### Bruxelles
 
 ✨ Au programme :
 
-• Psycho Aqua : de 3 à 6 ans 💧
-• Cours Collectifs : de 5 à 16 ans 🏊
-• Mini Club : de 7 à 18 ans 🌊
+• Psycho Aqua : de 3 à 6 ans 💧<br>
+• Cours Collectifs : de 5 à 16 ans 🏊<br>
+• Mini Club : de 7 à 18 ans 🌊<br>
 
 ℹ️ **Abonnements :**
 
@@ -69,32 +69,32 @@ Les inscriptions pour la rentrée sont ouvertes, pour les petits & les grands !
 <div class="d-flex justify-content-center mb-4">
   <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=5" class="btn btn-info-filled" style="color: #fff !important;">Je m'inscris !</a>
 </div>
-
+<br>
 ## 💪 Cours adultes
-
+<br>
 ✨ Nos activités :
 
-• Aquabike 🚴‍♀️💦
-• Aquazumba 🎶
-• Aquagym 🤸
-• Aquamix 🌊
-• Gym Entretien 🏋️
-• Body Sculpt 💪
-• Pilates 🧘
-• Body Fit 🔥
-
+• Aquabike 🚴‍♀️💦<br>
+• Aquazumba 🎶<br>
+• Aquagym 🤸<br>
+• Aquamix 🌊<br>
+• Gym Entretien 🏋️<br>
+• Body Sculpt 💪<br>
+• Pilates 🧘<br>
+• Body Fit 🔥<br>
+<br>
 📍 **Lieux :**
 
-• Piscine by CFS : Rue Provinciale 225, 1301 Bierges
-• Piscine by CFS : Rue du Gros Chêne 78, 5310 Liernu
-
+• Piscine by CFS : Rue Provinciale 225, 1301 Bierges<br>
+• Piscine by CFS : Rue du Gros Chêne 78, 5310 Liernu<br>
+<br>
 ℹ️ **Abonnements :**
 
-• Carte à la séance
-• Carte 10 séances
-• Abonnement trimestriel
-• Abonnement annuel
-
+• Carte à la séance<br>
+• Carte 10 séances<br>
+• Abonnement trimestriel<br>
+• Abonnement annuel<br>
+<br>
 <div class="d-flex justify-content-center mb-4">
   <a href="https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=3" class="btn btn-info-filled" style="color: #fff !important;">Je m'inscris !</a>
 </div>
@@ -111,6 +111,6 @@ Nous suivre sur les réseaux sociaux :
   <a href="https://www.instagram.com/cfs_asbl/" class="btn btn-info-filled m-4" style="color: #fff !important;">Notre page Instagram</a>
 </div>
 
-À bientôt<br><br>
+À bientôt<br>
 
 L'Équipe du CFS
