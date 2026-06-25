@@ -21,7 +21,7 @@ banner: "/assets/images/recr.png"
 Créé en 1981, le CFS propose des stages sportifs et culturels pour les enfants et les jeunes de 2,5 
 ans à 16 ans. Fort de son expérience, le CFS a développé une large palette d’activités qu’il 
 propose durant l’année scolaire et les vacances sur les régions du Brabant Wallon, de Bruxelles 
-et de Liège.Par ailleurs, le CFS organise également des anniversaires et des évènements pour les 
+et de Liège. Par ailleurs, le CFS organise également des anniversaires et des évènements pour les 
 écoles, les entreprises etles communes.Finalement, le CFS propose des cours sportifs pour les 
 adultes matin, midi et soir :aquabike, aquagym, gym entretien, aqua zumba, body scult, bodyfit, 
 pilate
