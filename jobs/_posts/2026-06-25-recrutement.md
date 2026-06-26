@@ -1,6 +1,7 @@
 ---
 layout: post
 menu: cfs
+online: true
 title: "Le CFS recrute un·e Chef·fe d’activité – Cours Adultes (Coach Sportif) en Brabant Wallon"
 infos:
   date: 2026-06-25
