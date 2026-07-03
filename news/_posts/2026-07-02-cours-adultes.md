@@ -4,7 +4,7 @@ layout: post
 menu: cfs
 title: Cours adultes - vacances d'été
 infos:
-date: 2026-07-03
+date: 0026-07-02
 teaser: ""
 tags:
 seo:
@@ -59,7 +59,7 @@ Ces cours sont disponibles pour des récupérations ou des inscriptions uniques,
 📍 **Piscine by CFS**
 Rue Provinciale 225, 1301 Bierges
 
-ℹ️ **Infos & Réservations**
-📞 010/22.73.96
-📧 [info@lecfs.be](mailto:info@lecfs.be)
-💻 [www.lecfs.be](http://www.lecfs.be)
+ℹ️ **Infos & Réservations** <br>
+📞 010/22.73.96 <br>
+📧 [info@lecfs.be](mailto:info@lecfs.be) <br>
+💻 [www.lecfs.be](http://www.lecfs.be) <br>
