@@ -4,7 +4,7 @@ layout: post
 menu: cfs
 title: Cours adultes - vacances d'été
 infos:
-date: 0026-07-02
+date: 2026-07-02
 teaser: ""
 tags:
 seo:
