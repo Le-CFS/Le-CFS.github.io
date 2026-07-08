@@ -23,3 +23,4 @@ Activités libres animées • Etudes surveillées
 Les Petits Gardons est la nouvelle section du CFS qui s’occupe, sous la tutelle de l’ONE, de la gestion des garderies de l’école et du suivi administratif & financier avec les parents d’élèves.
 
 
+{% include utils/button.html lien='https://adsl-cfs.be/PG-Watermael-Boitsfort.pdf' couleur="info" autre_page=true texte="Les Petits Gardons Watermael-Boisfort – Institut de l’Assomption" %}
