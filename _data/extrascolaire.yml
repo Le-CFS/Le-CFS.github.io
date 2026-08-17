@@ -100,7 +100,7 @@ activites:
     infos: []
 - name: Athlétisme Club
   categorie: Activités sportives
-  img: "/assets/images/athletismeclub.png"
+  img: "/assets/images/athletismeclub-2.png"
   online: true
   nouveau: true
   inscription: ''
@@ -109,8 +109,8 @@ activites:
     ville: Brabant Wallon
     centres:
     - LIMAL - Macasport Village
-    age: 7-16 ans
-    description: "<p>L’athlétisme permet de développer vitesse, endurance, coordination et force à travers des disciplines variées.</p><p>Une approche progressive adaptée à tous les niveaux favorisant le dépassement de soi et l’esprit d’équipe.</p>"
+    age: 6-16 ans
+    description: "<p>En collaboration avec le RIWA - L’athlétisme permet de développer vitesse, endurance, coordination et force à travers des disciplines variées.</p><p>Une approche progressive adaptée à tous les niveaux favorisant le dépassement de soi et l’esprit d’équipe.</p>"
     infos: []
 - name: Baby Danse
   categorie: Découvertes sportives et culturelles
