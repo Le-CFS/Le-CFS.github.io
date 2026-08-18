@@ -13,7 +13,7 @@ inscription:
   texte_mobile: Inscription
 slider:
 - titre: Stages Automne Hiver
-  src: "/assets/images/slider/slider-hiver-20262.png"
+  src: "/assets/images/slider/accueil/slider-hiver-20262.png"
   href: https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=4&_ga=2.3038064.1354269933.1786950074-883058850.1775216331&_gac=1.158265544.1786950074.Cj0KCQjw4orUBhCjARIsAIbF3qxu1SBOZOcBw_JXZ0Tes9I5mrcMpR_5LEm-phm74cZk2yJhy3ryIdkaAk_oEALw_wcB
 - titre: Partenaires Ekillibre
   src: "/assets/images/ekillibre.png"
