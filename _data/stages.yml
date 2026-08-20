@@ -89,6 +89,29 @@ stages:
     description: "<p>Offrez à vos enfants une semaine alliant bien-être et gourmandise !</p><p>Le matin, place à la beauté et à la cosmétique : yoga, gestes beauté et fabrication de cosmétiques à ramener chez soi.</p><p>L’après-midi, place à la pâtisserie avec la réalisation de desserts simples et savoureux.</p><p>En fin de semaine, chaque enfant repart avec son propre livre de recettes.</p>"
     infos: []
 
+- name: Equitation (En collaboration avec les Ecuries de Jauchelette)
+  categorie: Activités sportives
+  img: "/assets/img/jauchelette-equitation-2.png"
+  online: true
+  nouveau: true
+  stage_une: false
+  activation_onglets: true
+  inscription: ''
+  location:
+  - alias: Brabant
+    ville: Jauchelette
+    age: 5-12 ans
+    description: "<p><em>Stage en collaboration avec les <strong>Ecuries de Jauchelette</strong>.</em></p><p>Pendant les vacances, votre enfant participe pleinement à la vie du manège ! Une semaine rythmée par les poneys, encadrée par des moniteurs diplômés, pour progresser en s'amusant, dans le respect du bien-être animal.</p>"
+    infos:
+    - alias: Au programme
+      info_line: "<ul><li>🐴 <strong>Cours d'équitation</strong> adaptés au niveau de chaque enfant</li><li>🧼 <strong>Soin des poneys</strong> : pansage, préparation, entretien du matériel — votre enfant apprend à s'occuper de son poney comme un(e) vrai(e) cavalier(ère)</li><li>🏇 <strong>Poney games</strong> : jeux équestres et parcours ludiques pour progresser en s'amusant</li><li>🌳 <strong>Balades</strong> à poney en extérieur</li><li>🎲 <strong>Jeux</strong> collectifs autour de l'univers du cheval</li><li>🎨 <strong>Bricolages</strong> sur le thème équestre</li><li>🎁 <strong>Fabrication de souvenirs</strong> à ramener à la maison</li></ul>"
+    - alias: Tenue adaptée
+      info_line: "Prévoir une tenue adaptée pour l'équitation (pas de jeans ni de tenue large) et des bottes."
+    - alias: Matériel
+      info_line: "Le manège met à disposition tout le matériel adéquat ainsi que des bombes pour les petits cavaliers."
+    - alias: Garderie
+      info_line: "Inscription sur place : le matin de 08h00 à 09h00 et le soir de 16h00 à 18h00."    
+
 - name: Découverte Néerlandais
   categorie: Activités artistiques et loisirs
   img: "/assets/images/decndls-ecoledelangues.png"
