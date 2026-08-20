@@ -7,12 +7,12 @@ tags:
 - Jauchelette
 - vacances
 title: Nouveau partenaire d’équitation à Jauchelette !
-banner: "/assets/img/accueil/jauchelette-equitation.png"
+banner: "/assets/img/jauchelette-equitation.png"
 infos:
   date:
   teaser: ''
 description: Découvrez notre nouveau stage d’équitation en collaboration avec les Écuries de Jauchelette !
-image: "/assets/img/accueil/jauchelette-equitation.png"
+image: "/assets/img/jauchelette-equitation.png"
 
 ---
 
