@@ -21,9 +21,9 @@ slider:
 - titre: Activités extrascolaires 2026-2027
   src: "/assets/images/slider-extra-2.jpg"
   href: https://www.lecfs.be/activites/extrascolaire/
-- titre: Une collaboration avec Delhaize
-  src: "/assets/images/slider-delhaize-2026.png"
-  href: https://www.delhaize.be/fr/petit-lion/summercamp
+# - titre: Une collaboration avec Delhaize
+#  src: "/assets/images/slider-delhaize-2026.png"
+#  href: https://www.delhaize.be/fr/petit-lion/summercamp
 - titre: Fit Time
   src: "/assets/images/fit-time-2026.jpg"
   href: https://www.lecfs.be/cours_adultes/
