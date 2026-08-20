@@ -89,8 +89,8 @@ stages:
     description: "<p>Offrez à vos enfants une semaine alliant bien-être et gourmandise !</p><p>Le matin, place à la beauté et à la cosmétique : yoga, gestes beauté et fabrication de cosmétiques à ramener chez soi.</p><p>L’après-midi, place à la pâtisserie avec la réalisation de desserts simples et savoureux.</p><p>En fin de semaine, chaque enfant repart avec son propre livre de recettes.</p>"
     infos: []
 
-- name: Equitation (En collaboration avec les Ecuries de Jauchelette)
-  categorie: Activités sportives
+- name: Equitation
+  categorie: Activités artistiques et loisirs
   img: "/assets/img/jauchelette-equitation-2.png"
   online: true
   nouveau: true
