@@ -2,7 +2,7 @@
 anniversaires:
 - name: Futsal
   online: true
-  nouveau: true
+  nouveau: false
   anniversaire_une: true
   age: 6-12 ans
   img: "/assets/images/cfs_anniversaire_futsal.png"
@@ -19,7 +19,7 @@ anniversaires:
   - fun
 - name: Interactif Lü
   online: true
-  nouveau: true
+  nouveau: false
   anniversaire_une: true
   age: 5-16 ans
   img: "/assets/images/cfs_anniversaires_lu_lln.jpg"
@@ -35,7 +35,7 @@ anniversaires:
   - fun
 - name: Robotique
   online: false
-  nouveau: true
+  nouveau: false
   anniversaire_une: true
   age: 7-12 ans
   img: "/assets/images/stages/stagesalaune_robotique.png"
@@ -66,12 +66,12 @@ anniversaires:
 - name: Psycho Découverte
   age: 3-4 ans
   img: "/assets/images/anniversaires/activites/psychodecouverte.png"
-  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
+  lieu: Auderghem - Laeken
   href: ''
   prix: 175 €
-  description: 'Pour ton anniversaire, nous avons préparé un mélange de différentes
-    activités de psychomotricité : jeux de coopération, parcours d’adresse, parcours
-    d’audace, exercices de latéralité, eveil artistique.'
+  description: 'Pour son anniversaire, votre enfant part à la découverte de nombreuses activités de psychomotricité, spécialement adaptées aux plus jeunes. 
+    Au programme; jeux de coopération, parcours d’adresse et d’audace, exercices de latéralité et éveil artistique. 
+    Une activité ludique et variée qui permet aux enfants de bouger, explorer, développer leur coordination et leur confiance, tout en partageant un chouette moment avec leurs copains !'
   infos: Réservation souhaitée 2 semaines à l’avance.
   bouton: ''
   categorie:
@@ -80,15 +80,16 @@ anniversaires:
   nouveau: false
   anniversaire_une: false
 - name: Chasse au trésor
-  age: 5 à 10 ans
+  age: 4 à 8 ans
   img: "/assets/images/anniversaires/activites/chasseautresor.png"
-  lieu: Bierges / Wavre / Ottignies / Rixensart / Auderghem / Laeken
+  lieu: Bierges / Wavre / Rixensart / Auderghem / Laeken
   href: ''
   prix: 185 €
-  description: L’anniversaire « chasse au trésor » est un mélange de défis sportifs
-    et intellectuels. Deux équipes se font face et, après chaque épreuve, ils reçoivent
-    une pièce de la carte au trésor. Ils reçoivent comme récompense des bonbons cachés
-    dans une boîte à trésor.
+  description: 'Partez à l’aventure à travers une chasse au trésor mêlant défis sportifs, jeux de réflexion et esprit d’équipe !
+    Répartis en deux équipes, les enfants s’affrontent lors de différentes épreuves. 
+    À chaque défi remporté, l’équipe gagne une pièce de la carte au trésor ou un précieux indice qui la rapproche du but. 
+    Une grande épreuve finale de cohésion permettra de rassembler toutes les pièces et tous les indices afin de découvrir ensemble l’emplacement du trésor… et sa boîte remplie de bonbons !
+    Si une seule équipe participe, les mêmes défis sont proposés dans un esprit de coopération, d’entraide et de cohésion, avec un objectif commun, retrouver le trésor !'
   infos: Uniquement apd 13h00 – Sur Ottignies apd 14h00
   bouton: ''
   categorie:
@@ -103,11 +104,11 @@ anniversaires:
   lieu: A domicile ou au Skate Park
   href: ''
   prix: 450€
-  description: Des sports extrêmes pour ton anniversaire ! Nous prévoyons une initiation
+  description: 'Des sports extrêmes pour ton anniversaire ! Nous prévoyons une initiation
     et un perfectionnement au Skate, au BMX ou à la Trottinette. Nous allons t’apprendre
     de nouvelles figures dans une ambiance propre à ces sports extrêmes. Tes amis
     et toi seront encadrés par des professionnels dans leur domaine.
-  infos: Réservation souhaitée 2 semaines à l’avance.
+  infos: Réservation souhaitée 2 semaines à l’avance.'
   bouton: ''
   categorie:
   - domicile
@@ -121,24 +122,26 @@ anniversaires:
   href: ''
   prix: Merci de nous contacter
   description: 'Nous te proposons une approche de diverses disciplines issues du monde
-    du cirque : équilibre (câbles – échasses – monocycle), acrobatie (pyramides –
+    du cirque ; équilibre (câbles – échasses – monocycle), acrobatie (pyramides –
     trampoline-trapèze), jonglerie (foulards – balles – quilles), adresse (diabolos
     – bâtons du diable). Une petite présentation à la fin des 2 heures est possible.'
   infos: Uniquement à partir de 15h30.
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Danse
   age: 6-12 ans
   img: "/assets/images/anniversaires/activites/danse.png"
-  lieu: Bierges - Wavre - Rixensart - Ottignies - Walhain - Auderghem - Laeken
+  lieu: Auderghem - Laeken
   href: ''
   prix: Merci de nous contacter
-  description: Viens te déhancher sur le rythme de la musique! Nous allons apprendre
-    les bases de la danse (musique, tempos, mouvements et danse en groupe).
+  description: 'Viens bouger, t’amuser et te déhancher au rythme de la musique ! 
+    À travers des chorégraphies adaptées et des exercices ludiques, les enfants découvrent les bases de la danse ; rythme, tempos, mouvements, coordination et déplacements.
+    Ils apprennent également à danser en groupe, à suivre une chorégraphie et à développer leur expression corporelle, le tout dans une ambiance dynamique et conviviale ! 
+    les bases de la danse (musique, tempos, mouvements et danse en groupe).'
   infos: Réservation souhaitée 2 semaines à l’avance.
   bouton: ''
   categorie:
@@ -162,15 +165,15 @@ anniversaires:
   online: false
   nouveau: false
   anniversaire_une: true
-- name: Football
+- name: Mini Foot
   age: 4-12 ans
   img: "/assets/images/anniversaires/activites/foot.png"
-  lieu: Wavre - Rixensart - Ottignies - Walhain
+  lieu: Wavre - Rixensart
   href: ''
   prix: 165 €
-  description: Une activité sportive qui prévoit une alternance entre entraînements
-    et petits matchs. Ton anniversaire sera abordé de manière ludique afin d’allier
-    football et plaisir (techniques de ballon et jeux).
+  description: 'Tu es un vrai passionné du ballon rond ? Viens fêter ton anniversaire avec tes copains autour d’une activité fun, sportive et 100 % football ! 
+    Au programme ; exercices techniques, jeux avec ballon, petits défis et mini-matchs adaptés à l’âge et au niveau des participants. 
+    Une formule ludique et dynamique pour dribbler, passer, marquer et surtout s’amuser ensemble tout au long de l’anniversaire !'
   infos: Réservation souhaitée 2 semaines à l’avance.
   bouton: ''
   categorie:
@@ -207,7 +210,7 @@ anniversaires:
   bouton: ''
   categorie:
   - fun
-  online: true
+  online: false
   nouveau: false
   anniversaire_une: false
 - name: Théâtre
@@ -338,15 +341,16 @@ anniversaires:
 - name: Piscine Party
   age: 6-12 ans
   img: "/assets/images/anniversaires/activites/piscineparty.png"
-  lieu: Bierges / Liernu NEW
+  lieu: Bierges
   href: ''
   prix: Merci de nous contacter
-  description: Nous organisons des jeux, des défis et des jeux libres dans la piscine.
-  infos: Les enfants doivent être à l’aise dans l’eau, ils doivent pouvoir mettre
-    leur tête dans l’eau.
+  description: 'Fête ton anniversaire les pieds dans l’eau avec une Piscine Party fun et rafraîchissante ! 
+    Au programme; un mélange de jeux aquatiques encadrés et de moments de jeux libres pour profiter pleinement de la piscine entre copains. 
+    Pour participer, les enfants doivent être à l’aise dans l’eau et capables de mettre la tête sous l’eau. Anniversaire organisé uniquement le dimanche à 14h30.'
+  infos: Les enfants doivent être à l’aise dans l’eau, ils doivent pouvoir mettre leur tête dans l’eau.
   bouton: ''
   categorie:
   - fun
   online: true
-  nouveau: true
+  nouveau: false
   anniversaire_une: false
