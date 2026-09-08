@@ -23,4 +23,4 @@ Activités libres animées • Etudes surveillées
 Les Petits Gardons est la nouvelle section du CFS qui s’occupe, sous la tutelle de l’ONE, de la gestion des garderies de l’école et du suivi administratif & financier avec les parents d’élèves.
 
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQB6qzzwh-waRoDmOdFOAfXpAS7PT3ALObKRhT9h4rs26pc?e=EChwvV' couleur="info" autre_page=true texte="Les Petits Gardons à l’école Vallée Bailly" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQB6qzzwh-waRoDmOdFOAfXpAS7PT3ALObKRhT9h4rs26pc?e=Mm19pI' couleur="info" autre_page=true texte="Les Petits Gardons à l’école Vallée Bailly" %}
