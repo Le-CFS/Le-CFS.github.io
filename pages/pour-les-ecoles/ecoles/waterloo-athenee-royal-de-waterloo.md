@@ -29,14 +29,7 @@ Voici les services proposés par le CFS aux élèves de l'Athénée de l’Athé
 
 C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec l’Athénée.
 
-{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info"  
-autre_page=true  
-texte="Je m'inscris à une activité parascolaire"  
-%}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EQzRGHFIULhCngf1o9CTssABBfeQ9GKe9jw2pNH3xCAM6w?e=T5e4k3' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
-
-***
 
 ##### **Garderies - LES PETITS GARDONS**
 
@@ -44,7 +37,13 @@ texte="Je m'inscris à une activité parascolaire"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYT19VrJEwNMjvRrh6EZVg4BQXOf4Qt8T1MKsVV7mXQTUA?e=br6nJs' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Royal de Waterloo" %}
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info"  
+autre_page=true  
+texte="Je m'inscris à une activité parascolaire"  
+%}
+
+
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQA29TFITLjlQZjbqA8e2smdAXEu7wy0-1-d62MGhSNAKV0?e=zccOdT' couleur="info" autre_page=true texte="Mon dépliant 2026-2027" %}
 
 Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
 
