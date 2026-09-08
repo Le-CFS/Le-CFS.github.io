@@ -24,7 +24,7 @@ lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categori
 
 👉 Sélectionnez votre école dans le menu déroulant **_« Ecole »_**
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/ESd9BtQ1CFpMh-Eg-2W6tJgBqKK6HV5TAc1bzeeMD0WyiA?e=TO7LLd' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQDcK1n5yr3dS6kKkbhZZH1wAQRg_W9-HcAEXKGt2Ymg6ew?e=eEixYq' couleur="info" autre_page=true texte="Mon dépliant 2026-2027" %}
 
 {% include utils/button.html lien='/files/jette-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Projet pédagogique" %}
 
