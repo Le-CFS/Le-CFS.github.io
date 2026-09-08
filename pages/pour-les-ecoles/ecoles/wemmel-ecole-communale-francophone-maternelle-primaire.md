@@ -23,9 +23,9 @@ C’est avec plaisir que le CFS vous propose des activités sportives et culture
 {% include utils/button.html  
 lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Bruxelles' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/sites/external-documents/Documents%20partages/Forms/AllItems.aspx?id=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FBXL%2FWemmel%20%2D%20Ecole%20Communale%20Francophone%20Maternelle%2Epdf&parent=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FBXL&p=true&ga=1' couleur="info" autre_page=true texte="Mon dépliant 2025-2026 - Maternelles" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQD6loZJJwB0QJM5nvHU_wzGAXNyRWKs0EpbIZG9TKgNBVM?e=VVcngS' couleur="info" autre_page=true texte="Mon dépliant 2026-2027 - Maternelles" %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/sites/external-documents/Documents%20partages/Forms/AllItems.aspx?id=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FBXL%2FWemmel%20%2D%20Ecole%20Communale%20Francophone%20Primaire%2Epdf&parent=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FBXL&p=true&ga=1' couleur="info" autre_page=true texte="Mon dépliant 2025-2026 - Primaires" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQDWEF8PhPxZQYmNDIrz4cHuAavXsoRvj2kIjFnam1rsqQw?e=A6fz3X' couleur="info" autre_page=true texte="Mon dépliant 2026-2027 - Primaires" %}
 
 ***
 
