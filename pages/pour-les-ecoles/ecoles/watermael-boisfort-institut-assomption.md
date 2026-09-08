@@ -36,6 +36,9 @@ autre_page=true
 texte="Je m'inscris à une activité parascolaire"  
 %}
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQDj4lgoQwPURaHO4Ko0-PEqAcUNePzDvEy6Z9Zy9_NVTdQ?e=5mt5Mw' couleur="info" autre_page=true texte="Mon dépliant 2026-2027" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQDj4lgoQwPURaHO4Ko0-PEqAcUNePzDvEy6Z9Zy9_NVTdQ?e=5mt5Mw' couleur="info" autre_page=true texte="Mon dépliant implantation JAGERSVELD 2026-2027" %}
+
+
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQC2Zot50h0hRbFkpz5cS3SaAYCcNehCSmqsoF-nlw2gf8Q?e=Heh0On' couleur="info" autre_page=true texte="Mon dépliant implantation SAINTE-THÉRÈSE 2026-2027" %}
 
 
