@@ -12,7 +12,6 @@ activite_garderie: true
 activite_pedagogique: true
 activite_stage: true
 bulle: ''
-published: false
 
 ---
 #### **Un cadre convivial pour vos enfants !**
@@ -21,24 +20,31 @@ Chers parents, grands-parents, accompagnants, <br>
 <br>
 <strong>Voici les services proposés par le CFS aux élèves de l’école Sainte-Bernadette : </strong>
 <br><br>
-<strong>Activités Parascolaires</strong> <br>
-Activités sportives, fun, créatives • Ecoles des devoirs
-<br>
-C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec l’école Sainte-Bernadette
 
-{% include utils/button.html  
-lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant&_ga=2.134014154.516758843.1750066353-909983389.1745826110' couleur="info" autre_page=true texte="Je m'inscris à une activité parascolaire" %}
-<br>
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQCu9i_5DobpQ7CgyjVhYAzaAZT3dMxIqh2Z5vo7Pk6DAaY?e=NqaCYf' couleur="info" autre_page=true texte="Mon dépliant 2026-2027" %}
-<br><br>
+##### **Activités Parascolaires**
 
-<strong>Garderies - LES PETITS GARDONS </strong> <br>
-Activités libres animées • Etudes surveillées <br>
-Les Petits Gardons est la nouvelle section du CFS qui s’occupe, sous la tutelle de l’ONE, de la gestion des garderies de l’école et du suivi administratif & financier avec les parents d’élèves.
+**_Activités sportives, fun, créatives • Ecoles des devoirs_**
 
-<br>
-{% include utils/button.html lien='https://cfsport.sharepoint.com/sites/external-documents/Documents%20partages/Forms/AllItems.aspx?id=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FLes%20Petits%20Gardons%2FPG%20BLA%20%2D%20Ste%20Bernadette%2Epdf&parent=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FLes%20Petits%20Gardons&p=true&ct=1758639148508&or=OWA%2DNT%2DMail&cid=7c42ad0b%2De315%2D1e93%2D8122%2D3468de7557f7&ga=1' couleur="info" autre_page=true texte="Dossier Petits gardons" %}
+C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec l’Athénée.
+
+
+
+##### **Garderies - LES PETITS GARDONS**
+
+**_Surveillance des temps de midi • Activités libres animées • Etudes surveillées_**
+
+Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
+
+
+Une coordinatrice, Patricia, est présente sur place pour assurer la gestion au quotidien et restera votre référente. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
+
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info"  
+autre_page=true  
+texte="Je m'inscris à une activité parascolaire"  
+%}
+
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQCu9i_5DobpQ7CgyjVhYAzaAZT3dMxIqh2Z5vo7Pk6DAaY?e=ecjIlr' couleur="info" autre_page=true texte="Mon dépliant 2026-2027" %}
 
 <br>
 Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : garderie@lespetitsgardons.be
