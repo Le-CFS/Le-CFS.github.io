@@ -28,14 +28,6 @@ Voici les services proposés par le CFS aux élèves de l'Athénée de Maurice C
 
 C’est avec plaisir que le CFS vous propose des activités sportives et artistiques pendant les heures de garderie en collaboration avec l’Athénée.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/EYJQhSEUiEZGjT1PuN3lT1UBf9zQCQGf3dYk_dVHin__RA?e=q4aT4J' couleur="info"  
-autre_page=true  
-texte="Je m'inscris à une activité parascolaire"  
-%}
-
-{% include utils/button.html lien='https://cfsport.sharepoint.com/sites/external-documents/Documents%20partages/Forms/AllItems.aspx?id=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FBRT%2FWavre%20%2D%20Ath%C3%A9n%C3%A9e%20Royal%20Maurice%20Car%C3%AAme%2Epdf&parent=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2025%2D2026%2FBRT&p=true&ga=1' couleur="info" autre_page=true texte="Mon dépliant 2025-2026" %}
-
-***
 
 ##### **Garderies - LES PETITS GARDONS**
 
@@ -43,9 +35,16 @@ texte="Je m'inscris à une activité parascolaire"
 
 Les Petits Gardons est la nouvelle section du CFS qui s'occupe, sous la tutelle de l'ONE, de la gestion des garderies de l'école et du suivi administratif & financier avec les parents d'élèves.
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/Eds9ayp4srNMnHIlPIk32cQB539mmahpJSgaNcRKA6Ql9A?e=y3j0fI' couleur="info" autre_page=true texte="Les Petits Gardons Athénée Maurice Carême" %}
 
 Une coordinatrice, Patricia, est présente sur place pour assurer la gestion au quotidien et restera votre référente. Nous avons également créé une nouvelle adresse spécifique pour les garderies/études surveillées : <a href="mailto:garderie@lespetitsgardons.be">garderie@lespetitsgardons.be</a>
+
+{% include utils/button.html lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categorie=2&Province=Brabant' couleur="info"  
+autre_page=true  
+texte="Je m'inscris à une activité parascolaire"  
+%}
+
+{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQBISb6RUNwuQIhRBY85wyQOAcfbpPzogoMBXUgxhCEOkHg?e=B3Aqyq' couleur="info" autre_page=true texte="Mon dépliant 2026-2027" %}
+
 
 ***
 
