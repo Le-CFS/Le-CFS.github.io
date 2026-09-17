@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: "Le CFS Centre de Formation Sportive est à la recherche d’un(e) Coach Sportif pour la région du Brabant Wallon."
-online: true
+online: false
 banner: "/assets/images/coach-sportif.jpg"
 description: "Le CFS Centre de Formation Sportive est à la recherche d’un(e) Coach Sportif pour la région du Brabant Wallon."
 image: "/assets/images/coach-sportif.jpg"
