@@ -1,6 +1,6 @@
 ---
 layout: post
-online: true
+online: false
 title: Coordinateur(-trice) Parascolaire – Anderlecht
 banner: "/assets/images/coordinateur-para.png"
 menu: false
