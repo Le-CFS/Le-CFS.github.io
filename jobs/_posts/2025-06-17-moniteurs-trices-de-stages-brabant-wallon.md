@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Moniteurs(trices) de Stages - Brabant Wallon
-online: true
+online: false
 banner: "/assets/images/moniteur-brabant.png"
 description: Le CFS recrute ! Recherche animateur(trice) pour ses stages
 image: "/assets/images/moniteur-brabant.png"
