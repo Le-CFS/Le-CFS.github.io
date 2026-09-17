@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Moniteurs(trices) de Stages - Bruxelles
-online: true
+online: false
 banner: "/assets/images/moniteur-bruxelles.png"
 description: Le CFS recrute ! Recherche animateur(trice) pour ses stages
 image: "/assets/images/moniteur-bruxelles.png"
