@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Animateurs(-trices) Sportifs(-ives)
-online: true
+online: false
 banner: "/assets/images/2024-04-09-animateur-sportif.jpg"
 description: Animateurs(-trices) Sportifs(-ives)
 image: "/assets/images/2024-04-09-animateur-sportif.jpg"
