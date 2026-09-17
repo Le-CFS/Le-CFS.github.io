@@ -1809,7 +1809,7 @@ stages:
       doivent prévoir boissons, collations et le pique-nique.</p>"
     infos:
     - alias: Garderie
-      info_line: " Garderie de 8h à 9h et de 16h à 17h30 (gratuite)."
+      info_line: " Garderie de 8h30 à 9h et de 16h à 16h30 (gratuite)."
 - name: Tennis de Table
   categorie: Activités sportives
   img: "/assets/images/tennis-de-table.png"
