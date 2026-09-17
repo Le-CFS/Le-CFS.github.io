@@ -24,7 +24,7 @@ lien='https://www12.iclub.be/myiclub3_CFS_register.asp?ClubID=559&LG=FR&Categori
 
 👉 Sélectionnez votre école dans le menu déroulant **_« Ecole »_**
 
-{% include utils/button.html lien='https://cfsport.sharepoint.com/:b:/s/external-documents/IQB4rAJxWv9HQIEeOhveKwjYAY3Dca_JMaFqjNcTuzh0DZI?e=mZhPoH' couleur="info" autre_page=true texte="Mon dépliant 2026-2027" %}
+{% include utils/button.html lien='https://cfsport.sharepoint.com/sites/external-documents/Documents%20partages/Forms/AllItems.aspx?viewid=760966eb%2Dfd6c%2D4900%2Da03e%2Dddcc28dbda2e&ga=1&id=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2026%20%2D%202027%2FBruxelles%2FJette%20%2D%20Van%20Helmont%2Epdf&parent=%2Fsites%2Fexternal%2Ddocuments%2FDocuments%20partages%2FActivit%C3%A9s%20parascolaires%2F2026%20%2D%202027%2FBruxelles' couleur="info" autre_page=true texte="Mon dépliant 2026-2027" %}
 
 {% include utils/button.html lien='/files/jette-2023-2024-v1/index.html' couleur="info" autre_page=true texte="Projet pédagogique" %}
 
