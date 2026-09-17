@@ -2,7 +2,7 @@
 layout: post
 menu: false
 title: Moniteurs(trices) Extrascolaire Brabant Wallon
-online: false
+online: true
 banner: "/assets/images/moniteur-brabant.png"
 description: Le CFS recrute ! Recherche animateurs(trices) pour ses activités extrascolaires
 image: "/assets/images/moniteur-brabant.png"
