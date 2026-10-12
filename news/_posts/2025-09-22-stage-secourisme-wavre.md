@@ -27,7 +27,7 @@ image: "/assets/images/secourisme.png"
 Pendant une semaine, un infirmier urgentiste initiera votre enfant aux gestes essentiels de premiers secours : réanimation cardiaque, gestion des hémorragies, prévention face aux stupéfiants et à l’alcool, prise en charge des malaises ... et bien plus encore ! 🚨 Et ce n'est pas tout : les enfants auront la chance exceptionnelle de découvrir une véritable ambulance et de plonger dans l’univers passionnant de la médecine d’urgence 🚑 A la fin du stage, après évaluation, les enfants obtiennent le Diplôme de Secouriste 📜 Chaque journée est complétée par la pratique d'activités multisports telles que : baseball, unihoc, ball bouncer, etc. ⚾
 <br><br>
 
-📆 Du 27 au 31 octobre
+
 <br><br>
 📍Centre Sportif de Wavre
 <br><br>
